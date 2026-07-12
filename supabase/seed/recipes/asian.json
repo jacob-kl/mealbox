@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Ginger Soy Salmon with Broccoli & Rice",
+    "cuisine": "asian",
+    "meal_type": "dinner",
+    "tags": ["fish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
+      { "ingredient": "Brown rice (dry)", "qty": 60, "note": "" },
+      { "ingredient": "Broccoli florets", "qty": 120, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tbsp, minced" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" },
+      { "ingredient": "Honey", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Whisk soy sauce, ginger, sesame oil, and honey. Marinate salmon 10 min.",
+      "Bake salmon at 400F for 12-15 min, steam or roast broccoli alongside.",
+      "Serve salmon and broccoli over rice, drizzled with any remaining glaze."
+    ]
+  },
+  {
+    "name": "Chicken & Vegetable Stir-Fry",
+    "cuisine": "asian",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "sliced thin" },
+      { "ingredient": "Broccoli florets", "qty": 100, "note": "" },
+      { "ingredient": "Carrot", "qty": 60, "note": "sliced" },
+      { "ingredient": "Snap peas", "qty": 60, "note": "" },
+      { "ingredient": "Brown rice (dry)", "qty": 55, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tbsp, minced" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Stir-fry chicken over high heat until nearly cooked through, 4-5 min.",
+      "Add vegetables and stir-fry 3-4 min more until crisp-tender.",
+      "Toss with soy sauce, ginger, and sesame oil. Serve over rice."
+    ]
+  },
+  {
+    "name": "Peanut Tofu Rice Noodle Bowl",
+    "cuisine": "asian",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Tofu (firm)", "qty": 150, "note": "cubed" },
+      { "ingredient": "Rice noodles (dry)", "qty": 60, "note": "" },
+      { "ingredient": "Carrot", "qty": 60, "note": "julienned" },
+      { "ingredient": "Snap peas", "qty": 60, "note": "" },
+      { "ingredient": "Peanut butter", "qty": 1, "note": "tbsp, for sauce" },
+      { "ingredient": "Soy sauce", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" }
+    ],
+    "steps": [
+      "Cook rice noodles per package directions and rinse under cold water.",
+      "Pan-sear tofu cubes until golden on most sides, about 6-8 min.",
+      "Whisk peanut butter, soy sauce, lime juice, and ginger with a splash of warm water for the sauce.",
+      "Toss noodles, tofu, and vegetables with the sauce."
+    ]
+  },
+  {
+    "name": "Shrimp Fried Rice",
+    "cuisine": "asian",
+    "meal_type": "dinner",
+    "tags": ["shellfish", "leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
+      { "ingredient": "Brown rice (dry)", "qty": 60, "note": "cooked and cooled, ideally day-old" },
+      { "ingredient": "Frozen peas", "qty": 60, "note": "" },
+      { "ingredient": "Carrot", "qty": 50, "note": "diced" },
+      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Scramble the egg in a hot wok or skillet, then set aside.",
+      "Stir-fry shrimp until pink, about 2 min per side, then set aside.",
+      "Stir-fry rice, peas, and carrot until heated through, breaking up clumps.",
+      "Return egg and shrimp to the pan, add soy sauce and sesame oil, toss to combine."
+    ]
+  },
+  {
+    "name": "Sesame Chicken & Edamame Jar",
+    "cuisine": "asian",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
+      { "ingredient": "Frozen edamame (shelled)", "qty": 80, "note": "cooked, cooled" },
+      { "ingredient": "Carrot", "qty": 60, "note": "shredded" },
+      { "ingredient": "Brown rice (dry)", "qty": 40, "note": "cooked and cooled" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
+      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp, keep separate" }
+    ],
+    "steps": [
+      "Layer dressing at the bottom of the jar, then rice, edamame, carrot, and chicken.",
+      "Shake to combine before eating."
+    ]
+  }
+]

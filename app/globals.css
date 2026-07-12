@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+html, body {
+  background-color: #FAF6EC;
+  color: #2B2A26;
+}
+
+body {
+  background-image:
+    linear-gradient(90deg, transparent 39px, #E4DCC8 39px, #E4DCC8 41px, transparent 41px),
+    repeating-linear-gradient(#FAF6EC 0px, #FAF6EC 27px, #EFE9D8 28px);
+  background-attachment: local;
+  background-size: 100% 100%, 100% 28px;
+}
+
+/* Recipe-card signature: a punched tab at the top of primary cards */
+.index-card {
+  position: relative;
+  background: #FFFDF7;
+  border: 1px solid #E4DCC8;
+  border-radius: 10px;
+  box-shadow: 0 1px 2px rgba(43,42,38,0.06), 0 6px 16px rgba(43,42,38,0.08);
+}
+
+.index-card::before {
+  content: '';
+  position: absolute;
+  top: -7px;
+  left: 22px;
+  width: 14px;
+  height: 14px;
+  background: #FAF6EC;
+  border: 1px solid #E4DCC8;
+  border-radius: 999px;
+}
+
+.tab-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+::selection {
+  background: #D9A441;
+  color: #2B2A26;
+}

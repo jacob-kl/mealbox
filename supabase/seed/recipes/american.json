@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Turkey Chili",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": ["leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground turkey 85/15", "qty": 150, "note": "" },
+      { "ingredient": "Black beans", "qty": 120, "note": "drained" },
+      { "ingredient": "Diced tomatoes (canned)", "qty": 120, "note": "" },
+      { "ingredient": "Yellow onion", "qty": 50, "note": "diced" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup, for topping" }
+    ],
+    "steps": [
+      "Brown turkey with onion and pepper, about 6-8 min.",
+      "Add beans, tomatoes, and chili spices. Simmer 20 min.",
+      "Top with shredded cheddar to serve."
+    ]
+  },
+  {
+    "name": "Baked Cod with Sweet Potato & Broccoli",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": ["fish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen cod", "qty": 170, "note": "" },
+      { "ingredient": "Sweet potato", "qty": 150, "note": "" },
+      { "ingredient": "Broccoli florets", "qty": 120, "note": "" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Roast cubed sweet potato at 400F for 20-25 min, tossing halfway.",
+      "Season cod and bake alongside for the last 12-15 min until it flakes easily.",
+      "Steam or roast broccoli. Plate together."
+    ]
+  },
+  {
+    "name": "Steak & Roasted Vegetables",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Flank/sirloin steak", "qty": 170, "note": "" },
+      { "ingredient": "Sweet potato", "qty": 130, "note": "cubed" },
+      { "ingredient": "Zucchini", "qty": 100, "note": "sliced" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Roast sweet potato and zucchini at 400F, about 20 min.",
+      "Sear steak 3-4 min per side to medium, rest 5 min before slicing.",
+      "Plate steak with the roasted vegetables."
+    ]
+  },
+  {
+    "name": "Turkey Meatballs with Whole Wheat Spaghetti",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground turkey 93/7", "qty": 150, "note": "" },
+      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Eggs (large)", "qty": 0.5, "note": "" },
+      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 65, "note": "" },
+      { "ingredient": "Signature Select pasta sauce", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Parmesan cheese (grated)", "qty": 2, "note": "tbsp" }
+    ],
+    "steps": [
+      "Mix turkey with breadcrumbs and egg, form into meatballs, bake at 400F for 18-20 min.",
+      "Cook spaghetti per package directions.",
+      "Warm pasta sauce, add meatballs to simmer 5 min.",
+      "Serve over spaghetti with parmesan."
+    ]
+  },
+  {
+    "name": "Grilled Chicken with Quinoa & Zucchini",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
+      { "ingredient": "Quinoa (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Zucchini", "qty": 120, "note": "sliced" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Cook quinoa per package directions.",
+      "Season chicken and grill or pan-sear 5-6 min per side until cooked through.",
+      "Saute or roast zucchini until tender.",
+      "Slice chicken and plate over quinoa with zucchini."
+    ]
+  },
+  {
+    "name": "Cottage Cheese & Fruit Bowl",
+    "cuisine": "american",
+    "meal_type": "breakfast",
+    "tags": ["vegetarian", "no-cook", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Cottage cheese 2%", "qty": 1, "note": "cup" },
+      { "ingredient": "Frozen mixed berries", "qty": 0.75, "note": "cup, thawed" },
+      { "ingredient": "Almonds", "qty": 15, "note": "g" },
+      { "ingredient": "Honey", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Spoon cottage cheese into a bowl.",
+      "Top with berries, almonds, and a drizzle of honey."
+    ]
+  },
+  {
+    "name": "Turkey & Cheddar Grain Bowl",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground turkey 93/7", "qty": 140, "note": "cooked, cooled" },
+      { "ingredient": "Quinoa (dry)", "qty": 40, "note": "cooked and cooled" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
+      { "ingredient": "Zucchini", "qty": 60, "note": "diced" }
+    ],
+    "steps": [
+      "Combine cooled quinoa, turkey, cheese, and vegetables in a jar or container.",
+      "Refrigerate; eat cold or reheated."
+    ]
+  }
+]

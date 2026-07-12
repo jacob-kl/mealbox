@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Chicken Tikka Masala with Basmati Rice",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "cubed" },
+      { "ingredient": "Tikka masala simmer sauce", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Homemade garlic naan", "qty": 1, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Sear chicken cubes until browned, about 5 min.",
+      "Add tikka masala sauce, simmer 8-10 min until chicken is cooked through.",
+      "Serve over rice with warm naan."
+    ]
+  },
+  {
+    "name": "Masala Egg Bhurji with Besan Chilla",
+    "cuisine": "indian",
+    "meal_type": "breakfast",
+    "tags": ["vegetarian", "breakfast-for-dinner"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Eggs (large)", "qty": 2, "note": "" },
+      { "ingredient": "Liquid egg whites", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Yellow onion", "qty": 40, "note": "diced" },
+      { "ingredient": "Bell pepper", "qty": 50, "note": "diced" },
+      { "ingredient": "Chickpea flour (besan)", "qty": 40, "note": "for the chilla batter" },
+      { "ingredient": "Spices (garam masala/turmeric/cumin/coriander)", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Whisk besan with water and a pinch of salt into a thin batter; cook like a savory crepe in a lightly oiled pan.",
+      "Saute onion and pepper with garam masala, turmeric, and cumin until soft.",
+      "Add whisked eggs and egg whites, scramble until just set.",
+      "Serve the bhurji alongside the besan chilla."
+    ]
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Paneer", "qty": 140, "note": "cubed" },
+      { "ingredient": "Tikka masala simmer sauce", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "sliced" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Pan-sear paneer cubes until golden on a couple sides, about 4 min.",
+      "Add bell pepper and tikka masala sauce, simmer 6-8 min.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Coconut Curry Shrimp",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "tags": ["shellfish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
+      { "ingredient": "Light coconut milk (canned)", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Curry powder", "qty": 1.5, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Baby spinach", "qty": 60, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Simmer coconut milk with curry powder for 2-3 min to bloom the spices.",
+      "Add shrimp and spinach, simmer 4-5 min until shrimp is pink and spinach wilts.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Chana Masala Bowl",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Garbanzo beans", "qty": 200, "note": "drained" },
+      { "ingredient": "Diced tomatoes (canned)", "qty": 100, "note": "" },
+      { "ingredient": "Yellow onion", "qty": 50, "note": "diced" },
+      { "ingredient": "Spices (garam masala/turmeric/cumin/coriander)", "qty": 1.5, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Homemade garlic naan", "qty": 1, "note": "" }
+    ],
+    "steps": [
+      "Saute onion until soft, add spices and cook 30 seconds until fragrant.",
+      "Add chickpeas and tomatoes, simmer 12-15 min until thickened.",
+      "Serve over rice with naan."
+    ]
+  }
+]

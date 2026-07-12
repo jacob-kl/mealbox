@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Chicken & Black Bean Burrito Bowl",
+    "cuisine": "mexican",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "diced, cooked" },
+      { "ingredient": "Black beans", "qty": 120, "note": "drained" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Bell pepper", "qty": 70, "note": "sliced" },
+      { "ingredient": "Yellow onion", "qty": 40, "note": "sliced" },
+      { "ingredient": "Salsa", "qty": 4, "note": "tbsp" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Avocado", "qty": 0.5, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Saute bell pepper and onion until soft, then add cooked chicken to warm through.",
+      "Build bowls with rice, beans, chicken and veg, salsa, cheese, and avocado."
+    ]
+  },
+  {
+    "name": "Ground Turkey Tacos",
+    "cuisine": "mexican",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground turkey 93/7", "qty": 150, "note": "" },
+      { "ingredient": "Corn tortilla (small)", "qty": 3, "note": "" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Salsa", "qty": 4, "note": "tbsp" },
+      { "ingredient": "Cilantro", "qty": 0.25, "note": "cup, chopped" },
+      { "ingredient": "Avocado", "qty": 0.5, "note": "" },
+      { "ingredient": "Spices (cumin/paprika/garlic powder/salt)", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Brown ground turkey with taco spices, about 6-8 min.",
+      "Warm tortillas.",
+      "Fill with turkey, cheese, salsa, cilantro, and avocado."
+    ]
+  },
+  {
+    "name": "Steak Fajita Bowl",
+    "cuisine": "mexican",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Flank/sirloin steak", "qty": 150, "note": "sliced" },
+      { "ingredient": "Bell pepper", "qty": 100, "note": "sliced" },
+      { "ingredient": "Yellow onion", "qty": 50, "note": "sliced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Salsa", "qty": 4, "note": "tbsp" },
+      { "ingredient": "Avocado", "qty": 0.5, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Sear steak strips hot and fast, 2-3 min per side, rest and slice.",
+      "Saute peppers and onion until charred at the edges.",
+      "Build bowls with rice, steak, peppers, salsa, and avocado."
+    ]
+  },
+  {
+    "name": "Black Bean & Cheese Quesadillas",
+    "cuisine": "mexican",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Whole wheat tortilla (large)", "qty": 2, "note": "" },
+      { "ingredient": "Black beans", "qty": 120, "note": "drained, mashed" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
+      { "ingredient": "Salsa", "qty": 4, "note": "tbsp, for serving" }
+    ],
+    "steps": [
+      "Spread mashed black beans, cheese, and bell pepper on a tortilla, top with the second.",
+      "Cook in a dry skillet 3-4 min per side until golden and the cheese melts.",
+      "Slice into wedges and serve with salsa."
+    ]
+  },
+  {
+    "name": "Shrimp & Pinto Bean Tostadas",
+    "cuisine": "mexican",
+    "meal_type": "dinner",
+    "tags": ["shellfish", "leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
+      { "ingredient": "Pinto beans", "qty": 100, "note": "drained, warmed" },
+      { "ingredient": "Corn tortilla (small)", "qty": 3, "note": "toasted flat" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Salsa", "qty": 4, "note": "tbsp" },
+      { "ingredient": "Avocado", "qty": 0.5, "note": "" }
+    ],
+    "steps": [
+      "Toast tortillas in a dry skillet or 400F oven until crisp, about 5 min.",
+      "Season and saute shrimp 1-2 min per side until pink.",
+      "Layer beans, shrimp, cheese, salsa, and avocado on the crisp tortillas."
+    ]
+  },
+  {
+    "name": "Southwest Chicken & Bean Jar",
+    "cuisine": "mexican",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
+      { "ingredient": "Black beans", "qty": 100, "note": "drained" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 35, "note": "cooked and cooled" },
+      { "ingredient": "Salsa", "qty": 3, "note": "tbsp, keep separate" }
+    ],
+    "steps": [
+      "Layer salsa on the bottom of a jar, then rice, beans, pepper, and chicken.",
+      "Shake to combine before eating."
+    ]
+  }
+]
