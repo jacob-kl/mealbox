@@ -4,7 +4,7 @@ import { NavBar } from '@/components/ui';
 import WeightTracker from '@/components/WeightTracker';
 
 export default async function WeightPage() {
-  const supabase = createClient();
+  const supabase = await createClient();
   const {
     data: { user },
   } = await supabase.auth.getUser();

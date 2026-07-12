@@ -5,7 +5,7 @@ import { calculateTargets, shouldRecalculate } from '@/lib/macros';
 const RECALC_THRESHOLD_LB = 5;
 
 export async function POST(request) {
-  const supabase = createClient();
+  const supabase = await createClient();
   const {
     data: { user },
   } = await supabase.auth.getUser();

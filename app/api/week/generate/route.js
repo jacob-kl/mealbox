@@ -3,7 +3,7 @@ import { createClient } from '@/lib/supabase/server';
 import { generateWeek, DEFAULT_STRUCTURE_RULES } from '@/lib/weekBuilder';
 
 export async function POST(request) {
-  const supabase = createClient();
+  const supabase = await createClient();
   const {
     data: { user },
   } = await supabase.auth.getUser();

@@ -4,7 +4,7 @@ import { NavBar } from '@/components/ui';
 import SettingsForm from '@/components/SettingsForm';
 
 export default async function SettingsPage() {
-  const supabase = createClient();
+  const supabase = await createClient();
   const {
     data: { user },
   } = await supabase.auth.getUser();

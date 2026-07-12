@@ -4,7 +4,7 @@ import { NavBar } from '@/components/ui';
 import RecipeBrowser from '@/components/RecipeBrowser';
 
 export default async function RecipesPage() {
-  const supabase = createClient();
+  const supabase = await createClient();
   const {
     data: { user },
   } = await supabase.auth.getUser();
