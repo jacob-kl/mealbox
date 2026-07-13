@@ -36,7 +36,7 @@ export default async function ShoppingPage({ searchParams }) {
 
     const { data: checkRows } = await supabase
       .from('shopping_list_checks')
-      .select('ingredient_name, checked')
+      .select('ingredient_name, checked, checked_count')
       .eq('week_plan_id', weekPlan.id);
     checks = checkRows || [];
   }

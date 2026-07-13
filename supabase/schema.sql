@@ -363,10 +363,13 @@ create table if not exists shopping_list_checks (
   week_plan_id uuid not null references week_plans(id) on delete cascade,
   ingredient_name text not null,
   checked boolean not null default true,
+  checked_count int not null default 0,
   checked_by uuid references profiles(id),
   checked_at timestamptz not null default now(),
   unique(week_plan_id, ingredient_name)
 );
+
+alter table shopping_list_checks add column if not exists checked_count int not null default 0;
 
 alter table shopping_list_checks enable row level security;
 

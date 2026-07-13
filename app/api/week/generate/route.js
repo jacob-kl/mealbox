@@ -33,7 +33,7 @@ export async function POST(request) {
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g')
+    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g')
     .eq('household_id', householdId);
 
   const { data: recipePool } = await supabase
@@ -69,6 +69,7 @@ export async function POST(request) {
     id: m.id,
     targetCalories: m.target_calories || 2000,
     targetProteinG: m.target_protein_g ?? null,
+    targetCarbsG: m.target_carbs_g ?? null,
   }));
 
   const meals = generateWeek({

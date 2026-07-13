@@ -7,24 +7,8 @@ import { createClient } from '@/lib/supabase/client';
 import { Card } from '@/components/ui';
 import PackCircle from '@/components/PackCircle';
 import { addDays } from '@/lib/dates';
-import { buildShoppingList } from '@/lib/shoppingList';
+import { buildShoppingList, CATEGORY_ORDER } from '@/lib/shoppingList';
 import { formatQty } from '@/lib/nutrition';
-
-function ItemLabel({ item }) {
-  if (item.packCount) {
-    return (
-      <span className="text-sm flex items-center gap-2">
-        <PackCircle count={item.packCount} />
-        {item.ingredient} <span className="text-ink/50">({item.packLabel})</span>
-      </span>
-    );
-  }
-  return (
-    <span className="text-sm">
-      <span className="font-mono text-ink/70">{formatQty(item.qty, item.unit)}</span> {item.ingredient}
-    </span>
-  );
-}
 
 export default function ShoppingList({ weekStart, weekPlanId, meals, checks }) {
   const supabase = createClient();
@@ -32,35 +16,56 @@ export default function ShoppingList({ weekStart, weekPlanId, meals, checks }) {
   const [busy, setBusy] = useState(null);
 
   const list = useMemo(() => buildShoppingList(meals), [meals]);
-  const checkedSet = useMemo(
-    () => new Set(checks.filter((c) => c.checked).map((c) => c.ingredient_name)),
-    [checks]
-  );
 
-  async function toggle(ingredientName) {
-    if (!weekPlanId) return;
+  const checkMap = useMemo(() => {
+    const map = {};
+    for (const c of checks) map[c.ingredient_name] = c;
+    return map;
+  }, [checks]);
+
+  function isDone(item) {
+    const check = checkMap[item.ingredient];
+    if (!check) return false;
+    if (item.packCount) return (check.checked_count || 0) >= item.packCount;
+    return !!check.checked;
+  }
+
+  async function saveCheck(ingredientName, patch) {
     setBusy(ingredientName);
-    const nowChecked = !checkedSet.has(ingredientName);
-
     const {
       data: { user },
     } = await supabase.auth.getUser();
-
     await supabase.from('shopping_list_checks').upsert(
-      {
-        week_plan_id: weekPlanId,
-        ingredient_name: ingredientName,
-        checked: nowChecked,
-        checked_by: user.id,
-      },
+      { week_plan_id: weekPlanId, ingredient_name: ingredientName, checked_by: user.id, ...patch },
       { onConflict: 'week_plan_id,ingredient_name' }
     );
     setBusy(null);
     router.refresh();
   }
 
-  const remaining = list.filter((i) => !checkedSet.has(i.ingredient));
-  const done = list.filter((i) => checkedSet.has(i.ingredient));
+  async function togglePlain(item) {
+    if (!weekPlanId) return;
+    await saveCheck(item.ingredient, { checked: !isDone(item) });
+  }
+
+  async function incrementPack(item) {
+    if (!weekPlanId) return;
+    const current = checkMap[item.ingredient]?.checked_count || 0;
+    // Click through 0 -> 1 -> ... -> total, then wraps back to 0.
+    const next = current >= item.packCount ? 0 : current + 1;
+    await saveCheck(item.ingredient, { checked_count: next, checked: next >= item.packCount });
+  }
+
+  const grouped = useMemo(() => {
+    const byCategory = {};
+    for (const item of list) {
+      byCategory[item.category] = byCategory[item.category] || [];
+      byCategory[item.category].push(item);
+    }
+    return byCategory;
+  }, [list]);
+
+  const remainingCount = list.filter((i) => !isDone(i)).length;
 
   return (
     <div>
@@ -92,47 +97,52 @@ export default function ShoppingList({ weekStart, weekPlanId, meals, checks }) {
           <p className="text-ink/70">Nothing planned that needs shopping for.</p>
         </Card>
       ) : (
-        <div className="space-y-4">
-          <Card>
-            <p className="tab-label text-ink/50 mb-3">To buy ({remaining.length})</p>
-            <div className="space-y-1">
-              {remaining.map((item) => (
-                <label key={item.ingredient} className="flex items-center gap-3 py-1.5 cursor-pointer">
-                  <input
-                    type="checkbox"
-                    checked={false}
-                    disabled={busy === item.ingredient}
-                    onChange={() => toggle(item.ingredient)}
-                    className="w-5 h-5 accent-pine"
-                  />
-                  <ItemLabel item={item} />
-                </label>
-              ))}
-              {remaining.length === 0 && <p className="text-sm text-ink/50 italic">Everything&apos;s checked off.</p>}
-            </div>
-          </Card>
-
-          {done.length > 0 && (
-            <Card>
-              <p className="tab-label text-ink/50 mb-3">Got it ({done.length})</p>
+        <div className="space-y-6">
+          <p className="text-sm text-ink/50">{remainingCount} item{remainingCount === 1 ? '' : 's'} left to get</p>
+          {CATEGORY_ORDER.filter((cat) => grouped[cat]?.length).map((category) => (
+            <Card key={category}>
+              <p className="tab-label text-rust mb-3">{category}</p>
               <div className="space-y-1">
-                {done.map((item) => (
-                  <label key={item.ingredient} className="flex items-center gap-3 py-1.5 cursor-pointer opacity-50">
-                    <input
-                      type="checkbox"
-                      checked={true}
-                      disabled={busy === item.ingredient}
-                      onChange={() => toggle(item.ingredient)}
-                      className="w-5 h-5 accent-pine"
-                    />
-                    <span className="line-through">
-                      <ItemLabel item={item} />
-                    </span>
-                  </label>
-                ))}
+                {grouped[category].map((item) => {
+                  const done = isDone(item);
+                  return (
+                    <div
+                      key={item.ingredient}
+                      className={`flex items-center gap-3 py-1.5 ${done ? 'opacity-50' : ''}`}
+                    >
+                      {item.packCount ? (
+                        <PackCircle
+                          filled={Math.min(checkMap[item.ingredient]?.checked_count || 0, item.packCount)}
+                          total={item.packCount}
+                          onClick={() => incrementPack(item)}
+                        />
+                      ) : (
+                        <input
+                          type="checkbox"
+                          checked={done}
+                          disabled={busy === item.ingredient}
+                          onChange={() => togglePlain(item)}
+                          className="w-5 h-5 accent-pine cursor-pointer"
+                        />
+                      )}
+                      <span className={`text-sm ${done ? 'line-through' : ''}`}>
+                        {item.packCount ? (
+                          <>
+                            {item.ingredient} <span className="text-ink/50">({item.packLabel})</span>
+                          </>
+                        ) : (
+                          <>
+                            <span className="font-mono text-ink/70">{formatQty(item.qty, item.unit)}</span>{' '}
+                            {item.ingredient}
+                          </>
+                        )}
+                      </span>
+                    </div>
+                  );
+                })}
               </div>
             </Card>
-          )}
+          ))}
         </div>
       )}
     </div>
