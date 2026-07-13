@@ -290,7 +290,9 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                     )}
                   </button>
                 </div>
-                {expanded && <RecipeDetail recipe={effectiveRecipe(meal)} />}
+                {expanded && (
+                  <RecipeDetail recipe={effectiveRecipe(meal)} weekPlanMealId={meal.id} ingredientCatalog={ingredientCatalog} />
+                )}
               </Card>
             );
           })}

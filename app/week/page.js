@@ -46,6 +46,11 @@ export default async function WeekPage({ searchParams }) {
     meals = mealRows || [];
   }
 
+  const { data: ingredientCatalog } = await supabase
+    .from('ingredients')
+    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit')
+    .order('name');
+
   return (
     <>
       <NavBar active="/week" />
@@ -57,6 +62,7 @@ export default async function WeekPage({ searchParams }) {
           household={household}
           members={members || []}
           meals={meals}
+          ingredientCatalog={ingredientCatalog || []}
         />
       </main>
     </>

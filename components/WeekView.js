@@ -45,6 +45,49 @@ function effectiveRecipe(meal) {
   return { ...meal.recipe, ingredients: meal.ingredients_override };
 }
 
+/** Sums every meal that day into a per-member total — shared meals
+ * (dinner/breakfast, possibly split into main+side) each contribute that
+ * member's portion; individual meals (lunch/snacks) contribute only to the
+ * member they belong to. */
+function computeDayTotals(dayMeals, members) {
+  const totals = {};
+  for (const m of members) totals[m.id] = { cal: 0, protein: 0, carbs: 0, fat: 0 };
+
+  for (const meal of dayMeals) {
+    const base = meal.computed_macros || meal.recipe?.macros_per_serving;
+    if (!base) continue;
+
+    if (meal.profile_id === null) {
+      for (const portion of meal.portions || []) {
+        const t = totals[portion.profileId];
+        if (!t) continue;
+        t.cal += base.cal * portion.servings;
+        t.protein += base.protein * portion.servings;
+        t.carbs += base.carbs * portion.servings;
+        t.fat += base.fat * portion.servings;
+      }
+    } else {
+      const t = totals[meal.profile_id];
+      if (!t) continue;
+      const servings = meal.servings ?? 1;
+      t.cal += base.cal * servings;
+      t.protein += base.protein * servings;
+      t.carbs += base.carbs * servings;
+      t.fat += base.fat * servings;
+    }
+  }
+
+  for (const id of Object.keys(totals)) {
+    totals[id] = {
+      cal: Math.round(totals[id].cal),
+      protein: Math.round(totals[id].protein),
+      carbs: Math.round(totals[id].carbs),
+      fat: Math.round(totals[id].fat),
+    };
+  }
+  return totals;
+}
+
 function MacroLine({ macros, memberColor, memberName }) {
   if (!macros) return null;
   return (
@@ -61,7 +104,7 @@ function MacroLine({ macros, memberColor, memberName }) {
   );
 }
 
-export default function WeekView({ weekStart, weekPlanId, cuisineFocus, household, members, meals }) {
+export default function WeekView({ weekStart, weekPlanId, cuisineFocus, household, members, meals, ingredientCatalog = [] }) {
   const router = useRouter();
   const supabase = createClient();
   const [loading, setLoading] = useState(false);
@@ -171,10 +214,25 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
             const lunches = dayMeals.filter((m) => m.meal_slot === 'lunch' && m.profile_id);
             const snacks = dayMeals.filter((m) => m.meal_slot.startsWith('snack'));
             const lunchStrategy = lunchPlan[dayIndex] || 'batch';
+            const dayTotals = computeDayTotals(dayMeals, members);
 
             return (
               <Card key={dayIndex}>
-                <p className="tab-label text-ink/50 mb-2">{dayLabel(weekStart, dayIndex)}</p>
+                <div className="flex items-start justify-between gap-3 mb-2">
+                  <p className="tab-label text-ink/50">{dayLabel(weekStart, dayIndex)}</p>
+                  <div className="text-right">
+                    {members.map((member) => {
+                      const t = dayTotals[member.id];
+                      if (!t || !t.cal) return null;
+                      return (
+                        <p key={member.id} className="font-mono text-xs text-ink/60 flex items-center justify-end gap-1.5">
+                          <span className="w-2 h-2 rounded-full inline-block" style={{ backgroundColor: member.color }} />
+                          {t.cal} cal · {t.protein}p · {t.carbs}c · {t.fat}f
+                        </p>
+                      );
+                    })}
+                  </div>
+                </div>
 
                 {sharedMeals.length === 0 && lunches.length === 0 && (
                   <p className="text-sm text-ink/50 italic">Nothing planned this day.</p>
@@ -218,7 +276,9 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                             />
                           ))}
                         </div>
-                        {expandedId === shared.id && <RecipeDetail recipe={effectiveRecipe(shared)} />}
+                        {expandedId === shared.id && (
+                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} />
+                        )}
                       </>
                     ) : (
                       <p className="text-sm text-ink/50 italic">No recipe matched — try Rebuild, or loosen filters in Settings.</p>
@@ -271,7 +331,9 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                               {swapping === `${dayIndex}-lunch-${lunch.profile_id}` ? 'Swapping…' : 'Swap'}
                             </button>
                           </div>
-                          {isExpanded && <RecipeDetail recipe={effectiveRecipe(lunch)} />}
+                          {isExpanded && (
+                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} />
+                          )}
                         </div>
                       );
                     })}
@@ -313,7 +375,9 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                               {swapping === `${dayIndex}-${snack.meal_slot}-${snack.profile_id}` ? 'Swapping…' : 'Swap'}
                             </button>
                           </div>
-                          {isExpanded && <RecipeDetail recipe={effectiveRecipe(snack)} />}
+                          {isExpanded && (
+                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} />
+                          )}
                         </div>
                       );
                     })}

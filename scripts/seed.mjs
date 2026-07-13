@@ -69,22 +69,38 @@ async function seedIngredients() {
   return ingredients;
 }
 
+/**
+ * Global recipes are fully defined by the seed files, but re-running this
+ * script must NEVER give an unchanged recipe a new id — any week plan that
+ * already references it (week_plan_meals.recipe_id) would have that
+ * reference silently nulled out (ON DELETE SET NULL), which is exactly what
+ * "my plan clears out every time I push an update" was. So: update existing
+ * recipes in place by name, only INSERT ones that are genuinely new, and
+ * only DELETE ones that were actually removed from the seed files.
+ */
 async function seedRecipes(ingredients) {
   const ingredientsByName = Object.fromEntries(ingredients.map((i) => [i.name, i]));
   const recipesDir = path.join(SEED_DIR, 'recipes');
   const files = (await readdir(recipesDir)).filter((f) => f.endsWith('.json'));
 
-  // Global recipes (household_id null) are fully defined by the seed files —
-  // clear them first so re-running this script is safe and never duplicates.
-  const { error: clearError } = await supabase.from('recipes').delete().is('household_id', null);
-  if (clearError) throw new Error(`Clearing existing global recipes failed: ${clearError.message}`);
+  const { data: existing, error: fetchError } = await supabase
+    .from('recipes')
+    .select('id, name')
+    .is('household_id', null);
+  if (fetchError) throw new Error(`Fetching existing global recipes failed: ${fetchError.message}`);
+  const existingIdByName = new Map((existing || []).map((r) => [r.name, r.id]));
+  const seenNames = new Set();
 
-  let total = 0;
+  let updated = 0;
+  let inserted = 0;
+
   for (const file of files) {
     const raw = await readFile(path.join(recipesDir, file), 'utf-8');
     const recipes = JSON.parse(raw);
+    let fileCount = 0;
 
-    const rows = recipes.map((r) => {
+    for (const r of recipes) {
+      seenNames.add(r.name);
       let macros;
       try {
         macros = computeRecipeMacros(r.ingredients, ingredientsByName, r.base_servings || 1);
@@ -95,7 +111,7 @@ async function seedRecipes(ingredients) {
         ...line,
         unit: ingredientsByName[line.ingredient]?.serving_unit || null,
       }));
-      return {
+      const row = {
         household_id: null, // global/shared recipe
         name: r.name,
         cuisine: r.cuisine,
@@ -107,16 +123,33 @@ async function seedRecipes(ingredients) {
         steps: r.steps || [],
         macros_per_serving: macros,
       };
-    });
 
-    const { error } = await supabase.from('recipes').insert(rows);
-    if (error) throw new Error(`Seeding recipes from ${file} failed: ${error.message}`);
+      const existingId = existingIdByName.get(r.name);
+      if (existingId) {
+        const { error } = await supabase.from('recipes').update(row).eq('id', existingId);
+        if (error) throw new Error(`Updating "${r.name}" failed: ${error.message}`);
+        updated++;
+      } else {
+        const { error } = await supabase.from('recipes').insert(row);
+        if (error) throw new Error(`Inserting "${r.name}" failed: ${error.message}`);
+        inserted++;
+      }
+      fileCount++;
+    }
 
-    total += rows.length;
-    console.log(`  ${file}: ${rows.length} recipes`);
+    console.log(`  ${file}: ${fileCount} recipes`);
   }
 
-  console.log(`Seeded ${total} recipes total.`);
+  // Only remove recipes that were actually deleted from the seed files —
+  // anything still present, even if edited, keeps its id and every
+  // reference to it intact.
+  const toDelete = (existing || []).filter((r) => !seenNames.has(r.name)).map((r) => r.id);
+  if (toDelete.length) {
+    const { error } = await supabase.from('recipes').delete().in('id', toDelete);
+    if (error) throw new Error(`Removing retired recipes failed: ${error.message}`);
+  }
+
+  console.log(`Recipes: ${updated} updated in place, ${inserted} newly added, ${toDelete.length} removed.`);
 }
 
 async function main() {
@@ -126,8 +159,8 @@ async function main() {
   console.log('Seeding recipes...');
   await seedRecipes(ingredients);
 
-  console.log('Done. Global recipes are fully replaced on every run — household-specific');
-  console.log('custom recipes (household_id set) are untouched.');
+  console.log('Done. Existing recipes keep their id across reseeds now, so any week plan');
+  console.log('that references them stays intact — only genuinely new or removed recipes change.');
 }
 
 main().catch((err) => {
