@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
 import RecipeDetail from '@/components/RecipeDetail';
+import BarcodeScanner from '@/components/BarcodeScanner';
 import { recommendSupplements } from '@/lib/supplements';
 import { addDays, friendlyDate } from '@/lib/dates';
 
@@ -47,12 +48,14 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
   const supabase = createClient();
   const router = useRouter();
   const [showCustomForm, setShowCustomForm] = useState(false);
+  const [showScanner, setShowScanner] = useState(false);
   const [expandedId, setExpandedId] = useState(null);
   const [customName, setCustomName] = useState('');
   const [customCal, setCustomCal] = useState('');
   const [customProtein, setCustomProtein] = useState('');
   const [customCarbs, setCustomCarbs] = useState('');
   const [customFat, setCustomFat] = useState('');
+  const [scanNote, setScanNote] = useState(null);
   const [busy, setBusy] = useState(false);
 
   const suggestions = useMemo(() => {
@@ -155,6 +158,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
     setCustomProtein('');
     setCustomCarbs('');
     setCustomFat('');
+    setScanNote(null);
     setShowCustomForm(false);
     setBusy(false);
     router.refresh();
@@ -303,17 +307,28 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
           </div>
           {supplementSuggestions.map((recipe) => {
             const m = recipe.macros_per_serving;
+            const expanded = expandedId === `supp-${recipe.id}`;
             return (
-              <Card key={recipe.id} className="flex items-center justify-between gap-3">
-                <div>
-                  <p className="font-display text-base">{recipe.name}</p>
-                  <p className="font-mono text-xs text-ink/60">
-                    {Math.round(m.cal)} cal · {Math.round(m.protein)}p · {Math.round(m.carbs)}c · {Math.round(m.fat)}f
-                  </p>
+              <Card key={recipe.id}>
+                <div className="flex items-center justify-between gap-3">
+                  <button
+                    type="button"
+                    onClick={() => setExpandedId(expanded ? null : `supp-${recipe.id}`)}
+                    className="text-left flex-1"
+                  >
+                    <p className="font-display text-base">
+                      {recipe.name}
+                      <span className="text-xs text-pine ml-2">{expanded ? 'Hide recipe' : 'View recipe'}</span>
+                    </p>
+                    <p className="font-mono text-xs text-ink/60">
+                      {Math.round(m.cal)} cal · {Math.round(m.protein)}p · {Math.round(m.carbs)}c · {Math.round(m.fat)}f
+                    </p>
+                  </button>
+                  <Button variant="secondary" onClick={() => addSupplement(recipe)} disabled={busy}>
+                    + Add
+                  </Button>
                 </div>
-                <Button variant="secondary" onClick={() => addSupplement(recipe)} disabled={busy}>
-                  + Add
-                </Button>
+                {expanded && <RecipeDetail recipe={recipe} />}
               </Card>
             );
           })}
@@ -323,10 +338,36 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
       <div className="space-y-3">
         <div className="flex items-center justify-between">
           <p className="tab-label text-rust">Off-plan / custom</p>
-          <button onClick={() => setShowCustomForm((v) => !v)} className="text-sm text-pine hover:underline">
-            {showCustomForm ? 'Cancel' : '+ Add something'}
-          </button>
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => {
+                setShowScanner((v) => !v);
+                if (!showCustomForm) setShowCustomForm(true);
+              }}
+              className="text-sm text-pine hover:underline"
+            >
+              {showScanner ? 'Hide scanner' : '📷 Scan barcode'}
+            </button>
+            <button onClick={() => setShowCustomForm((v) => !v)} className="text-sm text-pine hover:underline">
+              {showCustomForm ? 'Cancel' : '+ Add something'}
+            </button>
+          </div>
         </div>
+
+        {showScanner && (
+          <BarcodeScanner
+            onFound={(result) => {
+              setCustomName(result.name);
+              setCustomCal(String(Math.round(result.cal)));
+              setCustomProtein(String(Math.round(result.protein)));
+              setCustomCarbs(String(Math.round(result.carbs)));
+              setCustomFat(String(Math.round(result.fat)));
+              setScanNote(result.note);
+              setShowScanner(false);
+            }}
+            onClose={() => setShowScanner(false)}
+          />
+        )}
 
         {showCustomForm && (
           <Card>
@@ -359,6 +400,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                   </div>
                 )}
               </div>
+              {scanNote && <p className="text-xs text-ink/70 bg-gold/15 rounded-card px-2 py-1">📷 {scanNote}</p>}
               <div className="grid grid-cols-4 gap-2">
                 <input
                   type="number"
