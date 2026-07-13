@@ -116,6 +116,7 @@ export async function POST(request) {
     excludeId: currentMeal?.recipe_id,
     calorieShare,
     ingredientsByName,
+    mealCaps: mealStructure.mealCaps || DEFAULT_MEAL_STRUCTURE.mealCaps,
   });
 
   const update = {

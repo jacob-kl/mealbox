@@ -225,6 +225,39 @@ export default function SettingsForm({ household, members }) {
         </div>
       </Card>
 
+      <Card>
+        <h2 className="font-display text-xl mb-1">Per-meal calorie limits</h2>
+        <p className="text-sm text-ink/60 mb-4">
+          Optional ceiling for each meal type — useful for a day where only one meal is planned
+          (like dinner-only when lunch is a team outing) so that one meal doesn&apos;t inherit the
+          whole day&apos;s calories. Leftover calories show up as Recommended supplements on the
+          Today tab instead. Leave blank for no limit.
+        </p>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+          {['breakfast', 'lunch', 'dinner', 'snack'].map((meal) => (
+            <div key={meal}>
+              <label className="text-sm text-ink/60 block mb-1 capitalize">{meal}</label>
+              <input
+                type="number"
+                min="0"
+                placeholder="No limit"
+                value={mealStructure.mealCaps?.[meal] ?? ''}
+                onChange={(e) =>
+                  setMealStructure((prev) => ({
+                    ...prev,
+                    mealCaps: {
+                      ...prev.mealCaps,
+                      [meal]: e.target.value === '' ? null : Number(e.target.value),
+                    },
+                  }))
+                }
+                className="w-full border border-line rounded-card px-3 py-2 bg-card text-sm"
+              />
+            </div>
+          ))}
+        </div>
+      </Card>
+
       <div className="flex items-center gap-3">
         <Button onClick={handleSave} disabled={saving}>
           {saving ? 'Saving…' : 'Save settings'}
