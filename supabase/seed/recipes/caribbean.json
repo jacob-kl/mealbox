@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Jerk Chicken with Rice and Plantain",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
+      { "ingredient": "Jerk seasoning", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Plantain", "qty": 100, "note": "sliced" },
+      { "ingredient": "Black beans", "qty": 100, "note": "drained" }
+    ],
+    "steps": [
+      "Coat chicken in jerk seasoning, bake at 400F for 20-22 min.",
+      "Cook rice, pan-fry plantain slices 2-3 min per side.",
+      "Serve chicken over rice and beans with plantain."
+    ]
+  },
+  {
+    "name": "Coconut Shrimp Curry",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "tags": ["shellfish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
+      { "ingredient": "Light coconut milk (canned)", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Allspice", "qty": 1, "note": "tsp" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "sliced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Simmer coconut milk with allspice 2 min.",
+      "Add shrimp and pepper, cook 5-6 min until shrimp is pink.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Jerk Pork with Black Beans",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "tags": ["leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Pork tenderloin", "qty": 150, "note": "" },
+      { "ingredient": "Jerk seasoning", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Black beans", "qty": 130, "note": "drained" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" }
+    ],
+    "steps": [
+      "Coat pork with jerk seasoning, bake at 400F for 18-20 min.",
+      "Cook rice, warm beans, slice pork and serve together."
+    ]
+  },
+  {
+    "name": "Caribbean Chicken & Plantain Jar",
+    "cuisine": "caribbean",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
+      { "ingredient": "Black beans", "qty": 100, "note": "drained" },
+      { "ingredient": "Plantain", "qty": 70, "note": "cooked, sliced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 35, "note": "cooked and cooled" }
+    ],
+    "steps": ["Layer rice, beans, chicken, and plantain in a container."]
+  }
+]

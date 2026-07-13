@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
+import RecipeDetail from '@/components/RecipeDetail';
 import { addDays, friendlyDate } from '@/lib/dates';
 
 const SLOT_LABELS = {
@@ -31,16 +32,57 @@ function macrosFor(meal, profileId) {
   };
 }
 
-export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan }) {
+export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan, recipeCatalog = [], ingredientCatalog = [] }) {
   const supabase = createClient();
   const router = useRouter();
   const [showCustomForm, setShowCustomForm] = useState(false);
+  const [expandedId, setExpandedId] = useState(null);
   const [customName, setCustomName] = useState('');
   const [customCal, setCustomCal] = useState('');
   const [customProtein, setCustomProtein] = useState('');
   const [customCarbs, setCustomCarbs] = useState('');
   const [customFat, setCustomFat] = useState('');
   const [busy, setBusy] = useState(false);
+
+  const suggestions = useMemo(() => {
+    const q = customName.trim().toLowerCase();
+    if (q.length < 2) return [];
+    const recipeMatches = recipeCatalog
+      .filter((r) => r.name.toLowerCase().includes(q))
+      .slice(0, 5)
+      .map((r) => ({
+        type: 'recipe',
+        key: `r-${r.id}`,
+        name: r.name,
+        detail: 'recipe, per serving',
+        cal: r.macros_per_serving?.cal ?? 0,
+        protein: r.macros_per_serving?.protein ?? 0,
+        carbs: r.macros_per_serving?.carbs ?? 0,
+        fat: r.macros_per_serving?.fat ?? 0,
+      }));
+    const ingredientMatches = ingredientCatalog
+      .filter((i) => i.name.toLowerCase().includes(q))
+      .slice(0, 5)
+      .map((i) => ({
+        type: 'ingredient',
+        key: `i-${i.name}`,
+        name: i.name,
+        detail: i.serving_label || `per ${i.serving_qty}${i.serving_unit || ''}`,
+        cal: i.cal ?? 0,
+        protein: i.protein ?? 0,
+        carbs: i.carbs ?? 0,
+        fat: i.fat ?? 0,
+      }));
+    return [...recipeMatches, ...ingredientMatches].slice(0, 8);
+  }, [customName, recipeCatalog, ingredientCatalog]);
+
+  function applySuggestion(s) {
+    setCustomName(s.name);
+    setCustomCal(String(Math.round(s.cal)));
+    setCustomProtein(String(Math.round(s.protein)));
+    setCustomCarbs(String(Math.round(s.carbs)));
+    setCustomFat(String(Math.round(s.fat)));
+  }
 
   const loggedByMealId = useMemo(() => {
     const map = {};
@@ -178,26 +220,39 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
           {plannedMeals.map((meal) => {
             const macros = macrosFor(meal, profile.id);
             const checked = !!loggedByMealId[meal.id];
+            const expanded = expandedId === meal.id;
             return (
               <Card key={meal.id} className={checked ? 'opacity-60' : ''}>
-                <label className="flex items-center gap-3 cursor-pointer">
+                <div className="flex items-center gap-3">
                   <input
                     type="checkbox"
                     checked={checked}
                     disabled={busy || !meal.recipe}
                     onChange={() => togglePlanned(meal)}
-                    className="w-5 h-5 accent-pine"
+                    className="w-5 h-5 accent-pine cursor-pointer shrink-0"
                   />
-                  <div className="flex-1">
-                    <p className="text-xs uppercase tab-label text-ink/40">{SLOT_LABELS[meal.meal_slot]}</p>
-                    <p className="font-display text-lg">{meal.recipe?.name || 'No recipe matched'}</p>
+                  <button
+                    type="button"
+                    onClick={() => meal.recipe && setExpandedId(expanded ? null : meal.id)}
+                    className="flex-1 text-left"
+                    disabled={!meal.recipe}
+                  >
+                    <p className="text-xs uppercase tab-label text-ink/40">
+                      {SLOT_LABELS[meal.meal_slot]}
+                      {meal.course === 'side' ? ' · Side' : ''}
+                    </p>
+                    <p className="font-display text-lg">
+                      {meal.recipe?.name || 'No recipe matched'}
+                      {meal.recipe && <span className="text-xs text-pine ml-2">{expanded ? 'Hide recipe' : 'View recipe'}</span>}
+                    </p>
                     {macros && (
                       <p className="font-mono text-xs text-ink/60">
                         {macros.cal} cal · {macros.protein}p · {macros.carbs}c · {macros.fat}f
                       </p>
                     )}
-                  </div>
-                </label>
+                  </button>
+                </div>
+                {expanded && <RecipeDetail recipe={meal.recipe} />}
               </Card>
             );
           })}
@@ -215,13 +270,34 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
         {showCustomForm && (
           <Card>
             <form onSubmit={addCustom} className="space-y-2">
-              <input
-                value={customName}
-                onChange={(e) => setCustomName(e.target.value)}
-                placeholder="What did you eat?"
-                required
-                className="w-full border border-line rounded-card px-3 py-2 bg-card text-sm outline-none focus:border-pine"
-              />
+              <div className="relative">
+                <input
+                  value={customName}
+                  onChange={(e) => setCustomName(e.target.value)}
+                  placeholder="What did you eat? (start typing to search recipes & ingredients)"
+                  required
+                  autoComplete="off"
+                  className="w-full border border-line rounded-card px-3 py-2 bg-card text-sm outline-none focus:border-pine"
+                />
+                {suggestions.length > 0 && (
+                  <div className="absolute z-10 left-0 right-0 mt-1 index-card p-1 max-h-56 overflow-y-auto">
+                    {suggestions.map((s) => (
+                      <button
+                        key={s.key}
+                        type="button"
+                        onClick={() => applySuggestion(s)}
+                        className="w-full text-left px-2 py-1.5 rounded-card hover:bg-paper text-sm flex items-center justify-between gap-2"
+                      >
+                        <span>
+                          {s.name}
+                          <span className="text-xs text-ink/40 ml-2">{s.detail}</span>
+                        </span>
+                        <span className="font-mono text-xs text-ink/50 shrink-0">{Math.round(s.cal)} cal</span>
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
               <div className="grid grid-cols-4 gap-2">
                 <input
                   type="number"

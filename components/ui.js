@@ -38,6 +38,7 @@ export function Button({ children, variant = 'primary', className = '', ...props
 const NAV_ITEMS = [
   { href: '/dashboard', label: 'Today' },
   { href: '/week', label: 'Week' },
+  { href: '/shopping', label: 'Shopping' },
   { href: '/recipes', label: 'Recipes' },
   { href: '/weight', label: 'Weight' },
   { href: '/settings', label: 'Settings' },
@@ -71,7 +72,32 @@ export function NavBar({ active }) {
   );
 }
 
-export const CUISINES = ['mediterranean', 'mexican', 'asian', 'indian', 'american'];
+export const CUISINES = [
+  'american', 'asian', 'caribbean', 'chinese', 'french', 'indian', 'italian',
+  'korean', 'mediterranean', 'mexican', 'middle-eastern', 'southern', 'spanish', 'thai', 'vietnamese',
+];
+
+export const CUISINE_LABELS = {
+  american: 'American',
+  asian: 'Asian',
+  caribbean: 'Caribbean',
+  chinese: 'Chinese',
+  french: 'French',
+  indian: 'Indian',
+  italian: 'Italian',
+  korean: 'Korean',
+  mediterranean: 'Mediterranean',
+  mexican: 'Mexican',
+  'middle-eastern': 'Middle Eastern',
+  southern: 'Southern',
+  spanish: 'Spanish',
+  thai: 'Thai',
+  vietnamese: 'Vietnamese',
+};
+
+export function cuisineLabel(slug) {
+  return CUISINE_LABELS[slug] || (slug ? slug.charAt(0).toUpperCase() + slug.slice(1) : slug);
+}
 
 export const MACRO_LABELS = [
   { key: 'cal', label: 'Cal' },

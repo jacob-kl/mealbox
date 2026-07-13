@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import MacroCalculatorForm from '@/components/MacroCalculatorForm';
 
-export default function RecalculateForm({ profile }) {
+export default function RecalculateForm({ profile, units = 'imperial' }) {
   const supabase = createClient();
   const router = useRouter();
 
@@ -33,6 +33,7 @@ export default function RecalculateForm({ profile }) {
       onSubmit={handleSubmit}
       submitLabel="Save updated targets"
       showNameAndColor={true}
+      units={units}
     />
   );
 }

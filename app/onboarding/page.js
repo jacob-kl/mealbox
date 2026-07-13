@@ -21,6 +21,7 @@ export default function OnboardingPage() {
   const [error, setError] = useState(null);
   const [householdId, setHouseholdId] = useState(null);
   const [createdInviteCode, setCreatedInviteCode] = useState(null);
+  const [units, setUnits] = useState('imperial');
 
   async function handleHouseholdSubmit(e) {
     e.preventDefault();
@@ -42,6 +43,8 @@ export default function OnboardingPage() {
       });
       if (error || !data) return setError('No household found with that invite code.');
       setHouseholdId(data);
+      const { data: household } = await supabase.from('households').select('settings').eq('id', data).single();
+      setUnits(household?.settings?.units || 'imperial');
     }
     setStep('details');
   }
@@ -138,7 +141,7 @@ export default function OnboardingPage() {
               Used to set your personal calorie and macro targets. You can recalculate any time
               from the Weight page.
             </p>
-            <MacroCalculatorForm onSubmit={handleDetailsSubmit} submitLabel="Calculate my targets & finish" />
+            <MacroCalculatorForm onSubmit={handleDetailsSubmit} submitLabel="Calculate my targets & finish" units={units} />
           </Card>
         )}
       </div>

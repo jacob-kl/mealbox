@@ -3,16 +3,47 @@
     "name": "Shrimp Caesar Salad",
     "cuisine": "mediterranean",
     "meal_type": "dinner",
-    "tags": ["shellfish", "cold-friendly"],
+    "tags": [
+      "shellfish",
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
-      { "ingredient": "Romaine lettuce", "qty": 150, "note": "chopped" },
-      { "ingredient": "Parmesan cheese (grated)", "qty": 2, "note": "tbsp, for topping" },
-      { "ingredient": "Whole grain bread", "qty": 1, "note": "slice, cubed for croutons" },
-      { "ingredient": "Olive oil", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" },
-      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 3, "note": "tbsp, for Caesar dressing" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 2,
+        "note": "tbsp, for topping"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "slice, cubed for croutons"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 45,
+        "note": "tbsp, for Caesar dressing"
+      }
     ],
     "steps": [
       "Cube the bread, toss with a little olive oil, and toast in a dry skillet 6-8 min until crisp.",
@@ -25,16 +56,46 @@
     "name": "Baked Salmon with Farro & Greek Salad",
     "cuisine": "mediterranean",
     "meal_type": "dinner",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
-      { "ingredient": "Farro (dry)", "qty": 45, "note": "" },
-      { "ingredient": "English cucumber", "qty": 70, "note": "diced" },
-      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" },
-      { "ingredient": "Kalamata olives", "qty": 10, "note": "halved" },
-      { "ingredient": "Feta cheese (reduced fat)", "qty": 20, "note": "crumbled" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Farro (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 10,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 20,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Cook farro per package directions.",
@@ -47,15 +108,43 @@
     "name": "Cold Tuna & White Bean Salad",
     "cuisine": "mediterranean",
     "meal_type": "dinner",
-    "tags": ["fish", "cold-friendly", "no-cook"],
+    "tags": [
+      "fish",
+      "cold-friendly",
+      "no-cook"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Canned tuna (in water)", "qty": 140, "note": "drained" },
-      { "ingredient": "Cannellini beans", "qty": 120, "note": "drained" },
-      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" },
-      { "ingredient": "English cucumber", "qty": 70, "note": "diced" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 140,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 120,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Combine tuna, white beans, tomato, and cucumber in a bowl.",
@@ -66,16 +155,48 @@
     "name": "Chickpea & Feta Salad",
     "cuisine": "mediterranean",
     "meal_type": "dinner",
-    "tags": ["vegetarian", "cold-friendly", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "cold-friendly",
+      "no-cook"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Garbanzo beans", "qty": 150, "note": "drained" },
-      { "ingredient": "Cherry tomatoes", "qty": 80, "note": "halved" },
-      { "ingredient": "English cucumber", "qty": 80, "note": "diced" },
-      { "ingredient": "Feta cheese (reduced fat)", "qty": 25, "note": "crumbled" },
-      { "ingredient": "Kalamata olives", "qty": 8, "note": "" },
-      { "ingredient": "Olive oil", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 25,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Combine chickpeas, tomato, cucumber, feta, and olives.",
@@ -86,17 +207,52 @@
     "name": "Pork & Shrimp Pita Pockets",
     "cuisine": "mediterranean",
     "meal_type": "dinner",
-    "tags": ["shellfish", "leftovers-friendly"],
+    "tags": [
+      "shellfish",
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Pork tenderloin", "qty": 110, "note": "sliced into strips" },
-      { "ingredient": "Frozen shrimp", "qty": 70, "note": "raw" },
-      { "ingredient": "Whole wheat pita", "qty": 1.25, "note": "" },
-      { "ingredient": "Feta cheese (reduced fat)", "qty": 20, "note": "crumbled" },
-      { "ingredient": "English cucumber", "qty": 70, "note": "diced" },
-      { "ingredient": "Cherry tomatoes", "qty": 55, "note": "halved" },
-      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 3, "note": "tbsp, for sauce" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 110,
+        "note": "sliced into strips"
+      },
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 70,
+        "note": "raw"
+      },
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 20,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 55,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 45,
+        "note": "tbsp, for sauce"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Mix a quick yogurt-lemon-garlic sauce and set aside.",
@@ -109,16 +265,47 @@
     "name": "Mediterranean Egg & Feta Scramble",
     "cuisine": "mediterranean",
     "meal_type": "breakfast",
-    "tags": ["vegetarian", "breakfast-for-dinner"],
+    "tags": [
+      "vegetarian",
+      "breakfast-for-dinner"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Eggs (large)", "qty": 2, "note": "" },
-      { "ingredient": "Liquid egg whites", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Baby spinach", "qty": 40, "note": "" },
-      { "ingredient": "Feta cheese (reduced fat)", "qty": 20, "note": "crumbled" },
-      { "ingredient": "Cherry tomatoes", "qty": 50, "note": "halved" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tsp" },
-      { "ingredient": "Whole wheat pita", "qty": 1, "note": "" }
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Liquid egg whites",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 20,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 1,
+        "note": ""
+      }
     ],
     "steps": [
       "Wilt spinach and tomatoes in olive oil over medium heat, 2-3 min.",
@@ -130,15 +317,41 @@
     "name": "Greek Chicken & Farro Bowl",
     "cuisine": "mediterranean",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 150, "note": "cooked, diced" },
-      { "ingredient": "Farro (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "halved" },
-      { "ingredient": "English cucumber", "qty": 60, "note": "diced" },
-      { "ingredient": "Feta cheese (reduced fat)", "qty": 20, "note": "crumbled" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Farro (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 20,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Cook farro and let cool slightly.",
@@ -150,14 +363,38 @@
     "name": "Cold Tuna & Pasta Jar",
     "cuisine": "mediterranean",
     "meal_type": "lunch",
-    "tags": ["fish", "cold-friendly", "no-chicken"],
+    "tags": [
+      "fish",
+      "cold-friendly",
+      "no-chicken"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Canned tuna (in water)", "qty": 140, "note": "drained" },
-      { "ingredient": "Garofalo organic pasta", "qty": 60, "note": "dry, cooked and cooled" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
-      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "halved" },
-      { "ingredient": "Italian dressing (light)", "qty": 2, "note": "tbsp, keep separate" }
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 140,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Garofalo organic pasta",
+        "qty": 60,
+        "note": "dry, cooked and cooled"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Italian dressing (light)",
+        "qty": 2,
+        "note": "tbsp, keep separate"
+      }
     ],
     "steps": [
       "Cook pasta, cool, and layer in a mason jar with dressing on the bottom.",

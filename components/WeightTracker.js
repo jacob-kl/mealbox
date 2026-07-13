@@ -4,8 +4,9 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Card, Button } from '@/components/ui';
+import { lbToKg, kgToLb } from '@/lib/macros';
 
-function WeightChart({ logs }) {
+function WeightChart({ logs, isMetric }) {
   if (logs.length < 2) {
     return <p className="text-sm text-ink/50 italic">Log a couple more entries to see a trend line.</p>;
   }
@@ -13,14 +14,15 @@ function WeightChart({ logs }) {
   const width = 560;
   const height = 160;
   const padding = 24;
-  const weights = logs.map((l) => l.weight_lb);
+  const weights = logs.map((l) => (isMetric ? lbToKg(l.weight_lb) : l.weight_lb));
   const min = Math.min(...weights);
   const max = Math.max(...weights);
   const range = max - min || 1;
 
   const points = logs.map((l, i) => {
+    const w = isMetric ? lbToKg(l.weight_lb) : l.weight_lb;
     const x = padding + (i / (logs.length - 1)) * (width - padding * 2);
-    const y = height - padding - ((l.weight_lb - min) / range) * (height - padding * 2);
+    const y = height - padding - ((w - min) / range) * (height - padding * 2);
     return `${x},${y}`;
   });
 
@@ -35,8 +37,9 @@ function WeightChart({ logs }) {
   );
 }
 
-export default function WeightTracker({ profile, logs }) {
+export default function WeightTracker({ profile, logs, units = 'imperial' }) {
   const router = useRouter();
+  const isMetric = units === 'metric';
   const [weight, setWeight] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [message, setMessage] = useState(null);
@@ -46,10 +49,12 @@ export default function WeightTracker({ profile, logs }) {
     setSubmitting(true);
     setMessage(null);
 
+    const weightLb = isMetric ? kgToLb(Number(weight)) : Number(weight);
+
     const res = await fetch('/api/weight/log', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ weightLb: Number(weight) }),
+      body: JSON.stringify({ weightLb }),
     });
     const data = await res.json();
     setSubmitting(false);
@@ -64,7 +69,12 @@ export default function WeightTracker({ profile, logs }) {
   }
 
   const latest = logs[logs.length - 1]?.weight_lb;
-  const delta = latest != null && profile.baseline_weight_lb != null ? latest - profile.baseline_weight_lb : 0;
+  const deltaLb = latest != null && profile.baseline_weight_lb != null ? latest - profile.baseline_weight_lb : 0;
+  const delta = isMetric ? lbToKg(Math.abs(deltaLb)) : Math.abs(deltaLb);
+  const unitLabel = isMetric ? 'kg' : 'lb';
+  const baselineDisplay = isMetric
+    ? Math.round(lbToKg(profile.baseline_weight_lb) * 10) / 10
+    : profile.baseline_weight_lb;
 
   return (
     <div className="space-y-6">
@@ -77,7 +87,7 @@ export default function WeightTracker({ profile, logs }) {
             required
             value={weight}
             onChange={(e) => setWeight(e.target.value)}
-            placeholder="Weight (lb)"
+            placeholder={`Weight (${unitLabel})`}
             className="flex-1 border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
           />
           <Button type="submit" disabled={submitting}>
@@ -93,10 +103,10 @@ export default function WeightTracker({ profile, logs }) {
         <div className="flex items-center justify-between mb-4">
           <h2 className="font-display text-xl">Trend</h2>
           <p className="text-sm text-ink/60 font-mono">
-            {Math.abs(delta).toFixed(1)} lb {delta >= 0 ? 'up' : 'down'} since last recalc
+            {delta.toFixed(1)} {unitLabel} {deltaLb >= 0 ? 'up' : 'down'} since last recalc
           </p>
         </div>
-        <WeightChart logs={logs} />
+        <WeightChart logs={logs} isMetric={isMetric} />
       </Card>
 
       <Card>
@@ -125,8 +135,8 @@ export default function WeightTracker({ profile, logs }) {
           </div>
         </div>
         <p className="text-xs text-ink/50 mt-4">
-          Targets recalculate automatically whenever your weight moves 5 lb from{' '}
-          {profile.baseline_weight_lb} lb (the weight they were last calculated against).
+          Targets recalculate automatically whenever your weight moves {isMetric ? '2.3 kg' : '5 lb'} from{' '}
+          {baselineDisplay} {unitLabel} (the weight they were last calculated against).
         </p>
       </Card>
     </div>

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Kung Pao Chicken",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "diced" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
+      { "ingredient": "Almonds", "qty": 15, "note": "g, roughly chopped" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Sriracha", "qty": 1, "note": "tsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Stir-fry chicken until browned, 4-5 min.",
+      "Add pepper, ginger, soy sauce, and sriracha, cook 3 min more.",
+      "Toss in almonds and serve over rice."
+    ]
+  },
+  {
+    "name": "Beef and Broccoli",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Flank/sirloin steak", "qty": 150, "note": "thinly sliced" },
+      { "ingredient": "Broccoli florets", "qty": 130, "note": "" },
+      { "ingredient": "Oyster sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Cornstarch", "qty": 1, "note": "tsp" },
+      { "ingredient": "Brown rice (dry)", "qty": 55, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Toss beef with cornstarch, sear in a hot pan 2 min.",
+      "Add broccoli, oyster sauce, and soy sauce, stir-fry 4-5 min.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Shrimp Lo Mein",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "tags": ["shellfish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
+      { "ingredient": "Rice noodles (dry)", "qty": 65, "note": "" },
+      { "ingredient": "Bok choy", "qty": 100, "note": "chopped" },
+      { "ingredient": "Carrot", "qty": 50, "note": "julienned" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Cook noodles per package directions.",
+      "Stir-fry shrimp 2-3 min per side, set aside.",
+      "Stir-fry bok choy and carrot 3 min, add noodles, soy sauce, and sesame oil.",
+      "Toss shrimp back in and serve."
+    ]
+  },
+  {
+    "name": "Mapo Tofu",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Tofu (firm)", "qty": 200, "note": "cubed" },
+      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Sriracha", "qty": 1, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Saute garlic and ginger 30 sec, add tofu and cook 4-5 min.",
+      "Stir in soy sauce and sriracha, simmer 3 min. Serve over rice."
+    ]
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "tags": ["leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 150, "note": "diced, cooked" },
+      { "ingredient": "Brown rice (dry)", "qty": 60, "note": "cooked and cooled" },
+      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
+      { "ingredient": "Frozen peas", "qty": 60, "note": "" },
+      { "ingredient": "Carrot", "qty": 50, "note": "diced" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" }
+    ],
+    "steps": [
+      "Scramble egg in a hot wok, set aside.",
+      "Stir-fry rice, peas, and carrot until hot.",
+      "Add chicken, egg, and soy sauce, toss to combine."
+    ]
+  },
+  {
+    "name": "Orange Chicken",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "cubed" },
+      { "ingredient": "Cornstarch", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Honey", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Soy sauce", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Toss chicken with cornstarch, pan-sear until golden and cooked through, 6-7 min.",
+      "Whisk honey, soy sauce, and lime juice; add to pan and toss until glossy.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Chinese Chicken & Cucumber Jar",
+    "cuisine": "chinese",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, shredded" },
+      { "ingredient": "English cucumber", "qty": 80, "note": "sliced" },
+      { "ingredient": "Brown rice (dry)", "qty": 40, "note": "cooked and cooled" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
+      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp, keep separate" },
+      { "ingredient": "Sesame seeds", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Layer dressing at the bottom of a jar, then rice, cucumber, and chicken.",
+      "Top with sesame seeds. Shake before eating."
+    ]
+  }
+]

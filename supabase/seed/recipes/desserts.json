@@ -3,14 +3,37 @@
     "name": "Protein Brownie Bites",
     "cuisine": "american",
     "meal_type": "dessert",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 6,
     "ingredients": [
-      { "ingredient": "Whey protein powder (vanilla)", "qty": 1, "note": "scoop" },
-      { "ingredient": "Rolled oats (dry)", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Unsweetened cocoa powder", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Peanut butter", "qty": 0.33, "note": "cup" },
-      { "ingredient": "Honey", "qty": 2, "note": "tbsp" }
+      {
+        "ingredient": "Whey protein powder (vanilla)",
+        "qty": 1,
+        "note": "scoop"
+      },
+      {
+        "ingredient": "Rolled oats (dry)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Unsweetened cocoa powder",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Combine everything into a thick dough, adding a splash of water if too dry.",
@@ -21,13 +44,32 @@
     "name": "Greek Yogurt Berry Bark",
     "cuisine": "american",
     "meal_type": "dessert",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 2, "note": "cups" },
-      { "ingredient": "Honey", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Frozen mixed berries", "qty": 1, "note": "cup, thawed and chopped" },
-      { "ingredient": "Dark chocolate chips", "qty": 2, "note": "tbsp, chopped" }
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 490,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Frozen mixed berries",
+        "qty": 1,
+        "note": "cup, thawed and chopped"
+      },
+      {
+        "ingredient": "Dark chocolate chips",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      }
     ],
     "steps": [
       "Stir honey into yogurt, spread thin on a parchment-lined tray.",
@@ -38,13 +80,31 @@
     "name": "Baked Cinnamon Apples",
     "cuisine": "american",
     "meal_type": "dessert",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Apple", "qty": 1, "note": "medium, sliced" },
-      { "ingredient": "Ground cinnamon", "qty": 1, "note": "tsp" },
-      { "ingredient": "Honey", "qty": 1, "note": "tsp" },
-      { "ingredient": "Walnuts", "qty": 0.5, "note": "oz, chopped" }
+      {
+        "ingredient": "Apple",
+        "qty": 1,
+        "note": "medium, sliced"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 14.0,
+        "note": "oz, chopped"
+      }
     ],
     "steps": [
       "Toss apple slices with cinnamon and honey.",
@@ -55,15 +115,127 @@
     "name": "Dark Chocolate Almond Clusters",
     "cuisine": "american",
     "meal_type": "dessert",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Dark chocolate chips", "qty": 4, "note": "tbsp" },
-      { "ingredient": "Almonds", "qty": 30, "note": "g" }
+      {
+        "ingredient": "Dark chocolate chips",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 30,
+        "note": "g"
+      }
     ],
     "steps": [
       "Melt chocolate, stir in almonds, drop small clusters onto parchment paper.",
       "Refrigerate 15 min until set."
+    ]
+  },
+  {
+    "name": "Banana Oat Cookies",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "qty": 2,
+        "note": "medium, mashed"
+      },
+      {
+        "ingredient": "Rolled oats (dry)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Mini chocolate chips",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix mashed banana, oats, chocolate chips, and cinnamon.",
+      "Drop spoonfuls onto a baking sheet, bake at 350F for 12-15 min."
+    ]
+  },
+  {
+    "name": "Frozen Yogurt Bites",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 245,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Frozen mixed berries",
+        "qty": 1,
+        "note": "cup, thawed and pureed"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Swirl pureed berries and honey into yogurt.",
+      "Spoon small dollops onto a tray, freeze 2+ hours."
+    ]
+  },
+  {
+    "name": "Chocolate Protein Mug Cake",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whey protein powder (vanilla)",
+        "qty": 1,
+        "note": "scoop"
+      },
+      {
+        "ingredient": "Unsweetened cocoa powder",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Banana",
+        "qty": 0.5,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Milk (2%)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Whisk everything together in a mug.",
+      "Microwave 60-90 sec until set."
     ]
   }
 ]

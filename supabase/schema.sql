@@ -355,6 +355,52 @@ alter table recipes add constraint recipes_meal_type_check
   check (meal_type in ('breakfast','lunch','dinner','snack','sauce','dessert'));
 
 -- ============================================================================
+-- v3: shopping list + private recipes
+-- ============================================================================
+
+create table if not exists shopping_list_checks (
+  id uuid primary key default gen_random_uuid(),
+  week_plan_id uuid not null references week_plans(id) on delete cascade,
+  ingredient_name text not null,
+  checked boolean not null default true,
+  checked_by uuid references profiles(id),
+  checked_at timestamptz not null default now(),
+  unique(week_plan_id, ingredient_name)
+);
+
+alter table shopping_list_checks enable row level security;
+
+drop policy if exists "manage own household shopping list checks" on shopping_list_checks;
+create policy "manage own household shopping list checks"
+  on shopping_list_checks for all
+  to authenticated
+  using (week_plan_id in (select id from week_plans where household_id = public.current_household_id()))
+  with check (week_plan_id in (select id from week_plans where household_id = public.current_household_id()));
+
+-- Recipes already support household_id for private recipes (see the
+-- "manage own household recipes" policies above) — no schema change needed,
+-- just an app-side form to create them. Add a course field so a dinner slot
+-- can be composed of a main + a side rather than always one combined dish.
+alter table recipes add column if not exists course text not null default 'complete';
+alter table recipes drop constraint if exists recipes_course_check;
+alter table recipes add constraint recipes_course_check
+  check (course in ('complete', 'main', 'side'));
+
+alter table week_plan_meals add column if not exists course text not null default 'main';
+
+drop index if exists week_plan_meals_shared_idx;
+create unique index if not exists week_plan_meals_shared_idx
+  on week_plan_meals(week_plan_id, day_index, meal_slot, course) where profile_id is null;
+
+-- The seed script clears and rebuilds the global recipe library on every
+-- run. Old week plans referencing those recipe ids shouldn't block that —
+-- they should just lose the reference (that meal shows as unmatched until
+-- the week is rebuilt).
+alter table week_plan_meals drop constraint if exists week_plan_meals_recipe_id_fkey;
+alter table week_plan_meals add constraint week_plan_meals_recipe_id_fkey
+  foreign key (recipe_id) references recipes(id) on delete set null;
+
+-- ============================================================================
 -- v2: diet-type presets, configurable meal structure, and the day tracker.
 -- ============================================================================
 

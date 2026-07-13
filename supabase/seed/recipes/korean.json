@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Korean Beef Bowl",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground beef 90/10", "qty": 150, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Brown sugar", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Scallions", "qty": 2, "note": "tbsp, sliced" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Brown beef, drain excess fat.",
+      "Add soy sauce, brown sugar, ginger, and sesame oil, simmer 3 min.",
+      "Serve over rice, topped with scallions."
+    ]
+  },
+  {
+    "name": "Chicken Bulgogi",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "thinly sliced" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Mirin", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Kimchi", "qty": 0.5, "note": "cup" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Marinate chicken in soy sauce, mirin, garlic, and sesame oil 10 min if time allows.",
+      "Sear chicken 4-5 min per side until cooked through.",
+      "Serve over rice with kimchi."
+    ]
+  },
+  {
+    "name": "Gochujang Salmon",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "tags": ["fish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
+      { "ingredient": "Gochujang", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Honey", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Broccoli florets", "qty": 120, "note": "" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Whisk gochujang, honey, and soy sauce; brush over salmon.",
+      "Bake at 400F for 12-15 min, roast broccoli alongside.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Korean Tofu Stir-Fry",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Tofu (firm)", "qty": 200, "note": "cubed" },
+      { "ingredient": "Gochujang", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Bok choy", "qty": 100, "note": "chopped" },
+      { "ingredient": "Sesame seeds", "qty": 1, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Pan-sear tofu until golden, 6-8 min.",
+      "Add gochujang, soy sauce, and bok choy, cook 3-4 min.",
+      "Top with sesame seeds, serve over rice."
+    ]
+  },
+  {
+    "name": "Korean Chicken & Kimchi Jar",
+    "cuisine": "korean",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, sliced" },
+      { "ingredient": "Kimchi", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Brown rice (dry)", "qty": 40, "note": "cooked and cooled" },
+      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp" }
+    ],
+    "steps": [
+      "Layer rice, chicken, and kimchi in a jar.",
+      "Drizzle with sesame oil before eating."
+    ]
+  }
+]

@@ -3,15 +3,42 @@
     "name": "Tzatziki",
     "cuisine": "mediterranean",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 1, "note": "cup" },
-      { "ingredient": "English cucumber", "qty": 100, "note": "grated and squeezed dry" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Fresh dill", "qty": 1, "note": "tbsp, chopped" },
-      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 245,
+        "note": "cup"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 100,
+        "note": "grated and squeezed dry"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Grate the cucumber, salt lightly, and squeeze out excess water in a towel.",
@@ -22,15 +49,42 @@
     "name": "Lightened Caesar Dressing",
     "cuisine": "mediterranean",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Parmesan cheese (grated)", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Anchovy paste", "qty": 1, "note": "tsp" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Lemon juice", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 122.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Anchovy paste",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Whisk all ingredients together until smooth.",
@@ -41,29 +95,77 @@
     "name": "Yogurt Garlic Sauce",
     "cuisine": "mediterranean",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 0.75, "note": "cup" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 183.8,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
-    "steps": ["Whisk everything together and refrigerate until ready to use."]
+    "steps": [
+      "Whisk everything together and refrigerate until ready to use."
+    ]
   },
   {
     "name": "Peanut Sauce",
     "cuisine": "asian",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Peanut butter", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Honey", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
-      { "ingredient": "Sriracha", "qty": 1, "note": "tsp, optional" }
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp, optional"
+      }
     ],
     "steps": [
       "Whisk everything together with a splash of warm water until pourable."
@@ -73,45 +175,210 @@
     "name": "Chimichurri",
     "cuisine": "american",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Fresh parsley", "qty": 0.5, "note": "cup, finely chopped" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "Red wine vinegar", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Olive oil", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Dried oregano", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.5,
+        "note": "cup, finely chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
-    "steps": ["Combine everything and let sit 10 min for the flavors to come together."]
+    "steps": [
+      "Combine everything and let sit 10 min for the flavors to come together."
+    ]
   },
   {
     "name": "Mango Salsa",
     "cuisine": "mexican",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Frozen mango chunks", "qty": 1, "note": "cup, thawed and diced" },
-      { "ingredient": "Red bell pepper", "qty": 60, "note": "diced" },
-      { "ingredient": "Red onion", "qty": 30, "note": "finely diced" },
-      { "ingredient": "Cilantro", "qty": 0.25, "note": "cup, chopped" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Frozen mango chunks",
+        "qty": 165,
+        "note": "cup, thawed and diced"
+      },
+      {
+        "ingredient": "Red bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
-    "steps": ["Dice everything small and toss together with lime juice."]
+    "steps": [
+      "Dice everything small and toss together with lime juice."
+    ]
   },
   {
     "name": "Tahini Sauce",
     "cuisine": "mediterranean",
     "meal_type": "sauce",
-    "tags": ["vegetarian", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
     "base_servings": 4,
     "ingredients": [
-      { "ingredient": "Tahini", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Lemon juice", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" }
+      {
+        "ingredient": "Tahini",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
     ],
     "steps": [
-      "Whisk tahini, lemon, and garlic together — it will seize up, then loosen as you whisk in water 1 tbsp at a time until pourable."
+      "Whisk tahini, lemon, and garlic together \u2014 it will seize up, then loosen as you whisk in water 1 tbsp at a time until pourable."
+    ]
+  },
+  {
+    "name": "Ranch-Style Yogurt Dip",
+    "cuisine": "american",
+    "meal_type": "sauce",
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 245,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk everything together and refrigerate 15 min before serving."
+    ]
+  },
+  {
+    "name": "Salsa Verde",
+    "cuisine": "mexican",
+    "meal_type": "sauce",
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend everything until smooth, thin with water if needed."
+    ]
+  },
+  {
+    "name": "Honey Mustard Sauce",
+    "cuisine": "american",
+    "meal_type": "sauce",
+    "tags": [
+      "vegetarian",
+      "no-cook"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 30,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk everything together until smooth."
     ]
   }
 ]

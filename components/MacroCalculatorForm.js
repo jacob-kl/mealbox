@@ -1,19 +1,11 @@
 'use client';
 
 import { useState } from 'react';
-import { calculateTargets, cmFromFeetInches, DIET_TYPES } from '@/lib/macros';
+import { calculateTargets, cmFromFeetInches, feetInchesFromCm, lbToKg, kgToLb, DIET_TYPES } from '@/lib/macros';
 
 const COLORS = ['#3F5C48', '#C1502E', '#7A5AA8', '#3D7EA6', '#B8863B'];
 const CURRENT_YEAR = new Date().getFullYear();
 const BIRTH_YEARS = Array.from({ length: CURRENT_YEAR - 1900 + 1 }, (_, i) => CURRENT_YEAR - i);
-
-function cmToFeetInches(cm) {
-  if (!cm) return { feet: '', inches: '' };
-  const totalInches = cm / 2.54;
-  const feet = Math.floor(totalInches / 12);
-  const inches = Math.round(totalInches - feet * 12);
-  return { feet: String(feet), inches: String(inches) };
-}
 
 /**
  * @param {Object} props
@@ -21,22 +13,28 @@ function cmToFeetInches(cm) {
  * @param {(payload: {rawInputs, targets}) => void} props.onSubmit
  * @param {string} [props.submitLabel]
  * @param {boolean} [props.showNameAndColor]
+ * @param {'imperial'|'metric'} [props.units] - household unit preference
  */
 export default function MacroCalculatorForm({
   initial = {},
   onSubmit,
   submitLabel = 'Calculate my targets',
   showNameAndColor = true,
+  units = 'imperial',
 }) {
-  const initialHeight = cmToFeetInches(initial.height_cm);
+  const isMetric = units === 'metric';
+  const initialHeight = feetInchesFromCm(initial.height_cm);
+  const initialWeightLb = initial.baseline_weight_lb || '';
 
   const [displayName, setDisplayName] = useState(initial.display_name || '');
   const [color, setColor] = useState(initial.color || COLORS[0]);
   const [sex, setSex] = useState(initial.sex || 'male');
   const [birthYear, setBirthYear] = useState(String(initial.birth_year || 2000));
-  const [feet, setFeet] = useState(initialHeight.feet);
-  const [inches, setInches] = useState(initialHeight.inches);
-  const [weightLb, setWeightLb] = useState(initial.baseline_weight_lb ? String(initial.baseline_weight_lb) : '');
+  const [feet, setFeet] = useState(initialHeight.feet || '');
+  const [inches, setInches] = useState(initialHeight.inches || '');
+  const [heightCmInput, setHeightCmInput] = useState(initial.height_cm ? String(Math.round(initial.height_cm)) : '');
+  const [weightLb, setWeightLb] = useState(initialWeightLb ? String(initialWeightLb) : '');
+  const [weightKgInput, setWeightKgInput] = useState(initialWeightLb ? String(Math.round(lbToKg(initialWeightLb))) : '');
   const [activityLevel, setActivityLevel] = useState(initial.activity_level || 'moderate');
   const [goal, setGoal] = useState(initial.goal || 'maintain');
   const [dietType, setDietType] = useState(initial.diet_type || 'balanced');
@@ -49,13 +47,14 @@ export default function MacroCalculatorForm({
     setSubmitting(true);
 
     try {
-      const heightCm = cmFromFeetInches(Number(feet) || 0, Number(inches) || 0);
+      const heightCm = isMetric ? Number(heightCmInput) || 0 : cmFromFeetInches(Number(feet) || 0, Number(inches) || 0);
+      const weightLbValue = isMetric ? kgToLb(Number(weightKgInput) || 0) : Number(weightLb);
       const age = new Date().getFullYear() - Number(birthYear);
       const targets = calculateTargets({
         sex,
         age,
         heightCm,
-        weightLb: Number(weightLb),
+        weightLb: weightLbValue,
         activityLevel,
         goal,
         dietType,
@@ -71,7 +70,7 @@ export default function MacroCalculatorForm({
           activity_level: activityLevel,
           goal,
           diet_type: dietType,
-          baseline_weight_lb: Number(weightLb),
+          baseline_weight_lb: Math.round(weightLbValue * 10) / 10,
         },
         targets,
       });
@@ -131,31 +130,52 @@ export default function MacroCalculatorForm({
         </select>
       </div>
 
-      <div className="grid grid-cols-3 gap-3">
-        <input
-          type="number"
-          value={feet}
-          onChange={(e) => setFeet(e.target.value)}
-          placeholder="Height (ft)"
-          required
-          className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
-        />
-        <input
-          type="number"
-          value={inches}
-          onChange={(e) => setInches(e.target.value)}
-          placeholder="(in)"
-          className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
-        />
-        <input
-          type="number"
-          value={weightLb}
-          onChange={(e) => setWeightLb(e.target.value)}
-          placeholder="Weight (lb)"
-          required
-          className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
-        />
-      </div>
+      {isMetric ? (
+        <div className="grid grid-cols-2 gap-3">
+          <input
+            type="number"
+            value={heightCmInput}
+            onChange={(e) => setHeightCmInput(e.target.value)}
+            placeholder="Height (cm)"
+            required
+            className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+          />
+          <input
+            type="number"
+            value={weightKgInput}
+            onChange={(e) => setWeightKgInput(e.target.value)}
+            placeholder="Weight (kg)"
+            required
+            className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+          />
+        </div>
+      ) : (
+        <div className="grid grid-cols-3 gap-3">
+          <input
+            type="number"
+            value={feet}
+            onChange={(e) => setFeet(e.target.value)}
+            placeholder="Height (ft)"
+            required
+            className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+          />
+          <input
+            type="number"
+            value={inches}
+            onChange={(e) => setInches(e.target.value)}
+            placeholder="(in)"
+            className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+          />
+          <input
+            type="number"
+            value={weightLb}
+            onChange={(e) => setWeightLb(e.target.value)}
+            placeholder="Weight (lb)"
+            required
+            className="border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+          />
+        </div>
+      )}
 
       <div>
         <label className="text-sm text-ink/60 block mb-1">Activity level</label>

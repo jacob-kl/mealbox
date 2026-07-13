@@ -1,0 +1,89 @@
+[
+  {
+    "name": "BBQ Pulled Pork Sandwich",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "tags": ["leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Pork shoulder (raw)", "qty": 150, "note": "" },
+      { "ingredient": "BBQ sauce", "qty": 3, "note": "tbsp" },
+      { "ingredient": "Hamburger bun (whole wheat)", "qty": 1, "note": "" },
+      { "ingredient": "Slaw mix (bagged)", "qty": 1, "note": "cup" }
+    ],
+    "steps": [
+      "Slow-cook or braise pork until it shreds easily, about 2-3 hours (or use a pressure cooker for ~45 min).",
+      "Shred and toss with BBQ sauce.",
+      "Pile onto a bun and top with slaw."
+    ]
+  },
+  {
+    "name": "Cajun Blackened Catfish",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "tags": ["fish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Catfish fillet (raw)", "qty": 170, "note": "" },
+      { "ingredient": "Smoked paprika", "qty": 1, "note": "tsp" },
+      { "ingredient": "Ground cumin", "qty": 0.5, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Collard greens", "qty": 100, "note": "chopped" }
+    ],
+    "steps": [
+      "Season catfish with paprika and cumin, sear 3-4 min per side.",
+      "Cook rice, saute collards with a little olive oil until wilted.",
+      "Serve together."
+    ]
+  },
+  {
+    "name": "BBQ Chicken with Cornbread",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
+      { "ingredient": "BBQ sauce", "qty": 3, "note": "tbsp" },
+      { "ingredient": "Cornbread mix (dry)", "qty": 0.33, "note": "cup, prepared per package" },
+      { "ingredient": "Collard greens", "qty": 100, "note": "chopped" }
+    ],
+    "steps": [
+      "Bake chicken at 400F for 20 min, brush with BBQ sauce the last 5 min.",
+      "Bake cornbread per package directions.",
+      "Saute collards until wilted, serve alongside."
+    ]
+  },
+  {
+    "name": "Southern Buttermilk Chicken",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
+      { "ingredient": "Buttermilk", "qty": 0.5, "note": "cup, for marinating" },
+      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 3, "note": "tbsp" },
+      { "ingredient": "Sweet potato", "qty": 150, "note": "" }
+    ],
+    "steps": [
+      "Marinate chicken in buttermilk 10+ min if time allows.",
+      "Coat in breadcrumbs, bake at 400F for 20-22 min.",
+      "Roast sweet potato alongside."
+    ]
+  },
+  {
+    "name": "Pulled Pork & Slaw Jar",
+    "cuisine": "southern",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Pork shoulder (raw)", "qty": 120, "note": "cooked, shredded" },
+      { "ingredient": "BBQ sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Slaw mix (bagged)", "qty": 1, "note": "cup" },
+      { "ingredient": "Basmati rice (dry)", "qty": 35, "note": "cooked and cooled" }
+    ],
+    "steps": ["Layer rice, pulled pork tossed in BBQ sauce, and slaw in a container."]
+  }
+]

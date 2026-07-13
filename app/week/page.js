@@ -1,10 +1,11 @@
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
-import { currentWeekStart } from '@/lib/dates';
+import { currentWeekStart, parseDate } from '@/lib/dates';
 import { NavBar } from '@/components/ui';
 import WeekView from '@/components/WeekView';
 
-export default async function WeekPage() {
+export default async function WeekPage({ searchParams }) {
+  const params = await searchParams;
   const supabase = await createClient();
   const {
     data: { user },
@@ -14,7 +15,13 @@ export default async function WeekPage() {
   const { data: profile } = await supabase.from('profiles').select('*').eq('id', user.id).single();
   if (!profile?.onboarded) redirect('/onboarding');
 
-  const weekStart = currentWeekStart();
+  const weekStart = currentWeekStart(params?.week ? parseDate(params.week) : new Date());
+
+  const { data: household } = await supabase
+    .from('households')
+    .select('id, settings')
+    .eq('id', profile.household_id)
+    .single();
 
   const { data: members } = await supabase
     .from('profiles')
@@ -47,6 +54,7 @@ export default async function WeekPage() {
           weekStart={weekStart}
           weekPlanId={weekPlan?.id ?? null}
           cuisineFocus={weekPlan?.cuisine_focus ?? null}
+          household={household}
           members={members || []}
           meals={meals}
         />

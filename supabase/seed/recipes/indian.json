@@ -6,10 +6,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "cubed" },
-      { "ingredient": "Tikka masala simmer sauce", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Homemade garlic naan", "qty": 1, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Tikka masala simmer sauce",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Homemade garlic naan",
+        "qty": 1,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -22,15 +38,42 @@
     "name": "Masala Egg Bhurji with Besan Chilla",
     "cuisine": "indian",
     "meal_type": "breakfast",
-    "tags": ["vegetarian", "breakfast-for-dinner"],
+    "tags": [
+      "vegetarian",
+      "breakfast-for-dinner"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Eggs (large)", "qty": 2, "note": "" },
-      { "ingredient": "Liquid egg whites", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Yellow onion", "qty": 40, "note": "diced" },
-      { "ingredient": "Bell pepper", "qty": 50, "note": "diced" },
-      { "ingredient": "Chickpea flour (besan)", "qty": 40, "note": "for the chilla batter" },
-      { "ingredient": "Spices (garam masala/turmeric/cumin/coriander)", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Liquid egg whites",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Chickpea flour (besan)",
+        "qty": 40,
+        "note": "for the chilla batter"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Whisk besan with water and a pinch of salt into a thin batter; cook like a savory crepe in a lightly oiled pan.",
@@ -43,13 +86,31 @@
     "name": "Paneer Tikka Masala",
     "cuisine": "indian",
     "meal_type": "dinner",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Paneer", "qty": 140, "note": "cubed" },
-      { "ingredient": "Tikka masala simmer sauce", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "sliced" }
+      {
+        "ingredient": "Paneer",
+        "qty": 140,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Tikka masala simmer sauce",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "sliced"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -62,14 +123,36 @@
     "name": "Coconut Curry Shrimp",
     "cuisine": "indian",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
-      { "ingredient": "Light coconut milk (canned)", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Curry powder", "qty": 1.5, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Baby spinach", "qty": 60, "note": "" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 60,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -82,20 +165,85 @@
     "name": "Chana Masala Bowl",
     "cuisine": "indian",
     "meal_type": "dinner",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Garbanzo beans", "qty": 200, "note": "drained" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 100, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 50, "note": "diced" },
-      { "ingredient": "Spices (garam masala/turmeric/cumin/coriander)", "qty": 1.5, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Homemade garlic naan", "qty": 1, "note": "" }
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Homemade garlic naan",
+        "qty": 1,
+        "note": ""
+      }
     ],
     "steps": [
       "Saute onion until soft, add spices and cook 30 seconds until fragrant.",
       "Add chickpeas and tomatoes, simmer 12-15 min until thickened.",
       "Serve over rice with naan."
+    ]
+  },
+  {
+    "name": "Tandoori-Style Chicken",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 45,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Homemade garlic naan",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and spices, 10+ min if time allows.",
+      "Bake at 425F for 18-20 min until charred at the edges.",
+      "Serve with rice and naan."
     ]
   }
 ]

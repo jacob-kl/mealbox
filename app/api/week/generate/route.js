@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
-import { generateWeek, DEFAULT_STRUCTURE_RULES, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
+import { generateWeek, DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 
 export async function POST(request) {
   const supabase = await createClient();
@@ -27,13 +27,13 @@ export async function POST(request) {
     .eq('id', householdId)
     .single();
 
-  const structureRules = household?.settings?.structureRules || DEFAULT_STRUCTURE_RULES;
+  const mealDays = household?.settings?.mealDays || DEFAULT_MEAL_DAYS;
   const mealStructure = household?.settings?.mealStructure || DEFAULT_MEAL_STRUCTURE;
   const blockedTags = household?.settings?.blockedTags || [];
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories')
+    .select('id, display_name, color, target_calories, target_protein_g')
     .eq('household_id', householdId);
 
   const { data: recipePool } = await supabase
@@ -65,12 +65,13 @@ export async function POST(request) {
   const membersForBuilder = (members || []).map((m) => ({
     id: m.id,
     targetCalories: m.target_calories || 2000,
+    targetProteinG: m.target_protein_g ?? null,
   }));
 
   const meals = generateWeek({
     recipePool: recipePool || [],
     members: membersForBuilder,
-    structureRules,
+    mealDays,
     mealStructure,
     blockedTags,
     cuisineFocus,
@@ -94,12 +95,15 @@ export async function POST(request) {
     profile_id: m.profileId,
     recipe_id: m.recipeId,
     label: m.label,
+    course: m.course || 'main',
     servings: m.servings ?? 1,
     portions: m.portions ?? [],
   }));
 
-  const { error: insertError } = await supabase.from('week_plan_meals').insert(rows);
-  if (insertError) return NextResponse.json({ error: insertError.message }, { status: 500 });
+  if (rows.length) {
+    const { error: insertError } = await supabase.from('week_plan_meals').insert(rows);
+    if (insertError) return NextResponse.json({ error: insertError.message }, { status: 500 });
+  }
 
   return NextResponse.json({ weekPlanId: weekPlan.id, meals });
 }

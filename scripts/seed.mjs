@@ -91,14 +91,19 @@ async function seedRecipes(ingredients) {
       } catch (err) {
         throw new Error(`In ${file}, recipe "${r.name}": ${err.message}`);
       }
+      const ingredientsWithUnits = r.ingredients.map((line) => ({
+        ...line,
+        unit: ingredientsByName[line.ingredient]?.serving_unit || null,
+      }));
       return {
         household_id: null, // global/shared recipe
         name: r.name,
         cuisine: r.cuisine,
         meal_type: r.meal_type,
+        course: r.course || 'complete',
         tags: r.tags || [],
         base_servings: r.base_servings || 1,
-        ingredients: r.ingredients,
+        ingredients: ingredientsWithUnits,
         steps: r.steps || [],
         macros_per_serving: macros,
       };

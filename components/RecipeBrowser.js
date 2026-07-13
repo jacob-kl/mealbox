@@ -1,14 +1,17 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { Card, Badge } from '@/components/ui';
+import { Card, Badge, cuisineLabel } from '@/components/ui';
+import { formatQty } from '@/lib/nutrition';
 
 const MEAL_TYPES = ['dinner', 'lunch', 'breakfast', 'snack', 'sauce', 'dessert'];
+const COURSES = ['complete', 'main', 'side'];
 
 export default function RecipeBrowser({ recipes }) {
   const cuisinesPresent = useMemo(() => [...new Set(recipes.map((r) => r.cuisine))].sort(), [recipes]);
   const [cuisine, setCuisine] = useState(cuisinesPresent[0] || 'all');
   const [mealType, setMealType] = useState('all');
+  const [course, setCourse] = useState('all');
   const [query, setQuery] = useState('');
   const [openId, setOpenId] = useState(null);
 
@@ -16,10 +19,11 @@ export default function RecipeBrowser({ recipes }) {
     return recipes.filter((r) => {
       if (cuisine !== 'all' && r.cuisine !== cuisine) return false;
       if (mealType !== 'all' && r.meal_type !== mealType) return false;
+      if (course !== 'all' && (r.course || 'complete') !== course) return false;
       if (query && !r.name.toLowerCase().includes(query.toLowerCase())) return false;
       return true;
     });
-  }, [recipes, cuisine, mealType, query]);
+  }, [recipes, cuisine, mealType, course, query]);
 
   const grouped = useMemo(() => {
     const map = {};
@@ -42,12 +46,12 @@ export default function RecipeBrowser({ recipes }) {
         <select
           value={cuisine}
           onChange={(e) => setCuisine(e.target.value)}
-          className="border border-line rounded-card px-3 py-2 bg-card text-sm capitalize"
+          className="border border-line rounded-card px-3 py-2 bg-card text-sm"
         >
           <option value="all">All cuisines</option>
           {cuisinesPresent.map((c) => (
             <option key={c} value={c}>
-              {c}
+              {cuisineLabel(c)}
             </option>
           ))}
         </select>
@@ -63,6 +67,18 @@ export default function RecipeBrowser({ recipes }) {
             </option>
           ))}
         </select>
+        <select
+          value={course}
+          onChange={(e) => setCourse(e.target.value)}
+          className="border border-line rounded-card px-3 py-2 bg-card text-sm capitalize"
+        >
+          <option value="all">Mains + sides + complete</option>
+          {COURSES.map((c) => (
+            <option key={c} value={c}>
+              {c}
+            </option>
+          ))}
+        </select>
       </div>
 
       {Object.keys(grouped).length === 0 && (
@@ -71,7 +87,7 @@ export default function RecipeBrowser({ recipes }) {
 
       {Object.entries(grouped).map(([cuisineName, list]) => (
         <div key={cuisineName} className="mb-8">
-          <p className="tab-label text-rust mb-3 capitalize">{cuisineName}</p>
+          <p className="tab-label text-rust mb-3">{cuisineLabel(cuisineName)}</p>
           <div className="grid gap-4 sm:grid-cols-2">
             {list.map((r) => {
               const open = openId === r.id;
@@ -82,15 +98,15 @@ export default function RecipeBrowser({ recipes }) {
                       <h3 className="font-display text-lg">{r.name}</h3>
                       <span className="text-xs uppercase tab-label text-ink/40">{r.meal_type}</span>
                     </div>
-                    {r.tags?.length > 0 && (
-                      <div className="flex flex-wrap gap-1.5 mt-2">
-                        {r.tags.map((t) => (
-                          <Badge key={t} tone="pine">
-                            {t}
-                          </Badge>
-                        ))}
-                      </div>
-                    )}
+                    <div className="flex flex-wrap gap-1.5 mt-2">
+                      {r.household_id && <Badge tone="gold">private</Badge>}
+                      {r.course && r.course !== 'complete' && <Badge tone="rust">{r.course}</Badge>}
+                      {r.tags?.map((t) => (
+                        <Badge key={t} tone="pine">
+                          {t}
+                        </Badge>
+                      ))}
+                    </div>
                     {r.macros_per_serving && (
                       <p className="font-mono text-xs text-ink/60 mt-2">
                         {r.macros_per_serving.cal} cal · {r.macros_per_serving.protein}p ·{' '}
@@ -105,7 +121,7 @@ export default function RecipeBrowser({ recipes }) {
                       <ul className="list-disc list-inside space-y-0.5 text-ink/70 mb-3">
                         {r.ingredients.map((ing, i) => (
                           <li key={i}>
-                            {ing.qty} {ing.ingredient}
+                            {formatQty(ing.qty, ing.unit)} {ing.ingredient}
                             {ing.note ? ` — ${ing.note}` : ''}
                           </li>
                         ))}

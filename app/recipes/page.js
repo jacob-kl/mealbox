@@ -1,6 +1,7 @@
 import { redirect } from 'next/navigation';
+import Link from 'next/link';
 import { createClient } from '@/lib/supabase/server';
-import { NavBar } from '@/components/ui';
+import { NavBar, Button } from '@/components/ui';
 import RecipeBrowser from '@/components/RecipeBrowser';
 
 export default async function RecipesPage() {
@@ -23,8 +24,15 @@ export default async function RecipesPage() {
     <>
       <NavBar active="/recipes" />
       <main className="max-w-5xl mx-auto px-4 py-8">
-        <p className="tab-label text-rust mb-1">Recipe library</p>
-        <h1 className="font-display text-3xl mb-6">Recipes</h1>
+        <div className="flex items-center justify-between mb-6">
+          <div>
+            <p className="tab-label text-rust mb-1">Recipe library</p>
+            <h1 className="font-display text-3xl">Recipes</h1>
+          </div>
+          <Link href="/recipes/new">
+            <Button>+ New Recipe</Button>
+          </Link>
+        </div>
         <RecipeBrowser recipes={recipes || []} />
       </main>
     </>

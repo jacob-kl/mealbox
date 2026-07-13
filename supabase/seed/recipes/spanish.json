@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chicken & Chorizo Paella",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 130, "note": "diced" },
+      { "ingredient": "Chorizo (fully cooked)", "qty": 2, "note": "oz, sliced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 55, "note": "" },
+      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
+      { "ingredient": "Saffron threads", "qty": 1, "note": "pinch" },
+      { "ingredient": "Smoked paprika", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Cook rice with saffron and paprika per package directions.",
+      "Sear chicken and chorizo together 6-7 min.",
+      "Add bell pepper, cook 3 min more, combine with rice."
+    ]
+  },
+  {
+    "name": "Garlic Shrimp (Gambas al Ajillo)",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "tags": ["shellfish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
+      { "ingredient": "Garlic clove", "qty": 3, "note": "sliced" },
+      { "ingredient": "Olive oil", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Smoked paprika", "qty": 1, "note": "tsp" },
+      { "ingredient": "Whole grain bread", "qty": 2, "note": "slices" }
+    ],
+    "steps": [
+      "Saute garlic in olive oil until fragrant, 1 min.",
+      "Add shrimp and paprika, cook 2-3 min per side.",
+      "Serve with bread to soak up the oil."
+    ]
+  },
+  {
+    "name": "Spanish Chicken with Manchego",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
+      { "ingredient": "Manchego cheese", "qty": 1, "note": "oz" },
+      { "ingredient": "Green olives", "qty": 10, "note": "" },
+      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Sear chicken 5-6 min per side, top with cheese to melt.",
+      "Serve with olives, tomatoes, and rice."
+    ]
+  },
+  {
+    "name": "Spanish Tortilla (Potato & Egg)",
+    "cuisine": "spanish",
+    "meal_type": "breakfast",
+    "tags": ["vegetarian", "breakfast-for-dinner"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Eggs (large)", "qty": 3, "note": "" },
+      { "ingredient": "Sweet potato", "qty": 120, "note": "thinly sliced" },
+      { "ingredient": "Yellow onion", "qty": 40, "note": "sliced" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Saute potato and onion in olive oil until soft, 10-12 min.",
+      "Pour whisked eggs over, cook covered on low 8-10 min until set."
+    ]
+  }
+]

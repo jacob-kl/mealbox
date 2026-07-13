@@ -13,6 +13,13 @@ export default async function RecalculatePage() {
   const { data: profile } = await supabase.from('profiles').select('*').eq('id', user.id).single();
   if (!profile) redirect('/onboarding');
 
+  const { data: household } = await supabase
+    .from('households')
+    .select('settings')
+    .eq('id', profile.household_id)
+    .single();
+  const units = household?.settings?.units || 'imperial';
+
   return (
     <>
       <NavBar active="/weight" />
@@ -23,7 +30,7 @@ export default async function RecalculatePage() {
           <p className="text-sm text-ink/60 mb-5">
             Redo this any time your stats or goals change — your household and settings stay the same.
           </p>
-          <RecalculateForm profile={profile} />
+          <RecalculateForm profile={profile} units={units} />
         </Card>
       </main>
     </>

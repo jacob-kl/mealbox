@@ -12,6 +12,13 @@ export default async function WeightPage() {
 
   const { data: profile } = await supabase.from('profiles').select('*').eq('id', user.id).single();
 
+  const { data: household } = await supabase
+    .from('households')
+    .select('settings')
+    .eq('id', profile.household_id)
+    .single();
+  const units = household?.settings?.units || 'imperial';
+
   const { data: logs } = await supabase
     .from('weight_logs')
     .select('weight_lb, logged_at')
@@ -24,7 +31,7 @@ export default async function WeightPage() {
       <main className="max-w-3xl mx-auto px-4 py-8">
         <p className="tab-label text-rust mb-1">Progress</p>
         <h1 className="font-display text-3xl mb-6">Weight & Targets</h1>
-        <WeightTracker profile={profile} logs={logs || []} />
+        <WeightTracker profile={profile} logs={logs || []} units={units} />
       </main>
     </>
   );

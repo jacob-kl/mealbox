@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Chicken Provencal",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Shallot",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook quinoa per package directions.",
+      "Sear chicken in olive oil 4-5 min per side, remove.",
+      "Saute shallot and tomatoes 3-4 min with oregano, return chicken to warm through.",
+      "Serve over quinoa."
+    ]
+  },
+  {
+    "name": "Salmon with Dijon Cream Sauce",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 30,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 120,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Bake salmon at 400F for 12-15 min.",
+      "Whisk Dijon and yogurt for the sauce, roast or saute zucchini.",
+      "Plate salmon with sauce, zucchini, and rice."
+    ]
+  },
+  {
+    "name": "French Onion Chicken",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Balsamic vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook quinoa per package directions.",
+      "Caramelize onion slowly in a pan, 12-15 min, deglaze with balsamic.",
+      "Sear chicken, top with onions and cheese, melt under broiler 2 min.",
+      "Serve over quinoa."
+    ]
+  },
+  {
+    "name": "Herbed White Bean & Chicken Skillet",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 150,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Sear chicken with garlic and oregano until cooked through, 6-7 min.",
+      "Add beans, warm through 3-4 min, drizzle with olive oil."
+    ]
+  },
+  {
+    "name": "French Chicken & White Bean Jar",
+    "cuisine": "french",
+    "meal_type": "lunch",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Balsamic vinegar",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      }
+    ],
+    "steps": [
+      "Layer dressing, beans, tomato, and chicken in a jar.",
+      "Shake before eating."
+    ]
+  }
+]

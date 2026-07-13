@@ -6,13 +6,41 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "pounded thin" },
-      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Eggs (large)", "qty": 0.5, "note": "" },
-      { "ingredient": "Signature Select pasta sauce", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Mozzarella cheese (part-skim)", "qty": 1, "note": "oz" },
-      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Parmesan cheese (grated)", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Signature Select pasta sauce",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Cook spaghetti per package directions.",
@@ -28,12 +56,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "butterflied" },
-      { "ingredient": "Mozzarella cheese (part-skim)", "qty": 1, "note": "oz" },
-      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "sliced" },
-      { "ingredient": "Fresh basil", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Balsamic vinegar", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Quinoa (dry)", "qty": 45, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "butterflied"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Balsamic vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 45,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook quinoa per package directions.",
@@ -46,15 +98,41 @@
     "name": "Shrimp Scampi",
     "cuisine": "italian",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
-      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "Olive oil", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Fresh parsley", "qty": 2, "note": "tbsp, chopped" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      }
     ],
     "steps": [
       "Cook spaghetti per package directions.",
@@ -66,13 +144,31 @@
     "name": "Turkey Bolognese",
     "cuisine": "italian",
     "meal_type": "dinner",
-    "tags": ["leftovers-friendly"],
+    "tags": [
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground turkey 93/7", "qty": 150, "note": "" },
-      { "ingredient": "Signature Select pasta sauce", "qty": 0.75, "note": "cup" },
-      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 65, "note": "" },
-      { "ingredient": "Parmesan cheese (grated)", "qty": 2, "note": "tbsp" }
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Signature Select pasta sauce",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 2,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Cook spaghetti per package directions.",
@@ -84,19 +180,81 @@
     "name": "Italian Chicken & White Bean Jar",
     "cuisine": "italian",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
-      { "ingredient": "Cannellini beans", "qty": 100, "note": "drained" },
-      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "halved" },
-      { "ingredient": "Fresh basil", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Balsamic vinegar", "qty": 1, "note": "tbsp, keep separate" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp, keep separate" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Balsamic vinegar",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      }
     ],
     "steps": [
       "Layer dressing at the bottom of a jar, then beans, tomato, chicken, and basil.",
       "Shake to combine before eating."
+    ]
+  },
+  {
+    "name": "Baked Ziti with Turkey",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 140,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 65,
+        "note": "broken into short pieces"
+      },
+      {
+        "ingredient": "Signature Select pasta sauce",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 1,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Cook pasta per package directions.",
+      "Brown turkey, add pasta sauce, combine with pasta.",
+      "Top with mozzarella, bake at 375F for 10 min until melted."
     ]
   }
 ]

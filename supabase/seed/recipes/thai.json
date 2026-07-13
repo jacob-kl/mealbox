@@ -6,12 +6,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "sliced" },
-      { "ingredient": "Light coconut milk (canned)", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Thai curry paste", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Bell pepper", "qty": 70, "note": "sliced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Fish sauce", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Thai curry paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -24,17 +48,51 @@
     "name": "Shrimp Pad Thai",
     "cuisine": "thai",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
-      { "ingredient": "Rice noodles (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
-      { "ingredient": "Carrot", "qty": 50, "note": "julienned" },
-      { "ingredient": "Fish sauce", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Brown sugar", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Peanut butter", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Soak rice noodles in hot water until pliable, drain.",
@@ -50,13 +108,41 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Flank/sirloin steak", "qty": 150, "note": "thinly sliced" },
-      { "ingredient": "Fresh basil", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "sliced" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "Fish sauce", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -69,21 +155,91 @@
     "name": "Coconut Shrimp Soup",
     "cuisine": "thai",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
-      { "ingredient": "Light coconut milk (canned)", "qty": 0.75, "note": "cup" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tbsp, minced" },
-      { "ingredient": "Fish sauce", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
       "Simmer coconut milk with ginger 3-4 min.",
       "Add shrimp, simmer 4-5 min until pink.",
       "Stir in fish sauce and lime juice, serve with rice."
+    ]
+  },
+  {
+    "name": "Thai Peanut Chicken Noodles",
+    "cuisine": "thai",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 160,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      }
+    ],
+    "steps": [
+      "Cook noodles per package directions.",
+      "Stir-fry chicken until cooked through, 5-6 min.",
+      "Whisk peanut butter, soy sauce, and lime juice; toss with noodles, chicken, and carrot."
     ]
   }
 ]

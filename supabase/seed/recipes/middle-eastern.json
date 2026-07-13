@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Lamb Kofta with Couscous",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground lamb", "qty": 150, "note": "" },
+      { "ingredient": "Ground cumin", "qty": 1, "note": "tsp" },
+      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
+      { "ingredient": "Couscous (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Pomegranate seeds", "qty": 0.25, "note": "cup" }
+    ],
+    "steps": [
+      "Mix lamb with cumin and garlic, form into small logs.",
+      "Pan-sear or grill 3-4 min per side.",
+      "Cook couscous per package directions, top with pomegranate seeds and kofta."
+    ]
+  },
+  {
+    "name": "Chicken Shawarma Bowl",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "sliced" },
+      { "ingredient": "Ground cumin", "qty": 1, "note": "tsp" },
+      { "ingredient": "Sumac", "qty": 1, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "English cucumber", "qty": 60, "note": "diced" },
+      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "halved" },
+      { "ingredient": "Tahini", "qty": 1, "note": "tbsp, for drizzling" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Season chicken with cumin and sumac, sear 5-6 min per side.",
+      "Slice and serve over rice with cucumber, tomato, and tahini."
+    ]
+  },
+  {
+    "name": "Falafel-Style Chickpea Bowl",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Garbanzo beans", "qty": 200, "note": "drained, roughly mashed" },
+      { "ingredient": "Ground cumin", "qty": 1, "note": "tsp" },
+      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Couscous (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Tahini", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Mix chickpeas with cumin and garlic, pan-fry in olive oil into rough patties, 4 min per side.",
+      "Serve over couscous with a drizzle of tahini."
+    ]
+  },
+  {
+    "name": "Za'atar Baked Chicken Thighs",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
+      { "ingredient": "Za'atar", "qty": 1.5, "note": "tsp" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Couscous (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" }
+    ],
+    "steps": [
+      "Toss chicken with za'atar and olive oil, bake at 400F for 20-22 min.",
+      "Cook couscous per package directions, toss with tomatoes and serve with chicken."
+    ]
+  },
+  {
+    "name": "Mediterranean Lamb & Rice Jar",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground lamb", "qty": 120, "note": "cooked, cooled" },
+      { "ingredient": "Basmati rice (dry)", "qty": 40, "note": "cooked and cooled" },
+      { "ingredient": "Cherry tomatoes", "qty": 50, "note": "halved" },
+      { "ingredient": "Feta cheese (reduced fat)", "qty": 20, "note": "crumbled" },
+      { "ingredient": "Tahini", "qty": 1, "note": "tbsp, keep separate" },
+      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp, keep separate" }
+    ],
+    "steps": [
+      "Layer rice, lamb, tomatoes, and feta in a jar with dressing at the bottom.",
+      "Shake before eating."
+    ]
+  }
+]

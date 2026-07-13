@@ -3,38 +3,46 @@
     "name": "Turkey Chili",
     "cuisine": "american",
     "meal_type": "dinner",
-    "tags": ["leftovers-friendly"],
+    "tags": [
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground turkey 85/15", "qty": 150, "note": "" },
-      { "ingredient": "Black beans", "qty": 120, "note": "drained" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 120, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 50, "note": "diced" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
-      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup, for topping" }
+      {
+        "ingredient": "Ground turkey 85/15",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 120,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 0.25,
+        "note": "cup, for topping"
+      }
     ],
     "steps": [
       "Brown turkey with onion and pepper, about 6-8 min.",
       "Add beans, tomatoes, and chili spices. Simmer 20 min.",
       "Top with shredded cheddar to serve."
-    ]
-  },
-  {
-    "name": "Baked Cod with Sweet Potato & Broccoli",
-    "cuisine": "american",
-    "meal_type": "dinner",
-    "tags": ["fish"],
-    "base_servings": 1,
-    "ingredients": [
-      { "ingredient": "Frozen cod", "qty": 170, "note": "" },
-      { "ingredient": "Sweet potato", "qty": 150, "note": "" },
-      { "ingredient": "Broccoli florets", "qty": 120, "note": "" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
-    ],
-    "steps": [
-      "Roast cubed sweet potato at 400F for 20-25 min, tossing halfway.",
-      "Season cod and bake alongside for the last 12-15 min until it flakes easily.",
-      "Steam or roast broccoli. Plate together."
     ]
   },
   {
@@ -44,10 +52,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Flank/sirloin steak", "qty": 170, "note": "" },
-      { "ingredient": "Sweet potato", "qty": 130, "note": "cubed" },
-      { "ingredient": "Zucchini", "qty": 100, "note": "sliced" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 130,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Roast sweet potato and zucchini at 400F, about 20 min.",
@@ -62,12 +86,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground turkey 93/7", "qty": 150, "note": "" },
-      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Eggs (large)", "qty": 0.5, "note": "" },
-      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 65, "note": "" },
-      { "ingredient": "Signature Select pasta sauce", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Parmesan cheese (grated)", "qty": 2, "note": "tbsp" }
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Signature Select pasta sauce",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 2,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Mix turkey with breadcrumbs and egg, form into meatballs, bake at 400F for 18-20 min.",
@@ -83,10 +131,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
-      { "ingredient": "Quinoa (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Zucchini", "qty": 120, "note": "sliced" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 120,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Cook quinoa per package directions.",
@@ -99,13 +163,33 @@
     "name": "Cottage Cheese & Fruit Bowl",
     "cuisine": "american",
     "meal_type": "breakfast",
-    "tags": ["vegetarian", "no-cook", "cold-friendly"],
+    "tags": [
+      "vegetarian",
+      "no-cook",
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Cottage cheese 2%", "qty": 1, "note": "cup" },
-      { "ingredient": "Frozen mixed berries", "qty": 0.75, "note": "cup, thawed" },
-      { "ingredient": "Almonds", "qty": 15, "note": "g" },
-      { "ingredient": "Honey", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Frozen mixed berries",
+        "qty": 0.75,
+        "note": "cup, thawed"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 15,
+        "note": "g"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Spoon cottage cheese into a bowl.",
@@ -116,18 +200,451 @@
     "name": "Turkey & Cheddar Grain Bowl",
     "cuisine": "american",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground turkey 93/7", "qty": 140, "note": "cooked, cooled" },
-      { "ingredient": "Quinoa (dry)", "qty": 40, "note": "cooked and cooled" },
-      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
-      { "ingredient": "Zucchini", "qty": 60, "note": "diced" }
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 140,
+        "note": "cooked, cooled"
+      },
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 60,
+        "note": "diced"
+      }
     ],
     "steps": [
       "Combine cooled quinoa, turkey, cheese, and vegetables in a jar or container.",
       "Refrigerate; eat cold or reheated."
+    ]
+  },
+  {
+    "name": "Baked Mac and Cheese with Chicken",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Elbow macaroni (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Milk (2%)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken breast",
+        "qty": 120,
+        "note": "cooked, diced"
+      }
+    ],
+    "steps": [
+      "Cook macaroni per package directions.",
+      "Melt butter, whisk in milk and cheese over low heat until smooth.",
+      "Fold in macaroni and chicken, transfer to a baking dish.",
+      "Bake at 375F for 15 min until bubbly on top."
+    ]
+  },
+  {
+    "name": "Sunday Pot Roast",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 180,
+        "note": "cut for stewing"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "quartered"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 80,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "quartered"
+      }
+    ],
+    "steps": [
+      "Sear beef on all sides in a hot pot, 4-5 min total.",
+      "Add broth, potato, carrot, and onion.",
+      "Cover and braise on low (stovetop or 325F oven) for 2-2.5 hours until fork-tender."
+    ]
+  },
+  {
+    "name": "Chicken Pot Pie Skillet",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 160,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Frozen peas",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Milk (2%)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Refrigerated pie crust",
+        "qty": 1,
+        "note": "slice, torn into pieces on top"
+      }
+    ],
+    "steps": [
+      "Saute chicken and carrot in butter until chicken is cooked through, 6-7 min.",
+      "Add peas and milk, simmer 4-5 min until slightly thickened.",
+      "Top with torn pie crust pieces, broil 3-4 min until golden."
+    ]
+  },
+  {
+    "name": "Classic Meatloaf",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 2,
+        "note": "tbsp, plus more for glaze"
+      }
+    ],
+    "steps": [
+      "Mix beef, breadcrumbs, egg, and ketchup; form into a loaf.",
+      "Top with a thin layer of ketchup, bake at 375F for 40-45 min.",
+      "Rest 5 min before slicing."
+    ]
+  },
+  {
+    "name": "Mashed Potatoes",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Milk (2%)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Boil potatoes until fork-tender, about 15 min.",
+      "Drain and mash with butter and milk."
+    ]
+  },
+  {
+    "name": "Baked Cod",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Season cod, drizzle with olive oil.",
+      "Bake at 400F for 12-15 min until it flakes easily."
+    ]
+  },
+  {
+    "name": "Roasted Sweet Potato & Broccoli",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss sweet potato and broccoli with olive oil.",
+      "Roast at 400F for 20-25 min, tossing halfway."
+    ]
+  },
+  {
+    "name": "Grilled Chicken Breast (Plain)",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded to even thickness"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Season chicken with salt and pepper, rub with olive oil.",
+      "Grill or pan-sear 5-6 min per side until cooked through."
+    ]
+  },
+  {
+    "name": "Egg White Power Scramble",
+    "cuisine": "american",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Liquid egg whites",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 0.5,
+        "note": "cup, stirred in off heat"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Wilt spinach in a lightly oiled pan.",
+      "Add egg whites, scramble until just set.",
+      "Fold in cottage cheese off the heat."
+    ]
+  },
+  {
+    "name": "Turkey & Egg White Skillet",
+    "cuisine": "american",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Liquid egg whites",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Brown turkey with bell pepper, 6-7 min.",
+      "Pour in egg whites, scramble until set."
+    ]
+  },
+  {
+    "name": "Chicken & Cottage Cheese Power Bowl",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 180,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 60,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Combine chicken, cottage cheese, tomato, and cucumber in a bowl.",
+      "Season with salt, pepper, and a squeeze of lemon if desired."
+    ]
+  },
+  {
+    "name": "Tuna Protein Bowl",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 200,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Celery",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix everything together. Season with salt, pepper, and a squeeze of lemon."
     ]
   }
 ]

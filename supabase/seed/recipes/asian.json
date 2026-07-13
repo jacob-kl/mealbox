@@ -3,16 +3,46 @@
     "name": "Ginger Soy Salmon with Broccoli & Rice",
     "cuisine": "asian",
     "meal_type": "dinner",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
-      { "ingredient": "Brown rice (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Broccoli florets", "qty": 120, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tbsp, minced" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" },
-      { "ingredient": "Honey", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -28,14 +58,46 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "sliced thin" },
-      { "ingredient": "Broccoli florets", "qty": 100, "note": "" },
-      { "ingredient": "Carrot", "qty": 60, "note": "sliced" },
-      { "ingredient": "Snap peas", "qty": 60, "note": "" },
-      { "ingredient": "Brown rice (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tbsp, minced" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Snap peas",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -48,17 +110,51 @@
     "name": "Peanut Tofu Rice Noodle Bowl",
     "cuisine": "asian",
     "meal_type": "dinner",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Tofu (firm)", "qty": 150, "note": "cubed" },
-      { "ingredient": "Rice noodles (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Carrot", "qty": 60, "note": "julienned" },
-      { "ingredient": "Snap peas", "qty": 60, "note": "" },
-      { "ingredient": "Peanut butter", "qty": 1, "note": "tbsp, for sauce" },
-      { "ingredient": "Soy sauce", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" }
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Snap peas",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1,
+        "note": "tbsp, for sauce"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
     ],
     "steps": [
       "Cook rice noodles per package directions and rinse under cold water.",
@@ -71,16 +167,47 @@
     "name": "Shrimp Fried Rice",
     "cuisine": "asian",
     "meal_type": "dinner",
-    "tags": ["shellfish", "leftovers-friendly"],
+    "tags": [
+      "shellfish",
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
-      { "ingredient": "Brown rice (dry)", "qty": 60, "note": "cooked and cooled, ideally day-old" },
-      { "ingredient": "Frozen peas", "qty": 60, "note": "" },
-      { "ingredient": "Carrot", "qty": 50, "note": "diced" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled, ideally day-old"
+      },
+      {
+        "ingredient": "Frozen peas",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Scramble the egg in a hot wok or skillet, then set aside.",
@@ -93,19 +220,92 @@
     "name": "Sesame Chicken & Edamame Jar",
     "cuisine": "asian",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
-      { "ingredient": "Frozen edamame (shelled)", "qty": 80, "note": "cooked, cooled" },
-      { "ingredient": "Carrot", "qty": 60, "note": "shredded" },
-      { "ingredient": "Brown rice (dry)", "qty": 40, "note": "cooked and cooled" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
-      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp, keep separate" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Frozen edamame (shelled)",
+        "qty": 80,
+        "note": "cooked, cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp, keep separate"
+      }
     ],
     "steps": [
       "Layer dressing at the bottom of the jar, then rice, edamame, carrot, and chicken.",
       "Shake to combine before eating."
+    ]
+  },
+  {
+    "name": "Miso Glazed Cod",
+    "cuisine": "asian",
+    "meal_type": "dinner",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Whisk soy sauce, honey, and ginger; brush over cod.",
+      "Bake at 400F for 12-15 min, roast broccoli alongside.",
+      "Serve over rice."
     ]
   }
 ]

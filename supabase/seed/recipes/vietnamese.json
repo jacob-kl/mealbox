@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Shrimp Summer Rolls",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "tags": ["shellfish", "no-cook"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 150, "note": "cooked, halved lengthwise" },
+      { "ingredient": "Rice paper wrappers", "qty": 4, "note": "sheets" },
+      { "ingredient": "Vermicelli rice noodles (dry)", "qty": 40, "note": "cooked" },
+      { "ingredient": "Carrot", "qty": 50, "note": "julienned" },
+      { "ingredient": "Fresh mint", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Peanut butter", "qty": 1, "note": "tbsp, for dipping sauce" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, for dipping sauce" }
+    ],
+    "steps": [
+      "Soften rice paper in warm water briefly.",
+      "Layer noodles, shrimp, carrot, and mint, roll tightly.",
+      "Whisk peanut butter and soy sauce with a splash of water for dipping sauce."
+    ]
+  },
+  {
+    "name": "Beef Pho",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Flank/sirloin steak", "qty": 130, "note": "thinly sliced" },
+      { "ingredient": "Rice noodles (dry)", "qty": 60, "note": "" },
+      { "ingredient": "Bean sprouts", "qty": 60, "note": "" },
+      { "ingredient": "Fresh basil", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Fish sauce", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" }
+    ],
+    "steps": [
+      "Simmer broth (water, fish sauce, ginger) for 10 min.",
+      "Cook noodles separately, add to bowl.",
+      "Ladle hot broth over raw sliced beef so it cooks in the bowl.",
+      "Top with bean sprouts and basil."
+    ]
+  },
+  {
+    "name": "Vietnamese Grilled Pork with Rice Noodles",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Pork tenderloin", "qty": 150, "note": "sliced thin" },
+      { "ingredient": "Fish sauce", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Brown sugar", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
+      { "ingredient": "Vermicelli rice noodles (dry)", "qty": 55, "note": "" },
+      { "ingredient": "Carrot", "qty": 50, "note": "shredded" }
+    ],
+    "steps": [
+      "Marinate pork in fish sauce, brown sugar, and garlic 10 min if time allows.",
+      "Sear pork 2-3 min per side.",
+      "Cook noodles, top with pork and shredded carrot."
+    ]
+  },
+  {
+    "name": "Tofu Banh Mi Bowl",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "tags": ["vegetarian", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Tofu (firm)", "qty": 150, "note": "cubed, pan-seared" },
+      { "ingredient": "Carrot", "qty": 60, "note": "shredded" },
+      { "ingredient": "English cucumber", "qty": 60, "note": "sliced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
+      { "ingredient": "Sriracha", "qty": 1, "note": "tsp, keep separate" }
+    ],
+    "steps": [
+      "Cook rice, cool slightly.",
+      "Layer rice, tofu, carrot, and cucumber in a container.",
+      "Drizzle with soy sauce and sriracha before eating."
+    ]
+  }
+]
