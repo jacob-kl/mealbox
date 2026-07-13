@@ -72,14 +72,12 @@ export async function POST(request) {
     targetProteinG: m.target_protein_g ?? null,
   }));
 
-  // If this is a paired main/side, only search for that course's recipes.
-  // The main carries the full slot's protein target (it's the protein
-  // source); the side scales by calories only. If there's no sibling row,
-  // this is a standalone shared meal — search the combined complete+main
-  // pool (same as generation) rather than restricting to 'complete' only,
-  // so swapping doesn't lose access to most of the library.
+  // If this is a paired main/side, only search for that course's recipes
+  // and only swap that one course's share of the slot's budget. If there's
+  // no sibling row, this is a standalone shared meal — search the combined
+  // complete+main pool (same as generation) rather than restricting to
+  // 'complete' only, so swapping doesn't lose access to most of the library.
   let calorieShare = baseShare;
-  let proteinShare = baseShare;
   let filterCourse = null;
   let filterCourseIn = mealSlot === 'dinner' ? ['complete', 'main'] : null;
   if (isSharedSlot && mealSlot === 'dinner') {
@@ -95,13 +93,7 @@ export async function POST(request) {
     if (sibling) {
       filterCourseIn = null;
       filterCourse = course;
-      if (course === 'side') {
-        calorieShare = baseShare * (COURSE_SHARE.side ?? 1);
-        proteinShare = null;
-      } else {
-        calorieShare = baseShare * (COURSE_SHARE.main ?? 1);
-        proteinShare = baseShare; // full slot protein target
-      }
+      calorieShare = baseShare * (COURSE_SHARE[course] ?? 1);
     }
   }
 
@@ -119,7 +111,6 @@ export async function POST(request) {
     cuisine,
     excludeId: currentMeal?.recipe_id,
     calorieShare,
-    proteinShare,
   });
 
   const update = {

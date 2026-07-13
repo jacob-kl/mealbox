@@ -3,10 +3,10 @@
 import { useEffect, useState } from 'react';
 
 export const THEMES = [
-  { id: 'harvest', label: 'Harvest', swatch: '#C1502E' },
-  { id: 'citrus', label: 'Citrus', swatch: '#F0641E' },
-  { id: 'berry', label: 'Berry', swatch: '#D6336C' },
-  { id: 'ocean', label: 'Ocean', swatch: '#FF6B5B' },
+  { id: 'harvest', label: 'Harvest', blurb: 'Warm recipe-box classic', from: '#C1502E', to: '#D9A441' },
+  { id: 'citrus', label: 'Citrus', blurb: 'Bold & modern', from: '#F0641E', to: '#0E8A7D' },
+  { id: 'berry', label: 'Berry', blurb: 'Soft & playful', from: '#D6336C', to: '#6C3483' },
+  { id: 'ocean', label: 'Ocean', blurb: 'Clean & breezy', from: '#FF6B5B', to: '#12677A' },
 ];
 
 export default function ThemeSwitcher() {
@@ -30,20 +30,27 @@ export default function ThemeSwitcher() {
         type="button"
         onClick={() => setOpen((v) => !v)}
         className="w-7 h-7 rounded-full border border-line"
-        style={{ backgroundColor: THEMES.find((t) => t.id === theme)?.swatch }}
+        style={{ background: `linear-gradient(135deg, ${THEMES.find((t) => t.id === theme)?.from}, ${THEMES.find((t) => t.id === theme)?.to})` }}
         aria-label="Switch color theme"
       />
       {open && (
-        <div className="absolute right-0 mt-2 index-card p-2 flex gap-1.5 z-20">
+        <div className="absolute right-0 mt-2 index-card p-2 w-48 z-20">
           {THEMES.map((t) => (
             <button
               key={t.id}
               type="button"
               onClick={() => applyTheme(t.id)}
-              title={t.label}
-              className={`w-7 h-7 rounded-full border-2 ${theme === t.id ? 'border-ink' : 'border-transparent'}`}
-              style={{ backgroundColor: t.swatch }}
-            />
+              className={`w-full flex items-center gap-2.5 px-2 py-2 rounded-card hover:bg-paper text-left ${theme === t.id ? 'bg-paper' : ''}`}
+            >
+              <span
+                className="w-6 h-6 rounded-full border border-line shrink-0"
+                style={{ background: `linear-gradient(135deg, ${t.from}, ${t.to})` }}
+              />
+              <span>
+                <span className="text-sm block leading-tight">{t.label}</span>
+                <span className="text-xs text-ink/50 block leading-tight">{t.blurb}</span>
+              </span>
+            </button>
           ))}
         </div>
       )}

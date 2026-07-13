@@ -5,14 +5,44 @@ export function Card({ children, className = '' }) {
   return <div className={`index-card p-6 ${className}`}>{children}</div>;
 }
 
-export function Badge({ children, tone = 'pine', className = '' }) {
-  const tones = {
-    pine: 'bg-pine/10 text-pineDark',
-    rust: 'bg-rust/10 text-rustDark',
-    gold: 'bg-gold/20 text-ink',
-  };
+const TAG_STYLE = {
+  fish: { icon: '🐟', tone: 'ocean' },
+  shellfish: { icon: '🦐', tone: 'ocean' },
+  vegetarian: { icon: '🌱', tone: 'leaf' },
+  'cold-friendly': { icon: '❄️', tone: 'ocean' },
+  'no-cook': { icon: '🔥', tone: 'ember' },
+  'leftovers-friendly': { icon: '♻️', tone: 'leaf' },
+  'breakfast-for-dinner': { icon: '🌅', tone: 'sun' },
+  mushroom: { icon: '🍄', tone: 'earth' },
+  'raw-onion': { icon: '🧅', tone: 'earth' },
+  lentil: { icon: '🫘', tone: 'earth' },
+  okra: { icon: '🌿', tone: 'leaf' },
+  eggplant: { icon: '🍆', tone: 'earth' },
+  main: { icon: '🍽️', tone: 'ember' },
+  side: { icon: '🥗', tone: 'leaf' },
+  private: { icon: '🔒', tone: 'sun' },
+};
+
+const TONE_STYLES = {
+  pine: 'bg-pine/10 text-pineDark',
+  rust: 'bg-rust/10 text-rustDark',
+  gold: 'bg-gold/20 text-ink',
+  ocean: 'bg-sky-500/12 text-sky-700',
+  leaf: 'bg-emerald-500/12 text-emerald-700',
+  ember: 'bg-orange-500/12 text-orange-700',
+  sun: 'bg-amber-400/20 text-amber-800',
+  earth: 'bg-stone-500/12 text-stone-700',
+};
+
+export function Badge({ children, tone, className = '' }) {
+  const key = typeof children === 'string' ? children.toLowerCase() : null;
+  const style = key ? TAG_STYLE[key] : null;
+  const resolvedTone = tone || style?.tone || 'pine';
   return (
-    <span className={`tab-label inline-block rounded-full px-2.5 py-1 ${tones[tone]} ${className}`}>
+    <span
+      className={`tab-label inline-flex items-center gap-1 rounded-full px-2.5 py-1 ${TONE_STYLES[resolvedTone] || TONE_STYLES.pine} ${className}`}
+    >
+      {style?.icon && <span className="text-xs not-italic">{style.icon}</span>}
       {children}
     </span>
   );

@@ -237,5 +237,26 @@
       "Whisk everything together in a mug.",
       "Microwave 60-90 sec until set."
     ]
+  },
+  {
+    "name": "Flan",
+    "cuisine": "mexican",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": ["vegetarian"],
+    "base_servings": 4,
+    "ingredients": [
+      { "ingredient": "Eggs (large)", "qty": 3, "note": "" },
+      { "ingredient": "Sweetened condensed milk", "qty": 6, "note": "tbsp" },
+      { "ingredient": "Evaporated milk", "qty": 1, "note": "cup" },
+      { "ingredient": "Granulated sugar", "qty": 4, "note": "tbsp, for the caramel" },
+      { "ingredient": "Vanilla extract", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Melt sugar in a saucepan until amber, pour into ramekins to coat the bottom.",
+      "Whisk eggs, condensed milk, evaporated milk, and vanilla; pour over the caramel.",
+      "Bake in a water bath at 350F for 45-50 min until just set.",
+      "Chill at least 3 hours, then invert onto a plate to serve."
+    ]
   }
 ]

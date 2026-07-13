@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ============================================================================
+   Harvest — the original: warm paper, serif headings, a punched recipe-card
+   tab, and a faint ruled-notebook background.
+   ============================================================================ */
 :root,
 [data-theme='harvest'] {
   --color-paper: 250 246 236;
@@ -13,8 +17,22 @@
   --color-pine-dark: 46 69 54;
   --color-gold: 217 164 65;
   --color-line: 228 220 200;
+  --font-display: 'Fraunces', serif;
+  --display-style: normal;
+  --card-radius: 10px;
+  --card-shadow: 0 1px 2px rgba(43, 42, 38, 0.06), 0 6px 16px rgba(43, 42, 38, 0.08);
+  --card-top-accent: none;
+  --show-punch-tab: block;
+  --body-pattern:
+    linear-gradient(90deg, transparent 39px, rgb(var(--color-line)) 39px, rgb(var(--color-line)) 41px, transparent 41px),
+    repeating-linear-gradient(rgb(var(--color-paper)) 0px, rgb(var(--color-paper)) 27px, rgb(var(--color-paper) / 0.6) 28px);
+  --body-pattern-size: 100% 100%, 100% 28px;
 }
 
+/* ============================================================================
+   Citrus — bold and modern: geometric display type, sharp corners, a
+   confetti dot-grid, and a punchy flat top accent bar instead of a tab.
+   ============================================================================ */
 [data-theme='citrus'] {
   --color-paper: 255 248 238;
   --color-card: 255 255 255;
@@ -25,8 +43,20 @@
   --color-pine-dark: 8 97 88;
   --color-gold: 255 201 60;
   --color-line: 242 220 192;
+  --font-display: 'Space Grotesk', sans-serif;
+  --display-style: normal;
+  --card-radius: 6px;
+  --card-shadow: 0 2px 0 rgb(var(--color-ink) / 0.06), 0 10px 24px rgba(240, 100, 30, 0.14);
+  --card-top-accent: block;
+  --show-punch-tab: none;
+  --body-pattern: radial-gradient(rgb(var(--color-rust) / 0.14) 1.5px, transparent 1.5px);
+  --body-pattern-size: 18px 18px;
 }
 
+/* ============================================================================
+   Berry — soft and playful: italic serif headings, generously rounded
+   cards, a gentle diagonal wash, no hard edges anywhere.
+   ============================================================================ */
 [data-theme='berry'] {
   --color-paper: 251 243 247;
   --color-card: 255 255 255;
@@ -37,8 +67,26 @@
   --color-pine-dark: 78 36 97;
   --color-gold: 242 166 90;
   --color-line: 235 211 224;
+  --font-display: 'Fraunces', serif;
+  --display-style: italic;
+  --card-radius: 22px;
+  --card-shadow: 0 8px 28px rgba(214, 51, 108, 0.12);
+  --card-top-accent: none;
+  --show-punch-tab: none;
+  --body-pattern: repeating-linear-gradient(
+    135deg,
+    rgb(var(--color-rust) / 0.05) 0px,
+    rgb(var(--color-rust) / 0.05) 2px,
+    transparent 2px,
+    transparent 26px
+  );
+  --body-pattern-size: 100% 100%;
 }
 
+/* ============================================================================
+   Ocean — clean and breezy: geometric type, medium-round cards, a subtle
+   wave gradient, airy and uncluttered.
+   ============================================================================ */
 [data-theme='ocean'] {
   --color-paper: 240 247 248;
   --color-card: 255 255 255;
@@ -49,39 +97,58 @@
   --color-pine-dark: 11 74 88;
   --color-gold: 255 200 87;
   --color-line: 207 227 230;
+  --font-display: 'Space Grotesk', sans-serif;
+  --display-style: normal;
+  --card-radius: 14px;
+  --card-shadow: 0 1px 2px rgba(18, 103, 122, 0.06), 0 12px 28px rgba(18, 103, 122, 0.1);
+  --card-top-accent: none;
+  --show-punch-tab: none;
+  --body-pattern: repeating-radial-gradient(
+    circle at 0 0,
+    rgb(var(--color-pine) / 0.05),
+    rgb(var(--color-pine) / 0.05) 1px,
+    transparent 1px,
+    transparent 24px
+  );
+  --body-pattern-size: 24px 24px;
 }
 
 :root {
-  --font-display: 'Fraunces', serif;
   --font-body: 'Inter', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
 }
 
-html, body {
+html,
+body {
   background-color: rgb(var(--color-paper));
   color: rgb(var(--color-ink));
 }
 
 body {
-  background-image:
-    linear-gradient(90deg, transparent 39px, rgb(var(--color-line)) 39px, rgb(var(--color-line)) 41px, transparent 41px),
-    repeating-linear-gradient(rgb(var(--color-paper)) 0px, rgb(var(--color-paper)) 27px, rgb(var(--color-paper) / 0.6) 28px);
+  background-image: var(--body-pattern);
   background-attachment: local;
-  background-size: 100% 100%, 100% 28px;
+  background-size: var(--body-pattern-size);
 }
 
-/* Recipe-card signature: a punched tab at the top of primary cards */
+.font-display {
+  font-style: var(--display-style);
+}
+
+/* Recipe-card look — a punched tab in Harvest, a flat top accent bar in
+   Citrus, and nothing extra (just the rounded shadowed card) elsewhere. */
 .index-card {
   position: relative;
   background: rgb(var(--color-card));
   border: 1px solid rgb(var(--color-line));
-  border-radius: 10px;
-  box-shadow: 0 1px 2px rgba(43,42,38,0.06), 0 6px 16px rgba(43,42,38,0.08);
+  border-radius: var(--card-radius, 10px);
+  box-shadow: var(--card-shadow);
+  overflow: hidden;
 }
 
 .index-card::before {
   content: '';
   position: absolute;
+  display: var(--show-punch-tab, none);
   top: -7px;
   left: 22px;
   width: 14px;
@@ -89,6 +156,18 @@ body {
   background: rgb(var(--color-paper));
   border: 1px solid rgb(var(--color-line));
   border-radius: 999px;
+  z-index: 1;
+}
+
+.index-card::after {
+  content: '';
+  position: absolute;
+  display: var(--card-top-accent, none);
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, rgb(var(--color-rust)), rgb(var(--color-gold)));
 }
 
 .tab-label {

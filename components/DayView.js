@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
 import RecipeDetail from '@/components/RecipeDetail';
+import { recommendSupplements } from '@/lib/supplements';
 import { addDays, friendlyDate } from '@/lib/dates';
 
 const SLOT_LABELS = {
@@ -29,6 +30,7 @@ function macrosFor(meal, profileId) {
     protein: Math.round(m.protein * servings),
     carbs: Math.round(m.carbs * servings),
     fat: Math.round(m.fat * servings),
+    servings,
   };
 }
 
@@ -163,6 +165,28 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
     fat: Math.round(profile.target_fat_g - totals.fat),
   };
 
+  const snackCatalog = useMemo(() => recipeCatalog.filter((r) => r.meal_type === 'snack'), [recipeCatalog]);
+  const supplementSuggestions = useMemo(
+    () => recommendSupplements(remaining, snackCatalog),
+    [remaining, snackCatalog]
+  );
+
+  async function addSupplement(recipe) {
+    setBusy(true);
+    const m = recipe.macros_per_serving;
+    await supabase.from('meal_log').insert({
+      profile_id: profile.id,
+      log_date: date,
+      custom_name: recipe.name,
+      cal: m?.cal ?? 0,
+      protein: m?.protein ?? 0,
+      carbs: m?.carbs ?? 0,
+      fat: m?.fat ?? 0,
+    });
+    setBusy(false);
+    router.refresh();
+  }
+
   return (
     <div>
       <div className="flex items-center justify-between gap-4 mb-6">
@@ -248,11 +272,39 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                     {macros && (
                       <p className="font-mono text-xs text-ink/60">
                         {macros.cal} cal · {macros.protein}p · {macros.carbs}c · {macros.fat}f
+                        {macros.servings !== 1 && <span className="text-ink/40"> ({macros.servings}x serving)</span>}
                       </p>
                     )}
                   </button>
                 </div>
                 {expanded && <RecipeDetail recipe={meal.recipe} />}
+              </Card>
+            );
+          })}
+        </div>
+      )}
+
+      {supplementSuggestions.length > 0 && (
+        <div className="space-y-3 mb-6">
+          <div>
+            <p className="tab-label text-rust">Recommended supplements</p>
+            <p className="text-xs text-ink/50">
+              Your planned meals land under target on purpose — here&apos;s what would close the rest of the way.
+            </p>
+          </div>
+          {supplementSuggestions.map((recipe) => {
+            const m = recipe.macros_per_serving;
+            return (
+              <Card key={recipe.id} className="flex items-center justify-between gap-3">
+                <div>
+                  <p className="font-display text-base">{recipe.name}</p>
+                  <p className="font-mono text-xs text-ink/60">
+                    {Math.round(m.cal)} cal · {Math.round(m.protein)}p · {Math.round(m.carbs)}c · {Math.round(m.fat)}f
+                  </p>
+                </div>
+                <Button variant="secondary" onClick={() => addSupplement(recipe)} disabled={busy}>
+                  + Add
+                </Button>
               </Card>
             );
           })}

@@ -3413,5 +3413,89 @@
     "fat": 0.1,
     "fiber": 2.2,
     "micros": {}
+  },
+  {
+    "name": "Miso paste",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 34,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 1,
+    "fiber": 1,
+    "micros": {}
+  },
+  {
+    "name": "Ramen noodles (fresh)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g fresh",
+    "cal": 280,
+    "protein": 9,
+    "carbs": 55,
+    "fat": 2,
+    "fiber": 2,
+    "micros": {}
+  },
+  {
+    "name": "Nori sheets",
+    "serving_qty": 1,
+    "serving_unit": "sheet",
+    "serving_label": "per 1 sheet",
+    "cal": 5,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {}
+  },
+  {
+    "name": "Sweetened condensed milk",
+    "serving_qty": 2,
+    "serving_unit": "tbsp",
+    "serving_label": "per 2 tbsp (30g)",
+    "cal": 123,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 3,
+    "fiber": 0,
+    "micros": {}
+  },
+  {
+    "name": "Evaporated milk",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (60ml)",
+    "cal": 42,
+    "protein": 2,
+    "carbs": 3,
+    "fat": 2,
+    "fiber": 0,
+    "micros": {}
+  },
+  {
+    "name": "Granulated sugar",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 48,
+    "protein": 0,
+    "carbs": 12.6,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {}
+  },
+  {
+    "name": "Vanilla extract",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 12,
+    "protein": 0,
+    "carbs": 0.5,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {}
   }
 ]

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Shoyu Ramen with Chicken",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 150, "note": "sliced" },
+      { "ingredient": "Ramen noodles (fresh)", "qty": 150, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
+      { "ingredient": "Scallions", "qty": 2, "note": "tbsp, sliced" },
+      { "ingredient": "Eggs (large)", "qty": 1, "note": "soft-boiled" }
+    ],
+    "steps": [
+      "Simmer broth (water, soy sauce, ginger) 10 min.",
+      "Cook noodles per package directions, cook chicken through in the broth.",
+      "Assemble bowl with noodles, broth, chicken, soft-boiled egg, and scallions."
+    ]
+  },
+  {
+    "name": "Miso Ramen with Pork",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Pork tenderloin", "qty": 150, "note": "sliced thin" },
+      { "ingredient": "Ramen noodles (fresh)", "qty": 150, "note": "" },
+      { "ingredient": "Miso paste", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Bok choy", "qty": 80, "note": "" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
+      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+    ],
+    "steps": [
+      "Whisk miso into hot broth (water + a splash of soy sauce) until dissolved.",
+      "Sear pork slices, cook noodles and bok choy separately.",
+      "Assemble bowl with noodles, broth, pork, and bok choy, drizzle with sesame oil."
+    ]
+  },
+  {
+    "name": "Chicken Katsu with Rice",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "pounded thin" },
+      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 4, "note": "tbsp" },
+      { "ingredient": "Eggs (large)", "qty": 0.5, "note": "" },
+      { "ingredient": "Ketchup", "qty": 1, "note": "tbsp, for tonkatsu-style sauce" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tsp, for sauce" }
+    ],
+    "steps": [
+      "Dip chicken in egg, then breadcrumbs.",
+      "Pan-fry 3-4 min per side until golden and cooked through.",
+      "Whisk ketchup and soy sauce for a quick tonkatsu-style sauce. Slice and serve."
+    ]
+  },
+  {
+    "name": "Salmon Teriyaki Bowl",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": ["fish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
+      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Honey", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" }
+    ],
+    "steps": [
+      "Whisk soy sauce, honey, and ginger; brush over salmon.",
+      "Bake at 400F for 12-15 min, basting once."
+    ]
+  },
+  {
+    "name": "Steamed Rice & Nori",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "side",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
+      { "ingredient": "Nori sheets", "qty": 1, "note": "torn into strips" },
+      { "ingredient": "Sesame seeds", "qty": 1, "note": "tsp" }
+    ],
+    "steps": ["Cook rice per package directions, top with torn nori and sesame seeds."]
+  },
+  {
+    "name": "Japanese Curry Chicken",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "cubed" },
+      { "ingredient": "Carrot", "qty": 60, "note": "sliced" },
+      { "ingredient": "Yukon gold potato", "qty": 120, "note": "cubed" },
+      { "ingredient": "Curry powder", "qty": 2, "note": "tsp" },
+      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Simmer chicken, carrot, and potato in water with curry powder 20 min until tender.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Chicken & Miso Rice Jar",
+    "cuisine": "japanese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, sliced" },
+      { "ingredient": "Basmati rice (dry)", "qty": 40, "note": "cooked and cooled" },
+      { "ingredient": "Carrot", "qty": 50, "note": "shredded" },
+      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
+      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp, keep separate" }
+    ],
+    "steps": ["Layer dressing, rice, carrot, and chicken in a jar. Shake before eating."]
+  }
+]

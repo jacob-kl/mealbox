@@ -5,9 +5,26 @@ import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import { Card } from '@/components/ui';
+import PackCircle from '@/components/PackCircle';
 import { addDays } from '@/lib/dates';
 import { buildShoppingList } from '@/lib/shoppingList';
 import { formatQty } from '@/lib/nutrition';
+
+function ItemLabel({ item }) {
+  if (item.packCount) {
+    return (
+      <span className="text-sm flex items-center gap-2">
+        <PackCircle count={item.packCount} />
+        {item.ingredient} <span className="text-ink/50">({item.packLabel})</span>
+      </span>
+    );
+  }
+  return (
+    <span className="text-sm">
+      <span className="font-mono text-ink/70">{formatQty(item.qty, item.unit)}</span> {item.ingredient}
+    </span>
+  );
+}
 
 export default function ShoppingList({ weekStart, weekPlanId, meals, checks }) {
   const supabase = createClient();
@@ -88,10 +105,7 @@ export default function ShoppingList({ weekStart, weekPlanId, meals, checks }) {
                     onChange={() => toggle(item.ingredient)}
                     className="w-5 h-5 accent-pine"
                   />
-                  <span className="text-sm">
-                    <span className="font-mono text-ink/70">{formatQty(item.qty, item.unit)}</span>{' '}
-                    {item.ingredient}
-                  </span>
+                  <ItemLabel item={item} />
                 </label>
               ))}
               {remaining.length === 0 && <p className="text-sm text-ink/50 italic">Everything&apos;s checked off.</p>}
@@ -111,9 +125,8 @@ export default function ShoppingList({ weekStart, weekPlanId, meals, checks }) {
                       onChange={() => toggle(item.ingredient)}
                       className="w-5 h-5 accent-pine"
                     />
-                    <span className="text-sm line-through">
-                      <span className="font-mono text-ink/70">{formatQty(item.qty, item.unit)}</span>{' '}
-                      {item.ingredient}
+                    <span className="line-through">
+                      <ItemLabel item={item} />
                     </span>
                   </label>
                 ))}
