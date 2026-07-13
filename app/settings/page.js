@@ -20,7 +20,7 @@ export default async function SettingsPage() {
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, goal')
+    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, goal, diet_type')
     .eq('household_id', profile.household_id);
 
   return (

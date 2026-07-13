@@ -4,7 +4,8 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button, MACRO_LABELS, CUISINES } from '@/components/ui';
-import { DEFAULT_STRUCTURE_RULES } from '@/lib/weekBuilder';
+import { DEFAULT_STRUCTURE_RULES, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
+import { DIET_TYPES } from '@/lib/macros';
 import { DAY_NAMES } from '@/lib/dates';
 
 const BLOCKABLE_TAGS = [
@@ -32,6 +33,9 @@ export default function SettingsForm({ household, members }) {
   const [structureRules, setStructureRules] = useState(
     household.settings?.structureRules || DEFAULT_STRUCTURE_RULES
   );
+  const [mealStructure, setMealStructure] = useState(
+    household.settings?.mealStructure || DEFAULT_MEAL_STRUCTURE
+  );
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
 
@@ -45,12 +49,22 @@ export default function SettingsForm({ household, members }) {
     );
   }
 
+  function toggleLunchDay(dayIndex) {
+    setMealStructure((prev) => ({
+      ...prev,
+      lunchPlan: {
+        ...prev.lunchPlan,
+        [dayIndex]: prev.lunchPlan[dayIndex] === 'batch' ? 'fresh' : 'batch',
+      },
+    }));
+  }
+
   async function handleSave() {
     setSaving(true);
     setSaved(false);
     const { error } = await supabase
       .from('households')
-      .update({ settings: { ...household.settings, blockedTags, structureRules } })
+      .update({ settings: { ...household.settings, blockedTags, structureRules, mealStructure } })
       .eq('id', household.id);
     setSaving(false);
     if (!error) {
@@ -79,7 +93,9 @@ export default function SettingsForm({ household, members }) {
               <span className="flex items-center gap-2">
                 <span className="w-2.5 h-2.5 rounded-full inline-block" style={{ backgroundColor: m.color }} />
                 {m.display_name}
-                <span className="text-xs text-ink/40 capitalize">({m.goal})</span>
+                <span className="text-xs text-ink/40 capitalize">
+                  ({m.goal}{m.diet_type && m.diet_type !== 'balanced' ? `, ${DIET_TYPES[m.diet_type]?.label || m.diet_type}` : ''})
+                </span>
               </span>
               <span className="font-mono text-xs text-ink/70">
                 {m.target_calories} cal · {m.target_protein_g}p / {m.target_carbs_g}c / {m.target_fat_g}f
@@ -150,6 +166,51 @@ export default function SettingsForm({ household, members }) {
               </select>
             </div>
           ))}
+        </div>
+      </Card>
+
+      <Card>
+        <h2 className="font-display text-xl mb-1">Meals per day</h2>
+        <p className="text-sm text-ink/60 mb-3">
+          Breakfast/dinner nights are set below under Weekly structure. This controls snacks and
+          how lunch works.
+        </p>
+        <label className="text-sm text-ink/60 block mb-1">Snacks per day</label>
+        <select
+          value={mealStructure.snacksPerDay}
+          onChange={(e) =>
+            setMealStructure((prev) => ({ ...prev, snacksPerDay: Number(e.target.value) }))
+          }
+          className="border border-line rounded-card px-3 py-2 bg-card text-sm mb-4"
+        >
+          {[0, 1, 2, 3, 4].map((n) => (
+            <option key={n} value={n}>
+              {n}
+            </option>
+          ))}
+        </select>
+
+        <label className="text-sm text-ink/60 block mb-2">
+          Lunch — tap a day to switch between a batch-cooked lunch (same recipe all week) and a
+          freshly cooked one just for that day
+        </label>
+        <div className="flex flex-wrap gap-2">
+          {DAY_NAMES.map((name, dayIndex) => {
+            const strategy = mealStructure.lunchPlan?.[dayIndex] || 'batch';
+            return (
+              <button
+                key={dayIndex}
+                type="button"
+                onClick={() => toggleLunchDay(dayIndex)}
+                className={`text-sm px-3 py-1.5 rounded-card border ${
+                  strategy === 'fresh' ? 'bg-gold/30 border-gold' : 'border-line'
+                }`}
+                title={strategy === 'fresh' ? 'Freshly cooked' : 'Batch lunch'}
+              >
+                {name.slice(0, 3)} · {strategy === 'fresh' ? 'Fresh' : 'Batch'}
+              </button>
+            );
+          })}
         </div>
       </Card>
 

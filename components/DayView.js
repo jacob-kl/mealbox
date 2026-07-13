@@ -1,0 +1,278 @@
+'use client';
+
+import { useMemo, useState } from 'react';
+import { useRouter } from 'next/navigation';
+import Link from 'next/link';
+import { createClient } from '@/lib/supabase/client';
+import { Card, Button } from '@/components/ui';
+import { addDays, friendlyDate } from '@/lib/dates';
+
+const SLOT_LABELS = {
+  breakfast: 'Breakfast',
+  lunch: 'Lunch',
+  dinner: 'Dinner',
+  snack1: 'Snack',
+  snack2: 'Snack',
+  snack3: 'Snack',
+  snack4: 'Snack',
+};
+
+function macrosFor(meal, profileId) {
+  if (!meal.recipe?.macros_per_serving) return null;
+  const servings = meal.profile_id
+    ? meal.servings
+    : meal.portions?.find((p) => p.profileId === profileId)?.servings ?? 1;
+  const m = meal.recipe.macros_per_serving;
+  return {
+    cal: Math.round(m.cal * servings),
+    protein: Math.round(m.protein * servings),
+    carbs: Math.round(m.carbs * servings),
+    fat: Math.round(m.fat * servings),
+  };
+}
+
+export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan }) {
+  const supabase = createClient();
+  const router = useRouter();
+  const [showCustomForm, setShowCustomForm] = useState(false);
+  const [customName, setCustomName] = useState('');
+  const [customCal, setCustomCal] = useState('');
+  const [customProtein, setCustomProtein] = useState('');
+  const [customCarbs, setCustomCarbs] = useState('');
+  const [customFat, setCustomFat] = useState('');
+  const [busy, setBusy] = useState(false);
+
+  const loggedByMealId = useMemo(() => {
+    const map = {};
+    for (const entry of logEntries) {
+      if (entry.week_plan_meal_id) map[entry.week_plan_meal_id] = entry;
+    }
+    return map;
+  }, [logEntries]);
+
+  const customEntries = logEntries.filter((e) => !e.week_plan_meal_id);
+
+  const totals = useMemo(() => {
+    return logEntries.reduce(
+      (acc, e) => ({
+        cal: acc.cal + Number(e.cal),
+        protein: acc.protein + Number(e.protein),
+        carbs: acc.carbs + Number(e.carbs),
+        fat: acc.fat + Number(e.fat),
+      }),
+      { cal: 0, protein: 0, carbs: 0, fat: 0 }
+    );
+  }, [logEntries]);
+
+  async function togglePlanned(meal) {
+    setBusy(true);
+    const existing = loggedByMealId[meal.id];
+    if (existing) {
+      await supabase.from('meal_log').delete().eq('id', existing.id);
+    } else {
+      const macros = macrosFor(meal, profile.id);
+      await supabase.from('meal_log').insert({
+        profile_id: profile.id,
+        log_date: date,
+        week_plan_meal_id: meal.id,
+        cal: macros?.cal ?? 0,
+        protein: macros?.protein ?? 0,
+        carbs: macros?.carbs ?? 0,
+        fat: macros?.fat ?? 0,
+      });
+    }
+    setBusy(false);
+    router.refresh();
+  }
+
+  async function addCustom(e) {
+    e.preventDefault();
+    setBusy(true);
+    await supabase.from('meal_log').insert({
+      profile_id: profile.id,
+      log_date: date,
+      custom_name: customName || 'Custom item',
+      cal: Number(customCal) || 0,
+      protein: Number(customProtein) || 0,
+      carbs: Number(customCarbs) || 0,
+      fat: Number(customFat) || 0,
+    });
+    setCustomName('');
+    setCustomCal('');
+    setCustomProtein('');
+    setCustomCarbs('');
+    setCustomFat('');
+    setShowCustomForm(false);
+    setBusy(false);
+    router.refresh();
+  }
+
+  async function removeCustom(id) {
+    setBusy(true);
+    await supabase.from('meal_log').delete().eq('id', id);
+    setBusy(false);
+    router.refresh();
+  }
+
+  const remaining = {
+    cal: Math.round(profile.target_calories - totals.cal),
+    protein: Math.round(profile.target_protein_g - totals.protein),
+    carbs: Math.round(profile.target_carbs_g - totals.carbs),
+    fat: Math.round(profile.target_fat_g - totals.fat),
+  };
+
+  return (
+    <div>
+      <div className="flex items-center justify-between gap-4 mb-6">
+        <Link href={`/dashboard?date=${addDays(date, -1)}`} className="text-sm text-pine hover:underline">
+          ← Prev
+        </Link>
+        <div className="text-center">
+          <p className="tab-label text-rust mb-1">Today</p>
+          <h1 className="font-display text-2xl">{friendlyDate(date)}</h1>
+        </div>
+        <Link href={`/dashboard?date=${addDays(date, 1)}`} className="text-sm text-pine hover:underline">
+          Next →
+        </Link>
+      </div>
+
+      <Card className="mb-6">
+        <p className="tab-label text-ink/50 mb-3">Today&apos;s macros</p>
+        <div className="grid grid-cols-4 gap-3 font-mono text-sm text-center">
+          {[
+            ['Calories', totals.cal, profile.target_calories, remaining.cal],
+            ['Protein', totals.protein, profile.target_protein_g, remaining.protein, 'g'],
+            ['Carbs', totals.carbs, profile.target_carbs_g, remaining.carbs, 'g'],
+            ['Fat', totals.fat, profile.target_fat_g, remaining.fat, 'g'],
+          ].map(([label, eaten, target, left, unit = '']) => (
+            <div key={label}>
+              <p className="text-ink/50 text-xs mb-1">{label}</p>
+              <p className="text-lg">
+                {Math.round(eaten)}
+                {unit}
+              </p>
+              <p className="text-xs text-ink/40">of {Math.round(target)}{unit}</p>
+              <p className={`text-xs mt-1 ${left < 0 ? 'text-rust' : 'text-pine'}`}>
+                {left < 0 ? `${Math.abs(left)}${unit} over` : `${left}${unit} left`}
+              </p>
+            </div>
+          ))}
+        </div>
+      </Card>
+
+      {!hasWeekPlan && (
+        <Card className="mb-6">
+          <p className="text-sm text-ink/60">
+            No week plan built yet for this week.{' '}
+            <Link href="/week" className="text-pine hover:underline">
+              Build this week
+            </Link>{' '}
+            to see your planned meals here — or just log things manually below.
+          </p>
+        </Card>
+      )}
+
+      {plannedMeals.length > 0 && (
+        <div className="space-y-3 mb-6">
+          <p className="tab-label text-rust">Planned</p>
+          {plannedMeals.map((meal) => {
+            const macros = macrosFor(meal, profile.id);
+            const checked = !!loggedByMealId[meal.id];
+            return (
+              <Card key={meal.id} className={checked ? 'opacity-60' : ''}>
+                <label className="flex items-center gap-3 cursor-pointer">
+                  <input
+                    type="checkbox"
+                    checked={checked}
+                    disabled={busy || !meal.recipe}
+                    onChange={() => togglePlanned(meal)}
+                    className="w-5 h-5 accent-pine"
+                  />
+                  <div className="flex-1">
+                    <p className="text-xs uppercase tab-label text-ink/40">{SLOT_LABELS[meal.meal_slot]}</p>
+                    <p className="font-display text-lg">{meal.recipe?.name || 'No recipe matched'}</p>
+                    {macros && (
+                      <p className="font-mono text-xs text-ink/60">
+                        {macros.cal} cal · {macros.protein}p · {macros.carbs}c · {macros.fat}f
+                      </p>
+                    )}
+                  </div>
+                </label>
+              </Card>
+            );
+          })}
+        </div>
+      )}
+
+      <div className="space-y-3">
+        <div className="flex items-center justify-between">
+          <p className="tab-label text-rust">Off-plan / custom</p>
+          <button onClick={() => setShowCustomForm((v) => !v)} className="text-sm text-pine hover:underline">
+            {showCustomForm ? 'Cancel' : '+ Add something'}
+          </button>
+        </div>
+
+        {showCustomForm && (
+          <Card>
+            <form onSubmit={addCustom} className="space-y-2">
+              <input
+                value={customName}
+                onChange={(e) => setCustomName(e.target.value)}
+                placeholder="What did you eat?"
+                required
+                className="w-full border border-line rounded-card px-3 py-2 bg-card text-sm outline-none focus:border-pine"
+              />
+              <div className="grid grid-cols-4 gap-2">
+                <input
+                  type="number"
+                  value={customCal}
+                  onChange={(e) => setCustomCal(e.target.value)}
+                  placeholder="Cal"
+                  className="border border-line rounded-card px-2 py-2 bg-card text-sm"
+                />
+                <input
+                  type="number"
+                  value={customProtein}
+                  onChange={(e) => setCustomProtein(e.target.value)}
+                  placeholder="Protein g"
+                  className="border border-line rounded-card px-2 py-2 bg-card text-sm"
+                />
+                <input
+                  type="number"
+                  value={customCarbs}
+                  onChange={(e) => setCustomCarbs(e.target.value)}
+                  placeholder="Carbs g"
+                  className="border border-line rounded-card px-2 py-2 bg-card text-sm"
+                />
+                <input
+                  type="number"
+                  value={customFat}
+                  onChange={(e) => setCustomFat(e.target.value)}
+                  placeholder="Fat g"
+                  className="border border-line rounded-card px-2 py-2 bg-card text-sm"
+                />
+              </div>
+              <Button type="submit" disabled={busy} className="w-full">
+                Log it
+              </Button>
+            </form>
+          </Card>
+        )}
+
+        {customEntries.map((entry) => (
+          <Card key={entry.id} className="flex items-center justify-between">
+            <div>
+              <p className="font-display">{entry.custom_name}</p>
+              <p className="font-mono text-xs text-ink/60">
+                {entry.cal} cal · {entry.protein}p · {entry.carbs}c · {entry.fat}f
+              </p>
+            </div>
+            <button onClick={() => removeCustom(entry.id)} className="text-xs text-rust hover:underline">
+              Remove
+            </button>
+          </Card>
+        ))}
+      </div>
+    </div>
+  );
+}

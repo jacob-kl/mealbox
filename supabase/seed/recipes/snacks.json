@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Protein Berry Parfait",
+    "cuisine": "american",
+    "meal_type": "snack",
+    "tags": ["vegetarian", "no-cook", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 1, "note": "cup" },
+      { "ingredient": "Granola", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Frozen mixed berries", "qty": 0.5, "note": "cup, thawed" },
+      { "ingredient": "Honey", "qty": 1, "note": "tsp" }
+    ],
+    "steps": ["Layer yogurt, berries, and granola in a jar or bowl. Drizzle with honey."]
+  },
+  {
+    "name": "Turkey & Cheddar Roll-Ups with Crackers",
+    "cuisine": "american",
+    "meal_type": "snack",
+    "tags": ["no-cook", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Deli turkey breast (sliced)", "qty": 4, "note": "oz" },
+      { "ingredient": "Cheddar cheese (shredded)", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Whole grain crackers", "qty": 10, "note": "" }
+    ],
+    "steps": ["Roll turkey slices around a little cheddar. Serve with crackers."]
+  },
+  {
+    "name": "Banana Peanut Butter Protein Shake",
+    "cuisine": "american",
+    "meal_type": "snack",
+    "tags": ["vegetarian", "no-cook"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Whey protein powder (vanilla)", "qty": 1, "note": "scoop" },
+      { "ingredient": "Banana", "qty": 1, "note": "medium" },
+      { "ingredient": "Peanut butter", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Milk (2%)", "qty": 1, "note": "cup" }
+    ],
+    "steps": ["Blend everything with a few ice cubes until smooth."]
+  },
+  {
+    "name": "Cottage Cheese & Pineapple Bowl",
+    "cuisine": "american",
+    "meal_type": "snack",
+    "tags": ["vegetarian", "no-cook", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Cottage cheese 2%", "qty": 1, "note": "cup" },
+      { "ingredient": "Pineapple chunks", "qty": 0.75, "note": "cup" },
+      { "ingredient": "Walnuts", "qty": 0.5, "note": "oz, chopped" }
+    ],
+    "steps": ["Combine cottage cheese, pineapple, and walnuts in a bowl."]
+  },
+  {
+    "name": "Tuna Salad Lettuce Wraps",
+    "cuisine": "mediterranean",
+    "meal_type": "snack",
+    "tags": ["fish", "no-cook", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Canned tuna (in water)", "qty": 140, "note": "drained" },
+      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Celery", "qty": 40, "note": "diced" },
+      { "ingredient": "Romaine lettuce", "qty": 80, "note": "leaves, for wrapping" }
+    ],
+    "steps": [
+      "Mix tuna, yogurt, and celery.",
+      "Spoon into romaine leaves and wrap to eat."
+    ]
+  },
+  {
+    "name": "Hummus & Veggie Wrap",
+    "cuisine": "mediterranean",
+    "meal_type": "snack",
+    "tags": ["vegetarian", "no-cook", "cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Whole wheat tortilla (large)", "qty": 1, "note": "" },
+      { "ingredient": "Hummus", "qty": 3, "note": "tbsp" },
+      { "ingredient": "English cucumber", "qty": 50, "note": "sliced thin" },
+      { "ingredient": "Red bell pepper", "qty": 40, "note": "sliced thin" },
+      { "ingredient": "Feta cheese (reduced fat)", "qty": 15, "note": "crumbled" }
+    ],
+    "steps": [
+      "Spread hummus on the tortilla, layer vegetables and feta, roll tightly, and slice in half."
+    ]
+  },
+  {
+    "name": "Trail Mix Energy Bites",
+    "cuisine": "american",
+    "meal_type": "snack",
+    "tags": ["vegetarian", "no-cook"],
+    "base_servings": 6,
+    "ingredients": [
+      { "ingredient": "Rolled oats (dry)", "qty": 1, "note": "cup" },
+      { "ingredient": "Peanut butter", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Honey", "qty": 3, "note": "tbsp" },
+      { "ingredient": "Mini chocolate chips", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Chia seeds", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Mix everything in a bowl until it holds together.",
+      "Roll into 12 bites (2 per serving) and refrigerate at least 30 min."
+    ]
+  }
+]

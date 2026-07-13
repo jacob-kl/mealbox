@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { Card, Button } from '@/components/ui';
 
 function WeightChart({ logs }) {
@@ -99,7 +100,12 @@ export default function WeightTracker({ profile, logs }) {
       </Card>
 
       <Card>
-        <h2 className="font-display text-xl mb-3">Current targets</h2>
+        <div className="flex items-center justify-between mb-3">
+          <h2 className="font-display text-xl">Current targets</h2>
+          <Link href="/recalculate" className="text-sm text-pine hover:underline">
+            Redo the calculator →
+          </Link>
+        </div>
         <div className="grid grid-cols-4 gap-3 font-mono text-sm">
           <div>
             <p className="text-ink/50 text-xs">Calories</p>

@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Protein Brownie Bites",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": ["vegetarian", "no-cook"],
+    "base_servings": 6,
+    "ingredients": [
+      { "ingredient": "Whey protein powder (vanilla)", "qty": 1, "note": "scoop" },
+      { "ingredient": "Rolled oats (dry)", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Unsweetened cocoa powder", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Peanut butter", "qty": 0.33, "note": "cup" },
+      { "ingredient": "Honey", "qty": 2, "note": "tbsp" }
+    ],
+    "steps": [
+      "Combine everything into a thick dough, adding a splash of water if too dry.",
+      "Roll into 12 bites (2 per serving) and chill 20 min."
+    ]
+  },
+  {
+    "name": "Greek Yogurt Berry Bark",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": ["vegetarian", "no-cook"],
+    "base_servings": 4,
+    "ingredients": [
+      { "ingredient": "Greek yogurt (plain nonfat)", "qty": 2, "note": "cups" },
+      { "ingredient": "Honey", "qty": 2, "note": "tbsp" },
+      { "ingredient": "Frozen mixed berries", "qty": 1, "note": "cup, thawed and chopped" },
+      { "ingredient": "Dark chocolate chips", "qty": 2, "note": "tbsp, chopped" }
+    ],
+    "steps": [
+      "Stir honey into yogurt, spread thin on a parchment-lined tray.",
+      "Scatter berries and chocolate over the top, freeze 3+ hours, then break into pieces."
+    ]
+  },
+  {
+    "name": "Baked Cinnamon Apples",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": ["vegetarian"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Apple", "qty": 1, "note": "medium, sliced" },
+      { "ingredient": "Ground cinnamon", "qty": 1, "note": "tsp" },
+      { "ingredient": "Honey", "qty": 1, "note": "tsp" },
+      { "ingredient": "Walnuts", "qty": 0.5, "note": "oz, chopped" }
+    ],
+    "steps": [
+      "Toss apple slices with cinnamon and honey.",
+      "Bake at 375F for 15-20 min until soft, top with walnuts."
+    ]
+  },
+  {
+    "name": "Dark Chocolate Almond Clusters",
+    "cuisine": "american",
+    "meal_type": "dessert",
+    "tags": ["vegetarian", "no-cook"],
+    "base_servings": 4,
+    "ingredients": [
+      { "ingredient": "Dark chocolate chips", "qty": 4, "note": "tbsp" },
+      { "ingredient": "Almonds", "qty": 30, "note": "g" }
+    ],
+    "steps": [
+      "Melt chocolate, stir in almonds, drop small clusters onto parchment paper.",
+      "Refrigerate 15 min until set."
+    ]
+  }
+]

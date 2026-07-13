@@ -7,15 +7,15 @@ export default {
   theme: {
     extend: {
       colors: {
-        paper: '#FAF6EC',
-        card: '#FFFDF7',
-        ink: '#2B2A26',
-        rust: '#C1502E',
-        rustDark: '#9C3F24',
-        pine: '#3F5C48',
-        pineDark: '#2E4536',
-        gold: '#D9A441',
-        line: '#E4DCC8',
+        paper: 'rgb(var(--color-paper) / <alpha-value>)',
+        card: 'rgb(var(--color-card) / <alpha-value>)',
+        ink: 'rgb(var(--color-ink) / <alpha-value>)',
+        rust: 'rgb(var(--color-rust) / <alpha-value>)',
+        rustDark: 'rgb(var(--color-rust-dark) / <alpha-value>)',
+        pine: 'rgb(var(--color-pine) / <alpha-value>)',
+        pineDark: 'rgb(var(--color-pine-dark) / <alpha-value>)',
+        gold: 'rgb(var(--color-gold) / <alpha-value>)',
+        line: 'rgb(var(--color-line) / <alpha-value>)',
       },
       fontFamily: {
         display: ['var(--font-display)', 'ui-serif', 'Georgia', 'serif'],

@@ -1,12 +1,13 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { Card, Badge, CUISINES } from '@/components/ui';
+import { Card, Badge } from '@/components/ui';
 
-const MEAL_TYPES = ['dinner', 'lunch', 'breakfast', 'snack'];
+const MEAL_TYPES = ['dinner', 'lunch', 'breakfast', 'snack', 'sauce', 'dessert'];
 
 export default function RecipeBrowser({ recipes }) {
-  const [cuisine, setCuisine] = useState('all');
+  const cuisinesPresent = useMemo(() => [...new Set(recipes.map((r) => r.cuisine))].sort(), [recipes]);
+  const [cuisine, setCuisine] = useState(cuisinesPresent[0] || 'all');
   const [mealType, setMealType] = useState('all');
   const [query, setQuery] = useState('');
   const [openId, setOpenId] = useState(null);
@@ -44,7 +45,7 @@ export default function RecipeBrowser({ recipes }) {
           className="border border-line rounded-card px-3 py-2 bg-card text-sm capitalize"
         >
           <option value="all">All cuisines</option>
-          {CUISINES.map((c) => (
+          {cuisinesPresent.map((c) => (
             <option key={c} value={c}>
               {c}
             </option>

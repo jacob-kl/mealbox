@@ -1,10 +1,11 @@
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
-import { currentWeekStart } from '@/lib/dates';
+import { currentWeekStart, dayIndexForDate, isoDate } from '@/lib/dates';
 import { NavBar } from '@/components/ui';
-import WeekView from '@/components/WeekView';
+import DayView from '@/components/DayView';
 
-export default async function DashboardPage() {
+export default async function DashboardPage({ searchParams }) {
+  const params = await searchParams;
   const supabase = await createClient();
   const {
     data: { user },
@@ -14,49 +15,44 @@ export default async function DashboardPage() {
   const { data: profile } = await supabase.from('profiles').select('*').eq('id', user.id).single();
   if (!profile?.onboarded) redirect('/onboarding');
 
-  const weekStart = currentWeekStart();
-
-  const { data: members } = await supabase
-    .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g')
-    .eq('household_id', profile.household_id);
+  const date = params?.date || isoDate();
+  const weekStart = currentWeekStart(new Date(date + 'T00:00:00'));
+  const dayIndex = dayIndexForDate(new Date(date + 'T00:00:00'));
 
   const { data: weekPlan } = await supabase
     .from('week_plans')
-    .select('id, cuisine_focus')
+    .select('id')
     .eq('household_id', profile.household_id)
     .eq('week_start', weekStart)
     .maybeSingle();
 
-  let days = [];
-  let lunches = [];
-
+  let plannedMeals = [];
   if (weekPlan) {
-    const { data: dayRows } = await supabase
-      .from('week_plan_days')
-      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, steps, ingredients)')
-      .eq('week_plan_id', weekPlan.id)
-      .order('day_index');
-    days = dayRows || [];
-
-    const { data: lunchRows } = await supabase
-      .from('week_plan_lunches')
+    const { data } = await supabase
+      .from('week_plan_meals')
       .select('*, recipe:recipe_id(id, name, cuisine, macros_per_serving)')
-      .eq('week_plan_id', weekPlan.id);
-    lunches = lunchRows || [];
+      .eq('week_plan_id', weekPlan.id)
+      .eq('day_index', dayIndex)
+      .or(`profile_id.eq.${user.id},profile_id.is.null`);
+    plannedMeals = data || [];
   }
+
+  const { data: logEntries } = await supabase
+    .from('meal_log')
+    .select('*')
+    .eq('profile_id', user.id)
+    .eq('log_date', date);
 
   return (
     <>
       <NavBar active="/dashboard" />
-      <main className="max-w-5xl mx-auto px-4 py-8">
-        <WeekView
-          weekStart={weekStart}
-          weekPlanId={weekPlan?.id ?? null}
-          cuisineFocus={weekPlan?.cuisine_focus ?? null}
-          members={members || []}
-          days={days}
-          lunches={lunches}
+      <main className="max-w-3xl mx-auto px-4 py-8">
+        <DayView
+          date={date}
+          profile={profile}
+          plannedMeals={plannedMeals}
+          logEntries={logEntries || []}
+          hasWeekPlan={!!weekPlan}
         />
       </main>
     </>

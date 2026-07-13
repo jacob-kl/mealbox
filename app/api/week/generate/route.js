@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
-import { generateWeek, DEFAULT_STRUCTURE_RULES } from '@/lib/weekBuilder';
+import { generateWeek, DEFAULT_STRUCTURE_RULES, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 
 export async function POST(request) {
   const supabase = await createClient();
@@ -28,6 +28,7 @@ export async function POST(request) {
     .single();
 
   const structureRules = household?.settings?.structureRules || DEFAULT_STRUCTURE_RULES;
+  const mealStructure = household?.settings?.mealStructure || DEFAULT_MEAL_STRUCTURE;
   const blockedTags = household?.settings?.blockedTags || [];
 
   const { data: members } = await supabase
@@ -54,11 +55,11 @@ export async function POST(request) {
   let recentRecipeIds = [];
   if (recentPlans?.length) {
     const planIds = recentPlans.map((p) => p.id);
-    const { data: recentDays } = await supabase
-      .from('week_plan_days')
+    const { data: recentMeals } = await supabase
+      .from('week_plan_meals')
       .select('recipe_id')
       .in('week_plan_id', planIds);
-    recentRecipeIds = (recentDays || []).map((d) => d.recipe_id).filter(Boolean);
+    recentRecipeIds = (recentMeals || []).map((d) => d.recipe_id).filter(Boolean);
   }
 
   const membersForBuilder = (members || []).map((m) => ({
@@ -66,16 +67,16 @@ export async function POST(request) {
     targetCalories: m.target_calories || 2000,
   }));
 
-  const plan = generateWeek({
+  const meals = generateWeek({
     recipePool: recipePool || [],
     members: membersForBuilder,
     structureRules,
+    mealStructure,
     blockedTags,
     cuisineFocus,
     recentRecipeIds,
   });
 
-  // Upsert the week_plans row, then replace its days/lunches.
   const { data: weekPlan, error: weekPlanError } = await supabase
     .from('week_plans')
     .upsert({ household_id: householdId, week_start: weekStart, cuisine_focus: cuisineFocus }, { onConflict: 'household_id,week_start' })
@@ -84,30 +85,21 @@ export async function POST(request) {
 
   if (weekPlanError) return NextResponse.json({ error: weekPlanError.message }, { status: 500 });
 
-  await supabase.from('week_plan_days').delete().eq('week_plan_id', weekPlan.id);
-  await supabase.from('week_plan_lunches').delete().eq('week_plan_id', weekPlan.id);
+  await supabase.from('week_plan_meals').delete().eq('week_plan_id', weekPlan.id);
 
-  const dayRows = plan.days.map((d) => ({
+  const rows = meals.map((m) => ({
     week_plan_id: weekPlan.id,
-    day_index: d.dayIndex,
-    meal_type: d.mealType,
-    label: d.label,
-    recipe_id: d.recipeId,
-    portions: d.portions,
+    day_index: m.dayIndex,
+    meal_slot: m.mealSlot,
+    profile_id: m.profileId,
+    recipe_id: m.recipeId,
+    label: m.label,
+    servings: m.servings ?? 1,
+    portions: m.portions ?? [],
   }));
-  const { error: daysError } = await supabase.from('week_plan_days').insert(dayRows);
-  if (daysError) return NextResponse.json({ error: daysError.message }, { status: 500 });
 
-  const lunchRows = plan.lunches.map((l) => ({
-    week_plan_id: weekPlan.id,
-    profile_id: l.profileId,
-    recipe_id: l.recipeId,
-    servings: l.servings,
-  }));
-  if (lunchRows.length) {
-    const { error: lunchError } = await supabase.from('week_plan_lunches').insert(lunchRows);
-    if (lunchError) return NextResponse.json({ error: lunchError.message }, { status: 500 });
-  }
+  const { error: insertError } = await supabase.from('week_plan_meals').insert(rows);
+  if (insertError) return NextResponse.json({ error: insertError.message }, { status: 500 });
 
-  return NextResponse.json({ weekPlanId: weekPlan.id, plan });
+  return NextResponse.json({ weekPlanId: weekPlan.id, meals });
 }

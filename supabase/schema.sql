@@ -251,3 +251,176 @@ create policy "manage own household week plan lunches"
       where household_id = (select household_id from profiles where id = auth.uid())
     )
   );
+
+-- ============================================================================
+-- Fixes applied after initial testing (kept here so a fresh setup never
+-- hits these — see git history / chat log for the original bug reports):
+--
+-- 1. The "read householdmate profiles" policy queried `profiles` from
+--    within a policy ON `profiles`, causing infinite recursion. Fixed with
+--    a SECURITY DEFINER helper that bypasses RLS for just that lookup.
+-- 2. Creating a household requires reading it back immediately, before the
+--    creator's own profile.household_id is set — a chicken-and-egg RLS
+--    problem. Fixed with a `created_by` column.
+-- 3. Joining a household by invite code requires resolving that code to an
+--    id without already having read access to the row. Fixed with a second
+--    SECURITY DEFINER function.
+-- ============================================================================
+
+create or replace function public.current_household_id()
+returns uuid
+language sql
+security definer
+set search_path = public
+stable
+as $$
+  select household_id from profiles where id = auth.uid()
+$$;
+
+drop policy if exists "read householdmate profiles" on profiles;
+create policy "read householdmate profiles"
+  on profiles for select
+  to authenticated
+  using (
+    household_id is not null
+    and household_id = public.current_household_id()
+  );
+
+drop policy if exists "read own household" on households;
+create policy "read own household" on households for select to authenticated
+  using (id = public.current_household_id());
+
+drop policy if exists "update own household" on households;
+create policy "update own household" on households for update to authenticated
+  using (id = public.current_household_id());
+
+drop policy if exists "read global or own household recipes" on recipes;
+create policy "read global or own household recipes" on recipes for select to authenticated
+  using (household_id is null or household_id = public.current_household_id());
+
+drop policy if exists "manage own household recipes" on recipes;
+create policy "manage own household recipes" on recipes for insert to authenticated
+  with check (household_id = public.current_household_id());
+
+drop policy if exists "update own household recipes" on recipes;
+create policy "update own household recipes" on recipes for update to authenticated
+  using (household_id = public.current_household_id());
+
+drop policy if exists "delete own household recipes" on recipes;
+create policy "delete own household recipes" on recipes for delete to authenticated
+  using (household_id = public.current_household_id());
+
+drop policy if exists "manage own household week plans" on week_plans;
+create policy "manage own household week plans" on week_plans for all to authenticated
+  using (household_id = public.current_household_id())
+  with check (household_id = public.current_household_id());
+
+drop policy if exists "manage own household week plan days" on week_plan_days;
+create policy "manage own household week plan days" on week_plan_days for all to authenticated
+  using (week_plan_id in (select id from week_plans where household_id = public.current_household_id()))
+  with check (week_plan_id in (select id from week_plans where household_id = public.current_household_id()));
+
+drop policy if exists "manage own household week plan lunches" on week_plan_lunches;
+create policy "manage own household week plan lunches" on week_plan_lunches for all to authenticated
+  using (week_plan_id in (select id from week_plans where household_id = public.current_household_id()))
+  with check (week_plan_id in (select id from week_plans where household_id = public.current_household_id()));
+
+alter table households add column if not exists created_by uuid references auth.users(id) default auth.uid();
+
+drop policy if exists "read own household" on households;
+create policy "read own household"
+  on households for select
+  to authenticated
+  using (
+    created_by = auth.uid()
+    or id = public.current_household_id()
+  );
+
+create or replace function public.household_id_for_invite_code(code text)
+returns uuid
+language sql
+security definer
+set search_path = public
+stable
+as $$
+  select id from households where invite_code = code
+$$;
+
+-- ============================================================================
+-- Expanded meal types: sauces/condiments and desserts joined the original
+-- breakfast/lunch/dinner/snack set.
+-- ============================================================================
+alter table recipes drop constraint if exists recipes_meal_type_check;
+alter table recipes add constraint recipes_meal_type_check
+  check (meal_type in ('breakfast','lunch','dinner','snack','sauce','dessert'));
+
+-- ============================================================================
+-- v2: diet-type presets, configurable meal structure, and the day tracker.
+-- ============================================================================
+
+alter table profiles add column if not exists diet_type text default 'balanced';
+alter table profiles drop constraint if exists profiles_diet_type_check;
+alter table profiles add constraint profiles_diet_type_check
+  check (diet_type in ('balanced','high_protein','low_fat','low_carb','high_carb'));
+
+-- Replaces week_plan_days + week_plan_lunches with one table that can hold
+-- any number of meal slots per day (breakfast/lunch/dinner/snack1-4).
+-- profile_id null = a shared household meal (dinner/breakfast) — `portions`
+-- holds one entry per member. profile_id set = an individual meal (lunch,
+-- snacks) that can differ per person — `servings` is that person's amount.
+drop table if exists week_plan_days cascade;
+drop table if exists week_plan_lunches cascade;
+
+create table if not exists week_plan_meals (
+  id uuid primary key default gen_random_uuid(),
+  week_plan_id uuid not null references week_plans(id) on delete cascade,
+  day_index int not null check (day_index between 0 and 6),
+  meal_slot text not null check (meal_slot in ('breakfast','lunch','dinner','snack1','snack2','snack3','snack4')),
+  profile_id uuid references profiles(id) on delete cascade,
+  recipe_id uuid references recipes(id),
+  label text,
+  servings numeric not null default 1,
+  portions jsonb not null default '[]'::jsonb,
+  created_at timestamptz not null default now()
+);
+
+create unique index if not exists week_plan_meals_shared_idx
+  on week_plan_meals(week_plan_id, day_index, meal_slot) where profile_id is null;
+create unique index if not exists week_plan_meals_individual_idx
+  on week_plan_meals(week_plan_id, day_index, meal_slot, profile_id) where profile_id is not null;
+
+alter table week_plan_meals enable row level security;
+
+drop policy if exists "manage own household week plan meals" on week_plan_meals;
+create policy "manage own household week plan meals"
+  on week_plan_meals for all
+  to authenticated
+  using (week_plan_id in (select id from week_plans where household_id = public.current_household_id()))
+  with check (week_plan_id in (select id from week_plans where household_id = public.current_household_id()));
+
+-- Personal, private daily log: checking off a planned meal, or adding a
+-- custom/off-plan one. Macros are snapshotted at log time so editing a
+-- recipe later doesn't rewrite history.
+create table if not exists meal_log (
+  id uuid primary key default gen_random_uuid(),
+  profile_id uuid not null references profiles(id) on delete cascade,
+  log_date date not null,
+  week_plan_meal_id uuid references week_plan_meals(id) on delete cascade,
+  custom_name text,
+  cal numeric not null default 0,
+  protein numeric not null default 0,
+  carbs numeric not null default 0,
+  fat numeric not null default 0,
+  created_at timestamptz not null default now()
+);
+
+create index if not exists meal_log_profile_date_idx on meal_log(profile_id, log_date);
+
+alter table meal_log enable row level security;
+
+drop policy if exists "manage own meal log" on meal_log;
+create policy "manage own meal log"
+  on meal_log for all
+  to authenticated
+  using (profile_id = auth.uid())
+  with check (profile_id = auth.uid());

@@ -2,6 +2,55 @@
 @tailwind components;
 @tailwind utilities;
 
+:root,
+[data-theme='harvest'] {
+  --color-paper: 250 246 236;
+  --color-card: 255 253 247;
+  --color-ink: 43 42 38;
+  --color-rust: 193 80 46;
+  --color-rust-dark: 156 63 36;
+  --color-pine: 63 92 72;
+  --color-pine-dark: 46 69 54;
+  --color-gold: 217 164 65;
+  --color-line: 228 220 200;
+}
+
+[data-theme='citrus'] {
+  --color-paper: 255 248 238;
+  --color-card: 255 255 255;
+  --color-ink: 33 29 23;
+  --color-rust: 240 100 30;
+  --color-rust-dark: 201 78 18;
+  --color-pine: 14 138 125;
+  --color-pine-dark: 8 97 88;
+  --color-gold: 255 201 60;
+  --color-line: 242 220 192;
+}
+
+[data-theme='berry'] {
+  --color-paper: 251 243 247;
+  --color-card: 255 255 255;
+  --color-ink: 36 22 33;
+  --color-rust: 214 51 108;
+  --color-rust-dark: 166 34 85;
+  --color-pine: 108 52 131;
+  --color-pine-dark: 78 36 97;
+  --color-gold: 242 166 90;
+  --color-line: 235 211 224;
+}
+
+[data-theme='ocean'] {
+  --color-paper: 240 247 248;
+  --color-card: 255 255 255;
+  --color-ink: 23 36 43;
+  --color-rust: 255 107 91;
+  --color-rust-dark: 226 80 63;
+  --color-pine: 18 103 122;
+  --color-pine-dark: 11 74 88;
+  --color-gold: 255 200 87;
+  --color-line: 207 227 230;
+}
+
 :root {
   --font-display: 'Fraunces', serif;
   --font-body: 'Inter', sans-serif;
@@ -9,14 +58,14 @@
 }
 
 html, body {
-  background-color: #FAF6EC;
-  color: #2B2A26;
+  background-color: rgb(var(--color-paper));
+  color: rgb(var(--color-ink));
 }
 
 body {
   background-image:
-    linear-gradient(90deg, transparent 39px, #E4DCC8 39px, #E4DCC8 41px, transparent 41px),
-    repeating-linear-gradient(#FAF6EC 0px, #FAF6EC 27px, #EFE9D8 28px);
+    linear-gradient(90deg, transparent 39px, rgb(var(--color-line)) 39px, rgb(var(--color-line)) 41px, transparent 41px),
+    repeating-linear-gradient(rgb(var(--color-paper)) 0px, rgb(var(--color-paper)) 27px, rgb(var(--color-paper) / 0.6) 28px);
   background-attachment: local;
   background-size: 100% 100%, 100% 28px;
 }
@@ -24,8 +73,8 @@ body {
 /* Recipe-card signature: a punched tab at the top of primary cards */
 .index-card {
   position: relative;
-  background: #FFFDF7;
-  border: 1px solid #E4DCC8;
+  background: rgb(var(--color-card));
+  border: 1px solid rgb(var(--color-line));
   border-radius: 10px;
   box-shadow: 0 1px 2px rgba(43,42,38,0.06), 0 6px 16px rgba(43,42,38,0.08);
 }
@@ -37,8 +86,8 @@ body {
   left: 22px;
   width: 14px;
   height: 14px;
-  background: #FAF6EC;
-  border: 1px solid #E4DCC8;
+  background: rgb(var(--color-paper));
+  border: 1px solid rgb(var(--color-line));
   border-radius: 999px;
 }
 
@@ -50,6 +99,6 @@ body {
 }
 
 ::selection {
-  background: #D9A441;
-  color: #2B2A26;
+  background: rgb(var(--color-gold));
+  color: rgb(var(--color-ink));
 }

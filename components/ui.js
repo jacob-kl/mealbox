@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import ThemeSwitcher from '@/components/ThemeSwitcher';
 
 export function Card({ children, className = '' }) {
   return <div className={`index-card p-6 ${className}`}>{children}</div>;
@@ -35,7 +36,8 @@ export function Button({ children, variant = 'primary', className = '', ...props
 }
 
 const NAV_ITEMS = [
-  { href: '/dashboard', label: 'This Week' },
+  { href: '/dashboard', label: 'Today' },
+  { href: '/week', label: 'Week' },
   { href: '/recipes', label: 'Recipes' },
   { href: '/weight', label: 'Weight' },
   { href: '/settings', label: 'Settings' },
@@ -48,7 +50,7 @@ export function NavBar({ active }) {
         <Link href="/dashboard" className="font-display text-xl">
           Mealbox
         </Link>
-        <nav className="flex gap-1">
+        <nav className="flex items-center gap-1">
           {NAV_ITEMS.map((item) => (
             <Link
               key={item.href}
@@ -60,6 +62,9 @@ export function NavBar({ active }) {
               {item.label}
             </Link>
           ))}
+          <span className="ml-2">
+            <ThemeSwitcher />
+          </span>
         </nav>
       </div>
     </header>

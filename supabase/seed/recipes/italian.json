@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Chicken Parmesan with Spaghetti",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "pounded thin" },
+      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 3, "note": "tbsp" },
+      { "ingredient": "Eggs (large)", "qty": 0.5, "note": "" },
+      { "ingredient": "Signature Select pasta sauce", "qty": 0.5, "note": "cup" },
+      { "ingredient": "Mozzarella cheese (part-skim)", "qty": 1, "note": "oz" },
+      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 60, "note": "" },
+      { "ingredient": "Parmesan cheese (grated)", "qty": 1, "note": "tbsp" }
+    ],
+    "steps": [
+      "Cook spaghetti per package directions.",
+      "Dip chicken in egg, then breadcrumbs. Pan-sear 3-4 min per side until golden.",
+      "Top with pasta sauce and mozzarella, broil 2-3 min until melted.",
+      "Serve over spaghetti with parmesan."
+    ]
+  },
+  {
+    "name": "Caprese Stuffed Chicken",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 170, "note": "butterflied" },
+      { "ingredient": "Mozzarella cheese (part-skim)", "qty": 1, "note": "oz" },
+      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "sliced" },
+      { "ingredient": "Fresh basil", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Balsamic vinegar", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Quinoa (dry)", "qty": 45, "note": "" }
+    ],
+    "steps": [
+      "Cook quinoa per package directions.",
+      "Stuff chicken with mozzarella, tomato, and basil; secure with toothpicks.",
+      "Bake at 400F for 20-25 min until cooked through.",
+      "Drizzle with balsamic and serve over quinoa."
+    ]
+  },
+  {
+    "name": "Shrimp Scampi",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "tags": ["shellfish"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
+      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 60, "note": "" },
+      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
+      { "ingredient": "Olive oil", "qty": 1.5, "note": "tbsp" },
+      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp" },
+      { "ingredient": "Fresh parsley", "qty": 2, "note": "tbsp, chopped" }
+    ],
+    "steps": [
+      "Cook spaghetti per package directions.",
+      "Saute garlic in olive oil 30 sec, add shrimp and cook 2-3 min per side.",
+      "Toss shrimp with pasta, lemon juice, and parsley."
+    ]
+  },
+  {
+    "name": "Turkey Bolognese",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "tags": ["leftovers-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Ground turkey 93/7", "qty": 150, "note": "" },
+      { "ingredient": "Signature Select pasta sauce", "qty": 0.75, "note": "cup" },
+      { "ingredient": "Whole wheat spaghetti (dry)", "qty": 65, "note": "" },
+      { "ingredient": "Parmesan cheese (grated)", "qty": 2, "note": "tbsp" }
+    ],
+    "steps": [
+      "Cook spaghetti per package directions.",
+      "Brown turkey, breaking it up, about 6-8 min.",
+      "Add pasta sauce, simmer 10 min. Serve over spaghetti with parmesan."
+    ]
+  },
+  {
+    "name": "Italian Chicken & White Bean Jar",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "tags": ["cold-friendly"],
+    "base_servings": 1,
+    "ingredients": [
+      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
+      { "ingredient": "Cannellini beans", "qty": 100, "note": "drained" },
+      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "halved" },
+      { "ingredient": "Fresh basil", "qty": 0.25, "note": "cup" },
+      { "ingredient": "Balsamic vinegar", "qty": 1, "note": "tbsp, keep separate" },
+      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp, keep separate" }
+    ],
+    "steps": [
+      "Layer dressing at the bottom of a jar, then beans, tomato, chicken, and basil.",
+      "Shake to combine before eating."
+    ]
+  }
+]

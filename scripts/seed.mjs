@@ -15,6 +15,34 @@ import { computeRecipeMacros } from '../lib/nutrition.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SEED_DIR = path.join(__dirname, '..', 'supabase', 'seed');
 
+// Next.js auto-loads .env.local for `next dev`/`build`, but a plain `node`
+// script doesn't get that for free — load it ourselves so `npm run seed`
+// works without having to export the variables by hand first.
+async function loadEnvLocal() {
+  const envPath = path.join(__dirname, '..', '.env.local');
+  try {
+    const raw = await readFile(envPath, 'utf-8');
+    for (const line of raw.split('\n')) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const eq = trimmed.indexOf('=');
+      if (eq === -1) continue;
+      const key = trimmed.slice(0, eq).trim();
+      let value = trimmed.slice(eq + 1).trim();
+      if (
+        (value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))
+      ) {
+        value = value.slice(1, -1);
+      }
+      if (!(key in process.env)) process.env[key] = value;
+    }
+  } catch {
+    // No .env.local present — fine if the variables were exported another way.
+  }
+}
+await loadEnvLocal();
+
 const SUPABASE_URL = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL;
 const SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
 
@@ -45,6 +73,11 @@ async function seedRecipes(ingredients) {
   const ingredientsByName = Object.fromEntries(ingredients.map((i) => [i.name, i]));
   const recipesDir = path.join(SEED_DIR, 'recipes');
   const files = (await readdir(recipesDir)).filter((f) => f.endsWith('.json'));
+
+  // Global recipes (household_id null) are fully defined by the seed files —
+  // clear them first so re-running this script is safe and never duplicates.
+  const { error: clearError } = await supabase.from('recipes').delete().is('household_id', null);
+  if (clearError) throw new Error(`Clearing existing global recipes failed: ${clearError.message}`);
 
   let total = 0;
   for (const file of files) {
@@ -88,8 +121,8 @@ async function main() {
   console.log('Seeding recipes...');
   await seedRecipes(ingredients);
 
-  console.log('Done. Re-running this script will duplicate recipes (it always inserts) —');
-  console.log('clear the `recipes` table first (where household_id is null) if you need a clean reseed.');
+  console.log('Done. Global recipes are fully replaced on every run — household-specific');
+  console.log('custom recipes (household_id set) are untouched.');
 }
 
 main().catch((err) => {
