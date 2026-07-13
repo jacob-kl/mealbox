@@ -66,6 +66,9 @@ export async function POST(request) {
     .select('*')
     .or(`household_id.is.null,household_id.eq.${householdId}`);
 
+  const { data: ingredients } = await supabase.from('ingredients').select('*');
+  const ingredientsByName = Object.fromEntries((ingredients || []).map((i) => [i.name, i]));
+
   const membersForBuilder = (members || []).map((m) => ({
     id: m.id,
     targetCalories: m.target_calories || 2000,
@@ -111,11 +114,14 @@ export async function POST(request) {
     cuisine,
     excludeId: currentMeal?.recipe_id,
     calorieShare,
+    ingredientsByName,
   });
 
   const update = {
     recipe_id: newMeal.recipeId,
     label: newMeal.label,
+    computed_macros: newMeal.computedMacros ?? null,
+    ingredients_override: newMeal.ingredientsOverride ?? null,
     ...(profileId ? { servings: newMeal.servings } : { portions: newMeal.portions }),
   };
 

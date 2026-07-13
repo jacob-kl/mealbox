@@ -9,30 +9,40 @@ import RecipeDetail from '@/components/RecipeDetail';
 import { dayLabel, addDays } from '@/lib/dates';
 import { DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 
-function macrosForShared(recipe, portions, profileId) {
-  if (!recipe?.macros_per_serving) return null;
-  const portion = portions?.find((p) => p.profileId === profileId);
+function macrosForShared(meal, profileId) {
+  const base = meal.computed_macros || meal.recipe?.macros_per_serving;
+  if (!base) return null;
+  const portion = meal.portions?.find((p) => p.profileId === profileId);
   const servings = portion?.servings ?? 1;
-  const m = recipe.macros_per_serving;
   return {
-    cal: Math.round(m.cal * servings),
-    protein: Math.round(m.protein * servings),
-    carbs: Math.round(m.carbs * servings),
-    fat: Math.round(m.fat * servings),
+    cal: Math.round(base.cal * servings),
+    protein: Math.round(base.protein * servings),
+    carbs: Math.round(base.carbs * servings),
+    fat: Math.round(base.fat * servings),
     servings,
   };
 }
 
-function macrosForIndividual(recipe, servings) {
-  if (!recipe?.macros_per_serving) return null;
-  const m = recipe.macros_per_serving;
+function macrosForIndividual(meal) {
+  const base = meal.computed_macros || meal.recipe?.macros_per_serving;
+  if (!base) return null;
+  const servings = meal.servings ?? 1;
   return {
-    cal: Math.round(m.cal * servings),
-    protein: Math.round(m.protein * servings),
-    carbs: Math.round(m.carbs * servings),
-    fat: Math.round(m.fat * servings),
+    cal: Math.round(base.cal * servings),
+    protein: Math.round(base.protein * servings),
+    carbs: Math.round(base.carbs * servings),
+    fat: Math.round(base.fat * servings),
     servings,
   };
+}
+
+/** The recipe as actually planned — swaps in the personalized ingredient
+ * list (more chicken, less rice, etc.) when one was computed, so "View
+ * recipe" shows what's actually being eaten, not the library default. */
+function effectiveRecipe(meal) {
+  if (!meal.recipe) return null;
+  if (!meal.ingredients_override) return meal.recipe;
+  return { ...meal.recipe, ingredients: meal.ingredients_override };
 }
 
 function MacroLine({ macros, memberColor, memberName }) {
@@ -202,13 +212,13 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                           {members.map((member) => (
                             <MacroLine
                               key={member.id}
-                              macros={macrosForShared(shared.recipe, shared.portions, member.id)}
+                              macros={macrosForShared(shared, member.id)}
                               memberColor={member.color}
                               memberName={member.display_name}
                             />
                           ))}
                         </div>
-                        {expandedId === shared.id && <RecipeDetail recipe={shared.recipe} />}
+                        {expandedId === shared.id && <RecipeDetail recipe={effectiveRecipe(shared)} />}
                       </>
                     ) : (
                       <p className="text-sm text-ink/50 italic">No recipe matched — try Rebuild, or loosen filters in Settings.</p>
@@ -231,7 +241,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                     </div>
                     {lunches.map((lunch) => {
                       const member = members.find((m) => m.id === lunch.profile_id);
-                      const macros = macrosForIndividual(lunch.recipe, lunch.servings);
+                      const macros = macrosForIndividual(lunch);
                       const isExpanded = expandedId === lunch.id;
                       return (
                         <div key={lunch.id}>
@@ -261,7 +271,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                               {swapping === `${dayIndex}-lunch-${lunch.profile_id}` ? 'Swapping…' : 'Swap'}
                             </button>
                           </div>
-                          {isExpanded && <RecipeDetail recipe={lunch.recipe} />}
+                          {isExpanded && <RecipeDetail recipe={effectiveRecipe(lunch)} />}
                         </div>
                       );
                     })}
@@ -273,7 +283,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                     <p className="tab-label text-ink/40">Snacks</p>
                     {snacks.map((snack) => {
                       const member = members.find((m) => m.id === snack.profile_id);
-                      const macros = macrosForIndividual(snack.recipe, snack.servings);
+                      const macros = macrosForIndividual(snack);
                       const isExpanded = expandedId === snack.id;
                       return (
                         <div key={snack.id}>
@@ -303,7 +313,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                               {swapping === `${dayIndex}-${snack.meal_slot}-${snack.profile_id}` ? 'Swapping…' : 'Swap'}
                             </button>
                           </div>
-                          {isExpanded && <RecipeDetail recipe={snack.recipe} />}
+                          {isExpanded && <RecipeDetail recipe={effectiveRecipe(snack)} />}
                         </div>
                       );
                     })}

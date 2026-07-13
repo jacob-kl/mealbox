@@ -392,6 +392,15 @@ drop index if exists week_plan_meals_shared_idx;
 create unique index if not exists week_plan_meals_shared_idx
   on week_plan_meals(week_plan_id, day_index, meal_slot, course) where profile_id is null;
 
+-- Per-ingredient personalization: rather than scaling a whole recipe by one
+-- uniform factor (which can't change its underlying macro ratio at all —
+-- protein and carbs get multiplied by the exact same number), the builder
+-- now stores an adjusted ingredient list and the resulting macros directly
+-- on the meal instance. Falls back to recipe.macros_per_serving * servings
+-- for older rows that predate this (computed_macros is null).
+alter table week_plan_meals add column if not exists computed_macros jsonb;
+alter table week_plan_meals add column if not exists ingredients_override jsonb;
+
 -- The seed script clears and rebuilds the global recipe library on every
 -- run. Old week plans referencing those recipe ids shouldn't block that —
 -- they should just lose the reference (that meal shows as unmatched until

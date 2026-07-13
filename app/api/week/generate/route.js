@@ -41,6 +41,9 @@ export async function POST(request) {
     .select('*')
     .or(`household_id.is.null,household_id.eq.${householdId}`);
 
+  const { data: ingredients } = await supabase.from('ingredients').select('*');
+  const ingredientsByName = Object.fromEntries((ingredients || []).map((i) => [i.name, i]));
+
   // Avoid repeating recipes used in the last 14 days.
   const twoWeeksAgo = new Date(new Date(weekStart).getTime() - 14 * 86400000)
     .toISOString()
@@ -76,6 +79,7 @@ export async function POST(request) {
     blockedTags,
     cuisineFocus,
     recentRecipeIds,
+    ingredientsByName,
   });
 
   const { data: weekPlan, error: weekPlanError } = await supabase
@@ -98,6 +102,8 @@ export async function POST(request) {
     course: m.course || 'main',
     servings: m.servings ?? 1,
     portions: m.portions ?? [],
+    computed_macros: m.computedMacros ?? null,
+    ingredients_override: m.ingredientsOverride ?? null,
   }));
 
   if (rows.length) {

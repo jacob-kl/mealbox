@@ -20,18 +20,27 @@ const SLOT_LABELS = {
 };
 
 function macrosFor(meal, profileId) {
-  if (!meal.recipe?.macros_per_serving) return null;
+  const base = meal.computed_macros || meal.recipe?.macros_per_serving;
+  if (!base) return null;
   const servings = meal.profile_id
     ? meal.servings
     : meal.portions?.find((p) => p.profileId === profileId)?.servings ?? 1;
-  const m = meal.recipe.macros_per_serving;
   return {
-    cal: Math.round(m.cal * servings),
-    protein: Math.round(m.protein * servings),
-    carbs: Math.round(m.carbs * servings),
-    fat: Math.round(m.fat * servings),
+    cal: Math.round(base.cal * servings),
+    protein: Math.round(base.protein * servings),
+    carbs: Math.round(base.carbs * servings),
+    fat: Math.round(base.fat * servings),
     servings,
   };
+}
+
+/** The recipe as actually planned — swaps in the personalized ingredient
+ * list when one was computed, so "View recipe" shows what's actually being
+ * eaten (more chicken, less rice, etc.), not the library default. */
+function effectiveRecipe(meal) {
+  if (!meal.recipe) return null;
+  if (!meal.ingredients_override) return meal.recipe;
+  return { ...meal.recipe, ingredients: meal.ingredients_override };
 }
 
 export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan, recipeCatalog = [], ingredientCatalog = [] }) {
@@ -277,7 +286,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                     )}
                   </button>
                 </div>
-                {expanded && <RecipeDetail recipe={meal.recipe} />}
+                {expanded && <RecipeDetail recipe={effectiveRecipe(meal)} />}
               </Card>
             );
           })}
