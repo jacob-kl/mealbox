@@ -114,6 +114,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
   const [swappingIndex, setSwappingIndex] = useState(null);
   const [removingIndex, setRemovingIndex] = useState(null);
   const [removeError, setRemoveError] = useState(null);
+  const [showDetailed, setShowDetailed] = useState(false);
 
   if (!recipe) return null;
   const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0;
@@ -189,9 +190,29 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
       )}
       {recipe.steps?.length > 0 && (
         <>
-          <p className="font-medium mb-1">Steps</p>
-          <ol className="list-decimal list-inside space-y-0.5 text-ink/70">
-            {recipe.steps.map((s, i) => (
+          <div className="flex items-center justify-between mb-1">
+            <p className="font-medium">Steps</p>
+            {recipe.steps_detailed?.length > 0 && (
+              <div className="flex text-xs border border-line rounded-full overflow-hidden">
+                <button
+                  type="button"
+                  onClick={() => setShowDetailed(false)}
+                  className={`px-2.5 py-0.5 ${!showDetailed ? 'bg-pine text-white' : 'hover:bg-paper'}`}
+                >
+                  Quick
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setShowDetailed(true)}
+                  className={`px-2.5 py-0.5 ${showDetailed ? 'bg-pine text-white' : 'hover:bg-paper'}`}
+                >
+                  Full
+                </button>
+              </div>
+            )}
+          </div>
+          <ol className="list-decimal list-inside space-y-1 text-ink/70">
+            {(showDetailed && recipe.steps_detailed?.length > 0 ? recipe.steps_detailed : recipe.steps).map((s, i) => (
               <li key={i}>{s}</li>
             ))}
           </ol>

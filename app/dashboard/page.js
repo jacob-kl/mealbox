@@ -30,7 +30,7 @@ export default async function DashboardPage({ searchParams }) {
   if (weekPlan) {
     const { data } = await supabase
       .from('week_plan_meals')
-      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, steps, ingredients)')
+      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, steps, steps_detailed, ingredients)')
       .eq('week_plan_id', weekPlan.id)
       .eq('day_index', dayIndex)
       .or(`profile_id.eq.${user.id},profile_id.is.null`);

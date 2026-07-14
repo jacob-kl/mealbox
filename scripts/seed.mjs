@@ -121,6 +121,7 @@ async function seedRecipes(ingredients) {
         base_servings: r.base_servings || 1,
         ingredients: ingredientsWithUnits,
         steps: r.steps || [],
+        steps_detailed: r.steps_detailed || null,
         macros_per_serving: macros,
       };
 

@@ -88,10 +88,13 @@ create table if not exists recipes (
   tags text[] not null default '{}',
   base_servings numeric not null default 1,
   ingredients jsonb not null default '[]'::jsonb, -- [{ingredient, qty, note}]
-  steps text[] not null default '{}',
+  steps text[] not null default '{}', -- quick reference steps
+  steps_detailed text[], -- optional fuller, more technique-focused version of the same recipe; null if not yet written
   macros_per_serving jsonb, -- cached {cal,protein,carbs,fat,fiber}
   created_at timestamptz not null default now()
 );
+
+alter table recipes add column if not exists steps_detailed text[];
 
 create index if not exists recipes_cuisine_idx on recipes(cuisine);
 create index if not exists recipes_meal_type_idx on recipes(meal_type);

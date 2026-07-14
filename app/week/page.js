@@ -40,7 +40,7 @@ export default async function WeekPage({ searchParams }) {
   if (weekPlan) {
     const { data: mealRows } = await supabase
       .from('week_plan_meals')
-      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, steps, ingredients)')
+      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, steps, steps_detailed, ingredients)')
       .eq('week_plan_id', weekPlan.id)
       .order('day_index');
     meals = mealRows || [];
