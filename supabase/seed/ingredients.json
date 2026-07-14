@@ -6271,5 +6271,72 @@
       "gluten-free",
       "vegan"
     ]
+  },
+  {
+    "name": "Ground pork (raw)",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 263,
+    "protein": 17.2,
+    "carbs": 0,
+    "fat": 21.2,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "ground_red_meat",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Ground cardamom",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 6,
+    "protein": 0.2,
+    "carbs": 1.4,
+    "fat": 0.1,
+    "fiber": 0.6,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Roasted red peppers (jarred)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g, drained",
+    "cal": 35,
+    "protein": 1.2,
+    "carbs": 6.5,
+    "fat": 0.4,
+    "fiber": 1.8,
+    "micros": {},
+    "sub_group": "nightshade_veg",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Apple cider vinegar",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 3,
+    "protein": 0,
+    "carbs": 0.1,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "vinegar",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]
