@@ -6338,5 +6338,73 @@
       "gluten-free",
       "vegan"
     ]
+  },
+  {
+    "name": "Korean rice cake (tteok)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 220,
+    "protein": 3.5,
+    "carbs": 48,
+    "fat": 0.5,
+    "fiber": 0.8,
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Peanuts",
+    "serving_qty": 1,
+    "serving_unit": "oz",
+    "serving_label": "per 1oz (28g)",
+    "cal": 161,
+    "protein": 7.3,
+    "carbs": 4.6,
+    "fat": 14,
+    "fiber": 2.4,
+    "micros": {},
+    "sub_group": "tree_nut",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Rosewater",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "extract_flavoring",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Dates",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g, pitted",
+    "cal": 282,
+    "protein": 2.5,
+    "carbs": 75,
+    "fat": 0.4,
+    "fiber": 8,
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]

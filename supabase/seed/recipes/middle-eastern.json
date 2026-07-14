@@ -36,6 +36,50 @@
       "Mix lamb with cumin and garlic, form into small logs.",
       "Pan-sear or grill 3-4 min per side.",
       "Cook couscous per package directions, top with pomegranate seeds and kofta."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Couscous (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Pomegranate seeds",
+        "qty": 0.125,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Combine the lamb, cumin, garlic, grated onion, and parsley in a bowl, mixing gently just until combined.",
+      "Shape into oval koftas around skewers, or freeform if not using skewers.",
+      "Grill or broil 8-10 minutes, turning occasionally, until charred outside and cooked through.",
+      "Cook the couscous per package directions \u2014 typically just pouring boiling water over it and letting it sit covered 5 minutes, then fluffing with a fork.",
+      "Serve the koftas over couscous, topped with pomegranate seeds."
     ]
   },
   {
@@ -85,6 +129,60 @@
       "Cook rice per package directions.",
       "Season chicken with cumin and sumac, sear 5-6 min per side.",
       "Slice and serve over rice with cucumber, tomato, and tahini."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with cumin and sumac.",
+      "Heat a splash of oil in a skillet over medium-high heat and cook the chicken 6-7 minutes, stirring occasionally, until charred at the edges and cooked through.",
+      "Whisk the tahini, lemon juice, and garlic together with 2-3 tablespoons water until smooth and pourable.",
+      "Cook the rice per package directions.",
+      "Build the bowl with rice, cucumber, tomatoes, and chicken, drizzled with the tahini sauce."
     ]
   },
   {
@@ -130,6 +228,55 @@
     "steps": [
       "Mix chickpeas with cumin and garlic, pan-fry in olive oil into rough patties, 4 min per side.",
       "Serve over couscous with a drizzle of tahini."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 220,
+        "note": "mashed and pan-crisped"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.125,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Couscous (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the chickpeas with cumin, garlic, and parsley, leaving some texture.",
+      "Heat olive oil in a skillet over medium heat and pan-crisp the mixture, pressing it into rough patties, 4-5 minutes per side until golden.",
+      "Cook the couscous per package directions.",
+      "Whisk the tahini and lemon juice with 2 tablespoons water for the sauce.",
+      "Serve the crisped chickpeas over couscous, drizzled with tahini sauce."
     ]
   },
   {
@@ -168,6 +315,45 @@
     "steps": [
       "Toss chicken with za'atar and olive oil, bake at 400F for 20-22 min.",
       "Cook couscous per package directions, toss with tomatoes and serve with chicken."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 4.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Couscous (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 100,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Rub the chicken with za'atar and half the olive oil.",
+      "Bake 20-22 minutes until cooked through (165F).",
+      "Cook the couscous per package directions.",
+      "Toss the tomatoes with remaining olive oil and lemon juice.",
+      "Serve the chicken over couscous with the tomatoes."
     ]
   },
   {
@@ -213,6 +399,42 @@
     "steps": [
       "Layer rice, lamb, tomatoes, and feta in a jar with dressing at the bottom.",
       "Shake before eating."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 170,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the tahini and lemon juice with a splash of water for the dressing.",
+      "Layer the rice, tomatoes, lamb, and feta in a jar, with dressing on top or kept separate until serving."
     ]
   },
   {
@@ -247,6 +469,37 @@
     "steps": [
       "Mix lamb, cumin, parsley, and onion.",
       "Shape into ovals and grill or broil 10-12 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the lamb, cumin, parsley, grated onion, and garlic, mixing gently.",
+      "Shape into ovals and grill or broil 8-10 minutes, turning occasionally, until charred and cooked through."
     ]
   },
   {
@@ -282,6 +535,39 @@
       "Soak bulgur in hot water 10 min, drain.",
       "Mix with beef, onion, and allspice.",
       "Shape into patties, bake at 375F for 20 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Bulgur (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Allspice",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soak the bulgur in hot water for 15-20 minutes until softened, then drain and squeeze out excess water.",
+      "Preheat the oven to 375F. Combine the beef, soaked bulgur, grated onion, allspice, and cumin, mixing well.",
+      "Press into a baking dish in an even layer, about 1 inch thick, and score into diamond shapes with a knife.",
+      "Bake 30-35 minutes until cooked through and browned on top."
     ]
   },
   {
@@ -317,6 +603,38 @@
       "Cook rice per package directions.",
       "Season chicken with sumac, sear with onion until cooked through.",
       "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the chicken with sumac and a pinch of salt.",
+      "Heat olive oil in a skillet over medium-high heat. Cook the onion 4-5 minutes until softened, then push aside and sear the chicken 5-6 minutes per side.",
+      "Cook the rice per package directions and serve with the chicken and onions on top."
     ]
   },
   {
@@ -353,6 +671,44 @@
     "steps": [
       "Scoop eggplant flesh, mix with chickpeas, tomatoes, and cumin.",
       "Stuff back into shells, bake at 375F for 25-30 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 1,
+        "note": "halved lengthwise"
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Score the flesh of the eggplant halves in a crosshatch pattern, brush with half the oil, and roast 20 minutes until softened.",
+      "Meanwhile, heat remaining oil in a pan and cook the garlic 30 seconds, then add the tomatoes, chickpeas, and cumin, simmering 10 minutes.",
+      "Scoop some of the roasted eggplant flesh out, chop it, and mix into the chickpea filling.",
+      "Stuff the mixture back into the eggplant shells and return to the oven for 10 more minutes."
     ]
   },
   {
@@ -390,6 +746,37 @@
     "steps": [
       "Pan-crisp mashed chickpeas 5-6 min.",
       "Layer with hummus, cucumber, and tomatoes in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 180,
+        "note": "mashed and pan-crisped"
+      },
+      {
+        "ingredient": "Hummus",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the chickpeas with cumin and pan-crisp in a lightly oiled skillet, 4-5 minutes per side.",
+      "Layer the hummus, cucumber, tomatoes, and crisped chickpeas in a jar."
     ]
   },
   {
@@ -426,6 +813,32 @@
     "steps": [
       "Toss chicken with spices.",
       "Layer over lettuce and cucumber in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with the spice blend.",
+      "Layer the lettuce, cucumber, and chicken in a jar."
     ]
   },
   {
@@ -462,6 +875,43 @@
     ],
     "steps": [
       "Toss all ingredients together with lemon juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bulgur (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.25,
+        "note": "cup, finely chopped"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soak the bulgur in hot water 15-20 minutes until tender, then drain well.",
+      "Combine the bulgur, chickpeas, parsley, and tomatoes.",
+      "Whisk the lemon juice and olive oil, toss through \u2014 real tabbouleh is parsley-forward with bulgur as a minor player, so don't skimp on the parsley."
     ]
   },
   {
@@ -498,6 +948,50 @@
     "steps": [
       "Simmer tomatoes, pepper, and cumin 8 min.",
       "Crack eggs into the sauce, cover and cook 5-6 min until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 300,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat olive oil in a skillet over medium heat. Cook the onion and bell pepper 5-6 minutes until softened.",
+      "Add the garlic and cumin, cooking 30 seconds until fragrant.",
+      "Add the tomatoes and simmer 10 minutes until slightly thickened.",
+      "Make small wells in the sauce with a spoon and crack an egg into each.",
+      "Cover and cook 6-8 minutes until the whites are set but the yolks are still soft."
     ]
   },
   {
@@ -529,6 +1023,28 @@
     "steps": [
       "Brush pita with oil, sprinkle with za'atar.",
       "Toast 3-4 min until warm and fragrant."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F, or a dry skillet over medium heat.",
+      "Brush the pita with olive oil and sprinkle generously with za'atar.",
+      "Toast 5-6 minutes in the oven, or 2-3 minutes per side in a skillet, until warmed through and fragrant."
     ]
   },
   {
@@ -559,6 +1075,26 @@
     ],
     "steps": [
       "Serve hummus with carrot and cucumber sticks."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Hummus",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sliced into sticks"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "sliced into sticks"
+      }
+    ],
+    "steps_detailed": [
+      "Serve the hummus with carrot and cucumber sticks for dipping."
     ]
   },
   {
@@ -590,6 +1126,28 @@
     "steps": [
       "Toss chickpeas with za'atar and oil.",
       "Roast at 400F for 20-25 min until crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 180,
+        "note": "drained and patted dry"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Pat the chickpeas very dry.",
+      "Toss with olive oil and za'atar.",
+      "Roast 20-25 minutes, shaking halfway, until crunchy and golden."
     ]
   },
   {
@@ -603,23 +1161,39 @@
     "base_servings": 2,
     "ingredients": [
       {
-        "ingredient": "Grapes",
-        "qty": 100,
-        "note": "or dates if available"
+        "ingredient": "Dates",
+        "qty": 60,
+        "note": "pitted"
       },
       {
         "ingredient": "Walnuts",
-        "qty": 1,
+        "qty": 0.5,
         "note": "oz"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
       }
     ],
     "steps": [
       "Chop and mix all ingredients, press into small bites."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Dates",
+        "qty": 60,
+        "note": "pitted"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 0.5,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Chop the dates finely and mix with the chopped walnuts and honey until it forms a sticky mixture.",
+      "Roll into small bites, about a teaspoon each."
     ]
   },
   {
@@ -650,6 +1224,32 @@
     ],
     "steps": [
       "Top yogurt with pistachios and honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Pistachios",
+        "qty": 0.5,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Stir the honey and rosewater into the yogurt \u2014 start with a small amount of rosewater, as it's potent and can quickly taste soapy if overdone.",
+      "Top with chopped pistachios before serving."
     ]
   },
   {
@@ -680,6 +1280,28 @@
     ],
     "steps": [
       "Blend garlic and lemon juice, slowly stream in oil while blending until thick."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garlic",
+        "qty": 3,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 8.0,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the garlic and lemon juice in a food processor until finely pureed.",
+      "With the processor running, drizzle in the olive oil very slowly \u2014 this slow addition is what makes toum emulsify into a thick, mayonnaise-like sauce instead of separating.",
+      "If it splits, a teaspoon of ice water blended in can sometimes bring it back together."
     ]
   },
   {
@@ -710,6 +1332,28 @@
     ],
     "steps": [
       "Whisk all ingredients with 2-3 tbsp water until smooth."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tahini",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the tahini and lemon juice together \u2014 it will seize and clump at first, that's normal.",
+      "Keep whisking while adding cold water a tablespoon at a time until it smooths into a pourable sauce.",
+      "Stir in the garlic."
     ]
   },
   {
@@ -752,6 +1396,48 @@
     "steps": [
       "Toss vegetables with sumac and a drizzle of olive oil.",
       "Top with toasted pita pieces."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 120,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 100,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 0.5,
+        "note": "toasted and torn"
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the torn pita in a dry skillet or 400F oven for 5-6 minutes until crisp.",
+      "Toss the lettuce, cucumber, and tomatoes with olive oil, lemon juice, and sumac.",
+      "Add the crisp pita right before serving so it stays crunchy rather than going soggy."
     ]
   },
   {
@@ -788,6 +1474,44 @@
     "steps": [
       "Simmer lentils, onion, cumin, and broth 20-25 min until lentils are soft.",
       "Blend partially for a creamier texture if desired."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 0.3333,
+        "note": "for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion 4-5 minutes, then add garlic and cumin, cooking 30 seconds until fragrant.",
+      "Add the lentils and broth, bring to a simmer.",
+      "Cook 20-25 minutes until the lentils are soft. Blend partially for a creamier texture if desired.",
+      "Finish with a squeeze of lemon juice just before serving."
     ]
   },
   {
@@ -821,6 +1545,38 @@
     ],
     "steps": [
       "Fill tortilla with chicken, yogurt, and cucumber, roll tightly."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": "sliced, cooked with spices"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with cumin. Heat a splash of oil in a skillet over medium-high heat and cook 6-7 minutes, stirring occasionally, until cooked through with charred edges.",
+      "Warm the tortilla, then fill with chicken, yogurt, and cucumber.",
+      "Roll tightly."
     ]
   }
 ]

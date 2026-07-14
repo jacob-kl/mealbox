@@ -41,6 +41,56 @@
       "Cook rice with saffron and paprika per package directions.",
       "Sear chicken and chorizo together 6-7 min.",
       "Add bell pepper, cook 3 min more, combine with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Chorizo (fully cooked)",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Steep the saffron threads in 2 tablespoons of warm broth for 5-10 minutes to release their color and flavor before adding to the pan.",
+      "Heat a wide, shallow pan over medium-high heat. Brown the chicken and chorizo together, 5-6 minutes.",
+      "Add the bell pepper and garlic, cooking 2-3 minutes.",
+      "Stir in the rice, smoked paprika, and saffron broth, then add the remaining broth.",
+      "Bring to a boil, then reduce to a simmer, cover, and cook 18-20 minutes without stirring \u2014 resisting the urge to stir is what lets the bottom develop the prized crispy socarrat layer.",
+      "Let rest 5 minutes off heat before serving."
     ]
   },
   {
@@ -82,6 +132,39 @@
       "Saute garlic in olive oil until fragrant, 1 min.",
       "Add shrimp and paprika, cook 2-3 min per side.",
       "Serve with bread to soak up the oil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 220,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 2,
+        "note": "tbsp, thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "slice, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the olive oil in a skillet over medium-low heat. Add the sliced garlic and cook slowly, 2-3 minutes, until fragrant and just starting to turn golden \u2014 don't let it brown, or it turns bitter.",
+      "Raise heat to medium-high, add the shrimp, and cook 1-2 minutes per side until pink.",
+      "Stir in the paprika off heat.",
+      "Serve immediately with bread for soaking up the garlicky oil, the classic tapas way."
     ]
   },
   {
@@ -121,6 +204,44 @@
       "Cook rice per package directions.",
       "Sear chicken 5-6 min per side, top with cheese to melt.",
       "Serve with olives, tomatoes, and rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Manchego cheese",
+        "qty": 1.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 100,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions.",
+      "Heat olive oil in a skillet over medium-high heat and cook the chicken 5-6 minutes per side until cooked through (165F).",
+      "Add the tomatoes and olives in the last 2-3 minutes to warm through and soften slightly.",
+      "Top with shaved or crumbled manchego and serve over rice."
     ]
   },
   {
@@ -131,7 +252,7 @@
       "vegetarian",
       "breakfast-for-dinner"
     ],
-    "base_servings": 1,
+    "base_servings": 2,
     "ingredients": [
       {
         "ingredient": "Eggs (large)",
@@ -157,6 +278,36 @@
     "steps": [
       "Saute potato and onion in olive oil until soft, 10-12 min.",
       "Pour whisked eggs over, cook covered on low 8-10 min until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 4,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 200,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the olive oil in a nonstick skillet over medium-low heat. Add the potato and onion and cook slowly, 15-18 minutes, stirring occasionally, until very tender but not browned.",
+      "Whisk the eggs in a large bowl, then fold in the potato-onion mixture.",
+      "Wipe out the pan, add a little more oil if needed, and pour in the egg mixture over medium-low heat.",
+      "Cook 6-8 minutes until the edges set and the bottom is golden.",
+      "Place a large plate over the pan, flip the tortilla onto it, then slide it back into the pan to cook the other side, 4-5 more minutes.",
+      "Let rest a few minutes before slicing into wedges \u2014 it's traditionally served just warm or at room temperature, not piping hot."
     ]
   },
   {
@@ -196,6 +347,46 @@
     "steps": [
       "Sear chicken, remove.",
       "Toast rice with pepper and saffron, add broth and chicken back in, simmer covered 18-20 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Steep the saffron in 2 tablespoons of warm broth.",
+      "Heat a wide pan over medium-high heat and brown the chicken, 5-6 minutes.",
+      "Add the bell pepper and garlic, cooking 2-3 minutes.",
+      "Stir in the rice and saffron broth, then add the remaining broth.",
+      "Bring to a boil, reduce to a simmer, cover, and cook 18-20 minutes without stirring.",
+      "Rest 5 minutes before serving."
     ]
   },
   {
@@ -232,6 +423,33 @@
     "steps": [
       "Saute garlic in oil 1 min.",
       "Add shrimp and paprika, cook 4-5 min until pink."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1.5,
+        "note": "tbsp, thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the olive oil over medium-low heat and cook the garlic slowly, 2 minutes, until fragrant but not browned.",
+      "Raise heat, add the shrimp, and cook 1-2 minutes per side until pink.",
+      "Stir in the paprika off heat before serving."
     ]
   },
   {
@@ -266,6 +484,44 @@
     "steps": [
       "Sear beef until browned.",
       "Add potato, tomatoes, and paprika, simmer covered 30-35 min until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Sear the beef in a pot over medium-high heat, 3-4 minutes, until browned. Remove.",
+      "Add the onion and garlic, cooking 3-4 minutes, then add the paprika, cooking 30 seconds until fragrant.",
+      "Add the tomatoes, potatoes, and beef back in, along with 1 cup water.",
+      "Bring to a simmer, cover, and cook 35-40 minutes until the beef and potatoes are tender."
     ]
   },
   {
@@ -297,6 +553,34 @@
     "steps": [
       "Saute chorizo 2 min, add tomatoes, simmer 5 min.",
       "Nestle cod into the sauce, bake at 400F for 12-15 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Chorizo (fully cooked)",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Heat a splash of oil in an oven-safe skillet over medium heat and cook the chorizo 2-3 minutes to render some fat.",
+      "Add the garlic and tomatoes, simmering 8-10 minutes.",
+      "Nestle the cod into the sauce, spooning some over the top.",
+      "Bake 12-15 minutes until the fish flakes easily."
     ]
   },
   {
@@ -333,6 +617,43 @@
     "steps": [
       "Simmer chickpeas, tomatoes, and cumin 10 min.",
       "Stir in spinach until wilted."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Add garlic, cumin, and paprika, cooking 30 seconds until fragrant.",
+      "Add the tomatoes and chickpeas, simmer 12-15 minutes until slightly thickened.",
+      "Stir in the spinach in the last 2 minutes until wilted."
     ]
   },
   {
@@ -369,6 +690,38 @@
     ],
     "steps": [
       "Toss all ingredients together with oil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 140,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the olive oil and vinegar together.",
+      "Toss the beans and red onion with the dressing.",
+      "Layer in a jar with the tuna on top."
     ]
   },
   {
@@ -405,6 +758,32 @@
     "steps": [
       "Toss chicken with paprika.",
       "Layer over rice with bell pepper."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with smoked paprika.",
+      "Layer the rice, bell pepper, and chicken in a jar."
     ]
   },
   {
@@ -437,6 +816,33 @@
     "steps": [
       "Saute potato and onion until soft.",
       "Pour whisked eggs over, cook covered 6-8 min until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a nonstick pan over medium-low heat. Cook the potato and onion slowly, 15 minutes, until tender.",
+      "Whisk the eggs, fold in the potato mixture, and pour back into the pan.",
+      "Cook 5-6 minutes until the edges set, then flip using a plate and cook 4 more minutes."
     ]
   },
   {
@@ -468,6 +874,39 @@
     "steps": [
       "Simmer tomatoes and pepper 5 min in a small skillet.",
       "Crack eggs into the sauce, cover and cook 5-6 min until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Heat a splash of oil in an oven-safe skillet over medium heat. Cook the onion and bell pepper 5-6 minutes.",
+      "Add the tomatoes and paprika, simmer 10 minutes.",
+      "Make wells in the sauce and crack the eggs into them.",
+      "Transfer to the oven and bake 8-10 minutes until the whites are set but yolks are still soft."
     ]
   },
   {
@@ -493,6 +932,27 @@
     ],
     "steps": [
       "Toss almonds with paprika."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the almonds with a light coating of olive oil and smoked paprika.",
+      "Toast in a dry skillet over medium-low heat, 3-4 minutes, stirring often, until fragrant."
     ]
   },
   {
@@ -518,6 +978,21 @@
     ],
     "steps": [
       "Serve cheese and olives together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Manchego cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve the manchego and olives together \u2014 a classic simple tapas pairing."
     ]
   },
   {
@@ -555,6 +1030,41 @@
       "Melt sugar until amber, pour into ramekins.",
       "Whisk eggs and milks, pour over caramel.",
       "Bake in a water bath at 350F for 45 min, chill before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 6,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Evaporated milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 4,
+        "note": "tbsp, for the caramel"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 350F.",
+      "Melt the sugar in a saucepan over medium heat, swirling (not stirring) until deep amber. Pour into ramekins, tilting to coat the bottom.",
+      "Whisk the eggs, condensed milk, evaporated milk, and vanilla together, then strain for smoothness.",
+      "Pour over the caramel. Place ramekins in a baking dish with hot water halfway up the sides.",
+      "Bake 40-45 minutes until just set with a slight jiggle.",
+      "Chill at least 3 hours, then run a knife around the edge and invert to unmold."
     ]
   },
   {
@@ -586,6 +1096,29 @@
     "steps": [
       "Bake pear at 375F for 20 min.",
       "Drizzle with honey and top with shaved manchego."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pear",
+        "qty": 1,
+        "note": "halved and cored"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Manchego cheese",
+        "qty": 0.5,
+        "note": "oz, shaved"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 375F.",
+      "Drizzle the pear halves with honey and place cut-side up on a baking sheet.",
+      "Bake 20-25 minutes until tender and caramelized at the edges.",
+      "Top with shaved manchego just before serving, a classic Spanish pairing of fruit and cheese."
     ]
   },
   {
@@ -621,6 +1154,39 @@
     ],
     "steps": [
       "Blend all ingredients until mostly smooth."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Red bell pepper",
+        "qty": 150,
+        "note": "roasted"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "If roasting the pepper fresh, char it over a flame or under the broiler until blackened, then steam in a covered bowl 10 minutes and peel.",
+      "Toast the almonds in a dry skillet over medium heat, 2-3 minutes, until fragrant.",
+      "Blend the roasted pepper, almonds, garlic, and vinegar until mostly smooth.",
+      "With the blender running, drizzle in the olive oil until the sauce comes together, slightly textured rather than perfectly smooth."
     ]
   },
   {
@@ -651,6 +1217,26 @@
     ],
     "steps": [
       "Whisk all ingredients together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk all ingredients together. Let sit 10 minutes for the garlic to mellow slightly before serving."
     ]
   },
   {
@@ -687,6 +1273,38 @@
     ],
     "steps": [
       "Simmer lentils, tomatoes, paprika, and onion with 1.5 cups water 25-30 min until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion 4-5 minutes, then add garlic and paprika, cooking 30 seconds.",
+      "Add the lentils, tomatoes, and 2 cups water. Bring to a simmer.",
+      "Cook 25-30 minutes until the lentils are tender."
     ]
   },
   {
@@ -724,6 +1342,32 @@
     "steps": [
       "Arrange orange segments, olives, and onion.",
       "Drizzle with olive oil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Orange",
+        "qty": 1,
+        "note": "segmented"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 25,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Arrange the orange segments, olives, and onion on a plate.",
+      "Drizzle with olive oil just before serving."
     ]
   },
   {
@@ -766,6 +1410,42 @@
     "steps": [
       "Blend all ingredients until smooth.",
       "Chill at least 1 hour before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 350,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend all ingredients together until smooth.",
+      "Chill at least 1 hour \u2014 gazpacho is meant to be served very cold, and the flavors deepen as it sits."
     ]
   }
 ]
