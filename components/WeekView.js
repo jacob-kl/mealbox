@@ -4,10 +4,15 @@ import { useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { Card, Badge, Button, CUISINES, cuisineLabel } from '@/components/ui';
+import { Card, Badge, Button, CUISINES, cuisineLabel, CuisinePill } from '@/components/ui';
 import RecipeDetail from '@/components/RecipeDetail';
 import { dayLabel, addDays } from '@/lib/dates';
 import { DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
+
+const SLOT_ORDER = { breakfast: 0, lunch: 1, dinner: 2, dessert: 3, snack1: 4, snack2: 5, snack3: 6, snack4: 7 };
+function bySlotOrder(a, b) {
+  return (SLOT_ORDER[a.meal_slot] ?? 99) - (SLOT_ORDER[b.meal_slot] ?? 99);
+}
 
 function macrosForShared(meal, profileId) {
   const base = meal.computed_macros || meal.recipe?.macros_per_serving;
@@ -210,7 +215,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
         <div className="grid gap-4 sm:grid-cols-2">
           {Array.from({ length: 7 }, (_, dayIndex) => {
             const dayMeals = byDay[dayIndex] || [];
-            const sharedMeals = dayMeals.filter((m) => m.profile_id === null);
+            const sharedMeals = dayMeals.filter((m) => m.profile_id === null).sort(bySlotOrder);
             const lunches = dayMeals.filter((m) => m.meal_slot === 'lunch' && m.profile_id);
             const snacks = dayMeals.filter((m) => m.meal_slot.startsWith('snack'));
             const lunchStrategy = lunchPlan[dayIndex] || 'batch';
@@ -265,7 +270,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                             <span className="text-xs text-pine ml-2">{expandedId === shared.id ? 'Hide' : 'View recipe'}</span>
                           </h3>
                         </button>
-                        <p className="text-xs text-ink/50 mb-2">{cuisineLabel(shared.recipe.cuisine)}</p>
+                        <CuisinePill cuisine={shared.recipe.cuisine} seed={shared.recipe.name} className="mb-2" />
                         <div className="space-y-1">
                           {members.map((member) => (
                             <MacroLine

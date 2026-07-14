@@ -40,7 +40,7 @@ export async function POST(request) {
   const mealStructure = household?.settings?.mealStructure || DEFAULT_MEAL_STRUCTURE;
   const snacksPerDay = Math.max(0, Math.min(4, mealStructure.snacksPerDay ?? 1));
 
-  const isSharedSlot = mealSlot === 'dinner' || mealSlot === 'breakfast';
+  const isSharedSlot = mealSlot === 'dinner' || mealSlot === 'breakfast' || mealSlot === 'dessert';
   const mealType = isSharedSlot ? mealSlot : mealSlot.startsWith('snack') ? 'snack' : 'lunch';
 
   const dayShares = computeMealShares(mealDays[dayIndex] || {}, snacksPerDay);

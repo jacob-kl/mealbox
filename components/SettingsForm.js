@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
+import { ThemeGrid } from '@/components/ThemeSwitcher';
 import { DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { DIET_TYPES } from '@/lib/macros';
 import { DAY_NAMES } from '@/lib/dates';
@@ -18,7 +19,7 @@ const BLOCKABLE_TAGS = [
   { tag: 'eggplant', label: 'Eggplant' },
 ];
 
-const MEAL_COLUMNS = ['breakfast', 'lunch', 'dinner'];
+const MEAL_COLUMNS = ['breakfast', 'lunch', 'dinner', 'dessert'];
 
 export default function SettingsForm({ household, members }) {
   const supabase = createClient();
@@ -145,6 +146,15 @@ export default function SettingsForm({ household, members }) {
       </Card>
 
       <Card>
+        <h2 className="font-display text-xl mb-1">Theme</h2>
+        <p className="text-sm text-ink/60 mb-4">
+          Each one is a full look, not just a color swap — different fonts, card shapes, and
+          background patterns. Tap one to preview it live.
+        </p>
+        <ThemeGrid />
+      </Card>
+
+      <Card>
         <h2 className="font-display text-xl mb-1">Which meals to plan</h2>
         <p className="text-sm text-ink/60 mb-4">
           Check a box to have the auto-builder plan that meal on that day. Leave a whole column
@@ -233,8 +243,8 @@ export default function SettingsForm({ household, members }) {
           whole day&apos;s calories. Leftover calories show up as Recommended supplements on the
           Today tab instead. Leave blank for no limit.
         </p>
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-          {['breakfast', 'lunch', 'dinner', 'snack'].map((meal) => (
+        <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
+          {['breakfast', 'lunch', 'dinner', 'dessert', 'snack'].map((meal) => (
             <div key={meal}>
               <label className="text-sm text-ink/60 block mb-1 capitalize">{meal}</label>
               <input

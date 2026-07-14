@@ -4,7 +4,7 @@ import { useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
-import { Card, Button } from '@/components/ui';
+import { Card, Button, CuisinePill } from '@/components/ui';
 import RecipeDetail from '@/components/RecipeDetail';
 import BarcodeScanner from '@/components/BarcodeScanner';
 import { recommendSupplements } from '@/lib/supplements';
@@ -14,11 +14,17 @@ const SLOT_LABELS = {
   breakfast: 'Breakfast',
   lunch: 'Lunch',
   dinner: 'Dinner',
+  dessert: 'Dessert',
   snack1: 'Snack',
   snack2: 'Snack',
   snack3: 'Snack',
   snack4: 'Snack',
 };
+
+const SLOT_ORDER = { breakfast: 0, lunch: 1, dinner: 2, dessert: 3, snack1: 4, snack2: 5, snack3: 6, snack4: 7 };
+function bySlotOrder(a, b) {
+  return (SLOT_ORDER[a.meal_slot] ?? 99) - (SLOT_ORDER[b.meal_slot] ?? 99);
+}
 
 function macrosFor(meal, profileId) {
   const base = meal.computed_macros || meal.recipe?.macros_per_serving;
@@ -254,7 +260,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
       {plannedMeals.length > 0 && (
         <div className="space-y-3 mb-6">
           <p className="tab-label text-rust">Planned</p>
-          {plannedMeals.map((meal) => {
+          {[...plannedMeals].sort(bySlotOrder).map((meal) => {
             const macros = macrosFor(meal, profile.id);
             const checked = !!loggedByMealId[meal.id];
             const expanded = expandedId === meal.id;
@@ -282,6 +288,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                       {meal.recipe?.name || 'No recipe matched'}
                       {meal.recipe && <span className="text-xs text-pine ml-2">{expanded ? 'Hide recipe' : 'View recipe'}</span>}
                     </p>
+                    {meal.recipe?.cuisine && <CuisinePill cuisine={meal.recipe.cuisine} seed={meal.recipe.name} className="mb-1.5" />}
                     {macros && (
                       <p className="font-mono text-xs text-ink/60">
                         {macros.cal} cal · {macros.protein}p · {macros.carbs}c · {macros.fat}f

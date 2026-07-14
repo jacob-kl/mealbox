@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import ThemeSwitcher from '@/components/ThemeSwitcher';
+import { flagFor } from '@/lib/cuisineFlags';
 
 export function Card({ children, className = '' }) {
   return <div className={`index-card p-6 ${className}`}>{children}</div>;
@@ -127,6 +128,29 @@ export const CUISINE_LABELS = {
 
 export function cuisineLabel(slug) {
   return CUISINE_LABELS[slug] || (slug ? slug.charAt(0).toUpperCase() + slug.slice(1) : slug);
+}
+
+/**
+ * Cuisine shown as a pill with a subtle, oversized flag watermarked in the
+ * background — clipped to the pill's rounded corners, low opacity so it
+ * reads as texture rather than competing with the text. Regional cuisines
+ * (asian, mediterranean, etc.) pick a flag per-recipe via `seed` so
+ * different recipes in the same region show different countries rather
+ * than one flag standing in for the whole region.
+ */
+export function CuisinePill({ cuisine, seed, className = '' }) {
+  if (!cuisine) return null;
+  const flag = flagFor(cuisine, seed);
+  return (
+    <span className={`relative inline-flex items-center overflow-hidden rounded-full px-2.5 py-1 bg-pine/8 ${className}`}>
+      {flag && (
+        <span aria-hidden="true" className="absolute -right-1 -top-2 text-3xl opacity-20 leading-none select-none">
+          {flag}
+        </span>
+      )}
+      <span className="tab-label relative text-ink/70">{cuisineLabel(cuisine)}</span>
+    </span>
+  );
 }
 
 export const MACRO_LABELS = [

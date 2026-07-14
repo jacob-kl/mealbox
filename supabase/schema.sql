@@ -438,7 +438,7 @@ create table if not exists week_plan_meals (
   id uuid primary key default gen_random_uuid(),
   week_plan_id uuid not null references week_plans(id) on delete cascade,
   day_index int not null check (day_index between 0 and 6),
-  meal_slot text not null check (meal_slot in ('breakfast','lunch','dinner','snack1','snack2','snack3','snack4')),
+  meal_slot text not null check (meal_slot in ('breakfast','lunch','dinner','dessert','snack1','snack2','snack3','snack4')),
   profile_id uuid references profiles(id) on delete cascade,
   recipe_id uuid references recipes(id),
   label text,
@@ -446,6 +446,13 @@ create table if not exists week_plan_meals (
   portions jsonb not null default '[]'::jsonb,
   created_at timestamptz not null default now()
 );
+
+-- Migration for existing installs: the original constraint didn't include
+-- 'dessert'. Postgres auto-names an inline CHECK on a fresh table
+-- '<table>_<column>_check' — drop and re-add with the wider allowlist.
+alter table week_plan_meals drop constraint if exists week_plan_meals_meal_slot_check;
+alter table week_plan_meals add constraint week_plan_meals_meal_slot_check
+  check (meal_slot in ('breakfast','lunch','dinner','dessert','snack1','snack2','snack3','snack4'));
 
 create unique index if not exists week_plan_meals_shared_idx
   on week_plan_meals(week_plan_id, day_index, meal_slot) where profile_id is null;

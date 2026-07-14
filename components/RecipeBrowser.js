@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import { Card, Badge, cuisineLabel } from '@/components/ui';
+import { flagFor } from '@/lib/cuisineFlags';
 import RecipeDetail from '@/components/RecipeDetail';
 
 const MEAL_TYPE_ORDER = ['breakfast', 'lunch', 'dinner', 'snack', 'sauce', 'dessert'];
@@ -75,7 +76,10 @@ export default function RecipeBrowser({ recipes }) {
 
       {Object.entries(grouped).map(([cuisineName, byMealType]) => (
         <div key={cuisineName} className="mb-10">
-          <h2 className="font-display text-2xl mb-4">{cuisineLabel(cuisineName)}</h2>
+          <h2 className="font-display text-2xl mb-4">
+            <span aria-hidden="true">{flagFor(cuisineName)} </span>
+            {cuisineLabel(cuisineName)}
+          </h2>
           {Object.entries(byMealType).map(([mealType, list]) => (
             <div key={mealType} className="mb-6">
               <p className="tab-label text-rust mb-3">{MEAL_TYPE_LABELS[mealType]}</p>
