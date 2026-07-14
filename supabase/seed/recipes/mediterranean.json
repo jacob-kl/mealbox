@@ -400,5 +400,434 @@
       "Cook pasta, cool, and layer in a mason jar with dressing on the bottom.",
       "Add tuna, pepper, and tomato on top. Shake before eating."
     ]
+  },
+  {
+    "name": "Greek Chicken Souvlaki",
+    "cuisine": "mediterranean",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in lemon juice, oil, and oregano 15 min.",
+      "Skewer and grill or broil 10-12 min."
+    ]
+  },
+  {
+    "name": "Mediterranean Baked Cod",
+    "cuisine": "mediterranean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 100,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss tomatoes and olives with oil around cod in a baking dish.",
+      "Bake at 400F for 15-18 min."
+    ]
+  },
+  {
+    "name": "Lamb and Chickpea Stew",
+    "cuisine": "mediterranean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Brown lamb, drain excess fat.",
+      "Add chickpeas, tomatoes, and cumin, simmer 15 min."
+    ]
+  },
+  {
+    "name": "Stuffed Grape Leaves-Style Bowl",
+    "cuisine": "mediterranean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Wilt spinach, toss with rice, lemon juice, and dill."
+    ]
+  },
+  {
+    "name": "Greek Baked Chicken with Feta",
+    "cuisine": "mediterranean",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Top chicken with tomatoes, feta, and oregano.",
+      "Bake at 400F for 20-22 min."
+    ]
+  },
+  {
+    "name": "Greek Chicken Gyro Jar",
+    "cuisine": "mediterranean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix yogurt, cucumber, and dill for tzatziki.",
+      "Layer chicken and tzatziki in a jar."
+    ]
+  },
+  {
+    "name": "Mediterranean Tuna Salad Jar",
+    "cuisine": "mediterranean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 6,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with oil."
+    ]
+  },
+  {
+    "name": "Falafel-Style Chickpea Bowl",
+    "cuisine": "mediterranean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "mashed and pan-crisped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Hummus",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Pan-crisp mashed chickpeas 5-6 min.",
+      "Serve with cucumber, hummus, and parsley."
+    ]
+  },
+  {
+    "name": "Mediterranean Egg and Feta Scramble",
+    "cuisine": "mediterranean",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Scramble eggs with spinach and feta 3-4 min."
+    ]
+  },
+  {
+    "name": "Stuffed Dates with Almonds",
+    "cuisine": "mediterranean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 0.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Drizzle almonds with honey."
+    ]
+  },
+  {
+    "name": "Cucumber and Tzatziki Cups",
+    "cuisine": "mediterranean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix yogurt and dill for a quick dip.",
+      "Serve with cucumber."
+    ]
+  },
+  {
+    "name": "Baklava-Inspired Yogurt Bowl",
+    "cuisine": "mediterranean",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 0.5,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Top yogurt with walnuts and honey."
+    ]
+  },
+  {
+    "name": "Fig and Honey Plate",
+    "cuisine": "mediterranean",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Grapes",
+        "qty": 100,
+        "note": "or fresh figs if available"
+      },
+      {
+        "ingredient": "Goat cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Arrange grapes and goat cheese, drizzle with honey."
+    ]
   }
 ]

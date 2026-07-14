@@ -7,12 +7,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 150, "note": "sliced" },
-      { "ingredient": "Ramen noodles (fresh)", "qty": 150, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
-      { "ingredient": "Scallions", "qty": 2, "note": "tbsp, sliced" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "soft-boiled" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ramen noodles (fresh)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 2,
+        "note": "tbsp, sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "soft-boiled"
+      }
     ],
     "steps": [
       "Simmer broth (water, soy sauce, ginger) 10 min.",
@@ -28,12 +52,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Pork tenderloin", "qty": 150, "note": "sliced thin" },
-      { "ingredient": "Ramen noodles (fresh)", "qty": 150, "note": "" },
-      { "ingredient": "Miso paste", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Bok choy", "qty": 80, "note": "" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 150,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Ramen noodles (fresh)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Miso paste",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bok choy",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Whisk miso into hot broth (water + a splash of soy sauce) until dissolved.",
@@ -49,11 +97,31 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "pounded thin" },
-      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 4, "note": "tbsp" },
-      { "ingredient": "Eggs (large)", "qty": 0.5, "note": "" },
-      { "ingredient": "Ketchup", "qty": 1, "note": "tbsp, for tonkatsu-style sauce" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tsp, for sauce" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 1,
+        "note": "tbsp, for tonkatsu-style sauce"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp, for sauce"
+      }
     ],
     "steps": [
       "Dip chicken in egg, then breadcrumbs.",
@@ -66,13 +134,31 @@
     "cuisine": "japanese",
     "meal_type": "dinner",
     "course": "main",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Honey", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" }
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
     ],
     "steps": [
       "Whisk soy sauce, honey, and ginger; brush over salmon.",
@@ -84,14 +170,30 @@
     "cuisine": "japanese",
     "meal_type": "dinner",
     "course": "side",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Nori sheets", "qty": 1, "note": "torn into strips" },
-      { "ingredient": "Sesame seeds", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Nori sheets",
+        "qty": 1,
+        "note": "torn into strips"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
-    "steps": ["Cook rice per package directions, top with torn nori and sesame seeds."]
+    "steps": [
+      "Cook rice per package directions, top with torn nori and sesame seeds."
+    ]
   },
   {
     "name": "Japanese Curry Chicken",
@@ -101,11 +203,31 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "cubed" },
-      { "ingredient": "Carrot", "qty": 60, "note": "sliced" },
-      { "ingredient": "Yukon gold potato", "qty": 120, "note": "cubed" },
-      { "ingredient": "Curry powder", "qty": 2, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 2,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -118,15 +240,488 @@
     "cuisine": "japanese",
     "meal_type": "lunch",
     "course": "complete",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, sliced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 40, "note": "cooked and cooled" },
-      { "ingredient": "Carrot", "qty": 50, "note": "shredded" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
-      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp, keep separate" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp, keep separate"
+      }
     ],
-    "steps": ["Layer dressing, rice, carrot, and chicken in a jar. Shake before eating."]
+    "steps": [
+      "Layer dressing, rice, carrot, and chicken in a jar. Shake before eating."
+    ]
+  },
+  {
+    "name": "Beef Yakisoba",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Ramen noodles (fresh)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 80,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Stir-fry beef until browned, remove.",
+      "Stir-fry cabbage and carrot, add noodles and beef back in, toss with soy sauce."
+    ]
+  },
+  {
+    "name": "Miso Glazed Salmon",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Miso paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk miso, honey, and mirin; brush over salmon.",
+      "Broil 8-10 min until caramelized."
+    ]
+  },
+  {
+    "name": "Yakitori Chicken",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk soy sauce, mirin, and honey for the tare.",
+      "Skewer chicken, grill or broil 10-12 min, basting with tare.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Tonkatsu (Baked)",
+    "cuisine": "japanese",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 170,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 1,
+        "note": "tbsp, for sauce"
+      }
+    ],
+    "steps": [
+      "Dip pork in egg, then panko.",
+      "Bake at 400F for 15-18 min, flipping once, until golden.",
+      "Serve with a quick ketchup-based sauce."
+    ]
+  },
+  {
+    "name": "Gyudon (Beef Rice Bowl)",
+    "cuisine": "japanese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 140,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Simmer beef and onion in soy sauce and mirin until tender.",
+      "Pack over rice."
+    ]
+  },
+  {
+    "name": "Tofu Poke-Style Bowl",
+    "cuisine": "japanese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Marinate tofu in soy sauce and sesame oil 10 min.",
+      "Pack over rice with cucumber."
+    ]
+  },
+  {
+    "name": "Onigiri (Rice Balls)",
+    "cuisine": "japanese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Nori sheets",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Shape warm rice into triangles, wrap with nori.",
+      "Sprinkle with sesame seeds."
+    ]
+  },
+  {
+    "name": "Tamagoyaki (Rolled Omelette)",
+    "cuisine": "japanese",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk eggs with soy sauce and honey.",
+      "Cook in thin layers in a pan, rolling as each layer sets."
+    ]
+  },
+  {
+    "name": "Edamame Hummus with Nori Chips",
+    "cuisine": "japanese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen edamame (shelled)",
+        "qty": 100,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nori sheets",
+        "qty": 1,
+        "note": "cut into chips"
+      }
+    ],
+    "steps": [
+      "Blend edamame with sesame oil and a splash of water until smooth.",
+      "Serve with nori chips."
+    ]
+  },
+  {
+    "name": "Wasabi Roasted Almonds",
+    "cuisine": "japanese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss almonds with soy sauce.",
+      "Roast at 350F for 8-10 min, stirring once."
+    ]
+  },
+  {
+    "name": "Matcha Mochi Bites",
+    "cuisine": "japanese",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Coconut flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix all ingredients into a smooth paste.",
+      "Chill 20 min, then roll into small bites."
+    ]
+  },
+  {
+    "name": "Ponzu Dipping Sauce",
+    "cuisine": "japanese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Soy sauce",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Sesame Miso Dressing",
+    "cuisine": "japanese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Miso paste",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients with 2 tbsp warm water until smooth."
+    ]
   }
 ]

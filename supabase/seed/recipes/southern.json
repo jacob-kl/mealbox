@@ -3,13 +3,31 @@
     "name": "BBQ Pulled Pork Sandwich",
     "cuisine": "southern",
     "meal_type": "dinner",
-    "tags": ["leftovers-friendly"],
+    "tags": [
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Pork shoulder (raw)", "qty": 150, "note": "" },
-      { "ingredient": "BBQ sauce", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Hamburger bun (whole wheat)", "qty": 1, "note": "" },
-      { "ingredient": "Slaw mix (bagged)", "qty": 1, "note": "cup" }
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "BBQ sauce",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Hamburger bun (whole wheat)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Slaw mix (bagged)",
+        "qty": 1,
+        "note": "cup"
+      }
     ],
     "steps": [
       "Slow-cook or braise pork until it shreds easily, about 2-3 hours (or use a pressure cooker for ~45 min).",
@@ -21,14 +39,36 @@
     "name": "Cajun Blackened Catfish",
     "cuisine": "southern",
     "meal_type": "dinner",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Catfish fillet (raw)", "qty": 170, "note": "" },
-      { "ingredient": "Smoked paprika", "qty": 1, "note": "tsp" },
-      { "ingredient": "Ground cumin", "qty": 0.5, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Collard greens", "qty": 100, "note": "chopped" }
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Collard greens",
+        "qty": 100,
+        "note": "chopped"
+      }
     ],
     "steps": [
       "Season catfish with paprika and cumin, sear 3-4 min per side.",
@@ -43,10 +83,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
-      { "ingredient": "BBQ sauce", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Cornbread mix (dry)", "qty": 0.33, "note": "cup, prepared per package" },
-      { "ingredient": "Collard greens", "qty": 100, "note": "chopped" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "BBQ sauce",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cornbread mix (dry)",
+        "qty": 0.33,
+        "note": "cup, prepared per package"
+      },
+      {
+        "ingredient": "Collard greens",
+        "qty": 100,
+        "note": "chopped"
+      }
     ],
     "steps": [
       "Bake chicken at 400F for 20 min, brush with BBQ sauce the last 5 min.",
@@ -61,10 +117,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
-      { "ingredient": "Buttermilk", "qty": 0.5, "note": "cup, for marinating" },
-      { "ingredient": "Progresso garlic herb bread crumbs", "qty": 3, "note": "tbsp" },
-      { "ingredient": "Sweet potato", "qty": 150, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Buttermilk",
+        "qty": 0.5,
+        "note": "cup, for marinating"
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": ""
+      }
     ],
     "steps": [
       "Marinate chicken in buttermilk 10+ min if time allows.",
@@ -76,14 +148,540 @@
     "name": "Pulled Pork & Slaw Jar",
     "cuisine": "southern",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Pork shoulder (raw)", "qty": 120, "note": "cooked, shredded" },
-      { "ingredient": "BBQ sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Slaw mix (bagged)", "qty": 1, "note": "cup" },
-      { "ingredient": "Basmati rice (dry)", "qty": 35, "note": "cooked and cooled" }
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 120,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "BBQ sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Slaw mix (bagged)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 35,
+        "note": "cooked and cooled"
+      }
     ],
-    "steps": ["Layer rice, pulled pork tossed in BBQ sauce, and slaw in a container."]
+    "steps": [
+      "Layer rice, pulled pork tossed in BBQ sauce, and slaw in a container."
+    ]
+  },
+  {
+    "name": "Southern Smothered Pork Chops",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 170,
+        "note": "sliced into chops"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Dredge pork in flour, sear until browned.",
+      "Add onion and broth, simmer 15-18 min until sauce thickens."
+    ]
+  },
+  {
+    "name": "Southern Baked Catfish",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Dip catfish in egg, then cornmeal.",
+      "Bake at 400F for 15-18 min until golden and flaky."
+    ]
+  },
+  {
+    "name": "Southern Turkey Meatloaf",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix turkey, breadcrumbs, egg, and half the ketchup.",
+      "Shape into a loaf, top with remaining ketchup, bake at 375F for 30-35 min."
+    ]
+  },
+  {
+    "name": "Southern Shrimp and Grits",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer cornmeal with milk and 1 cup water 10-12 min, stirring, until creamy; stir in cheese.",
+      "Saute shrimp 4-5 min until pink, serve over grits."
+    ]
+  },
+  {
+    "name": "Southern Collard Greens with Turkey",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Collard greens",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Deli turkey breast (sliced)",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Simmer collards, turkey, potato, and broth 25-30 min until greens are tender."
+    ]
+  },
+  {
+    "name": "Southern Chicken Salad Jar",
+    "cuisine": "southern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Celery",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 60,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Mix chicken, sour cream, and celery.",
+      "Layer over lettuce in a jar."
+    ]
+  },
+  {
+    "name": "Pimento Cheese & Turkey Wrap Jar",
+    "cuisine": "southern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cream cheese (reduced fat)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Deli turkey breast (sliced)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix cheddar and cream cheese.",
+      "Spread on tortilla, top with turkey, roll and slice."
+    ]
+  },
+  {
+    "name": "Southern Black-Eyed Pea Salad",
+    "cuisine": "southern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black-eyed peas",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with vinegar."
+    ]
+  },
+  {
+    "name": "Southern Egg and Cheese Grits",
+    "cuisine": "southern",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer cornmeal with 1 cup water 10-12 min, stir in cheese.",
+      "Top with a fried egg."
+    ]
+  },
+  {
+    "name": "Southern Deviled Eggs",
+    "cuisine": "southern",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "hard-boiled"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Halve eggs, mash yolks with mustard and sour cream.",
+      "Refill whites with the mixture."
+    ]
+  },
+  {
+    "name": "Roasted Okra Bites",
+    "cuisine": "southern",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": "or okra if available, trimmed"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss with oil and paprika.",
+      "Roast at 425F for 15-18 min."
+    ]
+  },
+  {
+    "name": "Southern Banana Pudding Cup",
+    "cuisine": "southern",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole grain crackers",
+        "qty": 4,
+        "note": "crushed"
+      }
+    ],
+    "steps": [
+      "Layer banana, yogurt mixed with vanilla, and crushed crackers."
+    ]
+  },
+  {
+    "name": "Peach Cobbler Bites",
+    "cuisine": "southern",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Peach",
+        "qty": 1,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Rolled oats (dry)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss peach with brown sugar in a small dish.",
+      "Top with oats and butter, bake at 375F for 20 min."
+    ]
+  },
+  {
+    "name": "Southern Comeback Sauce",
+    "cuisine": "southern",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Hot sauce",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Southern Buttermilk Baked Chicken Tenders",
+    "cuisine": "southern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cut into strips"
+      },
+      {
+        "ingredient": "Buttermilk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Soak chicken in buttermilk 15 min.",
+      "Dredge in cornmeal, bake at 400F for 18-20 min until golden."
+    ]
   }
 ]

@@ -6,11 +6,31 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground lamb", "qty": 150, "note": "" },
-      { "ingredient": "Ground cumin", "qty": 1, "note": "tsp" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Couscous (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Pomegranate seeds", "qty": 0.25, "note": "cup" }
+      {
+        "ingredient": "Ground lamb",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Couscous (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Pomegranate seeds",
+        "qty": 0.25,
+        "note": "cup"
+      }
     ],
     "steps": [
       "Mix lamb with cumin and garlic, form into small logs.",
@@ -25,13 +45,41 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "sliced" },
-      { "ingredient": "Ground cumin", "qty": 1, "note": "tsp" },
-      { "ingredient": "Sumac", "qty": 1, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "English cucumber", "qty": 60, "note": "diced" },
-      { "ingredient": "Cherry tomatoes", "qty": 60, "note": "halved" },
-      { "ingredient": "Tahini", "qty": 1, "note": "tbsp, for drizzling" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 1,
+        "note": "tbsp, for drizzling"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -43,15 +91,41 @@
     "name": "Falafel-Style Chickpea Bowl",
     "cuisine": "middle-eastern",
     "meal_type": "dinner",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Garbanzo beans", "qty": 200, "note": "drained, roughly mashed" },
-      { "ingredient": "Ground cumin", "qty": 1, "note": "tsp" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Couscous (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Tahini", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": "drained, roughly mashed"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Couscous (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Mix chickpeas with cumin and garlic, pan-fry in olive oil into rough patties, 4 min per side.",
@@ -65,11 +139,31 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
-      { "ingredient": "Za'atar", "qty": 1.5, "note": "tsp" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Couscous (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Couscous (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      }
     ],
     "steps": [
       "Toss chicken with za'atar and olive oil, bake at 400F for 20-22 min.",
@@ -80,19 +174,577 @@
     "name": "Mediterranean Lamb & Rice Jar",
     "cuisine": "middle-eastern",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground lamb", "qty": 120, "note": "cooked, cooled" },
-      { "ingredient": "Basmati rice (dry)", "qty": 40, "note": "cooked and cooled" },
-      { "ingredient": "Cherry tomatoes", "qty": 50, "note": "halved" },
-      { "ingredient": "Feta cheese (reduced fat)", "qty": 20, "note": "crumbled" },
-      { "ingredient": "Tahini", "qty": 1, "note": "tbsp, keep separate" },
-      { "ingredient": "Lemon juice", "qty": 1, "note": "tbsp, keep separate" }
+      {
+        "ingredient": "Ground lamb",
+        "qty": 120,
+        "note": "cooked, cooled"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 20,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      }
     ],
     "steps": [
       "Layer rice, lamb, tomatoes, and feta in a jar with dressing at the bottom.",
       "Shake before eating."
+    ]
+  },
+  {
+    "name": "Chicken Shawarma Bowl",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Season and sear chicken until cooked through.",
+      "Serve over rice with cucumber."
+    ]
+  },
+  {
+    "name": "Lamb Kofta",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Mix lamb, cumin, parsley, and onion.",
+      "Shape into ovals and grill or broil 10-12 min."
+    ]
+  },
+  {
+    "name": "Baked Kibbeh-Style Beef",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Bulgur (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Allspice",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Soak bulgur in hot water 10 min, drain.",
+      "Mix with beef, onion, and allspice.",
+      "Shape into patties, bake at 375F for 20 min."
+    ]
+  },
+  {
+    "name": "Sumac Chicken with Rice",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Season chicken with sumac, sear with onion until cooked through.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Stuffed Eggplant (Middle Eastern)",
+    "cuisine": "middle-eastern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 1,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Scoop eggplant flesh, mix with chickpeas, tomatoes, and cumin.",
+      "Stuff back into shells, bake at 375F for 25-30 min."
+    ]
+  },
+  {
+    "name": "Falafel Jar",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "mashed and pan-crisped"
+      },
+      {
+        "ingredient": "Hummus",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "halved"
+      }
+    ],
+    "steps": [
+      "Pan-crisp mashed chickpeas 5-6 min.",
+      "Layer with hummus, cucumber, and tomatoes in a jar."
+    ]
+  },
+  {
+    "name": "Shawarma Chicken Salad Jar",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 60,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Toss chicken with spices.",
+      "Layer over lettuce and cucumber in a jar."
+    ]
+  },
+  {
+    "name": "Tabbouleh with Chickpeas",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bulgur (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with lemon juice."
+    ]
+  },
+  {
+    "name": "Shakshuka",
+    "cuisine": "middle-eastern",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes, pepper, and cumin 8 min.",
+      "Crack eggs into the sauce, cover and cook 5-6 min until set."
+    ]
+  },
+  {
+    "name": "Za'atar Flatbread Snack",
+    "cuisine": "middle-eastern",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Brush pita with oil, sprinkle with za'atar.",
+      "Toast 3-4 min until warm and fragrant."
+    ]
+  },
+  {
+    "name": "Hummus and Veggie Snack Cup",
+    "cuisine": "middle-eastern",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Hummus",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sticks"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "sticks"
+      }
+    ],
+    "steps": [
+      "Serve hummus with carrot and cucumber sticks."
+    ]
+  },
+  {
+    "name": "Za'atar Roasted Chickpeas",
+    "cuisine": "middle-eastern",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "drained, patted dry"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with za'atar and oil.",
+      "Roast at 400F for 20-25 min until crisp."
+    ]
+  },
+  {
+    "name": "Date and Walnut Bites",
+    "cuisine": "middle-eastern",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Grapes",
+        "qty": 100,
+        "note": "or dates if available"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Chop and mix all ingredients, press into small bites."
+    ]
+  },
+  {
+    "name": "Rosewater Yogurt with Pistachios",
+    "cuisine": "middle-eastern",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Pistachios",
+        "qty": 0.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Top yogurt with pistachios and honey."
+    ]
+  },
+  {
+    "name": "Toum (Garlic Sauce)",
+    "cuisine": "middle-eastern",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Garlic",
+        "qty": 2,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Blend garlic and lemon juice, slowly stream in oil while blending until thick."
+    ]
+  },
+  {
+    "name": "Tahini Lemon Sauce",
+    "cuisine": "middle-eastern",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Tahini",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients with 2-3 tbsp water until smooth."
     ]
   }
 ]

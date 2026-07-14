@@ -241,5 +241,538 @@
       "Stir-fry chicken until cooked through, 5-6 min.",
       "Whisk peanut butter, soy sauce, and lime juice; toss with noodles, chicken, and carrot."
     ]
+  },
+  {
+    "name": "Thai Basil Chicken (Pad Krapow)",
+    "cuisine": "thai",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Brown chicken, stir in fish sauce and sriracha.",
+      "Fold in basil off heat, serve over rice."
+    ]
+  },
+  {
+    "name": "Thai Shrimp Curry",
+    "cuisine": "thai",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Thai curry paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer curry paste with coconut milk 2 min.",
+      "Add shrimp and bell pepper, simmer 6-8 min.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Thai Beef Salad (Larb-style)",
+    "cuisine": "thai",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh mint",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 80,
+        "note": "leaves"
+      }
+    ],
+    "steps": [
+      "Brown beef, drain excess fat.",
+      "Toss with lime juice, fish sauce, and mint.",
+      "Serve in lettuce leaves."
+    ]
+  },
+  {
+    "name": "Thai Peanut Chicken Skewers",
+    "cuisine": "thai",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Coconut aminos",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk peanut butter, coconut aminos, and lime juice.",
+      "Skewer chicken, grill 10-12 min, brushing with sauce."
+    ]
+  },
+  {
+    "name": "Thai Chicken Larb Jar",
+    "cuisine": "thai",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 140,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Toss chicken with lime juice and fish sauce.",
+      "Layer over rice with cucumber in a jar."
+    ]
+  },
+  {
+    "name": "Thai Peanut Noodle Salad",
+    "cuisine": "thai",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly",
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 85,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "julienned"
+      }
+    ],
+    "steps": [
+      "Whisk peanut butter and lime juice with 2 tbsp warm water.",
+      "Toss with noodles, carrot, and cucumber."
+    ]
+  },
+  {
+    "name": "Thai Shrimp Salad Jar",
+    "cuisine": "thai",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 140,
+        "note": "cooked, peeled"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh mint",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Toss shrimp with lime juice and mint.",
+      "Layer over rice with cucumber."
+    ]
+  },
+  {
+    "name": "Thai Coconut Rice Porridge",
+    "cuisine": "thai",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer rice with coconut milk and 1 cup water 30-35 min until creamy.",
+      "Drizzle with honey."
+    ]
+  },
+  {
+    "name": "Thai Cucumber Salad Snack",
+    "cuisine": "thai",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss cucumber with lime juice and honey."
+    ]
+  },
+  {
+    "name": "Thai Roasted Cashews",
+    "cuisine": "thai",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cashews",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss cashews with sriracha.",
+      "Roast at 350F for 6-8 min."
+    ]
+  },
+  {
+    "name": "Thai Mango Sticky Rice",
+    "cuisine": "thai",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Frozen mango chunks",
+        "qty": 150,
+        "note": "thawed"
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions, stir in half the coconut milk.",
+      "Top with mango and remaining coconut milk."
+    ]
+  },
+  {
+    "name": "Thai Iced Tea Chia Pudding",
+    "cuisine": "thai",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chia seeds",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk chia seeds into coconut milk and honey.",
+      "Chill at least 3 hours until set."
+    ]
+  },
+  {
+    "name": "Thai Peanut Dipping Sauce",
+    "cuisine": "thai",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Coconut aminos",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients with 2-3 tbsp warm water until smooth."
+    ]
+  },
+  {
+    "name": "Nam Prik (Thai Chili Dip)",
+    "cuisine": "thai",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Fish sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Thai Turkey Basil Lettuce Cups",
+    "cuisine": "thai",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 140,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 80,
+        "note": "leaves"
+      }
+    ],
+    "steps": [
+      "Toss turkey with basil and fish sauce.",
+      "Serve in lettuce leaves."
+    ]
   }
 ]

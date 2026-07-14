@@ -3,16 +3,47 @@
     "name": "Shrimp Summer Rolls",
     "cuisine": "vietnamese",
     "meal_type": "dinner",
-    "tags": ["shellfish", "no-cook"],
+    "tags": [
+      "shellfish",
+      "no-cook"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 150, "note": "cooked, halved lengthwise" },
-      { "ingredient": "Rice paper wrappers", "qty": 4, "note": "sheets" },
-      { "ingredient": "Vermicelli rice noodles (dry)", "qty": 40, "note": "cooked" },
-      { "ingredient": "Carrot", "qty": 50, "note": "julienned" },
-      { "ingredient": "Fresh mint", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Peanut butter", "qty": 1, "note": "tbsp, for dipping sauce" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, for dipping sauce" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "cooked, halved lengthwise"
+      },
+      {
+        "ingredient": "Rice paper wrappers",
+        "qty": 4,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Vermicelli rice noodles (dry)",
+        "qty": 40,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Fresh mint",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1,
+        "note": "tbsp, for dipping sauce"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp, for dipping sauce"
+      }
     ],
     "steps": [
       "Soften rice paper in warm water briefly.",
@@ -27,12 +58,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Flank/sirloin steak", "qty": 130, "note": "thinly sliced" },
-      { "ingredient": "Rice noodles (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Bean sprouts", "qty": 60, "note": "" },
-      { "ingredient": "Fresh basil", "qty": 0.25, "note": "cup" },
-      { "ingredient": "Fish sauce", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" }
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 130,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
     ],
     "steps": [
       "Simmer broth (water, fish sauce, ginger) for 10 min.",
@@ -48,12 +103,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Pork tenderloin", "qty": 150, "note": "sliced thin" },
-      { "ingredient": "Fish sauce", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Brown sugar", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "Vermicelli rice noodles (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Carrot", "qty": 50, "note": "shredded" }
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 150,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vermicelli rice noodles (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      }
     ],
     "steps": [
       "Marinate pork in fish sauce, brown sugar, and garlic 10 min if time allows.",
@@ -65,20 +144,593 @@
     "name": "Tofu Banh Mi Bowl",
     "cuisine": "vietnamese",
     "meal_type": "lunch",
-    "tags": ["vegetarian", "cold-friendly"],
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Tofu (firm)", "qty": 150, "note": "cubed, pan-seared" },
-      { "ingredient": "Carrot", "qty": 60, "note": "shredded" },
-      { "ingredient": "English cucumber", "qty": 60, "note": "sliced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
-      { "ingredient": "Sriracha", "qty": 1, "note": "tsp, keep separate" }
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 150,
+        "note": "cubed, pan-seared"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp, keep separate"
+      }
     ],
     "steps": [
       "Cook rice, cool slightly.",
       "Layer rice, tofu, carrot, and cucumber in a container.",
       "Drizzle with soy sauce and sriracha before eating."
+    ]
+  },
+  {
+    "name": "Beef Pho",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 140,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer broth, add noodles and cook until tender.",
+      "Ladle over raw sliced beef so residual heat cooks it.",
+      "Top with bean sprouts and basil."
+    ]
+  },
+  {
+    "name": "Vietnamese Grilled Pork Chops",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Marinate pork in fish sauce, honey, and garlic 15 min.",
+      "Grill or broil 6-7 min per side."
+    ]
+  },
+  {
+    "name": "Vietnamese Caramel Chicken",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": "cut into pieces"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer sugar until it melts and darkens slightly.",
+      "Add chicken, fish sauce, and ginger; simmer 15 min until glazed.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Vietnamese Shrimp Spring Rolls",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "cooked, halved lengthwise"
+      },
+      {
+        "ingredient": "Rice paper wrappers",
+        "qty": 4,
+        "note": ""
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 40,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Fresh mint",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      }
+    ],
+    "steps": [
+      "Soften rice paper in warm water.",
+      "Layer noodles, shrimp, carrot, and mint, roll tightly."
+    ]
+  },
+  {
+    "name": "Banh Mi Jar",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned, quick-pickled"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "roll, if available \u2014 or Whole grain bread"
+      }
+    ],
+    "steps": [
+      "Layer pork, pickled carrot, cucumber, and cilantro in a jar or on bread."
+    ]
+  },
+  {
+    "name": "Vietnamese Chicken Noodle Salad",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 75,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk lime juice and fish sauce.",
+      "Toss with noodles, chicken, and carrot."
+    ]
+  },
+  {
+    "name": "Vietnamese Tofu & Rice Jar",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 150,
+        "note": "cubed, cooked"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Toss tofu with soy sauce.",
+      "Layer over rice with cucumber."
+    ]
+  },
+  {
+    "name": "Vietnamese Egg and Herb Omelette",
+    "cuisine": "vietnamese",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 1,
+        "note": "tbsp, sliced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk eggs with scallions and fish sauce.",
+      "Cook in a lightly oiled pan 2-3 min per side."
+    ]
+  },
+  {
+    "name": "Vietnamese Herb Cucumber Snack",
+    "cuisine": "vietnamese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Fresh mint",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss cucumber with mint and lime juice."
+    ]
+  },
+  {
+    "name": "Vietnamese Roasted Peanuts",
+    "cuisine": "vietnamese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1,
+        "note": "tbsp, for dipping"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "sliced, for dipping"
+      }
+    ],
+    "steps": [
+      "Serve cucumber slices with peanut butter for dipping."
+    ]
+  },
+  {
+    "name": "Vietnamese Coconut Rice Pudding",
+    "cuisine": "vietnamese",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer rice with coconut milk and sugar 25-30 min until creamy."
+    ]
+  },
+  {
+    "name": "Vietnamese Iced Coffee Yogurt",
+    "cuisine": "vietnamese",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Swirl condensed milk into yogurt."
+    ]
+  },
+  {
+    "name": "Nuoc Cham Dipping Sauce",
+    "cuisine": "vietnamese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Fish sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients with 2 tbsp water until honey dissolves."
+    ]
+  },
+  {
+    "name": "Vietnamese Lime Chili Sauce",
+    "cuisine": "vietnamese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Lime juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Vietnamese Grilled Chicken",
+    "cuisine": "vietnamese",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in fish sauce, honey, and garlic 15 min.",
+      "Grill or broil 10-12 min per side."
+    ]
+  },
+  {
+    "name": "Vietnamese Shrimp and Rice Jar",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 140,
+        "note": "cooked, peeled"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss shrimp with fish sauce.",
+      "Layer over rice with carrot."
     ]
   }
 ]

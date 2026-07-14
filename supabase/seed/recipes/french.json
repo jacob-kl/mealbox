@@ -205,5 +205,535 @@
       "Layer dressing, beans, tomato, and chicken in a jar.",
       "Shake before eating."
     ]
+  },
+  {
+    "name": "Coq au Vin (Simplified)",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Sear chicken until browned.",
+      "Add onion, carrot, and wine, simmer covered 25-30 min until tender."
+    ]
+  },
+  {
+    "name": "French Onion Baked Chicken",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Caramelize onion 12-15 min.",
+      "Top chicken with onion and cheese, bake at 375F for 20-22 min with broth in the pan."
+    ]
+  },
+  {
+    "name": "Salmon en Papillote",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Wrap salmon and zucchini with lemon juice and dill in parchment.",
+      "Bake at 400F for 15-18 min."
+    ]
+  },
+  {
+    "name": "French Beef Bourguignon (Simplified)",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Sear beef until browned.",
+      "Add carrot, potato, and wine, simmer covered 30-35 min until tender."
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Saute eggplant, zucchini, and pepper in oil 8-10 min.",
+      "Add tomatoes, simmer 15 min until soft."
+    ]
+  },
+  {
+    "name": "Nicoise Salad Jar",
+    "cuisine": "french",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": "blanched"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 6,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Layer tuna, green beans, egg, and olives in a jar."
+    ]
+  },
+  {
+    "name": "French Ham and Cheese Wrap Jar",
+    "cuisine": "french",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Deli turkey breast (sliced)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Swiss cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Spread mustard on tortilla, layer turkey and cheese, roll and slice."
+    ]
+  },
+  {
+    "name": "French Lentil Salad",
+    "cuisine": "french",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss lentils and carrot with vinegar and oil."
+    ]
+  },
+  {
+    "name": "French Toast (Protein-Boosted)",
+    "cuisine": "french",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk egg, milk, and cinnamon.",
+      "Dip bread and cook in a pan 2-3 min per side."
+    ]
+  },
+  {
+    "name": "French Herb Omelette",
+    "cuisine": "french",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk eggs, cook in a pan, fold in cheese and parsley as it sets."
+    ]
+  },
+  {
+    "name": "Endive with Goat Cheese Snack",
+    "cuisine": "french",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 60,
+        "note": "leaves, or endive if available"
+      },
+      {
+        "ingredient": "Goat cheese",
+        "qty": 1,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Top leaves with goat cheese."
+    ]
+  },
+  {
+    "name": "French Radish Butter Snack",
+    "cuisine": "french",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Radishes",
+        "qty": 100,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Serve radishes with a small dollop of butter."
+    ]
+  },
+  {
+    "name": "Creme Caramel",
+    "cuisine": "french",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Melt 2 tbsp sugar until amber, pour into ramekins.",
+      "Whisk eggs, milk, remaining sugar, and vanilla; pour over caramel.",
+      "Bake in a water bath at 325F for 35-40 min, chill before serving."
+    ]
+  },
+  {
+    "name": "Chocolate Mousse (Light)",
+    "cuisine": "french",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Unsweetened cocoa powder",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients until smooth.",
+      "Chill 30 min before serving."
+    ]
+  },
+  {
+    "name": "Poached Pears",
+    "cuisine": "french",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pear",
+        "qty": 1,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer pear in water with honey and cinnamon 12-15 min until tender."
+    ]
+  },
+  {
+    "name": "Classic Vinaigrette",
+    "cuisine": "french",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 4,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk mustard and vinegar, slowly whisk in oil until emulsified."
+    ]
   }
 ]

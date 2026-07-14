@@ -256,5 +256,483 @@
       "Brown turkey, add pasta sauce, combine with pasta.",
       "Top with mozzarella, bake at 375F for 10 min until melted."
     ]
+  },
+  {
+    "name": "Chicken Cacciatore",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Sear chicken until browned.",
+      "Add pepper, onion, and tomatoes, simmer covered 25 min until cooked through."
+    ]
+  },
+  {
+    "name": "Shrimp Scampi",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 2,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook pasta per package directions.",
+      "Saute garlic in oil, add shrimp, cook 4-5 min.",
+      "Toss with pasta and lemon juice."
+    ]
+  },
+  {
+    "name": "Turkey Bolognese",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Signature Select pasta sauce",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole wheat spaghetti (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook pasta per package directions.",
+      "Brown turkey, add sauce, simmer 10 min.",
+      "Serve over pasta with parmesan."
+    ]
+  },
+  {
+    "name": "Baked Ziti",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Elbow macaroni (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Ricotta cheese (part-skim)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Signature Select pasta sauce",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 1,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Cook pasta per package directions.",
+      "Toss with ricotta and sauce, top with mozzarella.",
+      "Bake at 375F for 15-18 min."
+    ]
+  },
+  {
+    "name": "Italian Sausage and Peppers",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chorizo (fully cooked)",
+        "qty": 100,
+        "note": "sliced, or Italian sausage if available"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "slice, or roll if available"
+      }
+    ],
+    "steps": [
+      "Saute sausage, pepper, and onion together 10-12 min.",
+      "Serve on bread."
+    ]
+  },
+  {
+    "name": "Caprese Chicken Jar",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Layer chicken, tomatoes, mozzarella, and basil in a jar."
+    ]
+  },
+  {
+    "name": "Italian Tuna Pasta Salad",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Elbow macaroni (dry)",
+        "qty": 60,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Italian dressing",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with dressing."
+    ]
+  },
+  {
+    "name": "Italian White Bean Salad",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with oil."
+    ]
+  },
+  {
+    "name": "Italian Baked Frittata Cups",
+    "cuisine": "italian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk eggs with pepper and parmesan.",
+      "Bake in a greased muffin cup at 375F for 15-18 min."
+    ]
+  },
+  {
+    "name": "Roasted Garlic White Bean Dip",
+    "cuisine": "italian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend beans, garlic, and oil with a splash of water until smooth."
+    ]
+  },
+  {
+    "name": "Parmesan Roasted Chickpeas",
+    "cuisine": "italian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "drained, patted dry"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with oil and parmesan.",
+      "Roast at 400F for 20-25 min until crisp."
+    ]
+  },
+  {
+    "name": "Tiramisu Yogurt Cup",
+    "cuisine": "italian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Unsweetened cocoa powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Swirl cocoa and honey into yogurt."
+    ]
+  },
+  {
+    "name": "Panna Cotta (Light)",
+    "cuisine": "italian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Warm milk with honey and vanilla.",
+      "Chill in small cups at least 3 hours (add 1 tsp gelatin if you have it, for a firmer set)."
+    ]
+  },
+  {
+    "name": "Marinara Sauce (Homemade)",
+    "cuisine": "italian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 400,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Saute garlic in oil, add tomatoes, simmer 15-20 min.",
+      "Stir in basil at the end."
+    ]
   }
 ]

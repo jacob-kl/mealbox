@@ -5620,5 +5620,35 @@
       "dairy-free",
       "vegan"
     ]
+  },
+  {
+    "name": "Corn kernels (frozen)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 89,
+    "protein": 3.3,
+    "carbs": 19,
+    "fat": 1.2,
+    "fiber": 2.4,
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Cotija cheese",
+    "serving_qty": 1,
+    "serving_unit": "oz",
+    "serving_label": "per 1oz (28g)",
+    "cal": 100,
+    "protein": 6,
+    "carbs": 1,
+    "fat": 8,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   }
 ]

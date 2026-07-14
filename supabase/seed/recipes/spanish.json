@@ -6,12 +6,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 130, "note": "diced" },
-      { "ingredient": "Chorizo (fully cooked)", "qty": 2, "note": "oz, sliced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
-      { "ingredient": "Saffron threads", "qty": 1, "note": "pinch" },
-      { "ingredient": "Smoked paprika", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 130,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Chorizo (fully cooked)",
+        "qty": 2,
+        "note": "oz, sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Cook rice with saffron and paprika per package directions.",
@@ -23,14 +47,36 @@
     "name": "Garlic Shrimp (Gambas al Ajillo)",
     "cuisine": "spanish",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
-      { "ingredient": "Garlic clove", "qty": 3, "note": "sliced" },
-      { "ingredient": "Olive oil", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Smoked paprika", "qty": 1, "note": "tsp" },
-      { "ingredient": "Whole grain bread", "qty": 2, "note": "slices" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 3,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      }
     ],
     "steps": [
       "Saute garlic in olive oil until fragrant, 1 min.",
@@ -45,11 +91,31 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
-      { "ingredient": "Manchego cheese", "qty": 1, "note": "oz" },
-      { "ingredient": "Green olives", "qty": 10, "note": "" },
-      { "ingredient": "Cherry tomatoes", "qty": 70, "note": "halved" },
-      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Manchego cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -61,17 +127,566 @@
     "name": "Spanish Tortilla (Potato & Egg)",
     "cuisine": "spanish",
     "meal_type": "breakfast",
-    "tags": ["vegetarian", "breakfast-for-dinner"],
+    "tags": [
+      "vegetarian",
+      "breakfast-for-dinner"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Eggs (large)", "qty": 3, "note": "" },
-      { "ingredient": "Sweet potato", "qty": 120, "note": "thinly sliced" },
-      { "ingredient": "Yellow onion", "qty": 40, "note": "sliced" },
-      { "ingredient": "Olive oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 120,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Saute potato and onion in olive oil until soft, 10-12 min.",
       "Pour whisked eggs over, cook covered on low 8-10 min until set."
+    ]
+  },
+  {
+    "name": "Chicken Paella (Simplified)",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 0.1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Sear chicken, remove.",
+      "Toast rice with pepper and saffron, add broth and chicken back in, simmer covered 18-20 min."
+    ]
+  },
+  {
+    "name": "Spanish Garlic Shrimp",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Saute garlic in oil 1 min.",
+      "Add shrimp and paprika, cook 4-5 min until pink."
+    ]
+  },
+  {
+    "name": "Spanish Beef and Potato Stew",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Sear beef until browned.",
+      "Add potato, tomatoes, and paprika, simmer covered 30-35 min until tender."
+    ]
+  },
+  {
+    "name": "Spanish Baked Cod with Chorizo",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Chorizo (fully cooked)",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Saute chorizo 2 min, add tomatoes, simmer 5 min.",
+      "Nestle cod into the sauce, bake at 400F for 12-15 min."
+    ]
+  },
+  {
+    "name": "Spanish Chickpea and Spinach Stew",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer chickpeas, tomatoes, and cumin 10 min.",
+      "Stir in spinach until wilted."
+    ]
+  },
+  {
+    "name": "Spanish Tuna and White Bean Jar",
+    "cuisine": "spanish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Canned tuna (in water)",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with oil."
+    ]
+  },
+  {
+    "name": "Spanish Chicken and Rice Jar",
+    "cuisine": "spanish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chicken with paprika.",
+      "Layer over rice with bell pepper."
+    ]
+  },
+  {
+    "name": "Spanish Egg and Potato Tortilla Wedge",
+    "cuisine": "spanish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "thin sliced, cooked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Saute potato and onion until soft.",
+      "Pour whisked eggs over, cook covered 6-8 min until set."
+    ]
+  },
+  {
+    "name": "Spanish Baked Eggs (Huevos a la Flamenca)",
+    "cuisine": "spanish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes and pepper 5 min in a small skillet.",
+      "Crack eggs into the sauce, cover and cook 5-6 min until set."
+    ]
+  },
+  {
+    "name": "Marcona Almond Snack",
+    "cuisine": "spanish",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss almonds with paprika."
+    ]
+  },
+  {
+    "name": "Spanish Olives and Manchego Snack",
+    "cuisine": "spanish",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Manchego cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 8,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Serve cheese and olives together."
+    ]
+  },
+  {
+    "name": "Spanish Flan",
+    "cuisine": "spanish",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 6,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Evaporated milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 4,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Melt sugar until amber, pour into ramekins.",
+      "Whisk eggs and milks, pour over caramel.",
+      "Bake in a water bath at 350F for 45 min, chill before serving."
+    ]
+  },
+  {
+    "name": "Membrillo-Style Baked Pear",
+    "cuisine": "spanish",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pear",
+        "qty": 1,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Manchego cheese",
+        "qty": 0.5,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Bake pear at 375F for 20 min.",
+      "Drizzle with honey and top with shaved manchego."
+    ]
+  },
+  {
+    "name": "Romesco Sauce",
+    "cuisine": "spanish",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Red bell pepper",
+        "qty": 100,
+        "note": "roasted"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend all ingredients until mostly smooth."
+    ]
+  },
+  {
+    "name": "Spanish Alioli",
+    "cuisine": "spanish",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Spanish Lentil Soup",
+    "cuisine": "spanish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Simmer lentils, tomatoes, paprika, and onion with 1.5 cups water 25-30 min until tender."
     ]
   }
 ]

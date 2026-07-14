@@ -6,13 +6,41 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "diced" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "diced" },
-      { "ingredient": "Almonds", "qty": 15, "note": "g, roughly chopped" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Sriracha", "qty": 1, "note": "tsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 15,
+        "note": "g, roughly chopped"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -28,12 +56,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Flank/sirloin steak", "qty": 150, "note": "thinly sliced" },
-      { "ingredient": "Broccoli florets", "qty": 130, "note": "" },
-      { "ingredient": "Oyster sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Cornstarch", "qty": 1, "note": "tsp" },
-      { "ingredient": "Brown rice (dry)", "qty": 55, "note": "" }
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Oyster sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -46,15 +98,41 @@
     "name": "Shrimp Lo Mein",
     "cuisine": "chinese",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 150, "note": "raw, peeled" },
-      { "ingredient": "Rice noodles (dry)", "qty": 65, "note": "" },
-      { "ingredient": "Bok choy", "qty": 100, "note": "chopped" },
-      { "ingredient": "Carrot", "qty": 50, "note": "julienned" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Bok choy",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Cook noodles per package directions.",
@@ -67,15 +145,41 @@
     "name": "Mapo Tofu",
     "cuisine": "chinese",
     "meal_type": "dinner",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Tofu (firm)", "qty": 200, "note": "cubed" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Sriracha", "qty": 1, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -87,15 +191,41 @@
     "name": "Chicken Fried Rice",
     "cuisine": "chinese",
     "meal_type": "dinner",
-    "tags": ["leftovers-friendly"],
+    "tags": [
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 150, "note": "diced, cooked" },
-      { "ingredient": "Brown rice (dry)", "qty": 60, "note": "cooked and cooled" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
-      { "ingredient": "Frozen peas", "qty": 60, "note": "" },
-      { "ingredient": "Carrot", "qty": 50, "note": "diced" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "diced, cooked"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Frozen peas",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Scramble egg in a hot wok, set aside.",
@@ -110,12 +240,36 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "cubed" },
-      { "ingredient": "Cornstarch", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Honey", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Soy sauce", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -128,19 +282,550 @@
     "name": "Chinese Chicken & Cucumber Jar",
     "cuisine": "chinese",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, shredded" },
-      { "ingredient": "English cucumber", "qty": 80, "note": "sliced" },
-      { "ingredient": "Brown rice (dry)", "qty": 40, "note": "cooked and cooled" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp, keep separate" },
-      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp, keep separate" },
-      { "ingredient": "Sesame seeds", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp, keep separate"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp, keep separate"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Layer dressing at the bottom of a jar, then rice, cucumber, and chicken.",
       "Top with sesame seeds. Shake before eating."
+    ]
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cashews",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Stir-fry chicken and bell pepper until cooked through.",
+      "Toss with soy sauce, sriracha, and cashews; serve over rice."
+    ]
+  },
+  {
+    "name": "Mapo Tofu",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 1,
+        "note": "tbsp, sliced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Brown beef, add soy sauce and gochujang.",
+      "Gently fold in tofu, simmer 5 min, top with scallions, serve over rice."
+    ]
+  },
+  {
+    "name": "Chinese Broccoli Beef",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Oyster sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Sear beef, remove.",
+      "Stir-fry broccoli and garlic, return beef, add oyster sauce, toss and serve over rice."
+    ]
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "cuisine": "chinese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Fresh pineapple",
+        "qty": 80,
+        "note": "chunks"
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Sear pork until cooked through.",
+      "Add pepper and pineapple, stir in ketchup and vinegar, simmer 5 min, serve over rice."
+    ]
+  },
+  {
+    "name": "Chicken and Egg Fried Rice",
+    "cuisine": "chinese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 120,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Frozen peas",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Scramble egg, set aside.",
+      "Stir-fry cooled rice and peas, add chicken and egg back in, toss with soy sauce."
+    ]
+  },
+  {
+    "name": "Shrimp and Vegetable Chow Mein",
+    "cuisine": "chinese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 140,
+        "note": "cooked, peeled"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 75,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss cooked noodles with shrimp, bean sprouts, and carrot.",
+      "Add soy sauce and toss to combine."
+    ]
+  },
+  {
+    "name": "Vegetable Dumpling Bowl",
+    "cuisine": "chinese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 120,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 80,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Pan-fry tofu, cabbage, and carrot 6-8 min until softened.",
+      "Toss with soy sauce and sesame oil."
+    ]
+  },
+  {
+    "name": "Chinese Scallion Pancake with Egg",
+    "cuisine": "chinese",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 2,
+        "note": "tbsp, sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix flour with water to a thin batter, stir in scallions.",
+      "Cook in a lightly oiled pan 2-3 min per side.",
+      "Top with a fried egg."
+    ]
+  },
+  {
+    "name": "Sesame Broccoli Snack Cup",
+    "cuisine": "chinese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 100,
+        "note": "steamed"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss steamed broccoli with sesame oil and sesame seeds."
+    ]
+  },
+  {
+    "name": "Five Spice Roasted Chickpeas",
+    "cuisine": "chinese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "drained, patted dry"
+      },
+      {
+        "ingredient": "Five spice powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with five spice and sesame oil.",
+      "Roast at 400F for 20-25 min until crisp."
+    ]
+  },
+  {
+    "name": "Almond Cookies",
+    "cuisine": "chinese",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 6,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 4,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cream butter and sugar, mix in egg.",
+      "Fold in flour and almonds, form into small cookies.",
+      "Bake at 350F for 12-14 min."
+    ]
+  },
+  {
+    "name": "Chili Garlic Sauce",
+    "cuisine": "chinese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Sriracha",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Hoisin Glaze",
+    "cuisine": "chinese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Hoisin sauce",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
     ]
   }
 ]

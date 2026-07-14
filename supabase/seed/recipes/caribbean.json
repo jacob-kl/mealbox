@@ -6,11 +6,31 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "" },
-      { "ingredient": "Jerk seasoning", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" },
-      { "ingredient": "Plantain", "qty": 100, "note": "sliced" },
-      { "ingredient": "Black beans", "qty": 100, "note": "drained" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Plantain",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": "drained"
+      }
     ],
     "steps": [
       "Coat chicken in jerk seasoning, bake at 400F for 20-22 min.",
@@ -22,14 +42,36 @@
     "name": "Coconut Shrimp Curry",
     "cuisine": "caribbean",
     "meal_type": "dinner",
-    "tags": ["shellfish"],
+    "tags": [
+      "shellfish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Frozen shrimp", "qty": 170, "note": "raw, peeled" },
-      { "ingredient": "Light coconut milk (canned)", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Allspice", "qty": 1, "note": "tsp" },
-      { "ingredient": "Bell pepper", "qty": 60, "note": "sliced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "raw, peeled"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Allspice",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -42,13 +84,31 @@
     "name": "Jerk Pork with Black Beans",
     "cuisine": "caribbean",
     "meal_type": "dinner",
-    "tags": ["leftovers-friendly"],
+    "tags": [
+      "leftovers-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Pork tenderloin", "qty": 150, "note": "" },
-      { "ingredient": "Jerk seasoning", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Black beans", "qty": 130, "note": "drained" },
-      { "ingredient": "Basmati rice (dry)", "qty": 45, "note": "" }
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 130,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
     ],
     "steps": [
       "Coat pork with jerk seasoning, bake at 400F for 18-20 min.",
@@ -59,14 +119,554 @@
     "name": "Caribbean Chicken & Plantain Jar",
     "cuisine": "caribbean",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, diced" },
-      { "ingredient": "Black beans", "qty": 100, "note": "drained" },
-      { "ingredient": "Plantain", "qty": 70, "note": "cooked, sliced" },
-      { "ingredient": "Basmati rice (dry)", "qty": 35, "note": "cooked and cooled" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Plantain",
+        "qty": 70,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 35,
+        "note": "cooked and cooled"
+      }
     ],
-    "steps": ["Layer rice, beans, chicken, and plantain in a container."]
+    "steps": [
+      "Layer rice, beans, chicken, and plantain in a container."
+    ]
+  },
+  {
+    "name": "Jerk Chicken Thighs",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Rub chicken with jerk seasoning and lime juice.",
+      "Bake at 400F for 30-35 min or grill until cooked through."
+    ]
+  },
+  {
+    "name": "Caribbean Coconut Rice and Peas",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer rice, beans, and coconut milk with 3/4 cup water 18-20 min until tender."
+    ]
+  },
+  {
+    "name": "Curry Goat-Style Stew (Bison)",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bison (raw)",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 100,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Brown bison with curry powder and onion.",
+      "Add sweet potato and 1 cup water, simmer 30-35 min until tender."
+    ]
+  },
+  {
+    "name": "Caribbean Grilled Snapper (Cod)",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Rub cod with lime juice and jerk seasoning.",
+      "Bake at 400F for 12-15 min."
+    ]
+  },
+  {
+    "name": "Ackee-Style Tofu Scramble",
+    "cuisine": "caribbean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 170,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Saute onion and pepper 4 min.",
+      "Add tofu and smoked paprika, cook 5-6 min more."
+    ]
+  },
+  {
+    "name": "Jerk Chicken & Rice Jar",
+    "cuisine": "caribbean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss chicken with jerk seasoning.",
+      "Layer over rice and beans in a jar."
+    ]
+  },
+  {
+    "name": "Caribbean Black Bean Salad",
+    "cuisine": "caribbean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh pineapple",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with lime juice."
+    ]
+  },
+  {
+    "name": "Coconut Shrimp Jar",
+    "cuisine": "caribbean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 140,
+        "note": "cooked, peeled"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 2,
+        "note": "tbsp, for dressing"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Layer shrimp, rice, and cucumber in a jar with coconut milk dressing on the side."
+    ]
+  },
+  {
+    "name": "Caribbean Cornmeal Porridge",
+    "cuisine": "caribbean",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk cornmeal into milk, simmer 8-10 min, stirring, until thick.",
+      "Stir in cinnamon and honey."
+    ]
+  },
+  {
+    "name": "Plantain Chips",
+    "cuisine": "caribbean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Plantain",
+        "qty": 1,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss plantain slices with oil.",
+      "Bake at 400F for 15-18 min, flipping once, until crisp."
+    ]
+  },
+  {
+    "name": "Spiced Roasted Chickpeas (Jerk)",
+    "cuisine": "caribbean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "drained, patted dry"
+      },
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with jerk seasoning.",
+      "Roast at 400F for 20-25 min until crisp."
+    ]
+  },
+  {
+    "name": "Caribbean Fried Sweet Plantains",
+    "cuisine": "caribbean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Plantain",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Pan-fry plantain slices in oil 2-3 min per side until golden."
+    ]
+  },
+  {
+    "name": "Rum-Free Caribbean Banana Bread Bites",
+    "cuisine": "caribbean",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix all ingredients into a batter.",
+      "Bake in a small pan at 350F for 20-25 min."
+    ]
+  },
+  {
+    "name": "Coconut Lime Fruit Salad",
+    "cuisine": "caribbean",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Fresh pineapple",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Kiwi",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss fruit with lime juice."
+    ]
+  },
+  {
+    "name": "Caribbean Green Seasoning",
+    "cuisine": "caribbean",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend all ingredients until smooth."
+    ]
+  },
+  {
+    "name": "Jerk Marinade Sauce",
+    "cuisine": "caribbean",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Jerk seasoning",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
   }
 ]

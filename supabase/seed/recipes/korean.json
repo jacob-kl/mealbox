@@ -6,13 +6,41 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground beef 90/10", "qty": 150, "note": "" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Brown sugar", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Fresh ginger", "qty": 1, "note": "tsp, minced" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Scallions", "qty": 2, "note": "tbsp, sliced" }
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 2,
+        "note": "tbsp, sliced"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -28,13 +56,41 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 170, "note": "thinly sliced" },
-      { "ingredient": "Soy sauce", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Mirin", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "Sesame oil", "qty": 1, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" },
-      { "ingredient": "Kimchi", "qty": 0.5, "note": "cup" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Kimchi",
+        "qty": 0.5,
+        "note": "cup"
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -47,15 +103,41 @@
     "name": "Gochujang Salmon",
     "cuisine": "korean",
     "meal_type": "dinner",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Atlantic salmon (raw)", "qty": 170, "note": "" },
-      { "ingredient": "Gochujang", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Honey", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Broccoli florets", "qty": 120, "note": "" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -68,15 +150,41 @@
     "name": "Korean Tofu Stir-Fry",
     "cuisine": "korean",
     "meal_type": "dinner",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Tofu (firm)", "qty": 200, "note": "cubed" },
-      { "ingredient": "Gochujang", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Soy sauce", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Bok choy", "qty": 100, "note": "chopped" },
-      { "ingredient": "Sesame seeds", "qty": 1, "note": "tsp" },
-      { "ingredient": "Basmati rice (dry)", "qty": 50, "note": "" }
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bok choy",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
     ],
     "steps": [
       "Cook rice per package directions.",
@@ -89,17 +197,573 @@
     "name": "Korean Chicken & Kimchi Jar",
     "cuisine": "korean",
     "meal_type": "lunch",
-    "tags": ["cold-friendly"],
+    "tags": [
+      "cold-friendly"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken breast", "qty": 140, "note": "cooked, sliced" },
-      { "ingredient": "Kimchi", "qty": 0.5, "note": "cup" },
-      { "ingredient": "Brown rice (dry)", "qty": 40, "note": "cooked and cooled" },
-      { "ingredient": "Sesame oil", "qty": 0.5, "note": "tsp" }
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Kimchi",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Brown rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Layer rice, chicken, and kimchi in a jar.",
       "Drizzle with sesame oil before eating."
+    ]
+  },
+  {
+    "name": "Korean Beef Bulgogi Bowl",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Marinate beef in soy sauce, honey, and garlic 15 min.",
+      "Sear 3-4 min until caramelized.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Spicy Korean Pork Bowl",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 170,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk gochujang, soy sauce, and honey.",
+      "Sear pork, toss with sauce, cook through.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Korean Fried Chicken (Baked)",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": "cut into pieces"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chicken in cornstarch, bake at 425F for 22-25 min until crisp.",
+      "Toss with gochujang and honey."
+    ]
+  },
+  {
+    "name": "Doenjang Vegetable Stew",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Miso paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer onion and zucchini in 1 cup water 5 min.",
+      "Stir in miso paste and tofu, simmer 5 more min.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Korean Beef & Rice Jar",
+    "cuisine": "korean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 140,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "shredded"
+      }
+    ],
+    "steps": [
+      "Cook beef with soy sauce and honey.",
+      "Layer over rice with carrot in a jar."
+    ]
+  },
+  {
+    "name": "Bibimbap Bowl",
+    "cuisine": "korean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 120,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Arrange beef, sprouts, spinach, and carrot over rice.",
+      "Top with gochujang."
+    ]
+  },
+  {
+    "name": "Korean Tofu Lettuce Wraps",
+    "cuisine": "korean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 150,
+        "note": "crumbled, cooked"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 80,
+        "note": "leaves"
+      }
+    ],
+    "steps": [
+      "Cook tofu with soy sauce and gochujang.",
+      "Serve in lettuce leaves."
+    ]
+  },
+  {
+    "name": "Korean Egg Rice Breakfast",
+    "cuisine": "korean",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 40,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Top warm rice with fried eggs.",
+      "Drizzle with soy sauce and sesame oil."
+    ]
+  },
+  {
+    "name": "Kimchi Fried Rice Snack Cup",
+    "cuisine": "korean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 30,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Kimchi",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Stir-fry rice with kimchi and sesame oil 3-4 min."
+    ]
+  },
+  {
+    "name": "Roasted Korean Sweet Potato",
+    "cuisine": "korean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 130,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss sweet potato with sesame oil.",
+      "Roast at 425F for 20-25 min."
+    ]
+  },
+  {
+    "name": "Korean Cinnamon Rice Cake (Sweet)",
+    "cuisine": "korean",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Rice cakes",
+        "qty": 4,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Pan-fry rice cakes 2-3 min per side.",
+      "Drizzle with honey and cinnamon."
+    ]
+  },
+  {
+    "name": "Gochujang Glaze",
+    "cuisine": "korean",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Gochujang",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ]
+  },
+  {
+    "name": "Korean Turkey Lettuce Cups",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 80,
+        "note": "leaves"
+      }
+    ],
+    "steps": [
+      "Brown turkey, stir in gochujang and soy sauce.",
+      "Serve in lettuce leaves."
+    ]
+  },
+  {
+    "name": "Korean Cucumber Banchan Salad",
+    "cuisine": "korean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 150,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Gochugaru",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss cucumber with sesame oil and gochugaru.",
+      "Serve alongside chickpeas for protein."
+    ]
+  },
+  {
+    "name": "Korean BBQ Meatball Snack Cup",
+    "cuisine": "korean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": "formed into small meatballs"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Pan-sear meatballs until cooked through.",
+      "Toss with soy sauce and honey."
     ]
   }
 ]

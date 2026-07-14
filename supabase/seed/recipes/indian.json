@@ -245,5 +245,504 @@
       "Bake at 425F for 18-20 min until charred at the edges.",
       "Serve with rice and naan."
     ]
+  },
+  {
+    "name": "Butter Chicken (Lightened)",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Simmer chicken in tomatoes and spices 15 min.",
+      "Stir in yogurt off heat, serve over rice."
+    ]
+  },
+  {
+    "name": "Chicken Tikka Skewers",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and spices 20 min.",
+      "Skewer and grill or broil 10-12 min."
+    ]
+  },
+  {
+    "name": "Chana Masala",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Simmer chickpeas, tomatoes, and spices 15 min.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Lamb Curry",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook rice per package directions.",
+      "Brown lamb with onion, drain excess fat.",
+      "Add tomatoes and curry powder, simmer 15 min, serve over rice."
+    ]
+  },
+  {
+    "name": "Baked Tandoori Salmon",
+    "cuisine": "indian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Coat salmon with yogurt and spices.",
+      "Bake at 400F for 12-15 min."
+    ]
+  },
+  {
+    "name": "Chicken Tikka Rice Jar",
+    "cuisine": "indian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Layer chicken and rice in a jar with cucumber and yogurt."
+    ]
+  },
+  {
+    "name": "Lentil and Spinach Dal Jar",
+    "cuisine": "indian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "leftovers-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Simmer lentils, spinach, and spices 10 min.",
+      "Pack over rice."
+    ]
+  },
+  {
+    "name": "Chickpea and Cucumber Salad",
+    "cuisine": "indian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with lemon juice and cumin."
+    ]
+  },
+  {
+    "name": "Masala Egg Bhurji",
+    "cuisine": "indian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Scramble eggs with bell pepper and spices 3-4 min."
+    ]
+  },
+  {
+    "name": "Besan Chilla (Chickpea Pancake)",
+    "cuisine": "indian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpea flour (besan)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk flour with water to a thin batter, stir in onion and spices.",
+      "Cook in a lightly oiled pan 2-3 min per side."
+    ]
+  },
+  {
+    "name": "Spiced Roasted Chickpea Snack (Indian)",
+    "cuisine": "indian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 150,
+        "note": "drained, patted dry"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with curry powder.",
+      "Roast at 400F for 20-25 min until crisp."
+    ]
+  },
+  {
+    "name": "Cucumber Raita",
+    "cuisine": "indian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix yogurt, cucumber, and cumin."
+    ]
+  },
+  {
+    "name": "Mango Lassi",
+    "cuisine": "indian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen mango chunks",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Blend all ingredients until smooth."
+    ]
+  },
+  {
+    "name": "Cardamom Rice Pudding",
+    "cuisine": "indian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer rice with milk 20-25 min until creamy.",
+      "Stir in honey and cinnamon."
+    ]
+  },
+  {
+    "name": "Tikka Masala Simmer Sauce (Homemade)",
+    "cuisine": "indian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 400,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 2,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes and spices 15 min.",
+      "Stir in yogurt off heat."
+    ]
   }
 ]
