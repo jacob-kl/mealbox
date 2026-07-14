@@ -646,5 +646,229 @@
     "steps": [
       "Mix everything together. Season with salt, pepper, and a squeeze of lemon."
     ]
+  },
+  {
+    "name": "Cobb Salad",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 2,
+        "note": "slices, cooked and crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, sliced"
+      },
+      {
+        "ingredient": "Blue cheese",
+        "qty": 1,
+        "note": "oz, crumbled"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Arrange chicken, bacon, egg, and blue cheese over lettuce in rows.",
+      "Toss with your dressing of choice before eating."
+    ]
+  },
+  {
+    "name": "Caesar Salad with Grilled Chicken",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "grilled, sliced"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 120,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Caesar dressing (light)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss romaine with dressing and parmesan.",
+      "Top with sliced grilled chicken."
+    ]
+  },
+  {
+    "name": "Waldorf Fruit Salad",
+    "cuisine": "american",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Apple",
+        "qty": 1,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Grapes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 0.5,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss apple, grapes, and walnuts with yogurt."
+    ]
+  },
+  {
+    "name": "Cheddar Broccoli Soup",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer broccoli in broth 10 min until tender.",
+      "Blend partially, stir in milk and cheddar until melted."
+    ]
+  },
+  {
+    "name": "Classic Club Sandwich",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Deli turkey breast (sliced)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 2,
+        "note": "slices, cooked"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 3,
+        "note": "slices, toasted"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Layer turkey, bacon, and lettuce between toasted bread slices.",
+      "Cut into triangles."
+    ]
+  },
+  {
+    "name": "Reuben Sandwich",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Corned beef",
+        "qty": 120,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Sauerkraut",
+        "qty": 50,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Swiss cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Rye bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Thousand island dressing",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Layer corned beef, sauerkraut, and swiss between rye slices with dressing.",
+      "Grill in a pan 3-4 min per side until melted and toasted."
+    ]
   }
 ]

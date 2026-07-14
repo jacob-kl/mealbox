@@ -799,5 +799,41 @@
     "steps": [
       "Whisk all ingredients with 2-3 tbsp warm water until smooth."
     ]
+  },
+  {
+    "name": "Egg Drop Soup",
+    "cuisine": "asian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 1,
+        "note": "tbsp, sliced"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Bring broth to a simmer, whisk in cornstarch slurry to lightly thicken.",
+      "Drizzle in beaten egg while stirring, top with scallions."
+    ]
   }
 ]

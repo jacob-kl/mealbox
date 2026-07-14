@@ -765,5 +765,80 @@
       "Pan-sear meatballs until cooked through.",
       "Toss with soy sauce and honey."
     ]
+  },
+  {
+    "name": "Korean Beef Salad Bowl",
+    "cuisine": "korean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 140,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Mixed greens",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk soy sauce and sesame oil.",
+      "Toss greens and cucumber with dressing, top with beef."
+    ]
+  },
+  {
+    "name": "Kimchi Jjigae (Kimchi Stew)",
+    "cuisine": "korean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 120,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Kimchi",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Sear pork, add kimchi and broth, simmer 15 min.",
+      "Add tofu, simmer 5 more min."
+    ]
   }
 ]

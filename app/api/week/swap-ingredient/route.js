@@ -10,9 +10,12 @@ export async function POST(request) {
   if (!user) return NextResponse.json({ error: 'Not authenticated' }, { status: 401 });
 
   const { weekPlanMealId, oldIngredient, newIngredient, newQty } = await request.json();
-  if (!weekPlanMealId || !oldIngredient || !newIngredient) {
-    return NextResponse.json({ error: 'weekPlanMealId, oldIngredient, and newIngredient are required' }, { status: 400 });
+  if (!weekPlanMealId || !oldIngredient) {
+    return NextResponse.json({ error: 'weekPlanMealId and oldIngredient are required' }, { status: 400 });
   }
+  // newIngredient omitted = remove that ingredient entirely rather than
+  // replacing it with something else.
+  const isRemoval = !newIngredient;
 
   const { data: profile } = await supabase.from('profiles').select('household_id').eq('id', user.id).single();
   const householdId = profile?.household_id;
@@ -30,7 +33,7 @@ export async function POST(request) {
   const { data: ingredientRows } = await supabase.from('ingredients').select('*');
   const ingredientsByName = Object.fromEntries((ingredientRows || []).map((i) => [i.name, i]));
 
-  if (!ingredientsByName[newIngredient]) {
+  if (!isRemoval && !ingredientsByName[newIngredient]) {
     return NextResponse.json({ error: `"${newIngredient}" isn't in the ingredient database yet.` }, { status: 400 });
   }
 
@@ -43,7 +46,7 @@ export async function POST(request) {
   const baseServingsForCurrent = meal.ingredients_override?.length ? 1 : meal.recipe?.base_servings || 1;
 
   if (!currentLines.length) {
-    return NextResponse.json({ error: 'No ingredients found for this meal to swap.' }, { status: 400 });
+    return NextResponse.json({ error: 'No ingredients found for this meal to edit.' }, { status: 400 });
   }
 
   const targetIndex = currentLines.findIndex((l) => l.ingredient === oldIngredient);
@@ -51,17 +54,22 @@ export async function POST(request) {
     return NextResponse.json({ error: `"${oldIngredient}" isn't in this meal.` }, { status: 400 });
   }
 
-  const newIngredientRow = ingredientsByName[newIngredient];
-  const updatedLines = currentLines.map((l, i) =>
-    i === targetIndex
-      ? {
-          ingredient: newIngredient,
-          qty: newQty != null ? newQty : newIngredientRow.serving_qty,
-          note: `swapped for ${oldIngredient}`,
-          unit: newIngredientRow.serving_unit || null,
-        }
-      : l
-  );
+  let updatedLines;
+  if (isRemoval) {
+    updatedLines = currentLines.filter((_, i) => i !== targetIndex);
+  } else {
+    const newIngredientRow = ingredientsByName[newIngredient];
+    updatedLines = currentLines.map((l, i) =>
+      i === targetIndex
+        ? {
+            ingredient: newIngredient,
+            qty: newQty != null ? newQty : newIngredientRow.serving_qty,
+            note: `swapped for ${oldIngredient}`,
+            unit: newIngredientRow.serving_unit || null,
+          }
+        : l
+    );
+  }
 
   let macros;
   try {

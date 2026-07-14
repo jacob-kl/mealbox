@@ -755,5 +755,113 @@
     "steps": [
       "Whisk all ingredients together."
     ]
+  },
+  {
+    "name": "Mexican Fruit Salad",
+    "cuisine": "mexican",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Watermelon",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Fresh pineapple",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp, or chili powder"
+      }
+    ],
+    "steps": [
+      "Toss fruit with lime juice and a dusting of paprika."
+    ]
+  },
+  {
+    "name": "Chicken Tortilla Soup",
+    "cuisine": "mexican",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 1,
+        "note": "cut into strips, baked crisp"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes, corn, and broth 10 min.",
+      "Add chicken, warm through, top with crisp tortilla strips."
+    ]
+  },
+  {
+    "name": "Torta Sandwich",
+    "cuisine": "mexican",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (pulled)",
+        "qty": 140,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 60,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, or a roll if available"
+      }
+    ],
+    "steps": [
+      "Spread mashed beans on bread, layer pork and avocado."
+    ]
   }
 ]

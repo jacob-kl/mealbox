@@ -827,5 +827,87 @@
     "steps": [
       "Whisk all ingredients together."
     ]
+  },
+  {
+    "name": "Chinese Chicken Salad",
+    "cuisine": "chinese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Mandarin orange segments (canned)",
+        "qty": 80,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 100,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss cabbage, chicken, and mandarin oranges.",
+      "Whisk sesame oil and vinegar, toss to combine."
+    ]
+  },
+  {
+    "name": "Hot and Sour Soup",
+    "cuisine": "chinese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      }
+    ],
+    "steps": [
+      "Simmer broth with vinegar and sriracha.",
+      "Add tofu, drizzle in beaten egg while stirring to form ribbons."
+    ]
   }
 ]

@@ -683,5 +683,77 @@
       "Soak chicken in buttermilk 15 min.",
       "Dredge in cornmeal, bake at 400F for 18-20 min until golden."
     ]
+  },
+  {
+    "name": "Southern Fruit Salad with Pecans",
+    "cuisine": "southern",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peach",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Grapes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Pecans",
+        "qty": 0.5,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss fruit and pecans with honey."
+    ]
+  },
+  {
+    "name": "She-Crab Style Soup",
+    "cuisine": "southern",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Crab meat",
+        "qty": 140,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer potato in milk 12-15 min until tender.",
+      "Add crab and paprika, warm through gently."
+    ]
   }
 ]

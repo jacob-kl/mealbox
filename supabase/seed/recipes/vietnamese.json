@@ -732,5 +732,80 @@
       "Toss shrimp with fish sauce.",
       "Layer over rice with carrot."
     ]
+  },
+  {
+    "name": "Vietnamese Cabbage Chicken Salad",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 120,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk fish sauce and lime juice.",
+      "Toss with cabbage, carrot, and chicken."
+    ]
+  },
+  {
+    "name": "Vietnamese Sweet Corn Soup",
+    "cuisine": "vietnamese",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken breast",
+        "qty": 80,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      }
+    ],
+    "steps": [
+      "Simmer corn and chicken in broth 5 min.",
+      "Drizzle in beaten egg while stirring to form ribbons."
+    ]
   }
 ]

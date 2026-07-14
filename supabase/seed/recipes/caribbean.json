@@ -668,5 +668,116 @@
     "steps": [
       "Whisk all ingredients together."
     ]
+  },
+  {
+    "name": "Tropical Fruit Salad with Coconut",
+    "cuisine": "caribbean",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fresh pineapple",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss fruit with coconut milk and lime juice."
+    ]
+  },
+  {
+    "name": "Caribbean Pumpkin Soup",
+    "cuisine": "caribbean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Butternut squash",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer squash in broth 15-18 min until soft.",
+      "Blend with coconut milk and curry powder until smooth."
+    ]
+  },
+  {
+    "name": "Cuban Sandwich",
+    "cuisine": "caribbean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (pulled)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Deli ham (sliced)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Swiss cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Layer pork, ham, and cheese with mustard between bread.",
+      "Press in a pan 3-4 min per side until melted and toasted."
+    ]
   }
 ]

@@ -744,5 +744,76 @@
       "Simmer tomatoes and spices 15 min.",
       "Stir in yogurt off heat."
     ]
+  },
+  {
+    "name": "Kachumber Salad",
+    "cuisine": "indian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with lemon juice."
+    ]
+  },
+  {
+    "name": "Mulligatawny Lentil Soup",
+    "cuisine": "indian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer lentils, carrot, broth, and spices 20-25 min until lentils are tender."
+    ]
   }
 ]

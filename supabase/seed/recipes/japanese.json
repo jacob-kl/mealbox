@@ -723,5 +723,36 @@
     "steps": [
       "Whisk all ingredients with 2 tbsp warm water until smooth."
     ]
+  },
+  {
+    "name": "Miso Soup with Tofu",
+    "cuisine": "japanese",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Miso paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 1,
+        "note": "tbsp, sliced"
+      }
+    ],
+    "steps": [
+      "Whisk miso into 1.5 cups hot water until dissolved.",
+      "Add tofu and scallions, warm through without boiling."
+    ]
   }
 ]

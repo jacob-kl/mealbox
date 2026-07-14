@@ -105,15 +105,37 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
 
 /**
  * @param {Object} recipe
- * @param {string} [weekPlanMealId] - if given, ingredients become swappable
+ * @param {string} [weekPlanMealId] - if given, ingredients become swappable/removable
  *   (this is a planned meal instance, not the read-only recipe library)
  * @param {Array} [ingredientCatalog] - full ingredients table, needed for swap suggestions
  */
 export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [] }) {
+  const router = useRouter();
   const [swappingIndex, setSwappingIndex] = useState(null);
+  const [removingIndex, setRemovingIndex] = useState(null);
+  const [removeError, setRemoveError] = useState(null);
 
   if (!recipe) return null;
-  const canSwap = !!weekPlanMealId && ingredientCatalog.length > 0;
+  const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0;
+
+  async function handleRemove(ingredientName, index) {
+    setRemovingIndex(index);
+    setRemoveError(null);
+    try {
+      const res = await fetch('/api/week/swap-ingredient', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ weekPlanMealId, oldIngredient: ingredientName }),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Remove failed');
+      router.refresh();
+    } catch (err) {
+      setRemoveError(err.message);
+    } finally {
+      setRemovingIndex(null);
+    }
+  }
 
   return (
     <div className="mt-3 pt-3 border-t border-line text-sm">
@@ -128,14 +150,27 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
                     • {formatQty(ing.qty, ing.unit)} {ing.ingredient}
                     {ing.note ? ` — ${ing.note}` : ''}
                   </span>
-                  {canSwap && (
-                    <button
-                      type="button"
-                      onClick={() => setSwappingIndex(swappingIndex === i ? null : i)}
-                      className="text-xs text-pine hover:underline shrink-0"
-                    >
-                      {swappingIndex === i ? 'Cancel' : 'Swap'}
-                    </button>
+                  {canEdit && (
+                    <span className="flex items-center gap-2 shrink-0">
+                      <button
+                        type="button"
+                        onClick={() => {
+                          setSwappingIndex(swappingIndex === i ? null : i);
+                          setRemoveError(null);
+                        }}
+                        className="text-xs text-pine hover:underline"
+                      >
+                        {swappingIndex === i ? 'Cancel' : 'Swap'}
+                      </button>
+                      <button
+                        type="button"
+                        disabled={removingIndex === i}
+                        onClick={() => handleRemove(ing.ingredient, i)}
+                        className="text-xs text-rust hover:underline disabled:opacity-50"
+                      >
+                        {removingIndex === i ? 'Removing…' : 'Remove'}
+                      </button>
+                    </span>
                   )}
                 </div>
                 {swappingIndex === i && (
@@ -149,6 +184,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
               </li>
             ))}
           </ul>
+          {removeError && <p className="text-xs text-rust mb-3 -mt-2">{removeError}</p>}
         </>
       )}
       {recipe.steps?.length > 0 && (

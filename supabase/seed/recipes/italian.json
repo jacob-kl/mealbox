@@ -734,5 +734,126 @@
       "Saute garlic in oil, add tomatoes, simmer 15-20 min.",
       "Stir in basil at the end."
     ]
+  },
+  {
+    "name": "Italian Chopped Salad",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Salami (Genoa)",
+        "qty": 1,
+        "note": "oz, diced"
+      },
+      {
+        "ingredient": "Provolone cheese",
+        "qty": 1,
+        "note": "oz, diced"
+      },
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Italian dressing",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss all ingredients together with dressing."
+    ]
+  },
+  {
+    "name": "Minestrone Soup",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cannellini beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Elbow macaroni (dry)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes, zucchini, and broth 10 min.",
+      "Add beans and pasta, simmer 8-10 min until pasta is tender."
+    ]
+  },
+  {
+    "name": "Muffuletta-Style Sandwich",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Salami (Genoa)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Deli ham (sliced)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Provolone cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 6,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      }
+    ],
+    "steps": [
+      "Layer meats, cheese, and chopped olives between bread slices."
+    ]
   }
 ]

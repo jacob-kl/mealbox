@@ -688,5 +688,84 @@
     "steps": [
       "Simmer lentils, tomatoes, paprika, and onion with 1.5 cups water 25-30 min until tender."
     ]
+  },
+  {
+    "name": "Spanish Orange and Olive Salad",
+    "cuisine": "spanish",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Orange",
+        "qty": 1,
+        "note": "segmented"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Arrange orange segments, olives, and onion.",
+      "Drizzle with olive oil."
+    ]
+  },
+  {
+    "name": "Gazpacho",
+    "cuisine": "spanish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 300,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend all ingredients until smooth.",
+      "Chill at least 1 hour before serving."
+    ]
   }
 ]

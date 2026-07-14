@@ -735,5 +735,143 @@
     "steps": [
       "Whisk mustard and vinegar, slowly whisk in oil until emulsified."
     ]
+  },
+  {
+    "name": "Croque Monsieur",
+    "cuisine": "french",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Deli ham (sliced)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Spread mustard on bread, layer ham and half the cheese, top with second slice.",
+      "Top with remaining cheese, bake at 400F for 8-10 min until melted and golden."
+    ]
+  },
+  {
+    "name": "Jambon-Beurre",
+    "cuisine": "french",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Deli ham (sliced)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "French baguette",
+        "qty": 1,
+        "note": "piece, split"
+      }
+    ],
+    "steps": [
+      "Spread butter generously on the split baguette.",
+      "Layer in the ham."
+    ]
+  },
+  {
+    "name": "French Fruit Salad (Salade de Fruits)",
+    "cuisine": "french",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Apple",
+        "qty": 0.5,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Grapes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Orange",
+        "qty": 0.5,
+        "note": "segmented"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss all fruit together with honey."
+    ]
+  },
+  {
+    "name": "French Onion Soup",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "slice, toasted"
+      }
+    ],
+    "steps": [
+      "Caramelize onion slowly, 20-25 min, stirring often.",
+      "Add broth, simmer 10 min.",
+      "Top with toasted bread and cheese, broil until melted."
+    ]
   }
 ]

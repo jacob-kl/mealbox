@@ -774,5 +774,88 @@
       "Toss turkey with basil and fish sauce.",
       "Serve in lettuce leaves."
     ]
+  },
+  {
+    "name": "Thai Mango Salad",
+    "cuisine": "thai",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen mango chunks",
+        "qty": 120,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh mint",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk lime juice and peanut butter for the dressing.",
+      "Toss with mango, carrot, and mint."
+    ]
+  },
+  {
+    "name": "Tom Yum Shrimp Soup",
+    "cuisine": "thai",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sriracha",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer broth with sriracha 3-4 min.",
+      "Add shrimp, cook until pink, stir in lime juice and cilantro."
+    ]
   }
 ]

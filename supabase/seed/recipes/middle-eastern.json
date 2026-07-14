@@ -746,5 +746,116 @@
     "steps": [
       "Whisk all ingredients with 2-3 tbsp water until smooth."
     ]
+  },
+  {
+    "name": "Fattoush Salad",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 0.5,
+        "note": "toasted and torn"
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss vegetables with sumac and a drizzle of olive oil.",
+      "Top with toasted pita pieces."
+    ]
+  },
+  {
+    "name": "Red Lentil Soup",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer lentils, onion, cumin, and broth 20-25 min until lentils are soft.",
+      "Blend partially for a creamier texture if desired."
+    ]
+  },
+  {
+    "name": "Shawarma Wrap Sandwich",
+    "cuisine": "middle-eastern",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": "sliced, cooked with spices"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Fill tortilla with chicken, yogurt, and cucumber, roll tightly."
+    ]
   }
 ]

@@ -5650,5 +5650,141 @@
     "micros": {},
     "sub_group": "hard_cheese",
     "dietary_tags": []
+  },
+  {
+    "name": "Bacon",
+    "serving_qty": 2,
+    "serving_unit": "slice",
+    "serving_label": "per 2 slices cooked (16g)",
+    "cal": 86,
+    "protein": 6,
+    "carbs": 0.2,
+    "fat": 6.7,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cured_processed_meat",
+    "dietary_tags": []
+  },
+  {
+    "name": "Deli ham (sliced)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 145,
+    "protein": 18,
+    "carbs": 1.5,
+    "fat": 5.5,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cured_processed_meat",
+    "dietary_tags": []
+  },
+  {
+    "name": "French baguette",
+    "serving_qty": 2,
+    "serving_unit": "oz",
+    "serving_label": "per 2oz piece (57g)",
+    "cal": 150,
+    "protein": 5,
+    "carbs": 29,
+    "fat": 1,
+    "fiber": 1.2,
+    "micros": {},
+    "sub_group": "bread_bun",
+    "dietary_tags": []
+  },
+  {
+    "name": "Rye bread",
+    "serving_qty": 1,
+    "serving_unit": "slice",
+    "serving_label": "per 1 slice (32g)",
+    "cal": 83,
+    "protein": 2.7,
+    "carbs": 15.5,
+    "fat": 1.1,
+    "fiber": 1.9,
+    "micros": {},
+    "sub_group": "bread_bun",
+    "dietary_tags": []
+  },
+  {
+    "name": "Sauerkraut",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 19,
+    "protein": 0.9,
+    "carbs": 4.3,
+    "fat": 0.1,
+    "fiber": 2.9,
+    "micros": {},
+    "sub_group": "pickled_briny",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Corned beef",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 250,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 19,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cured_processed_meat",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Chicken broth",
+    "serving_qty": 1,
+    "serving_unit": "cup",
+    "serving_label": "per 1 cup (240ml)",
+    "cal": 15,
+    "protein": 2.5,
+    "carbs": 1,
+    "fat": 0.5,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "broth_stock",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Salami (Genoa)",
+    "serving_qty": 1,
+    "serving_unit": "oz",
+    "serving_label": "per 1oz (28g)",
+    "cal": 110,
+    "protein": 6,
+    "carbs": 0.5,
+    "fat": 9.5,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cured_processed_meat",
+    "dietary_tags": []
+  },
+  {
+    "name": "Mandarin orange segments (canned)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g, drained",
+    "cal": 55,
+    "protein": 0.6,
+    "carbs": 13.5,
+    "fat": 0.1,
+    "fiber": 0.7,
+    "micros": {},
+    "sub_group": "citrus_fruit",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]

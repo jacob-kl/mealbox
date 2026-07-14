@@ -829,5 +829,125 @@
     "steps": [
       "Arrange grapes and goat cheese, drizzle with honey."
     ]
+  },
+  {
+    "name": "Greek Salad",
+    "cuisine": "mediterranean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 100,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Feta cheese (reduced fat)",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss cucumber, tomatoes, and olives with oil.",
+      "Top with feta."
+    ]
+  },
+  {
+    "name": "Greek Lemon Chicken Soup (Avgolemono-Style)",
+    "cuisine": "mediterranean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer broth and rice 15 min until tender.",
+      "Whisk egg and lemon juice, slowly temper into the hot broth, add chicken and warm through."
+    ]
+  },
+  {
+    "name": "Greek Gyro Sandwich",
+    "cuisine": "mediterranean",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "sliced, cooked with oregano"
+      },
+      {
+        "ingredient": "Whole wheat pita",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix yogurt, cucumber, and dill for tzatziki.",
+      "Fill pita with chicken and tzatziki."
+    ]
   }
 ]
