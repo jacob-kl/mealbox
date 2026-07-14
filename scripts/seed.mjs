@@ -107,6 +107,19 @@ async function seedRecipes(ingredients) {
       } catch (err) {
         throw new Error(`In ${file}, recipe "${r.name}": ${err.message}`);
       }
+      let macrosFull = null;
+      let ingredientsFullWithUnits = null;
+      if (r.ingredients_full?.length) {
+        try {
+          macrosFull = computeRecipeMacros(r.ingredients_full, ingredientsByName, r.base_servings || 1);
+        } catch (err) {
+          throw new Error(`In ${file}, recipe "${r.name}" (full ingredients): ${err.message}`);
+        }
+        ingredientsFullWithUnits = r.ingredients_full.map((line) => ({
+          ...line,
+          unit: ingredientsByName[line.ingredient]?.serving_unit || null,
+        }));
+      }
       const ingredientsWithUnits = r.ingredients.map((line) => ({
         ...line,
         unit: ingredientsByName[line.ingredient]?.serving_unit || null,
@@ -120,9 +133,11 @@ async function seedRecipes(ingredients) {
         tags: r.tags || [],
         base_servings: r.base_servings || 1,
         ingredients: ingredientsWithUnits,
+        ingredients_full: ingredientsFullWithUnits,
         steps: r.steps || [],
         steps_detailed: r.steps_detailed || null,
         macros_per_serving: macros,
+        macros_per_serving_full: macrosFull,
       };
 
       const existingId = existingIdByName.get(r.name);

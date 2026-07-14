@@ -216,41 +216,6 @@
     ]
   },
   {
-    "name": "Chicken Shawarma Bowl",
-    "cuisine": "middle-eastern",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 170,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
-        "qty": 1.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber",
-        "qty": 60,
-        "note": "diced"
-      }
-    ],
-    "steps": [
-      "Cook rice per package directions.",
-      "Season and sear chicken until cooked through.",
-      "Serve over rice with cucumber."
-    ]
-  },
-  {
     "name": "Lamb Kofta",
     "cuisine": "middle-eastern",
     "meal_type": "dinner",

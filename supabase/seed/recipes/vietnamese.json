@@ -188,46 +188,6 @@
     ]
   },
   {
-    "name": "Beef Pho",
-    "cuisine": "vietnamese",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 140,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Rice noodles (dry)",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 2,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Bean sprouts",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer broth, add noodles and cook until tender.",
-      "Ladle over raw sliced beef so residual heat cooks it.",
-      "Top with bean sprouts and basil."
-    ]
-  },
-  {
     "name": "Vietnamese Grilled Pork Chops",
     "cuisine": "vietnamese",
     "meal_type": "dinner",

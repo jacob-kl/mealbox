@@ -51,6 +51,75 @@
       "Cook rice per package directions.",
       "Saute bell pepper and onion until soft, then add cooked chicken to warm through.",
       "Build bowls with rice, beans, chicken and veg, salsa, cheese, and avocado."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions. Once done, fluff with a fork and stir in half the lime juice and cilantro.",
+      "Season the chicken with cumin, salt, and pepper. Heat a skillet over medium-high heat and cook the chicken 6-7 minutes, stirring occasionally, until cooked through.",
+      "Add the bell pepper, onion, and garlic to the same pan, cooking another 4-5 minutes until softened.",
+      "Warm the black beans separately with a splash of water.",
+      "Build the bowl: rice on the bottom, then chicken and vegetables, beans, salsa, cheese, and avocado. Finish with remaining lime juice and cilantro."
     ]
   },
   {
@@ -100,6 +169,64 @@
       "Brown ground turkey with taco spices, about 6-8 min.",
       "Warm tortillas.",
       "Fill with turkey, cheese, salsa, cilantro, and avocado."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 4,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a skillet over medium-high heat. Cook the onion 2-3 minutes until softened, then add garlic and cook 30 seconds.",
+      "Add the turkey and spice blend, breaking the meat apart, and cook 6-7 minutes until browned and cooked through.",
+      "Warm the tortillas in a dry skillet or over a flame, about 10 seconds per side.",
+      "Fill with turkey, top with cheese, salsa, avocado, and cilantro, and finish with a squeeze of lime."
     ]
   },
   {
@@ -145,6 +272,59 @@
       "Sear steak strips hot and fast, 2-3 min per side, rest and slice.",
       "Saute peppers and onion until charred at the edges.",
       "Build bowls with rice, steak, peppers, salsa, and avocado."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the steak with the spice blend. Cook the rice per package directions.",
+      "Heat a skillet over high heat until very hot. Sear the steak 2-3 minutes per side for medium-rare. Rest 5 minutes, then slice against the grain.",
+      "In the same pan, cook the bell pepper and onion 5-6 minutes until softened with light char, adding garlic in the last 30 seconds.",
+      "Build the bowl with rice, peppers and onions, sliced steak, salsa, and avocado. Finish with lime juice."
     ]
   },
   {
@@ -186,6 +366,44 @@
       "Spread mashed black beans, cheese, and bell pepper on a tortilla, top with the second.",
       "Cook in a dry skillet 3-4 min per side until golden and the cheese melts.",
       "Slice into wedges and serve with salsa."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 150,
+        "note": "mashed slightly"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp, for serving"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed black beans with cumin.",
+      "Spread the bean mixture over one tortilla, scatter with bell pepper and cheese, and top with the second tortilla.",
+      "Heat a dry skillet over medium heat. Cook the quesadilla 3-4 minutes per side, pressing down gently, until golden and the cheese is fully melted.",
+      "Cut into wedges and serve with salsa."
     ]
   },
   {
@@ -233,6 +451,49 @@
       "Toast tortillas in a dry skillet or 400F oven until crisp, about 5 min.",
       "Season and saute shrimp 1-2 min per side until pink.",
       "Layer beans, shrimp, cheese, salsa, and avocado on the crisp tortillas."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 180,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Pinto beans",
+        "qty": 150,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 4,
+        "note": "baked crisp"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Bake the tortillas on a sheet 8-10 minutes, flipping once, until crisp \u2014 this is what makes them 'tostadas' rather than soft tortillas.",
+      "Warm the mashed beans in a saucepan with a splash of water.",
+      "Season the shrimp with the spice blend and cook in a skillet over medium-high heat, 1-2 minutes per side, until pink.",
+      "Spread beans on each crisp tortilla, top with shrimp, cheese, salsa, and avocado."
     ]
   },
   {
@@ -273,6 +534,47 @@
     "steps": [
       "Layer salsa on the bottom of a jar, then rice, beans, pepper, and chicken.",
       "Shake to combine before eating."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cooled rice with cilantro and lime juice.",
+      "Layer rice, beans, bell pepper, and chicken in a jar, with salsa on top or in a separate small container to keep everything else from getting soggy."
     ]
   },
   {
@@ -313,6 +615,49 @@
       "Cook rice per package directions.",
       "Saute chicken, pepper, and onion with spices until cooked through.",
       "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions.",
+      "Season the chicken with the spice blend. Heat a skillet over medium-high heat and cook the chicken and onion together 6-7 minutes, stirring occasionally.",
+      "Add the bell pepper and garlic, cooking another 4-5 minutes until the chicken is cooked through and vegetables are tender-crisp.",
+      "Finish with lime juice and serve over rice."
     ]
   },
   {
@@ -347,6 +692,55 @@
     "steps": [
       "Season pork and slow-cook or braise 45-60 min until tender.",
       "Shred and serve over rice with lime juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Chipotle pepper in adobo",
+        "qty": 1,
+        "note": "minced, with 1 tsp sauce"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the pork with the minced chipotle, garlic, spice blend, and lime juice, coating evenly.",
+      "Heat a heavy pot over medium-high heat and sear the pork on all sides, 4-5 minutes, until browned.",
+      "Add the broth, scraping up any browned bits. Cover and braise on low 45-50 minutes until the pork is fork-tender.",
+      "Shred the pork with two forks right in the pot, tossing it through the sauce.",
+      "Cook the rice per package directions, stir in cilantro, and serve the barbacoa over top."
     ]
   },
   {
@@ -381,6 +775,50 @@
     "steps": [
       "Brown turkey with beans and salsa.",
       "Stuff into pepper halves, bake at 375F for 20-25 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 1,
+        "note": "halved and seeded"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 30,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 375F.",
+      "Brown the turkey in a skillet with cumin, breaking it apart, 5-6 minutes.",
+      "Stir in the beans, cooked rice, and 3 tablespoons of the salsa.",
+      "Stuff the mixture into the pepper halves, packing gently, and place in a baking dish.",
+      "Top with remaining salsa and cheese, cover with foil, and bake 25 minutes, then uncover and bake 10 more minutes until the pepper is tender and the cheese is browned."
     ]
   },
   {
@@ -417,6 +855,43 @@
     "steps": [
       "Season and saute shrimp 4-5 min until pink.",
       "Serve in warmed tortillas with slaw and lime juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 4,
+        "note": ""
+      },
+      {
+        "ingredient": "Slaw mix (bagged)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the slaw mix with half the lime juice.",
+      "Season the shrimp with the spice blend. Heat a skillet over medium-high heat and cook the shrimp 1-2 minutes per side until pink.",
+      "Warm the tortillas, then fill with slaw, shrimp, a dollop of sour cream, and remaining lime juice."
     ]
   },
   {
@@ -453,6 +928,46 @@
     "steps": [
       "Fill tortillas with beans, roll and place in a baking dish.",
       "Top with enchilada sauce and cheese, bake at 375F for 15-18 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Black beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 4,
+        "note": ""
+      },
+      {
+        "ingredient": "Enchilada sauce",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 375F.",
+      "Mash the beans lightly and mix with the onion and cumin.",
+      "Spoon a thin layer of enchilada sauce in the bottom of a baking dish.",
+      "Fill each tortilla with the bean mixture, roll, and place seam-side down in the dish.",
+      "Pour remaining sauce over the top and sprinkle with cheese.",
+      "Bake 18-20 minutes until bubbling and the cheese is melted."
     ]
   },
   {
@@ -488,6 +1003,42 @@
     ],
     "steps": [
       "Layer beans, chicken, and lettuce in a jar with salsa on the side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Layer the beans, chicken, and cheese in the bottom of a jar.",
+      "Top with lettuce and avocado, with salsa in a separate small container or on top to prevent sogginess."
     ]
   },
   {
@@ -524,6 +1075,53 @@
     ],
     "steps": [
       "Toss all ingredients together with lime juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 60,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 80,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the cooled quinoa, beans, corn, bell pepper, and red onion in a bowl.",
+      "Whisk the lime juice and olive oil together, toss through the salad.",
+      "Stir in cilantro just before serving."
     ]
   },
   {
@@ -560,6 +1158,48 @@
     "steps": [
       "Cook turkey with spices.",
       "Serve in lettuce leaves with salsa."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground turkey 93/7",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "leaves"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheddar cheese (shredded)",
+        "qty": 25,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat a skillet over medium-high heat. Cook the onion 2-3 minutes, then add garlic and cook 30 seconds.",
+      "Add the turkey and spice blend, breaking it apart, and cook 6-7 minutes until browned.",
+      "Spoon into lettuce leaves and top with salsa and cheese."
     ]
   },
   {
@@ -596,6 +1236,44 @@
     "steps": [
       "Fry eggs.",
       "Warm tortillas and beans, top with eggs and salsa."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": "warmed"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Cotija cheese",
+        "qty": 15,
+        "note": "crumbled"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the tortillas in a dry skillet, about 10 seconds per side.",
+      "Warm the black beans with a splash of water and mash slightly.",
+      "Fry the eggs to your preference \u2014 sunny-side up is traditional, so the yolk breaks over everything when you cut in.",
+      "Layer beans on the tortillas, top with the fried eggs, salsa, avocado, and cotija."
     ]
   },
   {
@@ -627,6 +1305,38 @@
     "steps": [
       "Char corn in a hot pan 3-4 min.",
       "Toss with cheese and lime juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 120,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Cotija cheese",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Char the corn in a dry skillet over medium-high heat, 4-5 minutes, stirring occasionally, until lightly browned in spots.",
+      "Toss with sour cream, lime juice, and paprika while still warm.",
+      "Top with crumbled cotija."
     ]
   },
   {
@@ -657,6 +1367,32 @@
     ],
     "steps": [
       "Toss with lime juice and a dusting of smoked paprika."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 150,
+        "note": "sliced, or jicama if available"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cotija cheese",
+        "qty": 10,
+        "note": "optional, crumbled"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cucumber (or jicama) with lime juice.",
+      "Dust with paprika and a light crumble of cotija if using."
     ]
   },
   {
@@ -688,6 +1424,33 @@
     "steps": [
       "Bake tortilla wedges at 375F for 8-10 min until crisp.",
       "Toss with cinnamon sugar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 3,
+        "note": "cut into wedges"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 375F. Brush the tortilla wedges lightly with oil.",
+      "Bake 8-10 minutes until crisp, checking at 6 minutes.",
+      "While still warm, toss with the cinnamon sugar so it sticks."
     ]
   },
   {
@@ -724,6 +1487,45 @@
     "steps": [
       "Whisk cocoa, milk, cinnamon, and cornstarch in a saucepan.",
       "Simmer, whisking, until thickened, about 5 min."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Unsweetened cocoa powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cocoa, cornstarch, and sugar together in a saucepan (mixing the dry ingredients first prevents cocoa clumps).",
+      "Gradually whisk in the milk until smooth.",
+      "Cook over medium heat, whisking constantly, until it comes to a gentle simmer and thickens, about 5-6 minutes.",
+      "Remove from heat, stir in cinnamon and vanilla.",
+      "Pour into a serving dish and press plastic wrap directly onto the surface to prevent a skin from forming. Chill at least 1 hour."
     ]
   },
   {
@@ -754,6 +1556,32 @@
     ],
     "steps": [
       "Whisk all ingredients together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Chipotle pepper in adobo",
+        "qty": 1,
+        "note": "minced, with sauce"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic powder",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mince the chipotle pepper finely, including a bit of its adobo sauce for extra smoky heat.",
+      "Whisk all ingredients together until smooth. Adjust chipotle to taste \u2014 it's potent, so start light if you're unsure."
     ]
   },
   {
@@ -790,6 +1618,37 @@
     ],
     "steps": [
       "Toss fruit with lime juice and a dusting of paprika."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Watermelon",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Fresh pineapple",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp, or chili powder"
+      },
+      {
+        "ingredient": "Cotija cheese",
+        "qty": 10,
+        "note": "optional, crumbled"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the watermelon and pineapple with lime juice.",
+      "Dust with paprika (or chili powder for more heat) and a light crumble of cotija if using."
     ]
   },
   {
@@ -829,6 +1688,70 @@
     "steps": [
       "Simmer tomatoes, corn, and broth 10 min.",
       "Add chicken, warm through, top with crisp tortilla strips."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Corn tortilla (small)",
+        "qty": 2,
+        "note": "cut into strips, baked crisp"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.3,
+        "note": "for topping"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Bake the tortilla strips at 375F for 8-10 minutes until crisp, for topping.",
+      "Heat a pot over medium heat. Cook the onion 3-4 minutes, then add garlic and spice blend, cooking 30 seconds until fragrant.",
+      "Add the tomatoes, corn, beans, and broth. Simmer 15-18 minutes.",
+      "Stir in the shredded chicken and warm through.",
+      "Serve topped with crisp tortilla strips, avocado, and cilantro."
     ]
   },
   {
@@ -862,6 +1785,43 @@
     ],
     "steps": [
       "Spread mashed beans on bread, layer pork and avocado."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (pulled)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 80,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Avocado",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, or a bolillo roll if available"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the pulled pork in a skillet.",
+      "Spread mashed black beans on one slice of bread and mashed avocado on the other.",
+      "Layer the pork on the beans, add a dollop of sour cream and salsa, and close the sandwich."
     ]
   }
 ]

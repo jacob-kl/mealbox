@@ -114,10 +114,17 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
   const [swappingIndex, setSwappingIndex] = useState(null);
   const [removingIndex, setRemovingIndex] = useState(null);
   const [removeError, setRemoveError] = useState(null);
-  const [showDetailed, setShowDetailed] = useState(false);
+  const [showFull, setShowFull] = useState(false);
 
   if (!recipe) return null;
   const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0;
+  const hasFull = recipe.ingredients_full?.length > 0 || recipe.steps_detailed?.length > 0;
+  // The Full view is a reference for cooking — the app's macro tracking,
+  // shopping list, and swap/remove editing all operate on the quick list,
+  // so editing controls only make sense there.
+  const displayIngredients = showFull && recipe.ingredients_full?.length > 0 ? recipe.ingredients_full : recipe.ingredients;
+  const displaySteps = showFull && recipe.steps_detailed?.length > 0 ? recipe.steps_detailed : recipe.steps;
+  const editingActive = canEdit && !showFull;
 
   async function handleRemove(ingredientName, index) {
     setRemovingIndex(index);
@@ -140,18 +147,40 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
 
   return (
     <div className="mt-3 pt-3 border-t border-line text-sm">
-      {recipe.ingredients?.length > 0 && (
+      {hasFull && (
+        <div className="flex items-center justify-between mb-3">
+          <p className="text-xs text-ink/50">{showFull ? 'Full recipe — for reference' : 'Quick version'}</p>
+          <div className="flex text-xs border border-line rounded-full overflow-hidden">
+            <button
+              type="button"
+              onClick={() => setShowFull(false)}
+              className={`px-2.5 py-0.5 ${!showFull ? 'bg-pine text-white' : 'hover:bg-paper'}`}
+            >
+              Quick
+            </button>
+            <button
+              type="button"
+              onClick={() => setShowFull(true)}
+              className={`px-2.5 py-0.5 ${showFull ? 'bg-pine text-white' : 'hover:bg-paper'}`}
+            >
+              Full
+            </button>
+          </div>
+        </div>
+      )}
+
+      {displayIngredients?.length > 0 && (
         <>
           <p className="font-medium mb-1">Ingredients</p>
           <ul className="space-y-0.5 text-ink/70 mb-3">
-            {recipe.ingredients.map((ing, i) => (
+            {displayIngredients.map((ing, i) => (
               <li key={i}>
                 <div className="flex items-center justify-between gap-2">
                   <span className="list-disc">
                     • {formatQty(ing.qty, ing.unit)} {ing.ingredient}
                     {ing.note ? ` — ${ing.note}` : ''}
                   </span>
-                  {canEdit && (
+                  {editingActive && (
                     <span className="flex items-center gap-2 shrink-0">
                       <button
                         type="button"
@@ -174,7 +203,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
                     </span>
                   )}
                 </div>
-                {swappingIndex === i && (
+                {editingActive && swappingIndex === i && (
                   <SwapPicker
                     ingredientName={ing.ingredient}
                     weekPlanMealId={weekPlanMealId}
@@ -188,31 +217,11 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
           {removeError && <p className="text-xs text-rust mb-3 -mt-2">{removeError}</p>}
         </>
       )}
-      {recipe.steps?.length > 0 && (
+      {displaySteps?.length > 0 && (
         <>
-          <div className="flex items-center justify-between mb-1">
-            <p className="font-medium">Steps</p>
-            {recipe.steps_detailed?.length > 0 && (
-              <div className="flex text-xs border border-line rounded-full overflow-hidden">
-                <button
-                  type="button"
-                  onClick={() => setShowDetailed(false)}
-                  className={`px-2.5 py-0.5 ${!showDetailed ? 'bg-pine text-white' : 'hover:bg-paper'}`}
-                >
-                  Quick
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setShowDetailed(true)}
-                  className={`px-2.5 py-0.5 ${showDetailed ? 'bg-pine text-white' : 'hover:bg-paper'}`}
-                >
-                  Full
-                </button>
-              </div>
-            )}
-          </div>
+          <p className="font-medium mb-1">Steps</p>
           <ol className="list-decimal list-inside space-y-1 text-ink/70">
-            {(showDetailed && recipe.steps_detailed?.length > 0 ? recipe.steps_detailed : recipe.steps).map((s, i) => (
+            {displaySteps.map((s, i) => (
               <li key={i}>{s}</li>
             ))}
           </ol>

@@ -5903,5 +5903,373 @@
     "dietary_tags": [
       "gluten-free"
     ]
+  },
+  {
+    "name": "Tomato paste",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 13,
+    "protein": 0.7,
+    "carbs": 3,
+    "fat": 0.1,
+    "fiber": 0.7,
+    "micros": {},
+    "sub_group": "tomato_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Bay leaves",
+    "serving_qty": 1,
+    "serving_unit": "leaf",
+    "serving_label": "per 1 leaf",
+    "cal": 2,
+    "protein": 0.1,
+    "carbs": 0.4,
+    "fat": 0,
+    "fiber": 0.2,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Black pepper (ground)",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 6,
+    "protein": 0.2,
+    "carbs": 1.5,
+    "fat": 0.1,
+    "fiber": 0.6,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Red pepper flakes",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 6,
+    "protein": 0.2,
+    "carbs": 1.1,
+    "fat": 0.3,
+    "fiber": 0.6,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Red wine (cooking)",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (60ml)",
+    "cal": 48,
+    "protein": 0,
+    "carbs": 1.5,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cooking_wine",
+    "dietary_tags": [
+      "vegan"
+    ]
+  },
+  {
+    "name": "Heavy cream",
+    "serving_qty": 2,
+    "serving_unit": "tbsp",
+    "serving_label": "per 2 tbsp (30ml)",
+    "cal": 102,
+    "protein": 0.6,
+    "carbs": 0.8,
+    "fat": 11,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "milk",
+    "dietary_tags": []
+  },
+  {
+    "name": "Fresh thyme",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp, chopped",
+    "cal": 1,
+    "protein": 0.1,
+    "carbs": 0.2,
+    "fat": 0,
+    "fiber": 0.1,
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Fresh rosemary",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp, chopped",
+    "cal": 1,
+    "protein": 0,
+    "carbs": 0.2,
+    "fat": 0,
+    "fiber": 0.1,
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Fresh oregano",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp, chopped",
+    "cal": 1,
+    "protein": 0.1,
+    "carbs": 0.2,
+    "fat": 0,
+    "fiber": 0.1,
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Leeks",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 61,
+    "protein": 1.5,
+    "carbs": 14.2,
+    "fat": 0.3,
+    "fiber": 1.8,
+    "micros": {},
+    "sub_group": "allium",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Capers",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 2,
+    "protein": 0.2,
+    "carbs": 0.4,
+    "fat": 0.1,
+    "fiber": 0.3,
+    "micros": {},
+    "sub_group": "pickled_briny",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Dry sherry (cooking)",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (60ml)",
+    "cal": 52,
+    "protein": 0,
+    "carbs": 1.4,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cooking_wine",
+    "dietary_tags": [
+      "vegan"
+    ]
+  },
+  {
+    "name": "White wine vinegar",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 3,
+    "protein": 0,
+    "carbs": 0.1,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "vinegar",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Instant espresso powder",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 2,
+    "protein": 0.3,
+    "carbs": 0.4,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "extract_flavoring",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Unflavored gelatin",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp (unbloomed)",
+    "cal": 11,
+    "protein": 2.8,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "other",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Dried basil",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 4,
+    "protein": 0.3,
+    "carbs": 0.9,
+    "fat": 0.1,
+    "fiber": 0.5,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Paprika",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 6,
+    "protein": 0.3,
+    "carbs": 1.2,
+    "fat": 0.3,
+    "fiber": 0.4,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Onion powder",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 8,
+    "protein": 0.2,
+    "carbs": 1.9,
+    "fat": 0,
+    "fiber": 0.1,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Garlic powder",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 10,
+    "protein": 0.5,
+    "carbs": 2.3,
+    "fat": 0,
+    "fiber": 0.3,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Vegetable oil",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 120,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 14,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cooking_oil",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Herbes de Provence",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 3,
+    "protein": 0.1,
+    "carbs": 0.7,
+    "fat": 0.1,
+    "fiber": 0.4,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Chipotle pepper in adobo",
+    "serving_qty": 1,
+    "serving_unit": "pepper",
+    "serving_label": "per 1 pepper with sauce",
+    "cal": 15,
+    "protein": 0.5,
+    "carbs": 2,
+    "fat": 0.5,
+    "fiber": 0.8,
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]
