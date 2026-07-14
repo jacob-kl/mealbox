@@ -48,7 +48,7 @@ export default async function WeekPage({ searchParams }) {
 
   const { data: ingredientCatalog } = await supabase
     .from('ingredients')
-    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit')
+    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, sub_group, dietary_tags')
     .order('name');
 
   return (

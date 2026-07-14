@@ -23,7 +23,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0.7
-    }
+    },
+    "sub_group": "baking_flour",
+    "dietary_tags": []
   },
   {
     "name": "Almond butter",
@@ -35,7 +37,9 @@
     "carbs": 7,
     "fat": 18,
     "fiber": 3.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nut_seed_butter",
+    "dietary_tags": []
   },
   {
     "name": "Almonds",
@@ -47,7 +51,9 @@
     "carbs": 6,
     "fat": 14,
     "fiber": 3.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tree_nut",
+    "dietary_tags": []
   },
   {
     "name": "Apple",
@@ -59,7 +65,9 @@
     "carbs": 25,
     "fat": 0,
     "fiber": 4.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pome_stone_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Atlantic salmon (raw)",
@@ -85,7 +93,9 @@
       "folate": 25,
       "phosphorus": 240,
       "selenium": 36.5
-    }
+    },
+    "sub_group": "fatty_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Avocado",
@@ -111,7 +121,9 @@
       "folate": 81,
       "phosphorus": 52,
       "selenium": 0.4
-    }
+    },
+    "sub_group": "avocado",
+    "dietary_tags": []
   },
   {
     "name": "Baby spinach",
@@ -137,7 +149,9 @@
       "folate": 194,
       "phosphorus": 49,
       "selenium": 1
-    }
+    },
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Banana",
@@ -163,7 +177,9 @@
       "folate": 24,
       "phosphorus": 26,
       "selenium": 1.2
-    }
+    },
+    "sub_group": "banana_plantain",
+    "dietary_tags": []
   },
   {
     "name": "Basmati rice (dry)",
@@ -189,7 +205,11 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 1.1
-    }
+    },
+    "sub_group": "rice",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Bell pepper",
@@ -215,7 +235,9 @@
       "folate": 46,
       "phosphorus": 26,
       "selenium": 0.1
-    }
+    },
+    "sub_group": "nightshade_veg",
+    "dietary_tags": []
   },
   {
     "name": "Bettergoods Hatch Chile & Corn Chowder",
@@ -241,7 +263,9 @@
       "folate": 12,
       "phosphorus": 90,
       "selenium": 4
-    }
+    },
+    "sub_group": "prepared_soup",
+    "dietary_tags": []
   },
   {
     "name": "Bettergoods Three Cheese Tomato Bisque",
@@ -267,7 +291,9 @@
       "folate": 15,
       "phosphorus": 110,
       "selenium": 4
-    }
+    },
+    "sub_group": "prepared_soup",
+    "dietary_tags": []
   },
   {
     "name": "Birch Benders pancake mix",
@@ -279,7 +305,9 @@
     "carbs": 30,
     "fat": 2,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pancake_mix",
+    "dietary_tags": []
   },
   {
     "name": "Black beans",
@@ -305,7 +333,9 @@
       "folate": 512,
       "phosphorus": 476,
       "selenium": 3
-    }
+    },
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Broccoli florets",
@@ -331,7 +361,9 @@
       "folate": 63,
       "phosphorus": 66,
       "selenium": 2.5
-    }
+    },
+    "sub_group": "cruciferous",
+    "dietary_tags": []
   },
   {
     "name": "Butter",
@@ -357,7 +389,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0.2,
       "zinc": 0
-    }
+    },
+    "sub_group": "butter_fat",
+    "dietary_tags": []
   },
   {
     "name": "Canned tuna (in water)",
@@ -383,7 +417,9 @@
       "folate": 4,
       "phosphorus": 240,
       "selenium": 76
-    }
+    },
+    "sub_group": "canned_fish",
+    "dietary_tags": []
   },
   {
     "name": "Cannellini beans",
@@ -395,7 +431,9 @@
     "carbs": 17,
     "fat": 0.3,
     "fiber": 5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Cauliflower",
@@ -421,7 +459,9 @@
       "vitamin_c": 48,
       "vitamin_d": 0,
       "zinc": 0.3
-    }
+    },
+    "sub_group": "cruciferous",
+    "dietary_tags": []
   },
   {
     "name": "Cherry tomatoes",
@@ -447,7 +487,9 @@
       "folate": 15,
       "phosphorus": 24,
       "selenium": 0.4
-    }
+    },
+    "sub_group": "nightshade_veg",
+    "dietary_tags": []
   },
   {
     "name": "Chia seeds",
@@ -459,7 +501,9 @@
     "carbs": 5,
     "fat": 4,
     "fiber": 4.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "seed",
+    "dietary_tags": []
   },
   {
     "name": "Chicken breast",
@@ -485,7 +529,9 @@
       "folate": 4,
       "phosphorus": 220,
       "selenium": 27.6
-    }
+    },
+    "sub_group": "poultry_breast_cutlet",
+    "dietary_tags": []
   },
   {
     "name": "Chickpea flour (besan)",
@@ -511,7 +557,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 2.8
-    }
+    },
+    "sub_group": "baking_flour",
+    "dietary_tags": []
   },
   {
     "name": "Corn tortilla (small)",
@@ -537,7 +585,11 @@
       "folate": 2,
       "phosphorus": 66,
       "selenium": 3.1
-    }
+    },
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Cottage cheese 1%",
@@ -563,7 +615,9 @@
       "folate": 7,
       "phosphorus": 152,
       "selenium": 10
-    }
+    },
+    "sub_group": "cottage_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Cottage cheese 2%",
@@ -589,7 +643,9 @@
       "folate": 7,
       "phosphorus": 150,
       "selenium": 10
-    }
+    },
+    "sub_group": "cottage_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Cucumber",
@@ -615,7 +671,9 @@
       "folate": 7,
       "phosphorus": 24,
       "selenium": 0.3
-    }
+    },
+    "sub_group": "cucumber",
+    "dietary_tags": []
   },
   {
     "name": "Daisy sour cream",
@@ -641,7 +699,9 @@
       "folate": 2,
       "phosphorus": 29,
       "selenium": 1
-    }
+    },
+    "sub_group": "sour_cream",
+    "dietary_tags": []
   },
   {
     "name": "Dennison's chunky chili",
@@ -667,7 +727,9 @@
       "folate": 40,
       "phosphorus": 280,
       "selenium": 10
-    }
+    },
+    "sub_group": "prepared_soup",
+    "dietary_tags": []
   },
   {
     "name": "Diced tomatoes",
@@ -679,7 +741,9 @@
     "carbs": 9,
     "fat": 0,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nightshade_veg",
+    "dietary_tags": []
   },
   {
     "name": "Diced tomatoes (canned)",
@@ -691,7 +755,9 @@
     "carbs": 4,
     "fat": 0.2,
     "fiber": 1.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nightshade_veg",
+    "dietary_tags": []
   },
   {
     "name": "Dry green lentils",
@@ -717,7 +783,9 @@
       "folate": 479,
       "phosphorus": 281,
       "selenium": 0.6
-    }
+    },
+    "sub_group": "lentil_split_pea",
+    "dietary_tags": []
   },
   {
     "name": "Eggplant",
@@ -729,7 +797,9 @@
     "carbs": 6,
     "fat": 0,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nightshade_veg",
+    "dietary_tags": []
   },
   {
     "name": "Eggs (large)",
@@ -755,7 +825,9 @@
       "folate": 24,
       "phosphorus": 99,
       "selenium": 15.4
-    }
+    },
+    "sub_group": "egg",
+    "dietary_tags": []
   },
   {
     "name": "English cucumber",
@@ -781,7 +853,9 @@
       "folate": 7,
       "phosphorus": 24,
       "selenium": 0.3
-    }
+    },
+    "sub_group": "cucumber",
+    "dietary_tags": []
   },
   {
     "name": "Farro (dry)",
@@ -793,7 +867,9 @@
     "carbs": 68,
     "fat": 2,
     "fiber": 8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Feta cheese (reduced fat)",
@@ -805,7 +881,9 @@
     "carbs": 1,
     "fat": 4,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Flank/sirloin steak",
@@ -831,7 +909,9 @@
       "folate": 6,
       "phosphorus": 185,
       "selenium": 22
-    }
+    },
+    "sub_group": "red_meat_roast_steak",
+    "dietary_tags": []
   },
   {
     "name": "Frozen cod",
@@ -857,7 +937,9 @@
       "folate": 7,
       "phosphorus": 203,
       "selenium": 33.1
-    }
+    },
+    "sub_group": "white_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Frozen edamame",
@@ -883,7 +965,9 @@
       "folate": 482,
       "phosphorus": 262,
       "selenium": 2.5
-    }
+    },
+    "sub_group": "edamame",
+    "dietary_tags": []
   },
   {
     "name": "Frozen edamame (shelled)",
@@ -909,7 +993,9 @@
       "folate": 482,
       "phosphorus": 262,
       "selenium": 2.5
-    }
+    },
+    "sub_group": "edamame",
+    "dietary_tags": []
   },
   {
     "name": "Frozen fruit (mixed)",
@@ -935,7 +1021,9 @@
       "folate": 8,
       "phosphorus": 15,
       "selenium": 0.2
-    }
+    },
+    "sub_group": "frozen_fruit_mix",
+    "dietary_tags": []
   },
   {
     "name": "Frozen mixed berries",
@@ -961,7 +1049,9 @@
       "folate": 22,
       "phosphorus": 26,
       "selenium": 0.4
-    }
+    },
+    "sub_group": "berry_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Frozen peas",
@@ -987,7 +1077,9 @@
       "vitamin_c": 15,
       "vitamin_d": 0,
       "zinc": 0.6
-    }
+    },
+    "sub_group": "pod_veg",
+    "dietary_tags": []
   },
   {
     "name": "Frozen shrimp",
@@ -1013,7 +1105,9 @@
       "folate": 19,
       "phosphorus": 244,
       "selenium": 38
-    }
+    },
+    "sub_group": "shellfish",
+    "dietary_tags": []
   },
   {
     "name": "Frozen veggies (mixed)",
@@ -1039,7 +1133,9 @@
       "folate": 20,
       "phosphorus": 40,
       "selenium": 0.5
-    }
+    },
+    "sub_group": "frozen_mixed_veg",
+    "dietary_tags": []
   },
   {
     "name": "Garbanzo beans",
@@ -1065,7 +1161,9 @@
       "folate": 642,
       "phosphorus": 556,
       "selenium": 11
-    }
+    },
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Garlic",
@@ -1077,7 +1175,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "allium",
+    "dietary_tags": []
   },
   {
     "name": "Garofalo organic pasta",
@@ -1103,7 +1203,9 @@
       "folate": 7,
       "phosphorus": 189,
       "selenium": 63.2
-    }
+    },
+    "sub_group": "pasta_noodle",
+    "dietary_tags": []
   },
   {
     "name": "Greek yogurt (plain nonfat)",
@@ -1129,7 +1231,9 @@
       "folate": 14,
       "phosphorus": 215,
       "selenium": 9.7
-    }
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": []
   },
   {
     "name": "Ground flaxseed",
@@ -1141,7 +1245,9 @@
     "carbs": 3,
     "fat": 4,
     "fiber": 2.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "seed",
+    "dietary_tags": []
   },
   {
     "name": "Ground turkey 85/15",
@@ -1167,7 +1273,9 @@
       "folate": 8,
       "phosphorus": 196,
       "selenium": 20.6
-    }
+    },
+    "sub_group": "poultry_thigh_ground",
+    "dietary_tags": []
   },
   {
     "name": "Ground turkey 93/7",
@@ -1193,7 +1301,9 @@
       "folate": 8,
       "phosphorus": 196,
       "selenium": 20.6
-    }
+    },
+    "sub_group": "poultry_thigh_ground",
+    "dietary_tags": []
   },
   {
     "name": "Hatch diced green chiles",
@@ -1205,7 +1315,9 @@
     "carbs": 3,
     "fat": 0,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "canned_chile",
+    "dietary_tags": []
   },
   {
     "name": "Homemade garlic naan",
@@ -1231,7 +1343,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0
-    }
+    },
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": []
   },
   {
     "name": "Hummus",
@@ -1243,7 +1357,9 @@
     "carbs": 9,
     "fat": 6,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dip_spread",
+    "dietary_tags": []
   },
   {
     "name": "Italian dressing (light)",
@@ -1269,7 +1385,9 @@
       "folate": 0,
       "phosphorus": 5,
       "selenium": 0.1
-    }
+    },
+    "sub_group": "dressing_vinaigrette",
+    "dietary_tags": []
   },
   {
     "name": "Jake's Multivitamin",
@@ -1295,7 +1413,9 @@
       "sodium": 0,
       "potassium": 0,
       "phosphorus": 0
-    }
+    },
+    "sub_group": "supplement",
+    "dietary_tags": []
   },
   {
     "name": "Kalamata olives",
@@ -1307,7 +1427,9 @@
     "carbs": 2,
     "fat": 3,
     "fiber": 0.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pickled_briny",
+    "dietary_tags": []
   },
   {
     "name": "Kefir (plain lowfat)",
@@ -1333,7 +1455,9 @@
       "folate": 14,
       "phosphorus": 272,
       "selenium": 7.6
-    }
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": []
   },
   {
     "name": "Laine's Multivitamin",
@@ -1359,7 +1483,9 @@
       "sodium": 0,
       "potassium": 0,
       "phosphorus": 0
-    }
+    },
+    "sub_group": "supplement",
+    "dietary_tags": []
   },
   {
     "name": "Lemon juice",
@@ -1371,7 +1497,9 @@
     "carbs": 2,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "citrus_juice",
+    "dietary_tags": []
   },
   {
     "name": "Lentils (dry green)",
@@ -1397,7 +1525,9 @@
       "folate": 479,
       "phosphorus": 281,
       "selenium": 0.6
-    }
+    },
+    "sub_group": "lentil_split_pea",
+    "dietary_tags": []
   },
   {
     "name": "Light coconut milk (canned)",
@@ -1423,7 +1553,12 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0.3
-    }
+    },
+    "sub_group": "milk",
+    "dietary_tags": [
+      "dairy-free",
+      "vegan"
+    ]
   },
   {
     "name": "Liquid egg whites",
@@ -1449,7 +1584,9 @@
       "folate": 8,
       "phosphorus": 14,
       "selenium": 15
-    }
+    },
+    "sub_group": "egg",
+    "dietary_tags": []
   },
   {
     "name": "Mixed berries (frozen)",
@@ -1461,7 +1598,9 @@
     "carbs": 17,
     "fat": 0,
     "fiber": 4.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "berry_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Oikos Triple Zero yogurt",
@@ -1487,7 +1626,9 @@
       "folate": 10,
       "phosphorus": 190,
       "selenium": 8
-    }
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": []
   },
   {
     "name": "Olive oil",
@@ -1513,7 +1654,9 @@
       "folate": 0,
       "phosphorus": 0,
       "selenium": 0
-    }
+    },
+    "sub_group": "cooking_oil",
+    "dietary_tags": []
   },
   {
     "name": "One A Day Men's Multi",
@@ -1540,7 +1683,9 @@
       "potassium": 0,
       "sodium": 0,
       "phosphorus": 0
-    }
+    },
+    "sub_group": "supplement",
+    "dietary_tags": []
   },
   {
     "name": "One A Day Women's Multi",
@@ -1566,7 +1711,9 @@
       "potassium": 0,
       "sodium": 0,
       "phosphorus": 0
-    }
+    },
+    "sub_group": "supplement",
+    "dietary_tags": []
   },
   {
     "name": "Open Nature protein granola",
@@ -1578,7 +1725,9 @@
     "carbs": 17,
     "fat": 5,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "granola",
+    "dietary_tags": []
   },
   {
     "name": "Orange",
@@ -1590,7 +1739,9 @@
     "carbs": 15,
     "fat": 0,
     "fiber": 3.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "citrus_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Paneer",
@@ -1616,7 +1767,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 1.5
-    }
+    },
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Pinto beans",
@@ -1642,7 +1795,9 @@
       "folate": 476,
       "phosphorus": 420,
       "selenium": 2.5
-    }
+    },
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Pork shoulder (pulled)",
@@ -1654,7 +1809,9 @@
     "carbs": 0,
     "fat": 15,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "red_meat_roast_steak",
+    "dietary_tags": []
   },
   {
     "name": "Pork tenderloin",
@@ -1680,7 +1837,9 @@
       "folate": 0,
       "phosphorus": 230,
       "selenium": 32.5
-    }
+    },
+    "sub_group": "red_meat_roast_steak",
+    "dietary_tags": []
   },
   {
     "name": "Prego creamy parmesan pesto",
@@ -1692,7 +1851,9 @@
     "carbs": 1,
     "fat": 4,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "creamy_pasta_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Progresso garlic herb bread crumbs",
@@ -1704,7 +1865,9 @@
     "carbs": 5,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "breading_coating",
+    "dietary_tags": []
   },
   {
     "name": "Quinoa (dry)",
@@ -1730,7 +1893,11 @@
       "folate": 184,
       "phosphorus": 457,
       "selenium": 8.5
-    }
+    },
+    "sub_group": "other_grain",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Roasted chickpeas (snack)",
@@ -1756,7 +1923,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0.8
-    }
+    },
+    "sub_group": "snack_cracker",
+    "dietary_tags": []
   },
   {
     "name": "Roasted onion & garlic pasta sauce",
@@ -1782,7 +1951,9 @@
       "folate": 10,
       "phosphorus": 45,
       "selenium": 0.5
-    }
+    },
+    "sub_group": "tomato_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Sardines (canned in olive oil)",
@@ -1808,7 +1979,9 @@
       "folate": 10,
       "phosphorus": 490,
       "selenium": 52.7
-    }
+    },
+    "sub_group": "canned_fish",
+    "dietary_tags": []
   },
   {
     "name": "Shredded cheese (4-blend)",
@@ -1834,7 +2007,9 @@
       "folate": 2,
       "phosphorus": 65,
       "selenium": 1.5
-    }
+    },
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Signature Select Alfredo sauce",
@@ -1846,7 +2021,9 @@
     "carbs": 3,
     "fat": 7,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "creamy_pasta_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Signature Select pasta sauce",
@@ -1872,7 +2049,9 @@
       "folate": 10,
       "phosphorus": 45,
       "selenium": 0.5
-    }
+    },
+    "sub_group": "tomato_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Spices (cumin/paprika/garlic powder/salt)",
@@ -1884,7 +2063,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Spices (garam masala/turmeric/cumin/coriander)",
@@ -1896,7 +2077,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Spices (oregano/thyme/cumin/paprika/salt)",
@@ -1908,7 +2091,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Sugar (white)",
@@ -1934,7 +2119,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0
-    }
+    },
+    "sub_group": "sweetener_dry",
+    "dietary_tags": []
   },
   {
     "name": "Sweet potato",
@@ -1960,7 +2147,9 @@
       "folate": 11,
       "phosphorus": 54,
       "selenium": 0.6
-    }
+    },
+    "sub_group": "starchy_root",
+    "dietary_tags": []
   },
   {
     "name": "Tikka masala simmer sauce",
@@ -1986,7 +2175,9 @@
       "vitamin_c": 6,
       "vitamin_d": 0,
       "zinc": 0
-    }
+    },
+    "sub_group": "simmer_curry_sauce",
+    "dietary_tags": []
   },
   {
     "name": "TJ's Mandarin Orange Chicken",
@@ -1998,7 +2189,9 @@
     "carbs": 22,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "simmer_curry_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Walnuts",
@@ -2024,7 +2217,9 @@
       "folate": 28,
       "phosphorus": 98,
       "selenium": 1.4
-    }
+    },
+    "sub_group": "tree_nut",
+    "dietary_tags": []
   },
   {
     "name": "White rice (dry)",
@@ -2050,7 +2245,11 @@
       "folate": 8,
       "phosphorus": 108,
       "selenium": 15.1
-    }
+    },
+    "sub_group": "rice",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Whole grain bread",
@@ -2062,7 +2261,9 @@
     "carbs": 19,
     "fat": 2,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bread_bun",
+    "dietary_tags": []
   },
   {
     "name": "Whole milk",
@@ -2088,7 +2289,9 @@
       "folate": 12,
       "phosphorus": 205,
       "selenium": 4.8
-    }
+    },
+    "sub_group": "milk",
+    "dietary_tags": []
   },
   {
     "name": "Whole wheat naan",
@@ -2114,7 +2317,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 1.0
-    }
+    },
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": []
   },
   {
     "name": "Whole wheat pita",
@@ -2126,7 +2331,9 @@
     "carbs": 33,
     "fat": 2,
     "fiber": 4.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": []
   },
   {
     "name": "Yellow onion",
@@ -2152,7 +2359,9 @@
       "vitamin_c": 6,
       "vitamin_d": 0,
       "zinc": 0.2
-    }
+    },
+    "sub_group": "allium",
+    "dietary_tags": []
   },
   {
     "name": "Zucchini",
@@ -2164,7 +2373,9 @@
     "carbs": 3,
     "fat": 0,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "squash",
+    "dietary_tags": []
   },
   {
     "name": "Romaine lettuce",
@@ -2190,7 +2401,9 @@
       "vitamin_c": 4,
       "vitamin_d": 0,
       "zinc": 0.2
-    }
+    },
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Parmesan cheese (grated)",
@@ -2216,7 +2429,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0.14
-    }
+    },
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Anchovy paste",
@@ -2242,7 +2457,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0.1,
       "zinc": 0.1
-    }
+    },
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Dijon mustard",
@@ -2268,7 +2485,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0.03
-    }
+    },
+    "sub_group": "mustard_condiment",
+    "dietary_tags": []
   },
   {
     "name": "Worcestershire sauce",
@@ -2294,7 +2513,9 @@
       "vitamin_c": 0,
       "vitamin_d": 0,
       "zinc": 0
-    }
+    },
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Brown rice (dry)",
@@ -2306,7 +2527,11 @@
     "carbs": 77,
     "fat": 2.7,
     "fiber": 3.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "rice",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Soy sauce",
@@ -2320,7 +2545,9 @@
     "fiber": 0,
     "micros": {
       "sodium": 902
-    }
+    },
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Sesame oil",
@@ -2332,7 +2559,9 @@
     "carbs": 0,
     "fat": 4.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cooking_oil",
+    "dietary_tags": []
   },
   {
     "name": "Fresh ginger",
@@ -2344,7 +2573,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "aromatic_root",
+    "dietary_tags": []
   },
   {
     "name": "Cilantro",
@@ -2356,7 +2587,9 @@
     "carbs": 0.1,
     "fat": 0,
     "fiber": 0.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": []
   },
   {
     "name": "Lime juice",
@@ -2368,7 +2601,9 @@
     "carbs": 1.4,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "citrus_juice",
+    "dietary_tags": []
   },
   {
     "name": "Salsa",
@@ -2380,7 +2615,9 @@
     "carbs": 2,
     "fat": 0,
     "fiber": 0.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tomato_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Cheddar cheese (shredded)",
@@ -2392,7 +2629,9 @@
     "carbs": 1,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Peanut butter",
@@ -2404,7 +2643,9 @@
     "carbs": 8,
     "fat": 16,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nut_seed_butter",
+    "dietary_tags": []
   },
   {
     "name": "Rice noodles (dry)",
@@ -2416,7 +2657,11 @@
     "carbs": 80,
     "fat": 1,
     "fiber": 1.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pasta_noodle",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Tofu (firm)",
@@ -2428,7 +2673,13 @@
     "carbs": 3,
     "fat": 9,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "plant_protein_meat_sub",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
   },
   {
     "name": "Carrot",
@@ -2440,7 +2691,9 @@
     "carbs": 10,
     "fat": 0.2,
     "fiber": 2.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "root_veg",
+    "dietary_tags": []
   },
   {
     "name": "Snap peas",
@@ -2452,7 +2705,9 @@
     "carbs": 7.6,
     "fat": 0.2,
     "fiber": 2.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pod_veg",
+    "dietary_tags": []
   },
   {
     "name": "Honey",
@@ -2464,7 +2719,9 @@
     "carbs": 17,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "sweetener_liquid",
+    "dietary_tags": []
   },
   {
     "name": "Rice vinegar",
@@ -2476,7 +2733,9 @@
     "carbs": 0,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "vinegar",
+    "dietary_tags": []
   },
   {
     "name": "Curry powder",
@@ -2488,7 +2747,9 @@
     "carbs": 1,
     "fat": 0.3,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Whole wheat tortilla (large)",
@@ -2500,7 +2761,9 @@
     "carbs": 22,
     "fat": 3.5,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": []
   },
   {
     "name": "Ground beef 90/10",
@@ -2512,7 +2775,9 @@
     "carbs": 0,
     "fat": 10,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "ground_red_meat",
+    "dietary_tags": []
   },
   {
     "name": "Mozzarella cheese (part-skim)",
@@ -2524,7 +2789,9 @@
     "carbs": 0.8,
     "fat": 4.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Whole wheat spaghetti (dry)",
@@ -2536,7 +2803,9 @@
     "carbs": 72,
     "fat": 2.5,
     "fiber": 9.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pasta_noodle",
+    "dietary_tags": []
   },
   {
     "name": "Red bell pepper",
@@ -2548,7 +2817,9 @@
     "carbs": 6,
     "fat": 0.3,
     "fiber": 2.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nightshade_veg",
+    "dietary_tags": []
   },
   {
     "name": "Frozen mango chunks",
@@ -2560,7 +2831,9 @@
     "carbs": 15,
     "fat": 0.4,
     "fiber": 1.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Fresh dill",
@@ -2572,7 +2845,9 @@
     "carbs": 0.1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": []
   },
   {
     "name": "Garlic clove",
@@ -2584,7 +2859,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "allium",
+    "dietary_tags": []
   },
   {
     "name": "Sriracha",
@@ -2596,7 +2873,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Red wine vinegar",
@@ -2608,7 +2887,9 @@
     "carbs": 0,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "vinegar",
+    "dietary_tags": []
   },
   {
     "name": "Fresh parsley",
@@ -2620,7 +2901,9 @@
     "carbs": 0.9,
     "fat": 0.1,
     "fiber": 0.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": []
   },
   {
     "name": "Tahini",
@@ -2632,7 +2915,9 @@
     "carbs": 3.2,
     "fat": 8,
     "fiber": 1.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nut_seed_butter",
+    "dietary_tags": []
   },
   {
     "name": "Red onion",
@@ -2644,7 +2929,9 @@
     "carbs": 9.3,
     "fat": 0.1,
     "fiber": 1.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "allium",
+    "dietary_tags": []
   },
   {
     "name": "Dried oregano",
@@ -2656,7 +2943,9 @@
     "carbs": 0.7,
     "fat": 0.1,
     "fiber": 0.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Ground cumin",
@@ -2668,7 +2957,9 @@
     "carbs": 0.9,
     "fat": 0.5,
     "fiber": 0.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Whey protein powder (vanilla)",
@@ -2680,7 +2971,9 @@
     "carbs": 3,
     "fat": 1.5,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "protein_powder",
+    "dietary_tags": []
   },
   {
     "name": "Milk (2%)",
@@ -2692,7 +2985,9 @@
     "carbs": 12,
     "fat": 4.8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "milk",
+    "dietary_tags": []
   },
   {
     "name": "Granola",
@@ -2704,7 +2999,9 @@
     "carbs": 19,
     "fat": 5,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "granola",
+    "dietary_tags": []
   },
   {
     "name": "Deli turkey breast (sliced)",
@@ -2716,7 +3013,9 @@
     "carbs": 1,
     "fat": 1,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cured_processed_meat",
+    "dietary_tags": []
   },
   {
     "name": "Whole grain crackers",
@@ -2728,7 +3027,9 @@
     "carbs": 21,
     "fat": 4,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "snack_cracker",
+    "dietary_tags": []
   },
   {
     "name": "Pineapple chunks",
@@ -2740,7 +3041,9 @@
     "carbs": 21.6,
     "fat": 0.2,
     "fiber": 2.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Celery",
@@ -2752,7 +3055,9 @@
     "carbs": 3,
     "fat": 0.2,
     "fiber": 1.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pod_veg",
+    "dietary_tags": []
   },
   {
     "name": "Rolled oats (dry)",
@@ -2764,7 +3069,9 @@
     "carbs": 27,
     "fat": 3,
     "fiber": 4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Mini chocolate chips",
@@ -2776,7 +3083,9 @@
     "carbs": 9,
     "fat": 4,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "chocolate",
+    "dietary_tags": []
   },
   {
     "name": "Unsweetened cocoa powder",
@@ -2788,7 +3097,9 @@
     "carbs": 3,
     "fat": 0.7,
     "fiber": 1.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "chocolate",
+    "dietary_tags": []
   },
   {
     "name": "Ground cinnamon",
@@ -2800,7 +3111,9 @@
     "carbs": 2,
     "fat": 0,
     "fiber": 1.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Dark chocolate chips",
@@ -2812,7 +3125,9 @@
     "carbs": 17,
     "fat": 9,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "chocolate",
+    "dietary_tags": []
   },
   {
     "name": "Fresh basil",
@@ -2824,7 +3139,9 @@
     "carbs": 0.3,
     "fat": 0,
     "fiber": 0.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": []
   },
   {
     "name": "Balsamic vinegar",
@@ -2836,7 +3153,9 @@
     "carbs": 3,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "vinegar",
+    "dietary_tags": []
   },
   {
     "name": "Thai curry paste",
@@ -2848,7 +3167,9 @@
     "carbs": 2,
     "fat": 0.5,
     "fiber": 0.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "simmer_curry_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Fish sauce",
@@ -2860,7 +3181,9 @@
     "carbs": 0.7,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Brown sugar",
@@ -2872,7 +3195,9 @@
     "carbs": 13.4,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "sweetener_dry",
+    "dietary_tags": []
   },
   {
     "name": "Oyster sauce",
@@ -2884,7 +3209,9 @@
     "carbs": 2,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Hoisin sauce",
@@ -2896,7 +3223,9 @@
     "carbs": 7,
     "fat": 0.5,
     "fiber": 0.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Five spice powder",
@@ -2908,7 +3237,9 @@
     "carbs": 1.4,
     "fat": 0.2,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Bok choy",
@@ -2920,7 +3251,9 @@
     "carbs": 2.2,
     "fat": 0.2,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Water chestnuts (canned)",
@@ -2932,7 +3265,9 @@
     "carbs": 24,
     "fat": 0.1,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "asian_crunch_veg",
+    "dietary_tags": []
   },
   {
     "name": "Cornstarch",
@@ -2944,7 +3279,9 @@
     "carbs": 7,
     "fat": 0,
     "fiber": 0.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "thickener_starch",
+    "dietary_tags": []
   },
   {
     "name": "Scallions",
@@ -2956,7 +3293,9 @@
     "carbs": 1.9,
     "fat": 0.1,
     "fiber": 0.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "allium",
+    "dietary_tags": []
   },
   {
     "name": "Gochujang",
@@ -2968,7 +3307,9 @@
     "carbs": 6,
     "fat": 0.5,
     "fiber": 0.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Sesame seeds",
@@ -2980,7 +3321,9 @@
     "carbs": 2.1,
     "fat": 4.5,
     "fiber": 1.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "seed",
+    "dietary_tags": []
   },
   {
     "name": "Kimchi",
@@ -2992,7 +3335,9 @@
     "carbs": 2.4,
     "fat": 0.3,
     "fiber": 1.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pickled_briny",
+    "dietary_tags": []
   },
   {
     "name": "Gochugaru",
@@ -3004,7 +3349,9 @@
     "carbs": 1.2,
     "fat": 0.3,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Mirin",
@@ -3016,7 +3363,9 @@
     "carbs": 8,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Rice paper wrappers",
@@ -3028,7 +3377,11 @@
     "carbs": 15,
     "fat": 0.1,
     "fiber": 0.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Fresh mint",
@@ -3040,7 +3393,9 @@
     "carbs": 0.5,
     "fat": 0,
     "fiber": 0.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "fresh_herb",
+    "dietary_tags": []
   },
   {
     "name": "Bean sprouts",
@@ -3052,7 +3407,9 @@
     "carbs": 6,
     "fat": 0.2,
     "fiber": 1.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "asian_crunch_veg",
+    "dietary_tags": []
   },
   {
     "name": "Vermicelli rice noodles (dry)",
@@ -3064,7 +3421,11 @@
     "carbs": 80,
     "fat": 0.6,
     "fiber": 1.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pasta_noodle",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Sumac",
@@ -3076,7 +3437,9 @@
     "carbs": 1.4,
     "fat": 0.2,
     "fiber": 0.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Za'atar",
@@ -3088,7 +3451,9 @@
     "carbs": 1,
     "fat": 0.3,
     "fiber": 0.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Ground lamb",
@@ -3100,7 +3465,9 @@
     "carbs": 0,
     "fat": 23,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "ground_red_meat",
+    "dietary_tags": []
   },
   {
     "name": "Pomegranate seeds",
@@ -3112,7 +3479,9 @@
     "carbs": 8.2,
     "fat": 0.5,
     "fiber": 1.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Shallot",
@@ -3124,7 +3493,9 @@
     "carbs": 4.2,
     "fat": 0,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "allium",
+    "dietary_tags": []
   },
   {
     "name": "Dry white wine (cooking)",
@@ -3136,7 +3507,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cooking_wine",
+    "dietary_tags": []
   },
   {
     "name": "Gruyere cheese",
@@ -3148,7 +3521,9 @@
     "carbs": 0.1,
     "fat": 9.2,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Chorizo (fully cooked)",
@@ -3160,7 +3535,9 @@
     "carbs": 1,
     "fat": 14,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cured_processed_meat",
+    "dietary_tags": []
   },
   {
     "name": "Smoked paprika",
@@ -3172,7 +3549,9 @@
     "carbs": 1.2,
     "fat": 0.3,
     "fiber": 0.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Manchego cheese",
@@ -3184,7 +3563,9 @@
     "carbs": 0.2,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Green olives",
@@ -3196,7 +3577,9 @@
     "carbs": 1,
     "fat": 4,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pickled_briny",
+    "dietary_tags": []
   },
   {
     "name": "Saffron threads",
@@ -3208,7 +3591,9 @@
     "carbs": 0.2,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Jerk seasoning",
@@ -3220,7 +3605,9 @@
     "carbs": 3,
     "fat": 0.3,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "Plantain",
@@ -3232,7 +3619,9 @@
     "carbs": 32,
     "fat": 0.4,
     "fiber": 2.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "banana_plantain",
+    "dietary_tags": []
   },
   {
     "name": "Allspice",
@@ -3244,7 +3633,9 @@
     "carbs": 1.4,
     "fat": 0.2,
     "fiber": 0.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": []
   },
   {
     "name": "BBQ sauce",
@@ -3256,7 +3647,9 @@
     "carbs": 15,
     "fat": 0.2,
     "fiber": 0.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tomato_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Cornbread mix (dry)",
@@ -3268,7 +3661,9 @@
     "carbs": 27,
     "fat": 3,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cornbread_mix",
+    "dietary_tags": []
   },
   {
     "name": "Collard greens",
@@ -3280,7 +3675,9 @@
     "carbs": 5.4,
     "fat": 0.6,
     "fiber": 4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Buttermilk",
@@ -3292,7 +3689,9 @@
     "carbs": 6,
     "fat": 1,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "milk",
+    "dietary_tags": []
   },
   {
     "name": "Catfish fillet (raw)",
@@ -3304,7 +3703,9 @@
     "carbs": 0,
     "fat": 3,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "white_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Pork shoulder (raw)",
@@ -3316,7 +3717,9 @@
     "carbs": 0,
     "fat": 20,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "red_meat_roast_steak",
+    "dietary_tags": []
   },
   {
     "name": "Slaw mix (bagged)",
@@ -3328,7 +3731,9 @@
     "carbs": 4.5,
     "fat": 0.1,
     "fiber": 1.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "asian_crunch_veg",
+    "dietary_tags": []
   },
   {
     "name": "Hamburger bun (whole wheat)",
@@ -3340,7 +3745,9 @@
     "carbs": 21,
     "fat": 2,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bread_bun",
+    "dietary_tags": []
   },
   {
     "name": "Couscous (dry)",
@@ -3352,7 +3759,9 @@
     "carbs": 77,
     "fat": 0.6,
     "fiber": 5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Ketchup",
@@ -3364,7 +3773,9 @@
     "carbs": 4,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tomato_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Beef broth",
@@ -3376,7 +3787,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "broth_stock",
+    "dietary_tags": []
   },
   {
     "name": "Refrigerated pie crust",
@@ -3388,7 +3801,9 @@
     "carbs": 11,
     "fat": 7,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pie_crust",
+    "dietary_tags": []
   },
   {
     "name": "Elbow macaroni (dry)",
@@ -3400,7 +3815,9 @@
     "carbs": 75,
     "fat": 1.5,
     "fiber": 3.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pasta_noodle",
+    "dietary_tags": []
   },
   {
     "name": "Yukon gold potato",
@@ -3412,7 +3829,9 @@
     "carbs": 17,
     "fat": 0.1,
     "fiber": 2.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "starchy_root",
+    "dietary_tags": []
   },
   {
     "name": "Miso paste",
@@ -3424,7 +3843,9 @@
     "carbs": 4,
     "fat": 1,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "miso_paste",
+    "dietary_tags": []
   },
   {
     "name": "Ramen noodles (fresh)",
@@ -3436,7 +3857,9 @@
     "carbs": 55,
     "fat": 2,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pasta_noodle",
+    "dietary_tags": []
   },
   {
     "name": "Nori sheets",
@@ -3448,7 +3871,9 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nori_wrap",
+    "dietary_tags": []
   },
   {
     "name": "Sweetened condensed milk",
@@ -3460,7 +3885,9 @@
     "carbs": 21,
     "fat": 3,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "condensed_evap_milk",
+    "dietary_tags": []
   },
   {
     "name": "Evaporated milk",
@@ -3472,7 +3899,9 @@
     "carbs": 3,
     "fat": 2,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "condensed_evap_milk",
+    "dietary_tags": []
   },
   {
     "name": "Granulated sugar",
@@ -3484,7 +3913,9 @@
     "carbs": 12.6,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "sweetener_dry",
+    "dietary_tags": []
   },
   {
     "name": "Vanilla extract",
@@ -3496,7 +3927,9 @@
     "carbs": 0.5,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "extract_flavoring",
+    "dietary_tags": []
   },
   {
     "name": "Swiss cheese",
@@ -3508,7 +3941,9 @@
     "carbs": 1.5,
     "fat": 7.8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Provolone cheese",
@@ -3520,7 +3955,9 @@
     "carbs": 0.6,
     "fat": 7.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Brie cheese",
@@ -3532,7 +3969,9 @@
     "carbs": 0.1,
     "fat": 7.8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Blue cheese",
@@ -3544,7 +3983,9 @@
     "carbs": 0.7,
     "fat": 8.1,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Goat cheese",
@@ -3556,7 +3997,9 @@
     "carbs": 0.3,
     "fat": 6,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Ricotta cheese (part-skim)",
@@ -3568,7 +4011,9 @@
     "carbs": 3.2,
     "fat": 4.9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Cream cheese",
@@ -3580,7 +4025,9 @@
     "carbs": 1.7,
     "fat": 9.8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cream_cheese_spread",
+    "dietary_tags": []
   },
   {
     "name": "Cream cheese (reduced fat)",
@@ -3592,7 +4039,9 @@
     "carbs": 2.5,
     "fat": 6,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cream_cheese_spread",
+    "dietary_tags": []
   },
   {
     "name": "String cheese",
@@ -3604,7 +4053,9 @@
     "carbs": 1,
     "fat": 6,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Mozzarella cheese (whole milk)",
@@ -3616,7 +4067,9 @@
     "carbs": 0.6,
     "fat": 6.3,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Mozzarella cheese (nonfat)",
@@ -3628,7 +4081,9 @@
     "carbs": 1,
     "fat": 0.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Cheddar cheese (reduced fat)",
@@ -3640,7 +4095,9 @@
     "carbs": 1,
     "fat": 5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Colby jack cheese",
@@ -3652,7 +4109,9 @@
     "carbs": 0.5,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Pepper jack cheese",
@@ -3664,7 +4123,9 @@
     "carbs": 0.5,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Muenster cheese",
@@ -3676,7 +4137,9 @@
     "carbs": 0.3,
     "fat": 8.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Halloumi cheese",
@@ -3688,7 +4151,9 @@
     "carbs": 1,
     "fat": 8.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Queso fresco",
@@ -3700,7 +4165,9 @@
     "carbs": 1,
     "fat": 6.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soft_fresh_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Cottage cheese (nonfat)",
@@ -3712,7 +4179,9 @@
     "carbs": 6,
     "fat": 0.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cottage_cheese",
+    "dietary_tags": []
   },
   {
     "name": "American cheese",
@@ -3724,7 +4193,9 @@
     "carbs": 2,
     "fat": 5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hard_cheese",
+    "dietary_tags": []
   },
   {
     "name": "Ranch dressing",
@@ -3736,7 +4207,9 @@
     "carbs": 2,
     "fat": 14,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_creamy",
+    "dietary_tags": []
   },
   {
     "name": "Ranch dressing (light)",
@@ -3748,7 +4221,9 @@
     "carbs": 4,
     "fat": 5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_creamy",
+    "dietary_tags": []
   },
   {
     "name": "Italian dressing",
@@ -3760,7 +4235,9 @@
     "carbs": 3,
     "fat": 8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_vinaigrette",
+    "dietary_tags": []
   },
   {
     "name": "Balsamic vinaigrette",
@@ -3772,7 +4249,9 @@
     "carbs": 4,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_vinaigrette",
+    "dietary_tags": []
   },
   {
     "name": "Balsamic vinaigrette (light)",
@@ -3784,7 +4263,9 @@
     "carbs": 5,
     "fat": 3,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_vinaigrette",
+    "dietary_tags": []
   },
   {
     "name": "Caesar dressing (bottled)",
@@ -3796,7 +4277,9 @@
     "carbs": 1,
     "fat": 16,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_creamy",
+    "dietary_tags": []
   },
   {
     "name": "Caesar dressing (light)",
@@ -3808,7 +4291,9 @@
     "carbs": 3,
     "fat": 4,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_creamy",
+    "dietary_tags": []
   },
   {
     "name": "Honey mustard dressing",
@@ -3820,7 +4305,9 @@
     "carbs": 10,
     "fat": 8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_vinaigrette",
+    "dietary_tags": []
   },
   {
     "name": "Blue cheese dressing",
@@ -3832,7 +4319,9 @@
     "carbs": 2,
     "fat": 15,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_creamy",
+    "dietary_tags": []
   },
   {
     "name": "Greek vinaigrette",
@@ -3844,7 +4333,9 @@
     "carbs": 2,
     "fat": 9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_vinaigrette",
+    "dietary_tags": []
   },
   {
     "name": "Thousand island dressing",
@@ -3856,7 +4347,9 @@
     "carbs": 5,
     "fat": 11,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dressing_creamy",
+    "dietary_tags": []
   },
   {
     "name": "Tilapia (raw)",
@@ -3868,7 +4361,9 @@
     "carbs": 0,
     "fat": 1.7,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "white_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Halibut (raw)",
@@ -3880,7 +4375,9 @@
     "carbs": 0,
     "fat": 2.3,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "white_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Mahi mahi (raw)",
@@ -3892,7 +4389,9 @@
     "carbs": 0,
     "fat": 0.7,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "white_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Tuna steak (raw)",
@@ -3904,7 +4403,9 @@
     "carbs": 0,
     "fat": 1.3,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "fatty_fish_fillet",
+    "dietary_tags": []
   },
   {
     "name": "Scallops (raw)",
@@ -3916,7 +4417,9 @@
     "carbs": 2.4,
     "fat": 0.8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "shellfish",
+    "dietary_tags": []
   },
   {
     "name": "Mussels (raw)",
@@ -3928,7 +4431,9 @@
     "carbs": 3.7,
     "fat": 2.2,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "shellfish",
+    "dietary_tags": []
   },
   {
     "name": "Crab meat",
@@ -3940,7 +4445,9 @@
     "carbs": 0,
     "fat": 1.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "shellfish",
+    "dietary_tags": []
   },
   {
     "name": "Lobster meat",
@@ -3952,7 +4459,9 @@
     "carbs": 0.5,
     "fat": 0.9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "shellfish",
+    "dietary_tags": []
   },
   {
     "name": "Turkey breast (raw)",
@@ -3964,7 +4473,9 @@
     "carbs": 0,
     "fat": 1.4,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "poultry_breast_cutlet",
+    "dietary_tags": []
   },
   {
     "name": "Chicken thigh (raw)",
@@ -3976,7 +4487,9 @@
     "carbs": 0,
     "fat": 6.9,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "poultry_thigh_ground",
+    "dietary_tags": []
   },
   {
     "name": "Ground chicken",
@@ -3988,7 +4501,9 @@
     "carbs": 0,
     "fat": 8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "poultry_thigh_ground",
+    "dietary_tags": []
   },
   {
     "name": "Venison (raw)",
@@ -4000,7 +4515,9 @@
     "carbs": 0,
     "fat": 2.4,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "red_meat_roast_steak",
+    "dietary_tags": []
   },
   {
     "name": "Bison (raw)",
@@ -4012,7 +4529,9 @@
     "carbs": 0,
     "fat": 1.8,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "red_meat_roast_steak",
+    "dietary_tags": []
   },
   {
     "name": "Duck breast (raw)",
@@ -4024,7 +4543,9 @@
     "carbs": 0,
     "fat": 4.2,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "poultry_breast_cutlet",
+    "dietary_tags": []
   },
   {
     "name": "Sardines (canned in water)",
@@ -4036,7 +4557,9 @@
     "carbs": 0,
     "fat": 11.5,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "canned_fish",
+    "dietary_tags": []
   },
   {
     "name": "Kale",
@@ -4048,7 +4571,9 @@
     "carbs": 8.8,
     "fat": 0.9,
     "fiber": 3.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Arugula",
@@ -4060,7 +4585,9 @@
     "carbs": 3.7,
     "fat": 0.7,
     "fiber": 1.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Swiss chard",
@@ -4072,7 +4599,9 @@
     "carbs": 3.7,
     "fat": 0.2,
     "fiber": 1.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Iceberg lettuce",
@@ -4084,7 +4613,9 @@
     "carbs": 3,
     "fat": 0.1,
     "fiber": 1.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Mixed greens",
@@ -4096,7 +4627,9 @@
     "carbs": 3.5,
     "fat": 0.3,
     "fiber": 1.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "leafy_green",
+    "dietary_tags": []
   },
   {
     "name": "Green cabbage",
@@ -4108,7 +4641,9 @@
     "carbs": 5.8,
     "fat": 0.1,
     "fiber": 2.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cruciferous",
+    "dietary_tags": []
   },
   {
     "name": "Red cabbage",
@@ -4120,7 +4655,9 @@
     "carbs": 7.4,
     "fat": 0.2,
     "fiber": 2.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cruciferous",
+    "dietary_tags": []
   },
   {
     "name": "Brussels sprouts",
@@ -4132,7 +4669,9 @@
     "carbs": 9,
     "fat": 0.3,
     "fiber": 3.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "cruciferous",
+    "dietary_tags": []
   },
   {
     "name": "Asparagus",
@@ -4144,7 +4683,9 @@
     "carbs": 3.9,
     "fat": 0.1,
     "fiber": 2.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pod_veg",
+    "dietary_tags": []
   },
   {
     "name": "Green beans",
@@ -4156,7 +4697,9 @@
     "carbs": 7,
     "fat": 0.2,
     "fiber": 3.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pod_veg",
+    "dietary_tags": []
   },
   {
     "name": "Snow peas",
@@ -4168,7 +4711,9 @@
     "carbs": 7.6,
     "fat": 0.2,
     "fiber": 2.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pod_veg",
+    "dietary_tags": []
   },
   {
     "name": "Radishes",
@@ -4180,7 +4725,9 @@
     "carbs": 3.4,
     "fat": 0.1,
     "fiber": 1.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "root_veg",
+    "dietary_tags": []
   },
   {
     "name": "Beets",
@@ -4192,7 +4739,9 @@
     "carbs": 9.6,
     "fat": 0.2,
     "fiber": 2.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "root_veg",
+    "dietary_tags": []
   },
   {
     "name": "Turnips",
@@ -4204,7 +4753,9 @@
     "carbs": 6.4,
     "fat": 0.1,
     "fiber": 1.8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "root_veg",
+    "dietary_tags": []
   },
   {
     "name": "Parsnips",
@@ -4216,7 +4767,9 @@
     "carbs": 18,
     "fat": 0.3,
     "fiber": 4.9,
-    "micros": {}
+    "micros": {},
+    "sub_group": "starchy_root",
+    "dietary_tags": []
   },
   {
     "name": "Butternut squash",
@@ -4228,7 +4781,9 @@
     "carbs": 11.7,
     "fat": 0.1,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "squash",
+    "dietary_tags": []
   },
   {
     "name": "Acorn squash",
@@ -4240,7 +4795,9 @@
     "carbs": 10.4,
     "fat": 0.1,
     "fiber": 1.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "squash",
+    "dietary_tags": []
   },
   {
     "name": "Spaghetti squash",
@@ -4252,7 +4809,9 @@
     "carbs": 7,
     "fat": 0.6,
     "fiber": 1.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "squash",
+    "dietary_tags": []
   },
   {
     "name": "Grapefruit",
@@ -4264,7 +4823,9 @@
     "carbs": 13.1,
     "fat": 0.2,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "citrus_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Fresh pineapple",
@@ -4276,7 +4837,9 @@
     "carbs": 13.1,
     "fat": 0.1,
     "fiber": 1.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Strawberries",
@@ -4288,7 +4851,9 @@
     "carbs": 7.7,
     "fat": 0.3,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "berry_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Blueberries",
@@ -4300,7 +4865,9 @@
     "carbs": 14.5,
     "fat": 0.3,
     "fiber": 2.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "berry_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Raspberries",
@@ -4312,7 +4879,9 @@
     "carbs": 11.9,
     "fat": 0.7,
     "fiber": 6.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "berry_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Blackberries",
@@ -4324,7 +4893,9 @@
     "carbs": 9.6,
     "fat": 0.5,
     "fiber": 5.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "berry_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Grapes",
@@ -4336,7 +4907,9 @@
     "carbs": 18.1,
     "fat": 0.2,
     "fiber": 0.9,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pome_stone_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Peach",
@@ -4348,7 +4921,9 @@
     "carbs": 14.3,
     "fat": 0.4,
     "fiber": 2.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pome_stone_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Pear",
@@ -4360,7 +4935,9 @@
     "carbs": 27.1,
     "fat": 0.2,
     "fiber": 5.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pome_stone_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Kiwi",
@@ -4372,7 +4949,9 @@
     "carbs": 10.1,
     "fat": 0.4,
     "fiber": 2.1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Watermelon",
@@ -4384,7 +4963,9 @@
     "carbs": 7.6,
     "fat": 0.2,
     "fiber": 0.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pome_stone_fruit",
+    "dietary_tags": []
   },
   {
     "name": "Bulgur (dry)",
@@ -4396,7 +4977,9 @@
     "carbs": 75.9,
     "fat": 1.3,
     "fiber": 18.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Pearled barley (dry)",
@@ -4408,7 +4991,9 @@
     "carbs": 77.7,
     "fat": 1.2,
     "fiber": 15.6,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Cornmeal/polenta (dry)",
@@ -4420,7 +5005,9 @@
     "carbs": 79,
     "fat": 3.6,
     "fiber": 7.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Wild rice (dry)",
@@ -4432,7 +5019,11 @@
     "carbs": 74.9,
     "fat": 1.1,
     "fiber": 6.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "rice",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Jasmine rice (dry)",
@@ -4444,7 +5035,11 @@
     "carbs": 80.2,
     "fat": 0.6,
     "fiber": 1.3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "rice",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Whole wheat couscous (dry)",
@@ -4456,7 +5051,9 @@
     "carbs": 72,
     "fat": 2.3,
     "fiber": 8,
-    "micros": {}
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": []
   },
   {
     "name": "Orzo (dry)",
@@ -4468,7 +5065,9 @@
     "carbs": 75,
     "fat": 1.5,
     "fiber": 3.2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "pasta_noodle",
+    "dietary_tags": []
   },
   {
     "name": "Rice cakes",
@@ -4480,7 +5079,9 @@
     "carbs": 7.3,
     "fat": 0.3,
     "fiber": 0.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "snack_cracker",
+    "dietary_tags": []
   },
   {
     "name": "English muffin (whole wheat)",
@@ -4492,7 +5093,9 @@
     "carbs": 26.7,
     "fat": 1.2,
     "fiber": 4.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bread_bun",
+    "dietary_tags": []
   },
   {
     "name": "Cashews",
@@ -4504,7 +5107,9 @@
     "carbs": 8.6,
     "fat": 12.4,
     "fiber": 0.9,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tree_nut",
+    "dietary_tags": []
   },
   {
     "name": "Pistachios",
@@ -4516,7 +5121,9 @@
     "carbs": 7.7,
     "fat": 12.8,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tree_nut",
+    "dietary_tags": []
   },
   {
     "name": "Pecans",
@@ -4528,7 +5135,9 @@
     "carbs": 3.9,
     "fat": 20.4,
     "fiber": 2.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tree_nut",
+    "dietary_tags": []
   },
   {
     "name": "Sunflower seeds",
@@ -4540,7 +5149,9 @@
     "carbs": 6.8,
     "fat": 14.1,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "seed",
+    "dietary_tags": []
   },
   {
     "name": "Pumpkin seeds",
@@ -4552,7 +5163,9 @@
     "carbs": 5,
     "fat": 13,
     "fiber": 1.7,
-    "micros": {}
+    "micros": {},
+    "sub_group": "seed",
+    "dietary_tags": []
   },
   {
     "name": "Powdered peanut butter",
@@ -4564,7 +5177,9 @@
     "carbs": 4,
     "fat": 1.5,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nut_seed_butter",
+    "dietary_tags": []
   },
   {
     "name": "Sunflower seed butter",
@@ -4576,7 +5191,9 @@
     "carbs": 8,
     "fat": 16,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nut_seed_butter",
+    "dietary_tags": []
   },
   {
     "name": "Macadamia nuts",
@@ -4588,7 +5205,9 @@
     "carbs": 3.9,
     "fat": 21.5,
     "fiber": 2.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tree_nut",
+    "dietary_tags": []
   },
   {
     "name": "Split peas (dry)",
@@ -4600,7 +5219,9 @@
     "carbs": 60.4,
     "fat": 1.2,
     "fiber": 25.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "lentil_split_pea",
+    "dietary_tags": []
   },
   {
     "name": "Black-eyed peas",
@@ -4612,7 +5233,9 @@
     "carbs": 20.8,
     "fat": 0.6,
     "fiber": 6.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Fava beans",
@@ -4624,7 +5247,9 @@
     "carbs": 19.7,
     "fat": 0.4,
     "fiber": 5.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Kidney beans",
@@ -4636,7 +5261,9 @@
     "carbs": 22.8,
     "fat": 0.5,
     "fiber": 6.4,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Navy beans",
@@ -4648,7 +5275,9 @@
     "carbs": 26.1,
     "fat": 0.6,
     "fiber": 10.5,
-    "micros": {}
+    "micros": {},
+    "sub_group": "bean_canned_cooked",
+    "dietary_tags": []
   },
   {
     "name": "Hot sauce",
@@ -4660,7 +5289,9 @@
     "carbs": 0.2,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Teriyaki sauce",
@@ -4672,7 +5303,9 @@
     "carbs": 2.9,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Enchilada sauce",
@@ -4684,7 +5317,9 @@
     "carbs": 4.5,
     "fat": 1.5,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "tomato_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Alfredo sauce",
@@ -4696,7 +5331,9 @@
     "carbs": 4,
     "fat": 10,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "creamy_pasta_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Pesto sauce",
@@ -4708,7 +5345,9 @@
     "carbs": 2,
     "fat": 16,
     "fiber": 1,
-    "micros": {}
+    "micros": {},
+    "sub_group": "herb_sauce",
+    "dietary_tags": []
   },
   {
     "name": "Guacamole",
@@ -4720,7 +5359,9 @@
     "carbs": 3,
     "fat": 4.5,
     "fiber": 2,
-    "micros": {}
+    "micros": {},
+    "sub_group": "dip_spread",
+    "dietary_tags": []
   },
   {
     "name": "Coconut aminos",
@@ -4732,7 +5373,11 @@
     "carbs": 2,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Liquid aminos",
@@ -4744,7 +5389,11 @@
     "carbs": 1,
     "fat": 0,
     "fiber": 0,
-    "micros": {}
+    "micros": {},
+    "sub_group": "soy_umami_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   },
   {
     "name": "Nutritional yeast",
@@ -4756,6 +5405,220 @@
     "carbs": 5,
     "fat": 1,
     "fiber": 3,
-    "micros": {}
+    "micros": {},
+    "sub_group": "nutritional_yeast",
+    "dietary_tags": []
+  },
+  {
+    "name": "Panko breadcrumbs",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (15g)",
+    "cal": 60,
+    "protein": 2,
+    "carbs": 11,
+    "fat": 0.5,
+    "fiber": 0.5,
+    "micros": {},
+    "sub_group": "breading_coating",
+    "dietary_tags": []
+  },
+  {
+    "name": "Gluten-free breadcrumbs",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (15g)",
+    "cal": 55,
+    "protein": 1,
+    "carbs": 11,
+    "fat": 0.5,
+    "fiber": 0.5,
+    "micros": {},
+    "sub_group": "breading_coating",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Crushed pork rinds",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (15g)",
+    "cal": 85,
+    "protein": 9,
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "breading_coating",
+    "dietary_tags": [
+      "gluten-free",
+      "low-carb",
+      "keto"
+    ]
+  },
+  {
+    "name": "Cornflake crumbs",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (15g)",
+    "cal": 55,
+    "protein": 0.7,
+    "carbs": 13,
+    "fat": 0.1,
+    "fiber": 0.3,
+    "micros": {},
+    "sub_group": "breading_coating",
+    "dietary_tags": []
+  },
+  {
+    "name": "Almond flour",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (28g)",
+    "cal": 160,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 14,
+    "fiber": 3,
+    "micros": {},
+    "sub_group": "baking_flour",
+    "dietary_tags": [
+      "gluten-free",
+      "low-carb"
+    ]
+  },
+  {
+    "name": "Gluten-free all-purpose flour blend",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (30g)",
+    "cal": 110,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 0,
+    "fiber": 1,
+    "micros": {},
+    "sub_group": "baking_flour",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Coconut flour",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup (28g)",
+    "cal": 120,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 4,
+    "fiber": 10,
+    "micros": {},
+    "sub_group": "baking_flour",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Gluten-free hamburger bun",
+    "serving_qty": 1,
+    "serving_unit": "bun",
+    "serving_label": "per 1 bun (43g)",
+    "cal": 120,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 2,
+    "fiber": 2,
+    "micros": {},
+    "sub_group": "bread_bun",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Gluten-free tortilla",
+    "serving_qty": 1,
+    "serving_unit": "tortilla",
+    "serving_label": "per 1 tortilla (35g)",
+    "cal": 90,
+    "protein": 1.5,
+    "carbs": 18,
+    "fat": 1.5,
+    "fiber": 1,
+    "micros": {},
+    "sub_group": "flatbread_wrap",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Tempeh",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 193,
+    "protein": 20.3,
+    "carbs": 7.6,
+    "fat": 11,
+    "fiber": 9,
+    "micros": {},
+    "sub_group": "plant_protein_meat_sub",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Seitan",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 370,
+    "protein": 75,
+    "carbs": 14,
+    "fat": 1.9,
+    "fiber": 0.6,
+    "micros": {},
+    "sub_group": "plant_protein_meat_sub",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ]
+  },
+  {
+    "name": "Unsweetened almond milk",
+    "serving_qty": 1,
+    "serving_unit": "cup",
+    "serving_label": "per 1 cup (240ml)",
+    "cal": 30,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 2.5,
+    "fiber": 1,
+    "micros": {},
+    "sub_group": "milk",
+    "dietary_tags": [
+      "dairy-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Unsweetened oat milk",
+    "serving_qty": 1,
+    "serving_unit": "cup",
+    "serving_label": "per 1 cup (240ml)",
+    "cal": 45,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 1.5,
+    "fiber": 1,
+    "micros": {},
+    "sub_group": "milk",
+    "dietary_tags": [
+      "dairy-free",
+      "vegan"
+    ]
   }
 ]

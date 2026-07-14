@@ -2,25 +2,21 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { createClient } from '@/lib/supabase/client';
 import { formatQty } from '@/lib/nutrition';
-import { suggestSubstitutes } from '@/lib/substitutions';
+import { suggestSubstitutes, DIETARY_FILTERS } from '@/lib/substitutions';
 
 function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone }) {
-  const supabase = createClient();
   const router = useRouter();
   const [customName, setCustomName] = useState('');
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState(null);
+  const [dietaryFilter, setDietaryFilter] = useState(null);
 
-  const suggestions = suggestSubstitutes(ingredientName, ingredientCatalog, 6);
+  const suggestions = suggestSubstitutes(ingredientName, ingredientCatalog, { maxSuggestions: 6, dietaryFilter });
 
   async function doSwap(newIngredient) {
     setBusy(true);
     setError(null);
-    const {
-      data: { session },
-    } = await supabase.auth.getSession();
     try {
       const res = await fetch('/api/week/swap-ingredient', {
         method: 'POST',
@@ -41,7 +37,23 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
   return (
     <div className="mt-1.5 mb-2 p-2 bg-paper rounded-card text-xs space-y-2">
       <p className="text-ink/60">Swap {ingredientName} for:</p>
-      {suggestions.length > 0 && (
+
+      <div className="flex flex-wrap gap-1">
+        {DIETARY_FILTERS.map((tag) => (
+          <button
+            key={tag}
+            type="button"
+            onClick={() => setDietaryFilter(dietaryFilter === tag ? null : tag)}
+            className={`px-2 py-0.5 rounded-full border text-xs ${
+              dietaryFilter === tag ? 'bg-pine text-white border-pine' : 'border-line text-ink/50 hover:border-pine'
+            }`}
+          >
+            {tag}
+          </button>
+        ))}
+      </div>
+
+      {suggestions.length > 0 ? (
         <div className="flex flex-wrap gap-1.5">
           {suggestions.map((s) => (
             <button
@@ -49,12 +61,19 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
               type="button"
               disabled={busy}
               onClick={() => doSwap(s.name)}
-              className="px-2 py-1 rounded-card border border-line bg-card hover:bg-pine hover:text-white hover:border-pine transition-colors disabled:opacity-50"
+              className="px-2 py-1 rounded-card border border-line bg-card hover:bg-pine hover:text-white hover:border-pine transition-colors disabled:opacity-50 flex items-center gap-1"
             >
               {s.name}
+              {s.dietary_tags?.includes(dietaryFilter) && dietaryFilter && (
+                <span className="text-[10px] opacity-70">✓ {dietaryFilter}</span>
+              )}
             </button>
           ))}
         </div>
+      ) : (
+        <p className="text-ink/40 italic">
+          {dietaryFilter ? `No ${dietaryFilter} matches on file — try a custom substitute below.` : 'No close matches on file — try a custom substitute below.'}
+        </p>
       )}
       <form
         onSubmit={(e) => {

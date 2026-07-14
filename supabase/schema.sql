@@ -67,8 +67,13 @@ create table if not exists ingredients (
   carbs numeric not null default 0,
   fat numeric not null default 0,
   fiber numeric not null default 0,
-  micros jsonb not null default '{}'::jsonb
+  micros jsonb not null default '{}'::jsonb,
+  sub_group text, -- functional substitution group (e.g. 'breading_coating', 'poultry_breast_cutlet') — see lib/substitutions.js
+  dietary_tags text[] not null default '{}' -- e.g. {gluten-free, dairy-free, vegan, low-carb}
 );
+
+alter table ingredients add column if not exists sub_group text;
+alter table ingredients add column if not exists dietary_tags text[] not null default '{}';
 
 -- ----------------------------------------------------------------------------
 -- Recipes — household_id null = shared global library, otherwise a

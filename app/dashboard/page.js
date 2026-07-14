@@ -51,7 +51,7 @@ export default async function DashboardPage({ searchParams }) {
 
   const { data: ingredientCatalog } = await supabase
     .from('ingredients')
-    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label')
+    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, sub_group, dietary_tags')
     .order('name');
 
   return (
