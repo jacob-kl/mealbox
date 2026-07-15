@@ -73,12 +73,15 @@ export default function CuisineWorldMap({ onSelect }) {
       <svg
         viewBox={`0 0 ${MAP_WIDTH} ${MAP_HEIGHT}`}
         className="w-full h-auto rounded-card"
-        style={{ background: 'rgb(var(--color-line) / 0.25)' }}
         onMouseLeave={() => {
           setHoveredGroup(null);
           setHoveredLabel(null);
         }}
       >
+        {/* Literal colors throughout below - CSS custom properties (var(--x))
+            don't reliably resolve when set directly as SVG fill/stroke
+            presentation attributes, so this stays independent of the theme. */}
+        <rect x={0} y={0} width={MAP_WIDTH} height={MAP_HEIGHT} fill="#BEDCEA" />
         {MAP_SHAPES.map((shape) => {
           const clickable = !!shape.groups;
           const activeGroup = clickable ? mostSpecificGroup(shape, groupSizes) : null;
@@ -86,7 +89,7 @@ export default function CuisineWorldMap({ onSelect }) {
           const isDimmed = hoveredGroup && !isActive;
           const transform = shape.translateX != null ? `translate(${shape.translateX},${shape.translateY})` : undefined;
 
-          const fill = clickable ? GROUP_COLORS[activeGroup] || '#999' : 'rgb(var(--color-ink) / 0.14)';
+          const fill = clickable ? GROUP_COLORS[activeGroup] || '#999999' : '#FFFFFF';
 
           return (
             <path
@@ -94,7 +97,7 @@ export default function CuisineWorldMap({ onSelect }) {
               d={shape.d}
               transform={transform}
               fill={fill}
-              stroke={shape.kind === 'state' ? 'rgb(var(--color-paper))' : 'rgb(var(--color-ink) / 0.15)'}
+              stroke={shape.kind === 'state' ? '#FFFFFF' : '#8FA3AD'}
               strokeWidth={shape.kind === 'state' ? 0.6 : 0.5}
               opacity={isDimmed ? 0.3 : 1}
               style={{ cursor: clickable ? 'pointer' : 'default', transition: 'opacity 0.15s' }}

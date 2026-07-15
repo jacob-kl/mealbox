@@ -88,12 +88,35 @@ const path = geoPath(projection);
 
 const shapes = [];
 
+// A few countries bundle a geographically distant overseas territory into
+// the same MultiPolygon (e.g. France includes French Guiana, which renders
+// as a stray dot near Venezuela on a world map). For those, keep only the
+// largest ring by bounding-box span (the mainland), same technique used
+// for the US/Alaska separation above.
+const TRIM_TO_MAINLAND = new Set(['France']);
+
+function mainlandOnly(f) {
+  let best = null;
+  let bestSpan = -1;
+  for (const ring of f.geometry.coordinates) {
+    const ringFeature = { type: 'Feature', geometry: { type: f.geometry.type === 'MultiPolygon' ? 'Polygon' : 'LineString', coordinates: ring }, properties: {} };
+    const b = path.bounds(ringFeature);
+    const span = (b[1][0] - b[0][0]) * (b[1][1] - b[0][1]);
+    if (span > bestSpan) {
+      bestSpan = span;
+      best = ring;
+    }
+  }
+  return { ...f, geometry: { type: 'Polygon', coordinates: best } };
+}
+
 // World countries, skipping the low-res "United States of America" blob -
 // real individual states replace it below.
 for (const f of worldGeo.features) {
   const name = f.properties.name;
   if (name === 'United States of America') continue;
-  const d = path(f);
+  const trimmed = TRIM_TO_MAINLAND.has(name) ? mainlandOnly(f) : f;
+  const d = path(trimmed);
   if (!d) continue;
   const mapped = COUNTRY_GROUPS[name];
   shapes.push({
