@@ -129,6 +129,40 @@ for (const f of worldGeo.features) {
   });
 }
 
+// Alaska and Hawaii, in their TRUE world position - not the conventional
+// US-map inset near California. That convention exists for standalone US
+// maps with no surrounding context; on a world map where Canada and Russia
+// are both visible, an inset just looks like a placement error. Classified
+// by each ring's real lon/lat centroid (robust regardless of projection),
+// then rendered through the exact same Natural-Earth-1 pipeline as every
+// other country, so they land in genuinely correct relative position.
+const usFeature = worldGeo.features.find((f) => f.properties.name === 'United States of America');
+function ringCentroid(ring) {
+  let sx = 0, sy = 0, n = 0;
+  for (const point of ring[0]) { sx += point[0]; sy += point[1]; n++; }
+  return [sx / n, sy / n];
+}
+const alaskaRings = [];
+const hawaiiRings = [];
+for (const ring of usFeature.geometry.coordinates) {
+  const [lon, lat] = ringCentroid(ring);
+  if (lon < -140 && lat > 45) alaskaRings.push(ring);
+  else if (lon < -140 && lat < 30) hawaiiRings.push(ring);
+}
+for (const [label, rings] of [['Alaska', alaskaRings], ['Hawaii', hawaiiRings]]) {
+  const f = { type: 'Feature', geometry: { type: 'MultiPolygon', coordinates: rings }, properties: {} };
+  const d = path(f);
+  if (!d) continue;
+  shapes.push({
+    id: `state-us-${label.toLowerCase()}`,
+    name: label,
+    d,
+    groups: ['usa'],
+    cuisines: ['american'],
+    kind: 'state',
+  });
+}
+
 // US states: geoAlbersUsa is the standard projection for exactly this case
 // (continental US normal, Alaska/Hawaii as correctly-scaled insets). To
 // align it correctly against the surrounding countries, we find the actual
@@ -165,8 +199,9 @@ const usPathGen = geoPath(usProjection);
 // Precise, real state boundaries sourced from Wikimedia Commons (see
 // scripts/extract-wiki-states.py) for the 45 states it cleanly covers -
 // already pre-aligned into this exact 960x500 world coordinate space, no
-// further transform needed. The remaining 5 (Alaska, Hawaii, Louisiana,
-// Massachusetts, Washington) fall back to geoAlbersUsa below.
+// further transform needed. Alaska and Hawaii were already added above in
+// their true position. The remaining 3 (Louisiana, Massachusetts,
+// Washington) fall back to geoAlbersUsa below.
 const NAME_TO_ABBR = {
   Alabama: 'AL', Alaska: 'AK', Arizona: 'AZ', Arkansas: 'AR', California: 'CA', Colorado: 'CO',
   Connecticut: 'CT', Delaware: 'DE', Florida: 'FL', Georgia: 'GA', Hawaii: 'HI', Idaho: 'ID',
@@ -189,6 +224,7 @@ try {
 let wikiCount = 0;
 for (const f of usStatesGeo) {
   const name = f.properties.name;
+  if (name === 'Alaska' || name === 'Hawaii') continue; // already added above in true position
   const abbr = NAME_TO_ABBR[name];
   const wikiPaths = abbr && wikiStates[abbr];
 
