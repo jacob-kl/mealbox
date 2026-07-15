@@ -162,8 +162,52 @@ const usProjection = geoAlbersUsa().fitSize(
 );
 const usPathGen = geoPath(usProjection);
 
+// Precise, real state boundaries sourced from Wikimedia Commons (see
+// scripts/extract-wiki-states.py) for the 45 states it cleanly covers -
+// already pre-aligned into this exact 960x500 world coordinate space, no
+// further transform needed. The remaining 5 (Alaska, Hawaii, Louisiana,
+// Massachusetts, Washington) fall back to geoAlbersUsa below.
+const NAME_TO_ABBR = {
+  Alabama: 'AL', Alaska: 'AK', Arizona: 'AZ', Arkansas: 'AR', California: 'CA', Colorado: 'CO',
+  Connecticut: 'CT', Delaware: 'DE', Florida: 'FL', Georgia: 'GA', Hawaii: 'HI', Idaho: 'ID',
+  Illinois: 'IL', Indiana: 'IN', Iowa: 'IA', Kansas: 'KS', Kentucky: 'KY', Louisiana: 'LA',
+  Maine: 'ME', Maryland: 'MD', Massachusetts: 'MA', Michigan: 'MI', Minnesota: 'MN',
+  Mississippi: 'MS', Missouri: 'MO', Montana: 'MT', Nebraska: 'NE', Nevada: 'NV',
+  'New Hampshire': 'NH', 'New Jersey': 'NJ', 'New Mexico': 'NM', 'New York': 'NY',
+  'North Carolina': 'NC', 'North Dakota': 'ND', Ohio: 'OH', Oklahoma: 'OK', Oregon: 'OR',
+  Pennsylvania: 'PA', 'Rhode Island': 'RI', 'South Carolina': 'SC', 'South Dakota': 'SD',
+  Tennessee: 'TN', Texas: 'TX', Utah: 'UT', Vermont: 'VT', Virginia: 'VA', Washington: 'WA',
+  'West Virginia': 'WV', Wisconsin: 'WI', Wyoming: 'WY', 'District of Columbia': 'DC',
+};
+let wikiStates = {};
+try {
+  wikiStates = JSON.parse(fs.readFileSync('scripts/wiki-states-aligned.json', 'utf8'));
+} catch {
+  console.warn('No wiki-states-aligned.json found - all states will use geoAlbersUsa fallback');
+}
+
+let wikiCount = 0;
 for (const f of usStatesGeo) {
   const name = f.properties.name;
+  const abbr = NAME_TO_ABBR[name];
+  const wikiPaths = abbr && wikiStates[abbr];
+
+  if (wikiPaths?.length) {
+    wikiCount++;
+    for (let i = 0; i < wikiPaths.length; i++) {
+      shapes.push({
+        id: `state-${f.id}${i > 0 ? `-${i}` : ''}`,
+        name,
+        d: wikiPaths[i],
+        // already aligned to final world coordinates - no translate needed
+        groups: usGroupsFor(name),
+        cuisines: usCuisinesFor(name),
+        kind: 'state',
+      });
+    }
+    continue;
+  }
+
   const d = usPathGen(f);
   if (!d) continue;
   shapes.push({
@@ -190,4 +234,5 @@ export const MAP_SHAPES = ${JSON.stringify(shapes)};
 
 fs.writeFileSync('lib/mapShapes.js', output);
 console.log(`Generated ${shapes.length} shapes (${worldCountryCount} countries, ${usStatesGeo.length} US states) -> lib/mapShapes.js`);
+console.log(`  ${wikiCount} states from precise Wikimedia source, ${usStatesGeo.length - wikiCount} from geoAlbersUsa fallback`);
 console.log('Unclaimed countries (gray, not clickable):', worldGeo.features.filter((f) => f.properties.name !== 'United States of America' && !COUNTRY_GROUPS[f.properties.name]).length);
