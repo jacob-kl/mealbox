@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { generateWeek, DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
+import { canEditMealPlan } from '@/lib/permissions';
 
 export async function POST(request) {
   const supabase = await createClient();
@@ -14,12 +15,15 @@ export async function POST(request) {
 
   const { data: profile } = await supabase
     .from('profiles')
-    .select('household_id')
+    .select('household_id, household_role')
     .eq('id', user.id)
     .single();
 
   const householdId = profile?.household_id;
   if (!householdId) return NextResponse.json({ error: 'No household on this profile' }, { status: 400 });
+  if (!canEditMealPlan(profile?.household_role)) {
+    return NextResponse.json({ error: 'Only the head of kitchen or kitchen members can generate the week plan.' }, { status: 403 });
+  }
 
   const { data: household } = await supabase
     .from('households')

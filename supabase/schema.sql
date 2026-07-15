@@ -542,3 +542,98 @@ and not exists (
 -- text[] convention as dietary_tags. Used by lib/allergies.js to flag
 -- recipes that conflict with a household member's declared allergies.
 alter table ingredients add column if not exists allergens text[] not null default '{}';
+
+-- ----------------------------------------------------------------------------
+-- Three-tier household roles, head-of-kitchen member management, and
+-- personal invite codes for adding people who aren't ready to self-onboard
+-- (a partner you'd rather set up directly, or eventually a kid).
+
+alter table profiles drop constraint if exists profiles_household_role_check;
+alter table profiles add constraint profiles_household_role_check
+  check (household_role in ('head_of_kitchen', 'kitchen', 'member'));
+-- head_of_kitchen: can invite people, add members directly, set anyone's
+--   macros, promote/demote others, and edit the shared meal plan.
+-- kitchen: can edit the shared meal plan (swap/remove ingredients, adjust
+--   the week) but cannot add people or change anyone's macros.
+-- member: can view their own plan and log weight/meals, but can't edit the
+--   shared plan. Default for everyone except the head of kitchen.
+
+create or replace function public.is_head_of_kitchen()
+returns boolean
+language sql
+security definer
+set search_path = public
+stable
+as $$
+  select coalesce((select household_role from profiles where id = auth.uid()) = 'head_of_kitchen', false)
+$$;
+
+-- The head of kitchen can update any profile in their own household (macros,
+-- role/promotion). Regular self-updates (target macros via the personal
+-- recalculate flow, etc.) still work via the existing "update own profile"
+-- policy below - this adds to that, it doesn't replace it.
+drop policy if exists "head of kitchen updates household profiles" on profiles;
+create policy "head of kitchen updates household profiles"
+  on profiles for update
+  to authenticated
+  using (public.is_head_of_kitchen() and household_id = public.current_household_id());
+
+-- Pending members: a placeholder reserved by the head of kitchen for someone
+-- who hasn't signed up yet. Not tied to auth.users at all - just a name, a
+-- unique claim code, and optional prefilled macro targets. When the real
+-- person signs up with this code (instead of the general household invite
+-- code), their new profile is pre-filled from this row, then it's deleted.
+create table if not exists pending_members (
+  id uuid primary key default gen_random_uuid(),
+  household_id uuid not null references households(id) on delete cascade,
+  display_name text not null,
+  personal_invite_code text not null unique,
+  prefill_target_calories numeric,
+  prefill_target_protein_g numeric,
+  prefill_target_carbs_g numeric,
+  prefill_target_fat_g numeric,
+  created_at timestamptz not null default now()
+);
+
+alter table pending_members enable row level security;
+
+drop policy if exists "head of kitchen manages pending members" on pending_members;
+create policy "head of kitchen manages pending members"
+  on pending_members for all
+  to authenticated
+  using (public.is_head_of_kitchen() and household_id = public.current_household_id())
+  with check (public.is_head_of_kitchen() and household_id = public.current_household_id());
+
+-- Looking up a personal code happens before the new person has any household
+-- membership, so this mirrors household_id_for_invite_code: a narrow,
+-- security-definer function rather than a permissive table policy. The code
+-- itself is the security boundary.
+create or replace function public.lookup_personal_invite_code(code text)
+returns table (
+  household_id uuid,
+  display_name text,
+  prefill_target_calories numeric,
+  prefill_target_protein_g numeric,
+  prefill_target_carbs_g numeric,
+  prefill_target_fat_g numeric
+)
+language sql
+security definer
+set search_path = public
+stable
+as $$
+  select household_id, display_name, prefill_target_calories, prefill_target_protein_g,
+         prefill_target_carbs_g, prefill_target_fat_g
+  from pending_members where personal_invite_code = code
+$$;
+
+-- Called after the new person's profile has been created successfully, to
+-- remove the now-used placeholder.
+create or replace function public.consume_personal_invite_code(code text)
+returns void
+language sql
+security definer
+set search_path = public
+as $$
+  delete from pending_members where personal_invite_code = code
+$$;

@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { computeRecipeMacros } from '@/lib/nutrition';
+import { canEditMealPlan } from '@/lib/permissions';
 
 export async function POST(request) {
   const supabase = await createClient();
@@ -17,8 +18,12 @@ export async function POST(request) {
   // replacing it with something else.
   const isRemoval = !newIngredient;
 
-  const { data: profile } = await supabase.from('profiles').select('household_id').eq('id', user.id).single();
+  const { data: profile } = await supabase.from('profiles').select('household_id, household_role').eq('id', user.id).single();
   const householdId = profile?.household_id;
+
+  if (!canEditMealPlan(profile?.household_role)) {
+    return NextResponse.json({ error: 'Only the head of kitchen or kitchen members can edit the meal plan.' }, { status: 403 });
+  }
 
   const { data: meal } = await supabase
     .from('week_plan_meals')

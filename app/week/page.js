@@ -25,7 +25,7 @@ export default async function WeekPage({ searchParams }) {
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, allergies')
+    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, allergies, household_role')
     .eq('household_id', profile.household_id);
 
   const { data: weekPlan } = await supabase
@@ -63,6 +63,7 @@ export default async function WeekPage({ searchParams }) {
           members={members || []}
           meals={meals}
           ingredientCatalog={ingredientCatalog || []}
+          currentUserId={user.id}
         />
       </main>
     </>

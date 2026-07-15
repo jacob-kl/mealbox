@@ -51,6 +51,7 @@ function effectiveRecipe(meal) {
 }
 
 export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan, recipeCatalog = [], ingredientCatalog = [], defaultToFull = true, householdMembers = [] }) {
+  const currentUserRole = profile?.household_role;
   const supabase = createClient();
   const router = useRouter();
   const [showCustomForm, setShowCustomForm] = useState(false);
@@ -298,7 +299,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                   </button>
                 </div>
                 {expanded && (
-                  <RecipeDetail recipe={effectiveRecipe(meal)} weekPlanMealId={meal.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={householdMembers} />
+                  <RecipeDetail recipe={effectiveRecipe(meal)} weekPlanMealId={meal.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={householdMembers} currentUserRole={currentUserRole} />
                 )}
               </Card>
             );
@@ -337,7 +338,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                     + Add
                   </Button>
                 </div>
-                {expanded && <RecipeDetail recipe={recipe} defaultToFull={defaultToFull} householdMembers={householdMembers} />}
+                {expanded && <RecipeDetail recipe={recipe} defaultToFull={defaultToFull} householdMembers={householdMembers} currentUserRole={currentUserRole} />}
               </Card>
             );
           })}

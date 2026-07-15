@@ -25,6 +25,11 @@ export default async function SettingsPage() {
 
   const { data: ingredientCatalog } = await supabase.from('ingredients').select('name, sub_group');
 
+  const { data: pendingMembers } = await supabase
+    .from('pending_members')
+    .select('id, display_name, personal_invite_code')
+    .eq('household_id', profile.household_id);
+
   return (
     <>
       <NavBar active="/settings" />
@@ -36,6 +41,7 @@ export default async function SettingsPage() {
           members={members || []}
           ingredientCatalog={ingredientCatalog || []}
           currentUserId={user.id}
+          pendingMembers={pendingMembers || []}
         />
       </main>
     </>

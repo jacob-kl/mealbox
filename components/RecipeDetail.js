@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { formatQty } from '@/lib/nutrition';
 import { suggestSubstitutes, DIETARY_FILTERS } from '@/lib/substitutions';
 import { findHouseholdAllergyConflicts } from '@/lib/allergies';
+import { canEditMealPlan } from '@/lib/permissions';
 
 function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone }) {
   const router = useRouter();
@@ -111,7 +112,7 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
  * @param {Array} [ingredientCatalog] - full ingredients table, needed for swap suggestions
  * @param {boolean} [defaultToFull] - household's Quick/Full display preference
  */
-export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false, householdMembers = [] }) {
+export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false, householdMembers = [], currentUserRole }) {
   const router = useRouter();
   const [swappingIndex, setSwappingIndex] = useState(null);
   const [removingIndex, setRemovingIndex] = useState(null);
@@ -119,7 +120,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
   const [showFull, setShowFull] = useState(defaultToFull);
 
   if (!recipe) return null;
-  const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0;
+  const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0 && canEditMealPlan(currentUserRole);
   const hasFull = recipe.ingredients_full?.length > 0 || recipe.steps_detailed?.length > 0;
   // The Full view is a reference for cooking — the app's macro tracking,
   // shopping list, and swap/remove editing all operate on the quick list,

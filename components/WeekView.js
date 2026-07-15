@@ -8,6 +8,7 @@ import { Card, Badge, Button, CUISINES, cuisineLabel, CuisinePill } from '@/comp
 import RecipeDetail from '@/components/RecipeDetail';
 import { dayLabel, addDays } from '@/lib/dates';
 import { DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
+import { canEditMealPlan } from '@/lib/permissions';
 
 const SLOT_ORDER = { breakfast: 0, lunch: 1, dinner: 2, dessert: 3, snack1: 4, snack2: 5, snack3: 6, snack4: 7 };
 function bySlotOrder(a, b) {
@@ -109,8 +110,9 @@ function MacroLine({ macros, memberColor, memberName }) {
   );
 }
 
-export default function WeekView({ weekStart, weekPlanId, cuisineFocus, household, members, meals, ingredientCatalog = [] }) {
+export default function WeekView({ weekStart, weekPlanId, cuisineFocus, household, members, meals, ingredientCatalog = [], currentUserId }) {
   const defaultToFull = household?.settings?.recipeDetailDefault !== 'quick';
+  const currentUserRole = members?.find((m) => m.id === currentUserId)?.household_role;
   const router = useRouter();
   const supabase = createClient();
   const [loading, setLoading] = useState(false);
@@ -185,23 +187,25 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
           </Link>
         </div>
 
-        <div className="flex items-center gap-2">
-          <select
-            value={cuisineChoice}
-            onChange={(e) => setCuisineChoice(e.target.value)}
-            className="border border-line rounded-card px-3 py-2 bg-card text-sm"
-          >
-            <option value="">Any cuisine</option>
-            {CUISINES.map((c) => (
-              <option key={c} value={c}>
-                {cuisineLabel(c)}
-              </option>
-            ))}
-          </select>
-          <Button onClick={() => generateWeek(cuisineChoice)} disabled={loading}>
-            {loading ? 'Building…' : weekPlanId ? 'Rebuild week' : 'Build this week'}
-          </Button>
-        </div>
+        {canEditMealPlan(currentUserRole) && (
+          <div className="flex items-center gap-2">
+            <select
+              value={cuisineChoice}
+              onChange={(e) => setCuisineChoice(e.target.value)}
+              className="border border-line rounded-card px-3 py-2 bg-card text-sm"
+            >
+              <option value="">Any cuisine</option>
+              {CUISINES.map((c) => (
+                <option key={c} value={c}>
+                  {cuisineLabel(c)}
+                </option>
+              ))}
+            </select>
+            <Button onClick={() => generateWeek(cuisineChoice)} disabled={loading}>
+              {loading ? 'Building…' : weekPlanId ? 'Rebuild week' : 'Build this week'}
+            </Button>
+          </div>
+        )}
       </div>
 
       {!weekPlanId ? (
@@ -251,13 +255,15 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                         {shared.meal_slot}
                         {shared.course === 'side' ? ' · side' : sharedMeals.length > 1 ? ' · main' : ''}
                       </p>
-                      <button
-                        onClick={() => swap(dayIndex, shared.meal_slot, null, shared.course)}
-                        disabled={swapping === `${dayIndex}-${shared.meal_slot}-${shared.course}`}
-                        className="text-xs text-pine hover:underline shrink-0"
-                      >
-                        {swapping === `${dayIndex}-${shared.meal_slot}-${shared.course}` ? 'Swapping…' : 'Swap'}
-                      </button>
+                      {canEditMealPlan(currentUserRole) && (
+                        <button
+                          onClick={() => swap(dayIndex, shared.meal_slot, null, shared.course)}
+                          disabled={swapping === `${dayIndex}-${shared.meal_slot}-${shared.course}`}
+                          className="text-xs text-pine hover:underline shrink-0"
+                        >
+                          {swapping === `${dayIndex}-${shared.meal_slot}-${shared.course}` ? 'Swapping…' : 'Swap'}
+                        </button>
+                      )}
                     </div>
                     {shared.recipe ? (
                       <>
@@ -283,7 +289,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                           ))}
                         </div>
                         {expandedId === shared.id && (
-                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} />
+                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} currentUserRole={currentUserRole} />
                         )}
                       </>
                     ) : (
@@ -329,16 +335,18 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                                 </p>
                               )}
                             </button>
-                            <button
-                              onClick={() => swap(dayIndex, 'lunch', lunch.profile_id)}
-                              disabled={swapping === `${dayIndex}-lunch-${lunch.profile_id}`}
-                              className="text-xs text-pine hover:underline shrink-0"
-                            >
-                              {swapping === `${dayIndex}-lunch-${lunch.profile_id}` ? 'Swapping…' : 'Swap'}
-                            </button>
+                            {canEditMealPlan(currentUserRole) && (
+                              <button
+                                onClick={() => swap(dayIndex, 'lunch', lunch.profile_id)}
+                                disabled={swapping === `${dayIndex}-lunch-${lunch.profile_id}`}
+                                className="text-xs text-pine hover:underline shrink-0"
+                              >
+                                {swapping === `${dayIndex}-lunch-${lunch.profile_id}` ? 'Swapping…' : 'Swap'}
+                              </button>
+                            )}
                           </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} />
+                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} currentUserRole={currentUserRole} />
                           )}
                         </div>
                       );
@@ -373,16 +381,18 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                                 </p>
                               )}
                             </button>
-                            <button
-                              onClick={() => swap(dayIndex, snack.meal_slot, snack.profile_id)}
-                              disabled={swapping === `${dayIndex}-${snack.meal_slot}-${snack.profile_id}`}
-                              className="text-xs text-pine hover:underline shrink-0"
-                            >
-                              {swapping === `${dayIndex}-${snack.meal_slot}-${snack.profile_id}` ? 'Swapping…' : 'Swap'}
-                            </button>
+                            {canEditMealPlan(currentUserRole) && (
+                              <button
+                                onClick={() => swap(dayIndex, snack.meal_slot, snack.profile_id)}
+                                disabled={swapping === `${dayIndex}-${snack.meal_slot}-${snack.profile_id}`}
+                                className="text-xs text-pine hover:underline shrink-0"
+                              >
+                                {swapping === `${dayIndex}-${snack.meal_slot}-${snack.profile_id}` ? 'Swapping…' : 'Swap'}
+                              </button>
+                            )}
                           </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} />
+                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} currentUserRole={currentUserRole} />
                           )}
                         </div>
                       );
