@@ -1,0 +1,1411 @@
+[
+  {
+    "name": "Doro Wat (Ethiopian Chicken Stew)",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled"
+      }
+    ],
+    "steps": [
+      "Cook the onion until soft, 6-8 minutes.",
+      "Add berbere and chicken, simmer 20-25 minutes with 1/2 cup water.",
+      "Add the hard-boiled egg in the last few minutes to warm through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": "bone-in if available"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "hard-boiled"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in a dry pot over medium heat (no oil yet) for 8-10 minutes, stirring often, until it releases its own moisture and softens - this dry-cooking start is traditional for wat.",
+      "Add the butter, garlic, and ginger, cooking 2 minutes.",
+      "Stir in the berbere spice and tomato paste, cooking 1-2 minutes until deeply fragrant - berbere needs this brief cooking to bloom, not just be stirred in raw.",
+      "Add the chicken and broth. Bring to a simmer.",
+      "Cover and cook 25-30 minutes until the chicken is very tender, stirring occasionally.",
+      "Add the peeled hard-boiled eggs in the last 5 minutes, spooning sauce over them to warm through and absorb flavor."
+    ]
+  },
+  {
+    "name": "Misir Wat (Ethiopian Red Lentils)",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cook the onion until soft, 5-6 minutes.",
+      "Add berbere and lentils with 1.5 cups water, simmer 20 minutes.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a pot over medium heat. Cook the onion 6-7 minutes until softened.",
+      "Add the garlic and ginger, cooking 1 minute, then stir in the berbere and tomato paste, cooking 1-2 minutes until fragrant.",
+      "Add the lentils and 2 cups water. Bring to a simmer.",
+      "Cook uncovered 20-25 minutes, stirring occasionally, until the lentils are tender and the stew has thickened.",
+      "Cook the rice per package directions and serve the lentils over it."
+    ]
+  },
+  {
+    "name": "Nyama Choma (Kenyan Grilled Beef)",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Season the steak with lime juice and garlic powder.",
+      "Grill 4-5 minutes per side to desired doneness."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the lime juice, garlic, ginger, cumin, and oil together. Rub over the steak and marinate at least 20 minutes.",
+      "Grill over high heat 4-5 minutes per side for medium-rare, or longer to preference.",
+      "Rest 5 minutes, then slice against the grain.",
+      "Top with cilantro - nyama choma is traditionally served simply, often just with the meat itself as the star."
+    ]
+  },
+  {
+    "name": "Swahili Coconut Fish Curry",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer coconut milk, curry powder, and tomatoes 8 minutes.",
+      "Add the cod, simmer 10-12 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium heat. Cook the onion 4-5 minutes until softened.",
+      "Add the garlic, ginger, and curry powder, cooking 30 seconds until fragrant.",
+      "Add the tomatoes and coconut milk, simmer 10 minutes until slightly thickened.",
+      "Nestle the cod into the sauce, cover, and simmer 10-12 minutes until it flakes easily.",
+      "Finish with lime juice and top with cilantro."
+    ]
+  },
+  {
+    "name": "Ethiopian Collard Greens (Gomen)",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Collard greens",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Cook onion and garlic 3-4 minutes.",
+      "Add collard greens with a splash of water, cook 12-15 minutes until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Collard greens",
+        "qty": 220,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground turmeric",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a pot over medium heat. Cook the onion 5-6 minutes until softened.",
+      "Add the garlic, ginger, and turmeric, cooking 30 seconds until fragrant.",
+      "Add the collard greens and broth. Cover and cook 15-18 minutes, stirring occasionally, until tender."
+    ]
+  },
+  {
+    "name": "Berbere Roasted Chicken",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Rub the chicken with berbere and oil.",
+      "Bake at 400F for 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the berbere, oil, garlic, and lime juice into a paste.",
+      "Rub over the chicken and marinate at least 20 minutes.",
+      "Preheat the oven to 400F and roast 20-22 minutes until it reaches 165F.",
+      "Rest 5 minutes before serving."
+    ]
+  },
+  {
+    "name": "Kenyan Beef and Cabbage Stew",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add cabbage and carrot with a splash of water, cook 12-15 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 180,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.33,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion and garlic, cooking 4-5 minutes.",
+      "Stir in the cumin, then add the carrot and broth. Simmer 8 minutes.",
+      "Add the cabbage and cook 8-10 more minutes until tender."
+    ]
+  },
+  {
+    "name": "Ethiopian Chicken and Rice Jar",
+    "cuisine": "east-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.1667,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Toss the chicken with berbere.",
+      "Layer with rice in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0208,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with berbere spice.",
+      "Layer the rice, carrot, and chicken in a jar, topped with cilantro."
+    ]
+  },
+  {
+    "name": "East African Lentil Soup",
+    "cuisine": "east-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer lentils, tomatoes, and cumin with 2 cups water for 25 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground turmeric",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion 5-6 minutes until softened.",
+      "Add the garlic, cumin, and turmeric, cooking 30 seconds until fragrant.",
+      "Add the tomatoes, lentils, and 2 cups water. Bring to a simmer.",
+      "Cover and cook 25-30 minutes until the lentils are tender.",
+      "Finish with lemon juice and top with cilantro."
+    ]
+  },
+  {
+    "name": "Kenyan Sukuma Wiki with Chicken",
+    "cuisine": "east-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Collard greens",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Cook chicken and onion, 6-7 minutes.",
+      "Add collard greens with a splash of water, cook 10 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Collard greens",
+        "qty": 180,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a skillet over medium-high heat. Cook the chicken and onion together, 6-7 minutes, until the chicken is browned.",
+      "Stir in the tomato paste and cumin, cooking 1 minute.",
+      "Add the collard greens and a splash of water. Cover and cook 10-12 minutes until tender."
+    ]
+  },
+  {
+    "name": "Spiced Chickpea and Tomato Bowl",
+    "cuisine": "east-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer chickpeas, tomatoes, and berbere 12 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium heat. Cook the onion 4-5 minutes, then add garlic and berbere, cooking 30 seconds.",
+      "Add the tomatoes and chickpeas, simmer 12-15 minutes until thickened.",
+      "Top with cilantro."
+    ]
+  },
+  {
+    "name": "Ethiopian Spiced Scramble",
+    "cuisine": "east-african",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.1667,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Cook onion 2-3 minutes.",
+      "Whisk eggs with berbere and scramble, 2-3 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "diced, optional"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a skillet over medium heat. Cook the onion 3-4 minutes until softened.",
+      "Add the tomatoes and jalapeno if using, cooking 2-3 minutes.",
+      "Whisk the eggs with berbere spice, pour into the pan, and scramble gently, 2-3 minutes, until just set."
+    ]
+  },
+  {
+    "name": "Spiced Chickpea Flatbread Bowl",
+    "cuisine": "east-african",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpea flour (besan)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground turmeric",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk chickpea flour with water and turmeric into a batter.",
+      "Cook like a pancake, 2-3 minutes per side, with onion mixed in."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpea flour (besan)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Ground turmeric",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0208,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the chickpea flour with 1/3 cup water, turmeric, and cumin into a smooth batter.",
+      "Stir in the onion and cilantro.",
+      "Heat oil in a nonstick pan over medium heat, pour in the batter, and cook 2-3 minutes per side until golden and cooked through."
+    ]
+  },
+  {
+    "name": "Spiced Roasted Chickpeas (Berbere)",
+    "cuisine": "east-african",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 180,
+        "note": "drained and patted dry"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with berbere and oil.",
+      "Roast at 400F for 20-25 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": "drained and patted very dry"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Pat the chickpeas very dry - this is essential for crisping.",
+      "Toss with oil and berbere spice.",
+      "Roast 20-25 minutes, shaking the pan halfway, until crunchy and deeply golden."
+    ]
+  },
+  {
+    "name": "Coconut Mango Snack Cup",
+    "cuisine": "east-african",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen mango chunks",
+        "qty": 120,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.125,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Toss mango with coconut milk."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen mango chunks",
+        "qty": 130,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.125,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the mango with coconut milk, lime juice, and a light dusting of cardamom - a nod to the coconut-and-spice flavors common along the Swahili coast."
+    ]
+  },
+  {
+    "name": "Cardamom Spiced Tea Bites",
+    "cuisine": "east-african",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Dates",
+        "qty": 100,
+        "note": "pitted"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Blend dates, almonds, and cardamom into a dough, roll into balls."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Dates",
+        "qty": 110,
+        "note": "pitted"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Orange",
+        "qty": 0.25,
+        "note": "zested"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the dates and almonds in a food processor until a sticky dough forms.",
+      "Mix in the cardamom, cinnamon, and orange zest - these warm spices echo the flavors of East African spiced tea.",
+      "Roll into small balls and chill 15 minutes before serving."
+    ]
+  },
+  {
+    "name": "Honey Spiced Banana Bites",
+    "cuisine": "east-african",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss banana slices with honey and cardamom."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Peanuts",
+        "qty": 0.25,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.0625,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the banana slices with honey, cardamom, and coconut milk.",
+      "Top with chopped peanuts just before serving."
+    ]
+  },
+  {
+    "name": "Injera-Style Flatbread with Lentils",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Teff flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk teff flour with water into a thin batter, cook like a crepe, 2-3 minutes.",
+      "Simmer lentils with berbere and 1.5 cups water, 20 minutes.",
+      "Serve the lentils over the flatbread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Teff flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the teff flour with 3/4 cup water into a thin, smooth batter. Let rest 10 minutes.",
+      "Heat a lightly oiled nonstick pan over medium heat. Pour in a thin layer of batter, swirling to coat, and cook 2-3 minutes until bubbles form and the surface sets - traditionally cooked on one side only, like a crepe.",
+      "For the lentils: heat oil in a pot, cook onion 5-6 minutes, add garlic and berbere, cooking 30 seconds, then tomato paste.",
+      "Add the lentils and 2 cups water, simmer 20-25 minutes until tender.",
+      "Serve the spiced lentils spooned over the flatbread, torn and used to scoop, in the traditional style."
+    ]
+  },
+  {
+    "name": "Somali-Style Spiced Rice with Chicken",
+    "cuisine": "east-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Season chicken with cardamom and cumin, brown 5-6 minutes.",
+      "Cook rice with the chicken and 1 cup water, 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the chicken with cardamom, cumin, and cinnamon.",
+      "Heat a splash of oil in a pot over medium-high heat and brown the chicken, 5-6 minutes. Remove.",
+      "Add the onion and garlic, cooking 5-6 minutes until softened and golden.",
+      "Stir in the rice, coating it in the spiced onions, then add the broth and raisins.",
+      "Nestle the chicken back in, bring to a boil, then reduce heat, cover, and cook 20-25 minutes until the rice is tender and liquid is absorbed."
+    ]
+  },
+  {
+    "name": "Spiced Beef and Rice Jar",
+    "cuisine": "east-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss the cooked beef with cumin.",
+      "Layer with rice in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0208,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cooked beef with cumin and cardamom.",
+      "Layer the rice, carrot, and spiced beef in a jar, topped with cilantro."
+    ]
+  }
+]

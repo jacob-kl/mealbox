@@ -1,0 +1,1433 @@
+[
+  {
+    "name": "Jollof Rice with Chicken",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Brown the chicken, 5-6 minutes.",
+      "Add tomatoes and bell pepper, simmer 8 minutes.",
+      "Stir in rice and 1 cup water, cover and cook 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a heavy pot over medium-high heat and brown the chicken, 5-6 minutes per side. Remove.",
+      "Add the onion and bell pepper to the same pot, cooking 5-6 minutes until softened.",
+      "Add the garlic and ginger, cooking 30 seconds until fragrant.",
+      "Stir in the tomato paste and cook 1 minute, then add the diced tomatoes, suya spice, and bay leaf. Simmer 10 minutes.",
+      "Blend the sauce until smooth if you prefer (traditional, but optional), then return to the pot.",
+      "Stir in the rice, coating it in the sauce, then add the broth. Bring to a boil.",
+      "Nestle the chicken back in, reduce heat to low, cover, and cook 20-25 minutes until the rice is tender and liquid is absorbed. Remove the bay leaf before serving."
+    ]
+  },
+  {
+    "name": "West African Peanut Stew (Maafe)",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 100,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Brown the chicken, 5-6 minutes.",
+      "Stir in peanut butter, tomatoes, and sweet potato with 1/2 cup water.",
+      "Simmer 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a heavy pot over medium-high heat and brown the chicken, 5-6 minutes. Remove.",
+      "Add the onion, cooking 4-5 minutes until softened, then add garlic and ginger, cooking 30 seconds.",
+      "Stir in the peanut butter, tomatoes, cayenne, and broth, whisking until the peanut butter dissolves smoothly into the sauce.",
+      "Add the sweet potato and return the chicken to the pot.",
+      "Simmer 20-25 minutes until the chicken is cooked through and the sweet potato is tender, stirring occasionally so the peanut sauce doesn't stick.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "Suya Skewers",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the beef with suya spice and oil.",
+      "Grill or broil 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanuts",
+        "qty": 0.5,
+        "note": "oz, finely crushed"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "sliced, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the suya spice with crushed peanuts - this peanut-spice crust is the signature of real suya.",
+      "Toss the beef strips with oil, then coat generously in the suya-peanut mixture.",
+      "Thread onto skewers if using.",
+      "Grill or broil 3-4 minutes per side until charred at the edges.",
+      "Serve with raw sliced onion alongside, the traditional accompaniment."
+    ]
+  },
+  {
+    "name": "Groundnut Chicken with Rice",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken, 5-6 minutes.",
+      "Stir in peanut butter and tomatoes, simmer 15 minutes.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.33,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat and brown the chicken, 5-6 minutes.",
+      "Add the onion and garlic, cooking 4-5 minutes.",
+      "Whisk in the peanut butter, tomatoes, broth, and cayenne until smooth.",
+      "Simmer 18-20 minutes until the chicken is cooked through and the sauce has thickened.",
+      "Cook the rice per package directions and serve the chicken over it."
+    ]
+  },
+  {
+    "name": "West African Fish Stew",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes, bell pepper, and cayenne 8 minutes.",
+      "Add the cod and simmer 10-12 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the palm oil in a pot over medium heat. Cook the onion and bell pepper 5-6 minutes until softened.",
+      "Add the garlic, ginger, and cayenne, cooking 30 seconds until fragrant.",
+      "Add the tomatoes and simmer 10 minutes until slightly thickened.",
+      "Nestle the cod into the sauce, cover, and simmer 10-12 minutes until it flakes easily.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "Yam and Beef Stew",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yam",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add yam and tomatoes with 1/2 cup water, simmer 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yam",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion, garlic, and ginger, cooking 4-5 minutes until softened.",
+      "Stir in the cayenne, tomatoes, and broth.",
+      "Add the yam, bring to a simmer, cover, and cook 20-25 minutes until the yam is tender."
+    ]
+  },
+  {
+    "name": "Grilled Suya Chicken",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Coat the chicken in suya spice and oil.",
+      "Grill or bake at 400F for 18-20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanuts",
+        "qty": 0.5,
+        "note": "oz, finely crushed"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the oil and lime juice together, then rub over the chicken.",
+      "Coat generously with the suya spice and crushed peanuts.",
+      "Grill or bake at 400F for 18-20 minutes until cooked through (165F).",
+      "Rest 5 minutes before slicing."
+    ]
+  },
+  {
+    "name": "Black-Eyed Pea Stew",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black-eyed peas",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Simmer black-eyed peas, tomatoes, and bell pepper 15 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Black-eyed peas",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the palm oil in a pot over medium heat. Cook the onion and bell pepper 5-6 minutes.",
+      "Add the garlic, ginger, and cayenne, cooking 30 seconds until fragrant.",
+      "Add the tomatoes and black-eyed peas, simmer 15-18 minutes until heated through and slightly thickened."
+    ]
+  },
+  {
+    "name": "Jollof Rice and Chicken Jar",
+    "cuisine": "west-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Layer the rice, tomatoes, and chicken in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 0.1667,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0208,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with suya spice.",
+      "Layer the rice, tomatoes, and chicken in a jar, topped with cilantro."
+    ]
+  },
+  {
+    "name": "West African Peanut Soup",
+    "cuisine": "west-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 100,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Whisk peanut butter into tomatoes with 1 cup water, add sweet potato, simmer 18 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the oil in a pot over medium heat. Cook the onion and garlic 3-4 minutes.",
+      "Whisk in the peanut butter, tomatoes, ginger, cayenne, and 1.5 cups water until smooth.",
+      "Add the sweet potato, bring to a simmer, and cook 18-20 minutes until the sweet potato is tender."
+    ]
+  },
+  {
+    "name": "Suya Beef Salad Bowl",
+    "cuisine": "west-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 60,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Toss the beef with suya spice.",
+      "Serve over lettuce and cucumber."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 180,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Suya spice",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanuts",
+        "qty": 0.25,
+        "note": "oz, crushed"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 120,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 70,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "thin sliced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the sliced beef with suya spice and crushed peanuts.",
+      "Toss the lettuce, cucumber, and red onion with lime juice.",
+      "Top with the suya beef."
+    ]
+  },
+  {
+    "name": "Fried Plantain and Egg Bowl",
+    "cuisine": "west-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Plantain",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Fry the plantain 2-3 minutes per side.",
+      "Fry or scramble the eggs and serve alongside."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantain",
+        "qty": 170,
+        "note": "sliced diagonally"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp, optional"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "diced, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a skillet over medium heat and fry the plantain 2-3 minutes per side until caramelized and golden.",
+      "Remove and fry or scramble the eggs in the same pan, seasoning with a pinch of cayenne if you like heat.",
+      "Serve together topped with diced tomatoes."
+    ]
+  },
+  {
+    "name": "Black-Eyed Pea Fritters (Akara)",
+    "cuisine": "west-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black-eyed peas",
+        "qty": 200,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mash the black-eyed peas with onion.",
+      "Pan-fry spoonfuls 2-3 minutes per side until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Black-eyed peas",
+        "qty": 220,
+        "note": "mashed, skins removed if possible"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Salsa",
+        "qty": 2,
+        "note": "tbsp, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the black-eyed peas well, leaving some texture, and mix with the onion and cayenne.",
+      "Heat oil in a skillet over medium heat. Drop spoonfuls of the mixture into the pan, flattening slightly.",
+      "Fry 2-3 minutes per side until golden and crisp on the outside.",
+      "Serve with salsa or a spicy dipping sauce on the side."
+    ]
+  },
+  {
+    "name": "West African Breakfast Porridge",
+    "cuisine": "west-african",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk cornmeal into milk, cook 8-10 minutes until thick.",
+      "Sweeten with honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.85,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanuts",
+        "qty": 0.25,
+        "note": "oz, chopped"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into the milk in a saucepan, breaking up any lumps.",
+      "Cook over medium-low heat, stirring often, 8-10 minutes until thick and smooth.",
+      "Stir in the ginger, then top with honey and chopped peanuts."
+    ]
+  },
+  {
+    "name": "Spiced Plantain Breakfast",
+    "cuisine": "west-african",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Plantain",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Fry the plantain slices, 2-3 minutes per side.",
+      "Scramble the eggs and serve alongside."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantain",
+        "qty": 170,
+        "note": "sliced diagonally"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.1,
+        "note": "tsp, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a skillet over medium heat and fry the plantain 2-3 minutes per side until golden.",
+      "Whisk the eggs with ginger and a pinch of cayenne if using.",
+      "Scramble the eggs in the same pan, 2-3 minutes, and serve alongside the plantain."
+    ]
+  },
+  {
+    "name": "Spiced Peanut Snack Mix",
+    "cuisine": "west-african",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanuts",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss peanuts with cayenne and toast in a dry skillet 3-4 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the peanuts with cayenne, ginger, and honey until evenly coated.",
+      "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often, until fragrant.",
+      "Spread on parchment to cool completely - they'll crisp up as they cool."
+    ]
+  },
+  {
+    "name": "Roasted Yam Snack",
+    "cuisine": "west-african",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yam",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss yam with oil and roast at 425F for 20-25 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yam",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 425F.",
+      "Toss the yam cubes with oil, cayenne, and ginger.",
+      "Spread on a baking sheet and roast 20-25 minutes, flipping halfway, until tender and browned at the edges."
+    ]
+  },
+  {
+    "name": "Coconut Peanut Bites",
+    "cuisine": "west-african",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Coconut flour",
+        "qty": 0.125,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix ingredients into a dough, roll into balls, chill."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Coconut flour",
+        "qty": 0.1562,
+        "note": ""
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Peanuts",
+        "qty": 0.25,
+        "note": "oz, chopped, for rolling"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the peanut butter, honey, coconut flour, and vanilla into a soft, cohesive dough.",
+      "Roll into small balls, then roll each in chopped peanuts to coat.",
+      "Chill at least 15 minutes before serving to firm up."
+    ]
+  },
+  {
+    "name": "Grilled Tilapia with Pepper Sauce",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 200,
+        "note": "or tilapia if available"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Grill or pan-sear the fish 3-4 minutes per side.",
+      "Simmer tomatoes and bell pepper 8 minutes and spoon over the fish."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 220,
+        "note": "or tilapia if available"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with lime juice and a pinch of salt.",
+      "Heat a splash of oil in a skillet over medium-high heat and sear the fish 3-4 minutes per side until it flakes easily. Remove.",
+      "In the same pan, cook the onion and bell pepper 5-6 minutes, then add garlic, ginger, and cayenne, cooking 30 seconds.",
+      "Add the tomatoes and simmer 10 minutes until thickened.",
+      "Spoon the pepper sauce over the fish and top with cilantro."
+    ]
+  },
+  {
+    "name": "Fried Banana Fritters",
+    "cuisine": "west-african",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix mashed banana with flour into a batter.",
+      "Fry spoonfuls 2-3 minutes per side until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "very ripe, mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp, for dusting"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the banana well, then mix in the flour, ginger, and cinnamon until a thick batter forms.",
+      "Heat oil in a skillet over medium heat. Drop spoonfuls of batter into the pan, flattening slightly.",
+      "Fry 2-3 minutes per side until deeply golden and cooked through.",
+      "Drain briefly and dust with sugar while still warm."
+    ]
+  }
+]

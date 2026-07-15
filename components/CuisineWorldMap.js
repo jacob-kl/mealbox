@@ -48,6 +48,11 @@ const GROUP_COLORS = {
   thai: '#8B5FBF',
   vietnamese: '#8FA83E',
   asian: '#C4A63E',
+  'north-african': '#C89B5C',
+  'west-african': '#3FA05C',
+  'east-african': '#D6673E',
+  'central-african': '#7B5EA7',
+  'south-african': '#3E8FA0',
 };
 
 /**

@@ -56,6 +56,42 @@ const COUNTRY_GROUPS = {
   Cambodia: { group: 'asian', cuisines: ['asian'] },
   Laos: { group: 'asian', cuisines: ['asian'] },
   Taiwan: { group: 'asian', cuisines: ['asian'] },
+  // North Africa cluster
+  Morocco: { group: 'north-african', cuisines: ['north-african'] },
+  Egypt: { group: 'north-african', cuisines: ['north-african'] },
+  Tunisia: { group: 'north-african', cuisines: ['north-african'] },
+  Algeria: { group: 'north-african', cuisines: ['north-african'] },
+  Libya: { group: 'north-african', cuisines: ['north-african'] },
+  // West Africa cluster
+  Nigeria: { group: 'west-african', cuisines: ['west-african'] },
+  Ghana: { group: 'west-african', cuisines: ['west-african'] },
+  Senegal: { group: 'west-african', cuisines: ['west-african'] },
+  "Côte d'Ivoire": { group: 'west-african', cuisines: ['west-african'] },
+  Mali: { group: 'west-african', cuisines: ['west-african'] },
+  Guinea: { group: 'west-african', cuisines: ['west-african'] },
+  'Burkina Faso': { group: 'west-african', cuisines: ['west-african'] },
+  'Guinea-Bissau': { group: 'west-african', cuisines: ['west-african'] },
+  // East Africa cluster
+  Ethiopia: { group: 'east-african', cuisines: ['east-african'] },
+  Kenya: { group: 'east-african', cuisines: ['east-african'] },
+  Tanzania: { group: 'east-african', cuisines: ['east-african'] },
+  Uganda: { group: 'east-african', cuisines: ['east-african'] },
+  Somalia: { group: 'east-african', cuisines: ['east-african'] },
+  // Central Africa cluster
+  'Dem. Rep. Congo': { group: 'central-african', cuisines: ['central-african'] },
+  Cameroon: { group: 'central-african', cuisines: ['central-african'] },
+  Congo: { group: 'central-african', cuisines: ['central-african'] },
+  Gabon: { group: 'central-african', cuisines: ['central-african'] },
+  Chad: { group: 'central-african', cuisines: ['central-african'] },
+  'Central African Rep.': { group: 'central-african', cuisines: ['central-african'] },
+  'Eq. Guinea': { group: 'central-african', cuisines: ['central-african'] },
+  // South Africa cluster
+  'South Africa': { group: 'south-african', cuisines: ['south-african'] },
+  Namibia: { group: 'south-african', cuisines: ['south-african'] },
+  Botswana: { group: 'south-african', cuisines: ['south-african'] },
+  Lesotho: { group: 'south-african', cuisines: ['south-african'] },
+  eSwatini: { group: 'south-african', cuisines: ['south-african'] },
+  Zimbabwe: { group: 'south-african', cuisines: ['south-african'] },
 };
 
 // United States: every state belongs to one of three groups now - New
@@ -190,9 +226,20 @@ const US_BOX = {
 };
 
 const usStatesGeo = feature(usTopo, usTopo.objects.states).features;
+// us-atlas includes Pacific/Caribbean territories (Guam, American Samoa,
+// Northern Mariana Islands, Puerto Rico, US Virgin Islands) at longitudes
+// wildly outside the continental US. Left in, they corrupt the fitSize()
+// bounding box the same way Alaska's true position did - the box stretches
+// to cover them, compressing every real state toward one side. It's subtle
+// for centrally-located states but severe for states at the edge of the
+// continental cluster (Washington ended up rendering near Kentucky).
+const NON_STATE_TERRITORIES = new Set([
+  'American Samoa', 'Guam', 'Commonwealth of the Northern Mariana Islands',
+  'Puerto Rico', 'United States Virgin Islands',
+]);
 const usProjection = geoAlbersUsa().fitSize(
   [US_BOX.width, US_BOX.height],
-  { type: 'FeatureCollection', features: usStatesGeo }
+  { type: 'FeatureCollection', features: usStatesGeo.filter((f) => !NON_STATE_TERRITORIES.has(f.properties.name)) }
 );
 const usPathGen = geoPath(usProjection);
 

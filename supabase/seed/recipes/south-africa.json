@@ -1,0 +1,1423 @@
+[
+  {
+    "name": "Bobotie (Spiced Beef Bake)",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef with curry powder and raisins, 6-7 minutes.",
+      "Beat the egg and pour over the top, bake at 350F for 20 minutes until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Apricot jam",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "slice, torn"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Soak the torn bread in the milk until softened, about 5 minutes, then squeeze out excess milk (reserve it) and mash the bread into the meat mixture later.",
+      "Preheat the oven to 350F. Heat a splash of oil in a skillet over medium-high heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the beef, browning and breaking it apart, 6-7 minutes.",
+      "Stir in the curry powder, raisins, apricot jam, and the soaked bread. Cook 2-3 minutes to combine.",
+      "Transfer to a small baking dish, press flat, and tuck the bay leaf on top.",
+      "Whisk the egg with the reserved milk and pour evenly over the meat.",
+      "Bake 25-30 minutes until the egg topping is set and lightly golden."
+    ]
+  },
+  {
+    "name": "South African Beef Curry",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef with curry powder, 5-6 minutes.",
+      "Add tomatoes, simmer 20 minutes.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 2,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a heavy pot over medium-high heat and brown the beef, 4-5 minutes.",
+      "Add the onion, garlic, and ginger, cooking 4-5 minutes until softened.",
+      "Stir in the curry powder, cooking 1 minute until fragrant - a nod to the Cape Malay curry tradition brought by early Southeast Asian immigrants to South Africa.",
+      "Add the tomatoes and broth. Bring to a simmer.",
+      "Cover and cook 25-30 minutes until the beef is tender.",
+      "Cook the rice per package directions and serve the curry over it, topped with cilantro."
+    ]
+  },
+  {
+    "name": "Braai-Style Grilled Chicken",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Apricot jam",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk apricot jam and lemon juice, brush over chicken.",
+      "Grill or bake at 400F for 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": "bone-in if available"
+      },
+      {
+        "ingredient": "Apricot jam",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the apricot jam, lemon juice, garlic, paprika, and oil together into a glaze.",
+      "Coat the chicken and marinate at least 20 minutes.",
+      "Grill over medium heat or bake at 400F for 20-22 minutes, basting with extra glaze halfway, until cooked through (165F).",
+      "This sweet-tart glaze is a classic braai (South African BBQ) flavor."
+    ]
+  },
+  {
+    "name": "Cape Malay Chicken Curry",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken with curry powder, 5-6 minutes.",
+      "Add coconut milk, simmer 15 minutes.",
+      "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 2,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground turmeric",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Dried apricots",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium-high heat and brown the chicken, 5-6 minutes.",
+      "Add the onion and garlic, cooking 4-5 minutes.",
+      "Stir in the curry powder and turmeric, cooking 1 minute until fragrant.",
+      "Add the coconut milk and dried apricots - a signature touch of Cape Malay curry's gentle sweetness.",
+      "Simmer 15-18 minutes until the chicken is cooked through and the sauce has thickened slightly.",
+      "Cook the rice per package directions and serve the curry over it."
+    ]
+  },
+  {
+    "name": "Chakalaka Beef Bowl",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add bell pepper, carrot, and tomatoes, simmer 15 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 70,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion, garlic, curry powder, and cayenne, cooking 3-4 minutes until fragrant.",
+      "Add the bell pepper, carrot, and tomatoes - the classic chakalaka vegetable relish base.",
+      "Simmer 15-18 minutes until the vegetables are tender but still have some bite."
+    ]
+  },
+  {
+    "name": "South African Grilled Fish",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Rub the cod with lemon juice and curry powder.",
+      "Grill or pan-sear 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the lemon juice, curry powder, garlic, and oil together. Coat the cod and marinate 15 minutes.",
+      "Grill or pan-sear over medium-high heat, 3-4 minutes per side, until it flakes easily.",
+      "Top with parsley before serving."
+    ]
+  },
+  {
+    "name": "Pap with Beef Stew",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk cornmeal into 1.5 cups boiling water, cook 8-10 minutes until thick (this is pap).",
+      "Brown the beef with tomatoes, simmer 15 minutes, serve over the pap."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Bring 1.75 cups water to a boil. Whisk in the cornmeal gradually to avoid lumps.",
+      "Reduce heat to low and cook, stirring often, 10-12 minutes until very thick - this is pap, the maize porridge that's a staple across Southern Africa.",
+      "Meanwhile, brown the beef with onion and garlic, 6-7 minutes.",
+      "Add the tomatoes and broth, simmer 15-18 minutes until thickened.",
+      "Serve the stew over the pap."
+    ]
+  },
+  {
+    "name": "South African Chicken and Rice Jar",
+    "cuisine": "south-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      }
+    ],
+    "steps": [
+      "Toss the chicken with curry powder.",
+      "Layer with rice in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with curry powder.",
+      "Layer the rice, carrot, raisins, and chicken in a jar."
+    ]
+  },
+  {
+    "name": "Butternut Squash Bredie (Stew)",
+    "cuisine": "south-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Butternut squash",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer squash, tomatoes, and curry powder 18-20 minutes until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Butternut squash",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a pot over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the curry powder, cooking 30 seconds until fragrant.",
+      "Add the squash, tomatoes, and brown sugar - South African bredies are traditionally a touch sweet.",
+      "Cover and simmer 20-25 minutes until the squash is very tender."
+    ]
+  },
+  {
+    "name": "Chakalaka Chickpea Salad",
+    "cuisine": "south-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "grated"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas, bell pepper, and carrot together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the curry powder, vinegar, and oil together.",
+      "Toss the chickpeas, bell pepper, carrot, and onion with the dressing.",
+      "Let sit 10 minutes for the flavors to meld before serving."
+    ]
+  },
+  {
+    "name": "Curried Lentil Soup (South African)",
+    "cuisine": "south-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer lentils, tomatoes, and curry powder with 2 cups water for 25 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the curry powder, cooking 30 seconds until fragrant.",
+      "Add the tomatoes, lentils, carrot, and 2 cups water. Bring to a simmer.",
+      "Cover and cook 25-30 minutes until the lentils are tender.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "South African Breakfast Pap and Eggs",
+    "cuisine": "south-african",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk cornmeal into 1.25 cups boiling water, cook 8-10 minutes.",
+      "Fry or scramble eggs and serve alongside."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal/polenta (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Bring 1.5 cups water to a boil. Whisk in the cornmeal gradually.",
+      "Cook over low heat, stirring often, 10-12 minutes until thick.",
+      "Stir in the butter.",
+      "Fry or scramble the eggs and serve alongside the pap, topped with diced tomatoes."
+    ]
+  },
+  {
+    "name": "Curried Egg Wrap",
+    "cuisine": "south-african",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Scramble the eggs with curry powder.",
+      "Wrap in the tortilla."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 40,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a skillet and cook the bell pepper 2-3 minutes.",
+      "Whisk the eggs with curry powder, pour into the pan, and scramble with the pepper and tomatoes, 2-3 minutes.",
+      "Warm the tortilla and wrap tightly around the filling."
+    ]
+  },
+  {
+    "name": "Biltong-Style Spiced Beef Strips",
+    "cuisine": "south-african",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "sliced very thin"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss the beef with vinegar and cumin.",
+      "Pan-sear 1-2 minutes per side until well-done and slightly dried."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "sliced very thin against the grain"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the thin-sliced beef with vinegar, cumin, cinnamon, and pepper - this spice blend echoes traditional biltong seasoning (coriander and vinegar-cured dried meat).",
+      "Let marinate 15 minutes.",
+      "Pan-sear over medium-high heat, 1-2 minutes per side, until well done with slightly crisped edges, approximating biltong's dense, well-seasoned character without an overnight cure."
+    ]
+  },
+  {
+    "name": "Spiced Roasted Chickpeas (South African)",
+    "cuisine": "south-african",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 180,
+        "note": "drained and patted dry"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss chickpeas with curry powder and oil.",
+      "Roast at 400F for 20-25 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garbanzo beans",
+        "qty": 200,
+        "note": "drained and patted very dry"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Pat the chickpeas very dry.",
+      "Toss with oil and curry powder.",
+      "Roast 20-25 minutes, shaking halfway, until crunchy and golden."
+    ]
+  },
+  {
+    "name": "Apricot Almond Bites",
+    "cuisine": "south-african",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Dried apricots",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 0.5,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Blend apricots and almonds into a sticky dough, roll into bites."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Dried apricots",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 0.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the dried apricots and almonds in a food processor until they form a sticky, cohesive dough.",
+      "Mix in the cinnamon and honey.",
+      "Roll into small bites and chill 15 minutes before serving."
+    ]
+  },
+  {
+    "name": "Malva-Style Sponge Bites",
+    "cuisine": "south-african",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Apricot jam",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix flour, apricot jam, and egg into a batter.",
+      "Bake at 350F in small ramekins for 18-20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Apricot jam",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.125,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 350F.",
+      "Whisk the egg, sugar, melted butter, and apricot jam together until well combined - the jam is the signature flavor of malva pudding.",
+      "Fold in the flour and milk just until combined.",
+      "Pour into small greased ramekins and bake 18-22 minutes until a toothpick comes out clean.",
+      "Serve warm - traditionally malva pudding is soaked in a warm cream sauce right out of the oven, but these bites are delicious on their own."
+    ]
+  },
+  {
+    "name": "South African Lamb Curry",
+    "cuisine": "south-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the lamb with curry powder, 6-7 minutes.",
+      "Add tomatoes, simmer 15 minutes.",
+      "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 2,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Dried apricots",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat. Brown the lamb, breaking it apart, 6-7 minutes.",
+      "Add the onion and garlic, cooking 4-5 minutes.",
+      "Stir in the curry powder, cooking 1 minute until fragrant.",
+      "Add the tomatoes and dried apricots, simmer 18-20 minutes until thickened.",
+      "Cook the rice per package directions and serve the curry over it, topped with cilantro."
+    ]
+  },
+  {
+    "name": "Bunny Chow (Curry in Bread Bowl)",
+    "cuisine": "south-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, hollowed"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with curry powder, 5-6 minutes.",
+      "Add tomatoes, simmer 15 minutes.",
+      "Spoon into the hollowed bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, hollowed into a bowl shape"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium-high heat and brown the chicken, 5-6 minutes.",
+      "Add the onion and garlic, cooking 4-5 minutes, then the curry powder, cooking 30 seconds.",
+      "Add the tomatoes and carrot, simmer 15-18 minutes until the chicken is cooked through.",
+      "Hollow out the bread slices to form a bowl and spoon the curry inside - the bunny chow tradition of using bread itself as the serving vessel."
+    ]
+  },
+  {
+    "name": "Curried Chicken Rice Bowl",
+    "cuisine": "south-african",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss the chicken with curry powder.",
+      "Serve over cooked rice with raisins."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 0.25,
+        "note": "oz, sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with curry powder.",
+      "Cook the rice per package directions.",
+      "Serve the chicken over rice with grated carrot, raisins, and sliced almonds scattered on top."
+    ]
+  }
+]

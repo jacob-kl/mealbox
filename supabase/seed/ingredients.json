@@ -6472,5 +6472,361 @@
       "gluten-free",
       "vegan"
     ]
+  },
+  {
+    "name": "Ras el hanout",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 8,
+    "protein": 0.3,
+    "carbs": 1.5,
+    "fat": 0.3,
+    "fiber": 0.6,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Harissa",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 15,
+    "protein": 0.4,
+    "carbs": 2,
+    "fat": 0.8,
+    "fiber": 0.8,
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Preserved lemon",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp, chopped",
+    "cal": 5,
+    "protein": 0.1,
+    "carbs": 1.5,
+    "fat": 0,
+    "fiber": 0.3,
+    "micros": {},
+    "sub_group": "pickled_briny",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Cassava",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 160,
+    "protein": 1.4,
+    "carbs": 38,
+    "fat": 0.3,
+    "fiber": 1.8,
+    "micros": {},
+    "sub_group": "starchy_root",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Palm oil",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 120,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 13.6,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "cooking_oil",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Okra",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 33,
+    "protein": 1.9,
+    "carbs": 7.5,
+    "fat": 0.2,
+    "fiber": 3.2,
+    "micros": {},
+    "sub_group": "pod_veg",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Suya spice",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 22,
+    "protein": 1,
+    "carbs": 3,
+    "fat": 0.8,
+    "fiber": 1.2,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Berbere spice",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 20,
+    "protein": 0.8,
+    "carbs": 3.5,
+    "fat": 0.6,
+    "fiber": 1.5,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Teff flour",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 367,
+    "protein": 13.3,
+    "carbs": 73,
+    "fat": 2.4,
+    "fiber": 8,
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Tamarind paste",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 20,
+    "protein": 0.2,
+    "carbs": 5.3,
+    "fat": 0,
+    "fiber": 0.4,
+    "micros": {},
+    "sub_group": "extract_flavoring",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Coconut milk (full-fat, canned)",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup",
+    "cal": 110,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 11,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "milk",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Ground ginger",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 6,
+    "protein": 0.2,
+    "carbs": 1.3,
+    "fat": 0.1,
+    "fiber": 0.2,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Cayenne pepper",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 6,
+    "protein": 0.2,
+    "carbs": 1,
+    "fat": 0.3,
+    "fiber": 0.5,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Apricot jam",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 48,
+    "protein": 0.1,
+    "carbs": 13,
+    "fat": 0,
+    "fiber": 0.2,
+    "micros": {},
+    "sub_group": "sweetener_liquid",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Ground turmeric",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 8,
+    "protein": 0.3,
+    "carbs": 1.4,
+    "fat": 0.2,
+    "fiber": 0.5,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Dried apricots",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 241,
+    "protein": 3.4,
+    "carbs": 62,
+    "fat": 0.5,
+    "fiber": 7.3,
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Semolina",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 360,
+    "protein": 12.7,
+    "carbs": 72.8,
+    "fat": 1.1,
+    "fiber": 3.9,
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": [
+      "vegan"
+    ]
+  },
+  {
+    "name": "Caraway seed",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 7,
+    "protein": 0.4,
+    "carbs": 1.1,
+    "fat": 0.3,
+    "fiber": 0.8,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Yam",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 118,
+    "protein": 1.5,
+    "carbs": 28,
+    "fat": 0.2,
+    "fiber": 4.1,
+    "micros": {},
+    "sub_group": "starchy_root",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Jalapeno pepper",
+    "serving_qty": 1,
+    "serving_unit": "medium",
+    "serving_label": "per 1 medium pepper",
+    "cal": 4,
+    "protein": 0.2,
+    "carbs": 0.9,
+    "fat": 0,
+    "fiber": 0.4,
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Raisins",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 27,
+    "protein": 0.3,
+    "carbs": 7.1,
+    "fat": 0,
+    "fiber": 0.4,
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]
