@@ -1,153 +1,93 @@
 'use client';
 
-import { useState } from 'react';
-import { flagFor } from '@/lib/cuisineFlags';
-import { cuisineLabel } from '@/components/ui';
+import { useMemo, useState } from 'react';
+import { MAP_SHAPES, MAP_WIDTH, MAP_HEIGHT } from '@/lib/mapShapes';
 
-// Loosely world-positioned "region cards" rather than literal coastlines —
-// this fits the app's existing card-based recipe-box aesthetic better than
-// attempting real geography, and reads clearly at any zoom level.
-const REGIONS = [
-  {
-    name: 'North America',
-    x: 30, y: 30, w: 230, h: 160,
-    pins: [
-      { cuisine: 'american', x: 70, y: 110 },
-      { cuisine: 'southern', x: 145, y: 110 },
-      { cuisine: 'new-mexico', x: 220, y: 110 },
-    ],
-  },
-  {
-    name: 'Mexico & Caribbean',
-    x: 90, y: 210, w: 200, h: 100,
-    pins: [
-      { cuisine: 'mexican', x: 140, y: 260 },
-      { cuisine: 'caribbean', x: 240, y: 260 },
-    ],
-  },
-  {
-    name: 'Europe',
-    x: 390, y: 20, w: 170, h: 120,
-    pins: [
-      { cuisine: 'italian', x: 418, y: 80 },
-      { cuisine: 'french', x: 475, y: 80 },
-      { cuisine: 'spanish', x: 532, y: 80 },
-    ],
-  },
-  {
-    name: 'Mediterranean & Middle East',
-    x: 420, y: 160, w: 230, h: 100,
-    pins: [
-      { cuisine: 'mediterranean', x: 478, y: 210 },
-      { cuisine: 'middle-eastern', x: 593, y: 210 },
-    ],
-  },
-  {
-    name: 'South Asia',
-    x: 670, y: 190, w: 140, h: 120,
-    pins: [{ cuisine: 'indian', x: 740, y: 250 }],
-  },
-  {
-    name: 'East Asia',
-    x: 760, y: 20, w: 210, h: 140,
-    pins: [
-      { cuisine: 'chinese', x: 795, y: 90 },
-      { cuisine: 'japanese', x: 865, y: 90 },
-      { cuisine: 'korean', x: 935, y: 90 },
-    ],
-  },
-  {
-    name: 'Southeast Asia',
-    x: 790, y: 180, w: 190, h: 120,
-    pins: [
-      { cuisine: 'thai', x: 822, y: 240 },
-      { cuisine: 'vietnamese', x: 885, y: 240 },
-      { cuisine: 'asian', x: 948, y: 240 },
-    ],
-  },
-];
+// Every shape belongs to one or more "hover groups" (see generate-map-data
+// script). When several shapes belong to the same group they act as one
+// region: hover or click any member and the whole group responds together.
+// A shape that belongs to more than one group (only New Mexico, currently -
+// it's both its own micro-region AND part of the broader "usa" group)
+// resolves to whichever of its groups has the FEWEST members, so hovering
+// New Mexico directly picks the small 'new-mexico' group, while hovering
+// any other state picks the big 'usa' group, which New Mexico still
+// belongs to and lights up as part of.
+function computeGroupSizes(shapes) {
+  const sizes = {};
+  for (const s of shapes) {
+    if (!s.groups) continue;
+    for (const g of s.groups) sizes[g] = (sizes[g] || 0) + 1;
+  }
+  return sizes;
+}
+
+function mostSpecificGroup(shape, groupSizes) {
+  if (!shape.groups?.length) return null;
+  return shape.groups.reduce((best, g) => (groupSizes[g] < groupSizes[best] ? g : best), shape.groups[0]);
+}
 
 /**
- * @param {string[]} cuisinesPresent - which cuisine slugs actually have recipes
- * @param {(cuisine: string) => void} onSelect
+ * @param {(cuisines: string[], label: string) => void} onSelect - called
+ *   with the cuisine slug(s) for the clicked region and a human label
  */
-export default function CuisineWorldMap({ cuisinesPresent, onSelect }) {
-  const [hoveredPin, setHoveredPin] = useState(null);
+export default function CuisineWorldMap({ onSelect }) {
+  const [hoveredGroup, setHoveredGroup] = useState(null);
+  const [hoveredLabel, setHoveredLabel] = useState(null);
+
+  const groupSizes = useMemo(() => computeGroupSizes(MAP_SHAPES), []);
 
   return (
-    <div className="index-card p-4 sm:p-6 mb-4">
-      <svg viewBox="0 0 1010 340" className="w-full h-auto" role="img" aria-label="Map of cuisines, tap a flag to browse that cuisine">
-        <defs>
-          <pattern id="mapDots" width="16" height="16" patternUnits="userSpaceOnUse">
-            <circle cx="2" cy="2" r="1" fill="rgb(var(--color-ink) / 0.06)" />
-          </pattern>
-        </defs>
-        <rect x="0" y="0" width="1010" height="340" rx="16" fill="rgb(var(--color-paper))" />
-        <rect x="0" y="0" width="1010" height="340" rx="16" fill="url(#mapDots)" />
+    <div className="index-card p-3 sm:p-5">
+      <div className="flex items-center justify-between mb-2 px-1">
+        <p className="tab-label text-rust">Browse by region</p>
+        <p className="text-xs text-ink/50 h-4">{hoveredLabel || ''}</p>
+      </div>
+      <svg
+        viewBox={`0 0 ${MAP_WIDTH} ${MAP_HEIGHT}`}
+        className="w-full h-auto rounded-card"
+        style={{ background: 'rgb(var(--color-line) / 0.25)' }}
+        onMouseLeave={() => {
+          setHoveredGroup(null);
+          setHoveredLabel(null);
+        }}
+      >
+        {MAP_SHAPES.map((shape) => {
+          const clickable = !!shape.groups;
+          const activeGroup = clickable ? mostSpecificGroup(shape, groupSizes) : null;
+          const isActive = clickable && hoveredGroup === activeGroup;
+          const isDimmed = hoveredGroup && !isActive;
+          const transform = shape.translateX != null ? `translate(${shape.translateX},${shape.translateY})` : undefined;
 
-        {REGIONS.map((region) => {
-          const activePins = region.pins.filter((p) => cuisinesPresent.includes(p.cuisine));
-          if (!activePins.length) return null;
+          let fill;
+          if (!clickable) {
+            fill = 'rgb(var(--color-line) / 0.7)';
+          } else if (isActive) {
+            fill = 'rgb(var(--color-rust))';
+          } else {
+            fill = 'rgb(var(--color-rust) / 0.5)';
+          }
+
           return (
-            <g key={region.name}>
-              <rect
-                x={region.x}
-                y={region.y}
-                width={region.w}
-                height={region.h}
-                rx={28}
-                fill="rgb(var(--color-card))"
-                stroke="rgb(var(--color-line))"
-                strokeWidth="1.5"
-              />
-              <text
-                x={region.x + region.w / 2}
-                y={region.y + 20}
-                textAnchor="middle"
-                fontSize="11"
-                letterSpacing="0.06em"
-                fill="rgb(var(--color-ink) / 0.45)"
-                style={{ textTransform: 'uppercase' }}
-              >
-                {region.name}
-              </text>
-              {activePins.map((pin) => {
-                const isHovered = hoveredPin === pin.cuisine;
-                return (
-                  <g
-                    key={pin.cuisine}
-                    onClick={() => onSelect(pin.cuisine)}
-                    onMouseEnter={() => setHoveredPin(pin.cuisine)}
-                    onMouseLeave={() => setHoveredPin(null)}
-                    style={{ cursor: 'pointer' }}
-                  >
-                    <circle
-                      cx={pin.x}
-                      cy={pin.y}
-                      r={isHovered ? 24 : 22}
-                      fill="rgb(var(--color-card))"
-                      stroke="rgb(var(--color-rust))"
-                      strokeWidth={isHovered ? 2.5 : 1.5}
-                      style={{ transition: 'r 0.15s, stroke-width 0.15s' }}
-                    />
-                    <text x={pin.x} y={pin.y + 8} textAnchor="middle" fontSize="22" style={{ pointerEvents: 'none' }}>
-                      {flagFor(pin.cuisine)}
-                    </text>
-                    <text
-                      x={pin.x}
-                      y={pin.y + 40}
-                      textAnchor="middle"
-                      fontSize="11"
-                      fontWeight={isHovered ? 700 : 500}
-                      fill={isHovered ? 'rgb(var(--color-rust))' : 'rgb(var(--color-ink) / 0.7)'}
-                      style={{ pointerEvents: 'none' }}
-                    >
-                      {cuisineLabel(pin.cuisine)}
-                    </text>
-                  </g>
-                );
-              })}
-            </g>
+            <path
+              key={shape.id}
+              d={shape.d}
+              transform={transform}
+              fill={fill}
+              stroke={shape.kind === 'state' ? 'rgb(var(--color-paper))' : 'rgb(var(--color-ink) / 0.15)'}
+              strokeWidth={shape.kind === 'state' ? 0.6 : 0.5}
+              opacity={isDimmed ? 0.28 : 1}
+              style={{ cursor: clickable ? 'pointer' : 'default', transition: 'opacity 0.15s, fill 0.15s' }}
+              onMouseEnter={() => {
+                if (!clickable) return;
+                setHoveredGroup(activeGroup);
+                setHoveredLabel(activeGroup === 'usa' ? 'United States' : activeGroup === 'new-mexico' ? 'New Mexico' : shape.name);
+              }}
+              onClick={() => {
+                if (!clickable) return;
+                const label = activeGroup === 'usa' ? 'United States' : activeGroup === 'new-mexico' ? 'New Mexico' : shape.name;
+                onSelect(shape.cuisines, label);
+              }}
+            />
           );
         })}
       </svg>
