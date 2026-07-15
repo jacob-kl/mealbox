@@ -65,7 +65,7 @@
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 0.25,
+        "qty": 1,
         "note": "tsp"
       },
       {
@@ -335,7 +335,7 @@
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 0.1,
+        "qty": 1,
         "note": "tsp"
       },
       {
@@ -366,7 +366,7 @@
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 0.25,
+        "qty": 1,
         "note": "tsp"
       },
       {
@@ -1446,6 +1446,154 @@
     "steps_detailed": [
       "Blend all ingredients together until smooth.",
       "Chill at least 1 hour \u2014 gazpacho is meant to be served very cold, and the flavors deepen as it sits."
+    ]
+  },
+  {
+    "name": "Seafood Paella (Paella de Marisco)",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": "peeled, tails on"
+      },
+      {
+        "ingredient": "Mussels",
+        "qty": 150,
+        "note": "scrubbed"
+      },
+      {
+        "ingredient": "Bomba rice (dry)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 2,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Steep the saffron in 1/4 cup of warm broth for 10 minutes.",
+      "Heat olive oil in a wide, shallow paella pan (or the widest skillet you have) over medium-high heat. Cook the bell pepper 3-4 minutes.",
+      "Add the garlic and paprika, cooking 30 seconds, then stir in the tomatoes and cook 3-4 minutes until slightly reduced.",
+      "Add the rice, stirring to coat every grain in the sofrito, then pour in the broth and saffron liquid.",
+      "Bring to a boil, then reduce to a simmer and do not stir again \u2014 this is what lets the socarrat (the crisp, caramelized bottom layer) form.",
+      "Cook uncovered for 10 minutes, then nestle the shrimp and mussels into the rice.",
+      "Continue cooking 8-10 more minutes until the rice has absorbed the liquid, the shrimp are pink, and the mussels have opened (discard any that stay closed).",
+      "Remove from heat, cover loosely with foil, and let rest 5 minutes before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 220,
+        "note": "peeled, tails on"
+      },
+      {
+        "ingredient": "Mussels",
+        "qty": 200,
+        "note": "scrubbed and debearded"
+      },
+      {
+        "ingredient": "Bomba rice (dry)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 2,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Steep the saffron threads in 1/4 cup of warm broth for at least 10 minutes \u2014 this is what gives paella its signature color and flavor, and pre-steeping matters more than dumping the threads straight into the pan.",
+      "Pat the shrimp and mussels dry. Scrub the mussel shells under cold water and pull off any visible beards. Discard any mussels that are cracked or don't close when tapped.",
+      "Heat the olive oil in the widest, shallowest pan you own over medium-high heat \u2014 surface area is what makes paella work, so a deep pot won't give the same result.",
+      "Add the onion and bell pepper, cooking 4-5 minutes until softened.",
+      "Add the garlic and paprika, cooking 30 seconds until fragrant, then stir in the tomatoes and simmer 3-4 minutes until slightly reduced \u2014 this is the sofrito, the flavor base for everything that follows.",
+      "Add the rice and stir for about a minute so every grain gets coated in the sofrito before any liquid goes in.",
+      "Pour in the broth and the saffron liquid, then spread the rice into an even layer across the pan.",
+      "Bring to a boil, then reduce to a steady simmer. From this point on, do not stir \u2014 resisting the urge to stir is the single most important technique in paella, since it's what allows the bottom layer to caramelize into socarrat instead of turning into risotto.",
+      "Simmer uncovered for 10 minutes, then nestle the shrimp and mussels into the rice, pushing them down slightly so they're partially submerged.",
+      "Continue cooking 8-10 more minutes, until the liquid is mostly absorbed, the shrimp are opaque and pink, and the mussels have opened \u2014 discard any mussels that remain closed after cooking.",
+      "In the last minute, listen and smell for a faint toasting aroma from the bottom \u2014 that's the socarrat forming. Pull it off heat right as you notice it, before it can actually burn.",
+      "Remove from heat, cover loosely with foil, and let rest 5 minutes. Serve directly from the pan with lemon wedges."
     ]
   }
 ]

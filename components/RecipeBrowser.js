@@ -4,6 +4,7 @@ import { useMemo, useState } from 'react';
 import { Card, Badge, cuisineLabel } from '@/components/ui';
 import { flagFor } from '@/lib/cuisineFlags';
 import RecipeDetail from '@/components/RecipeDetail';
+import CuisineWorldMap from '@/components/CuisineWorldMap';
 
 const MEAL_TYPE_ORDER = ['breakfast', 'lunch', 'dinner', 'snack', 'sauce', 'dessert'];
 const MEAL_TYPE_LABELS = {
@@ -19,6 +20,7 @@ export default function RecipeBrowser({ recipes }) {
   const [query, setQuery] = useState('');
   const [cuisineFilter, setCuisineFilter] = useState('all');
   const [openId, setOpenId] = useState(null);
+  const [showMap, setShowMap] = useState(false);
 
   const cuisinesPresent = useMemo(() => [...new Set(recipes.map((r) => r.cuisine))].sort(), [recipes]);
 
@@ -51,7 +53,7 @@ export default function RecipeBrowser({ recipes }) {
 
   return (
     <div>
-      <div className="flex flex-wrap gap-2 mb-8">
+      <div className="flex flex-wrap gap-2 mb-4">
         <input
           value={query}
           onChange={(e) => setQuery(e.target.value)}
@@ -70,12 +72,35 @@ export default function RecipeBrowser({ recipes }) {
             </option>
           ))}
         </select>
+        <button
+          type="button"
+          onClick={() => setShowMap((v) => !v)}
+          aria-pressed={showMap}
+          aria-label="Browse cuisines on a map"
+          title="Browse cuisines on a map"
+          className={`shrink-0 w-10 h-10 flex items-center justify-center rounded-card border text-lg ${
+            showMap ? 'bg-rust text-white border-rust' : 'border-line bg-card'
+          }`}
+        >
+          🌍
+        </button>
       </div>
 
-      {Object.keys(grouped).length === 0 && <p className="text-ink/50 italic">No recipes match those filters.</p>}
+      {showMap && (
+        <CuisineWorldMap
+          cuisinesPresent={cuisinesPresent}
+          onSelect={(cuisine) => {
+            setCuisineFilter(cuisine);
+            setShowMap(false);
+          }}
+        />
+      )}
 
-      {Object.entries(grouped).map(([cuisineName, byMealType]) => (
-        <div key={cuisineName} className="mb-10">
+      <div className="mt-8">
+        {Object.keys(grouped).length === 0 && <p className="text-ink/50 italic">No recipes match those filters.</p>}
+
+        {Object.entries(grouped).map(([cuisineName, byMealType]) => (
+          <div key={cuisineName} className="mb-10">
           <h2 className="font-display text-2xl mb-4">
             <span aria-hidden="true">{flagFor(cuisineName)} </span>
             {cuisineLabel(cuisineName)}
@@ -111,8 +136,9 @@ export default function RecipeBrowser({ recipes }) {
               </div>
             </div>
           ))}
-        </div>
-      ))}
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

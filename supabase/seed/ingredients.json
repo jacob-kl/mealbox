@@ -6406,5 +6406,37 @@
       "gluten-free",
       "vegan"
     ]
+  },
+  {
+    "name": "Bomba rice (dry)",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 358,
+    "protein": 6.8,
+    "carbs": 79.5,
+    "fat": 0.7,
+    "fiber": 1.5,
+    "micros": {},
+    "sub_group": "rice",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Mussels",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw, shelled",
+    "cal": 86,
+    "protein": 11.9,
+    "carbs": 3.7,
+    "fat": 2.2,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "shellfish",
+    "dietary_tags": [
+      "gluten-free"
+    ]
   }
 ]
