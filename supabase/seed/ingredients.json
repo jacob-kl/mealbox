@@ -6438,5 +6438,39 @@
     "dietary_tags": [
       "gluten-free"
     ]
+  },
+  {
+    "name": "Wasabi paste",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 8,
+    "protein": 0.2,
+    "carbs": 1.5,
+    "fat": 0.2,
+    "fiber": 0.3,
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Matcha powder",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 3,
+    "protein": 0.3,
+    "carbs": 0.5,
+    "fat": 0,
+    "fiber": 0.3,
+    "micros": {},
+    "sub_group": "extract_flavoring",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]

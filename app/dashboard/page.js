@@ -15,6 +15,9 @@ export default async function DashboardPage({ searchParams }) {
   const { data: profile } = await supabase.from('profiles').select('*').eq('id', user.id).single();
   if (!profile?.onboarded) redirect('/onboarding');
 
+  const { data: household } = await supabase.from('households').select('settings').eq('id', profile.household_id).single();
+  const defaultToFull = household?.settings?.recipeDetailDefault !== 'quick';
+
   const date = params?.date || isoDate();
   const weekStart = currentWeekStart(parseDate(date));
   const dayIndex = dayIndexForDate(parseDate(date));
@@ -66,6 +69,7 @@ export default async function DashboardPage({ searchParams }) {
           hasWeekPlan={!!weekPlan}
           recipeCatalog={recipeCatalog || []}
           ingredientCatalog={ingredientCatalog || []}
+          defaultToFull={defaultToFull}
         />
       </main>
     </>

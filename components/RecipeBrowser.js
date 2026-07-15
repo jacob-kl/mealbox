@@ -16,7 +16,7 @@ const MEAL_TYPE_LABELS = {
   dessert: 'Desserts',
 };
 
-export default function RecipeBrowser({ recipes }) {
+export default function RecipeBrowser({ recipes, defaultToFull = true }) {
   const [query, setQuery] = useState('');
   // null = map view (default landing state). Once a region is picked or a
   // search is entered, this becomes an array of cuisine slugs to show, or
@@ -144,7 +144,7 @@ export default function RecipeBrowser({ recipes }) {
                               </p>
                             )}
                           </div>
-                          {open && <RecipeDetail recipe={r} />}
+                          {open && <RecipeDetail recipe={r} defaultToFull={defaultToFull} />}
                         </Card>
                       );
                     })}

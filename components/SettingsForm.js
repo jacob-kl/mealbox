@@ -31,6 +31,7 @@ export default function SettingsForm({ household, members }) {
     household.settings?.mealStructure || DEFAULT_MEAL_STRUCTURE
   );
   const [units, setUnits] = useState(household.settings?.units || 'imperial');
+  const [recipeDetailDefault, setRecipeDetailDefault] = useState(household.settings?.recipeDetailDefault || 'full');
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
 
@@ -60,7 +61,7 @@ export default function SettingsForm({ household, members }) {
     setSaved(false);
     const { error } = await supabase
       .from('households')
-      .update({ settings: { ...household.settings, blockedTags, mealDays, mealStructure, units } })
+      .update({ settings: { ...household.settings, blockedTags, mealDays, mealStructure, units, recipeDetailDefault } })
       .eq('id', household.id);
     setSaving(false);
     if (!error) {
@@ -90,6 +91,30 @@ export default function SettingsForm({ household, members }) {
             className={`text-sm px-4 py-2 rounded-card border ${units === 'metric' ? 'bg-pine text-white border-pine' : 'border-line'}`}
           >
             Metric (cm, kg)
+          </button>
+        </div>
+      </Card>
+
+      <Card>
+        <h2 className="font-display text-xl mb-1">Recipe detail default</h2>
+        <p className="text-sm text-ink/60 mb-3">
+          Which version opens first on Today and Week — Quick is a fast-reference short ingredient
+          list, Full is the complete authentic recipe. You can always switch per-recipe either way.
+        </p>
+        <div className="flex gap-2">
+          <button
+            type="button"
+            onClick={() => setRecipeDetailDefault('quick')}
+            className={`text-sm px-4 py-2 rounded-card border ${recipeDetailDefault === 'quick' ? 'bg-pine text-white border-pine' : 'border-line'}`}
+          >
+            Quick
+          </button>
+          <button
+            type="button"
+            onClick={() => setRecipeDetailDefault('full')}
+            className={`text-sm px-4 py-2 rounded-card border ${recipeDetailDefault === 'full' ? 'bg-pine text-white border-pine' : 'border-line'}`}
+          >
+            Full
           </button>
         </div>
       </Card>

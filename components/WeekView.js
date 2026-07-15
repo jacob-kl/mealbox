@@ -110,6 +110,7 @@ function MacroLine({ macros, memberColor, memberName }) {
 }
 
 export default function WeekView({ weekStart, weekPlanId, cuisineFocus, household, members, meals, ingredientCatalog = [] }) {
+  const defaultToFull = household?.settings?.recipeDetailDefault !== 'quick';
   const router = useRouter();
   const supabase = createClient();
   const [loading, setLoading] = useState(false);
@@ -282,7 +283,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                           ))}
                         </div>
                         {expandedId === shared.id && (
-                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} />
+                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} />
                         )}
                       </>
                     ) : (
@@ -337,7 +338,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                             </button>
                           </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} />
+                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} />
                           )}
                         </div>
                       );
@@ -381,7 +382,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                             </button>
                           </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} />
+                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} />
                           )}
                         </div>
                       );

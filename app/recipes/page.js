@@ -13,6 +13,9 @@ export default async function RecipesPage() {
 
   const { data: profile } = await supabase.from('profiles').select('household_id').eq('id', user.id).single();
 
+  const { data: household } = await supabase.from('households').select('settings').eq('id', profile?.household_id).single();
+  const defaultToFull = household?.settings?.recipeDetailDefault !== 'quick';
+
   const { data: recipes } = await supabase
     .from('recipes')
     .select('*')
@@ -33,7 +36,7 @@ export default async function RecipesPage() {
             <Button>+ New Recipe</Button>
           </Link>
         </div>
-        <RecipeBrowser recipes={recipes || []} />
+        <RecipeBrowser recipes={recipes || []} defaultToFull={defaultToFull} />
       </main>
     </>
   );

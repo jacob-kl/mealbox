@@ -2,16 +2,17 @@
 
 import { useMemo, useState } from 'react';
 import { MAP_SHAPES, MAP_WIDTH, MAP_HEIGHT } from '@/lib/mapShapes';
+import { cuisineLabel } from '@/components/ui';
 
 // Every shape belongs to one or more "hover groups" (see generate-map-data
 // script). When several shapes belong to the same group they act as one
 // region: hover or click any member and the whole group responds together.
-// A shape that belongs to more than one group (only New Mexico, currently -
-// it's both its own micro-region AND part of the broader "usa" group)
-// resolves to whichever of its groups has the FEWEST members, so hovering
-// New Mexico directly picks the small 'new-mexico' group, while hovering
-// any other state picks the big 'usa' group, which New Mexico still
-// belongs to and lights up as part of.
+// A shape that belongs to more than one group (New Mexico and the Southern
+// states - each is both its own micro-region AND part of the broader "usa"
+// group) resolves to whichever of its groups has the FEWEST members, so
+// hovering New Mexico directly picks the small 'new-mexico' group, while
+// hovering any other state picks the big 'usa' group, which New Mexico
+// and the Southern states still belong to and light up as part of.
 function computeGroupSizes(shapes) {
   const sizes = {};
   for (const s of shapes) {
@@ -26,6 +27,29 @@ function mostSpecificGroup(shape, groupSizes) {
   return shape.groups.reduce((best, g) => (groupSizes[g] < groupSizes[best] ? g : best), shape.groups[0]);
 }
 
+// Each region gets its own distinct color rather than one shared accent -
+// grouped so that geographically-adjacent regions (e.g. Italy/France/Spain
+// in Europe) stay visually distinct from their neighbors.
+const GROUP_COLORS = {
+  usa: '#4A7FB5',
+  southern: '#4CA771',
+  'new-mexico': '#C0392B',
+  mexican: '#E0A028',
+  caribbean: '#22B8A8',
+  italian: '#D4714A',
+  french: '#6C7FD1',
+  spanish: '#B8863B',
+  mediterranean: '#3FA7A0',
+  'middle-eastern': '#C99A4A',
+  indian: '#CC5B2E',
+  chinese: '#B23A55',
+  japanese: '#D88FA3',
+  korean: '#4E7B8B',
+  thai: '#8B5FBF',
+  vietnamese: '#8FA83E',
+  asian: '#C4A63E',
+};
+
 /**
  * @param {(cuisines: string[], label: string) => void} onSelect - called
  *   with the cuisine slug(s) for the clicked region and a human label
@@ -35,6 +59,10 @@ export default function CuisineWorldMap({ onSelect }) {
   const [hoveredLabel, setHoveredLabel] = useState(null);
 
   const groupSizes = useMemo(() => computeGroupSizes(MAP_SHAPES), []);
+
+  function labelFor(cuisines) {
+    return cuisines.map(cuisineLabel).join(' & ');
+  }
 
   return (
     <div className="index-card p-3 sm:p-5">
@@ -58,14 +86,7 @@ export default function CuisineWorldMap({ onSelect }) {
           const isDimmed = hoveredGroup && !isActive;
           const transform = shape.translateX != null ? `translate(${shape.translateX},${shape.translateY})` : undefined;
 
-          let fill;
-          if (!clickable) {
-            fill = 'rgb(var(--color-line) / 0.7)';
-          } else if (isActive) {
-            fill = 'rgb(var(--color-rust))';
-          } else {
-            fill = 'rgb(var(--color-rust) / 0.5)';
-          }
+          const fill = clickable ? GROUP_COLORS[activeGroup] || '#999' : 'rgb(var(--color-ink) / 0.14)';
 
           return (
             <path
@@ -75,17 +96,16 @@ export default function CuisineWorldMap({ onSelect }) {
               fill={fill}
               stroke={shape.kind === 'state' ? 'rgb(var(--color-paper))' : 'rgb(var(--color-ink) / 0.15)'}
               strokeWidth={shape.kind === 'state' ? 0.6 : 0.5}
-              opacity={isDimmed ? 0.28 : 1}
-              style={{ cursor: clickable ? 'pointer' : 'default', transition: 'opacity 0.15s, fill 0.15s' }}
+              opacity={isDimmed ? 0.3 : 1}
+              style={{ cursor: clickable ? 'pointer' : 'default', transition: 'opacity 0.15s' }}
               onMouseEnter={() => {
                 if (!clickable) return;
                 setHoveredGroup(activeGroup);
-                setHoveredLabel(activeGroup === 'usa' ? 'United States' : activeGroup === 'new-mexico' ? 'New Mexico' : shape.name);
+                setHoveredLabel(labelFor(shape.cuisines));
               }}
               onClick={() => {
                 if (!clickable) return;
-                const label = activeGroup === 'usa' ? 'United States' : activeGroup === 'new-mexico' ? 'New Mexico' : shape.name;
-                onSelect(shape.cuisines, label);
+                onSelect(shape.cuisines, labelFor(shape.cuisines));
               }}
             />
           );

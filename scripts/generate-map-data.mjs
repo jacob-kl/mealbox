@@ -58,18 +58,28 @@ const COUNTRY_GROUPS = {
   Taiwan: { group: 'asian', cuisines: ['asian'] },
 };
 
-// United States: every state belongs to the broad "usa" group (american +
-// southern), EXCEPT New Mexico, which is its own micro-region. New Mexico
-// ALSO carries 'usa' as a secondary group so it still lights up when the
-// broad US region is what's active (hovering Colorado highlights the
-// whole country, New Mexico included) - but hovering New Mexico directly
-// resolves to its own smaller group first, since the component always
-// picks the group with the fewest members among a shape's groups.
+// United States: every state belongs to one of three groups now - New
+// Mexico and the defined Southern states are their own micro-regions,
+// everything else is the broad "usa" (American) group. New Mexico and the
+// Southern states ALSO carry 'usa' as a secondary group so they still
+// light up when the broad region is what's active (hovering a non-special
+// state highlights the whole country, Southern and New Mexico included) -
+// but hovering one of them directly resolves to its own smaller group
+// first, since the component always picks the group with the fewest
+// members among a shape's groups.
+const SOUTHERN_STATES = new Set([
+  'Texas', 'Louisiana', 'Mississippi', 'Alabama', 'Georgia', 'South Carolina',
+  'North Carolina', 'Tennessee', 'Arkansas', 'Kentucky', 'Virginia', 'West Virginia', 'Florida',
+]);
 function usGroupsFor(stateName) {
-  return stateName === 'New Mexico' ? ['new-mexico', 'usa'] : ['usa'];
+  if (stateName === 'New Mexico') return ['new-mexico', 'usa'];
+  if (SOUTHERN_STATES.has(stateName)) return ['southern', 'usa'];
+  return ['usa'];
 }
 function usCuisinesFor(stateName) {
-  return stateName === 'New Mexico' ? ['new-mexico'] : ['american', 'southern'];
+  if (stateName === 'New Mexico') return ['new-mexico'];
+  if (SOUTHERN_STATES.has(stateName)) return ['southern'];
+  return ['american'];
 }
 
 const worldGeo = feature(worldTopo, worldTopo.objects.countries);
@@ -97,11 +107,32 @@ for (const f of worldGeo.features) {
 }
 
 // US states: geoAlbersUsa is the standard projection for exactly this case
-// (continental US normal, Alaska/Hawaii as correctly-scaled insets) - fit
-// into a hand-placed box sized/positioned to sit where the US actually
-// belongs on the world canvas above (verified visually).
+// (continental US normal, Alaska/Hawaii as correctly-scaled insets). To
+// align it correctly against the surrounding countries, we find the actual
+// continental-US ring within the world dataset's own US polygon (the
+// largest ring by bounding-box span - Alaska, Hawaii, and small islands
+// are all much smaller rings in the same MultiPolygon) and fit our states
+// into THAT precise box, rather than a hand-guessed one.
+const usWorldFeature = worldGeo.features.find((f) => f.properties.name === 'United States of America');
+let continentalBounds = null;
+let bestSpan = -1;
+for (const ring of usWorldFeature.geometry.coordinates) {
+  const ringFeature = { type: 'Feature', geometry: { type: 'Polygon', coordinates: ring }, properties: {} };
+  const b = path.bounds(ringFeature);
+  const span = (b[1][0] - b[0][0]) * (b[1][1] - b[0][1]);
+  if (span > bestSpan) {
+    bestSpan = span;
+    continentalBounds = b;
+  }
+}
+const US_BOX = {
+  x: continentalBounds[0][0],
+  y: continentalBounds[0][1],
+  width: continentalBounds[1][0] - continentalBounds[0][0],
+  height: continentalBounds[1][1] - continentalBounds[0][1],
+};
+
 const usStatesGeo = feature(usTopo, usTopo.objects.states).features;
-const US_BOX = { x: 55, y: 55, width: 215, height: 145 };
 const usProjection = geoAlbersUsa().fitSize(
   [US_BOX.width, US_BOX.height],
   { type: 'FeatureCollection', features: usStatesGeo }

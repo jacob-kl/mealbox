@@ -108,13 +108,14 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
  * @param {string} [weekPlanMealId] - if given, ingredients become swappable/removable
  *   (this is a planned meal instance, not the read-only recipe library)
  * @param {Array} [ingredientCatalog] - full ingredients table, needed for swap suggestions
+ * @param {boolean} [defaultToFull] - household's Quick/Full display preference
  */
-export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [] }) {
+export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false }) {
   const router = useRouter();
   const [swappingIndex, setSwappingIndex] = useState(null);
   const [removingIndex, setRemovingIndex] = useState(null);
   const [removeError, setRemoveError] = useState(null);
-  const [showFull, setShowFull] = useState(false);
+  const [showFull, setShowFull] = useState(defaultToFull);
 
   if (!recipe) return null;
   const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0;
@@ -125,6 +126,11 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
   const displayIngredients = showFull && recipe.ingredients_full?.length > 0 ? recipe.ingredients_full : recipe.ingredients;
   const displaySteps = showFull && recipe.steps_detailed?.length > 0 ? recipe.steps_detailed : recipe.steps;
   const editingActive = canEdit && !showFull;
+  // The full ingredient list is genuinely different from the quick one (more
+  // authentic, more items), so it has its own real macro count - show it
+  // explicitly rather than let the quick-list numbers up in the card header
+  // silently disagree with what's actually listed below.
+  const showFullMacros = showFull && recipe.macros_per_serving_full && recipe.ingredients_full?.length > 0;
 
   async function handleRemove(ingredientName, index) {
     setRemovingIndex(index);
@@ -167,6 +173,16 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
             </button>
           </div>
         </div>
+      )}
+
+      {showFullMacros && (
+        <p className="font-mono text-xs text-ink/60 mb-3 -mt-1 bg-paper rounded-card px-2.5 py-1.5">
+          Full recipe: {recipe.macros_per_serving_full.cal} cal · {recipe.macros_per_serving_full.protein}p ·{' '}
+          {recipe.macros_per_serving_full.carbs}c · {recipe.macros_per_serving_full.fat}f (per serving)
+          {recipe.macros_per_serving && recipe.macros_per_serving.cal !== recipe.macros_per_serving_full.cal && (
+            <span className="text-ink/40"> — tracked plan uses the quick version's {recipe.macros_per_serving.cal} cal</span>
+          )}
+        </p>
       )}
 
       {displayIngredients?.length > 0 && (

@@ -42,6 +42,54 @@
       "Simmer broth (water, soy sauce, ginger) 10 min.",
       "Cook noodles per package directions, cook chicken through in the broth.",
       "Assemble bowl with noodles, broth, chicken, soft-boiled egg, and scallions."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ramen noodles (fresh)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.0625,
+        "note": "cup, sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "soft-boiled"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the broth with soy sauce, ginger, and garlic for 10 minutes to build the base.",
+      "Season the chicken and cook in a separate pan over medium-high heat, 5-6 minutes, until cooked through, then slice.",
+      "Cook the ramen noodles per package directions, usually just 2-3 minutes in boiling water.",
+      "Divide the noodles into bowls, ladle the hot broth over, and top with sliced chicken, scallions, and a halved soft-boiled egg."
     ]
   },
   {
@@ -87,6 +135,50 @@
       "Whisk miso into hot broth (water + a splash of soy sauce) until dissolved.",
       "Sear pork slices, cook noodles and bok choy separately.",
       "Assemble bowl with noodles, broth, pork, and bok choy, drizzle with sesame oil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 170,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Ramen noodles (fresh)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Miso paste",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bok choy",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the miso paste into the warm broth until fully dissolved \u2014 adding it to hot (not boiling) broth keeps it from turning gritty.",
+      "Heat sesame oil in a pan over medium-high heat and cook the pork with ginger, 4-5 minutes, until browned and cooked through.",
+      "Add the bok choy to the broth and simmer 3-4 minutes until just wilted.",
+      "Cook the noodles per package directions, divide into bowls, and ladle the broth and bok choy over.",
+      "Top with the cooked pork."
     ]
   },
   {
@@ -127,6 +219,50 @@
       "Dip chicken in egg, then breadcrumbs.",
       "Pan-fry 3-4 min per side until golden and cooked through.",
       "Whisk ketchup and soy sauce for a quick tonkatsu-style sauce. Slice and serve."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Progresso garlic herb bread crumbs",
+        "qty": 5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Set up a dredging station: flour, then beaten egg, then breadcrumbs.",
+      "Season the chicken, then coat in flour, dip in egg, and press into breadcrumbs.",
+      "Heat a splash of oil in a skillet over medium heat and cook the chicken 4-5 minutes per side until golden and cooked through.",
+      "Whisk the ketchup and soy sauce together for a quick tonkatsu-style sauce.",
+      "Slice the chicken and serve over rice with the sauce drizzled over."
     ]
   },
   {
@@ -163,6 +299,44 @@
     "steps": [
       "Whisk soy sauce, honey, and ginger; brush over salmon.",
       "Bake at 400F for 12-15 min, basting once."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the soy sauce, honey, ginger, and garlic together.",
+      "Heat a skillet over medium-high heat and cook the salmon 3-4 minutes per side.",
+      "Pour in the sauce and let it reduce into a glaze over the salmon for the last 1-2 minutes.",
+      "Cook the rice per package directions and serve the salmon over it, spooning extra glaze on top."
     ]
   },
   {
@@ -193,6 +367,33 @@
     ],
     "steps": [
       "Cook rice per package directions, top with torn nori and sesame seeds."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Nori sheets",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": "for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions.",
+      "Toast the nori briefly over a flame or in a dry pan for a few seconds per side until fragrant and crisp, then cut into strips.",
+      "Top the rice with nori strips and sesame seeds, with soy sauce for drizzling."
     ]
   },
   {
@@ -232,6 +433,51 @@
     "steps": [
       "Cook rice per package directions.",
       "Simmer chicken, carrot, and potato in water with curry powder 20 min until tender.",
+      "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 4.5,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion 4-5 minutes until softened.",
+      "Add the chicken and brown lightly, 4-5 minutes.",
+      "Sprinkle in the curry powder and flour, stirring to coat, and cook 1 minute to remove the raw flour taste.",
+      "Add the carrot, potato, and 1.5 cups water. Bring to a simmer.",
+      "Cover and cook 20-25 minutes until the vegetables are tender and the sauce has thickened, Japanese-curry style (thicker and milder than Indian curry).",
       "Serve over rice."
     ]
   },
@@ -273,6 +519,37 @@
     ],
     "steps": [
       "Layer dressing, rice, carrot, and chicken in a jar. Shake before eating."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with soy sauce and sesame oil.",
+      "Layer the rice, carrot, and chicken in a jar."
     ]
   },
   {
@@ -312,6 +589,45 @@
     "steps": [
       "Stir-fry beef until browned, remove.",
       "Stir-fry cabbage and carrot, add noodles and beef back in, toss with soy sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Ramen noodles (fresh)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 120,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the noodles per package directions, then rinse briefly and set aside.",
+      "Heat a wok over high heat and sear the beef in a single layer, 30-45 seconds per side, then remove.",
+      "Add the garlic, cabbage, and carrot, stir-frying 3-4 minutes until the cabbage wilts.",
+      "Add the noodles and soy sauce, tossing everything together for 2 minutes.",
+      "Return the beef to the pan and toss once more to combine."
     ]
   },
   {
@@ -348,6 +664,37 @@
     "steps": [
       "Whisk miso, honey, and mirin; brush over salmon.",
       "Broil 8-10 min until caramelized."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Miso paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the miso, honey, mirin, and soy sauce together. Coat the salmon and marinate 15-20 minutes.",
+      "Preheat the broiler. Broil the salmon 6-8 minutes, watching closely, until the glaze caramelizes and the fish flakes easily \u2014 miso glaze burns fast, so don't walk away."
     ]
   },
   {
@@ -388,6 +735,39 @@
       "Whisk soy sauce, mirin, and honey for the tare.",
       "Skewer chicken, grill or broil 10-12 min, basting with tare.",
       "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the soy sauce, mirin, and honey together for the tare sauce.",
+      "Thread the chicken onto skewers if using.",
+      "Grill or broil 10-12 minutes, turning occasionally and brushing with the tare sauce every few minutes, until charred and cooked through (165F).",
+      "Cook the rice per package directions and serve alongside."
     ]
   },
   {
@@ -423,6 +803,44 @@
       "Dip pork in egg, then panko.",
       "Bake at 400F for 15-18 min, flipping once, until golden.",
       "Serve with a quick ketchup-based sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 220,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ketchup",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 425F.",
+      "Dredge the pork in flour, dip in egg, then press into panko to coat.",
+      "Place on a lightly greased wire rack over a baking sheet (this keeps the bottom crisp) and bake 18-20 minutes, flipping halfway, until golden and cooked through (145F).",
+      "Whisk the ketchup and soy sauce together for a quick sauce and serve alongside."
     ]
   },
   {
@@ -464,6 +882,44 @@
     "steps": [
       "Simmer beef and onion in soy sauce and mirin until tender.",
       "Pack over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced very thin"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "optional, soft-boiled or raw yolk"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the onion in 1/2 cup water with soy sauce and mirin for 5 minutes until softened.",
+      "Add the beef and simmer 3-4 minutes, just until cooked through \u2014 don't overcook, thin-sliced beef turns tough fast.",
+      "Cook the rice per package directions.",
+      "Spoon the beef, onion, and sauce over the rice, topped with a soft-boiled egg if using."
     ]
   },
   {
@@ -506,6 +962,43 @@
     "steps": [
       "Marinate tofu in soy sauce and sesame oil 10 min.",
       "Pack over rice with cucumber."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the tofu with soy sauce and sesame oil, and let marinate 10 minutes.",
+      "Cook the rice per package directions.",
+      "Serve the marinated tofu and cucumber over rice, topped with sesame seeds."
     ]
   },
   {
@@ -538,6 +1031,28 @@
     "steps": [
       "Shape warm rice into triangles, wrap with nori.",
       "Sprinkle with sesame seeds."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Nori sheets",
+        "qty": 2,
+        "note": "cut into strips"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions, then let it cool just enough to handle.",
+      "Wet your hands lightly (this keeps the rice from sticking) and shape the rice into triangles or balls.",
+      "Wrap a strip of nori around the base of each and sprinkle with sesame seeds."
     ]
   },
   {
@@ -569,6 +1084,34 @@
     "steps": [
       "Whisk eggs with soy sauce and honey.",
       "Cook in thin layers in a pan, rolling as each layer sets."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.1667,
+        "note": ""
+      },
+      {
+        "ingredient": "Mirin",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the eggs with soy sauce, honey, and mirin until well combined.",
+      "Heat a lightly oiled nonstick or tamagoyaki pan over medium-low heat. Pour in a thin layer of egg, just enough to coat the bottom.",
+      "As it sets, roll it up from one side to the other. Push the roll to one side, add another thin layer of egg, and roll again, wrapping around the first roll.",
+      "Repeat until all the egg is used, forming layered rolls. Slice into pieces to serve."
     ]
   },
   {
@@ -600,6 +1143,38 @@
     "steps": [
       "Blend edamame with sesame oil and a splash of water until smooth.",
       "Serve with nori chips."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen edamame (shelled)",
+        "qty": 150,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nori sheets",
+        "qty": 2,
+        "note": "cut into chip-sized pieces"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the edamame, sesame oil, lemon juice, and garlic in a food processor with 2-3 tablespoons water until smooth.",
+      "Toast the nori pieces briefly in a dry pan for a few seconds per side until crisp.",
+      "Serve the edamame hummus with the nori chips for dipping."
     ]
   },
   {
@@ -618,6 +1193,11 @@
         "note": "oz"
       },
       {
+        "ingredient": "Wasabi paste",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Soy sauce",
         "qty": 0.3333,
         "note": ""
@@ -626,6 +1206,29 @@
     "steps": [
       "Toss almonds with soy sauce.",
       "Roast at 350F for 8-10 min, stirring once."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Wasabi paste",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 325F.",
+      "Whisk the wasabi paste and soy sauce together, then toss with the almonds to coat.",
+      "Spread on a lined baking sheet and roast 10-12 minutes, stirring once, until dry and toasted.",
+      "Let cool completely before eating \u2014 they crisp up as they cool."
     ]
   },
   {
@@ -645,8 +1248,13 @@
       },
       {
         "ingredient": "Coconut flour",
-        "qty": 0.0078,
+        "qty": 0.125,
         "note": ""
+      },
+      {
+        "ingredient": "Matcha powder",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Honey",
@@ -657,6 +1265,33 @@
     "steps": [
       "Mix all ingredients into a smooth paste.",
       "Chill 20 min, then roll into small bites."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Coconut flour",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Matcha powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the matcha powder into the condensed milk until fully dissolved and no clumps remain.",
+      "Stir in the coconut flour and honey until a soft, sticky dough forms.",
+      "Chill 15-20 minutes to firm up, then roll into small bites."
     ]
   },
   {
@@ -687,6 +1322,26 @@
     ],
     "steps": [
       "Whisk all ingredients together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Soy sauce",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk all ingredients together. Keeps in the fridge about a week."
     ]
   },
   {
@@ -722,6 +1377,31 @@
     ],
     "steps": [
       "Whisk all ingredients with 2 tbsp warm water until smooth."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Miso paste",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 3.0,
+        "note": ""
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk all ingredients together with a tablespoon of warm water until smooth and pourable."
     ]
   },
   {
@@ -753,6 +1433,29 @@
     "steps": [
       "Whisk miso into 1.5 cups hot water until dissolved.",
       "Add tofu and scallions, warm through without boiling."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Miso paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.0625,
+        "note": "cup, sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Warm 1.5 cups water until steaming but not boiling.",
+      "Whisk in the miso paste until fully dissolved \u2014 don't let it boil, which can make the miso lose some of its flavor.",
+      "Add the tofu and warm through gently, about 2 minutes.",
+      "Top with scallions before serving."
     ]
   }
 ]
