@@ -283,7 +283,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                           ))}
                         </div>
                         {expandedId === shared.id && (
-                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} />
+                          <RecipeDetail recipe={effectiveRecipe(shared)} weekPlanMealId={shared.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} />
                         )}
                       </>
                     ) : (
@@ -338,7 +338,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                             </button>
                           </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} />
+                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} />
                           )}
                         </div>
                       );
@@ -382,7 +382,7 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                             </button>
                           </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} />
+                            <RecipeDetail recipe={effectiveRecipe(snack)} weekPlanMealId={snack.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} />
                           )}
                         </div>
                       );

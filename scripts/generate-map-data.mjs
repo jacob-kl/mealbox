@@ -48,14 +48,15 @@ const COUNTRY_GROUPS = {
   Turkey: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
   'Saudi Arabia': { group: 'middle-eastern', cuisines: ['middle-eastern'] },
   Syria: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
-  // Generic "asian" catch-all cluster - nearby countries not otherwise claimed
-  Malaysia: { group: 'asian', cuisines: ['asian'] },
-  Indonesia: { group: 'asian', cuisines: ['asian'] },
-  Philippines: { group: 'asian', cuisines: ['asian'] },
-  Myanmar: { group: 'asian', cuisines: ['asian'] },
-  Cambodia: { group: 'asian', cuisines: ['asian'] },
-  Laos: { group: 'asian', cuisines: ['asian'] },
-  Taiwan: { group: 'asian', cuisines: ['asian'] },
+  // Southeast Asian cluster - Taiwan intentionally excluded, since it isn't
+  // part of Southeast Asia and lumping it in would repeat the same
+  // inaccurate-labeling problem this rename was meant to fix.
+  Malaysia: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
+  Indonesia: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
+  Philippines: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
+  Myanmar: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
+  Cambodia: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
+  Laos: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
   // North Africa cluster
   Morocco: { group: 'north-african', cuisines: ['north-african'] },
   Egypt: { group: 'north-african', cuisines: ['north-african'] },
@@ -156,7 +157,7 @@ for (const f of worldGeo.features) {
   if (!d) continue;
   const mapped = COUNTRY_GROUPS[name];
   shapes.push({
-    id: `country-${f.id}`,
+    id: `country-${f.id ?? name}`,
     name,
     d,
     groups: mapped ? [mapped.group] : null, // null = unclaimed, not clickable

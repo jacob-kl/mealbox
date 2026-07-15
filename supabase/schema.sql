@@ -501,3 +501,44 @@ create policy "manage own meal log"
   to authenticated
   using (profile_id = auth.uid())
   with check (profile_id = auth.uid());
+
+-- ----------------------------------------------------------------------------
+-- Allergies (per-person) and household roles
+
+alter table profiles add column if not exists allergies jsonb not null default '[]'::jsonb;
+-- Each entry: { "name": "Peanut", "category": "peanut" | "custom", "separable_ok": boolean }
+-- category matches an ingredients.allergens tag when it's one of the common
+-- ones; "custom" entries (e.g. "Onion") are matched by ingredient name/
+-- sub_group text search instead, since they're not part of the fixed list.
+-- separable_ok: true means this person is fine as long as the allergen is
+-- a separable component (garnish/topping/side) they can just leave off;
+-- false means any presence in the dish, even cooked in, is a hard exclude.
+
+alter table profiles add column if not exists household_role text not null default 'member'
+  check (household_role in ('head_of_kitchen', 'member'));
+-- The head of kitchen is the only member who can invite/add other people to
+-- the household. Whoever completes onboarding first for a new household is
+-- automatically the head of kitchen (set in the onboarding flow).
+
+-- One-time backfill: for households that existed before the head_of_kitchen
+-- role was introduced, promote whichever member has the oldest account
+-- (first to sign up) to head of kitchen, so existing households aren't left
+-- with everyone at 'member' and nobody able to invite.
+update profiles p
+set household_role = 'head_of_kitchen'
+where p.id = (
+  select p2.id from profiles p2
+  where p2.household_id = p.household_id
+  order by p2.created_at asc
+  limit 1
+)
+and not exists (
+  select 1 from profiles p3
+  where p3.household_id = p.household_id
+  and p3.household_role = 'head_of_kitchen'
+);
+
+-- Ingredient-level allergen tags (e.g. {peanut, dairy}), matching the same
+-- text[] convention as dietary_tags. Used by lib/allergies.js to flag
+-- recipes that conflict with a household member's declared allergies.
+alter table ingredients add column if not exists allergens text[] not null default '{}';

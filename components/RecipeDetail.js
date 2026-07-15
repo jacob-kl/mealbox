@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { formatQty } from '@/lib/nutrition';
 import { suggestSubstitutes, DIETARY_FILTERS } from '@/lib/substitutions';
+import { findHouseholdAllergyConflicts } from '@/lib/allergies';
 
 function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone }) {
   const router = useRouter();
@@ -110,7 +111,7 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
  * @param {Array} [ingredientCatalog] - full ingredients table, needed for swap suggestions
  * @param {boolean} [defaultToFull] - household's Quick/Full display preference
  */
-export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false }) {
+export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false, householdMembers = [] }) {
   const router = useRouter();
   const [swappingIndex, setSwappingIndex] = useState(null);
   const [removingIndex, setRemovingIndex] = useState(null);
@@ -131,6 +132,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
   // explicitly rather than let the quick-list numbers up in the card header
   // silently disagree with what's actually listed below.
   const showFullMacros = showFull && recipe.macros_per_serving_full && recipe.ingredients_full?.length > 0;
+  const allergyConflicts = findHouseholdAllergyConflicts(displayIngredients, ingredientCatalog, householdMembers);
 
   async function handleRemove(ingredientName, index) {
     setRemovingIndex(index);
@@ -153,6 +155,25 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
 
   return (
     <div className="mt-3 pt-3 border-t border-line text-sm">
+      {allergyConflicts.length > 0 && (
+        <div className="mb-3 p-2.5 rounded-card bg-rust/10 border border-rust/30 space-y-1.5">
+          {allergyConflicts.map((c, i) => (
+            <p key={i} className="text-xs text-ink/80">
+              <span className="font-medium text-rust">{c.member} is allergic to {c.allergyName}.</span>{' '}
+              {c.allSeparable ? (
+                <>Every {c.allergyName.toLowerCase()} ingredient here is a topping/side ({c.lines.map((l) => l.ingredient).join(', ')}) — safe to serve for everyone and just leave off {c.member}'s portion.</>
+              ) : (
+                <>
+                  {c.lines.some((l) => !l.separable) && (
+                    <>Cooked into the dish itself ({c.lines.filter((l) => !l.separable).map((l) => l.ingredient).join(', ')}) — as written, this recipe isn't safe for {c.member}. Either leave it out for the whole household, or prepare a separate {c.allergyName.toLowerCase()}-free portion for {c.member}.</>
+                  )}
+                </>
+              )}
+            </p>
+          ))}
+        </div>
+      )}
+
       {hasFull && (
         <div className="flex items-center justify-between mb-3">
           <p className="text-xs text-ink/50">{showFull ? 'Full recipe — for reference' : 'Quick version'}</p>

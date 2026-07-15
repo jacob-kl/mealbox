@@ -47,7 +47,7 @@ const GROUP_COLORS = {
   korean: '#4E7B8B',
   thai: '#8B5FBF',
   vietnamese: '#8FA83E',
-  asian: '#C4A63E',
+  'southeast-asian': '#C4A63E',
   'north-african': '#C89B5C',
   'west-african': '#3FA05C',
   'east-african': '#D6673E',
@@ -71,9 +71,14 @@ export default function CuisineWorldMap({ onSelect }) {
 
   return (
     <div className="index-card p-3 sm:p-5">
-      <div className="flex items-center justify-between mb-2 px-1">
-        <p className="tab-label text-rust">Browse by region</p>
-        <p className="text-xs text-ink/50 h-4">{hoveredLabel || ''}</p>
+      <div className="mb-3 px-1">
+        <p className="tab-label text-rust mb-1">Browse by region</p>
+        <p
+          className="font-display text-2xl sm:text-3xl leading-tight transition-opacity duration-150"
+          style={{ opacity: hoveredLabel ? 1 : 0, minHeight: '1.5em' }}
+        >
+          {hoveredLabel || '\u00A0'}
+        </p>
       </div>
       <svg
         viewBox={`0 0 ${MAP_WIDTH} ${MAP_HEIGHT}`}
@@ -86,7 +91,17 @@ export default function CuisineWorldMap({ onSelect }) {
         {/* Literal colors throughout below - CSS custom properties (var(--x))
             don't reliably resolve when set directly as SVG fill/stroke
             presentation attributes, so this stays independent of the theme. */}
-        <rect x={0} y={0} width={MAP_WIDTH} height={MAP_HEIGHT} fill="#BEDCEA" />
+        <rect
+          x={0}
+          y={0}
+          width={MAP_WIDTH}
+          height={MAP_HEIGHT}
+          fill="#BEDCEA"
+          onMouseEnter={() => {
+            setHoveredGroup(null);
+            setHoveredLabel(null);
+          }}
+        />
         {MAP_SHAPES.map((shape) => {
           const clickable = !!shape.groups;
           const activeGroup = clickable ? mostSpecificGroup(shape, groupSizes) : null;
@@ -107,7 +122,14 @@ export default function CuisineWorldMap({ onSelect }) {
               opacity={isDimmed ? 0.3 : 1}
               style={{ cursor: clickable ? 'pointer' : 'default', transition: 'opacity 0.15s' }}
               onMouseEnter={() => {
-                if (!clickable) return;
+                // Unclaimed countries still need to clear any previous
+                // selection on hover - otherwise moving off a colored
+                // region onto blank land leaves the old highlight stuck.
+                if (!clickable) {
+                  setHoveredGroup(null);
+                  setHoveredLabel(null);
+                  return;
+                }
                 setHoveredGroup(activeGroup);
                 setHoveredLabel(labelFor(shape.cuisines));
               }}

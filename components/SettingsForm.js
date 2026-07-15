@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
+import AllergyEditor from '@/components/AllergyEditor';
 import { ThemeGrid } from '@/components/ThemeSwitcher';
 import { DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { DIET_TYPES } from '@/lib/macros';
@@ -21,8 +22,9 @@ const BLOCKABLE_TAGS = [
 
 const MEAL_COLUMNS = ['breakfast', 'lunch', 'dinner', 'dessert'];
 
-export default function SettingsForm({ household, members }) {
+export default function SettingsForm({ household, members, ingredientCatalog = [], currentUserId }) {
   const supabase = createClient();
+  const isHeadOfKitchen = members.find((m) => m.id === currentUserId)?.household_role === 'head_of_kitchen';
   const router = useRouter();
 
   const [blockedTags, setBlockedTags] = useState(household.settings?.blockedTags || []);
@@ -121,22 +123,35 @@ export default function SettingsForm({ household, members }) {
 
       <Card>
         <h2 className="font-display text-xl mb-1">Invite people</h2>
-        <p className="text-sm text-ink/60 mb-3">
-          Share this code so others can join <strong>{household.name}</strong>.
-        </p>
-        <p className="font-mono text-2xl tracking-widest bg-paper border border-line rounded-card px-4 py-2 inline-block">
-          {household.invite_code}
-        </p>
+        {isHeadOfKitchen ? (
+          <>
+            <p className="text-sm text-ink/60 mb-3">
+              Share this code so others can join <strong>{household.name}</strong>. As head of kitchen,
+              you're the only one who can invite new people.
+            </p>
+            <p className="font-mono text-2xl tracking-widest bg-paper border border-line rounded-card px-4 py-2 inline-block">
+              {household.invite_code}
+            </p>
+          </>
+        ) : (
+          <p className="text-sm text-ink/60">
+            Only the head of kitchen ({members.find((m) => m.household_role === 'head_of_kitchen')?.display_name || 'someone in your household'}) can invite new people.
+          </p>
+        )}
       </Card>
 
       <Card>
         <h2 className="font-display text-xl mb-3">Household members</h2>
+        <p className="text-xs text-ink/50 mb-2">The head of kitchen can invite new people to the household.</p>
         <div className="space-y-2">
           {members.map((m) => (
             <div key={m.id} className="flex items-center justify-between text-sm border-b border-line last:border-0 pb-2 last:pb-0">
               <span className="flex items-center gap-2">
                 <span className="w-2.5 h-2.5 rounded-full inline-block" style={{ backgroundColor: m.color }} />
                 {m.display_name}
+                {m.household_role === 'head_of_kitchen' && (
+                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-pine/15 text-pine">Head of kitchen</span>
+                )}
                 <span className="text-xs text-ink/40 capitalize">
                   ({m.goal}{m.diet_type && m.diet_type !== 'balanced' ? `, ${DIET_TYPES[m.diet_type]?.label || m.diet_type}` : ''})
                 </span>
@@ -145,6 +160,21 @@ export default function SettingsForm({ household, members }) {
                 {m.target_calories} cal · {m.target_protein_g}p / {m.target_carbs_g}c / {m.target_fat_g}f
               </span>
             </div>
+          ))}
+        </div>
+      </Card>
+
+      <Card>
+        <h2 className="font-display text-xl mb-1">Allergies</h2>
+        <p className="text-sm text-ink/60 mb-3">
+          For each allergy, mark whether it's okay served on the side (a topping or garnish the person
+          can just skip) or needs to be left out of the dish entirely. When it must be left out and the
+          ingredient is cooked into the recipe, the whole household's meal that night will skip it too -
+          unless the recipe includes a separately-prepared portion for that person.
+        </p>
+        <div className="space-y-3">
+          {members.map((m) => (
+            <AllergyEditor key={m.id} member={m} ingredientCatalog={ingredientCatalog} />
           ))}
         </div>
       </Card>

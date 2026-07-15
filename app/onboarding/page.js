@@ -57,6 +57,7 @@ export default function OnboardingPage() {
     const { error: profileError } = await supabase.from('profiles').upsert({
       id: user.id,
       household_id: householdId,
+      household_role: mode === 'create' ? 'head_of_kitchen' : 'member',
       ...rawInputs,
       target_calories: targets.calories,
       target_protein_g: targets.proteinG,

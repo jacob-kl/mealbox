@@ -25,7 +25,10 @@
       "zinc": 0.7
     },
     "sub_group": "baking_flour",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Almond butter",
@@ -39,7 +42,11 @@
     "fiber": 3.3,
     "micros": {},
     "sub_group": "nut_seed_butter",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "tree_nut"
+    ]
   },
   {
     "name": "Almonds",
@@ -53,7 +60,10 @@
     "fiber": 3.5,
     "micros": {},
     "sub_group": "tree_nut",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "tree_nut"
+    ]
   },
   {
     "name": "Apple",
@@ -67,7 +77,8 @@
     "fiber": 4.4,
     "micros": {},
     "sub_group": "pome_stone_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Atlantic salmon (raw)",
@@ -95,7 +106,10 @@
       "selenium": 36.5
     },
     "sub_group": "fatty_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Avocado",
@@ -123,7 +137,8 @@
       "selenium": 0.4
     },
     "sub_group": "avocado",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Baby spinach",
@@ -151,7 +166,8 @@
       "selenium": 1
     },
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Banana",
@@ -179,7 +195,8 @@
       "selenium": 1.2
     },
     "sub_group": "banana_plantain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Basmati rice (dry)",
@@ -209,7 +226,8 @@
     "sub_group": "rice",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Bell pepper",
@@ -237,7 +255,8 @@
       "selenium": 0.1
     },
     "sub_group": "nightshade_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Bettergoods Hatch Chile & Corn Chowder",
@@ -265,7 +284,8 @@
       "selenium": 4
     },
     "sub_group": "prepared_soup",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Bettergoods Three Cheese Tomato Bisque",
@@ -293,7 +313,10 @@
       "selenium": 4
     },
     "sub_group": "prepared_soup",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Birch Benders pancake mix",
@@ -307,7 +330,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "pancake_mix",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Black beans",
@@ -335,7 +359,8 @@
       "selenium": 3
     },
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Broccoli florets",
@@ -363,7 +388,8 @@
       "selenium": 2.5
     },
     "sub_group": "cruciferous",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Butter",
@@ -391,7 +417,10 @@
       "zinc": 0
     },
     "sub_group": "butter_fat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Canned tuna (in water)",
@@ -419,7 +448,10 @@
       "selenium": 76
     },
     "sub_group": "canned_fish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Cannellini beans",
@@ -433,7 +465,8 @@
     "fiber": 5,
     "micros": {},
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cauliflower",
@@ -461,7 +494,8 @@
       "zinc": 0.3
     },
     "sub_group": "cruciferous",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cherry tomatoes",
@@ -489,7 +523,8 @@
       "selenium": 0.4
     },
     "sub_group": "nightshade_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Chia seeds",
@@ -503,7 +538,8 @@
     "fiber": 4.1,
     "micros": {},
     "sub_group": "seed",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Chicken breast",
@@ -531,7 +567,8 @@
       "selenium": 27.6
     },
     "sub_group": "poultry_breast_cutlet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Chickpea flour (besan)",
@@ -559,7 +596,10 @@
       "zinc": 2.8
     },
     "sub_group": "baking_flour",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Corn tortilla (small)",
@@ -589,7 +629,8 @@
     "sub_group": "flatbread_wrap",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Cottage cheese 1%",
@@ -617,7 +658,10 @@
       "selenium": 10
     },
     "sub_group": "cottage_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Cottage cheese 2%",
@@ -645,7 +689,10 @@
       "selenium": 10
     },
     "sub_group": "cottage_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Cucumber",
@@ -673,7 +720,8 @@
       "selenium": 0.3
     },
     "sub_group": "cucumber",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Daisy sour cream",
@@ -701,7 +749,10 @@
       "selenium": 1
     },
     "sub_group": "sour_cream",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Dennison's chunky chili",
@@ -729,7 +780,8 @@
       "selenium": 10
     },
     "sub_group": "prepared_soup",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Diced tomatoes",
@@ -743,7 +795,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "nightshade_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Diced tomatoes (canned)",
@@ -757,7 +810,8 @@
     "fiber": 1.2,
     "micros": {},
     "sub_group": "nightshade_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Dry green lentils",
@@ -785,7 +839,8 @@
       "selenium": 0.6
     },
     "sub_group": "lentil_split_pea",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Eggplant",
@@ -799,7 +854,10 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "nightshade_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "egg"
+    ]
   },
   {
     "name": "Eggs (large)",
@@ -827,7 +885,10 @@
       "selenium": 15.4
     },
     "sub_group": "egg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "egg"
+    ]
   },
   {
     "name": "English cucumber",
@@ -855,7 +916,8 @@
       "selenium": 0.3
     },
     "sub_group": "cucumber",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Farro (dry)",
@@ -869,7 +931,8 @@
     "fiber": 8,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Feta cheese (reduced fat)",
@@ -883,7 +946,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Flank/sirloin steak",
@@ -911,7 +977,8 @@
       "selenium": 22
     },
     "sub_group": "red_meat_roast_steak",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Frozen cod",
@@ -939,7 +1006,10 @@
       "selenium": 33.1
     },
     "sub_group": "white_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Frozen edamame",
@@ -967,7 +1037,10 @@
       "selenium": 2.5
     },
     "sub_group": "edamame",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "soy"
+    ]
   },
   {
     "name": "Frozen edamame (shelled)",
@@ -995,7 +1068,10 @@
       "selenium": 2.5
     },
     "sub_group": "edamame",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "soy"
+    ]
   },
   {
     "name": "Frozen fruit (mixed)",
@@ -1023,7 +1099,8 @@
       "selenium": 0.2
     },
     "sub_group": "frozen_fruit_mix",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Frozen mixed berries",
@@ -1051,7 +1128,8 @@
       "selenium": 0.4
     },
     "sub_group": "berry_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Frozen peas",
@@ -1079,7 +1157,8 @@
       "zinc": 0.6
     },
     "sub_group": "pod_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Frozen shrimp",
@@ -1107,7 +1186,10 @@
       "selenium": 38
     },
     "sub_group": "shellfish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
   },
   {
     "name": "Frozen veggies (mixed)",
@@ -1135,7 +1217,10 @@
       "selenium": 0.5
     },
     "sub_group": "frozen_mixed_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "egg"
+    ]
   },
   {
     "name": "Garbanzo beans",
@@ -1163,7 +1248,8 @@
       "selenium": 11
     },
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Garlic",
@@ -1177,7 +1263,8 @@
     "fiber": 0.1,
     "micros": {},
     "sub_group": "allium",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Garofalo organic pasta",
@@ -1205,7 +1292,10 @@
       "selenium": 63.2
     },
     "sub_group": "pasta_noodle",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Greek yogurt (plain nonfat)",
@@ -1233,7 +1323,10 @@
       "selenium": 9.7
     },
     "sub_group": "yogurt",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Ground flaxseed",
@@ -1247,7 +1340,8 @@
     "fiber": 2.8,
     "micros": {},
     "sub_group": "seed",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ground turkey 85/15",
@@ -1275,7 +1369,8 @@
       "selenium": 20.6
     },
     "sub_group": "poultry_thigh_ground",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ground turkey 93/7",
@@ -1303,7 +1398,8 @@
       "selenium": 20.6
     },
     "sub_group": "poultry_thigh_ground",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Hatch diced green chiles",
@@ -1317,7 +1413,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "canned_chile",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Homemade garlic naan",
@@ -1345,7 +1442,8 @@
       "zinc": 0
     },
     "sub_group": "flatbread_wrap",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Hummus",
@@ -1359,7 +1457,8 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "dip_spread",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Italian dressing (light)",
@@ -1387,7 +1486,8 @@
       "selenium": 0.1
     },
     "sub_group": "dressing_vinaigrette",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Jake's Multivitamin",
@@ -1415,7 +1515,8 @@
       "phosphorus": 0
     },
     "sub_group": "supplement",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Kalamata olives",
@@ -1429,7 +1530,8 @@
     "fiber": 0.7,
     "micros": {},
     "sub_group": "pickled_briny",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Kefir (plain lowfat)",
@@ -1457,7 +1559,8 @@
       "selenium": 7.6
     },
     "sub_group": "yogurt",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Laine's Multivitamin",
@@ -1485,7 +1588,8 @@
       "phosphorus": 0
     },
     "sub_group": "supplement",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Lemon juice",
@@ -1499,7 +1603,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "citrus_juice",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Lentils (dry green)",
@@ -1527,7 +1632,8 @@
       "selenium": 0.6
     },
     "sub_group": "lentil_split_pea",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Light coconut milk (canned)",
@@ -1558,6 +1664,9 @@
     "dietary_tags": [
       "dairy-free",
       "vegan"
+    ],
+    "allergens": [
+      "dairy"
     ]
   },
   {
@@ -1586,7 +1695,10 @@
       "selenium": 15
     },
     "sub_group": "egg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "egg"
+    ]
   },
   {
     "name": "Mixed berries (frozen)",
@@ -1600,7 +1712,8 @@
     "fiber": 4.5,
     "micros": {},
     "sub_group": "berry_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Oikos Triple Zero yogurt",
@@ -1628,7 +1741,10 @@
       "selenium": 8
     },
     "sub_group": "yogurt",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Olive oil",
@@ -1656,7 +1772,8 @@
       "selenium": 0
     },
     "sub_group": "cooking_oil",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "One A Day Men's Multi",
@@ -1685,7 +1802,8 @@
       "phosphorus": 0
     },
     "sub_group": "supplement",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "One A Day Women's Multi",
@@ -1713,7 +1831,8 @@
       "phosphorus": 0
     },
     "sub_group": "supplement",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Open Nature protein granola",
@@ -1727,7 +1846,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "granola",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Orange",
@@ -1741,7 +1861,8 @@
     "fiber": 3.1,
     "micros": {},
     "sub_group": "citrus_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Paneer",
@@ -1769,7 +1890,8 @@
       "zinc": 1.5
     },
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pinto beans",
@@ -1797,7 +1919,8 @@
       "selenium": 2.5
     },
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pork shoulder (pulled)",
@@ -1811,7 +1934,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "red_meat_roast_steak",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pork tenderloin",
@@ -1839,7 +1963,8 @@
       "selenium": 32.5
     },
     "sub_group": "red_meat_roast_steak",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Prego creamy parmesan pesto",
@@ -1853,7 +1978,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "creamy_pasta_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Progresso garlic herb bread crumbs",
@@ -1867,7 +1995,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "breading_coating",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Quinoa (dry)",
@@ -1897,7 +2028,8 @@
     "sub_group": "other_grain",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Roasted chickpeas (snack)",
@@ -1925,7 +2057,8 @@
       "zinc": 0.8
     },
     "sub_group": "snack_cracker",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Roasted onion & garlic pasta sauce",
@@ -1953,7 +2086,10 @@
       "selenium": 0.5
     },
     "sub_group": "tomato_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Sardines (canned in olive oil)",
@@ -1981,7 +2117,8 @@
       "selenium": 52.7
     },
     "sub_group": "canned_fish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Shredded cheese (4-blend)",
@@ -2009,7 +2146,10 @@
       "selenium": 1.5
     },
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Signature Select Alfredo sauce",
@@ -2023,7 +2163,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "creamy_pasta_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Signature Select pasta sauce",
@@ -2051,7 +2192,10 @@
       "selenium": 0.5
     },
     "sub_group": "tomato_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Spices (cumin/paprika/garlic powder/salt)",
@@ -2065,7 +2209,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Spices (garam masala/turmeric/cumin/coriander)",
@@ -2079,7 +2224,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Spices (oregano/thyme/cumin/paprika/salt)",
@@ -2093,7 +2239,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Sugar (white)",
@@ -2121,7 +2268,8 @@
       "zinc": 0
     },
     "sub_group": "sweetener_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Sweet potato",
@@ -2149,7 +2297,8 @@
       "selenium": 0.6
     },
     "sub_group": "starchy_root",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Tikka masala simmer sauce",
@@ -2177,7 +2326,8 @@
       "zinc": 0
     },
     "sub_group": "simmer_curry_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "TJ's Mandarin Orange Chicken",
@@ -2191,7 +2341,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "simmer_curry_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Walnuts",
@@ -2219,7 +2370,10 @@
       "selenium": 1.4
     },
     "sub_group": "tree_nut",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "tree_nut"
+    ]
   },
   {
     "name": "White rice (dry)",
@@ -2249,7 +2403,8 @@
     "sub_group": "rice",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Whole grain bread",
@@ -2263,7 +2418,10 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "bread_bun",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Whole milk",
@@ -2291,7 +2449,10 @@
       "selenium": 4.8
     },
     "sub_group": "milk",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Whole wheat naan",
@@ -2319,7 +2480,10 @@
       "zinc": 1.0
     },
     "sub_group": "flatbread_wrap",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Whole wheat pita",
@@ -2333,7 +2497,10 @@
     "fiber": 4.5,
     "micros": {},
     "sub_group": "flatbread_wrap",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Yellow onion",
@@ -2361,7 +2528,8 @@
       "zinc": 0.2
     },
     "sub_group": "allium",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Zucchini",
@@ -2375,7 +2543,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "squash",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Romaine lettuce",
@@ -2403,7 +2572,8 @@
       "zinc": 0.2
     },
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Parmesan cheese (grated)",
@@ -2431,7 +2601,10 @@
       "zinc": 0.14
     },
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Anchovy paste",
@@ -2459,7 +2632,10 @@
       "zinc": 0.1
     },
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Dijon mustard",
@@ -2487,7 +2663,8 @@
       "zinc": 0.03
     },
     "sub_group": "mustard_condiment",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Worcestershire sauce",
@@ -2515,7 +2692,8 @@
       "zinc": 0
     },
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Brown rice (dry)",
@@ -2531,7 +2709,8 @@
     "sub_group": "rice",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Soy sauce",
@@ -2547,7 +2726,10 @@
       "sodium": 902
     },
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "soy"
+    ]
   },
   {
     "name": "Sesame oil",
@@ -2561,7 +2743,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cooking_oil",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "sesame"
+    ]
   },
   {
     "name": "Fresh ginger",
@@ -2575,7 +2760,8 @@
     "fiber": 0.1,
     "micros": {},
     "sub_group": "aromatic_root",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cilantro",
@@ -2589,7 +2775,8 @@
     "fiber": 0.1,
     "micros": {},
     "sub_group": "fresh_herb",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Lime juice",
@@ -2603,7 +2790,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "citrus_juice",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Salsa",
@@ -2617,7 +2805,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "tomato_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cheddar cheese (shredded)",
@@ -2631,7 +2820,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Peanut butter",
@@ -2645,7 +2837,10 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "nut_seed_butter",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "peanut"
+    ]
   },
   {
     "name": "Rice noodles (dry)",
@@ -2661,7 +2856,8 @@
     "sub_group": "pasta_noodle",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Tofu (firm)",
@@ -2679,6 +2875,9 @@
       "vegan",
       "vegetarian",
       "gluten-free"
+    ],
+    "allergens": [
+      "soy"
     ]
   },
   {
@@ -2693,7 +2892,8 @@
     "fiber": 2.8,
     "micros": {},
     "sub_group": "root_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Snap peas",
@@ -2707,7 +2907,8 @@
     "fiber": 2.6,
     "micros": {},
     "sub_group": "pod_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Honey",
@@ -2721,7 +2922,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "sweetener_liquid",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Rice vinegar",
@@ -2735,7 +2937,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "vinegar",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Curry powder",
@@ -2749,7 +2952,8 @@
     "fiber": 0.6,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Whole wheat tortilla (large)",
@@ -2763,7 +2967,10 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "flatbread_wrap",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Ground beef 90/10",
@@ -2777,7 +2984,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "ground_red_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Mozzarella cheese (part-skim)",
@@ -2791,7 +2999,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Whole wheat spaghetti (dry)",
@@ -2805,7 +3016,10 @@
     "fiber": 9.2,
     "micros": {},
     "sub_group": "pasta_noodle",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Red bell pepper",
@@ -2819,7 +3033,8 @@
     "fiber": 2.1,
     "micros": {},
     "sub_group": "nightshade_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Frozen mango chunks",
@@ -2833,7 +3048,8 @@
     "fiber": 1.6,
     "micros": {},
     "sub_group": "tropical_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Fresh dill",
@@ -2847,7 +3063,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "fresh_herb",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Garlic clove",
@@ -2861,7 +3078,8 @@
     "fiber": 0.1,
     "micros": {},
     "sub_group": "allium",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Sriracha",
@@ -2875,7 +3093,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hot_chili_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Red wine vinegar",
@@ -2889,7 +3108,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "vinegar",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Fresh parsley",
@@ -2903,7 +3123,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "fresh_herb",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Tahini",
@@ -2917,7 +3138,10 @@
     "fiber": 1.4,
     "micros": {},
     "sub_group": "nut_seed_butter",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "sesame"
+    ]
   },
   {
     "name": "Red onion",
@@ -2931,7 +3155,8 @@
     "fiber": 1.7,
     "micros": {},
     "sub_group": "allium",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Dried oregano",
@@ -2945,7 +3170,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ground cumin",
@@ -2959,7 +3185,8 @@
     "fiber": 0.2,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Whey protein powder (vanilla)",
@@ -2973,7 +3200,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "protein_powder",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Milk (2%)",
@@ -2987,7 +3215,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "milk",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Granola",
@@ -3001,7 +3232,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "granola",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Deli turkey breast (sliced)",
@@ -3015,7 +3247,8 @@
     "fiber": 0.0,
     "micros": {},
     "sub_group": "cured_processed_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Whole grain crackers",
@@ -3029,7 +3262,8 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "snack_cracker",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pineapple chunks",
@@ -3043,7 +3277,8 @@
     "fiber": 2.3,
     "micros": {},
     "sub_group": "tropical_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Celery",
@@ -3057,7 +3292,8 @@
     "fiber": 1.6,
     "micros": {},
     "sub_group": "pod_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Rolled oats (dry)",
@@ -3071,7 +3307,8 @@
     "fiber": 4,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Mini chocolate chips",
@@ -3085,7 +3322,8 @@
     "fiber": 0.6,
     "micros": {},
     "sub_group": "chocolate",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Unsweetened cocoa powder",
@@ -3099,7 +3337,8 @@
     "fiber": 1.8,
     "micros": {},
     "sub_group": "chocolate",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ground cinnamon",
@@ -3113,7 +3352,8 @@
     "fiber": 1.2,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Dark chocolate chips",
@@ -3127,7 +3367,8 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "chocolate",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Fresh basil",
@@ -3141,7 +3382,8 @@
     "fiber": 0.2,
     "micros": {},
     "sub_group": "fresh_herb",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Balsamic vinegar",
@@ -3155,7 +3397,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "vinegar",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Thai curry paste",
@@ -3169,7 +3412,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "simmer_curry_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Fish sauce",
@@ -3183,7 +3427,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Brown sugar",
@@ -3197,7 +3444,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "sweetener_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Oyster sauce",
@@ -3211,7 +3459,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
   },
   {
     "name": "Hoisin sauce",
@@ -3225,7 +3476,8 @@
     "fiber": 0.3,
     "micros": {},
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Five spice powder",
@@ -3239,7 +3491,8 @@
     "fiber": 0.6,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Bok choy",
@@ -3253,7 +3506,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Water chestnuts (canned)",
@@ -3267,7 +3521,8 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "asian_crunch_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cornstarch",
@@ -3281,7 +3536,8 @@
     "fiber": 0.1,
     "micros": {},
     "sub_group": "thickener_starch",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Scallions",
@@ -3295,7 +3551,8 @@
     "fiber": 0.7,
     "micros": {},
     "sub_group": "allium",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Gochujang",
@@ -3309,7 +3566,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "hot_chili_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Sesame seeds",
@@ -3323,7 +3581,10 @@
     "fiber": 1.1,
     "micros": {},
     "sub_group": "seed",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "sesame"
+    ]
   },
   {
     "name": "Kimchi",
@@ -3337,7 +3598,8 @@
     "fiber": 2.1,
     "micros": {},
     "sub_group": "pickled_briny",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Gochugaru",
@@ -3351,7 +3613,8 @@
     "fiber": 0.6,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Mirin",
@@ -3365,7 +3628,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Rice paper wrappers",
@@ -3381,7 +3645,8 @@
     "sub_group": "flatbread_wrap",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Fresh mint",
@@ -3395,7 +3660,8 @@
     "fiber": 0.3,
     "micros": {},
     "sub_group": "fresh_herb",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Bean sprouts",
@@ -3409,7 +3675,8 @@
     "fiber": 1.8,
     "micros": {},
     "sub_group": "asian_crunch_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Vermicelli rice noodles (dry)",
@@ -3425,7 +3692,8 @@
     "sub_group": "pasta_noodle",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Sumac",
@@ -3439,7 +3707,8 @@
     "fiber": 0.7,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Za'atar",
@@ -3453,7 +3722,8 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ground lamb",
@@ -3467,7 +3737,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "ground_red_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pomegranate seeds",
@@ -3481,7 +3752,8 @@
     "fiber": 1.8,
     "micros": {},
     "sub_group": "tropical_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Shallot",
@@ -3495,7 +3767,8 @@
     "fiber": 0.6,
     "micros": {},
     "sub_group": "allium",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Dry white wine (cooking)",
@@ -3509,7 +3782,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cooking_wine",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Gruyere cheese",
@@ -3523,7 +3797,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Chorizo (fully cooked)",
@@ -3537,7 +3814,8 @@
     "fiber": 0.0,
     "micros": {},
     "sub_group": "cured_processed_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Smoked paprika",
@@ -3551,7 +3829,8 @@
     "fiber": 0.8,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Manchego cheese",
@@ -3565,7 +3844,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Green olives",
@@ -3579,7 +3861,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "pickled_briny",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Saffron threads",
@@ -3593,7 +3876,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Jerk seasoning",
@@ -3607,7 +3891,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Plantain",
@@ -3621,7 +3906,8 @@
     "fiber": 2.3,
     "micros": {},
     "sub_group": "banana_plantain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Allspice",
@@ -3635,7 +3921,8 @@
     "fiber": 0.6,
     "micros": {},
     "sub_group": "spice_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "BBQ sauce",
@@ -3649,7 +3936,8 @@
     "fiber": 0.3,
     "micros": {},
     "sub_group": "tomato_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cornbread mix (dry)",
@@ -3663,7 +3951,10 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "cornbread_mix",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Collard greens",
@@ -3677,7 +3968,8 @@
     "fiber": 4,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Buttermilk",
@@ -3691,7 +3983,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "milk",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Catfish fillet (raw)",
@@ -3705,7 +4000,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "white_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Pork shoulder (raw)",
@@ -3719,7 +4017,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "red_meat_roast_steak",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Slaw mix (bagged)",
@@ -3733,7 +4032,8 @@
     "fiber": 2.1,
     "micros": {},
     "sub_group": "asian_crunch_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Hamburger bun (whole wheat)",
@@ -3747,7 +4047,10 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "bread_bun",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Couscous (dry)",
@@ -3761,7 +4064,10 @@
     "fiber": 5,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Ketchup",
@@ -3775,7 +4081,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "tomato_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Beef broth",
@@ -3789,7 +4096,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "broth_stock",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Refrigerated pie crust",
@@ -3803,7 +4111,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "pie_crust",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Elbow macaroni (dry)",
@@ -3817,7 +4126,10 @@
     "fiber": 3.2,
     "micros": {},
     "sub_group": "pasta_noodle",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Yukon gold potato",
@@ -3831,7 +4143,8 @@
     "fiber": 2.2,
     "micros": {},
     "sub_group": "starchy_root",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Miso paste",
@@ -3845,7 +4158,10 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "miso_paste",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "soy"
+    ]
   },
   {
     "name": "Ramen noodles (fresh)",
@@ -3859,7 +4175,10 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "pasta_noodle",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Nori sheets",
@@ -3873,7 +4192,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "nori_wrap",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Sweetened condensed milk",
@@ -3887,7 +4207,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "condensed_evap_milk",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Evaporated milk",
@@ -3901,7 +4224,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "condensed_evap_milk",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Granulated sugar",
@@ -3915,7 +4241,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "sweetener_dry",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Vanilla extract",
@@ -3929,7 +4256,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "extract_flavoring",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Swiss cheese",
@@ -3943,7 +4271,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Provolone cheese",
@@ -3957,7 +4288,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Brie cheese",
@@ -3971,7 +4305,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Blue cheese",
@@ -3985,7 +4322,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Goat cheese",
@@ -3999,7 +4339,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Ricotta cheese (part-skim)",
@@ -4013,7 +4356,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Cream cheese",
@@ -4027,7 +4373,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cream_cheese_spread",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Cream cheese (reduced fat)",
@@ -4041,7 +4390,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cream_cheese_spread",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "String cheese",
@@ -4055,7 +4407,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Mozzarella cheese (whole milk)",
@@ -4069,7 +4424,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Mozzarella cheese (nonfat)",
@@ -4083,7 +4441,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Cheddar cheese (reduced fat)",
@@ -4097,7 +4458,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Colby jack cheese",
@@ -4111,7 +4475,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Pepper jack cheese",
@@ -4125,7 +4492,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Muenster cheese",
@@ -4139,7 +4509,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Halloumi cheese",
@@ -4153,7 +4526,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Queso fresco",
@@ -4167,7 +4543,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soft_fresh_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cottage cheese (nonfat)",
@@ -4181,7 +4558,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cottage_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "American cheese",
@@ -4195,7 +4575,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Ranch dressing",
@@ -4209,7 +4592,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_creamy",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ranch dressing (light)",
@@ -4223,7 +4607,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_creamy",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Italian dressing",
@@ -4237,7 +4622,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_vinaigrette",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Balsamic vinaigrette",
@@ -4251,7 +4637,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_vinaigrette",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Balsamic vinaigrette (light)",
@@ -4265,7 +4652,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_vinaigrette",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Caesar dressing (bottled)",
@@ -4279,7 +4667,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_creamy",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Caesar dressing (light)",
@@ -4293,7 +4682,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_creamy",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Honey mustard dressing",
@@ -4307,7 +4697,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_vinaigrette",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Blue cheese dressing",
@@ -4321,7 +4712,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_creamy",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Greek vinaigrette",
@@ -4335,7 +4729,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_vinaigrette",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Thousand island dressing",
@@ -4349,7 +4744,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "dressing_creamy",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Tilapia (raw)",
@@ -4363,7 +4759,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "white_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Halibut (raw)",
@@ -4377,7 +4776,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "white_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Mahi mahi (raw)",
@@ -4391,7 +4791,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "white_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Tuna steak (raw)",
@@ -4405,7 +4806,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "fatty_fish_fillet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Scallops (raw)",
@@ -4419,7 +4823,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "shellfish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
   },
   {
     "name": "Mussels (raw)",
@@ -4433,7 +4840,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "shellfish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
   },
   {
     "name": "Crab meat",
@@ -4447,7 +4857,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "shellfish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
   },
   {
     "name": "Lobster meat",
@@ -4461,7 +4874,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "shellfish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
   },
   {
     "name": "Turkey breast (raw)",
@@ -4475,7 +4891,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "poultry_breast_cutlet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Chicken thigh (raw)",
@@ -4489,7 +4906,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "poultry_thigh_ground",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Ground chicken",
@@ -4503,7 +4921,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "poultry_thigh_ground",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Venison (raw)",
@@ -4517,7 +4936,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "red_meat_roast_steak",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Bison (raw)",
@@ -4531,7 +4951,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "red_meat_roast_steak",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Duck breast (raw)",
@@ -4545,7 +4966,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "poultry_breast_cutlet",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Sardines (canned in water)",
@@ -4559,7 +4981,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "canned_fish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Kale",
@@ -4573,7 +4996,8 @@
     "fiber": 3.6,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Arugula",
@@ -4587,7 +5011,8 @@
     "fiber": 1.6,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Swiss chard",
@@ -4601,7 +5026,8 @@
     "fiber": 1.6,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Iceberg lettuce",
@@ -4615,7 +5041,8 @@
     "fiber": 1.2,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Mixed greens",
@@ -4629,7 +5056,8 @@
     "fiber": 1.8,
     "micros": {},
     "sub_group": "leafy_green",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Green cabbage",
@@ -4643,7 +5071,8 @@
     "fiber": 2.5,
     "micros": {},
     "sub_group": "cruciferous",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Red cabbage",
@@ -4657,7 +5086,8 @@
     "fiber": 2.1,
     "micros": {},
     "sub_group": "cruciferous",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Brussels sprouts",
@@ -4671,7 +5101,8 @@
     "fiber": 3.8,
     "micros": {},
     "sub_group": "cruciferous",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Asparagus",
@@ -4685,7 +5116,8 @@
     "fiber": 2.1,
     "micros": {},
     "sub_group": "pod_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Green beans",
@@ -4699,7 +5131,8 @@
     "fiber": 3.4,
     "micros": {},
     "sub_group": "pod_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Snow peas",
@@ -4713,7 +5146,8 @@
     "fiber": 2.6,
     "micros": {},
     "sub_group": "pod_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Radishes",
@@ -4727,7 +5161,8 @@
     "fiber": 1.6,
     "micros": {},
     "sub_group": "root_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Beets",
@@ -4741,7 +5176,8 @@
     "fiber": 2.8,
     "micros": {},
     "sub_group": "root_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Turnips",
@@ -4755,7 +5191,8 @@
     "fiber": 1.8,
     "micros": {},
     "sub_group": "root_veg",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Parsnips",
@@ -4769,7 +5206,8 @@
     "fiber": 4.9,
     "micros": {},
     "sub_group": "starchy_root",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Butternut squash",
@@ -4783,7 +5221,10 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "squash",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Acorn squash",
@@ -4797,7 +5238,8 @@
     "fiber": 1.5,
     "micros": {},
     "sub_group": "squash",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Spaghetti squash",
@@ -4811,7 +5253,8 @@
     "fiber": 1.5,
     "micros": {},
     "sub_group": "squash",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Grapefruit",
@@ -4825,7 +5268,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "citrus_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Fresh pineapple",
@@ -4839,7 +5283,8 @@
     "fiber": 1.4,
     "micros": {},
     "sub_group": "tropical_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Strawberries",
@@ -4853,7 +5298,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "berry_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Blueberries",
@@ -4867,7 +5313,8 @@
     "fiber": 2.4,
     "micros": {},
     "sub_group": "berry_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Raspberries",
@@ -4881,7 +5328,8 @@
     "fiber": 6.5,
     "micros": {},
     "sub_group": "berry_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Blackberries",
@@ -4895,7 +5343,8 @@
     "fiber": 5.3,
     "micros": {},
     "sub_group": "berry_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Grapes",
@@ -4909,7 +5358,8 @@
     "fiber": 0.9,
     "micros": {},
     "sub_group": "pome_stone_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Peach",
@@ -4923,7 +5373,8 @@
     "fiber": 2.3,
     "micros": {},
     "sub_group": "pome_stone_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pear",
@@ -4937,7 +5388,8 @@
     "fiber": 5.5,
     "micros": {},
     "sub_group": "pome_stone_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Kiwi",
@@ -4951,7 +5403,8 @@
     "fiber": 2.1,
     "micros": {},
     "sub_group": "tropical_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Watermelon",
@@ -4965,7 +5418,8 @@
     "fiber": 0.4,
     "micros": {},
     "sub_group": "pome_stone_fruit",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Bulgur (dry)",
@@ -4979,7 +5433,8 @@
     "fiber": 18.3,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pearled barley (dry)",
@@ -4993,7 +5448,8 @@
     "fiber": 15.6,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Cornmeal/polenta (dry)",
@@ -5007,7 +5463,8 @@
     "fiber": 7.3,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Wild rice (dry)",
@@ -5023,7 +5480,8 @@
     "sub_group": "rice",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Jasmine rice (dry)",
@@ -5039,7 +5497,8 @@
     "sub_group": "rice",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Whole wheat couscous (dry)",
@@ -5053,7 +5512,10 @@
     "fiber": 8,
     "micros": {},
     "sub_group": "other_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Orzo (dry)",
@@ -5067,7 +5529,8 @@
     "fiber": 3.2,
     "micros": {},
     "sub_group": "pasta_noodle",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Rice cakes",
@@ -5081,7 +5544,8 @@
     "fiber": 0.4,
     "micros": {},
     "sub_group": "snack_cracker",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "English muffin (whole wheat)",
@@ -5095,7 +5559,10 @@
     "fiber": 4.4,
     "micros": {},
     "sub_group": "bread_bun",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Cashews",
@@ -5109,7 +5576,10 @@
     "fiber": 0.9,
     "micros": {},
     "sub_group": "tree_nut",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "tree_nut"
+    ]
   },
   {
     "name": "Pistachios",
@@ -5123,7 +5593,10 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "tree_nut",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "tree_nut"
+    ]
   },
   {
     "name": "Pecans",
@@ -5137,7 +5610,10 @@
     "fiber": 2.7,
     "micros": {},
     "sub_group": "tree_nut",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "tree_nut"
+    ]
   },
   {
     "name": "Sunflower seeds",
@@ -5151,7 +5627,8 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "seed",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pumpkin seeds",
@@ -5165,7 +5642,8 @@
     "fiber": 1.7,
     "micros": {},
     "sub_group": "seed",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Powdered peanut butter",
@@ -5179,7 +5657,10 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "nut_seed_butter",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "peanut"
+    ]
   },
   {
     "name": "Sunflower seed butter",
@@ -5193,7 +5674,10 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "nut_seed_butter",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Macadamia nuts",
@@ -5207,7 +5691,10 @@
     "fiber": 2.4,
     "micros": {},
     "sub_group": "tree_nut",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "tree_nut"
+    ]
   },
   {
     "name": "Split peas (dry)",
@@ -5221,7 +5708,8 @@
     "fiber": 25.5,
     "micros": {},
     "sub_group": "lentil_split_pea",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Black-eyed peas",
@@ -5235,7 +5723,8 @@
     "fiber": 6.5,
     "micros": {},
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Fava beans",
@@ -5249,7 +5738,8 @@
     "fiber": 5.4,
     "micros": {},
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Kidney beans",
@@ -5263,7 +5753,8 @@
     "fiber": 6.4,
     "micros": {},
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Navy beans",
@@ -5277,7 +5768,8 @@
     "fiber": 10.5,
     "micros": {},
     "sub_group": "bean_canned_cooked",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Hot sauce",
@@ -5291,7 +5783,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hot_chili_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Teriyaki sauce",
@@ -5305,7 +5798,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "soy_umami_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Enchilada sauce",
@@ -5319,7 +5813,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "tomato_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Alfredo sauce",
@@ -5333,7 +5828,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "creamy_pasta_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Pesto sauce",
@@ -5347,7 +5843,8 @@
     "fiber": 1,
     "micros": {},
     "sub_group": "herb_sauce",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Guacamole",
@@ -5361,7 +5858,8 @@
     "fiber": 2,
     "micros": {},
     "sub_group": "dip_spread",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Coconut aminos",
@@ -5377,7 +5875,8 @@
     "sub_group": "soy_umami_sauce",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Liquid aminos",
@@ -5393,7 +5892,8 @@
     "sub_group": "soy_umami_sauce",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Nutritional yeast",
@@ -5407,7 +5907,8 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "nutritional_yeast",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Panko breadcrumbs",
@@ -5421,7 +5922,10 @@
     "fiber": 0.5,
     "micros": {},
     "sub_group": "breading_coating",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Gluten-free breadcrumbs",
@@ -5437,7 +5941,8 @@
     "sub_group": "breading_coating",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Crushed pork rinds",
@@ -5455,7 +5960,8 @@
       "gluten-free",
       "low-carb",
       "keto"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Cornflake crumbs",
@@ -5469,7 +5975,8 @@
     "fiber": 0.3,
     "micros": {},
     "sub_group": "breading_coating",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Almond flour",
@@ -5486,6 +5993,9 @@
     "dietary_tags": [
       "gluten-free",
       "low-carb"
+    ],
+    "allergens": [
+      "tree_nut"
     ]
   },
   {
@@ -5502,7 +6012,8 @@
     "sub_group": "baking_flour",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Coconut flour",
@@ -5518,7 +6029,8 @@
     "sub_group": "baking_flour",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Gluten-free hamburger bun",
@@ -5534,7 +6046,8 @@
     "sub_group": "bread_bun",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Gluten-free tortilla",
@@ -5550,7 +6063,8 @@
     "sub_group": "flatbread_wrap",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Tempeh",
@@ -5568,6 +6082,9 @@
       "vegan",
       "vegetarian",
       "gluten-free"
+    ],
+    "allergens": [
+      "soy"
     ]
   },
   {
@@ -5585,7 +6102,8 @@
     "dietary_tags": [
       "vegan",
       "vegetarian"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Unsweetened almond milk",
@@ -5602,6 +6120,10 @@
     "dietary_tags": [
       "dairy-free",
       "vegan"
+    ],
+    "allergens": [
+      "dairy",
+      "tree_nut"
     ]
   },
   {
@@ -5619,6 +6141,9 @@
     "dietary_tags": [
       "dairy-free",
       "vegan"
+    ],
+    "allergens": [
+      "dairy"
     ]
   },
   {
@@ -5635,7 +6160,8 @@
     "sub_group": "other_grain",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Cotija cheese",
@@ -5649,7 +6175,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "hard_cheese",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Bacon",
@@ -5663,7 +6192,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cured_processed_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Deli ham (sliced)",
@@ -5677,7 +6207,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cured_processed_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "French baguette",
@@ -5691,7 +6222,8 @@
     "fiber": 1.2,
     "micros": {},
     "sub_group": "bread_bun",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Rye bread",
@@ -5705,7 +6237,10 @@
     "fiber": 1.9,
     "micros": {},
     "sub_group": "bread_bun",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "Sauerkraut",
@@ -5722,7 +6257,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Corned beef",
@@ -5738,7 +6274,8 @@
     "sub_group": "cured_processed_meat",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken broth",
@@ -5754,7 +6291,8 @@
     "sub_group": "broth_stock",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Salami (Genoa)",
@@ -5768,7 +6306,8 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "cured_processed_meat",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": []
   },
   {
     "name": "Mandarin orange segments (canned)",
@@ -5785,7 +6324,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "New Mexico red chile powder",
@@ -5802,7 +6342,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Hominy (canned)",
@@ -5819,7 +6360,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Pinon nuts (pine nuts)",
@@ -5836,6 +6378,9 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
+    ],
+    "allergens": [
+      "tree_nut"
     ]
   },
   {
@@ -5853,7 +6398,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Anise seed",
@@ -5870,7 +6416,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Fritos corn chips",
@@ -5886,7 +6433,8 @@
     "sub_group": "snack_cracker",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Trout fillet (raw)",
@@ -5902,6 +6450,9 @@
     "sub_group": "white_fish_fillet",
     "dietary_tags": [
       "gluten-free"
+    ],
+    "allergens": [
+      "fish"
     ]
   },
   {
@@ -5919,7 +6470,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Bay leaves",
@@ -5936,7 +6488,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Black pepper (ground)",
@@ -5953,7 +6506,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Red pepper flakes",
@@ -5970,7 +6524,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Red wine (cooking)",
@@ -5986,7 +6541,8 @@
     "sub_group": "cooking_wine",
     "dietary_tags": [
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Heavy cream",
@@ -6000,7 +6556,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "milk",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
   },
   {
     "name": "Fresh thyme",
@@ -6017,7 +6576,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Fresh rosemary",
@@ -6034,7 +6594,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Fresh oregano",
@@ -6051,7 +6612,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Leeks",
@@ -6068,7 +6630,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Capers",
@@ -6085,7 +6648,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Dry sherry (cooking)",
@@ -6101,7 +6665,8 @@
     "sub_group": "cooking_wine",
     "dietary_tags": [
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "White wine vinegar",
@@ -6118,7 +6683,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Instant espresso powder",
@@ -6135,7 +6701,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Unflavored gelatin",
@@ -6151,7 +6718,8 @@
     "sub_group": "other",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Dried basil",
@@ -6168,7 +6736,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Paprika",
@@ -6185,7 +6754,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Onion powder",
@@ -6202,7 +6772,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Garlic powder",
@@ -6219,7 +6790,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Vegetable oil",
@@ -6236,7 +6808,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Herbes de Provence",
@@ -6253,7 +6826,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Chipotle pepper in adobo",
@@ -6270,7 +6844,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Ground pork (raw)",
@@ -6286,7 +6861,8 @@
     "sub_group": "ground_red_meat",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Ground cardamom",
@@ -6303,7 +6879,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Roasted red peppers (jarred)",
@@ -6320,7 +6897,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Apple cider vinegar",
@@ -6337,7 +6915,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Korean rice cake (tteok)",
@@ -6354,7 +6933,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Peanuts",
@@ -6367,10 +6947,13 @@
     "fat": 14,
     "fiber": 2.4,
     "micros": {},
-    "sub_group": "tree_nut",
+    "sub_group": "legume_nut",
     "dietary_tags": [
       "gluten-free",
       "vegan"
+    ],
+    "allergens": [
+      "peanut"
     ]
   },
   {
@@ -6388,7 +6971,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Dates",
@@ -6405,7 +6989,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Bomba rice (dry)",
@@ -6421,7 +7006,8 @@
     "sub_group": "rice",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Mussels",
@@ -6437,6 +7023,9 @@
     "sub_group": "shellfish",
     "dietary_tags": [
       "gluten-free"
+    ],
+    "allergens": [
+      "shellfish"
     ]
   },
   {
@@ -6454,7 +7043,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Matcha powder",
@@ -6471,7 +7061,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Ras el hanout",
@@ -6488,7 +7079,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Harissa",
@@ -6505,7 +7097,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Preserved lemon",
@@ -6522,7 +7115,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Cassava",
@@ -6539,7 +7133,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Palm oil",
@@ -6556,7 +7151,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Okra",
@@ -6573,7 +7169,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Suya spice",
@@ -6590,7 +7187,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Berbere spice",
@@ -6607,7 +7205,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Teff flour",
@@ -6624,7 +7223,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Tamarind paste",
@@ -6641,7 +7241,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Coconut milk (full-fat, canned)",
@@ -6658,6 +7259,9 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
+    ],
+    "allergens": [
+      "dairy"
     ]
   },
   {
@@ -6675,7 +7279,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Cayenne pepper",
@@ -6692,7 +7297,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Apricot jam",
@@ -6709,7 +7315,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Ground turmeric",
@@ -6726,7 +7333,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Dried apricots",
@@ -6743,7 +7351,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Semolina",
@@ -6759,6 +7368,9 @@
     "sub_group": "other_grain",
     "dietary_tags": [
       "vegan"
+    ],
+    "allergens": [
+      "gluten"
     ]
   },
   {
@@ -6776,7 +7388,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Yam",
@@ -6793,7 +7406,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Jalapeno pepper",
@@ -6810,7 +7424,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Raisins",
@@ -6827,6 +7442,7 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   }
 ]

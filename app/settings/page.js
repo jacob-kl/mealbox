@@ -20,8 +20,10 @@ export default async function SettingsPage() {
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, goal, diet_type')
+    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, goal, diet_type, allergies, household_role')
     .eq('household_id', profile.household_id);
+
+  const { data: ingredientCatalog } = await supabase.from('ingredients').select('name, sub_group');
 
   return (
     <>
@@ -29,7 +31,12 @@ export default async function SettingsPage() {
       <main className="max-w-3xl mx-auto px-4 py-8">
         <p className="tab-label text-rust mb-1">Household</p>
         <h1 className="font-display text-3xl mb-6">Settings</h1>
-        <SettingsForm household={household} members={members || []} />
+        <SettingsForm
+          household={household}
+          members={members || []}
+          ingredientCatalog={ingredientCatalog || []}
+          currentUserId={user.id}
+        />
       </main>
     </>
   );

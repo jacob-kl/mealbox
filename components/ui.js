@@ -104,14 +104,13 @@ export function NavBar({ active }) {
 }
 
 export const CUISINES = [
-  'american', 'asian', 'caribbean', 'central-african', 'chinese', 'east-african', 'french', 'indian',
+  'american', 'caribbean', 'central-african', 'chinese', 'east-african', 'french', 'indian',
   'italian', 'japanese', 'korean', 'mediterranean', 'mexican', 'middle-eastern', 'new-mexico',
-  'north-african', 'south-african', 'southern', 'spanish', 'thai', 'vietnamese', 'west-african',
+  'north-african', 'south-african', 'southeast-asian', 'southern', 'spanish', 'thai', 'vietnamese', 'west-african',
 ];
 
 export const CUISINE_LABELS = {
   american: 'American',
-  asian: 'Asian',
   caribbean: 'Caribbean',
   'central-african': 'Central African',
   chinese: 'Chinese',
@@ -127,6 +126,7 @@ export const CUISINE_LABELS = {
   'new-mexico': 'New Mexican',
   'north-african': 'North African',
   'south-african': 'South African',
+  'southeast-asian': 'Southeast Asian',
   southern: 'Southern',
   spanish: 'Spanish',
   thai: 'Thai',
