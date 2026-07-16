@@ -22,7 +22,7 @@ export async function POST(request) {
     .single();
 
   if (requester?.household_role !== 'head_of_kitchen') {
-    return NextResponse.json({ error: 'Only the head of kitchen can add household members.' }, { status: 403 });
+    return NextResponse.json({ error: 'Only the head chef can add household members.' }, { status: 403 });
   }
   const householdId = requester.household_id;
 

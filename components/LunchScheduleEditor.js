@@ -28,6 +28,8 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
   );
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
+  const [copying, setCopying] = useState(false);
+  const [copied, setCopied] = useState(false);
 
   if (!members?.length) {
     return <p className="text-sm text-ink/50">No household members found yet.</p>;
@@ -39,6 +41,7 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
 
   function toggleDay(dayIndex) {
     setSaved(false);
+    setCopied(false);
     setSchedules((prev) => ({
       ...prev,
       [activeId]: { ...prev[activeId], days: { ...prev[activeId].days, [dayIndex]: !prev[activeId].days[dayIndex] } },
@@ -47,6 +50,7 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
 
   function toggleStrategy(dayIndex) {
     setSaved(false);
+    setCopied(false);
     setSchedules((prev) => ({
       ...prev,
       [activeId]: {
@@ -63,6 +67,26 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
     setSaved(true);
   }
 
+  async function copyToAll() {
+    setCopying(true);
+    setCopied(false);
+    const others = members.filter((m) => m.id !== activeId);
+    // Apply locally first so the UI reflects it immediately without waiting
+    // on every request to round-trip.
+    setSchedules((prev) => {
+      const next = { ...prev };
+      for (const m of others) next[m.id] = schedule;
+      return next;
+    });
+    await Promise.all(others.map((m) => supabase.from('profiles').update({ lunch_schedule: schedule }).eq('id', m.id)));
+    // The active person's own schedule should also be saved, since "copy to
+    // everyone" implies this is now the household's shared schedule.
+    await supabase.from('profiles').update({ lunch_schedule: schedule }).eq('id', activeId);
+    setCopying(false);
+    setCopied(true);
+    setSaved(true);
+  }
+
   return (
     <div>
       <div className="flex flex-wrap gap-2 mb-4">
@@ -73,6 +97,7 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
             onClick={() => {
               setActiveId(m.id);
               setSaved(false);
+              setCopied(false);
             }}
             className={`text-sm px-3 py-1.5 rounded-card border ${
               activeId === m.id ? 'bg-pine text-white border-pine' : 'border-line'
@@ -84,7 +109,7 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
       </div>
 
       {!canEditActive && (
-        <p className="text-xs text-ink/50 mb-3">Only {active?.display_name} or the head of kitchen can change this.</p>
+        <p className="text-xs text-ink/50 mb-3">Only {active?.display_name} or the head chef can change this.</p>
       )}
 
       <div className="space-y-1.5">
@@ -121,14 +146,26 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
       </div>
 
       {canEditActive && (
-        <button
-          type="button"
-          onClick={handleSave}
-          disabled={saving}
-          className="mt-3 text-xs px-3 py-1.5 rounded-card bg-pine text-white disabled:opacity-50"
-        >
-          {saving ? 'Saving…' : saved ? 'Saved ✓' : `Save ${active?.display_name}'s schedule`}
-        </button>
+        <div className="mt-3 flex flex-wrap items-center gap-2">
+          <button
+            type="button"
+            onClick={handleSave}
+            disabled={saving}
+            className="text-xs px-3 py-1.5 rounded-card bg-pine text-white disabled:opacity-50"
+          >
+            {saving ? 'Saving…' : saved && !copied ? 'Saved ✓' : `Save ${active?.display_name}'s schedule`}
+          </button>
+          {isHeadOfKitchen && members.length > 1 && (
+            <button
+              type="button"
+              onClick={copyToAll}
+              disabled={copying}
+              className="text-xs px-3 py-1.5 rounded-card border border-line hover:bg-paper disabled:opacity-50"
+            >
+              {copying ? 'Copying…' : copied ? 'Copied to everyone ✓' : `Copy ${active?.display_name}'s schedule to everyone`}
+            </button>
+          )}
+        </div>
       )}
     </div>
   );

@@ -7444,5 +7444,165 @@
       "vegan"
     ],
     "allergens": []
+  },
+  {
+    "name": "Imitation crab",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 96,
+    "protein": 9,
+    "carbs": 12,
+    "fat": 0.5,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "shellfish",
+    "dietary_tags": []
+  },
+  {
+    "name": "Ham hock",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw, bone-in",
+    "cal": 145,
+    "protein": 15,
+    "carbs": 0,
+    "fat": 9,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "pork_cut",
+    "dietary_tags": [
+      "gluten-free"
+    ]
+  },
+  {
+    "name": "Egg noodles (dry)",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 371,
+    "protein": 14,
+    "carbs": 71,
+    "fat": 4,
+    "fiber": 3,
+    "micros": {},
+    "sub_group": "pasta_grain",
+    "dietary_tags": []
+  },
+  {
+    "name": "Baking powder",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 2,
+    "protein": 0,
+    "carbs": 1.2,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "leavening",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Sweet chili sauce",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 30,
+    "protein": 0.1,
+    "carbs": 7,
+    "fat": 0,
+    "fiber": 0.1,
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "French bread",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 289,
+    "protein": 9.3,
+    "carbs": 55,
+    "fat": 3.5,
+    "fiber": 2.5,
+    "micros": {},
+    "sub_group": "bread",
+    "dietary_tags": []
+  },
+  {
+    "name": "15 bean soup mix (dry)",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 340,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 1.5,
+    "fiber": 15,
+    "micros": {},
+    "sub_group": "legume",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "Egusi seeds (ground)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 550,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 45,
+    "fiber": 6,
+    "micros": {},
+    "sub_group": "seed",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "MSG",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 20,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "seasoning",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
+  },
+  {
+    "name": "White pepper",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp",
+    "cal": 7,
+    "protein": 0.3,
+    "carbs": 1.7,
+    "fat": 0.1,
+    "fiber": 0.6,
+    "micros": {},
+    "sub_group": "spice_dry",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ]
   }
 ]

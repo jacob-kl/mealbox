@@ -27,9 +27,11 @@ function MacroFields({ values, onChange }) {
 }
 
 /**
- * Head-of-kitchen-only controls: add a new household member (with a
+ * Head-chef-only controls: add a new household member (with a
  * personal invite code they'll use to claim it later), edit anyone's
- * macros directly, and promote a member to the "kitchen" role.
+ * macros directly, and promote a member to sous chef.
+ * (Displayed as "Head Chef"/"Sous Chef" - underlying household_role values
+ * stay head_of_kitchen/kitchen/member; see lib/roleLabels.js.)
  */
 export default function HouseholdMemberManager({ household, members, pendingMembers }) {
   const supabase = createClient();
@@ -147,10 +149,10 @@ export default function HouseholdMemberManager({ household, members, pendingMemb
                 <span className="w-2.5 h-2.5 rounded-full inline-block" style={{ backgroundColor: m.color }} />
                 {m.display_name}
                 {m.household_role === 'head_of_kitchen' && (
-                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-pine/15 text-pine">Head of kitchen</span>
+                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-pine/15 text-pine">Head Chef</span>
                 )}
                 {m.household_role === 'kitchen' && (
-                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-gold/20 text-ink/70">Kitchen</span>
+                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-gold/20 text-ink/70">Sous Chef</span>
                 )}
                 {m.is_placeholder && (
                   <span className="text-xs px-1.5 py-0.5 rounded-full bg-rust/15 text-rust">Not yet claimed</span>
@@ -169,7 +171,7 @@ export default function HouseholdMemberManager({ household, members, pendingMemb
                     disabled={promotingId === m.id}
                     className="text-xs px-2 py-1 rounded-card border border-line hover:bg-paper disabled:opacity-50"
                   >
-                    Promote to kitchen
+                    Promote to sous chef
                   </button>
                 )}
                 {m.household_role === 'kitchen' && (
@@ -179,7 +181,7 @@ export default function HouseholdMemberManager({ household, members, pendingMemb
                     disabled={promotingId === m.id}
                     className="text-xs px-2 py-1 rounded-card border border-line hover:bg-paper disabled:opacity-50"
                   >
-                    Remove kitchen access
+                    Remove sous chef role
                   </button>
                 )}
               </div>

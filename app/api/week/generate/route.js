@@ -22,7 +22,7 @@ export async function POST(request) {
   const householdId = profile?.household_id;
   if (!householdId) return NextResponse.json({ error: 'No household on this profile' }, { status: 400 });
   if (!canEditMealPlan(profile?.household_role)) {
-    return NextResponse.json({ error: 'Only the head of kitchen or kitchen members can generate the week plan.' }, { status: 403 });
+    return NextResponse.json({ error: 'Only the head chef or sous chefs can generate the week plan.' }, { status: 403 });
   }
 
   const { data: household } = await supabase

@@ -7,7 +7,7 @@ import { createClient } from '@/lib/supabase/client';
  * Yum/yuck voting on a planned meal. Anyone in the household can react,
  * regardless of whether they can edit the plan - voting is how a member
  * without edit access still gets a voice: enough yucks is the signal for
- * whoever CAN edit (head of kitchen/kitchen) to swap it out.
+ * whoever CAN edit (head chef/sous chef) to swap it out.
  *
  * @param {{profile_id: string, reaction: 'yum'|'yuck'}[]} reactions
  */

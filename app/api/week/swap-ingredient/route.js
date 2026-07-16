@@ -26,7 +26,7 @@ export async function POST(request) {
   const householdId = profile?.household_id;
 
   if (!canEditMealPlan(profile?.household_role)) {
-    return NextResponse.json({ error: 'Only the head of kitchen or kitchen members can edit the meal plan.' }, { status: 403 });
+    return NextResponse.json({ error: 'Only the head chef or sous chefs can edit the meal plan.' }, { status: 403 });
   }
 
   const { data: meal } = await supabase

@@ -118,7 +118,7 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
         {isHeadOfKitchen ? (
           <>
             <p className="text-sm text-ink/60 mb-3">
-              Share this code so others can join <strong>{household.name}</strong>. As head of kitchen,
+              Share this code so others can join <strong>{household.name}</strong>. As head chef,
               you're the only one who can invite new people.
             </p>
             <p className="font-mono text-2xl tracking-widest bg-paper border border-line rounded-card px-4 py-2 inline-block">
@@ -127,7 +127,7 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
           </>
         ) : (
           <p className="text-sm text-ink/60">
-            Only the head of kitchen ({members.find((m) => m.household_role === 'head_of_kitchen')?.display_name || 'someone in your household'}) can invite new people.
+            Only the head chef ({members.find((m) => m.household_role === 'head_of_kitchen')?.display_name || 'someone in your household'}) can invite new people.
           </p>
         )}
       </Card>
@@ -138,7 +138,7 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
           <HouseholdMemberManager household={household} members={members} pendingMembers={pendingMembers} />
         ) : (
           <>
-            <p className="text-xs text-ink/50 mb-2">The head of kitchen can invite new people to the household.</p>
+            <p className="text-xs text-ink/50 mb-2">The head chef can invite new people to the household.</p>
             <div className="space-y-2">
               {members.map((m) => (
                 <div key={m.id} className="flex items-center justify-between text-sm border-b border-line last:border-0 pb-2 last:pb-0">
@@ -146,10 +146,10 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
                     <span className="w-2.5 h-2.5 rounded-full inline-block" style={{ backgroundColor: m.color }} />
                     {m.display_name}
                     {m.household_role === 'head_of_kitchen' && (
-                      <span className="text-xs px-1.5 py-0.5 rounded-full bg-pine/15 text-pine">Head of kitchen</span>
+                      <span className="text-xs px-1.5 py-0.5 rounded-full bg-pine/15 text-pine">Head Chef</span>
                     )}
                     {m.household_role === 'kitchen' && (
-                      <span className="text-xs px-1.5 py-0.5 rounded-full bg-gold/20 text-ink/70">Kitchen</span>
+                      <span className="text-xs px-1.5 py-0.5 rounded-full bg-gold/20 text-ink/70">Sous Chef</span>
                     )}
                     <span className="text-xs text-ink/40 capitalize">
                       ({m.goal}{m.diet_type && m.diet_type !== 'balanced' ? `, ${DIET_TYPES[m.diet_type]?.label || m.diet_type}` : ''})

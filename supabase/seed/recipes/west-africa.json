@@ -1429,5 +1429,106 @@
       "Fry 2-3 minutes per side until deeply golden and cooked through.",
       "Drain briefly and dust with sugar while still warm."
     ]
+  },
+  {
+    "name": "Egusi Soup",
+    "cuisine": "west-african",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Egusi seeds (ground)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Stir in egusi seeds and palm oil with 3/4 cup water, forming a thick paste-like stew, simmer 15 minutes.",
+      "Add spinach, cook 5 more minutes until wilted."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Egusi seeds (ground)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 120,
+        "note": "or collard greens, chopped"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333,
+        "note": "for depth"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the palm oil in a heavy pot over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion, cooking 5 minutes until softened, then garlic and ginger, cooking 1 minute.",
+      "Stir in the ground egusi seeds directly into the oil and beef, toasting briefly, about 1 minute - this blooms their flavor the way toasting a spice does.",
+      "Add the tomatoes, cayenne, fish sauce, and broth, stirring to form a thick, semi-paste consistency characteristic of egusi soup - it should be thicker than a typical soup, closer to a stew.",
+      "Cover and simmer 15-18 minutes, stirring occasionally so the ground seeds don't stick to the bottom.",
+      "Add the spinach and cook 5 more minutes until wilted and fully incorporated.",
+      "Traditionally served with a starchy side like fufu or pounded yam for scooping."
+    ]
   }
 ]

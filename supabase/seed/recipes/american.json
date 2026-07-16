@@ -1897,5 +1897,383 @@
       "Butter the outside of both slices.",
       "Grill in a skillet over medium heat, 3-4 minutes per side, pressing down gently, until the bread is golden and the cheese is fully melted."
     ]
+  },
+  {
+    "name": "Classic Tomato Soup",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 300,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes and onion 15 minutes, blend until smooth.",
+      "Stir in milk and warm through, don't boil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 350,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Melt the butter in a pot over medium heat. Cook the onion 5-6 minutes until softened, then add garlic and tomato paste, cooking 1 minute.",
+      "Add the tomatoes and broth. Simmer 15-20 minutes to let the flavors meld.",
+      "Blend until smooth using an immersion blender, or carefully in a stand blender in batches.",
+      "Return to low heat and stir in the cream. Warm through gently without boiling, which can cause the cream to separate.",
+      "Top with fresh basil before serving."
+    ]
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "cuisine": "american",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2,
+        "note": "cups"
+      }
+    ],
+    "steps": [
+      "Simmer broth, carrot, and noodles 10 minutes until noodles are tender.",
+      "Stir in shredded chicken and warm through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Celery",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2.5,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0208,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion, carrot, and celery 6-7 minutes until softened.",
+      "Add the garlic, cooking 30 seconds, then add the broth and bay leaf. Bring to a simmer.",
+      "Add the egg noodles and cook per package timing, usually 7-9 minutes, until tender.",
+      "Stir in the shredded chicken and warm through, 2-3 minutes.",
+      "Remove the bay leaf, top with parsley, and serve."
+    ]
+  },
+  {
+    "name": "Cheesy Crab Rangoon Garlic Bread",
+    "cuisine": "american",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 6,
+    "ingredients": [
+      {
+        "ingredient": "Imitation crab",
+        "qty": 225,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cream cheese",
+        "qty": 16,
+        "note": "softened"
+      },
+      {
+        "ingredient": "French bread",
+        "qty": 400,
+        "note": "1 large loaf, halved lengthwise"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 5.5,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 8,
+        "note": "softened"
+      }
+    ],
+    "steps": [
+      "Mix crab, cream cheese, and seasonings of choice into a filling.",
+      "Spread butter on the halved bread, then the crab filling, then mozzarella.",
+      "Bake at 400F for 25-30 minutes until golden and bubbly."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Imitation crab",
+        "qty": 225,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cream cheese",
+        "qty": 16,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.25,
+        "note": "chopped, plus more for garnish"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic powder",
+        "qty": 2,
+        "note": "tsp, divided"
+      },
+      {
+        "ingredient": "Red pepper flakes",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "White pepper",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "MSG",
+        "qty": 0.5,
+        "note": "tsp, optional but authentic to the original"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 8,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.125,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 2,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "French bread",
+        "qty": 400,
+        "note": "1 large loaf, halved lengthwise"
+      },
+      {
+        "ingredient": "Mozzarella cheese (part-skim)",
+        "qty": 6,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Sweet chili sauce",
+        "qty": 2,
+        "note": "tbsp, for finishing"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F.",
+      "In a medium bowl, combine the imitation crab, cream cheese, 30g green onion, soy sauce, Worcestershire sauce, 1 tsp of the garlic powder, red pepper flakes, white pepper, and MSG if using. Mix until smooth and well combined - this is the crab rangoon filling.",
+      "In a separate bowl, mix the softened butter with parsley, Parmesan, minced garlic, and the remaining 1 tsp garlic powder until fully combined.",
+      "Place the halved loaf cut-side up on a baking sheet. Spread the garlic butter evenly over both halves, all the way to the edges.",
+      "Spread the crab filling evenly over the garlic butter, then top generously with the shredded mozzarella.",
+      "Bake 25-30 minutes, until the cheese is melted, bubbly, and lightly golden in spots.",
+      "As soon as it comes out of the oven, brush the top with sweet chili sauce and finish with a generous sprinkle of extra chopped green onion.",
+      "Slice and serve warm - this is meant to be shared."
+    ]
+  },
+  {
+    "name": "French Toast (Protein-Boosted)",
+    "cuisine": "american",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Whisk egg, milk, and cinnamon.",
+      "Dip bread and cook in a pan 2-3 min per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Liquid egg whites",
+        "qty": 0.204,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.3333,
+        "note": "for the pan"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the egg, egg whites, milk, cinnamon, and vanilla together in a shallow dish.",
+      "Dip each bread slice in the mixture, letting it soak 10-15 seconds per side so the custard penetrates rather than just coating the surface.",
+      "Melt butter in a skillet over medium heat. Cook the bread 2-3 minutes per side until golden and cooked through in the center."
+    ]
   }
 ]
