@@ -20,7 +20,7 @@ export default async function SettingsPage() {
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, goal, diet_type, allergies, household_role')
+    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, target_fat_g, goal, diet_type, allergies, household_role, personal_invite_code, is_placeholder, lunch_schedule')
     .eq('household_id', profile.household_id);
 
   const { data: ingredientCatalog } = await supabase.from('ingredients').select('name, sub_group');

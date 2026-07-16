@@ -637,3 +637,102 @@ set search_path = public
 as $$
   delete from pending_members where personal_invite_code = code
 $$;
+
+-- ----------------------------------------------------------------------------
+-- Revised household member creation. The pending_members table added earlier
+-- tonight required someone to fully sign up and "claim" a code before they
+-- counted as a real household member anywhere - including in week planning.
+-- That's the wrong default: a member the head of kitchen adds should show up
+-- in meal planning immediately, using whatever macros were set for them,
+-- exactly as if they'd onboarded themselves. This replaces that design.
+--
+-- profiles.id keeps meaning exactly what it always has (= auth.users.id) -
+-- nothing that currently assumes that breaks. What's new: the head of
+-- kitchen can create the auth user AND the profile at the same moment,
+-- using a placeholder email nobody needs to check. The real person later
+-- "claims" it with a personal code, at which point they set their own real
+-- email and password on that same account - same profile the whole time,
+-- so nothing they were already planned for gets lost.
+
+alter table profiles add column if not exists personal_invite_code text unique;
+alter table profiles add column if not exists is_placeholder boolean not null default false;
+
+-- ----------------------------------------------------------------------------
+-- Full-recipe editing. Swap/remove previously only ever touched the quick
+-- ingredient list (ingredients_override) - the full/authentic version had
+-- no equivalent, so editing it silently did nothing. These mirror the same
+-- pattern for the full list, plus store a rewritten steps text whenever a
+-- swap changes what the steps should say (e.g. swapping chicken for turkey
+-- means the instructions should say "turkey," not still say "chicken").
+alter table week_plan_meals add column if not exists ingredients_full_override jsonb;
+alter table week_plan_meals add column if not exists steps_override text[];
+alter table week_plan_meals add column if not exists steps_full_override text[];
+alter table week_plan_meals add column if not exists computed_macros_full jsonb;
+
+-- Per-person lunch schedule (which days, batch vs fresh), so one household
+-- member can batch-cook while another gets a fresh lunch daily. Lives on
+-- the profile since it's inherently personal, not a household-wide setting.
+-- Shape: { days: {0: bool, ..., 6: bool}, strategy: {0: 'batch'|'fresh', ...} }
+-- Falls back to the household's mealDays/lunchPlan settings when null, so
+-- existing households keep working exactly as before until someone sets
+-- their own personal schedule.
+alter table profiles add column if not exists lunch_schedule jsonb;
+
+-- ----------------------------------------------------------------------------
+-- Meal reactions (yum/yuck). Anyone in the household can react to a planned
+-- meal, regardless of their edit role - voting is meant to surface opinion
+-- to whoever CAN edit the plan (head of kitchen/kitchen), not to be gated
+-- behind the same permission as making the edit itself.
+create table if not exists meal_reactions (
+  id uuid primary key default gen_random_uuid(),
+  week_plan_meal_id uuid not null references week_plan_meals(id) on delete cascade,
+  profile_id uuid not null references profiles(id) on delete cascade,
+  reaction text not null check (reaction in ('yum', 'yuck')),
+  created_at timestamptz not null default now(),
+  unique (week_plan_meal_id, profile_id)
+);
+
+alter table meal_reactions enable row level security;
+
+drop policy if exists "household members react to household meals" on meal_reactions;
+create policy "household members react to household meals"
+  on meal_reactions for all
+  to authenticated
+  using (
+    week_plan_meal_id in (
+      select wpm.id from week_plan_meals wpm
+      join week_plans wp on wp.id = wpm.week_plan_id
+      where wp.household_id = public.current_household_id()
+    )
+  )
+  with check (
+    profile_id = auth.uid()
+    and week_plan_meal_id in (
+      select wpm.id from week_plan_meals wpm
+      join week_plans wp on wp.id = wpm.week_plan_id
+      where wp.household_id = public.current_household_id()
+    )
+  );
+
+-- ----------------------------------------------------------------------------
+-- Feedback. Stored here regardless of whether email delivery is configured,
+-- so nothing submitted is ever lost even if RESEND_API_KEY isn't set yet -
+-- Jake can always read submissions directly from this table in Supabase.
+create table if not exists feedback (
+  id uuid primary key default gen_random_uuid(),
+  household_id uuid references households(id) on delete set null,
+  profile_id uuid references profiles(id) on delete set null,
+  message text not null,
+  created_at timestamptz not null default now()
+);
+
+alter table feedback enable row level security;
+
+-- Anyone signed in can submit feedback, but can't read anyone's (including
+-- their own) back out through the app - this is a one-way mailbox, not a
+-- feed. Jake reads submissions directly in the Supabase table editor.
+drop policy if exists "submit feedback" on feedback;
+create policy "submit feedback"
+  on feedback for insert
+  to authenticated
+  with check (true);

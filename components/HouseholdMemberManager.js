@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { createClient } from '@/lib/supabase/client';
-import { randomInviteCode } from '@/lib/inviteCode';
 
 function MacroFields({ values, onChange }) {
   return (
@@ -53,18 +52,20 @@ export default function HouseholdMemberManager({ household, members, pendingMemb
     setError(null);
     setAddBusy(true);
     try {
-      const code = randomInviteCode();
-      const { error: insertError } = await supabase.from('pending_members').insert({
-        household_id: household.id,
-        display_name: newName,
-        personal_invite_code: code,
-        prefill_target_calories: newMacros.calories || null,
-        prefill_target_protein_g: newMacros.protein_g || null,
-        prefill_target_carbs_g: newMacros.carbs_g || null,
-        prefill_target_fat_g: newMacros.fat_g || null,
+      const res = await fetch('/api/household/add-member', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          displayName: newName,
+          targetCalories: newMacros.calories || null,
+          targetProteinG: newMacros.protein_g || null,
+          targetCarbsG: newMacros.carbs_g || null,
+          targetFatG: newMacros.fat_g || null,
+        }),
       });
-      if (insertError) throw new Error(insertError.message);
-      setAddedCode(code);
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Something went wrong.');
+      setAddedCode(data.personalInviteCode);
       setNewName('');
       setNewMacros({ calories: '', protein_g: '', carbs_g: '', fat_g: '' });
       window.location.reload();
@@ -151,6 +152,9 @@ export default function HouseholdMemberManager({ household, members, pendingMemb
                 {m.household_role === 'kitchen' && (
                   <span className="text-xs px-1.5 py-0.5 rounded-full bg-gold/20 text-ink/70">Kitchen</span>
                 )}
+                {m.is_placeholder && (
+                  <span className="text-xs px-1.5 py-0.5 rounded-full bg-rust/15 text-rust">Not yet claimed</span>
+                )}
               </span>
               <div className="flex items-center gap-2">
                 {m.household_role !== 'head_of_kitchen' && editingId !== m.id && (
@@ -201,6 +205,12 @@ export default function HouseholdMemberManager({ household, members, pendingMemb
             ) : (
               <p className="font-mono text-xs text-ink/60 mt-1">
                 {m.target_calories} cal · {m.target_protein_g}p / {m.target_carbs_g}c / {m.target_fat_g}f
+              </p>
+            )}
+            {m.is_placeholder && (
+              <p className="text-xs text-ink/50 mt-1.5">
+                Counts fully in meal planning already. Share this code so they can claim their own login whenever they're ready:{' '}
+                <span className="font-mono tracking-widest text-rust">{m.personal_invite_code}</span>
               </p>
             )}
           </div>

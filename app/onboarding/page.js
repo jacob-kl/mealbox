@@ -11,7 +11,7 @@ export default function OnboardingPage() {
   const supabase = createClient();
   const router = useRouter();
 
-  const [step, setStep] = useState('household'); // household -> details | prefilled
+  const [step, setStep] = useState('household'); // household -> claim-credentials -> details | prefilled
   const [mode, setMode] = useState('create'); // create | join | personal
   const [householdName, setHouseholdName] = useState('');
   const [inviteCode, setInviteCode] = useState('');
@@ -22,6 +22,9 @@ export default function OnboardingPage() {
   const [units, setUnits] = useState('imperial');
   const [prefill, setPrefill] = useState(null); // { displayName, calories, proteinG, carbsG, fatG }
   const [prefillBusy, setPrefillBusy] = useState(false);
+  const [claimBusy, setClaimBusy] = useState(false);
+  const [newEmail, setNewEmail] = useState('');
+  const [newPassword, setNewPassword] = useState('');
 
   async function handleHouseholdSubmit(e) {
     e.preventDefault();
@@ -48,28 +51,55 @@ export default function OnboardingPage() {
       setUnits(household?.settings?.units || 'imperial');
       setStep('details');
     } else {
-      // personal code - someone the head of kitchen already set up
-      const { data, error } = await supabase.rpc('lookup_personal_invite_code', {
-        code: personalCode.trim().toUpperCase(),
-      });
-      const row = data?.[0];
-      if (error || !row) return setError('No invite found with that code.');
-      setHouseholdId(row.household_id);
-      const { data: household } = await supabase.from('households').select('settings').eq('id', row.household_id).single();
-      setUnits(household?.settings?.units || 'imperial');
-      if (row.prefill_target_calories) {
-        setPrefill({
-          displayName: row.display_name,
-          calories: row.prefill_target_calories,
-          proteinG: row.prefill_target_protein_g,
-          carbsG: row.prefill_target_carbs_g,
-          fatG: row.prefill_target_fat_g,
+      // Personal code - someone the head of kitchen already set up. This
+      // claims the existing placeholder account (same profile, same id, so
+      // nothing already planned for them is lost) rather than creating a
+      // new one from scratch.
+      setClaimBusy(true);
+      try {
+        const res = await fetch('/api/household/claim-member', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ code: personalCode.trim().toUpperCase() }),
         });
-        setStep('prefilled');
-      } else {
-        setPrefill({ displayName: row.display_name });
-        setStep('details');
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || 'No invite found with that code.');
+
+        const { error: signInError } = await supabase.auth.signInWithPassword({
+          email: data.placeholderEmail,
+          password: data.oneTimePassword,
+        });
+        if (signInError) throw new Error(signInError.message);
+
+        setHouseholdId(data.householdId);
+        setPrefill({
+          displayName: data.displayName,
+          calories: data.prefill.calories,
+          proteinG: data.prefill.proteinG,
+          carbsG: data.prefill.carbsG,
+          fatG: data.prefill.fatG,
+        });
+        setStep('claim-credentials');
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setClaimBusy(false);
       }
+    }
+  }
+
+  async function handleSetCredentials(e) {
+    e.preventDefault();
+    setError(null);
+    setClaimBusy(true);
+    const { error: updateError } = await supabase.auth.updateUser({ email: newEmail, password: newPassword });
+    setClaimBusy(false);
+    if (updateError) return setError(updateError.message);
+
+    if (prefill?.calories) {
+      setStep('prefilled');
+    } else {
+      setStep('details');
     }
   }
 
@@ -78,10 +108,15 @@ export default function OnboardingPage() {
       data: { user },
     } = await supabase.auth.getUser();
 
+    const isClaimFlow = mode === 'personal';
+    const roleFields = isClaimFlow ? {} : { household_role: mode === 'create' ? 'head_of_kitchen' : 'member' };
+    const placeholderFields = isClaimFlow ? { is_placeholder: false } : {};
+
     const { error: profileError } = await supabase.from('profiles').upsert({
       id: user.id,
       household_id: householdId,
-      household_role: mode === 'create' ? 'head_of_kitchen' : 'member',
+      ...roleFields,
+      ...placeholderFields,
       ...rawInputs,
       target_calories: targets.calories,
       target_protein_g: targets.proteinG,
@@ -95,10 +130,6 @@ export default function OnboardingPage() {
 
     await supabase.from('weight_logs').insert({ profile_id: user.id, weight_lb: rawInputs.baseline_weight_lb });
 
-    if (mode === 'personal') {
-      await supabase.rpc('consume_personal_invite_code', { code: personalCode.trim().toUpperCase() });
-    }
-
     router.push('/dashboard');
     router.refresh();
   }
@@ -109,22 +140,21 @@ export default function OnboardingPage() {
       data: { user },
     } = await supabase.auth.getUser();
 
-    const { error: profileError } = await supabase.from('profiles').upsert({
-      id: user.id,
-      household_id: householdId,
-      household_role: 'member',
-      display_name: prefill.displayName,
-      target_calories: prefill.calories,
-      target_protein_g: prefill.proteinG,
-      target_carbs_g: prefill.carbsG,
-      target_fat_g: prefill.fatG,
-      needs_recalc: false,
-      onboarded: true,
-    });
+    const { error: profileError } = await supabase
+      .from('profiles')
+      .update({
+        display_name: prefill.displayName,
+        target_calories: prefill.calories,
+        target_protein_g: prefill.proteinG,
+        target_carbs_g: prefill.carbsG,
+        target_fat_g: prefill.fatG,
+        needs_recalc: false,
+        is_placeholder: false,
+      })
+      .eq('id', user.id);
     setPrefillBusy(false);
     if (profileError) return setError(profileError.message);
 
-    await supabase.rpc('consume_personal_invite_code', { code: personalCode.trim().toUpperCase() });
     router.push('/dashboard');
     router.refresh();
   }
@@ -198,8 +228,8 @@ export default function OnboardingPage() {
                 </>
               )}
               {error && <p className="text-sm text-rust">{error}</p>}
-              <Button type="submit" className="w-full">
-                Continue
+              <Button type="submit" disabled={claimBusy} className="w-full">
+                {claimBusy ? 'Checking…' : 'Continue'}
               </Button>
             </form>
           </Card>
@@ -213,12 +243,40 @@ export default function OnboardingPage() {
           </div>
         )}
 
+        {step === 'claim-credentials' && (
+          <Card>
+            <h1 className="font-display text-2xl mb-1">Welcome, {prefill?.displayName}</h1>
+            <p className="text-sm text-ink/60 mb-5">Set your own email and password to finish claiming your spot.</p>
+            <form onSubmit={handleSetCredentials} className="space-y-3">
+              <input
+                type="email"
+                value={newEmail}
+                onChange={(e) => setNewEmail(e.target.value)}
+                placeholder="Your email"
+                required
+                className="w-full border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+              />
+              <input
+                type="password"
+                value={newPassword}
+                onChange={(e) => setNewPassword(e.target.value)}
+                placeholder="Choose a password"
+                required
+                minLength={6}
+                className="w-full border border-line rounded-card px-3 py-2.5 bg-card outline-none focus:border-pine"
+              />
+              {error && <p className="text-sm text-rust">{error}</p>}
+              <Button type="submit" disabled={claimBusy} className="w-full">
+                {claimBusy ? 'Saving…' : 'Continue'}
+              </Button>
+            </form>
+          </Card>
+        )}
+
         {step === 'prefilled' && prefill && (
           <Card>
-            <h1 className="font-display text-2xl mb-1">Welcome, {prefill.displayName}</h1>
-            <p className="text-sm text-ink/60 mb-5">
-              Your targets have already been set up for you:
-            </p>
+            <h1 className="font-display text-2xl mb-1">Almost done, {prefill.displayName}</h1>
+            <p className="text-sm text-ink/60 mb-5">Your targets have already been set up for you:</p>
             <p className="font-mono text-sm bg-paper rounded-card p-3 mb-5">
               {prefill.calories} cal · {prefill.proteinG}g protein / {prefill.carbsG}g carbs / {prefill.fatG}g fat
             </p>

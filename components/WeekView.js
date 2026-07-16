@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Badge, Button, CUISINES, cuisineLabel, CuisinePill } from '@/components/ui';
 import RecipeDetail from '@/components/RecipeDetail';
+import MealReactions from '@/components/MealReactions';
 import { dayLabel, addDays } from '@/lib/dates';
 import { DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { canEditMealPlan } from '@/lib/permissions';
@@ -47,8 +48,14 @@ function macrosForIndividual(meal) {
  * recipe" shows what's actually being eaten, not the library default. */
 function effectiveRecipe(meal) {
   if (!meal.recipe) return null;
-  if (!meal.ingredients_override) return meal.recipe;
-  return { ...meal.recipe, ingredients: meal.ingredients_override };
+  return {
+    ...meal.recipe,
+    ingredients: meal.ingredients_override?.length ? meal.ingredients_override : meal.recipe.ingredients,
+    ingredients_full: meal.ingredients_full_override?.length ? meal.ingredients_full_override : meal.recipe.ingredients_full,
+    steps: meal.steps_override?.length ? meal.steps_override : meal.recipe.steps,
+    steps_detailed: meal.steps_full_override?.length ? meal.steps_full_override : meal.recipe.steps_detailed,
+    macros_per_serving_full: meal.computed_macros_full || meal.recipe.macros_per_serving_full,
+  };
 }
 
 /** Sums every meal that day into a per-member total — shared meals
@@ -132,6 +139,27 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
     }
     return map;
   }, [meals]);
+
+  // How many days this week share the exact same recipe for the same
+  // person's lunch - a "batch" is the same (profile, recipe) pair repeated
+  // across multiple days, so this is just a count of that repetition. Used
+  // to show ingredient totals for the whole batch alongside the per-day
+  // amount, so you can shop/prep for the week in one pass rather than
+  // multiplying it out yourself.
+  const lunchBatchCount = useMemo(() => {
+    const counts = {};
+    for (const m of meals) {
+      if (m.meal_slot !== 'lunch' || !m.profile_id || !m.recipe_id) continue;
+      const key = `${m.profile_id}-${m.recipe_id}`;
+      counts[key] = (counts[key] || 0) + 1;
+    }
+    return counts;
+  }, [meals]);
+
+  function batchMultiplierFor(meal) {
+    if (meal.meal_slot !== 'lunch' || !meal.profile_id || !meal.recipe_id) return 1;
+    return lunchBatchCount[`${meal.profile_id}-${meal.recipe_id}`] || 1;
+  }
 
   async function generateWeek(cuisine) {
     setLoading(true);
@@ -265,6 +293,9 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                         </button>
                       )}
                     </div>
+                    <div className="mb-1.5">
+                      <MealReactions weekPlanMealId={shared.id} reactions={shared.reactions} currentUserId={currentUserId} />
+                    </div>
                     {shared.recipe ? (
                       <>
                         <button
@@ -345,8 +376,11 @@ export default function WeekView({ weekStart, weekPlanId, cuisineFocus, househol
                               </button>
                             )}
                           </div>
+                          <div className="ml-4 mt-0.5">
+                            <MealReactions weekPlanMealId={lunch.id} reactions={lunch.reactions} currentUserId={currentUserId} />
+                          </div>
                           {isExpanded && (
-                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} currentUserRole={currentUserRole} />
+                            <RecipeDetail recipe={effectiveRecipe(lunch)} weekPlanMealId={lunch.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={members} currentUserRole={currentUserRole} batchMultiplier={batchMultiplierFor(lunch)} />
                           )}
                         </div>
                       );

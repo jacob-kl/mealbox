@@ -40,10 +40,23 @@ export default async function WeekPage({ searchParams }) {
   if (weekPlan) {
     const { data: mealRows } = await supabase
       .from('week_plan_meals')
-      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, steps, steps_detailed, ingredients, ingredients_full)')
+      .select('*, recipe:recipe_id(id, name, cuisine, tags, macros_per_serving, macros_per_serving_full, steps, steps_detailed, ingredients, ingredients_full)')
       .eq('week_plan_id', weekPlan.id)
       .order('day_index');
     meals = mealRows || [];
+
+    if (meals.length) {
+      const { data: reactionRows } = await supabase
+        .from('meal_reactions')
+        .select('week_plan_meal_id, profile_id, reaction')
+        .in('week_plan_meal_id', meals.map((m) => m.id));
+      const reactionsByMeal = {};
+      for (const r of reactionRows || []) {
+        reactionsByMeal[r.week_plan_meal_id] = reactionsByMeal[r.week_plan_meal_id] || [];
+        reactionsByMeal[r.week_plan_meal_id].push({ profile_id: r.profile_id, reaction: r.reaction });
+      }
+      meals = meals.map((m) => ({ ...m, reactions: reactionsByMeal[m.id] || [] }));
+    }
   }
 
   const { data: ingredientCatalog } = await supabase

@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 import { Card, Button, CuisinePill } from '@/components/ui';
 import RecipeDetail from '@/components/RecipeDetail';
+import MealReactions from '@/components/MealReactions';
 import BarcodeScanner from '@/components/BarcodeScanner';
 import { recommendSupplements } from '@/lib/supplements';
 import { addDays, friendlyDate } from '@/lib/dates';
@@ -46,12 +47,22 @@ function macrosFor(meal, profileId) {
  * eaten (more chicken, less rice, etc.), not the library default. */
 function effectiveRecipe(meal) {
   if (!meal.recipe) return null;
-  if (!meal.ingredients_override) return meal.recipe;
-  return { ...meal.recipe, ingredients: meal.ingredients_override };
+  return {
+    ...meal.recipe,
+    ingredients: meal.ingredients_override?.length ? meal.ingredients_override : meal.recipe.ingredients,
+    ingredients_full: meal.ingredients_full_override?.length ? meal.ingredients_full_override : meal.recipe.ingredients_full,
+    steps: meal.steps_override?.length ? meal.steps_override : meal.recipe.steps,
+    steps_detailed: meal.steps_full_override?.length ? meal.steps_full_override : meal.recipe.steps_detailed,
+    macros_per_serving_full: meal.computed_macros_full || meal.recipe.macros_per_serving_full,
+  };
 }
 
-export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan, recipeCatalog = [], ingredientCatalog = [], defaultToFull = true, householdMembers = [] }) {
+export default function DayView({ date, profile, plannedMeals, logEntries, hasWeekPlan, recipeCatalog = [], ingredientCatalog = [], defaultToFull = true, householdMembers = [], lunchBatchCount = {} }) {
   const currentUserRole = profile?.household_role;
+  function batchMultiplierFor(meal) {
+    if (meal.meal_slot !== 'lunch' || !meal.profile_id || !meal.recipe_id) return 1;
+    return lunchBatchCount[`${meal.profile_id}-${meal.recipe_id}`] || 1;
+  }
   const supabase = createClient();
   const router = useRouter();
   const [showCustomForm, setShowCustomForm] = useState(false);
@@ -298,8 +309,13 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                     )}
                   </button>
                 </div>
+                {meal.recipe && (
+                  <div className="mt-1.5 ml-9">
+                    <MealReactions weekPlanMealId={meal.id} reactions={meal.reactions} currentUserId={profile.id} />
+                  </div>
+                )}
                 {expanded && (
-                  <RecipeDetail recipe={effectiveRecipe(meal)} weekPlanMealId={meal.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={householdMembers} currentUserRole={currentUserRole} />
+                  <RecipeDetail recipe={effectiveRecipe(meal)} weekPlanMealId={meal.id} ingredientCatalog={ingredientCatalog} defaultToFull={defaultToFull} householdMembers={householdMembers} currentUserRole={currentUserRole} batchMultiplier={batchMultiplierFor(meal)} />
                 )}
               </Card>
             );

@@ -73,6 +73,7 @@ const NAV_ITEMS = [
   { href: '/recipes', label: 'Recipes' },
   { href: '/weight', label: 'Weight' },
   { href: '/settings', label: 'Settings' },
+  { href: '/support', label: 'Support' },
 ];
 
 export function NavBar({ active }) {

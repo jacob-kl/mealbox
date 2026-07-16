@@ -6,6 +6,7 @@ import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
 import AllergyEditor from '@/components/AllergyEditor';
 import HouseholdMemberManager from '@/components/HouseholdMemberManager';
+import LunchScheduleEditor from '@/components/LunchScheduleEditor';
 import { ThemeGrid } from '@/components/ThemeSwitcher';
 import { DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { DIET_TYPES } from '@/lib/macros';
@@ -21,7 +22,7 @@ const BLOCKABLE_TAGS = [
   { tag: 'eggplant', label: 'Eggplant' },
 ];
 
-const MEAL_COLUMNS = ['breakfast', 'lunch', 'dinner', 'dessert'];
+const MEAL_COLUMNS = ['breakfast', 'dinner', 'dessert'];
 
 export default function SettingsForm({ household, members, ingredientCatalog = [], currentUserId, pendingMembers = [] }) {
   const supabase = createClient();
@@ -46,16 +47,6 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
     setMealDays((prev) => ({
       ...prev,
       [dayIndex]: { ...prev[dayIndex], [mealType]: !prev[dayIndex]?.[mealType] },
-    }));
-  }
-
-  function toggleLunchStrategy(dayIndex) {
-    setMealStructure((prev) => ({
-      ...prev,
-      lunchPlan: {
-        ...prev.lunchPlan,
-        [dayIndex]: prev.lunchPlan[dayIndex] === 'batch' ? 'fresh' : 'batch',
-      },
     }));
   }
 
@@ -259,14 +250,14 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
       </Card>
 
       <Card>
-        <h2 className="font-display text-xl mb-1">Snacks & lunch style</h2>
+        <h2 className="font-display text-xl mb-1">Snacks</h2>
         <label className="text-sm text-ink/60 block mb-1">Snacks per day</label>
         <select
           value={mealStructure.snacksPerDay}
           onChange={(e) =>
             setMealStructure((prev) => ({ ...prev, snacksPerDay: Number(e.target.value) }))
           }
-          className="border border-line rounded-card px-3 py-2 bg-card text-sm mb-4"
+          className="border border-line rounded-card px-3 py-2 bg-card text-sm"
         >
           {[0, 1, 2, 3, 4].map((n) => (
             <option key={n} value={n}>
@@ -274,30 +265,16 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
             </option>
           ))}
         </select>
+      </Card>
 
-        <label className="text-sm text-ink/60 block mb-2">
-          On days lunch is checked above — tap to switch between a batch-cooked lunch (same
-          recipe all week) and a freshly cooked one just for that day
-        </label>
-        <div className="flex flex-wrap gap-2">
-          {DAY_NAMES.map((name, dayIndex) => {
-            if (!mealDays[dayIndex]?.lunch) return null;
-            const strategy = mealStructure.lunchPlan?.[dayIndex] || 'batch';
-            return (
-              <button
-                key={dayIndex}
-                type="button"
-                onClick={() => toggleLunchStrategy(dayIndex)}
-                className={`text-sm px-3 py-1.5 rounded-card border ${
-                  strategy === 'fresh' ? 'bg-gold/30 border-gold' : 'border-line'
-                }`}
-                title={strategy === 'fresh' ? 'Freshly cooked' : 'Batch lunch'}
-              >
-                {name.slice(0, 3)} · {strategy === 'fresh' ? 'Fresh' : 'Batch'}
-              </button>
-            );
-          })}
-        </div>
+      <Card>
+        <h2 className="font-display text-xl mb-1">Lunch schedule</h2>
+        <p className="text-sm text-ink/60 mb-4">
+          Each person can have their own lunch days and their own batch-vs-fresh style — so one
+          person can batch-cook the same lunch all week while someone else gets something
+          different every day.
+        </p>
+        <LunchScheduleEditor members={members} currentUserId={currentUserId} isHeadOfKitchen={isHeadOfKitchen} />
       </Card>
 
       <Card>

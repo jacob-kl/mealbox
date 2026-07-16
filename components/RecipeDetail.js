@@ -7,7 +7,7 @@ import { suggestSubstitutes, DIETARY_FILTERS } from '@/lib/substitutions';
 import { findHouseholdAllergyConflicts } from '@/lib/allergies';
 import { canEditMealPlan } from '@/lib/permissions';
 
-function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone }) {
+function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, listType, onDone }) {
   const router = useRouter();
   const [customName, setCustomName] = useState('');
   const [busy, setBusy] = useState(false);
@@ -23,7 +23,7 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
       const res = await fetch('/api/week/swap-ingredient', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ weekPlanMealId, oldIngredient: ingredientName, newIngredient }),
+        body: JSON.stringify({ weekPlanMealId, oldIngredient: ingredientName, newIngredient, listType }),
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error || 'Swap failed');
@@ -112,7 +112,7 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, onDone 
  * @param {Array} [ingredientCatalog] - full ingredients table, needed for swap suggestions
  * @param {boolean} [defaultToFull] - household's Quick/Full display preference
  */
-export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false, householdMembers = [], currentUserRole }) {
+export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog = [], defaultToFull = false, householdMembers = [], currentUserRole, batchMultiplier = 1 }) {
   const router = useRouter();
   const [swappingIndex, setSwappingIndex] = useState(null);
   const [removingIndex, setRemovingIndex] = useState(null);
@@ -122,12 +122,10 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
   if (!recipe) return null;
   const canEdit = !!weekPlanMealId && ingredientCatalog.length > 0 && canEditMealPlan(currentUserRole);
   const hasFull = recipe.ingredients_full?.length > 0 || recipe.steps_detailed?.length > 0;
-  // The Full view is a reference for cooking — the app's macro tracking,
-  // shopping list, and swap/remove editing all operate on the quick list,
-  // so editing controls only make sense there.
   const displayIngredients = showFull && recipe.ingredients_full?.length > 0 ? recipe.ingredients_full : recipe.ingredients;
   const displaySteps = showFull && recipe.steps_detailed?.length > 0 ? recipe.steps_detailed : recipe.steps;
-  const editingActive = canEdit && !showFull;
+  const editingActive = canEdit;
+  const listType = showFull ? 'full' : 'quick';
   // The full ingredient list is genuinely different from the quick one (more
   // authentic, more items), so it has its own real macro count - show it
   // explicitly rather than let the quick-list numbers up in the card header
@@ -142,7 +140,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
       const res = await fetch('/api/week/swap-ingredient', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ weekPlanMealId, oldIngredient: ingredientName }),
+        body: JSON.stringify({ weekPlanMealId, oldIngredient: ingredientName, listType }),
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error || 'Remove failed');
@@ -209,13 +207,19 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
 
       {displayIngredients?.length > 0 && (
         <>
-          <p className="font-medium mb-1">Ingredients</p>
+          <p className="font-medium mb-1">
+            Ingredients
+            {batchMultiplier > 1 && (
+              <span className="font-normal text-xs text-ink/50"> — per day (total for {batchMultiplier} batched days)</span>
+            )}
+          </p>
           <ul className="space-y-0.5 text-ink/70 mb-3">
             {displayIngredients.map((ing, i) => (
               <li key={i}>
                 <div className="flex items-center justify-between gap-2">
                   <span className="list-disc">
-                    • {formatQty(ing.qty, ing.unit)} {ing.ingredient}
+                    • {formatQty(ing.qty, ing.unit)}
+                    {batchMultiplier > 1 ? ` (${formatQty(ing.qty * batchMultiplier, ing.unit)})` : ''} {ing.ingredient}
                     {ing.note ? ` — ${ing.note}` : ''}
                   </span>
                   {editingActive && (
@@ -246,6 +250,7 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
                     ingredientName={ing.ingredient}
                     weekPlanMealId={weekPlanMealId}
                     ingredientCatalog={ingredientCatalog}
+                    listType={listType}
                     onDone={() => setSwappingIndex(null)}
                   />
                 )}
