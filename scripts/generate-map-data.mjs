@@ -93,6 +93,10 @@ const COUNTRY_GROUPS = {
   Lesotho: { group: 'south-african', cuisines: ['south-african'] },
   eSwatini: { group: 'south-african', cuisines: ['south-african'] },
   Zimbabwe: { group: 'south-african', cuisines: ['south-african'] },
+  // Single-country cuisines added later
+  Mongolia: { group: 'mongolian', cuisines: ['mongolian'] },
+  Peru: { group: 'peruvian', cuisines: ['peruvian'] },
+  Brazil: { group: 'brazilian', cuisines: ['brazilian'] },
 };
 
 // United States: every state belongs to one of three groups now - New

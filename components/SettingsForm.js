@@ -6,7 +6,7 @@ import { createClient } from '@/lib/supabase/client';
 import { Card, Button } from '@/components/ui';
 import AllergyEditor from '@/components/AllergyEditor';
 import HouseholdMemberManager from '@/components/HouseholdMemberManager';
-import LunchScheduleEditor from '@/components/LunchScheduleEditor';
+import MealPlanEditor from '@/components/MealPlanEditor';
 import { ThemeGrid } from '@/components/ThemeSwitcher';
 import { DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { DIET_TYPES } from '@/lib/macros';
@@ -22,7 +22,7 @@ const BLOCKABLE_TAGS = [
   { tag: 'eggplant', label: 'Eggplant' },
 ];
 
-const MEAL_COLUMNS = ['breakfast', 'dinner', 'dessert'];
+
 
 export default function SettingsForm({ household, members, ingredientCatalog = [], currentUserId, pendingMembers = [] }) {
   const supabase = createClient();
@@ -43,12 +43,6 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
     setBlockedTags((prev) => (prev.includes(tag) ? prev.filter((t) => t !== tag) : [...prev, tag]));
   }
 
-  function toggleMealDay(dayIndex, mealType) {
-    setMealDays((prev) => ({
-      ...prev,
-      [dayIndex]: { ...prev[dayIndex], [mealType]: !prev[dayIndex]?.[mealType] },
-    }));
-  }
 
   async function handleSave() {
     setSaving(true);
@@ -211,70 +205,12 @@ export default function SettingsForm({ household, members, ingredientCatalog = [
       </Card>
 
       <Card>
-        <h2 className="font-display text-xl mb-1">Which meals to plan</h2>
+        <h2 className="font-display text-xl mb-1">Meal plan</h2>
         <p className="text-sm text-ink/60 mb-4">
-          Check a box to have the auto-builder plan that meal on that day. Leave a whole column
-          unchecked — like breakfast — and it&apos;s never planned at all.
+          Each person has their own breakfast/dinner/dessert days, lunch schedule, and snack count —
+          switch between them with the tabs below.
         </p>
-        <div className="overflow-x-auto">
-          <table className="w-full text-sm">
-            <thead>
-              <tr>
-                <th className="text-left font-normal text-ink/50 pb-2"></th>
-                {MEAL_COLUMNS.map((meal) => (
-                  <th key={meal} className="font-normal text-ink/50 pb-2 capitalize">
-                    {meal}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {DAY_NAMES.map((name, dayIndex) => (
-                <tr key={dayIndex} className="border-t border-line">
-                  <td className="py-2 pr-3 font-medium whitespace-nowrap">{name}</td>
-                  {MEAL_COLUMNS.map((meal) => (
-                    <td key={meal} className="text-center py-2">
-                      <input
-                        type="checkbox"
-                        checked={!!mealDays[dayIndex]?.[meal]}
-                        onChange={() => toggleMealDay(dayIndex, meal)}
-                        className="w-5 h-5 accent-pine cursor-pointer"
-                      />
-                    </td>
-                  ))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </Card>
-
-      <Card>
-        <h2 className="font-display text-xl mb-1">Snacks</h2>
-        <label className="text-sm text-ink/60 block mb-1">Snacks per day</label>
-        <select
-          value={mealStructure.snacksPerDay}
-          onChange={(e) =>
-            setMealStructure((prev) => ({ ...prev, snacksPerDay: Number(e.target.value) }))
-          }
-          className="border border-line rounded-card px-3 py-2 bg-card text-sm"
-        >
-          {[0, 1, 2, 3, 4].map((n) => (
-            <option key={n} value={n}>
-              {n}
-            </option>
-          ))}
-        </select>
-      </Card>
-
-      <Card>
-        <h2 className="font-display text-xl mb-1">Lunch schedule</h2>
-        <p className="text-sm text-ink/60 mb-4">
-          Each person can have their own lunch days and their own batch-vs-fresh style — so one
-          person can batch-cook the same lunch all week while someone else gets something
-          different every day.
-        </p>
-        <LunchScheduleEditor members={members} currentUserId={currentUserId} isHeadOfKitchen={isHeadOfKitchen} />
+        <MealPlanEditor members={members} currentUserId={currentUserId} isHeadOfKitchen={isHeadOfKitchen} />
       </Card>
 
       <Card>

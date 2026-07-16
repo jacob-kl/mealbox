@@ -1,0 +1,1360 @@
+[
+  {
+    "name": "Feijoada (Black Bean Stew)",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked sausage",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 2,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Cook bacon and sausage 5 minutes.",
+      "Add beans and 1/2 cup water, simmer 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Black beans",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Smoked sausage",
+        "qty": 90,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 2,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the bacon in a heavy pot over medium heat until it renders its fat, 4-5 minutes.",
+      "Add the sausage and onion, cooking 5-6 minutes until the onion softens.",
+      "Add the garlic and bay leaf, cooking 1 minute.",
+      "Add the beans and broth. Simmer 20-25 minutes, mashing some of the beans against the side of the pot to thicken the stew - feijoada should be hearty and thick, not soupy.",
+      "Remove the bay leaf, top with parsley, and serve - Brazil's national dish, traditionally simmered for hours with a variety of pork cuts."
+    ]
+  },
+  {
+    "name": "Moqueca (Brazilian Fish Stew)",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 70,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Simmer bell pepper in coconut milk 5 minutes.",
+      "Add fish, simmer 10-12 minutes until cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with lime juice and a pinch of salt.",
+      "Heat the palm oil in a wide pan over medium heat. Cook the onion, bell pepper, and garlic 6-7 minutes until softened - palm oil's distinctive color and flavor are essential to authentic moqueca, especially the Bahian style.",
+      "Add the tomatoes and coconut milk, simmer 8 minutes.",
+      "Nestle the fish into the sauce, cover, and simmer 10-12 minutes until it flakes easily.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "Brazilian Grilled Chicken (Frango Grelhado)",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in lime juice and garlic 15 minutes.",
+      "Grill or pan-sear 5-6 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the lime juice, garlic, oil, and black pepper together. Coat the chicken and marinate at least 20 minutes.",
+      "Grill or pan-sear over medium-high heat, 5-6 minutes per side, until cooked through (165F).",
+      "Rest 5 minutes, top with parsley, and serve - simple, bright flavors are the everyday backbone of Brazilian home cooking."
+    ]
+  },
+  {
+    "name": "Picadinho (Brazilian Beef Hash)",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add tomatoes, simmer 12 minutes.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion, garlic, and bell pepper, cooking 5-6 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened.",
+      "Cook the rice per package directions and serve the beef hash over it, topped with parsley - a comforting everyday Brazilian staple."
+    ]
+  },
+  {
+    "name": "Brazilian Shrimp Stew",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes and coconut milk 8 minutes.",
+      "Add shrimp, simmer 5-6 minutes until pink and cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the palm oil in a pan over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the tomatoes and coconut milk, simmer 8-10 minutes until slightly thickened.",
+      "Add the shrimp and simmer 5-6 minutes until pink and just cooked through.",
+      "Finish with lime juice and top with cilantro - a simpler cousin of moqueca, quick enough for a weeknight."
+    ]
+  },
+  {
+    "name": "Churrasco-Style Steak",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Rub steak with garlic and oil, season generously with salt.",
+      "Grill 4-5 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the steak generously with garlic, oil, coarse salt, and black pepper - churrasco relies on quality meat and simple seasoning rather than a heavy marinade.",
+      "Grill over high heat, 4-5 minutes per side for medium-rare, adjusting for your preferred doneness.",
+      "Rest 5 minutes before slicing against the grain.",
+      "Top with parsley and serve - the centerpiece of any Brazilian churrascaria."
+    ]
+  },
+  {
+    "name": "Frango com Quiabo (Chicken with Okra)",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken, 5-6 minutes.",
+      "Add okra and tomatoes, simmer 15 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat and brown the chicken, 5-6 minutes.",
+      "Add the onion and garlic, cooking 4-5 minutes until softened.",
+      "Add the tomatoes and okra, simmer 15-18 minutes until the chicken is cooked through - the okra will naturally thicken the sauce as it cooks, a texture that's central to this dish rather than something to avoid.",
+      "Finish with lime juice before serving."
+    ]
+  },
+  {
+    "name": "Brazilian Rice and Beans Bowl",
+    "cuisine": "brazilian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Warm the beans with onion.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Black beans",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the beans and bay leaf, simmering 10-12 minutes until heated through, mashing a few beans to thicken slightly.",
+      "Remove the bay leaf. Cook the rice per package directions and serve the beans over it, topped with parsley - rice and beans (arroz e feij\u00e3o) is the daily foundation of Brazilian meals."
+    ]
+  },
+  {
+    "name": "Coxinha-Style Chicken Bites",
+    "cuisine": "brazilian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.35,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix mashed potato with shredded chicken, shape into small teardrops.",
+      "Coat in breadcrumbs, bake at 400F for 20 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled and mashed while warm"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.35,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely diced, cooked until soft"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten, for coating"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion and garlic in a splash of oil until soft, then mix with the shredded chicken.",
+      "Mash the warm potato until smooth and season with a pinch of salt.",
+      "Shape the potato around a small spoonful of chicken filling, forming the classic teardrop shape coxinha is known for.",
+      "Dip each piece in beaten egg, then coat in panko.",
+      "Bake at 400F for 20-22 minutes until golden and crisp, or shallow-fry 2-3 minutes per side for the traditional deep-fried result.",
+      "Serve warm - one of Brazil's most beloved street foods and party snacks."
+    ]
+  },
+  {
+    "name": "Vinagrete Salad with Chicken",
+    "cuisine": "brazilian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": "drained, or fresh diced tomato"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Toss tomato and bell pepper with vinegar and oil.",
+      "Serve alongside the chicken."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": "drained, or fresh diced tomato"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the vinegar and oil together.",
+      "Toss the tomato, bell pepper, and onion with the dressing - vinagrete is a bright, chunky relish traditionally served alongside grilled meats.",
+      "Fold in the parsley.",
+      "Serve alongside the sliced chicken."
+    ]
+  },
+  {
+    "name": "Brazilian Fish Soup",
+    "cuisine": "brazilian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer tomatoes and coconut milk 8 minutes.",
+      "Add fish, simmer 10 minutes until cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Coconut milk (full-fat, canned)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.5,
+        "note": "cup, or chicken broth"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the tomatoes, broth, and coconut milk. Simmer 8-10 minutes.",
+      "Add the fish, cover, and simmer 10-12 minutes until it flakes easily.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "P\u00e3o de Queijo Sandwich",
+    "cuisine": "brazilian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tapioca flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Deli ham (sliced)",
+        "qty": 50,
+        "note": "for filling"
+      }
+    ],
+    "steps": [
+      "Mix tapioca flour, cheese, and milk into a sticky dough, form small rolls.",
+      "Bake at 400F for 20 minutes until puffed and golden.",
+      "Split and fill with ham."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tapioca flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Deli ham (sliced)",
+        "qty": 60,
+        "note": "for filling"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F.",
+      "Warm the milk and oil together until just simmering, then pour over the tapioca flour and mix - this partially cooks the starch, which is key to p\u00e3o de queijo's chewy texture.",
+      "Once cooled slightly, mix in the egg and Parmesan until a sticky, stretchy dough forms.",
+      "Shape into small rolls and place on a lined baking sheet.",
+      "Bake 18-20 minutes until puffed and lightly golden, with a chewy, cheesy interior.",
+      "Split while warm and fill with ham for a satisfying lunch."
+    ]
+  },
+  {
+    "name": "P\u00e3o de Queijo (Brazilian Cheese Bread)",
+    "cuisine": "brazilian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "Tapioca flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Mix tapioca flour, cheese, and warmed milk into a sticky dough.",
+      "Shape into small rolls, bake at 400F for 18-20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tapioca flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F.",
+      "Warm the milk and oil together until just simmering, then pour over the tapioca flour and mix well.",
+      "Once cooled slightly, mix in the egg and Parmesan until a sticky, stretchy dough forms.",
+      "Shape into small rolls and bake 18-20 minutes until puffed and golden - a beloved breakfast staple across Brazil, best eaten warm."
+    ]
+  },
+  {
+    "name": "Brazilian Fruit and Yogurt Bowl",
+    "cuisine": "brazilian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Top yogurt with banana and honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Greek yogurt (plain nonfat)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": ""
+      },
+      {
+        "ingredient": "Cashews",
+        "qty": 0.5,
+        "note": "oz, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Spoon the yogurt into a bowl.",
+      "Top with sliced banana, chopped cashews, and shredded coconut, reflecting Brazil's abundant tropical fruit and nut tradition.",
+      "Drizzle with honey before serving."
+    ]
+  },
+  {
+    "name": "Coxinha Bites (Snack Size)",
+    "cuisine": "brazilian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 100,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix potato and chicken, shape into small bites, coat in breadcrumbs.",
+      "Bake at 400F for 15-18 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 110,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten, for coating"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed potato with the shredded chicken and garlic.",
+      "Shape into small bite-sized pieces.",
+      "Dip in beaten egg, then coat in panko.",
+      "Bake at 400F for 15-18 minutes until golden - a lighter, snack-sized version of the classic teardrop coxinha."
+    ]
+  },
+  {
+    "name": "Spiced Roasted Cashews (Brazilian)",
+    "cuisine": "brazilian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cashews",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss cashews with lime juice, toast in a dry skillet 3-4 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cashews",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Cayenne pepper",
+        "qty": 0.1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cashews with lime juice and a pinch of cayenne.",
+      "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often, until fragrant.",
+      "Cool completely before eating - Brazil is one of the world's largest cashew producers, and roasted, salted cashews are a common snack nationwide."
+    ]
+  },
+  {
+    "name": "Banana Chips (Brazilian)",
+    "cuisine": "brazilian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss banana slices with oil, bake at 300F for 25-30 minutes until crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Banana",
+        "qty": 1,
+        "note": "sliced thin, slightly underripe works best"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 300F. Slice the banana as thin and evenly as possible.",
+      "Toss with oil and cinnamon.",
+      "Spread in a single layer on a lined baking sheet and bake 25-30 minutes, flipping halfway, until dried and crisp.",
+      "Cool completely - they crisp further as they cool."
+    ]
+  },
+  {
+    "name": "Brigadeiro Bites",
+    "cuisine": "brazilian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 5.28,
+        "note": ""
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook condensed milk, cocoa, and butter over low heat, stirring, 8-10 minutes until thick.",
+      "Cool, roll into small balls."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 6.4,
+        "note": ""
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1,
+        "note": "tbsp, for rolling"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the condensed milk, cocoa powder, and butter in a saucepan over low heat.",
+      "Cook, stirring constantly, 8-10 minutes until the mixture thickens enough to pull away from the sides of the pan when stirred.",
+      "Stir in the vanilla, then let cool completely - it needs to be fully cool to roll properly.",
+      "Roll into small balls and coat in the reserved cocoa powder.",
+      "Brazil's most iconic sweet, traditionally served at every birthday party."
+    ]
+  },
+  {
+    "name": "Beijinho (Coconut Sweets)",
+    "cuisine": "brazilian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 5.28,
+        "note": ""
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook condensed milk, coconut, and butter over low heat, stirring, 8-10 minutes until thick.",
+      "Cool, roll into small balls, coat in extra coconut."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 6.4,
+        "note": ""
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.25,
+        "note": "cup, for rolling"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the condensed milk, coconut, and butter in a saucepan over low heat.",
+      "Cook, stirring constantly, 8-10 minutes until thickened enough to pull away from the sides of the pan.",
+      "Let cool completely, then roll into small balls.",
+      "Coat in the reserved shredded coconut - beijinho ('little kiss') is brigadeiro's coconut sibling, equally beloved at Brazilian celebrations."
+    ]
+  },
+  {
+    "name": "Bacalhau-Style Baked Cod",
+    "cuisine": "brazilian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Layer potato, onion, and cod in a baking dish, drizzle with oil.",
+      "Bake at 400F for 25-30 minutes until the potato is tender and fish flakes easily."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen cod",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 6,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F.",
+      "Layer half the potato and onion in a baking dish, drizzle with half the oil, and season lightly.",
+      "Nestle the cod on top, scatter the garlic and olives around it, then layer the remaining potato and onion on top.",
+      "Drizzle with the remaining oil.",
+      "Bake 25-30 minutes until the potato is tender and the fish flakes easily.",
+      "Top with parsley before serving - inspired by Portugal's bacalhau tradition, adapted with Brazil's own coastal seafood."
+    ]
+  }
+]

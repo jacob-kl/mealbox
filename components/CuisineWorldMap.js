@@ -53,6 +53,9 @@ const GROUP_COLORS = {
   'east-african': '#D6673E',
   'central-african': '#7B5EA7',
   'south-african': '#3E8FA0',
+  mongolian: '#A67C52',
+  peruvian: '#C0473E',
+  brazilian: '#4A9B4E',
 };
 
 /**

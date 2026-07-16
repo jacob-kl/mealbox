@@ -7457,7 +7457,10 @@
     "fiber": 0,
     "micros": {},
     "sub_group": "shellfish",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "fish"
+    ]
   },
   {
     "name": "Ham hock",
@@ -7473,7 +7476,8 @@
     "sub_group": "pork_cut",
     "dietary_tags": [
       "gluten-free"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Egg noodles (dry)",
@@ -7487,7 +7491,11 @@
     "fiber": 3,
     "micros": {},
     "sub_group": "pasta_grain",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "egg",
+      "gluten"
+    ]
   },
   {
     "name": "Baking powder",
@@ -7504,7 +7512,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Sweet chili sauce",
@@ -7521,7 +7530,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "French bread",
@@ -7535,7 +7545,10 @@
     "fiber": 2.5,
     "micros": {},
     "sub_group": "bread",
-    "dietary_tags": []
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ]
   },
   {
     "name": "15 bean soup mix (dry)",
@@ -7552,7 +7565,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "Egusi seeds (ground)",
@@ -7569,7 +7583,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "MSG",
@@ -7586,7 +7601,8 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
-    ]
+    ],
+    "allergens": []
   },
   {
     "name": "White pepper",
@@ -7603,6 +7619,182 @@
     "dietary_tags": [
       "gluten-free",
       "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Lamb leg (raw)",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 198,
+    "protein": 17,
+    "carbs": 0,
+    "fat": 14,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "lamb_cut",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Dumpling wrappers",
+    "serving_qty": 1,
+    "serving_unit": "wrapper",
+    "serving_label": "per 1 wrapper",
+    "cal": 25,
+    "protein": 0.8,
+    "carbs": 5,
+    "fat": 0.2,
+    "fiber": 0.2,
+    "micros": {},
+    "sub_group": "wrapper",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
     ]
+  },
+  {
+    "name": "Aji amarillo paste",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 15,
+    "protein": 0.3,
+    "carbs": 3,
+    "fat": 0.2,
+    "fiber": 0.5,
+    "micros": {},
+    "sub_group": "hot_chili_sauce",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Mayonnaise",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 94,
+    "protein": 0.1,
+    "carbs": 0.1,
+    "fat": 10,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "condiment_creamy",
+    "dietary_tags": [],
+    "allergens": [
+      "egg"
+    ]
+  },
+  {
+    "name": "Dulce de leche",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 65,
+    "protein": 0.9,
+    "carbs": 11,
+    "fat": 1.7,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "sweetener_liquid",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Pineapple chunks (canned in juice)",
+    "serving_qty": 0.5,
+    "serving_unit": "cup",
+    "serving_label": "per 1/2 cup",
+    "cal": 75,
+    "protein": 0.5,
+    "carbs": 20,
+    "fat": 0.1,
+    "fiber": 1,
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Smoked sausage",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 296,
+    "protein": 13,
+    "carbs": 3,
+    "fat": 26,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "pork_cut",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Tapioca flour",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 358,
+    "protein": 0.2,
+    "carbs": 88,
+    "fat": 0,
+    "fiber": 0.9,
+    "micros": {},
+    "sub_group": "other_grain",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Cocoa powder",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 12,
+    "protein": 1,
+    "carbs": 3,
+    "fat": 0.7,
+    "fiber": 1.8,
+    "micros": {},
+    "sub_group": "baking_flavoring",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Shredded coconut",
+    "serving_qty": 0.25,
+    "serving_unit": "cup",
+    "serving_label": "per 1/4 cup",
+    "cal": 94,
+    "protein": 0.9,
+    "carbs": 4,
+    "fat": 9,
+    "fiber": 2.5,
+    "micros": {},
+    "sub_group": "tropical_fruit",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
   }
 ]

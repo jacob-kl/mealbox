@@ -1,0 +1,1405 @@
+[
+  {
+    "name": "Lomo Saltado",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 180,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cut into fries, roasted"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Sear the beef 3-4 minutes.",
+      "Add onion, stir-fry 3 minutes.",
+      "Toss with roasted potato fries."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin against the grain"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "cut into fries and roasted or fried until crisp"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 60,
+        "note": "sliced into wedges"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": "or 1 fresh tomato, wedged"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Roast or fry the potato fries until golden and crisp, set aside.",
+      "Heat a splash of oil in a wok or wide skillet over very high heat. Sear the beef in a single layer, 2-3 minutes per side, until well-browned. Remove.",
+      "Add the onion and garlic to the same pan, stir-frying 2-3 minutes until just softened but still with some bite.",
+      "Add the tomato, soy sauce, and vinegar - this soy-vinegar combination is the signature of lomo saltado, reflecting Peru's Chinese-Cantonese immigrant influence (chifa cuisine).",
+      "Return the beef to the pan and toss everything together over high heat for 1-2 minutes.",
+      "Fold in the crisp potato fries right at the end so they stay crunchy, and top with cilantro."
+    ]
+  },
+  {
+    "name": "Aji de Gallina",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 180,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer chicken with aji paste and milk, 10 minutes, until creamy.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 1,
+        "note": "slice, crust removed, torn"
+      },
+      {
+        "ingredient": "Parmesan cheese (grated)",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "hard-boiled, sliced, for garnish"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 3,
+        "note": "for garnish"
+      }
+    ],
+    "steps_detailed": [
+      "Soak the torn bread in the milk until soft, then blend or mash it into the milk until smooth - this is the traditional thickener for the creamy sauce.",
+      "Heat a splash of oil in a pan over medium heat. Cook the onion and garlic 5-6 minutes until softened.",
+      "Stir in the aji amarillo paste, cooking 1 minute until fragrant.",
+      "Add the milk-bread mixture and Parmesan, stirring until it forms a smooth, thick, pale-orange sauce.",
+      "Fold in the shredded chicken and simmer 8-10 minutes, stirring, until heated through and creamy.",
+      "Cook the rice per package directions. Serve the chicken over rice, garnished with sliced hard-boiled egg and olives."
+    ]
+  },
+  {
+    "name": "Arroz con Pollo (Peruvian)",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the chicken, 5-6 minutes.",
+      "Add rice, cilantro, and 1 cup water, cook 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped, plus more for serving"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat and brown the chicken, 5-6 minutes. Remove.",
+      "Add the onion and garlic, cooking 5 minutes until softened.",
+      "Blend or finely chop the cilantro with a splash of the broth, then add to the pot along with the aji amarillo paste - this is what gives arroz con pollo its distinctive green color.",
+      "Stir in the rice, coating it in the green sauce, then add the remaining broth and corn.",
+      "Nestle the chicken back in, bring to a boil, reduce heat, cover, and cook 20-25 minutes until the rice is tender.",
+      "Top with extra fresh cilantro before serving."
+    ]
+  },
+  {
+    "name": "Seco de Res (Peruvian Beef Stew)",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.1875,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add cilantro and potato with 3/4 cup water, simmer 30 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped, plus more for serving"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a heavy pot over medium-high heat and brown the beef, 5-6 minutes.",
+      "Add the onion and garlic, cooking 5 minutes until softened.",
+      "Blend the cilantro with the broth until smooth, then add to the pot with the aji amarillo paste - the cilantro-forward sauce is what makes this dish 'seco' (green).",
+      "Add the potato and corn. Bring to a simmer, cover, and cook 30-35 minutes until the beef and potato are tender.",
+      "Top with extra cilantro before serving."
+    ]
+  },
+  {
+    "name": "Grilled Anticuchos",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Marinate beef in aji paste and vinegar 15 minutes.",
+      "Skewer and grill 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the aji amarillo paste, vinegar, garlic, cumin, and oil together into a marinade.",
+      "Coat the beef cubes and marinate at least 20 minutes, or up to overnight for deeper flavor.",
+      "Thread onto skewers.",
+      "Grill over high heat, 3-4 minutes per side, until charred outside and cooked to preference - anticuchos are a beloved Peruvian street food, traditionally made with beef heart, though this version uses steak for easier everyday cooking."
+    ]
+  },
+  {
+    "name": "Peruvian Fish Stew (Chupe-Style)",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer potato in 1 cup water 10 minutes.",
+      "Add fish and milk, simmer 10-12 minutes until fish is cooked."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 200,
+        "note": "or cod"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 140,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Stir in the aji amarillo paste, then add 1 cup water and the potato. Simmer 10 minutes.",
+      "Add the corn and milk, and nestle the fish into the pot.",
+      "Simmer 10-12 minutes until the fish flakes easily and the potato is tender.",
+      "Crack the egg directly into the simmering stew in the last few minutes to poach, a traditional chupe touch.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "Peruvian Chicken and Rice",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Rub chicken with aji paste, roast or pan-sear until cooked through.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the aji amarillo paste, lime juice, garlic, and cumin together into a marinade.",
+      "Coat the chicken and marinate at least 20 minutes.",
+      "Pan-sear or roast until cooked through (165F internal), about 18-20 minutes if roasting at 400F.",
+      "Cook the rice per package directions and serve the chicken over it, topped with cilantro."
+    ]
+  },
+  {
+    "name": "Ceviche",
+    "cuisine": "peruvian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 180,
+        "note": "or other firm white fish, cubed"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 5.28,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 40,
+        "note": "thinly sliced"
+      }
+    ],
+    "steps": [
+      "Toss fish with lime juice and onion, marinate 15-20 minutes until fish turns opaque."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Catfish fillet (raw)",
+        "qty": 200,
+        "note": "or other very fresh firm white fish, cubed"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 6.4,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 50,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 80,
+        "note": "boiled and sliced, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Use the freshest, highest-quality fish you can find, since it's 'cooked' entirely by the acid in this dish.",
+      "Toss the cubed fish with the lime juice, aji amarillo paste, and half the onion.",
+      "Marinate 15-20 minutes, just until the fish turns opaque and firms up - much longer and the texture turns chalky.",
+      "Fold in the cilantro and remaining onion right before serving.",
+      "Serve with cooked corn kernels and boiled sweet potato slices on the side, the traditional ceviche accompaniments called 'leche de tigre' garnishes."
+    ]
+  },
+  {
+    "name": "Causa Rellena",
+    "cuisine": "peruvian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 250,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Chicken breast",
+        "qty": 120,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mash potato with lime juice, layer with shredded chicken."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 270,
+        "note": "boiled and mashed while warm"
+      },
+      {
+        "ingredient": "Chicken breast",
+        "qty": 140,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "hard-boiled, sliced, for garnish"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 3,
+        "note": "for garnish"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the warm potato with the lime juice and aji amarillo paste until smooth - the potato itself should be well-seasoned, since it's the base and top layer of the dish.",
+      "Mix the shredded chicken with mayonnaise.",
+      "Press half the potato into a small dish or ring mold, layer the chicken mixture on top, then cover with the remaining potato.",
+      "Chill at least 20 minutes to firm up.",
+      "Garnish with sliced hard-boiled egg and olives before serving - causa is traditionally served cold, almost like a savory terrine."
+    ]
+  },
+  {
+    "name": "Peruvian Quinoa Salad",
+    "cuisine": "peruvian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 50,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Toss cooled quinoa with corn and onion."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 55,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 70,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 35,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the lime juice and olive oil together for the dressing.",
+      "Toss the cooled quinoa with the corn, onion, and tomatoes.",
+      "Add the dressing and toss to coat evenly.",
+      "Fold in the cilantro just before serving so it stays bright."
+    ]
+  },
+  {
+    "name": "Peruvian Chicken and Potato Soup",
+    "cuisine": "peruvian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2,
+        "note": "cups"
+      }
+    ],
+    "steps": [
+      "Simmer potato in broth 15 minutes.",
+      "Add shredded chicken and warm through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, shredded"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 2.5,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Stir in the aji amarillo paste, then add the broth and potato. Simmer 15-18 minutes until the potato is tender.",
+      "Add the shredded chicken and warm through, 3-4 minutes.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "Peruvian Rice and Bean Bowl",
+    "cuisine": "peruvian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Black beans",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Warm the beans with onion.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Black beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium heat. Cook the onion and garlic 4-5 minutes.",
+      "Add the cumin, cooking 30 seconds, then add the beans and warm through, 5-6 minutes.",
+      "Finish with lime juice.",
+      "Cook the rice per package directions and serve the beans over it, topped with cilantro."
+    ]
+  },
+  {
+    "name": "Peruvian Egg and Potato Scramble",
+    "cuisine": "peruvian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "diced, cooked"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Cook potato and onion 5 minutes.",
+      "Add eggs and scramble, 3-4 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "diced small, cooked until tender"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 0.1667,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0208,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat oil in a skillet over medium heat. Cook the potato and onion 6-7 minutes until the potato is tender and lightly golden.",
+      "Whisk the eggs with the aji amarillo paste.",
+      "Pour into the pan and scramble gently, 3-4 minutes, until just set.",
+      "Top with cilantro before serving."
+    ]
+  },
+  {
+    "name": "Quinoa Breakfast Porridge (Peruvian)",
+    "cuisine": "peruvian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer quinoa in milk 15 minutes until creamy.",
+      "Sweeten with honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Quinoa (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.85,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rinse the quinoa well, then combine with the milk in a saucepan.",
+      "Bring to a simmer and cook 15-18 minutes, stirring occasionally, until the quinoa is tender and the mixture has thickened.",
+      "Stir in the cinnamon and raisins, then sweeten with honey before serving warm - quinoa has been a staple grain in the Andes for thousands of years."
+    ]
+  },
+  {
+    "name": "Roasted Corn Snack (Cancha)",
+    "cuisine": "peruvian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 80,
+        "note": "thawed and dried"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toast corn in oil over medium-high heat, stirring often, 8-10 minutes until golden and crunchy."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 90,
+        "note": "thawed and patted very dry"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Pat the corn kernels very dry - moisture prevents them from crisping properly.",
+      "Heat the oil in a skillet over medium-high heat. Add the corn in a single layer.",
+      "Toast, stirring often, 8-10 minutes until deeply golden and crunchy throughout - this is cancha, a beloved crunchy snack found on every Peruvian table.",
+      "Season with cumin and a pinch of salt while still warm."
+    ]
+  },
+  {
+    "name": "Spiced Peruvian Nuts",
+    "cuisine": "peruvian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss almonds with aji paste, toast in a dry skillet 3-4 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the almonds with aji amarillo paste and honey.",
+      "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often, until fragrant and lightly caramelized.",
+      "Cool completely before eating - they crisp up as they cool."
+    ]
+  },
+  {
+    "name": "Sweet Potato Chips (Peruvian)",
+    "cuisine": "peruvian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "very thinly sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss sweet potato slices with oil, roast at 400F for 20-25 minutes until crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 170,
+        "note": "very thinly sliced, ideally with a mandoline"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 400F. Slice the sweet potato as thin and evenly as possible for the crispiest result.",
+      "Toss with oil and cinnamon if using.",
+      "Spread in a single layer and roast 20-25 minutes, flipping halfway, until crisp and lightly browned at the edges.",
+      "Cool completely before serving - they crisp further as they cool."
+    ]
+  },
+  {
+    "name": "Purple Corn Pudding (Mazamorra Morada Style)",
+    "cuisine": "peruvian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Frozen mixed berries",
+        "qty": 1.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer berries with 1.5 cups water 10 minutes, strain.",
+      "Whisk in cornstarch, cook until thickened, sweeten with honey, chill."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen mixed berries",
+        "qty": 1.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Pineapple chunks (canned in juice)",
+        "qty": 0.33,
+        "note": "diced, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the berries with 2 cups water and cinnamon for 10-12 minutes to extract their color and flavor - this stands in for the traditional purple corn, which gives mazamorra morada its signature deep purple color.",
+      "Strain out the solids, keeping the liquid.",
+      "Whisk the cornstarch into a splash of cold water, then whisk into the warm liquid.",
+      "Cook over medium heat, whisking constantly, 5-6 minutes until thickened to a pudding consistency.",
+      "Stir in the honey, then chill at least 1 hour.",
+      "Top with diced pineapple before serving, a traditional garnish."
+    ]
+  },
+  {
+    "name": "Alfajores-Style Bites",
+    "cuisine": "peruvian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 3,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix flour and butter into a shortbread dough, bake small rounds at 350F for 10-12 minutes.",
+      "Sandwich cooled cookies with dulce de leche."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 85,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 3.5,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 350F.",
+      "Cream the butter and sugar together, then mix in the vanilla.",
+      "Fold in the flour and cornstarch just until a soft dough forms - the cornstarch is what gives alfajores their signature melt-in-your-mouth texture.",
+      "Roll into small rounds, flatten slightly, and bake 10-12 minutes until just set but not browned.",
+      "Cool completely, then sandwich pairs of cookies together with dulce de leche."
+    ]
+  },
+  {
+    "name": "Peruvian Shrimp and Rice",
+    "cuisine": "peruvian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Saute shrimp with aji paste, 4-5 minutes until pink and cooked through.",
+      "Serve over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Aji amarillo paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a skillet over medium-high heat. Add the garlic, cooking 30 seconds.",
+      "Add the shrimp and aji amarillo paste, cooking 4-5 minutes until the shrimp are pink and just cooked through - don't overcook, shrimp turn rubbery fast.",
+      "Finish with lime juice.",
+      "Cook the rice per package directions and serve the shrimp over it, topped with cilantro."
+    ]
+  }
+]

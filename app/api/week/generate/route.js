@@ -37,7 +37,7 @@ export async function POST(request) {
 
   const { data: members } = await supabase
     .from('profiles')
-    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, lunch_schedule')
+    .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, lunch_schedule, meal_days, snacks_per_day')
     .eq('household_id', householdId);
 
   const { data: recipePool } = await supabase
@@ -79,6 +79,12 @@ export async function POST(request) {
   const lunchByProfile = Object.fromEntries(
     (members || []).filter((m) => m.lunch_schedule).map((m) => [m.id, m.lunch_schedule])
   );
+  const mealDaysByProfile = Object.fromEntries(
+    (members || []).filter((m) => m.meal_days).map((m) => [m.id, m.meal_days])
+  );
+  const snacksPerDayByProfile = Object.fromEntries(
+    (members || []).filter((m) => m.snacks_per_day != null).map((m) => [m.id, m.snacks_per_day])
+  );
 
   const meals = generateWeek({
     recipePool: recipePool || [],
@@ -90,6 +96,8 @@ export async function POST(request) {
     recentRecipeIds,
     ingredientsByName,
     lunchByProfile,
+    mealDaysByProfile,
+    snacksPerDayByProfile,
   });
 
   const { data: weekPlan, error: weekPlanError } = await supabase

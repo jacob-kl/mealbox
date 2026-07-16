@@ -752,3 +752,13 @@ create policy "submit feedback"
   on feedback for insert
   to authenticated
   with check (true);
+
+-- Per-person overrides for the shared meal-days table and snack count,
+-- extending the same pattern used for lunch_schedule. meal_days holds
+-- whether THIS person wants breakfast/dinner/dessert on a given day (a
+-- shared dish still gets cooked if ANY member wants it that day - this is
+-- about whether THIS person gets a portion of it, not whether the
+-- household cooks it at all). snacks_per_day is a simple per-person count
+-- override. Both fall back to the household's settings when null.
+alter table profiles add column if not exists meal_days jsonb;
+alter table profiles add column if not exists snacks_per_day integer;
