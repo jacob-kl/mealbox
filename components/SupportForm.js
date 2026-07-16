@@ -3,8 +3,7 @@
 import { useState } from 'react';
 import { Card } from '@/components/ui';
 
-// Fill in your real Venmo handle here (without the @) before deploying.
-const VENMO_HANDLE = 'your-venmo-handle';
+const VENMO_URL = 'https://www.venmo.com/u/jkline1357';
 
 export default function SupportForm() {
   const [message, setMessage] = useState('');
@@ -46,12 +45,14 @@ export default function SupportForm() {
           — and entirely optional either way.
         </p>
         <a
-          href={`https://venmo.com/${VENMO_HANDLE}`}
+          href={VENMO_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block text-sm px-4 py-2 rounded-card bg-pine text-white hover:opacity-90"
+          className="inline-flex items-center gap-2 text-sm px-4 py-2.5 rounded-card text-white hover:opacity-90 transition-opacity"
+          style={{ backgroundColor: '#3D95CE' }}
         >
-          Send something via Venmo →
+          <span className="font-semibold">venmo</span>
+          <span>Send something →</span>
         </a>
       </Card>
 

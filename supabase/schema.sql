@@ -149,17 +149,20 @@ alter table week_plan_days enable row level security;
 alter table week_plan_lunches enable row level security;
 
 -- Everyone signed in can read the shared ingredient database.
+drop policy if exists "ingredients are readable by any authenticated user" on ingredients;
 create policy "ingredients are readable by any authenticated user"
   on ingredients for select
   to authenticated
   using (true);
 
 -- Profiles: you can read/update your own row, and read your householdmates'.
+drop policy if exists "read own profile" on profiles;
 create policy "read own profile"
   on profiles for select
   to authenticated
   using (id = auth.uid());
 
+drop policy if exists "read householdmate profiles" on profiles;
 create policy "read householdmate profiles"
   on profiles for select
   to authenticated
@@ -168,33 +171,39 @@ create policy "read householdmate profiles"
     and household_id = (select household_id from profiles where id = auth.uid())
   );
 
+drop policy if exists "insert own profile" on profiles;
 create policy "insert own profile"
   on profiles for insert
   to authenticated
   with check (id = auth.uid());
 
+drop policy if exists "update own profile" on profiles;
 create policy "update own profile"
   on profiles for update
   to authenticated
   using (id = auth.uid());
 
 -- Households: readable/updatable by members of that household.
+drop policy if exists "read own household" on households;
 create policy "read own household"
   on households for select
   to authenticated
   using (id = (select household_id from profiles where id = auth.uid()));
 
+drop policy if exists "create a household" on households;
 create policy "create a household"
   on households for insert
   to authenticated
   with check (true);
 
+drop policy if exists "update own household" on households;
 create policy "update own household"
   on households for update
   to authenticated
   using (id = (select household_id from profiles where id = auth.uid()));
 
 -- Weight logs: only the owning profile (and by extension, that user).
+drop policy if exists "manage own weight logs" on weight_logs;
 create policy "manage own weight logs"
   on weight_logs for all
   to authenticated
@@ -202,6 +211,7 @@ create policy "manage own weight logs"
   with check (profile_id = auth.uid());
 
 -- Recipes: global recipes readable by everyone; household recipes scoped.
+drop policy if exists "read global or own household recipes" on recipes;
 create policy "read global or own household recipes"
   on recipes for select
   to authenticated
@@ -210,28 +220,33 @@ create policy "read global or own household recipes"
     or household_id = (select household_id from profiles where id = auth.uid())
   );
 
+drop policy if exists "manage own household recipes" on recipes;
 create policy "manage own household recipes"
   on recipes for insert
   to authenticated
   with check (household_id = (select household_id from profiles where id = auth.uid()));
 
+drop policy if exists "update own household recipes" on recipes;
 create policy "update own household recipes"
   on recipes for update
   to authenticated
   using (household_id = (select household_id from profiles where id = auth.uid()));
 
+drop policy if exists "delete own household recipes" on recipes;
 create policy "delete own household recipes"
   on recipes for delete
   to authenticated
   using (household_id = (select household_id from profiles where id = auth.uid()));
 
 -- Week plans + children: scoped to the household.
+drop policy if exists "manage own household week plans" on week_plans;
 create policy "manage own household week plans"
   on week_plans for all
   to authenticated
   using (household_id = (select household_id from profiles where id = auth.uid()))
   with check (household_id = (select household_id from profiles where id = auth.uid()));
 
+drop policy if exists "manage own household week plan days" on week_plan_days;
 create policy "manage own household week plan days"
   on week_plan_days for all
   to authenticated
@@ -248,6 +263,7 @@ create policy "manage own household week plan days"
     )
   );
 
+drop policy if exists "manage own household week plan lunches" on week_plan_lunches;
 create policy "manage own household week plan lunches"
   on week_plan_lunches for all
   to authenticated

@@ -29,9 +29,13 @@ export default function LunchScheduleEditor({ members, currentUserId, isHeadOfKi
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
 
+  if (!members?.length) {
+    return <p className="text-sm text-ink/50">No household members found yet.</p>;
+  }
+
   const active = members.find((m) => m.id === activeId);
   const canEditActive = isHeadOfKitchen || activeId === currentUserId;
-  const schedule = schedules[activeId];
+  const schedule = schedules[activeId] || { days: DEFAULT_DAYS, strategy: DEFAULT_STRATEGY };
 
   function toggleDay(dayIndex) {
     setSaved(false);
