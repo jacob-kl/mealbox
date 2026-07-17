@@ -1,0 +1,1362 @@
+[
+  {
+    "name": "Beef Stroganoff",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 180,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Sear the beef 3-4 minutes.",
+      "Stir in sour cream, simmer 3 minutes.",
+      "Serve over cooked noodles."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin against the grain"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a skillet over high heat. Sear the beef in a single layer, 2-3 minutes per side, until browned. Remove.",
+      "Add the onion and garlic to the same pan, cooking 5-6 minutes until softened and lightly golden.",
+      "Add the broth and mustard, scraping up any browned bits from the pan.",
+      "Reduce heat to low, stir in the sour cream, and return the beef to the pan. Warm through gently - don't let it boil, or the sour cream can separate.",
+      "Cook the noodles per package directions and serve the stroganoff over them, topped with parsley."
+    ]
+  },
+  {
+    "name": "Chicken Kiev-Style",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Spread butter over chicken, roll up tightly.",
+      "Coat in breadcrumbs, bake at 400F for 22-25 minutes until cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp, for dredging"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.35,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the softened butter with garlic and parsley - this herbed butter is the whole point of the dish, meant to burst out warm and fragrant when cut into.",
+      "Pound the chicken breast thin and place a spoonful of the herb butter in the center. Roll up tightly, tucking in the ends to seal the butter inside completely.",
+      "Dredge in flour, dip in beaten egg, then coat thoroughly in panko.",
+      "Bake at 400F for 22-25 minutes until golden and cooked through (165F internal).",
+      "Rest a few minutes before cutting - the butter inside will be very hot."
+    ]
+  },
+  {
+    "name": "Beef and Cabbage Stew (Russian)",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add cabbage and tomatoes with 1/2 cup water, simmer 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 170,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion, carrot, and garlic, cooking 5-6 minutes until softened.",
+      "Add the tomatoes, broth, and bay leaf. Bring to a simmer.",
+      "Add the cabbage, cover, and simmer 20-25 minutes until fully tender.",
+      "Remove the bay leaf and serve with a dollop of sour cream - this is 'shchi's heartier cousin, a filling everyday stew."
+    ]
+  },
+  {
+    "name": "Beet Soup (Borscht)",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beets",
+        "qty": 150,
+        "note": "peeled and diced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 100,
+        "note": "shredded"
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5 minutes.",
+      "Add beets, cabbage, and 2 cups water, simmer 25-30 minutes until beets are tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beets",
+        "qty": 170,
+        "note": "peeled and diced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 140,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 120,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp, for serving"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pot over medium-high heat. Brown the beef, breaking it apart, 5-6 minutes.",
+      "Add the onion, carrot, and garlic, cooking 5 minutes.",
+      "Add the beets, tomatoes, and broth. Bring to a simmer.",
+      "Cover and cook 20-25 minutes until the beets are almost tender.",
+      "Add the cabbage and simmer 8-10 more minutes until everything is tender - the soup should be a deep, vivid red from the beets.",
+      "Serve with a generous dollop of sour cream and a scatter of fresh dill."
+    ]
+  },
+  {
+    "name": "Pork and Sauerkraut",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 200,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Sauerkraut",
+        "qty": 150,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Brown the pork, 5-6 minutes.",
+      "Add sauerkraut and potato with 1/2 cup water, simmer 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork tenderloin",
+        "qty": 220,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Sauerkraut",
+        "qty": 170,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 0.3333,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a pan over medium-high heat. Brown the pork, 5-6 minutes. Remove.",
+      "Add the onion, cooking 5 minutes until softened.",
+      "Add the caraway seed, sauerkraut, potato, and broth.",
+      "Return the pork to the pan, cover, and simmer 20-25 minutes until the potato is tender.",
+      "Top with dill before serving - the tang of sauerkraut against rich pork is a defining combination across Russian and Eastern European cooking."
+    ]
+  },
+  {
+    "name": "Chicken and Rice (Plov-Style)",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 70,
+        "note": "julienned"
+      }
+    ],
+    "steps": [
+      "Brown the chicken, 5-6 minutes.",
+      "Add carrot, rice, and 1 cup water, cook 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 80,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced whole cloves if possible"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a heavy pot over medium-high heat and brown the chicken, 5-6 minutes. Remove.",
+      "Add the onion, cooking 5-6 minutes until golden, then the carrot, cooking 4-5 minutes more.",
+      "Add the garlic and cumin, cooking 1 minute.",
+      "Stir in the rice, coating it in the fat and aromatics, then add the broth and raisins.",
+      "Nestle the chicken back in, bring to a boil, reduce heat, cover, and cook 20-25 minutes until the rice is tender - plov is beloved across Russia and Central Asia, with countless regional variations."
+    ]
+  },
+  {
+    "name": "Beef and Potato Pirozhki-Style Bake",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef, mix with mashed potato.",
+      "Make a simple dough, fill, and bake at 375F for 20 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten, for the dough and egg wash"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with onion, 6-7 minutes, then mix with the mashed potato and butter.",
+      "Make a simple dough with the flour, egg, and a splash of water, kneading until smooth.",
+      "Roll out and cut into rounds, fill each with the beef-potato mixture, fold over, and seal the edges.",
+      "Brush with a little more beaten egg.",
+      "Bake at 375F for 20-25 minutes until golden - a baked, home-style take on pirozhki, the beloved stuffed pastries found at every Russian bakery."
+    ]
+  },
+  {
+    "name": "Beef Salad (Russian Winter Salad Style)",
+    "cuisine": "russian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss diced beef and potato with sour cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the sour cream and mustard together for the dressing.",
+      "Toss the beef, potato, and carrot with the dressing.",
+      "Fold in the dill just before serving - a heartier, protein-forward take on the classic diced-vegetable salads that are a fixture of Russian home cooking."
+    ]
+  },
+  {
+    "name": "Chicken and Buckwheat Bowl",
+    "cuisine": "russian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": "substitute for buckwheat groats"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Cook onion until golden, 6-7 minutes.",
+      "Serve chicken and onion over cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": "substitute for buckwheat groats (kasha), if unavailable"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 0.3333,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Melt the butter in a pan over medium heat and cook the onion 8-10 minutes, stirring often, until deeply golden and sweet.",
+      "Cook the rice (or buckwheat groats, if you have them - kasha is the traditional base for this dish) per package directions.",
+      "Serve the chicken over the grain, topped with the caramelized onion and dill."
+    ]
+  },
+  {
+    "name": "Dumpling Soup (Pelmeni-Style)",
+    "cuisine": "russian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Dumpling wrappers",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "cups"
+      }
+    ],
+    "steps": [
+      "Fill wrappers with seasoned beef, pinch closed.",
+      "Simmer in broth 8-10 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Dumpling wrappers",
+        "qty": 14,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 0.5,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2.5,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp, for serving"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 0.3333,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with onion and garlic.",
+      "Fill each wrapper with a small spoonful of filling, fold and pinch tightly closed - pelmeni are traditionally smaller and more delicate than many other dumplings.",
+      "Bring the broth to a simmer. Drop the dumplings in and cook 8-10 minutes until they float and the filling is cooked through.",
+      "Serve in the broth, topped with sour cream and dill."
+    ]
+  },
+  {
+    "name": "Beet and Potato Salad",
+    "cuisine": "russian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beets",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss beets and potato with sour cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beets",
+        "qty": 170,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the sour cream and vinegar together.",
+      "Toss the beets, potato, and red onion with the dressing - the beets will tint everything a deep pink, which is part of the dish's charm.",
+      "Fold in the dill before serving."
+    ]
+  },
+  {
+    "name": "Cabbage and Egg Bowl",
+    "cuisine": "russian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 200,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "hard-boiled, chopped"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook cabbage in a splash of water 8-10 minutes until tender.",
+      "Toss with chopped egg and sour cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 220,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "hard-boiled, chopped"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Melt the butter in a pan over medium heat and cook the cabbage 10-12 minutes, stirring occasionally, until tender and lightly golden at the edges.",
+      "Toss with the chopped egg and sour cream.",
+      "Top with dill before serving - a simple, comforting combination found throughout Russian home cooking."
+    ]
+  },
+  {
+    "name": "Buckwheat Porridge (Kasha)",
+    "cuisine": "russian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": "substitute for buckwheat groats"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer rice (or buckwheat) in milk 15-18 minutes until tender and creamy.",
+      "Stir in butter."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 50,
+        "note": "or buckwheat groats, if available"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.85,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the rice (or buckwheat groats, the traditional base) with the milk in a saucepan.",
+      "Bring to a gentle simmer and cook 15-20 minutes, stirring occasionally, until tender and the mixture has thickened.",
+      "Stir in the butter, honey, and cinnamon before serving warm - kasha is a foundational breakfast across Russia."
+    ]
+  },
+  {
+    "name": "Cottage Cheese Pancakes (Syrniki)",
+    "cuisine": "russian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix cottage cheese, egg, and flour into a batter.",
+      "Pan-fry small patties 2-3 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": "plus more for dusting"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cottage cheese, egg, sugar, and vanilla together, then fold in the flour just until combined - the batter should be soft but hold together.",
+      "Shape into small patties, dusting lightly with extra flour if too sticky to handle.",
+      "Heat oil in a skillet over medium heat and fry 2-3 minutes per side until golden.",
+      "Serve warm with a dollop of sour cream - syrniki are a beloved weekend breakfast across Russia."
+    ]
+  },
+  {
+    "name": "Spiced Roasted Sunflower Seeds",
+    "cuisine": "russian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz, substitute for sunflower seeds"
+      }
+    ],
+    "steps": [
+      "Toast in a dry skillet 3-4 minutes with salt."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 1,
+        "note": "oz, or sunflower seeds if available"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss with oil and a pinch of salt.",
+      "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often.",
+      "Cool before eating - roasted sunflower seeds ('semechki') are one of Russia's most iconic casual snacks, sold everywhere from train platforms to parks."
+    ]
+  },
+  {
+    "name": "Rye Bread with Butter and Dill",
+    "cuisine": "russian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Rye bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 0.3333,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Spread bread with butter, top with dill."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Rye bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 0.5,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Generously butter the rye bread.",
+      "Top with chopped dill and a light sprinkle of salt - a beloved, simple Russian snack, often served alongside soup or tea."
+    ]
+  },
+  {
+    "name": "Pickled Vegetable Plate",
+    "cuisine": "russian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sauerkraut",
+        "qty": 100,
+        "note": "drained"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 80,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Serve sauerkraut and cucumber together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sauerkraut",
+        "qty": 110,
+        "note": "drained"
+      },
+      {
+        "ingredient": "English cucumber",
+        "qty": 90,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 0.3333,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Arrange the sauerkraut and cucumber slices together on a plate.",
+      "Drizzle lightly with olive oil and scatter with dill - pickled and fermented vegetables are a constant presence on the Russian table, prized for cutting through richer dishes."
+    ]
+  },
+  {
+    "name": "Honey Cake Bites (Medovik-Style)",
+    "cuisine": "russian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Bake a simple honey-sweetened flour batter at 350F for 12-15 minutes.",
+      "Cool, layer with sour cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 350F.",
+      "Melt the butter and honey together, then whisk in the egg and sugar.",
+      "Fold in the flour to form a soft batter, spread thin on a lined baking sheet.",
+      "Bake 12-15 minutes until golden, then cool completely and cut into small squares.",
+      "Layer or top with sour cream - a simplified take on medovik, the classic Russian honey layer cake."
+    ]
+  },
+  {
+    "name": "Chicken Cutlets (Kotleti-Style)",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 180,
+        "note": "ground or finely chopped"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled and mashed, for serving"
+      }
+    ],
+    "steps": [
+      "Mix chicken with breadcrumbs, shape into patties.",
+      "Pan-fry 4-5 minutes per side.",
+      "Serve with mashed potato."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "ground or very finely chopped"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled and mashed, for serving"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, for the potato"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the ground chicken with grated onion, egg, and half the breadcrumbs until well combined.",
+      "Shape into oval patties, then coat lightly in the remaining breadcrumbs.",
+      "Heat oil in a skillet over medium heat and fry 4-5 minutes per side until golden and cooked through.",
+      "Mash the potato with butter and serve alongside - kotleti are a nightly staple across Russian households, endlessly variable but always comforting."
+    ]
+  },
+  {
+    "name": "Beef and Onion Skewers (Shashlik-Style)",
+    "cuisine": "russian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Marinate beef and onion in vinegar 15 minutes.",
+      "Skewer and grill 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 70,
+        "note": "chunked, plus extra sliced for marinade"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the vinegar, garlic, oil, and black pepper together. Toss with the beef and marinate at least 30 minutes, or overnight for best flavor - onion is traditionally part of the marinade itself, not just a skewer filler.",
+      "Thread the beef and onion chunks onto skewers, alternating.",
+      "Grill over high heat, 3-4 minutes per side, until charred outside and cooked to preference.",
+      "Shashlik is a beloved grilling tradition, especially for gatherings at the dacha (country house)."
+    ]
+  }
+]

@@ -1,0 +1,1209 @@
+[
+  {
+    "name": "Asado-Style Grilled Steak",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Season steak simply with salt.",
+      "Grill 4-5 minutes per side, top with chimichurri."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the steak generously with salt and pepper - Argentine asado relies on quality meat and simple seasoning, not a marinade.",
+      "Grill over high heat, 4-5 minutes per side for medium-rare, adjusting for your preferred doneness.",
+      "Rest 5 minutes, then slice against the grain.",
+      "Top generously with chimichurri - the bright, herby sauce that's inseparable from Argentine grilling culture."
+    ]
+  },
+  {
+    "name": "Milanesa (Breaded Beef Cutlet)",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Bread the beef in flour, egg, and breadcrumbs.",
+      "Pan-fry 3-4 minutes per side. Serve with lemon."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Panko breadcrumbs",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Lemon juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Pound the beef thin and even. Mix the garlic and parsley into the beaten egg.",
+      "Dredge in flour, dip in the seasoned egg, then coat thoroughly in panko.",
+      "Heat oil in a skillet over medium-high heat and fry 3-4 minutes per side until deeply golden.",
+      "Serve with a generous squeeze of lemon - milanesa is one of Argentina's most beloved everyday dishes, found on nearly every home table and menu."
+    ]
+  },
+  {
+    "name": "Chimichurri Chicken",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "main",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Rub chicken with chimichurri.",
+      "Grill or pan-sear 6-7 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 3,
+        "note": "tbsp, divided"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Coat the chicken with half the chimichurri and a touch of olive oil. Marinate at least 20 minutes.",
+      "Grill or pan-sear over medium-high heat, 6-7 minutes per side, until cooked through (165F).",
+      "Top with the remaining fresh chimichurri before serving."
+    ]
+  },
+  {
+    "name": "Baked Beef Empanada Pie",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Brown beef with onion, 6-7 minutes.",
+      "Make a simple dough, fill with beef, bake at 375F for 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "hard-boiled, chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, bell pepper, and cumin, 6-8 minutes, until the vegetables are softened.",
+      "Stir in the chopped hard-boiled egg - a classic addition to Argentine empanada filling.",
+      "Make a simple dough with the flour, butter, and a splash of water.",
+      "Roll out and fill with the beef mixture, fold and crimp the edges (or bake as a single open pie if simpler).",
+      "Bake at 375F for 20-25 minutes until golden."
+    ]
+  },
+  {
+    "name": "Locro (Argentine Corn and Bean Stew)",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Add beans, corn, and 1 cup water, simmer 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a heavy pot over medium-high heat and brown the beef, 5-6 minutes.",
+      "Add the onion and garlic, cooking 5 minutes, then the smoked paprika, cooking 30 seconds.",
+      "Add the beans, corn, sweet potato, and broth. Bring to a simmer.",
+      "Cover and cook 25-30 minutes until the sweet potato is tender and the stew has thickened - locro is a hearty, slow-cooked dish traditionally served on Argentina's May Revolution holiday."
+    ]
+  },
+  {
+    "name": "Matambre-Style Rolled Beef",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled"
+      }
+    ],
+    "steps": [
+      "Layer carrot and egg on the steak, roll and secure.",
+      "Sear 3-4 minutes per side, then simmer in a splash of broth 20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, halved lengthwise"
+      },
+      {
+        "ingredient": "Fresh parsley",
+        "qty": 0.0625,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Spread the garlic and parsley over the pounded steak.",
+      "Lay the carrot strips and hard-boiled egg halves along one edge, then roll up tightly so the egg forms a spiral when sliced.",
+      "Secure with kitchen twine.",
+      "Sear on all sides in a hot pan, 4-5 minutes total, then add the broth, cover, and simmer 20-25 minutes.",
+      "Rest, then slice into rounds to reveal the colorful spiral - matambre is a traditional centerpiece for special occasions."
+    ]
+  },
+  {
+    "name": "Grilled Provoleta with Chicken",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Provolone cheese",
+        "qty": 1.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Grill chicken 6-7 minutes per side.",
+      "Melt provolone in a hot pan 2-3 minutes, serve alongside with chimichurri."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Provolone cheese",
+        "qty": 2,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Grill or pan-sear the chicken over medium-high heat, 6-7 minutes per side, until cooked through.",
+      "In a small oven-safe skillet, melt the provolone under a broiler or in a hot oven for 2-3 minutes until bubbly and lightly browned on top, sprinkled with oregano - provoleta is a beloved asado starter, often eaten straight from the skillet.",
+      "Serve the chicken alongside the melted provolone, both topped with chimichurri."
+    ]
+  },
+  {
+    "name": "Beef and Rice Bowl (Argentine Style)",
+    "cuisine": "argentinian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 180,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Sear the beef 3-4 minutes.",
+      "Serve over cooked rice with chimichurri."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Heat a splash of oil in a skillet over high heat and sear the beef, 3-4 minutes, until browned.",
+      "Add the bell pepper and cook 3-4 minutes more.",
+      "Cook the rice per package directions and serve the beef over it, topped generously with chimichurri."
+    ]
+  },
+  {
+    "name": "Chorip\u00e1n (Sausage Sandwich)",
+    "cuisine": "argentinian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smoked sausage",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Grill sausage 6-7 minutes.",
+      "Serve on bread with chimichurri."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smoked sausage",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, or a crusty roll"
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "thinly sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Grill or pan-sear the sausage over medium heat, 6-7 minutes, turning occasionally, until browned and cooked through.",
+      "Split the bread and layer with the sausage, onion, and a generous spoonful of chimichurri - chorip\u00e1n is Argentina's ubiquitous street food, sold at every asado and stadium alike."
+    ]
+  },
+  {
+    "name": "Beef Empanada Bites",
+    "cuisine": "argentinian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Dumpling wrappers",
+        "qty": 8,
+        "note": "substitute for empanada dough"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Brown beef with onion, 6-7 minutes.",
+      "Fill wrappers, fold and seal, bake at 400F for 15-18 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Dumpling wrappers",
+        "qty": 10,
+        "note": "substitute for empanada dough"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Green olives",
+        "qty": 4,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten, for sealing"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with onion and cumin, 6-8 minutes, then stir in the chopped olives - a classic empanada criolla touch.",
+      "Fill each wrapper with a spoonful of filling, brush the edges with beaten egg, fold, and crimp tightly to seal.",
+      "Bake at 400F for 15-18 minutes until golden - a lighter, baked take on Argentina's most iconic snack food."
+    ]
+  },
+  {
+    "name": "Argentine Salad with Steak",
+    "cuisine": "argentinian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "halved"
+      }
+    ],
+    "steps": [
+      "Toss lettuce and tomato.",
+      "Top with sliced steak."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "cooked, sliced"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 120,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Red wine vinegar",
+        "qty": 0.3333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the oil and vinegar together.",
+      "Toss the lettuce, tomato, and onion with the dressing.",
+      "Top with the sliced steak - a simple ensalada criolla pairing, common alongside grilled meats."
+    ]
+  },
+  {
+    "name": "Milanesa Sandwich",
+    "cuisine": "argentinian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 150,
+        "note": "pounded thin, breaded and cooked"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Prepare milanesa (see recipe), slice.",
+      "Layer on bread with tomato."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 170,
+        "note": "pounded thin, breaded and cooked"
+      },
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cherry tomatoes",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Romaine lettuce",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Prepare the milanesa as in the main recipe.",
+      "Spread mayonnaise on the bread, then layer with lettuce, tomato, and the milanesa - a 'sandwich de milanesa' is a lunchtime staple across Argentina."
+    ]
+  },
+  {
+    "name": "Beef and Sweet Potato Bowl",
+    "cuisine": "argentinian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "cubed and roasted"
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the beef, 5-6 minutes.",
+      "Serve over roasted sweet potato with chimichurri."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 170,
+        "note": "cubed and roasted"
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Roast the sweet potato cubes at 400F with a little oil for 20-25 minutes until tender.",
+      "Heat a splash of oil in a pan over medium-high heat and brown the beef with onion and garlic, 6-7 minutes.",
+      "Serve the beef over the roasted sweet potato, topped generously with chimichurri."
+    ]
+  },
+  {
+    "name": "Medialunas-Style Sweet Rolls",
+    "cuisine": "argentinian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 2,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Make a simple sweet dough, shape into small crescents.",
+      "Bake at 375F for 15-18 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 85,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten, for egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, baking powder, softened butter, honey, and milk into a soft dough.",
+      "Shape into small crescents and brush with egg wash.",
+      "Bake at 375F for 15-18 minutes until golden - medialunas are the classic Argentine breakfast pastry, always enjoyed alongside coffee or mate."
+    ]
+  },
+  {
+    "name": "Dulce de Leche Toast",
+    "cuisine": "argentinian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, toasted"
+      },
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Spread toast with dulce de leche."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole grain bread",
+        "qty": 2,
+        "note": "slices, toasted"
+      },
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Lightly butter the toast, then spread generously with dulce de leche - a simple, beloved breakfast across Argentina, where dulce de leche is treated almost like a national treasure."
+    ]
+  },
+  {
+    "name": "Provoleta Bites",
+    "cuisine": "argentinian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Provolone cheese",
+        "qty": 2,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Broil provolone in a small oven-safe dish 2-3 minutes until bubbly."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Provolone cheese",
+        "qty": 2.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Red pepper flakes",
+        "qty": 0.1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Place the provolone in a small oven-safe dish, sprinkle with oregano and red pepper flakes.",
+      "Broil 2-3 minutes until melted, bubbly, and lightly browned in spots.",
+      "Serve immediately while hot and gooey - provoleta is a beloved starter at any asado."
+    ]
+  },
+  {
+    "name": "Roasted Peanuts (Argentine Style)",
+    "cuisine": "argentinian",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanuts",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Toast peanuts with paprika in a dry skillet 3-4 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Smoked paprika",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.1667,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toss the peanuts with oil and paprika.",
+      "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often.",
+      "Cool before eating - a common casual snack alongside a glass of Malbec or mate."
+    ]
+  },
+  {
+    "name": "Chocotorta-Style Bites",
+    "cuisine": "argentinian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Graham crackers",
+        "qty": 2,
+        "note": "sheets, crushed"
+      },
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cream cheese",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix cream cheese and dulce de leche.",
+      "Layer with crushed crackers, chill 1 hour."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Graham crackers",
+        "qty": 2.5,
+        "note": "sheets, crushed"
+      },
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cream cheese",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk",
+        "qty": 0.0625,
+        "note": "for soaking crackers"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 0.3333,
+        "note": "for dusting"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cream cheese and dulce de leche together until smooth.",
+      "Briefly dip the crushed crackers in milk to soften slightly.",
+      "Layer the soaked crackers with the cream cheese mixture in small cups.",
+      "Chill at least 1 hour to let the layers set and the crackers soften further.",
+      "Dust with cocoa powder before serving - chocotorta is one of Argentina's most beloved no-bake desserts, especially popular in summer."
+    ]
+  },
+  {
+    "name": "Dulce de Leche Bites",
+    "cuisine": "argentinian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 4,
+    "ingredients": [
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix flour and butter into a simple shortbread dough, bake small rounds at 350F for 10-12 minutes.",
+      "Sandwich cooled cookies with dulce de leche."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Dulce de leche",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Preheat the oven to 350F.",
+      "Cream the butter and sugar, mix in the vanilla, then fold in the flour to form a soft dough.",
+      "Roll into small rounds, flatten slightly, and bake 10-12 minutes until just set.",
+      "Cool completely, then sandwich pairs together with dulce de leche - Argentina's own take on the alfajor, a treat found in every bakery and corner store."
+    ]
+  },
+  {
+    "name": "Grilled Chicken and Black Bean Bowl",
+    "cuisine": "argentinian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "grilled, sliced"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Grill chicken 6-7 minutes per side.",
+      "Serve over warmed beans with chimichurri."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 170,
+        "note": "grilled, sliced"
+      },
+      {
+        "ingredient": "Black beans",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Chimichurri",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 20,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Grill or pan-sear the chicken over medium-high heat, 6-7 minutes per side, until cooked through.",
+      "Warm the black beans and corn together in a small pan, 4-5 minutes.",
+      "Serve the sliced chicken over the beans, topped with red onion and a generous spoonful of chimichurri."
+    ]
+  }
+]

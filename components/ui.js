@@ -105,19 +105,23 @@ export function NavBar({ active }) {
 }
 
 export const CUISINES = [
-  'american', 'brazilian', 'caribbean', 'central-african', 'chinese', 'east-african', 'french', 'indian',
-  'italian', 'japanese', 'korean', 'mediterranean', 'mexican', 'middle-eastern', 'mongolian', 'new-mexico',
-  'north-african', 'peruvian', 'south-african', 'southeast-asian', 'southern', 'spanish', 'thai', 'vietnamese', 'west-african',
+  'american', 'argentinian', 'brazilian', 'caribbean', 'central-african', 'chinese', 'east-african', 'french',
+  'german', 'hawaiian', 'indian', 'italian', 'japanese', 'korean', 'mediterranean', 'mexican', 'middle-eastern',
+  'mongolian', 'new-mexico', 'north-african', 'peruvian', 'russian', 'south-african', 'southeast-asian',
+  'southern', 'spanish', 'thai', 'vietnamese', 'west-african',
 ];
 
 export const CUISINE_LABELS = {
   american: 'American',
+  argentinian: 'Argentinian',
   brazilian: 'Brazilian',
   caribbean: 'Caribbean',
   'central-african': 'Central African',
   chinese: 'Chinese',
   'east-african': 'East African',
   french: 'French',
+  german: 'German',
+  hawaiian: 'Hawaiian',
   indian: 'Indian',
   italian: 'Italian',
   japanese: 'Japanese',
@@ -129,6 +133,7 @@ export const CUISINE_LABELS = {
   'new-mexico': 'New Mexican',
   'north-african': 'North African',
   peruvian: 'Peruvian',
+  russian: 'Russian',
   'south-african': 'South African',
   'southeast-asian': 'Southeast Asian',
   southern: 'Southern',

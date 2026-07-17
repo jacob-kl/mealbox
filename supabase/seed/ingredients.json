@@ -7796,5 +7796,72 @@
       "vegan"
     ],
     "allergens": []
+  },
+  {
+    "name": "Bratwurst",
+    "serving_qty": 1,
+    "serving_unit": "link",
+    "serving_label": "per 1 link",
+    "cal": 290,
+    "protein": 13,
+    "carbs": 2,
+    "fat": 25,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "pork_cut",
+    "dietary_tags": [],
+    "allergens": []
+  },
+  {
+    "name": "Chimichurri",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 45,
+    "protein": 0.2,
+    "carbs": 0.5,
+    "fat": 5,
+    "fiber": 0.2,
+    "micros": {},
+    "sub_group": "condiment_herby",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Spam",
+    "serving_qty": 2,
+    "serving_unit": "oz",
+    "serving_label": "per 2oz slice",
+    "cal": 174,
+    "protein": 7,
+    "carbs": 1,
+    "fat": 16,
+    "fiber": 0,
+    "micros": {},
+    "sub_group": "pork_cut",
+    "dietary_tags": [],
+    "allergens": []
+  },
+  {
+    "name": "Graham crackers",
+    "serving_qty": 1,
+    "serving_unit": "sheet",
+    "serving_label": "per 1 sheet (2 crackers)",
+    "cal": 59,
+    "protein": 1,
+    "carbs": 11,
+    "fat": 1.4,
+    "fiber": 0.4,
+    "micros": {},
+    "sub_group": "cookie_cracker",
+    "dietary_tags": [
+      "vegan"
+    ],
+    "allergens": [
+      "gluten"
+    ]
   }
 ]

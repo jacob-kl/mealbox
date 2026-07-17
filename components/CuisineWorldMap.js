@@ -56,6 +56,10 @@ const GROUP_COLORS = {
   mongolian: '#A67C52',
   peruvian: '#C0473E',
   brazilian: '#4A9B4E',
+  russian: '#8B4A6B',
+  german: '#D4A83E',
+  argentinian: '#5B8DD9',
+  hawaiian: '#E0757A',
 };
 
 /**

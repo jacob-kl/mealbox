@@ -97,6 +97,9 @@ const COUNTRY_GROUPS = {
   Mongolia: { group: 'mongolian', cuisines: ['mongolian'] },
   Peru: { group: 'peruvian', cuisines: ['peruvian'] },
   Brazil: { group: 'brazilian', cuisines: ['brazilian'] },
+  Russia: { group: 'russian', cuisines: ['russian'] },
+  Germany: { group: 'german', cuisines: ['german'] },
+  Argentina: { group: 'argentinian', cuisines: ['argentinian'] },
 };
 
 // United States: every state belongs to one of three groups now - New
@@ -114,11 +117,13 @@ const SOUTHERN_STATES = new Set([
 ]);
 function usGroupsFor(stateName) {
   if (stateName === 'New Mexico') return ['new-mexico', 'usa'];
+  if (stateName === 'Hawaii') return ['hawaiian', 'usa'];
   if (SOUTHERN_STATES.has(stateName)) return ['southern', 'usa'];
   return ['usa'];
 }
 function usCuisinesFor(stateName) {
   if (stateName === 'New Mexico') return ['new-mexico'];
+  if (stateName === 'Hawaii') return ['hawaiian'];
   if (SOUTHERN_STATES.has(stateName)) return ['southern'];
   return ['american'];
 }
@@ -198,8 +203,8 @@ for (const [label, rings] of [['Alaska', alaskaRings], ['Hawaii', hawaiiRings]])
     id: `state-us-${label.toLowerCase()}`,
     name: label,
     d,
-    groups: ['usa'],
-    cuisines: ['american'],
+    groups: usGroupsFor(label),
+    cuisines: usCuisinesFor(label),
     kind: 'state',
   });
 }
