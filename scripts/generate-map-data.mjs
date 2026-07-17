@@ -63,6 +63,8 @@ const COUNTRY_GROUPS = {
   Tunisia: { group: 'north-african', cuisines: ['north-african'] },
   Algeria: { group: 'north-african', cuisines: ['north-african'] },
   Libya: { group: 'north-african', cuisines: ['north-african'] },
+  Sudan: { group: 'north-african', cuisines: ['north-african'] },
+  'W. Sahara': { group: 'north-african', cuisines: ['north-african'] },
   // West Africa cluster
   Nigeria: { group: 'west-african', cuisines: ['west-african'] },
   Ghana: { group: 'west-african', cuisines: ['west-african'] },
@@ -72,12 +74,26 @@ const COUNTRY_GROUPS = {
   Guinea: { group: 'west-african', cuisines: ['west-african'] },
   'Burkina Faso': { group: 'west-african', cuisines: ['west-african'] },
   'Guinea-Bissau': { group: 'west-african', cuisines: ['west-african'] },
+  Benin: { group: 'west-african', cuisines: ['west-african'] },
+  Gambia: { group: 'west-african', cuisines: ['west-african'] },
+  Liberia: { group: 'west-african', cuisines: ['west-african'] },
+  Mauritania: { group: 'west-african', cuisines: ['west-african'] },
+  Niger: { group: 'west-african', cuisines: ['west-african'] },
+  'Sierra Leone': { group: 'west-african', cuisines: ['west-african'] },
+  Togo: { group: 'west-african', cuisines: ['west-african'] },
   // East Africa cluster
   Ethiopia: { group: 'east-african', cuisines: ['east-african'] },
   Kenya: { group: 'east-african', cuisines: ['east-african'] },
   Tanzania: { group: 'east-african', cuisines: ['east-african'] },
   Uganda: { group: 'east-african', cuisines: ['east-african'] },
   Somalia: { group: 'east-african', cuisines: ['east-african'] },
+  Burundi: { group: 'east-african', cuisines: ['east-african'] },
+  Djibouti: { group: 'east-african', cuisines: ['east-african'] },
+  Eritrea: { group: 'east-african', cuisines: ['east-african'] },
+  Madagascar: { group: 'east-african', cuisines: ['east-african'] },
+  Rwanda: { group: 'east-african', cuisines: ['east-african'] },
+  'S. Sudan': { group: 'east-african', cuisines: ['east-african'] },
+  Somaliland: { group: 'east-african', cuisines: ['east-african'] },
   // Central Africa cluster
   'Dem. Rep. Congo': { group: 'central-african', cuisines: ['central-african'] },
   Cameroon: { group: 'central-african', cuisines: ['central-african'] },
@@ -93,6 +109,10 @@ const COUNTRY_GROUPS = {
   Lesotho: { group: 'south-african', cuisines: ['south-african'] },
   eSwatini: { group: 'south-african', cuisines: ['south-african'] },
   Zimbabwe: { group: 'south-african', cuisines: ['south-african'] },
+  Angola: { group: 'south-african', cuisines: ['south-african'] },
+  Malawi: { group: 'south-african', cuisines: ['south-african'] },
+  Mozambique: { group: 'south-african', cuisines: ['south-african'] },
+  Zambia: { group: 'south-african', cuisines: ['south-african'] },
   // Single-country cuisines added later
   Mongolia: { group: 'mongolian', cuisines: ['mongolian'] },
   Peru: { group: 'peruvian', cuisines: ['peruvian'] },
@@ -285,28 +305,21 @@ const usPathGen = geoPath(usProjection);
 // with the target box, but the actual shape of its outer edge can still
 // drift from the real border in between, since a global scale+translate
 // can only guarantee alignment at the bbox's extremes, not along the whole
-// curve. Measured up to ~5.5 units of gap for Idaho/Montana/North
-// Dakota/Minnesota even after the bbox fit.
+// curve. Measured up to ~16 units of gap in places (Idaho/Montana/North
+// Dakota/Minnesota against Canada; Arizona/New Mexico/California/Texas
+// against Mexico) even after the bbox fit.
 //
-// First attempt here was a generic "snap any vertex within threshold to
-// the nearest point on Canada's full border" - too broad. Canada's border
-// includes both shores of the Great Lakes, so states across a lake from
-// Ontario (Wisconsin from across Lake Superior, plus Michigan/Ohio/
-// Illinois/Indiana/Pennsylvania near Erie/Huron/Michigan) registered as
-// "close to Canada" too, and got pulled toward the wrong shore - it
-// snapped 1437 vertices when only a few dozen, on four specific states,
-// actually needed it. Wisconsin in particular doesn't border Canada at
-// all (Lake Superior is between them); its measured "gap" was the correct
-// natural distance, not a bug.
-//
-// The part of the border that's actually broken is simpler than "Canada's
-// border" in general: WA/ID/MT/ND/MN's shared border with Canada is,
-// by treaty, a straight run along the 49th parallel. So instead of
-// matching against Canada's messy full polygon, project that known
-// reference line directly and snap only those four states' northernmost
-// vertices onto it. Nothing else - not Wisconsin, not any Great-Lakes
-// shoreline - is close to a pure lat=49 line, so nothing else can
-// accidentally match.
+// First attempt was a generic "snap any vertex within threshold to the
+// nearest point on the neighboring country's full border" - too broad.
+// Canada's border includes both shores of the Great Lakes, so states
+// across a lake from Ontario (Wisconsin from across Lake Superior, plus
+// Michigan/Ohio/Illinois/Indiana/Pennsylvania near Erie/Huron/Michigan)
+// registered as "close to Canada" too, and got pulled toward the wrong
+// shore - it snapped 1437 vertices when only a few dozen actually needed
+// it. Wisconsin in particular doesn't border Canada at all (Lake Superior
+// is between them); its measured "gap" was the correct natural distance,
+// not a bug. Below uses two narrower, safer fixes instead, chosen per
+// border depending on whether it's a straight line or not.
 // Minimal M/L/Z (absolute or relative) path <-> polygon-array conversion -
 // matches the simple polyline output these precise-state paths use.
 function dToPolygons(d) {
@@ -349,17 +362,21 @@ function polygonsToD(polygons) {
     })
     .join('');
 }
-// The part of the border that's actually broken is simpler than "Canada's
-// border" in general: WA/ID/MT/ND/MN's shared border with Canada is,
-// by treaty, a straight run along the 49th parallel. In this projection a
-// line of latitude projects to an exactly horizontal line (verified: y is
-// constant across the whole relevant longitude range), which makes the
-// fix simple and safe - snap each qualifying vertex's Y straight onto that
-// line, X untouched. An earlier attempt did a full 2D nearest-point snap
-// (against Canada's whole polygon, then against this line); both could
-// reorder vertices relative to their neighbors and produce a
-// self-intersecting polygon. Only moving Y, never X, can't reorder
-// anything, so it can't self-intersect.
+// The part of the Canada border that's actually broken is simpler than
+// "Canada's border" in general: WA/ID/MT/ND/MN's shared border with
+// Canada is, by treaty, a straight run along the 49th parallel. In this
+// projection a line of latitude projects to an exactly horizontal line
+// (verified: y is constant across the whole relevant longitude range),
+// which makes the fix simple and safe - snap each qualifying vertex's Y
+// straight onto that line, X untouched. An earlier attempt did a full 2D
+// nearest-point snap (against Canada's whole polygon, then against this
+// line); both could reorder vertices relative to their neighbors and
+// produce a self-intersecting polygon. Only moving Y, never X, can't
+// reorder anything, so it can't self-intersect. The same straight-line
+// trick also covers two Mexico borders that happen to be constant-
+// latitude lines too: the Gadsden line (Arizona/New Mexico, ~31.33N) and
+// California's border (~32.53N) - both verified against Mexico's own
+// boundary data the same way the 49th parallel was.
 const FORTY_NINTH_PARALLEL_Y = 93.0298480876821; // projection([any lon in range, 49])[1]
 // Only these four measured a real gap (see the shapely check this was
 // developed against). Washington's border also touches lat=49, but winds
@@ -369,7 +386,16 @@ const FORTY_NINTH_PARALLEL_Y = 93.0298480876821; // projection([any lon in range
 // rather than fix anything. Wisconsin and everyone further east meet
 // Canada across the Great Lakes or a different segment, not this line.
 const FORTY_NINTH_PARALLEL_STATES = new Set(['Idaho', 'Montana', 'North Dakota', 'Minnesota']);
-const SNAP_THRESHOLD = 8; // units in the 960x500 space - comfortably above the ~5.5 measured gap
+const GADSDEN_LINE_Y = 147.94797758590673; // projection([any lon in range, 31.333])[1]
+const GADSDEN_LINE_STATES = new Set(['Arizona', 'New Mexico']);
+const CALIFORNIA_MEXICO_LINE_Y = 144.18130997660614; // projection([any lon in range, 32.5311])[1]
+const CALIFORNIA_MEXICO_LINE_STATES = new Set(['California']);
+const SNAP_THRESHOLD = 8; // units in the 960x500 space - comfortably above the ~5.5-16 measured gaps
+const PARALLEL_LINE_CORRECTIONS = [
+  { y: FORTY_NINTH_PARALLEL_Y, states: FORTY_NINTH_PARALLEL_STATES },
+  { y: GADSDEN_LINE_Y, states: GADSDEN_LINE_STATES },
+  { y: CALIFORNIA_MEXICO_LINE_Y, states: CALIFORNIA_MEXICO_LINE_STATES },
+];
 
 // A naive "snap every vertex within threshold" was tried first and broke:
 // near a state's corner with a neighbor, the boundary heads away from the
@@ -391,6 +417,52 @@ const SNAP_THRESHOLD = 8; // units in the 960x500 space - comfortably above the 
 // selected this way is x-monotonic by construction, so flattening it to
 // one y can never fold back over itself; it also naturally halts right
 // at a corner or a wiggly patch instead of ploughing through it.
+// Grows a monotonic run outward from a ring's closest-to-target vertex,
+// in both directions, sharing ONE direction across both walks. An earlier
+// version tracked direction separately per walk, which let the forward
+// and backward sides each settle on an opposite trend - producing a
+// peak/valley exactly at the seed that self-intersects once everything in
+// the run gets flattened to the same value. The backward walk here uses a
+// reversed comparison (prevKey vs k, instead of k vs prevKey) specifically
+// so that, read in normal increasing-index order, both halves agree on
+// the same monotonic direction.
+function growMonotonicRun(n, seedIdx, dist, threshold, keyOf) {
+  const include = new Set([seedIdx]);
+  let dir = null;
+  {
+    let prevKey = keyOf(seedIdx);
+    let i = (seedIdx + 1) % n;
+    while (i !== seedIdx) {
+      if (dist[i] >= threshold) break;
+      const k = keyOf(i);
+      if (k !== prevKey) {
+        const stepDir = k > prevKey ? 1 : -1;
+        if (dir === null) dir = stepDir;
+        else if (stepDir !== dir) break;
+      }
+      include.add(i);
+      prevKey = k;
+      i = (i + 1) % n;
+    }
+  }
+  {
+    let prevKey = keyOf(seedIdx);
+    let i = (seedIdx - 1 + n) % n;
+    while (i !== seedIdx) {
+      if (dist[i] >= threshold) break;
+      const k = keyOf(i);
+      if (k !== prevKey) {
+        const stepDir = prevKey > k ? 1 : -1; // reversed vs forward - see comment above
+        if (dir === null) dir = stepDir;
+        else if (stepDir !== dir) break;
+      }
+      include.add(i);
+      prevKey = k;
+      i = (i - 1 + n) % n;
+    }
+  }
+  return include;
+}
 function snapRingToParallel(ring, targetY, threshold) {
   const n = ring.length;
   if (n < 3) return { ring, snapped: 0 };
@@ -399,24 +471,7 @@ function snapRingToParallel(ring, targetY, threshold) {
   for (let i = 1; i < n; i++) if (dist[i] < dist[seedIdx]) seedIdx = i;
   if (dist[seedIdx] >= threshold) return { ring, snapped: 0 };
 
-  const include = new Set([seedIdx]);
-  for (const step of [1, -1]) {
-    let prevX = ring[seedIdx][0];
-    let dir = null;
-    let i = (seedIdx + step + n) % n;
-    while (i !== seedIdx) {
-      const [x] = ring[i];
-      if (dist[i] >= threshold) break;
-      if (x !== prevX) {
-        const stepDir = x > prevX ? 1 : -1;
-        if (dir === null) dir = stepDir;
-        else if (stepDir !== dir) break;
-      }
-      include.add(i);
-      prevX = x;
-      i = (i + step + n) % n;
-    }
-  }
+  const include = growMonotonicRun(n, seedIdx, dist, threshold, (i) => ring[i][0]);
   let snapped = 0;
   const newRing = ring.map(([x, y], idx) => {
     if (include.has(idx)) {
@@ -427,16 +482,104 @@ function snapRingToParallel(ring, targetY, threshold) {
   });
   return { ring: newRing, snapped };
 }
-function snapToFortyNinthParallel(d, name) {
-  if (!FORTY_NINTH_PARALLEL_STATES.has(name)) return { d, snapped: 0 };
+function largestRingIndex(polygons) {
+  let best = 0;
+  for (let i = 1; i < polygons.length; i++) {
+    if (polygons[i].length > polygons[best].length) best = i;
+  }
+  return best;
+}
+function snapStraightBorders(d, name) {
   const polygons = dToPolygons(d);
+  const mainIdx = largestRingIndex(polygons);
   let snapped = 0;
-  const out = polygons.map((ring) => {
-    const result = snapRingToParallel(ring, FORTY_NINTH_PARALLEL_Y, SNAP_THRESHOLD);
+  for (const { y, states } of PARALLEL_LINE_CORRECTIONS) {
+    if (!states.has(name)) continue;
+    const result = snapRingToParallel(polygons[mainIdx], y, SNAP_THRESHOLD);
     snapped += result.snapped;
-    return result.ring;
+    polygons[mainIdx] = result.ring;
+  }
+  return { d: polygonsToD(polygons), snapped };
+}
+
+// Texas's border with Mexico is the Rio Grande - a real, winding river,
+// not a straight line, so there's no fixed target Y to snap to here.
+// Measured up to ~5 units of gap along a long stretch of it even after
+// the bbox fit (same root cause as the other borders: a global fit only
+// guarantees alignment at the extremes). Instead, snap qualifying Texas
+// vertices onto the nearest point of Mexico's own boundary directly - this
+// is the right target to align to since both are tracing the same river,
+// just simplified differently. The self-intersection risk is the same as
+// before, so the same run-growing guard applies, generalized: instead of
+// requiring x to keep moving one way, require the matched point's INDEX
+// in Mexico's point list to keep moving one way. Both chains have to
+// progress together in a consistent direction, or the run stops there -
+// still can't fold back on itself. Candidate points are restricted to a
+// bounding box around the Texas border specifically (not Mexico's full
+// perimeter), both so nothing far away can ever be "nearest" by
+// coincidence and so this can't repeat the Great-Lakes mistake.
+function neighborBorderPointsNear(countryName, lonRange, latRange) {
+  const f = worldGeo.features.find((ft) => ft.properties.name === countryName);
+  if (!f) return [];
+  const polys = f.geometry.type === 'MultiPolygon' ? f.geometry.coordinates : [f.geometry.coordinates];
+  const pts = [];
+  for (const poly of polys) {
+    for (const ring of poly) {
+      for (const [lon, lat] of ring) {
+        if (lon < lonRange[0] || lon > lonRange[1] || lat < latRange[0] || lat > latRange[1]) continue;
+        const p = projection([lon, lat]);
+        if (p) pts.push(p);
+      }
+    }
+  }
+  return pts;
+}
+const MEXICO_TEXAS_BORDER_POINTS = neighborBorderPointsNear('Mexico', [-107, -96], [25, 32]);
+const TEXAS_SNAP_THRESHOLD = 6; // just above the ~5 measured gap
+function snapRingToNeighborPoints(ring, neighborPoints, threshold) {
+  const n = ring.length;
+  if (n < 3 || neighborPoints.length === 0) return { ring, snapped: 0 };
+  const matches = ring.map(([x, y]) => {
+    let bestIdx = -1;
+    let bestD2 = Infinity;
+    for (let j = 0; j < neighborPoints.length; j++) {
+      const [nx, ny] = neighborPoints[j];
+      const d2 = (nx - x) ** 2 + (ny - y) ** 2;
+      if (d2 < bestD2) {
+        bestD2 = d2;
+        bestIdx = j;
+      }
+    }
+    return { point: neighborPoints[bestIdx], targetIdx: bestIdx, dist: Math.sqrt(bestD2) };
   });
-  return { d: polygonsToD(out), snapped };
+  let seedIdx = 0;
+  for (let i = 1; i < n; i++) if (matches[i].dist < matches[seedIdx].dist) seedIdx = i;
+  if (matches[seedIdx].dist >= threshold) return { ring, snapped: 0 };
+
+  const dist = matches.map((m) => m.dist);
+  const include = growMonotonicRun(n, seedIdx, dist, threshold, (i) => matches[i].targetIdx);
+  let snapped = 0;
+  const newRing = ring.map((pt, idx) => {
+    if (include.has(idx)) {
+      snapped++;
+      return matches[idx].point;
+    }
+    return pt;
+  });
+  return { ring: newRing, snapped };
+}
+function snapTexasToMexico(d, name) {
+  if (name !== 'Texas') return { d, snapped: 0 };
+  const polygons = dToPolygons(d);
+  const mainIdx = largestRingIndex(polygons);
+  const result = snapRingToNeighborPoints(polygons[mainIdx], MEXICO_TEXAS_BORDER_POINTS, TEXAS_SNAP_THRESHOLD);
+  polygons[mainIdx] = result.ring;
+  return { d: polygonsToD(polygons), snapped: result.snapped };
+}
+function snapStateBorders(d, name) {
+  const step1 = snapStraightBorders(d, name);
+  const step2 = snapTexasToMexico(step1.d, name);
+  return { d: step2.d, snapped: step1.snapped + step2.snapped };
 }
 
 // Precise, real state boundaries sourced from a clean, properly-labeled
@@ -482,9 +625,9 @@ for (const f of usStatesGeo) {
   if (precisePaths?.length) {
     preciseCount++;
     for (let i = 0; i < precisePaths.length; i++) {
-      const { d: snappedD, snapped } = snapToFortyNinthParallel(precisePaths[i], name);
+      const { d: snappedD, snapped } = snapStateBorders(precisePaths[i], name);
       totalSnapped += snapped;
-      if (snapped) console.log(`    ${name}${i > 0 ? ` (part ${i})` : ''}: ${snapped} vertices snapped to the 49th parallel`);
+      if (snapped) console.log(`    ${name}${i > 0 ? ` (part ${i})` : ''}: ${snapped} vertices snapped to the real border`);
       shapes.push({
         id: `state-${f.id}${i > 0 ? `-${i}` : ''}`,
         name,
@@ -525,5 +668,5 @@ export const MAP_SHAPES = ${JSON.stringify(shapes)};
 fs.writeFileSync('lib/mapShapes.js', output);
 console.log(`Generated ${shapes.length} shapes (${worldCountryCount} countries, ${usStatesGeo.length} US states) -> lib/mapShapes.js`);
 console.log(`  ${preciseCount} states from the precise source, ${usStatesGeo.length - preciseCount} from geoAlbersUsa fallback`);
-console.log(`  ${totalSnapped} vertices snapped onto the 49th parallel (WA/ID/MT/ND/MN border with Canada)`);
+console.log(`  ${totalSnapped} vertices snapped onto the real Canada/Mexico border (ID/MT/ND/MN, AZ/NM, CA, TX)`);
 console.log('Unclaimed countries (gray, not clickable):', worldGeo.features.filter((f) => f.properties.name !== 'United States of America' && !COUNTRY_GROUPS[f.properties.name]).length);
