@@ -1,0 +1,4542 @@
+[
+  {
+    "name": "Nuts, acorn flour, full fat",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 501,
+    "protein": 7.5,
+    "carbs": 54.6,
+    "fat": 30.2,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 3.0,
+      "calcium": 43.0,
+      "potassium": 712,
+      "zinc": 0.64,
+      "iron": 1.21,
+      "magnesium": 110,
+      "phosphorus": 103,
+      "sodium": 0.0,
+      "vitamin_c": 0.0,
+      "folate": 114,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, acorns, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 509,
+    "protein": 8.1,
+    "carbs": 53.7,
+    "fat": 31.4,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 0.0,
+      "iron": 1.04,
+      "magnesium": 82.0,
+      "phosphorus": 103,
+      "sodium": 0.0,
+      "vitamin_c": 0.0,
+      "folate": 115,
+      "vitamin_b12": 0.0,
+      "calcium": 54.0,
+      "potassium": 709,
+      "zinc": 0.67
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, acorns, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 387,
+    "protein": 6.2,
+    "carbs": 40.8,
+    "fat": 23.9,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 2.0,
+      "calcium": 41.0,
+      "potassium": 539,
+      "zinc": 0.51,
+      "vitamin_c": 0.0,
+      "folate": 87.0,
+      "vitamin_b12": 0.0,
+      "iron": 0.79,
+      "magnesium": 62.0,
+      "phosphorus": 79.0,
+      "sodium": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, almond butter, plain, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 614,
+    "protein": 21.0,
+    "carbs": 18.8,
+    "fat": 55.5,
+    "fiber": 10.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 3.49,
+      "magnesium": 279,
+      "phosphorus": 508,
+      "vitamin_c": 0.0,
+      "calcium": 347,
+      "potassium": 748,
+      "zinc": 3.29,
+      "selenium": 2.4,
+      "vitamin_a": 0.0,
+      "folate": 53.0,
+      "sodium": 227,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almond butter, plain, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 614,
+    "protein": 21.0,
+    "carbs": 18.8,
+    "fat": 55.5,
+    "fiber": 10.3,
+    "micros": {
+      "calcium": 347,
+      "potassium": 748,
+      "zinc": 3.29,
+      "iron": 3.49,
+      "magnesium": 279,
+      "phosphorus": 508,
+      "vitamin_c": 0.0,
+      "vitamin_d": 0.0,
+      "selenium": 2.4,
+      "sodium": 7.0,
+      "vitamin_a": 0.0,
+      "folate": 53.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almond paste",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 458,
+    "protein": 9.0,
+    "carbs": 47.8,
+    "fat": 27.7,
+    "fiber": 4.8,
+    "micros": {
+      "calcium": 172,
+      "potassium": 314,
+      "zinc": 1.48,
+      "iron": 1.6,
+      "magnesium": 130,
+      "phosphorus": 258,
+      "folate": 73.0,
+      "vitamin_d": 0.0,
+      "vitamin_b12": 0.0,
+      "sodium": 9.0,
+      "vitamin_a": 0.0,
+      "selenium": 4.2,
+      "vitamin_c": 0.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 579,
+    "protein": 21.2,
+    "carbs": 21.6,
+    "fat": 49.9,
+    "fiber": 12.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 3.71,
+      "magnesium": 270,
+      "phosphorus": 481,
+      "folate": 44.0,
+      "calcium": 269,
+      "potassium": 733,
+      "zinc": 3.12,
+      "selenium": 4.1,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0,
+      "sodium": 1.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, blanched",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 590,
+    "protein": 21.4,
+    "carbs": 18.7,
+    "fat": 52.5,
+    "fiber": 9.9,
+    "micros": {
+      "vitamin_c": 0.0,
+      "vitamin_d": 0.0,
+      "folate": 49.0,
+      "vitamin_a": 0.0,
+      "iron": 3.28,
+      "magnesium": 268,
+      "phosphorus": 481,
+      "sodium": 19.0,
+      "calcium": 236,
+      "potassium": 659,
+      "zinc": 2.97,
+      "selenium": 3.2,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 620,
+    "protein": 20.4,
+    "carbs": 16.2,
+    "fat": 57.8,
+    "fiber": 11.0,
+    "micros": {
+      "vitamin_c": 0.0,
+      "calcium": 273,
+      "potassium": 684,
+      "zinc": 2.8,
+      "selenium": 0.0,
+      "iron": 3.17,
+      "magnesium": 258,
+      "phosphorus": 456,
+      "folate": 35.0,
+      "vitamin_a": 2.0,
+      "sodium": 256
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, dry roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 598,
+    "protein": 21.0,
+    "carbs": 21.0,
+    "fat": 52.5,
+    "fiber": 10.9,
+    "micros": {
+      "vitamin_c": 0.0,
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "sodium": 3.0,
+      "calcium": 268,
+      "potassium": 713,
+      "zinc": 3.31,
+      "selenium": 2.0,
+      "iron": 3.73,
+      "magnesium": 279,
+      "phosphorus": 471,
+      "folate": 55.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, honey roasted, unblanched",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 594,
+    "protein": 18.2,
+    "carbs": 27.9,
+    "fat": 49.9,
+    "fiber": 13.7,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 2.83,
+      "magnesium": 240,
+      "phosphorus": 400,
+      "sodium": 130,
+      "vitamin_c": 0.7,
+      "folate": 32.0,
+      "vitamin_b12": 0.0,
+      "calcium": 263,
+      "potassium": 560,
+      "zinc": 2.6
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, oil roasted, lightly salted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 21.2,
+    "carbs": 17.7,
+    "fat": 55.2,
+    "fiber": 10.5,
+    "micros": {
+      "sodium": 143,
+      "vitamin_c": 0.0,
+      "folate": 27.0,
+      "vitamin_b12": 0.0,
+      "iron": 3.68,
+      "magnesium": 274,
+      "phosphorus": 466,
+      "calcium": 291,
+      "potassium": 699,
+      "zinc": 3.07,
+      "selenium": 4.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, oil roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 21.2,
+    "carbs": 17.7,
+    "fat": 55.2,
+    "fiber": 10.5,
+    "micros": {
+      "iron": 3.68,
+      "magnesium": 274,
+      "phosphorus": 466,
+      "vitamin_c": 0.0,
+      "folate": 27.0,
+      "calcium": 291,
+      "potassium": 699,
+      "zinc": 3.07,
+      "vitamin_d": 0.0,
+      "selenium": 4.1,
+      "sodium": 339,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, oil roasted, with salt added, smoke flavor",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 21.4,
+    "carbs": 17.9,
+    "fat": 55.9,
+    "fiber": 10.7,
+    "micros": {
+      "calcium": 286,
+      "potassium": 679,
+      "iron": 3.86,
+      "magnesium": 286,
+      "sodium": 548,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, almonds, oil roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 21.2,
+    "carbs": 17.7,
+    "fat": 55.2,
+    "fiber": 10.5,
+    "micros": {
+      "iron": 3.68,
+      "magnesium": 274,
+      "phosphorus": 466,
+      "sodium": 1.0,
+      "vitamin_c": 0.0,
+      "folate": 27.0,
+      "calcium": 291,
+      "potassium": 699,
+      "zinc": 3.07,
+      "vitamin_d": 0.0,
+      "selenium": 4.1,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, beechnuts, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 576,
+    "protein": 6.2,
+    "carbs": 33.5,
+    "fat": 50.0,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_c": 15.5,
+      "folate": 113,
+      "vitamin_b12": 0.0,
+      "iron": 2.46,
+      "magnesium": 0.0,
+      "phosphorus": 0.0,
+      "sodium": 38.0,
+      "calcium": 1.0,
+      "potassium": 1020.0,
+      "zinc": 0.36
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, brazilnuts, dried, unblanched",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 659,
+    "protein": 14.3,
+    "carbs": 11.7,
+    "fat": 67.1,
+    "fiber": 7.5,
+    "micros": {
+      "folate": 22.0,
+      "vitamin_a": 0.0,
+      "iron": 2.43,
+      "magnesium": 376,
+      "phosphorus": 725,
+      "sodium": 3.0,
+      "vitamin_c": 0.7,
+      "calcium": 160,
+      "potassium": 659,
+      "zinc": 4.06,
+      "selenium": 1920.0,
+      "vitamin_d": 0.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, butternuts, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 612,
+    "protein": 24.9,
+    "carbs": 12.0,
+    "fat": 57.0,
+    "fiber": 4.7,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 6.0,
+      "iron": 4.02,
+      "magnesium": 237,
+      "phosphorus": 446,
+      "sodium": 1.0,
+      "vitamin_c": 3.2,
+      "folate": 66.0,
+      "vitamin_b12": 0.0,
+      "calcium": 53.0,
+      "potassium": 421,
+      "zinc": 3.13,
+      "selenium": 17.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, cashew butter, plain, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 609,
+    "protein": 12.1,
+    "carbs": 30.3,
+    "fat": 53.0,
+    "fiber": 3.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 4.91,
+      "magnesium": 206,
+      "phosphorus": 388,
+      "sodium": 295,
+      "vitamin_c": 0.0,
+      "folate": 55.0,
+      "calcium": 61.0,
+      "potassium": 447,
+      "zinc": 4.43,
+      "selenium": 9.3,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, cashew butter, plain, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 587,
+    "protein": 17.6,
+    "carbs": 27.6,
+    "fat": 49.4,
+    "fiber": 2.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 5.03,
+      "magnesium": 258,
+      "phosphorus": 457,
+      "sodium": 15.0,
+      "vitamin_c": 0.0,
+      "folate": 68.0,
+      "vitamin_b12": 0.0,
+      "calcium": 43.0,
+      "potassium": 546,
+      "zinc": 5.16,
+      "selenium": 11.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, cashew nuts, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 574,
+    "protein": 15.3,
+    "carbs": 32.7,
+    "fat": 46.4,
+    "fiber": 3.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 6.0,
+      "magnesium": 260,
+      "phosphorus": 490,
+      "sodium": 640,
+      "vitamin_c": 0.0,
+      "folate": 69.0,
+      "vitamin_b12": 0.0,
+      "calcium": 45.0,
+      "potassium": 565,
+      "zinc": 5.6,
+      "vitamin_a": 0.0,
+      "selenium": 11.7
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, cashew nuts, dry roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 574,
+    "protein": 15.3,
+    "carbs": 32.7,
+    "fat": 46.4,
+    "fiber": 3.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "calcium": 45.0,
+      "potassium": 565,
+      "zinc": 5.6,
+      "iron": 6.0,
+      "magnesium": 260,
+      "phosphorus": 490,
+      "sodium": 16.0,
+      "vitamin_c": 0.0,
+      "folate": 69.0,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 0.0,
+      "selenium": 11.7
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, cashew nuts, oil roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 581,
+    "protein": 16.8,
+    "carbs": 30.2,
+    "fat": 47.8,
+    "fiber": 3.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 6.05,
+      "magnesium": 273,
+      "phosphorus": 531,
+      "sodium": 308,
+      "vitamin_a": 0.0,
+      "vitamin_c": 0.3,
+      "folate": 25.0,
+      "calcium": 43.0,
+      "potassium": 632,
+      "zinc": 5.35,
+      "selenium": 20.3,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, cashew nuts, oil roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 580,
+    "protein": 16.8,
+    "carbs": 29.9,
+    "fat": 47.8,
+    "fiber": 3.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 0.3,
+      "folate": 25.0,
+      "vitamin_b12": 0.0,
+      "iron": 6.05,
+      "magnesium": 273,
+      "phosphorus": 531,
+      "sodium": 13.0,
+      "vitamin_a": 0.0,
+      "calcium": 43.0,
+      "potassium": 632,
+      "zinc": 5.35,
+      "selenium": 20.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, cashew nuts, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 553,
+    "protein": 18.2,
+    "carbs": 30.2,
+    "fat": 43.8,
+    "fiber": 3.3,
+    "micros": {
+      "vitamin_c": 0.5,
+      "iron": 6.68,
+      "magnesium": 292,
+      "phosphorus": 593,
+      "sodium": 12.0,
+      "calcium": 37.0,
+      "potassium": 660,
+      "zinc": 5.78,
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "folate": 25.0,
+      "vitamin_b12": 0.0,
+      "selenium": 19.9
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, chinese, boiled and steamed",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 153,
+    "protein": 2.9,
+    "carbs": 33.6,
+    "fat": 0.8,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 7.0,
+      "calcium": 12.0,
+      "potassium": 306,
+      "zinc": 0.6,
+      "iron": 0.97,
+      "magnesium": 58.0,
+      "phosphorus": 66.0,
+      "sodium": 2.0,
+      "vitamin_c": 24.7,
+      "folate": 46.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, chinese, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 363,
+    "protein": 6.8,
+    "carbs": 79.8,
+    "fat": 1.8,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 16.0,
+      "vitamin_c": 58.5,
+      "folate": 110,
+      "vitamin_b12": 0.0,
+      "iron": 2.29,
+      "magnesium": 137,
+      "phosphorus": 155,
+      "sodium": 5.0,
+      "calcium": 29.0,
+      "potassium": 726,
+      "zinc": 1.41
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, chinese, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 224,
+    "protein": 4.2,
+    "carbs": 49.1,
+    "fat": 1.1,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 10.0,
+      "calcium": 18.0,
+      "potassium": 447,
+      "zinc": 0.87,
+      "vitamin_c": 36.0,
+      "iron": 1.41,
+      "magnesium": 84.0,
+      "phosphorus": 96.0,
+      "sodium": 3.0,
+      "folate": 68.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, chinese, roasted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 239,
+    "protein": 4.5,
+    "carbs": 52.4,
+    "fat": 1.2,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "vitamin_c": 38.4,
+      "folate": 72.0,
+      "vitamin_b12": 0.0,
+      "iron": 1.5,
+      "magnesium": 90.0,
+      "phosphorus": 102,
+      "sodium": 4.0,
+      "calcium": 19.0,
+      "potassium": 477,
+      "zinc": 0.93
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, european, boiled and steamed",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 131,
+    "protein": 2.0,
+    "carbs": 27.8,
+    "fat": 1.4,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "calcium": 46.0,
+      "potassium": 715,
+      "zinc": 0.25,
+      "vitamin_c": 26.7,
+      "folate": 38.0,
+      "vitamin_b12": 0.0,
+      "iron": 1.73,
+      "magnesium": 54.0,
+      "phosphorus": 99.0,
+      "sodium": 27.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, european, dried, peeled",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 369,
+    "protein": 5.0,
+    "carbs": 78.4,
+    "fat": 3.9,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 2.39,
+      "magnesium": 74.0,
+      "phosphorus": 137,
+      "sodium": 37.0,
+      "vitamin_c": 15.1,
+      "folate": 110,
+      "vitamin_b12": 0.0,
+      "calcium": 64.0,
+      "potassium": 991,
+      "zinc": 0.35
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, european, dried, unpeeled",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 374,
+    "protein": 6.4,
+    "carbs": 77.3,
+    "fat": 4.5,
+    "fiber": 11.7,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 67.0,
+      "potassium": 986,
+      "zinc": 0.35,
+      "iron": 2.38,
+      "magnesium": 74.0,
+      "phosphorus": 175,
+      "sodium": 37.0,
+      "vitamin_c": 15.0,
+      "folate": 109,
+      "vitamin_b12": 0.0,
+      "selenium": 1.8
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, european, raw, peeled",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 196,
+    "protein": 1.6,
+    "carbs": 44.2,
+    "fat": 1.2,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "iron": 0.94,
+      "magnesium": 30.0,
+      "phosphorus": 38.0,
+      "sodium": 2.0,
+      "vitamin_c": 40.2,
+      "folate": 58.0,
+      "vitamin_b12": 0.0,
+      "calcium": 19.0,
+      "potassium": 484,
+      "zinc": 0.49
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, european, raw, unpeeled",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 213,
+    "protein": 2.4,
+    "carbs": 45.5,
+    "fat": 2.3,
+    "fiber": 8.1,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "calcium": 27.0,
+      "potassium": 518,
+      "zinc": 0.52,
+      "vitamin_c": 43.0,
+      "folate": 62.0,
+      "vitamin_b12": 0.0,
+      "iron": 1.01,
+      "magnesium": 32.0,
+      "phosphorus": 93.0,
+      "sodium": 3.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, european, roasted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 245,
+    "protein": 3.2,
+    "carbs": 53.0,
+    "fat": 2.2,
+    "fiber": 5.1,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 0.91,
+      "magnesium": 33.0,
+      "phosphorus": 107,
+      "sodium": 2.0,
+      "vitamin_c": 26.0,
+      "folate": 70.0,
+      "vitamin_b12": 0.0,
+      "calcium": 29.0,
+      "potassium": 592,
+      "zinc": 0.57,
+      "selenium": 1.2,
+      "vitamin_a": 1.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, japanese, boiled and steamed",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 56.0,
+    "protein": 0.8,
+    "carbs": 12.6,
+    "fat": 0.2,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "calcium": 11.0,
+      "potassium": 119,
+      "zinc": 0.4,
+      "iron": 0.53,
+      "magnesium": 18.0,
+      "phosphorus": 26.0,
+      "sodium": 5.0,
+      "vitamin_c": 9.5,
+      "folate": 17.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, japanese, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 360,
+    "protein": 5.2,
+    "carbs": 81.4,
+    "fat": 1.2,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 4.0,
+      "calcium": 72.0,
+      "potassium": 768,
+      "zinc": 2.57,
+      "vitamin_c": 61.3,
+      "folate": 109,
+      "vitamin_b12": 0.0,
+      "iron": 3.38,
+      "magnesium": 115,
+      "phosphorus": 169,
+      "sodium": 34.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, japanese, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 154,
+    "protein": 2.2,
+    "carbs": 34.9,
+    "fat": 0.5,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 2.0,
+      "iron": 1.45,
+      "magnesium": 49.0,
+      "phosphorus": 72.0,
+      "sodium": 14.0,
+      "vitamin_c": 26.3,
+      "folate": 47.0,
+      "vitamin_b12": 0.0,
+      "calcium": 31.0,
+      "potassium": 329,
+      "zinc": 1.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, chestnuts, japanese, roasted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 201,
+    "protein": 3.0,
+    "carbs": 45.1,
+    "fat": 0.8,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 4.0,
+      "vitamin_c": 28.0,
+      "folate": 59.0,
+      "vitamin_b12": 0.0,
+      "iron": 2.1,
+      "magnesium": 64.0,
+      "phosphorus": 93.0,
+      "sodium": 19.0,
+      "calcium": 35.0,
+      "potassium": 427,
+      "zinc": 1.43
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, coconut cream, canned, sweetened",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 357,
+    "protein": 1.2,
+    "carbs": 53.2,
+    "fat": 16.3,
+    "fiber": 0.2,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 0.0,
+      "iron": 0.13,
+      "sodium": 36.0,
+      "vitamin_a": 0.0,
+      "calcium": 4.0,
+      "potassium": 101,
+      "zinc": 0.6,
+      "magnesium": 17.0,
+      "phosphorus": 22.0,
+      "folate": 14.0,
+      "vitamin_b12": 0.0,
+      "selenium": 5.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, coconut cream, raw (liquid expressed from grated meat)",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 330,
+    "protein": 3.6,
+    "carbs": 6.7,
+    "fat": 34.7,
+    "fiber": 2.2,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 2.28,
+      "magnesium": 28.0,
+      "phosphorus": 122,
+      "sodium": 4.0,
+      "vitamin_c": 2.8,
+      "folate": 23.0,
+      "vitamin_b12": 0.0,
+      "calcium": 11.0,
+      "potassium": 325,
+      "zinc": 0.96
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, coconut meat, dried (desiccated), creamed",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 684,
+    "protein": 5.3,
+    "carbs": 21.5,
+    "fat": 69.1,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 26.0,
+      "potassium": 551,
+      "zinc": 2.04,
+      "iron": 3.36,
+      "magnesium": 92.0,
+      "phosphorus": 209,
+      "sodium": 37.0,
+      "vitamin_c": 1.5,
+      "folate": 9.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, coconut meat, dried (desiccated), not sweetened",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 660,
+    "protein": 6.9,
+    "carbs": 23.6,
+    "fat": 64.5,
+    "fiber": 16.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "calcium": 26.0,
+      "potassium": 543,
+      "zinc": 2.01,
+      "iron": 3.32,
+      "magnesium": 90.0,
+      "phosphorus": 206,
+      "sodium": 37.0,
+      "vitamin_c": 1.5,
+      "folate": 9.0,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 0.0,
+      "selenium": 18.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 443,
+    "protein": 3.4,
+    "carbs": 40.9,
+    "fat": 31.7,
+    "fiber": 4.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "vitamin_c": 0.0,
+      "folate": 7.0,
+      "vitamin_b12": 0.0,
+      "iron": 1.84,
+      "magnesium": 49.0,
+      "phosphorus": 103,
+      "sodium": 20.0,
+      "calcium": 14.0,
+      "potassium": 324,
+      "zinc": 1.59
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 456,
+    "protein": 3.1,
+    "carbs": 51.8,
+    "fat": 28.0,
+    "fiber": 9.9,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 1.51,
+      "magnesium": 51.0,
+      "phosphorus": 100,
+      "sodium": 285,
+      "vitamin_c": 0.0,
+      "folate": 3.0,
+      "calcium": 11.0,
+      "potassium": 361,
+      "zinc": 0.71,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 0.0,
+      "selenium": 16.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, coconut meat, dried (desiccated), sweetened, shredded",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 501,
+    "protein": 2.9,
+    "carbs": 47.7,
+    "fat": 35.5,
+    "fiber": 4.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 0.7,
+      "folate": 8.0,
+      "vitamin_b12": 0.0,
+      "iron": 1.92,
+      "magnesium": 50.0,
+      "phosphorus": 107,
+      "sodium": 262,
+      "calcium": 15.0,
+      "potassium": 337,
+      "zinc": 1.82,
+      "vitamin_a": 0.0,
+      "selenium": 16.7
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, coconut meat, dried (desiccated), toasted",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 592,
+    "protein": 5.3,
+    "carbs": 44.4,
+    "fat": 47.0,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 27.0,
+      "potassium": 554,
+      "zinc": 2.05,
+      "iron": 3.39,
+      "magnesium": 92.0,
+      "phosphorus": 211,
+      "sodium": 37.0,
+      "vitamin_c": 1.5,
+      "folate": 9.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, coconut meat, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 354,
+    "protein": 3.3,
+    "carbs": 15.2,
+    "fat": 33.5,
+    "fiber": 9.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 2.43,
+      "magnesium": 32.0,
+      "phosphorus": 113,
+      "sodium": 20.0,
+      "vitamin_c": 3.3,
+      "folate": 26.0,
+      "vitamin_b12": 0.0,
+      "calcium": 14.0,
+      "potassium": 356,
+      "zinc": 1.1,
+      "vitamin_a": 0.0,
+      "selenium": 10.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 197,
+    "protein": 2.0,
+    "carbs": 2.8,
+    "fat": 21.3,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "calcium": 18.0,
+      "potassium": 220,
+      "zinc": 0.56,
+      "iron": 3.3,
+      "magnesium": 46.0,
+      "phosphorus": 96.0,
+      "sodium": 13.0,
+      "vitamin_c": 1.0,
+      "folate": 14.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, coconut milk, frozen (liquid expressed from grated meat and water)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 202,
+    "protein": 1.6,
+    "carbs": 5.6,
+    "fat": 20.8,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 0.81,
+      "magnesium": 32.0,
+      "phosphorus": 59.0,
+      "sodium": 12.0,
+      "vitamin_c": 1.1,
+      "folate": 14.0,
+      "vitamin_b12": 0.0,
+      "calcium": 4.0,
+      "potassium": 232,
+      "zinc": 0.59
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, coconut milk, raw (liquid expressed from grated meat and water)",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 230,
+    "protein": 2.3,
+    "carbs": 5.5,
+    "fat": 23.8,
+    "fiber": 2.2,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "vitamin_c": 2.8,
+      "folate": 16.0,
+      "vitamin_b12": 0.0,
+      "iron": 1.64,
+      "magnesium": 37.0,
+      "phosphorus": 100,
+      "sodium": 15.0,
+      "calcium": 16.0,
+      "potassium": 263,
+      "zinc": 0.67,
+      "selenium": 6.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Nuts, coconut water (liquid from coconuts)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 19.0,
+    "protein": 0.7,
+    "carbs": 3.7,
+    "fat": 0.2,
+    "fiber": 1.1,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "folate": 3.0,
+      "vitamin_b12": 0.0,
+      "iron": 0.29,
+      "magnesium": 25.0,
+      "phosphorus": 20.0,
+      "sodium": 105,
+      "vitamin_c": 2.4,
+      "calcium": 24.0,
+      "potassium": 250,
+      "zinc": 0.1,
+      "selenium": 1.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, formulated, wheat-based, all flavors except macadamia, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 647,
+    "protein": 13.1,
+    "carbs": 20.8,
+    "fat": 62.3,
+    "fiber": 5.2,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 22.0,
+      "potassium": 320,
+      "zinc": 2.96,
+      "iron": 2.6,
+      "magnesium": 59.0,
+      "phosphorus": 366,
+      "sodium": 91.0,
+      "vitamin_c": 0.1,
+      "folate": 125,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, formulated, wheat-based, unflavored, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 622,
+    "protein": 13.8,
+    "carbs": 23.7,
+    "fat": 57.7,
+    "fiber": 5.2,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 26.0,
+      "potassium": 318,
+      "zinc": 2.94,
+      "vitamin_c": 0.1,
+      "folate": 142,
+      "vitamin_b12": 0.0,
+      "iron": 2.4,
+      "magnesium": 58.0,
+      "phosphorus": 371,
+      "sodium": 505
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ]
+  },
+  {
+    "name": "Nuts, ginkgo nuts, canned",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 111,
+    "protein": 2.3,
+    "carbs": 22.1,
+    "fat": 1.6,
+    "fiber": 9.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 17.0,
+      "vitamin_c": 9.1,
+      "folate": 33.0,
+      "vitamin_b12": 0.0,
+      "iron": 0.29,
+      "magnesium": 16.0,
+      "phosphorus": 54.0,
+      "sodium": 307,
+      "calcium": 4.0,
+      "potassium": 180,
+      "zinc": 0.21,
+      "selenium": 0.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, ginkgo nuts, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 348,
+    "protein": 10.4,
+    "carbs": 72.4,
+    "fat": 2.0,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 55.0,
+      "calcium": 20.0,
+      "potassium": 998,
+      "zinc": 0.67,
+      "iron": 1.6,
+      "magnesium": 53.0,
+      "phosphorus": 269,
+      "sodium": 13.0,
+      "vitamin_c": 29.3,
+      "folate": 106,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, ginkgo nuts, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 182,
+    "protein": 4.3,
+    "carbs": 37.6,
+    "fat": 1.7,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 28.0,
+      "iron": 1.0,
+      "magnesium": 27.0,
+      "phosphorus": 124,
+      "sodium": 7.0,
+      "vitamin_c": 15.0,
+      "folate": 54.0,
+      "vitamin_b12": 0.0,
+      "calcium": 2.0,
+      "potassium": 510,
+      "zinc": 0.34
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, hazelnuts or filberts",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 628,
+    "protein": 15.0,
+    "carbs": 16.7,
+    "fat": 60.8,
+    "fiber": 9.7,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_b12": 0.0,
+      "calcium": 114,
+      "potassium": 680,
+      "zinc": 2.45,
+      "vitamin_c": 6.3,
+      "folate": 113,
+      "iron": 4.7,
+      "magnesium": 163,
+      "phosphorus": 290,
+      "sodium": 0.0,
+      "selenium": 2.4,
+      "vitamin_a": 1.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, hazelnuts or filberts, blanched",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 629,
+    "protein": 13.7,
+    "carbs": 17.0,
+    "fat": 61.2,
+    "fiber": 11.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 2.0,
+      "folate": 78.0,
+      "iron": 3.3,
+      "magnesium": 160,
+      "phosphorus": 310,
+      "sodium": 0.0,
+      "calcium": 149,
+      "potassium": 658,
+      "zinc": 2.2,
+      "vitamin_a": 2.0,
+      "vitamin_b12": 0.0,
+      "selenium": 4.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, hazelnuts or filberts, dry roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 646,
+    "protein": 15.0,
+    "carbs": 17.6,
+    "fat": 62.4,
+    "fiber": 9.4,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "vitamin_b12": 0.0,
+      "selenium": 4.1,
+      "calcium": 123,
+      "potassium": 755,
+      "zinc": 2.5,
+      "iron": 4.38,
+      "magnesium": 173,
+      "phosphorus": 310,
+      "sodium": 0.0,
+      "vitamin_c": 3.8,
+      "folate": 88.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, hickorynuts, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 657,
+    "protein": 12.7,
+    "carbs": 18.2,
+    "fat": 64.4,
+    "fiber": 6.4,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 7.0,
+      "calcium": 61.0,
+      "potassium": 436,
+      "zinc": 4.31,
+      "iron": 2.12,
+      "magnesium": 173,
+      "phosphorus": 336,
+      "sodium": 1.0,
+      "vitamin_c": 2.0,
+      "folate": 40.0,
+      "vitamin_b12": 0.0,
+      "selenium": 8.1
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, macadamia nuts, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 716,
+    "protein": 7.8,
+    "carbs": 12.8,
+    "fat": 76.1,
+    "fiber": 8.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_b12": 0.0,
+      "sodium": 353,
+      "vitamin_a": 0.0,
+      "selenium": 11.7,
+      "calcium": 70.0,
+      "potassium": 363,
+      "zinc": 1.29,
+      "iron": 2.65,
+      "magnesium": 118,
+      "phosphorus": 198,
+      "vitamin_c": 0.7,
+      "folate": 10.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, macadamia nuts, dry roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 718,
+    "protein": 7.8,
+    "carbs": 13.4,
+    "fat": 76.1,
+    "fiber": 8.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "selenium": 11.7,
+      "vitamin_a": 0.0,
+      "vitamin_b12": 0.0,
+      "calcium": 70.0,
+      "potassium": 363,
+      "zinc": 1.29,
+      "iron": 2.65,
+      "magnesium": 118,
+      "phosphorus": 198,
+      "sodium": 4.0,
+      "vitamin_c": 0.7,
+      "folate": 10.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, macadamia nuts, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 718,
+    "protein": 7.9,
+    "carbs": 13.8,
+    "fat": 75.8,
+    "fiber": 8.6,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "selenium": 3.6,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 1.2,
+      "folate": 11.0,
+      "iron": 3.69,
+      "magnesium": 130,
+      "phosphorus": 188,
+      "sodium": 5.0,
+      "calcium": 85.0,
+      "potassium": 368,
+      "zinc": 1.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 608,
+    "protein": 18.0,
+    "carbs": 24.6,
+    "fat": 53.2,
+    "fiber": 7.1,
+    "micros": {
+      "folate": 60.0,
+      "iron": 3.22,
+      "magnesium": 202,
+      "phosphorus": 412,
+      "sodium": 113,
+      "calcium": 106,
+      "potassium": 585,
+      "zinc": 3.76,
+      "selenium": 3.7
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 572,
+    "protein": 23.3,
+    "carbs": 23.1,
+    "fat": 47.5,
+    "fiber": 8.1,
+    "micros": {
+      "calcium": 129,
+      "potassium": 758,
+      "zinc": 3.42,
+      "selenium": 11.0,
+      "iron": 3.43,
+      "magnesium": 209,
+      "phosphorus": 493,
+      "sodium": 232,
+      "folate": 60.0,
+      "vitamin_a": 4.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut",
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, dry roasted, with peanuts, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 594,
+    "protein": 17.3,
+    "carbs": 25.4,
+    "fat": 51.4,
+    "fiber": 9.0,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "sodium": 345,
+      "potassium": 693,
+      "iron": 3.7,
+      "magnesium": 225,
+      "phosphorus": 435,
+      "vitamin_c": 0.4,
+      "folate": 50.0,
+      "vitamin_b12": 0.0,
+      "calcium": 70.0,
+      "zinc": 3.8,
+      "selenium": 7.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, dry roasted, with peanuts, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 607,
+    "protein": 19.5,
+    "carbs": 22.4,
+    "fat": 53.5,
+    "fiber": 6.4,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 0.8,
+      "folate": 60.0,
+      "iron": 3.73,
+      "magnesium": 227,
+      "phosphorus": 438,
+      "sodium": 4.0,
+      "vitamin_a": 0.0,
+      "calcium": 87.0,
+      "potassium": 643,
+      "zinc": 4.06,
+      "selenium": 9.3,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, oil roasted, with peanuts, lightly salted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 20.0,
+    "carbs": 21.0,
+    "fat": 54.0,
+    "fiber": 7.0,
+    "micros": {
+      "iron": 2.61,
+      "magnesium": 229,
+      "phosphorus": 456,
+      "sodium": 161,
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "vitamin_c": 0.5,
+      "folate": 83.0,
+      "vitamin_b12": 0.0,
+      "calcium": 117,
+      "potassium": 632,
+      "zinc": 3.36,
+      "selenium": 33.9
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, oil roasted, with peanuts, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 20.0,
+    "carbs": 21.0,
+    "fat": 54.0,
+    "fiber": 7.0,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "iron": 2.61,
+      "magnesium": 229,
+      "phosphorus": 456,
+      "sodium": 273,
+      "calcium": 117,
+      "potassium": 632,
+      "zinc": 3.36,
+      "selenium": 33.9,
+      "folate": 83.0,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 0.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, oil roasted, with peanuts, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 20.0,
+    "carbs": 21.0,
+    "fat": 54.0,
+    "fiber": 7.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 2.61,
+      "magnesium": 229,
+      "phosphorus": 456,
+      "sodium": 5.0,
+      "vitamin_a": 0.0,
+      "calcium": 117,
+      "potassium": 632,
+      "zinc": 3.36,
+      "selenium": 33.9,
+      "folate": 83.0,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 0.5
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, oil roasted, without peanuts, lightly salted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 17.9,
+    "carbs": 25.0,
+    "fat": 50.0,
+    "fiber": 7.1,
+    "micros": {
+      "calcium": 130,
+      "potassium": 714,
+      "zinc": 4.57,
+      "selenium": 139,
+      "iron": 5.18,
+      "magnesium": 275,
+      "phosphorus": 433,
+      "sodium": 143,
+      "vitamin_a": 1.0,
+      "vitamin_d": 0.0,
+      "vitamin_c": 0.6,
+      "folate": 104,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, oil roasted, without peanuts, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 615,
+    "protein": 15.5,
+    "carbs": 22.3,
+    "fat": 56.2,
+    "fiber": 5.5,
+    "micros": {
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "sodium": 306,
+      "iron": 2.57,
+      "magnesium": 251,
+      "phosphorus": 449,
+      "vitamin_c": 0.5,
+      "folate": 56.0,
+      "vitamin_b12": 0.0,
+      "calcium": 106,
+      "potassium": 544,
+      "zinc": 4.66,
+      "selenium": 422
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, mixed nuts, oil roasted, without peanuts, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 615,
+    "protein": 15.5,
+    "carbs": 22.3,
+    "fat": 56.2,
+    "fiber": 5.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "vitamin_c": 0.5,
+      "folate": 56.0,
+      "vitamin_b12": 0.0,
+      "iron": 2.57,
+      "magnesium": 251,
+      "phosphorus": 449,
+      "sodium": 11.0,
+      "calcium": 106,
+      "potassium": 544,
+      "zinc": 4.66
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "peanut"
+    ]
+  },
+  {
+    "name": "Nuts, pecans",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 691,
+    "protein": 9.2,
+    "carbs": 13.9,
+    "fat": 72.0,
+    "fiber": 9.6,
+    "micros": {
+      "calcium": 70.0,
+      "potassium": 410,
+      "zinc": 4.53,
+      "iron": 2.53,
+      "magnesium": 121,
+      "phosphorus": 277,
+      "sodium": 0.0,
+      "vitamin_c": 1.1,
+      "folate": 22.0,
+      "vitamin_a": 3.0,
+      "vitamin_d": 0.0,
+      "vitamin_b12": 0.0,
+      "selenium": 3.8
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pecans, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 710,
+    "protein": 9.5,
+    "carbs": 13.6,
+    "fat": 74.3,
+    "fiber": 9.4,
+    "micros": {
+      "calcium": 72.0,
+      "potassium": 424,
+      "zinc": 5.07,
+      "iron": 2.8,
+      "magnesium": 132,
+      "phosphorus": 293,
+      "folate": 16.0,
+      "vitamin_c": 0.7,
+      "vitamin_d": 0.0,
+      "selenium": 4.0,
+      "vitamin_a": 7.0,
+      "sodium": 383,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pecans, dry roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 710,
+    "protein": 9.5,
+    "carbs": 13.6,
+    "fat": 74.3,
+    "fiber": 9.4,
+    "micros": {
+      "iron": 2.8,
+      "magnesium": 132,
+      "phosphorus": 293,
+      "sodium": 1.0,
+      "folate": 16.0,
+      "calcium": 72.0,
+      "potassium": 424,
+      "zinc": 5.07,
+      "vitamin_c": 0.7,
+      "vitamin_d": 0.0,
+      "selenium": 4.0,
+      "vitamin_a": 7.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pecans, oil roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 715,
+    "protein": 9.2,
+    "carbs": 13.0,
+    "fat": 75.2,
+    "fiber": 9.5,
+    "micros": {
+      "iron": 2.47,
+      "magnesium": 121,
+      "phosphorus": 263,
+      "folate": 15.0,
+      "calcium": 67.0,
+      "potassium": 392,
+      "zinc": 4.47,
+      "vitamin_c": 0.7,
+      "vitamin_d": 0.0,
+      "selenium": 6.0,
+      "vitamin_a": 5.0,
+      "sodium": 393,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pecans, oil roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 715,
+    "protein": 9.2,
+    "carbs": 13.0,
+    "fat": 75.2,
+    "fiber": 9.5,
+    "micros": {
+      "calcium": 67.0,
+      "potassium": 392,
+      "zinc": 4.47,
+      "iron": 2.47,
+      "magnesium": 121,
+      "phosphorus": 263,
+      "sodium": 1.0,
+      "folate": 15.0,
+      "vitamin_c": 0.7,
+      "vitamin_d": 0.0,
+      "selenium": 6.0,
+      "vitamin_a": 5.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pilinuts, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 719,
+    "protein": 10.8,
+    "carbs": 4.0,
+    "fat": 79.6,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 2.0,
+      "iron": 3.53,
+      "magnesium": 302,
+      "phosphorus": 575,
+      "sodium": 3.0,
+      "vitamin_c": 0.6,
+      "folate": 60.0,
+      "vitamin_b12": 0.0,
+      "calcium": 145,
+      "potassium": 507,
+      "zinc": 2.97
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Nuts, pine nuts, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 673,
+    "protein": 13.7,
+    "carbs": 13.1,
+    "fat": 68.4,
+    "fiber": 3.7,
+    "micros": {
+      "calcium": 16.0,
+      "potassium": 597,
+      "zinc": 6.45,
+      "selenium": 0.7,
+      "vitamin_c": 0.8,
+      "iron": 5.53,
+      "magnesium": 251,
+      "phosphorus": 575,
+      "sodium": 2.0,
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "vitamin_b12": 0.0,
+      "folate": 34.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pine nuts, pinyon, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 629,
+    "protein": 11.6,
+    "carbs": 19.3,
+    "fat": 61.0,
+    "fiber": 10.7,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "iron": 3.06,
+      "magnesium": 234,
+      "phosphorus": 35.0,
+      "sodium": 72.0,
+      "vitamin_c": 2.0,
+      "folate": 58.0,
+      "vitamin_b12": 0.0,
+      "calcium": 8.0,
+      "potassium": 628,
+      "zinc": 4.28
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pistachio nuts, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 569,
+    "protein": 21.0,
+    "carbs": 27.6,
+    "fat": 45.8,
+    "fiber": 10.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "calcium": 107,
+      "potassium": 1010.0,
+      "zinc": 2.34,
+      "selenium": 10.0,
+      "vitamin_a": 13.0,
+      "vitamin_c": 3.0,
+      "folate": 51.0,
+      "iron": 4.03,
+      "magnesium": 109,
+      "phosphorus": 469,
+      "sodium": 428,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pistachio nuts, dry roasted, without salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 572,
+    "protein": 21.0,
+    "carbs": 28.3,
+    "fat": 45.8,
+    "fiber": 10.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 4.03,
+      "magnesium": 109,
+      "phosphorus": 469,
+      "sodium": 6.0,
+      "vitamin_c": 3.0,
+      "folate": 51.0,
+      "vitamin_a": 13.0,
+      "calcium": 107,
+      "potassium": 1010.0,
+      "zinc": 2.34,
+      "selenium": 10.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, pistachio nuts, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 560,
+    "protein": 20.2,
+    "carbs": 27.2,
+    "fat": 45.3,
+    "fiber": 10.6,
+    "micros": {
+      "folate": 51.0,
+      "potassium": 1020.0,
+      "iron": 3.92,
+      "sodium": 1.0,
+      "vitamin_d": 0.0,
+      "vitamin_c": 5.6,
+      "calcium": 105,
+      "vitamin_a": 26.0,
+      "selenium": 7.0,
+      "zinc": 2.2,
+      "magnesium": 121,
+      "phosphorus": 490,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, walnuts, black, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 619,
+    "protein": 24.1,
+    "carbs": 9.6,
+    "fat": 59.3,
+    "fiber": 6.8,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 3.12,
+      "magnesium": 201,
+      "phosphorus": 513,
+      "sodium": 2.0,
+      "vitamin_a": 2.0,
+      "vitamin_c": 1.7,
+      "folate": 31.0,
+      "calcium": 61.0,
+      "potassium": 523,
+      "zinc": 3.37,
+      "vitamin_b12": 0.0,
+      "selenium": 17.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, walnuts, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 643,
+    "protein": 14.3,
+    "carbs": 17.9,
+    "fat": 60.7,
+    "fiber": 7.1,
+    "micros": {
+      "zinc": 2.98,
+      "selenium": 5.0,
+      "calcium": 71.0,
+      "potassium": 459,
+      "vitamin_a": 1.0,
+      "vitamin_d": 0.0,
+      "iron": 2.57,
+      "magnesium": 151,
+      "phosphorus": 329,
+      "sodium": 643,
+      "folate": 91.0,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 1.4
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, walnuts, english",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 654,
+    "protein": 15.2,
+    "carbs": 13.7,
+    "fat": 65.2,
+    "fiber": 6.7,
+    "micros": {
+      "calcium": 98.0,
+      "vitamin_d": 0.0,
+      "vitamin_b12": 0.0,
+      "selenium": 4.9,
+      "vitamin_a": 1.0,
+      "iron": 2.91,
+      "magnesium": 158,
+      "phosphorus": 346,
+      "sodium": 2.0,
+      "vitamin_c": 1.3,
+      "folate": 98.0,
+      "potassium": 441,
+      "zinc": 3.09
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Nuts, walnuts, glazed",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 500,
+    "protein": 8.3,
+    "carbs": 47.6,
+    "fat": 35.7,
+    "fiber": 3.6,
+    "micros": {
+      "iron": 1.29,
+      "sodium": 446,
+      "vitamin_c": 0.0,
+      "calcium": 71.0,
+      "potassium": 232
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ]
+  },
+  {
+    "name": "Seeds, breadfruit seeds, boiled",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 168,
+    "protein": 5.3,
+    "carbs": 32.0,
+    "fat": 2.3,
+    "fiber": 4.8,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 12.0,
+      "vitamin_c": 6.1,
+      "folate": 49.0,
+      "vitamin_b12": 0.0,
+      "iron": 0.6,
+      "magnesium": 50.0,
+      "phosphorus": 124,
+      "sodium": 23.0,
+      "calcium": 61.0,
+      "potassium": 875,
+      "zinc": 0.83
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, breadfruit seeds, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 191,
+    "protein": 7.4,
+    "carbs": 29.2,
+    "fat": 5.6,
+    "fiber": 5.2,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 13.0,
+      "calcium": 36.0,
+      "potassium": 941,
+      "zinc": 0.9,
+      "iron": 3.67,
+      "magnesium": 54.0,
+      "phosphorus": 175,
+      "sodium": 25.0,
+      "vitamin_c": 6.6,
+      "folate": 53.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, breadfruit seeds, roasted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 207,
+    "protein": 6.2,
+    "carbs": 40.1,
+    "fat": 2.7,
+    "fiber": 6.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 15.0,
+      "iron": 0.9,
+      "magnesium": 62.0,
+      "phosphorus": 175,
+      "sodium": 28.0,
+      "vitamin_c": 7.6,
+      "folate": 59.0,
+      "vitamin_b12": 0.0,
+      "calcium": 86.0,
+      "potassium": 1080.0,
+      "zinc": 1.03
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, breadnut tree seeds, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 367,
+    "protein": 8.6,
+    "carbs": 79.4,
+    "fat": 1.7,
+    "fiber": 14.9,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 11.0,
+      "iron": 4.6,
+      "magnesium": 115,
+      "phosphorus": 178,
+      "sodium": 53.0,
+      "vitamin_c": 46.6,
+      "folate": 113,
+      "vitamin_b12": 0.0,
+      "calcium": 94.0,
+      "potassium": 2010.0,
+      "zinc": 1.91,
+      "selenium": 1.9
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, breadnut tree seeds, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 217,
+    "protein": 6.0,
+    "carbs": 46.3,
+    "fat": 1.0,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 12.0,
+      "calcium": 98.0,
+      "potassium": 1180.0,
+      "zinc": 1.13,
+      "iron": 2.09,
+      "magnesium": 68.0,
+      "phosphorus": 67.0,
+      "sodium": 31.0,
+      "vitamin_c": 27.4,
+      "folate": 66.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, chia seeds, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 486,
+    "protein": 16.5,
+    "carbs": 42.1,
+    "fat": 30.7,
+    "fiber": 34.4,
+    "micros": {
+      "iron": 7.72,
+      "magnesium": 335,
+      "phosphorus": 860,
+      "sodium": 16.0,
+      "vitamin_c": 1.6,
+      "folate": 49.0,
+      "potassium": 407,
+      "zinc": 4.58,
+      "selenium": 55.2,
+      "calcium": 631,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, cottonseed flour, low fat (glandless)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 332,
+    "protein": 49.8,
+    "carbs": 36.1,
+    "fat": 1.4,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 22.0,
+      "calcium": 474,
+      "potassium": 1760.0,
+      "zinc": 11.6,
+      "iron": 12.6,
+      "magnesium": 716,
+      "phosphorus": 1590.0,
+      "sodium": 35.0,
+      "vitamin_c": 2.4,
+      "folate": 228,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, cottonseed flour, partially defatted (glandless)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 359,
+    "protein": 41.0,
+    "carbs": 40.5,
+    "fat": 6.2,
+    "fiber": 3.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 22.0,
+      "iron": 12.7,
+      "magnesium": 721,
+      "phosphorus": 1600.0,
+      "sodium": 35.0,
+      "vitamin_c": 2.4,
+      "folate": 229,
+      "vitamin_b12": 0.0,
+      "calcium": 478,
+      "potassium": 1770.0,
+      "zinc": 11.7,
+      "selenium": 5.6
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, cottonseed kernels, roasted (glandless)",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 506,
+    "protein": 32.6,
+    "carbs": 21.9,
+    "fat": 36.3,
+    "fiber": 5.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 22.0,
+      "calcium": 100,
+      "potassium": 1350.0,
+      "zinc": 6.0,
+      "iron": 5.4,
+      "magnesium": 440,
+      "phosphorus": 800,
+      "sodium": 25.0,
+      "vitamin_c": 9.0,
+      "folate": 233,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, cottonseed meal, partially defatted (glandless)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 367,
+    "protein": 49.1,
+    "carbs": 38.4,
+    "fat": 4.8,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 23.0,
+      "iron": 13.4,
+      "magnesium": 760,
+      "phosphorus": 1680.0,
+      "sodium": 37.0,
+      "vitamin_c": 2.5,
+      "folate": 242,
+      "vitamin_b12": 0.0,
+      "calcium": 504,
+      "potassium": 1870.0,
+      "zinc": 12.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, flaxseed",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 534,
+    "protein": 18.3,
+    "carbs": 28.9,
+    "fat": 42.2,
+    "fiber": 27.3,
+    "micros": {
+      "calcium": 255,
+      "potassium": 813,
+      "zinc": 4.34,
+      "selenium": 25.4,
+      "vitamin_a": 0.0,
+      "iron": 5.73,
+      "magnesium": 392,
+      "phosphorus": 642,
+      "sodium": 30.0,
+      "vitamin_c": 0.6,
+      "folate": 87.0,
+      "vitamin_b12": 0.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, hemp seed, hulled",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 553,
+    "protein": 31.6,
+    "carbs": 8.7,
+    "fat": 48.8,
+    "fiber": 4.0,
+    "micros": {
+      "iron": 7.95,
+      "magnesium": 700,
+      "phosphorus": 1650.0,
+      "sodium": 5.0,
+      "vitamin_a": 1.0,
+      "vitamin_c": 0.5,
+      "folate": 110,
+      "calcium": 70.0,
+      "potassium": 1200.0,
+      "zinc": 9.9
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, lotus seeds, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 332,
+    "protein": 15.4,
+    "carbs": 64.5,
+    "fat": 2.0,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "calcium": 163,
+      "potassium": 1370.0,
+      "zinc": 1.05,
+      "vitamin_c": 0.0,
+      "folate": 104,
+      "vitamin_b12": 0.0,
+      "iron": 3.53,
+      "magnesium": 210,
+      "phosphorus": 626,
+      "sodium": 5.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, lotus seeds, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 89.0,
+    "protein": 4.1,
+    "carbs": 17.3,
+    "fat": 0.5,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 1.0,
+      "calcium": 44.0,
+      "potassium": 367,
+      "zinc": 0.28,
+      "iron": 0.95,
+      "magnesium": 56.0,
+      "phosphorus": 168,
+      "sodium": 1.0,
+      "vitamin_c": 0.0,
+      "folate": 28.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, pumpkin and squash seed kernels, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 559,
+    "protein": 30.2,
+    "carbs": 10.7,
+    "fat": 49.0,
+    "fiber": 6.0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 1.9,
+      "folate": 58.0,
+      "vitamin_b12": 0.0,
+      "vitamin_a": 1.0,
+      "iron": 8.82,
+      "magnesium": 592,
+      "phosphorus": 1230.0,
+      "sodium": 7.0,
+      "calcium": 46.0,
+      "potassium": 809,
+      "zinc": 7.81,
+      "selenium": 9.4
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, pumpkin and squash seed kernels, roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 574,
+    "protein": 29.8,
+    "carbs": 14.7,
+    "fat": 49.0,
+    "fiber": 6.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 8.07,
+      "magnesium": 550,
+      "phosphorus": 1170.0,
+      "sodium": 256,
+      "calcium": 52.0,
+      "potassium": 788,
+      "zinc": 7.64,
+      "selenium": 9.4,
+      "folate": 57.0,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 1.8
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, pumpkin and squash seed kernels, roasted, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 574,
+    "protein": 29.8,
+    "carbs": 14.7,
+    "fat": 49.0,
+    "fiber": 6.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 8.07,
+      "magnesium": 550,
+      "phosphorus": 1170.0,
+      "sodium": 18.0,
+      "calcium": 52.0,
+      "potassium": 788,
+      "zinc": 7.64,
+      "selenium": 9.4,
+      "folate": 57.0,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 1.8
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, pumpkin and squash seeds, whole, roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 446,
+    "protein": 18.6,
+    "carbs": 53.8,
+    "fat": 19.4,
+    "fiber": 18.4,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "sodium": 2540.0,
+      "iron": 3.31,
+      "magnesium": 262,
+      "phosphorus": 92.0,
+      "vitamin_c": 0.3,
+      "folate": 9.0,
+      "vitamin_b12": 0.0,
+      "calcium": 55.0,
+      "potassium": 919,
+      "zinc": 10.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, pumpkin and squash seeds, whole, roasted, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 446,
+    "protein": 18.6,
+    "carbs": 53.8,
+    "fat": 19.4,
+    "fiber": 18.4,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "iron": 3.31,
+      "magnesium": 262,
+      "phosphorus": 92.0,
+      "sodium": 18.0,
+      "vitamin_c": 0.3,
+      "folate": 9.0,
+      "vitamin_b12": 0.0,
+      "calcium": 55.0,
+      "potassium": 919,
+      "zinc": 10.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, safflower seed kernels, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 517,
+    "protein": 16.2,
+    "carbs": 34.3,
+    "fat": 38.4,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "vitamin_c": 0.0,
+      "folate": 160,
+      "vitamin_b12": 0.0,
+      "iron": 4.9,
+      "magnesium": 353,
+      "phosphorus": 644,
+      "sodium": 3.0,
+      "calcium": 78.0,
+      "potassium": 687,
+      "zinc": 5.05
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, safflower seed meal, partially defatted",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 342,
+    "protein": 35.6,
+    "carbs": 48.7,
+    "fat": 2.4,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 2.0,
+      "calcium": 77.0,
+      "potassium": 68.0,
+      "zinc": 5.01,
+      "iron": 4.86,
+      "magnesium": 350,
+      "phosphorus": 638,
+      "sodium": 3.0,
+      "vitamin_c": 0.0,
+      "folate": 159,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame butter, paste",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 586,
+    "protein": 18.1,
+    "carbs": 24.0,
+    "fat": 50.9,
+    "fiber": 5.5,
+    "micros": {
+      "selenium": 35.5,
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "calcium": 960,
+      "potassium": 582,
+      "zinc": 7.29,
+      "iron": 19.2,
+      "magnesium": 362,
+      "phosphorus": 659,
+      "sodium": 12.0,
+      "vitamin_c": 0.0,
+      "folate": 100,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sesame butter, tahini, from raw and stone ground kernels",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 570,
+    "protein": 17.8,
+    "carbs": 26.2,
+    "fat": 48.0,
+    "fiber": 9.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "iron": 2.51,
+      "magnesium": 96.0,
+      "phosphorus": 752,
+      "sodium": 74.0,
+      "vitamin_c": 0.0,
+      "folate": 98.0,
+      "vitamin_b12": 0.0,
+      "calcium": 420,
+      "potassium": 414,
+      "zinc": 4.64
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 595,
+    "protein": 17.0,
+    "carbs": 21.2,
+    "fat": 53.8,
+    "fiber": 9.3,
+    "micros": {
+      "selenium": 34.4,
+      "vitamin_a": 3.0,
+      "vitamin_d": 0.0,
+      "calcium": 426,
+      "potassium": 414,
+      "zinc": 4.62,
+      "vitamin_c": 0.0,
+      "folate": 98.0,
+      "vitamin_b12": 0.0,
+      "iron": 8.95,
+      "magnesium": 95.0,
+      "phosphorus": 732,
+      "sodium": 115
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 607,
+    "protein": 18.0,
+    "carbs": 17.9,
+    "fat": 56.4,
+    "fiber": 9.3,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "calcium": 141,
+      "potassium": 459,
+      "zinc": 10.4,
+      "iron": 6.35,
+      "magnesium": 353,
+      "phosphorus": 790,
+      "sodium": 1.0,
+      "vitamin_c": 0.0,
+      "folate": 98.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sesame butter, tahini, type of kernels unspecified",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 592,
+    "protein": 17.4,
+    "carbs": 21.5,
+    "fat": 53.0,
+    "fiber": 4.7,
+    "micros": {
+      "selenium": 34.4,
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "vitamin_c": 4.2,
+      "folate": 98.0,
+      "vitamin_b12": 0.0,
+      "iron": 4.42,
+      "magnesium": 95.0,
+      "phosphorus": 790,
+      "sodium": 35.0,
+      "calcium": 141,
+      "potassium": 459,
+      "zinc": 4.62
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sesame flour, high-fat",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 526,
+    "protein": 30.8,
+    "carbs": 26.6,
+    "fat": 37.1,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "iron": 15.2,
+      "magnesium": 361,
+      "phosphorus": 807,
+      "sodium": 41.0,
+      "vitamin_c": 0.0,
+      "folate": 31.0,
+      "vitamin_b12": 0.0,
+      "calcium": 159,
+      "potassium": 423,
+      "zinc": 10.7
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame flour, low-fat",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 333,
+    "protein": 50.1,
+    "carbs": 35.5,
+    "fat": 1.8,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "iron": 14.2,
+      "magnesium": 338,
+      "phosphorus": 757,
+      "sodium": 39.0,
+      "vitamin_c": 0.0,
+      "folate": 29.0,
+      "vitamin_b12": 0.0,
+      "calcium": 149,
+      "potassium": 397,
+      "zinc": 10.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame flour, partially defatted",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 382,
+    "protein": 40.3,
+    "carbs": 35.1,
+    "fat": 11.9,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "calcium": 150,
+      "potassium": 425,
+      "zinc": 10.7,
+      "iron": 14.3,
+      "magnesium": 362,
+      "phosphorus": 810,
+      "sodium": 41.0,
+      "vitamin_c": 0.0,
+      "folate": 29.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame meal, partially defatted",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 567,
+    "protein": 17.0,
+    "carbs": 26.0,
+    "fat": 48.0,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "calcium": 153,
+      "potassium": 406,
+      "zinc": 10.2,
+      "vitamin_c": 0.0,
+      "folate": 30.0,
+      "vitamin_b12": 0.0,
+      "iron": 14.6,
+      "magnesium": 346,
+      "phosphorus": 774,
+      "sodium": 39.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame seed kernels, dried (decorticated)",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 631,
+    "protein": 20.4,
+    "carbs": 11.7,
+    "fat": 61.2,
+    "fiber": 11.6,
+    "micros": {
+      "calcium": 60.0,
+      "potassium": 370,
+      "zinc": 6.73,
+      "iron": 6.36,
+      "magnesium": 345,
+      "phosphorus": 667,
+      "sodium": 47.0,
+      "folate": 115,
+      "vitamin_d": 0.0,
+      "vitamin_a": 3.0,
+      "selenium": 34.4,
+      "vitamin_c": 0.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame seed kernels, toasted, with salt added (decorticated)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 567,
+    "protein": 17.0,
+    "carbs": 26.0,
+    "fat": 48.0,
+    "fiber": 16.9,
+    "micros": {
+      "vitamin_a": 3.0,
+      "vitamin_d": 0.0,
+      "selenium": 34.4,
+      "vitamin_c": 0.0,
+      "folate": 96.0,
+      "vitamin_b12": 0.0,
+      "iron": 7.78,
+      "magnesium": 346,
+      "phosphorus": 774,
+      "sodium": 588,
+      "calcium": 131,
+      "potassium": 406,
+      "zinc": 10.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame seed kernels, toasted, without salt added (decorticated)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 567,
+    "protein": 17.0,
+    "carbs": 26.0,
+    "fat": 48.0,
+    "fiber": 16.9,
+    "micros": {
+      "vitamin_a": 3.0,
+      "vitamin_d": 0.0,
+      "selenium": 34.4,
+      "iron": 7.78,
+      "magnesium": 346,
+      "phosphorus": 774,
+      "sodium": 39.0,
+      "vitamin_c": 0.0,
+      "folate": 96.0,
+      "vitamin_b12": 0.0,
+      "calcium": 131,
+      "potassium": 406,
+      "zinc": 10.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame seeds, whole, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 573,
+    "protein": 17.7,
+    "carbs": 23.4,
+    "fat": 49.7,
+    "fiber": 11.8,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "selenium": 34.4,
+      "iron": 14.6,
+      "magnesium": 351,
+      "phosphorus": 629,
+      "sodium": 11.0,
+      "vitamin_c": 0.0,
+      "folate": 97.0,
+      "vitamin_b12": 0.0,
+      "calcium": 975,
+      "potassium": 468,
+      "zinc": 7.75
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sesame seeds, whole, roasted and toasted",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 565,
+    "protein": 17.0,
+    "carbs": 25.7,
+    "fat": 48.0,
+    "fiber": 14.0,
+    "micros": {
+      "selenium": 34.4,
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 989,
+      "potassium": 475,
+      "zinc": 7.16,
+      "iron": 14.8,
+      "magnesium": 356,
+      "phosphorus": 638,
+      "sodium": 11.0,
+      "vitamin_c": 0.0,
+      "folate": 98.0,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sisymbrium sp. seeds, whole, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 318,
+    "protein": 12.1,
+    "carbs": 58.3,
+    "fat": 4.6,
+    "fiber": 0,
+    "micros": {
+      "vitamin_a": 3.0,
+      "calcium": 1630.0,
+      "potassium": 2130.0,
+      "zinc": 0.3,
+      "vitamin_c": 30.7,
+      "folate": 95.0,
+      "vitamin_b12": 0.0,
+      "iron": 0.11,
+      "magnesium": 314,
+      "phosphorus": 6.0,
+      "sodium": 92.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed butter, with salt added (Includes foods for USDA's Food Distribution Program)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 617,
+    "protein": 17.3,
+    "carbs": 23.3,
+    "fat": 55.2,
+    "fiber": 5.7,
+    "micros": {
+      "iron": 4.12,
+      "magnesium": 311,
+      "phosphorus": 666,
+      "sodium": 331,
+      "calcium": 64.0,
+      "potassium": 576,
+      "zinc": 4.89,
+      "selenium": 104,
+      "vitamin_d": 0.0,
+      "folate": 237,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 2.7
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sunflower seed butter, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 617,
+    "protein": 17.3,
+    "carbs": 23.3,
+    "fat": 55.2,
+    "fiber": 5.7,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 4.12,
+      "magnesium": 311,
+      "phosphorus": 666,
+      "sodium": 3.0,
+      "calcium": 64.0,
+      "potassium": 576,
+      "zinc": 4.89,
+      "selenium": 104,
+      "vitamin_c": 2.7,
+      "folate": 237,
+      "vitamin_b12": 0.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ]
+  },
+  {
+    "name": "Seeds, sunflower seed flour, partially defatted",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 326,
+    "protein": 48.1,
+    "carbs": 35.8,
+    "fat": 1.6,
+    "fiber": 5.2,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 2.0,
+      "iron": 6.62,
+      "magnesium": 346,
+      "phosphorus": 689,
+      "sodium": 3.0,
+      "vitamin_c": 1.3,
+      "folate": 222,
+      "vitamin_b12": 0.0,
+      "calcium": 114,
+      "potassium": 67.0,
+      "zinc": 4.95,
+      "selenium": 58.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels from shell, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 546,
+    "protein": 19.3,
+    "carbs": 15.3,
+    "fat": 49.8,
+    "fiber": 9.0,
+    "micros": {
+      "iron": 3.8,
+      "magnesium": 129,
+      "phosphorus": 1160.0,
+      "sodium": 6010.0,
+      "vitamin_a": 0.0,
+      "vitamin_d": 0.0,
+      "vitamin_c": 1.4,
+      "folate": 237,
+      "vitamin_b12": 0.0,
+      "calcium": 70.0,
+      "potassium": 850,
+      "zinc": 5.29,
+      "selenium": 79.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 584,
+    "protein": 20.8,
+    "carbs": 20.0,
+    "fat": 51.5,
+    "fiber": 8.6,
+    "micros": {
+      "vitamin_d": 0.0,
+      "iron": 5.25,
+      "magnesium": 325,
+      "phosphorus": 660,
+      "sodium": 9.0,
+      "calcium": 78.0,
+      "potassium": 645,
+      "zinc": 5.0,
+      "selenium": 53.0,
+      "folate": 227,
+      "vitamin_b12": 0.0,
+      "vitamin_c": 1.4,
+      "vitamin_a": 3.0
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 612,
+    "protein": 21.0,
+    "carbs": 17.1,
+    "fat": 56.1,
+    "fiber": 10.3,
+    "micros": {
+      "vitamin_a": 1.0,
+      "sodium": 532,
+      "calcium": 78.0,
+      "potassium": 689,
+      "zinc": 6.0,
+      "folate": 169,
+      "vitamin_c": 0.0,
+      "iron": 5.21,
+      "magnesium": 358,
+      "phosphorus": 750,
+      "selenium": 80.4
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, dry roasted, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 582,
+    "protein": 19.3,
+    "carbs": 24.1,
+    "fat": 49.8,
+    "fiber": 11.1,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "vitamin_c": 1.4,
+      "folate": 237,
+      "vitamin_b12": 0.0,
+      "iron": 3.8,
+      "magnesium": 129,
+      "phosphorus": 1160.0,
+      "sodium": 3.0,
+      "calcium": 70.0,
+      "potassium": 850,
+      "zinc": 5.29,
+      "selenium": 79.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, oil roasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 592,
+    "protein": 20.1,
+    "carbs": 22.9,
+    "fat": 51.3,
+    "fiber": 10.6,
+    "micros": {
+      "selenium": 78.2,
+      "vitamin_c": 1.1,
+      "vitamin_a": 0.0,
+      "iron": 4.28,
+      "calcium": 87.0,
+      "vitamin_d": 0.0,
+      "sodium": 303,
+      "magnesium": 127,
+      "phosphorus": 1140.0,
+      "folate": 234,
+      "vitamin_b12": 0.0,
+      "potassium": 483,
+      "zinc": 5.21
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, oil roasted, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g_cooked",
+    "serving_label": "per 100g cooked",
+    "cal": 592,
+    "protein": 20.1,
+    "carbs": 22.9,
+    "fat": 51.3,
+    "fiber": 10.6,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_c": 1.1,
+      "iron": 4.28,
+      "vitamin_a": 0.0,
+      "calcium": 87.0,
+      "potassium": 483,
+      "zinc": 5.21,
+      "magnesium": 127,
+      "phosphorus": 1140.0,
+      "sodium": 3.0,
+      "folate": 234,
+      "vitamin_b12": 0.0,
+      "selenium": 78.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, toasted, with salt added",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 619,
+    "protein": 17.2,
+    "carbs": 20.6,
+    "fat": 56.8,
+    "fiber": 11.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "calcium": 57.0,
+      "potassium": 491,
+      "zinc": 5.3,
+      "iron": 6.81,
+      "magnesium": 129,
+      "phosphorus": 1160.0,
+      "sodium": 613,
+      "vitamin_c": 1.4,
+      "folate": 238,
+      "vitamin_b12": 0.0,
+      "selenium": 62.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, sunflower seed kernels, toasted, without salt",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 619,
+    "protein": 17.2,
+    "carbs": 20.6,
+    "fat": 56.8,
+    "fiber": 11.5,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "vitamin_c": 1.4,
+      "folate": 238,
+      "vitamin_b12": 0.0,
+      "iron": 6.81,
+      "magnesium": 129,
+      "phosphorus": 1160.0,
+      "sodium": 3.0,
+      "calcium": 57.0,
+      "potassium": 491,
+      "zinc": 5.3
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Seeds, watermelon seed kernels, dried",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 557,
+    "protein": 28.3,
+    "carbs": 15.3,
+    "fat": 47.4,
+    "fiber": 0,
+    "micros": {
+      "vitamin_d": 0.0,
+      "vitamin_a": 0.0,
+      "iron": 7.28,
+      "magnesium": 515,
+      "phosphorus": 755,
+      "sodium": 99.0,
+      "vitamin_c": 0.0,
+      "folate": 58.0,
+      "vitamin_b12": 0.0,
+      "calcium": 54.0,
+      "potassium": 648,
+      "zinc": 10.2
+    },
+    "sub_group": "nuts_seeds",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": []
+  }
+]

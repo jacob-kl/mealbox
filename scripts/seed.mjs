@@ -59,13 +59,33 @@ const supabase = createClient(SUPABASE_URL, SERVICE_ROLE_KEY, {
 });
 
 async function seedIngredients() {
-  const raw = await readFile(path.join(SEED_DIR, 'ingredients.json'), 'utf-8');
-  const ingredients = JSON.parse(raw);
+  const ingredientsDir = path.join(SEED_DIR, 'ingredients');
+  const files = (await readdir(ingredientsDir)).filter((f) => f.endsWith('.json'));
+
+  const ingredients = [];
+  const seenNames = new Set();
+  for (const file of files) {
+    const raw = await readFile(path.join(ingredientsDir, file), 'utf-8');
+    const batch = JSON.parse(raw);
+    let fileCount = 0;
+    for (const ing of batch) {
+      // Same name in two files would upsert twice in one batch and silently
+      // let the second write win - catch that here instead, at seed time,
+      // rather than as a mystery later.
+      if (seenNames.has(ing.name)) {
+        throw new Error(`Duplicate ingredient name "${ing.name}" (seen again in ${file})`);
+      }
+      seenNames.add(ing.name);
+      ingredients.push(ing);
+      fileCount++;
+    }
+    console.log(`  ${file}: ${fileCount} ingredients`);
+  }
 
   const { error } = await supabase.from('ingredients').upsert(ingredients, { onConflict: 'name' });
   if (error) throw new Error(`Seeding ingredients failed: ${error.message}`);
 
-  console.log(`Seeded ${ingredients.length} ingredients.`);
+  console.log(`Seeded ${ingredients.length} ingredients from ${files.length} files.`);
   return ingredients;
 }
 
