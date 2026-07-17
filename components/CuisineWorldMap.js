@@ -60,6 +60,7 @@ const GROUP_COLORS = {
   german: '#D4A83E',
   argentinian: '#5B8DD9',
   hawaiian: '#E0757A',
+  'central-american': '#8B6F47',
 };
 
 /**

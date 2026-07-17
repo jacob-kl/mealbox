@@ -37,6 +37,13 @@ const COUNTRY_GROUPS = {
   'The Bahamas': { group: 'caribbean', cuisines: ['caribbean'] },
   Haiti: { group: 'caribbean', cuisines: ['caribbean'] },
   'Puerto Rico': { group: 'caribbean', cuisines: ['caribbean'] },
+  // Mainland Caribbean-coast countries - grouped with the islands rather
+  // than off on their own, given the shared coastal/Caribbean culinary
+  // influence (plantains, seafood, similar spice profiles).
+  Colombia: { group: 'caribbean', cuisines: ['caribbean'] },
+  Venezuela: { group: 'caribbean', cuisines: ['caribbean'] },
+  Guyana: { group: 'caribbean', cuisines: ['caribbean'] },
+  Suriname: { group: 'caribbean', cuisines: ['caribbean'] },
   // Mediterranean cluster
   Greece: { group: 'mediterranean', cuisines: ['mediterranean'] },
   Croatia: { group: 'mediterranean', cuisines: ['mediterranean'] },
@@ -116,10 +123,24 @@ const COUNTRY_GROUPS = {
   // Single-country cuisines added later
   Mongolia: { group: 'mongolian', cuisines: ['mongolian'] },
   Peru: { group: 'peruvian', cuisines: ['peruvian'] },
+  Bolivia: { group: 'peruvian', cuisines: ['peruvian'] },
+  Ecuador: { group: 'peruvian', cuisines: ['peruvian'] },
   Brazil: { group: 'brazilian', cuisines: ['brazilian'] },
   Russia: { group: 'russian', cuisines: ['russian'] },
   Germany: { group: 'german', cuisines: ['german'] },
   Argentina: { group: 'argentinian', cuisines: ['argentinian'] },
+  Chile: { group: 'argentinian', cuisines: ['argentinian'] },
+  Uruguay: { group: 'argentinian', cuisines: ['argentinian'] },
+  Paraguay: { group: 'argentinian', cuisines: ['argentinian'] },
+  // Central America - distinct enough from Mexican cuisine (and from each
+  // other) to get its own cluster rather than folding into 'mexican'.
+  Guatemala: { group: 'central-american', cuisines: ['central-american'] },
+  Belize: { group: 'central-american', cuisines: ['central-american'] },
+  Honduras: { group: 'central-american', cuisines: ['central-american'] },
+  'El Salvador': { group: 'central-american', cuisines: ['central-american'] },
+  Nicaragua: { group: 'central-american', cuisines: ['central-american'] },
+  'Costa Rica': { group: 'central-american', cuisines: ['central-american'] },
+  Panama: { group: 'central-american', cuisines: ['central-american'] },
 };
 
 // United States: every state belongs to one of three groups now - New
