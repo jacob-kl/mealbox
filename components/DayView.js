@@ -466,7 +466,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                   className="w-full border border-line rounded-card px-3 py-2 bg-card text-sm outline-none focus:border-pine"
                 />
                 {suggestions.length > 0 && (
-                  <div className="absolute z-10 left-0 right-0 mt-1 index-card p-1 max-h-56 overflow-y-auto overscroll-contain">
+                  <div className="absolute z-10 left-0 right-0 mt-1 index-card p-1 max-h-56 !overflow-y-auto overscroll-contain">
                     {suggestions.map((s) => (
                       <button
                         key={s.key}

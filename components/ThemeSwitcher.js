@@ -102,7 +102,7 @@ export default function ThemeSwitcher() {
       {open && (
         <div className="fixed inset-0 z-20" onClick={() => setOpen(false)}>
           <div
-            className="absolute right-4 top-16 index-card p-2 w-52 max-h-[70vh] overflow-y-auto"
+            className="absolute right-4 top-16 index-card p-2 w-52 max-h-[70vh] !overflow-y-auto"
             onClick={(e) => e.stopPropagation()}
           >
             {THEMES.map((t) => (
