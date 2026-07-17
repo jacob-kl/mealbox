@@ -208,7 +208,7 @@ for (const ring of usFeature.geometry.coordinates) {
 // negligible and the result is visually indistinguishable from scaling
 // the projected shape directly. Tune this constant if it still feels too
 // small/large.
-const HAWAII_SCALE = 1.6;
+const HAWAII_SCALE = 3.2;
 function scalePolygonsAroundCentroid(polygons, factor) {
   let sx = 0, sy = 0, n = 0;
   for (const poly of polygons) {

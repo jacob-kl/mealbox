@@ -92,16 +92,31 @@ src_w, src_h = src_maxx - src_minx, src_maxy - src_miny
 # d3-geo/world-atlas data - see generate-map-data.mjs's continentalBounds).
 TARGET = {'x': 170.54438866057626, 'y': 91.84865549544398, 'w': 146.4816216708424, 'h': 75.76606708166946}
 
-scale = min(TARGET['w'] / src_w, TARGET['h'] / src_h)
-scaled_w, scaled_h = src_w * scale, src_h * scale
-offset_x = TARGET['x'] + (TARGET['w'] - scaled_w) / 2
-offset_y = TARGET['y'] + (TARGET['h'] - scaled_h) / 2
+# This source is a stylized "blank map" template (built for a coloring/quiz
+# use case, see its own CSS comments), not precise GIS data - its aggregate
+# bbox aspect ratio (~1.59 w/h) doesn't match the real continental US's
+# (~1.93 w/h, per TARGET). Scaling uniformly-and-centering (the first
+# approach here) preserved each state's individual shape but left leftover
+# margin on one axis; centering that margin shifted the WHOLE US block
+# sideways relative to Canada/Mexico, which come from the accurate
+# world-atlas data and don't share this source's distortion - the entire
+# country rendered correctly-shaped internally but visibly displaced from
+# its neighbors. Scaling X and Y independently to exactly fill TARGET
+# removes that margin entirely, so the block's edges land exactly where
+# Canada/Mexico expect them. It does add a mild (~20%) width-vs-height
+# stretch on top of the source's own stylization, which is an acceptable
+# trade at this map's scale - correct position against its neighbors matters
+# far more here than sub-degree shape fidelity.
+scale_x = TARGET['w'] / src_w
+scale_y = TARGET['h'] / src_h
+offset_x = TARGET['x']
+offset_y = TARGET['y']
 
-print(f'Source bbox: {src_w:.1f} x {src_h:.1f}  ->  scale={scale:.4f}  ->  scaled: {scaled_w:.1f} x {scaled_h:.1f}')
+print(f'Source bbox: {src_w:.1f} x {src_h:.1f}  ->  scale_x={scale_x:.4f} scale_y={scale_y:.4f}')
 print(f'States resolved: {len(raw)} / {len(STATE_ABBR) - len(EXCLUDE)}')
 
 matrix = Matrix.translate(-src_minx, -src_miny)
-matrix *= Matrix.scale(scale, scale)
+matrix *= Matrix.scale(scale_x, scale_y)
 matrix *= Matrix.translate(offset_x, offset_y)
 
 output = {}
