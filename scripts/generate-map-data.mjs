@@ -280,6 +280,165 @@ const usProjection = geoAlbersUsa().fitSize(
 );
 const usPathGen = geoPath(usProjection);
 
+// The precise-states source is a stylized "blank map" template, not GIS
+// data (see extract-us-states.py) - its aggregate bbox is fit to line up
+// with the target box, but the actual shape of its outer edge can still
+// drift from the real border in between, since a global scale+translate
+// can only guarantee alignment at the bbox's extremes, not along the whole
+// curve. Measured up to ~5.5 units of gap for Idaho/Montana/North
+// Dakota/Minnesota even after the bbox fit.
+//
+// First attempt here was a generic "snap any vertex within threshold to
+// the nearest point on Canada's full border" - too broad. Canada's border
+// includes both shores of the Great Lakes, so states across a lake from
+// Ontario (Wisconsin from across Lake Superior, plus Michigan/Ohio/
+// Illinois/Indiana/Pennsylvania near Erie/Huron/Michigan) registered as
+// "close to Canada" too, and got pulled toward the wrong shore - it
+// snapped 1437 vertices when only a few dozen, on four specific states,
+// actually needed it. Wisconsin in particular doesn't border Canada at
+// all (Lake Superior is between them); its measured "gap" was the correct
+// natural distance, not a bug.
+//
+// The part of the border that's actually broken is simpler than "Canada's
+// border" in general: WA/ID/MT/ND/MN's shared border with Canada is,
+// by treaty, a straight run along the 49th parallel. So instead of
+// matching against Canada's messy full polygon, project that known
+// reference line directly and snap only those four states' northernmost
+// vertices onto it. Nothing else - not Wisconsin, not any Great-Lakes
+// shoreline - is close to a pure lat=49 line, so nothing else can
+// accidentally match.
+// Minimal M/L/Z (absolute or relative) path <-> polygon-array conversion -
+// matches the simple polyline output these precise-state paths use.
+function dToPolygons(d) {
+  const tokens = d.match(/[MmLlZz]|-?\d*\.?\d+(?:e-?\d+)?/g) || [];
+  let i = 0;
+  let cur = [0, 0];
+  const polygons = [];
+  let ring = null;
+  while (i < tokens.length) {
+    const t = tokens[i];
+    if (t === 'M' || t === 'm') {
+      if (ring?.length) polygons.push(ring);
+      ring = [];
+      i++;
+      const x = parseFloat(tokens[i++]);
+      const y = parseFloat(tokens[i++]);
+      cur = t === 'm' ? [cur[0] + x, cur[1] + y] : [x, y];
+      ring.push([...cur]);
+    } else if (t === 'L' || t === 'l') {
+      i++;
+      const x = parseFloat(tokens[i++]);
+      const y = parseFloat(tokens[i++]);
+      cur = t === 'l' ? [cur[0] + x, cur[1] + y] : [x, y];
+      ring.push([...cur]);
+    } else if (t === 'Z' || t === 'z') {
+      i++;
+      if (ring?.length) ring.push([...ring[0]]);
+    } else {
+      i++;
+    }
+  }
+  if (ring?.length) polygons.push(ring);
+  return polygons;
+}
+function polygonsToD(polygons) {
+  return polygons
+    .map((ring) => {
+      const [first, ...rest] = ring;
+      return `M${first[0]},${first[1]}` + rest.map(([x, y]) => `L${x},${y}`).join('');
+    })
+    .join('');
+}
+// The part of the border that's actually broken is simpler than "Canada's
+// border" in general: WA/ID/MT/ND/MN's shared border with Canada is,
+// by treaty, a straight run along the 49th parallel. In this projection a
+// line of latitude projects to an exactly horizontal line (verified: y is
+// constant across the whole relevant longitude range), which makes the
+// fix simple and safe - snap each qualifying vertex's Y straight onto that
+// line, X untouched. An earlier attempt did a full 2D nearest-point snap
+// (against Canada's whole polygon, then against this line); both could
+// reorder vertices relative to their neighbors and produce a
+// self-intersecting polygon. Only moving Y, never X, can't reorder
+// anything, so it can't self-intersect.
+const FORTY_NINTH_PARALLEL_Y = 93.0298480876821; // projection([any lon in range, 49])[1]
+// Only these four measured a real gap (see the shapely check this was
+// developed against). Washington's border also touches lat=49, but winds
+// through the San Juan Islands/Strait of Georgia rather than running
+// straight, and it already measured zero gap - snapping it to this
+// straight-line approximation would flatten real, already-correct detail
+// rather than fix anything. Wisconsin and everyone further east meet
+// Canada across the Great Lakes or a different segment, not this line.
+const FORTY_NINTH_PARALLEL_STATES = new Set(['Idaho', 'Montana', 'North Dakota', 'Minnesota']);
+const SNAP_THRESHOLD = 8; // units in the 960x500 space - comfortably above the ~5.5 measured gap
+
+// A naive "snap every vertex within threshold" was tried first and broke:
+// near a state's corner with a neighbor, the boundary heads away from the
+// line again (south, toward the next state), and those vertices can also
+// be within threshold - flattening them to the same Y as the true border
+// vertices collapses the Y-separation that kept the polygon simple, and
+// any small X-wiggle along the way (there's always some, even a couple of
+// units) turns into a self-intersection once everything shares one Y.
+// Minnesota's stretch is worse: its closest approach to Canada sits inside
+// a long, genuinely jagged run (the Lake of the Woods/Northwest Angle
+// detail), where flattening the whole thing would both self-intersect
+// and erase real, correct geography.
+//
+// Fix: per ring, start at its single closest point to the line, then grow
+// the snap set outward one vertex at a time in each direction, but only
+// while the vertex is within threshold AND its x keeps moving the same
+// way the run has been going. The moment either fails - threshold
+// exceeded, or x reverses - stop extending in that direction. A run
+// selected this way is x-monotonic by construction, so flattening it to
+// one y can never fold back over itself; it also naturally halts right
+// at a corner or a wiggly patch instead of ploughing through it.
+function snapRingToParallel(ring, targetY, threshold) {
+  const n = ring.length;
+  if (n < 3) return { ring, snapped: 0 };
+  const dist = ring.map(([, y]) => Math.abs(y - targetY));
+  let seedIdx = 0;
+  for (let i = 1; i < n; i++) if (dist[i] < dist[seedIdx]) seedIdx = i;
+  if (dist[seedIdx] >= threshold) return { ring, snapped: 0 };
+
+  const include = new Set([seedIdx]);
+  for (const step of [1, -1]) {
+    let prevX = ring[seedIdx][0];
+    let dir = null;
+    let i = (seedIdx + step + n) % n;
+    while (i !== seedIdx) {
+      const [x] = ring[i];
+      if (dist[i] >= threshold) break;
+      if (x !== prevX) {
+        const stepDir = x > prevX ? 1 : -1;
+        if (dir === null) dir = stepDir;
+        else if (stepDir !== dir) break;
+      }
+      include.add(i);
+      prevX = x;
+      i = (i + step + n) % n;
+    }
+  }
+  let snapped = 0;
+  const newRing = ring.map(([x, y], idx) => {
+    if (include.has(idx)) {
+      snapped++;
+      return [x, targetY];
+    }
+    return [x, y];
+  });
+  return { ring: newRing, snapped };
+}
+function snapToFortyNinthParallel(d, name) {
+  if (!FORTY_NINTH_PARALLEL_STATES.has(name)) return { d, snapped: 0 };
+  const polygons = dToPolygons(d);
+  let snapped = 0;
+  const out = polygons.map((ring) => {
+    const result = snapRingToParallel(ring, FORTY_NINTH_PARALLEL_Y, SNAP_THRESHOLD);
+    snapped += result.snapped;
+    return result.ring;
+  });
+  return { d: polygonsToD(out), snapped };
+}
+
 // Precise, real state boundaries sourced from a clean, properly-labeled
 // blank US states map (see scripts/extract-us-states.py) - already
 // pre-aligned into this exact 960x500 world coordinate space, no further
@@ -312,19 +471,24 @@ try {
 }
 
 let preciseCount = 0;
+let totalSnapped = 0;
 for (const f of usStatesGeo) {
   const name = f.properties.name;
   if (name === 'Alaska' || name === 'Hawaii') continue; // already added above in true position
   const abbr = NAME_TO_ABBR[name];
   const precisePaths = abbr && preciseStates[abbr];
 
+
   if (precisePaths?.length) {
     preciseCount++;
     for (let i = 0; i < precisePaths.length; i++) {
+      const { d: snappedD, snapped } = snapToFortyNinthParallel(precisePaths[i], name);
+      totalSnapped += snapped;
+      if (snapped) console.log(`    ${name}${i > 0 ? ` (part ${i})` : ''}: ${snapped} vertices snapped to the 49th parallel`);
       shapes.push({
         id: `state-${f.id}${i > 0 ? `-${i}` : ''}`,
         name,
-        d: precisePaths[i],
+        d: snappedD,
         // already aligned to final world coordinates - no translate needed
         groups: usGroupsFor(name),
         cuisines: usCuisinesFor(name),
@@ -361,4 +525,5 @@ export const MAP_SHAPES = ${JSON.stringify(shapes)};
 fs.writeFileSync('lib/mapShapes.js', output);
 console.log(`Generated ${shapes.length} shapes (${worldCountryCount} countries, ${usStatesGeo.length} US states) -> lib/mapShapes.js`);
 console.log(`  ${preciseCount} states from the precise source, ${usStatesGeo.length - preciseCount} from geoAlbersUsa fallback`);
+console.log(`  ${totalSnapped} vertices snapped onto the 49th parallel (WA/ID/MT/ND/MN border with Canada)`);
 console.log('Unclaimed countries (gray, not clickable):', worldGeo.features.filter((f) => f.properties.name !== 'United States of America' && !COUNTRY_GROUPS[f.properties.name]).length);
