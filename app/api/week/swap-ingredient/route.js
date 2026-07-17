@@ -43,13 +43,6 @@ export async function POST(request) {
     return NextResponse.json({ error: 'Not found' }, { status: 404 });
   }
 
-  const { data: ingredientRows } = await supabase.from('ingredients').select('*');
-  const ingredientsByName = Object.fromEntries((ingredientRows || []).map((i) => [i.name, i]));
-
-  if (!isRemoval && !ingredientsByName[newIngredient]) {
-    return NextResponse.json({ error: `"${newIngredient}" isn't in the ingredient database yet.` }, { status: 400 });
-  }
-
   // Quick and full are edited independently - each has its own ingredient
   // list, its own steps, and its own override columns. Work from whichever
   // one this request targets.
@@ -65,6 +58,25 @@ export async function POST(request) {
 
   if (!currentLines.length) {
     return NextResponse.json({ error: 'No ingredients found for this meal to edit.' }, { status: 400 });
+  }
+
+  // Only fetch ingredients this swap actually needs (the recipe's current
+  // lines, plus whatever's being swapped in) rather than the whole table -
+  // with ~58,000 rows now (after importing USDA's databases), an unbounded
+  // select silently caps at Supabase's default 1000-row limit, which could
+  // make a perfectly real ingredient look "not in the database" simply
+  // because it sorted past row 1000.
+  const neededNames = new Set(currentLines.map((l) => l.ingredient));
+  neededNames.add(oldIngredient);
+  if (newIngredient) neededNames.add(newIngredient);
+  const { data: ingredientRows } = await supabase
+    .from('ingredients')
+    .select('*')
+    .in('name', [...neededNames]);
+  const ingredientsByName = Object.fromEntries((ingredientRows || []).map((i) => [i.name, i]));
+
+  if (!isRemoval && !ingredientsByName[newIngredient]) {
+    return NextResponse.json({ error: `"${newIngredient}" isn't in the ingredient database yet.` }, { status: 400 });
   }
 
   const targetIndex = currentLines.findIndex((l) => l.ingredient === oldIngredient);

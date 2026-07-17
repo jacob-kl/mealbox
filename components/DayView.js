@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
@@ -75,8 +75,48 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
   const [customFat, setCustomFat] = useState('');
   const [scanNote, setScanNote] = useState(null);
   const [busy, setBusy] = useState(false);
+  // selectedBase: the per-serving macros + serving description of whatever
+  // suggestion was clicked, kept separate from the (possibly quantity-
+  // scaled) values in the Cal/Protein/Carbs/Fat inputs above, so changing
+  // the quantity can always recompute from the true per-serving numbers
+  // rather than compounding rounding on top of whatever's currently shown.
+  const [selectedBase, setSelectedBase] = useState(null);
+  const [quantity, setQuantity] = useState('1');
+  // Suggestions matching the current text are hidden once something's been
+  // picked - otherwise the just-selected name still matches itself and the
+  // dropdown immediately reopens with the same single item, looking like
+  // selecting it did nothing.
+  const [suggestionsDismissed, setSuggestionsDismissed] = useState(false);
+  const [ingredientResults, setIngredientResults] = useState([]);
+
+  // Ingredient search now happens server-side (see
+  // app/api/ingredients/search) - the table is far too large to ship to
+  // the client in full and search client-side any more. Recipes stay
+  // client-filtered since that catalog is a lot smaller.
+  useEffect(() => {
+    const q = customName.trim();
+    if (q.length < 2 || suggestionsDismissed) {
+      setIngredientResults([]);
+      return;
+    }
+    let cancelled = false;
+    const handle = setTimeout(async () => {
+      try {
+        const res = await fetch(`/api/ingredients/search?q=${encodeURIComponent(q)}`);
+        const json = await res.json();
+        if (!cancelled) setIngredientResults(json.ingredients || []);
+      } catch {
+        if (!cancelled) setIngredientResults([]);
+      }
+    }, 250);
+    return () => {
+      cancelled = true;
+      clearTimeout(handle);
+    };
+  }, [customName, suggestionsDismissed]);
 
   const suggestions = useMemo(() => {
+    if (suggestionsDismissed) return [];
     const q = customName.trim().toLowerCase();
     if (q.length < 2) return [];
     const recipeMatches = recipeCatalog
@@ -92,28 +132,39 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
         carbs: r.macros_per_serving?.carbs ?? 0,
         fat: r.macros_per_serving?.fat ?? 0,
       }));
-    const ingredientMatches = ingredientCatalog
-      .filter((i) => i.name.toLowerCase().includes(q))
-      .slice(0, 5)
-      .map((i) => ({
-        type: 'ingredient',
-        key: `i-${i.name}`,
-        name: i.name,
-        detail: i.serving_label || `per ${i.serving_qty}${i.serving_unit || ''}`,
-        cal: i.cal ?? 0,
-        protein: i.protein ?? 0,
-        carbs: i.carbs ?? 0,
-        fat: i.fat ?? 0,
-      }));
+    const ingredientMatches = ingredientResults.map((i) => ({
+      type: 'ingredient',
+      key: `i-${i.name}`,
+      name: i.name,
+      detail: i.serving_label || `per ${i.serving_qty}${i.serving_unit || ''}`,
+      cal: i.cal ?? 0,
+      protein: i.protein ?? 0,
+      carbs: i.carbs ?? 0,
+      fat: i.fat ?? 0,
+    }));
     return [...recipeMatches, ...ingredientMatches].slice(0, 8);
-  }, [customName, recipeCatalog, ingredientCatalog]);
+  }, [customName, recipeCatalog, ingredientResults, suggestionsDismissed]);
 
   function applySuggestion(s) {
     setCustomName(s.name);
+    setSelectedBase({ cal: s.cal, protein: s.protein, carbs: s.carbs, fat: s.fat, detail: s.detail });
+    setQuantity('1');
     setCustomCal(String(Math.round(s.cal)));
     setCustomProtein(String(Math.round(s.protein)));
     setCustomCarbs(String(Math.round(s.carbs)));
     setCustomFat(String(Math.round(s.fat)));
+    setSuggestionsDismissed(true);
+  }
+
+  function updateQuantity(raw) {
+    setQuantity(raw);
+    const q = parseFloat(raw);
+    if (selectedBase && Number.isFinite(q)) {
+      setCustomCal(String(Math.round(selectedBase.cal * q)));
+      setCustomProtein(String(Math.round(selectedBase.protein * q)));
+      setCustomCarbs(String(Math.round(selectedBase.carbs * q)));
+      setCustomFat(String(Math.round(selectedBase.fat * q)));
+    }
   }
 
   const loggedByMealId = useMemo(() => {
@@ -177,6 +228,9 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
     setCustomCarbs('');
     setCustomFat('');
     setScanNote(null);
+    setSelectedBase(null);
+    setQuantity('1');
+    setSuggestionsDismissed(false);
     setShowCustomForm(false);
     setBusy(false);
     router.refresh();
@@ -401,14 +455,18 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
               <div className="relative">
                 <input
                   value={customName}
-                  onChange={(e) => setCustomName(e.target.value)}
+                  onChange={(e) => {
+                    setCustomName(e.target.value);
+                    setSuggestionsDismissed(false);
+                    setSelectedBase(null);
+                  }}
                   placeholder="What did you eat? (start typing to search recipes & ingredients)"
                   required
                   autoComplete="off"
                   className="w-full border border-line rounded-card px-3 py-2 bg-card text-sm outline-none focus:border-pine"
                 />
                 {suggestions.length > 0 && (
-                  <div className="absolute z-10 left-0 right-0 mt-1 index-card p-1 max-h-56 overflow-y-auto">
+                  <div className="absolute z-10 left-0 right-0 mt-1 index-card p-1 max-h-56 overflow-y-auto overscroll-contain">
                     {suggestions.map((s) => (
                       <button
                         key={s.key}
@@ -426,6 +484,24 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                   </div>
                 )}
               </div>
+              {selectedBase && (
+                <div className="flex items-center gap-2 text-sm bg-paper rounded-card px-3 py-2">
+                  <span className="text-ink/60">Serving: {selectedBase.detail}</span>
+                  <span className="text-ink/40">·</span>
+                  <label className="flex items-center gap-1.5">
+                    <span className="text-ink/60">Servings had:</span>
+                    <input
+                      type="number"
+                      inputMode="decimal"
+                      step="any"
+                      min="0"
+                      value={quantity}
+                      onChange={(e) => updateQuantity(e.target.value)}
+                      className="w-16 border border-line rounded-card px-2 py-1 bg-card text-sm"
+                    />
+                  </label>
+                </div>
+              )}
               {scanNote && <p className="text-xs text-ink/70 bg-gold/15 rounded-card px-2 py-1">📷 {scanNote}</p>}
               <div className="grid grid-cols-4 gap-2">
                 <input

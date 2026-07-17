@@ -45,7 +45,21 @@ export async function POST(request) {
     .select('*')
     .or(`household_id.is.null,household_id.eq.${householdId}`);
 
-  const { data: ingredients } = await supabase.from('ingredients').select('*');
+  // Only fetch ingredients these specific recipes actually reference,
+  // rather than the whole table - with ~58,000 rows now (after importing
+  // USDA's databases), an unbounded select silently caps at Supabase's
+  // default 1000-row limit, which would quietly drop any ingredient
+  // sorting past that point rather than error, breaking macro math with
+  // no visible cause.
+  const neededNames = new Set();
+  for (const r of recipePool || []) {
+    for (const line of r.ingredients || []) neededNames.add(line.ingredient);
+    for (const line of r.ingredients_full || []) neededNames.add(line.ingredient);
+  }
+  const { data: ingredients } = await supabase
+    .from('ingredients')
+    .select('*')
+    .in('name', [...neededNames]);
   const ingredientsByName = Object.fromEntries((ingredients || []).map((i) => [i.name, i]));
 
   // Avoid repeating recipes used in the last 14 days.
