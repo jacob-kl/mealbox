@@ -195,7 +195,34 @@ for (const ring of usFeature.geometry.coordinates) {
   if (lon < -140 && lat > 45) alaskaRings.push(ring);
   else if (lon < -140 && lat < 30) hawaiiRings.push(ring);
 }
-for (const [label, rings] of [['Alaska', alaskaRings], ['Hawaii', hawaiiRings]]) {
+
+// Hawaii's true-position footprint is honest but tiny - a handful of small
+// islands read as a near-invisible speck at world-map scale, easy to miss
+// and hard to hover/click. Deliberately scale it up around its own
+// lon/lat centroid before projecting (a cosmetic exaggeration, same idea
+// as an inset on a conventional US map, just applied in place rather than
+// relocating it). Scaling pre-projection instead of post-projection is an
+// approximation - it's only exactly area-preserving-in-shape if the local
+// map scale is isotropic - but Hawaii's whole extent is a few degrees, well
+// away from any pole, so Natural-Earth-1 distortion across it is
+// negligible and the result is visually indistinguishable from scaling
+// the projected shape directly. Tune this constant if it still feels too
+// small/large.
+const HAWAII_SCALE = 1.6;
+function scalePolygonsAroundCentroid(polygons, factor) {
+  let sx = 0, sy = 0, n = 0;
+  for (const poly of polygons) {
+    for (const [x, y] of poly[0]) { sx += x; sy += y; n++; }
+  }
+  const cx = sx / n, cy = sy / n;
+  return polygons.map((poly) => poly.map((ring) => ring.map(([x, y]) => [
+    cx + (x - cx) * factor,
+    cy + (y - cy) * factor,
+  ])));
+}
+const hawaiiRingsScaled = scalePolygonsAroundCentroid(hawaiiRings, HAWAII_SCALE);
+
+for (const [label, rings] of [['Alaska', alaskaRings], ['Hawaii', hawaiiRingsScaled]]) {
   const f = { type: 'Feature', geometry: { type: 'MultiPolygon', coordinates: rings }, properties: {} };
   const d = path(f);
   if (!d) continue;
@@ -253,12 +280,18 @@ const usProjection = geoAlbersUsa().fitSize(
 );
 const usPathGen = geoPath(usProjection);
 
-// Precise, real state boundaries sourced from Wikimedia Commons (see
-// scripts/extract-wiki-states.py) for the 45 states it cleanly covers -
-// already pre-aligned into this exact 960x500 world coordinate space, no
-// further transform needed. Alaska and Hawaii were already added above in
-// their true position. The remaining 3 (Louisiana, Massachusetts,
-// Washington) fall back to geoAlbersUsa below.
+// Precise, real state boundaries sourced from a clean, properly-labeled
+// blank US states map (see scripts/extract-us-states.py) - already
+// pre-aligned into this exact 960x500 world coordinate space, no further
+// transform needed. Covers all 48 continental states + DC from ONE
+// consistent projection, so every border actually lines up with its
+// neighbor - no more the seams from the old two-source setup, where
+// Louisiana, Massachusetts, and Washington fell back to a geoAlbersUsa
+// projection that didn't align with the other 45 (Louisiana rendered
+// fully displaced into the Gulf; Washington was visibly rotated against
+// Oregon/Idaho). Alaska and Hawaii were already added above in their true
+// position. geoAlbersUsa below is now just a defensive fallback in case a
+// future source update ever drops a state.
 const NAME_TO_ABBR = {
   Alabama: 'AL', Alaska: 'AK', Arizona: 'AZ', Arkansas: 'AR', California: 'CA', Colorado: 'CO',
   Connecticut: 'CT', Delaware: 'DE', Florida: 'FL', Georgia: 'GA', Hawaii: 'HI', Idaho: 'ID',
@@ -271,27 +304,27 @@ const NAME_TO_ABBR = {
   Tennessee: 'TN', Texas: 'TX', Utah: 'UT', Vermont: 'VT', Virginia: 'VA', Washington: 'WA',
   'West Virginia': 'WV', Wisconsin: 'WI', Wyoming: 'WY', 'District of Columbia': 'DC',
 };
-let wikiStates = {};
+let preciseStates = {};
 try {
-  wikiStates = JSON.parse(fs.readFileSync('scripts/wiki-states-aligned.json', 'utf8'));
+  preciseStates = JSON.parse(fs.readFileSync('scripts/us-states-aligned.json', 'utf8'));
 } catch {
-  console.warn('No wiki-states-aligned.json found - all states will use geoAlbersUsa fallback');
+  console.warn('No us-states-aligned.json found - all states will use geoAlbersUsa fallback');
 }
 
-let wikiCount = 0;
+let preciseCount = 0;
 for (const f of usStatesGeo) {
   const name = f.properties.name;
   if (name === 'Alaska' || name === 'Hawaii') continue; // already added above in true position
   const abbr = NAME_TO_ABBR[name];
-  const wikiPaths = abbr && wikiStates[abbr];
+  const precisePaths = abbr && preciseStates[abbr];
 
-  if (wikiPaths?.length) {
-    wikiCount++;
-    for (let i = 0; i < wikiPaths.length; i++) {
+  if (precisePaths?.length) {
+    preciseCount++;
+    for (let i = 0; i < precisePaths.length; i++) {
       shapes.push({
         id: `state-${f.id}${i > 0 ? `-${i}` : ''}`,
         name,
-        d: wikiPaths[i],
+        d: precisePaths[i],
         // already aligned to final world coordinates - no translate needed
         groups: usGroupsFor(name),
         cuisines: usCuisinesFor(name),
@@ -327,5 +360,5 @@ export const MAP_SHAPES = ${JSON.stringify(shapes)};
 
 fs.writeFileSync('lib/mapShapes.js', output);
 console.log(`Generated ${shapes.length} shapes (${worldCountryCount} countries, ${usStatesGeo.length} US states) -> lib/mapShapes.js`);
-console.log(`  ${wikiCount} states from precise Wikimedia source, ${usStatesGeo.length - wikiCount} from geoAlbersUsa fallback`);
+console.log(`  ${preciseCount} states from the precise source, ${usStatesGeo.length - preciseCount} from geoAlbersUsa fallback`);
 console.log('Unclaimed countries (gray, not clickable):', worldGeo.features.filter((f) => f.properties.name !== 'United States of America' && !COUNTRY_GROUPS[f.properties.name]).length);
