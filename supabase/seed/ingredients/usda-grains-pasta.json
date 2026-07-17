@@ -290,9 +290,7 @@
       "vegan",
       "vegetarian"
     ],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Buckwheat flour, whole-groat",
@@ -324,9 +322,7 @@
       "vegan",
       "vegetarian"
     ],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Buckwheat groats, roasted, cooked",
@@ -358,9 +354,7 @@
       "vegan",
       "vegetarian"
     ],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Buckwheat groats, roasted, dry",
@@ -392,9 +386,7 @@
       "vegan",
       "vegetarian"
     ],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Bulgur, cooked",
@@ -1784,10 +1776,11 @@
       "selenium": 23.9
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, cooked, unenriched, with added salt",
@@ -1814,10 +1807,11 @@
       "vitamin_a": 6.0
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, dry, enriched",
@@ -1845,10 +1839,11 @@
       "selenium": 78.8
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, dry, unenriched",
@@ -1876,10 +1871,11 @@
       "sodium": 21.0
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, enriched, cooked",
@@ -1907,10 +1903,11 @@
       "vitamin_b12": 0.09
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, spinach, enriched, cooked",
@@ -1938,10 +1935,11 @@
       "selenium": 21.8
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, spinach, enriched, dry",
@@ -1966,10 +1964,11 @@
       "zinc": 1.83
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, egg, unenriched, cooked, without added salt",
@@ -1997,10 +1996,11 @@
       "selenium": 23.9
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Noodles, flat, crunchy, Chinese restaurant",
@@ -2812,10 +2812,11 @@
       "folate": 43.0
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Pasta, homemade, made without egg, cooked",
@@ -2841,10 +2842,11 @@
       "folate": 43.0
     },
     "sub_group": "grains_pasta",
-    "dietary_tags": [],
-    "allergens": [
-      "egg"
-    ]
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
   },
   {
     "name": "Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",

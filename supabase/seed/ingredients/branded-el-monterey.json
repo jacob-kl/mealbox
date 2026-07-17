@@ -1,0 +1,50 @@
+[
+  {
+    "name": "El Monterey Chile Rellenos",
+    "serving_qty": 113,
+    "serving_unit": "g",
+    "serving_label": "per 113g (1 Chile Relleno)",
+    "cal": 309.6,
+    "protein": 9.0,
+    "carbs": 3.0,
+    "fat": 29.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 213.57,
+      "iron": 0.99,
+      "sodium": 490.42
+    },
+    "sub_group": "frozen_appetizers_and_hors_d'oeuvres",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "El Monterey"
+  },
+  {
+    "name": "El Monterey Egg, Potato, Cheese Sauce & Sausage Xxlarge! Breakfast Wrap, Cheese Sauce & Sausage",
+    "serving_qty": 184,
+    "serving_unit": "g",
+    "serving_label": "per 184g (1 Wrap)",
+    "cal": 399.3,
+    "protein": 13.0,
+    "carbs": 59.1,
+    "fat": 12.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 40.48,
+      "iron": 3.61,
+      "sodium": 550.16,
+      "vitamin_c": 2.39
+    },
+    "sub_group": "frozen_breakfast_sandwiches_biscuits_and_meals",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "El Monterey"
+  }
+]

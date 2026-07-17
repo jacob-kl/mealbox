@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Best Foods Creamy Coconut Spread, Creamy",
+    "serving_qty": 20,
+    "serving_unit": "g",
+    "serving_label": "per 20g (1 Tbsp)",
+    "cal": 50.0,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 1.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 65.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "butter_and_spread",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Best Foods"
+  },
+  {
+    "name": "Best Foods Hot Creamy Chili Honey Sauce, Hot Creamy Chili Honey",
+    "serving_qty": 15,
+    "serving_unit": "g",
+    "serving_label": "per 15g (1 Tbsp)",
+    "cal": 40.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 3.5,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 115.05
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Best Foods"
+  },
+  {
+    "name": "Best Foods Light Mayonnaise",
+    "serving_qty": 15,
+    "serving_unit": "g",
+    "serving_label": "per 15g (1 Tbsp)",
+    "cal": 34.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 3.5,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 115.05
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Best Foods"
+  },
+  {
+    "name": "Best Foods Mango Preserve, Mango",
+    "serving_qty": 20,
+    "serving_unit": "g",
+    "serving_label": "per 20g (1 Tbsp)",
+    "cal": 50.0,
+    "protein": 0.0,
+    "carbs": 12.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 45.0,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "jam_jelly_and_fruit_spreads",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Best Foods"
+  },
+  {
+    "name": "Best Foods Olive Oil Mayonnaise Dressing",
+    "serving_qty": 15,
+    "serving_unit": "g",
+    "serving_label": "per 15g (1 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 124.95
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Best Foods"
+  }
+]

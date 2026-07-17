@@ -2284,7 +2284,8 @@
     "sub_group": "fruit",
     "dietary_tags": [
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "allergens": []
   },
@@ -2986,11 +2987,11 @@
     },
     "sub_group": "fruit",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "shellfish"
-    ]
+    "allergens": []
   },
   {
     "name": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
@@ -4469,6 +4470,8 @@
     },
     "sub_group": "fruit",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -4499,6 +4502,8 @@
     },
     "sub_group": "fruit",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -5369,6 +5374,8 @@
     },
     "sub_group": "fruit",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -6704,6 +6711,8 @@
     },
     "sub_group": "fruit",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []

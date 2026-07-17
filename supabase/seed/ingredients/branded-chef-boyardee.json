@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Chef Boyardee Lasagna Pasta With Beef In Tomato Sauce, Beef",
+    "serving_qty": 205,
+    "serving_unit": "g",
+    "serving_label": "per 205g (None)",
+    "cal": 200.9,
+    "protein": 9.0,
+    "carbs": 26.0,
+    "fat": 7.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 20.5,
+      "iron": 2.71,
+      "sodium": 719.55,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "chili_and_stew",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "Chef Boyardee"
+  },
+  {
+    "name": "Chef Boyardee Lasagna Pasta With Chunky Tomato & Meat Sauce, Lasagna",
+    "serving_qty": 249,
+    "serving_unit": "g",
+    "serving_label": "per 249g (1 cup)",
+    "cal": 229.1,
+    "protein": 8.0,
+    "carbs": 28.9,
+    "fat": 9.0,
+    "fiber": 4.0,
+    "micros": {
+      "calcium": 19.92,
+      "iron": 1.79,
+      "potassium": 530.37,
+      "sodium": 749.49,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "chili_and_stew",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Chef Boyardee"
+  },
+  {
+    "name": "Chef Boyardee Mac & Cheese Pasta In Cheese Flavored Sauce, Mac & Cheese",
+    "serving_qty": 425,
+    "serving_unit": "g",
+    "serving_label": "per 425g (1 can)",
+    "cal": 191.2,
+    "protein": 6.0,
+    "carbs": 28.0,
+    "fat": 6.0,
+    "fiber": 0.9,
+    "micros": {
+      "calcium": 38.25,
+      "iron": 1.1,
+      "potassium": 102.0,
+      "sodium": 871.25
+    },
+    "sub_group": "chili_and_stew",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Chef Boyardee"
+  }
+]

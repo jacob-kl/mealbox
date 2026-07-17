@@ -52,7 +52,9 @@
       "vitamin_a": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -81,7 +83,9 @@
       "sodium": 536
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -167,10 +171,10 @@
       "sodium": 47.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",
@@ -197,10 +201,10 @@
       "vitamin_a": 10.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
@@ -228,10 +232,10 @@
       "vitamin_a": 9.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, braised",
@@ -258,10 +262,10 @@
       "vitamin_b12": 0.17
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, grilled",
@@ -288,10 +292,10 @@
       "selenium": 42.4
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broiler, rotisserie, BBQ, back meat only",
@@ -659,10 +663,10 @@
       "vitamin_b12": 0.51
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat and skin, cooked, fried, batter",
@@ -690,9 +694,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat and skin, cooked, fried, flour",
@@ -720,9 +722,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat and skin, cooked, roasted",
@@ -750,10 +750,10 @@
       "zinc": 2.25
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat and skin, cooked, stewed",
@@ -781,10 +781,10 @@
       "vitamin_b12": 0.18
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat and skin, raw",
@@ -811,10 +811,10 @@
       "vitamin_b12": 0.25
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat only, cooked, fried",
@@ -841,10 +841,10 @@
       "sodium": 99.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat only, cooked, roasted",
@@ -872,10 +872,10 @@
       "zinc": 2.65
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat only, cooked, stewed",
@@ -903,10 +903,10 @@
       "sodium": 67.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, back, meat only, raw",
@@ -933,10 +933,10 @@
       "vitamin_a": 30.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter",
@@ -965,9 +965,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, flour",
@@ -995,9 +993,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, roasted",
@@ -1025,10 +1021,10 @@
       "vitamin_b12": 0.32
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat and skin, cooked, stewed",
@@ -1056,10 +1052,10 @@
       "zinc": 0.97
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat and skin, raw",
@@ -1087,10 +1083,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat only, cooked, fried",
@@ -1118,10 +1114,10 @@
       "zinc": 1.08
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
@@ -1149,10 +1145,10 @@
       "selenium": 27.6
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, meat only, cooked, stewed",
@@ -1180,10 +1176,10 @@
       "zinc": 0.97
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",
@@ -1211,10 +1207,10 @@
       "vitamin_a": 11.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",
@@ -1242,10 +1238,10 @@
       "selenium": 26.4
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised",
@@ -1273,10 +1269,10 @@
       "selenium": 27.9
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",
@@ -1304,10 +1300,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, drumstick, meat only, raw",
@@ -1335,10 +1331,10 @@
       "folate": 4.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, batter",
@@ -1366,9 +1362,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, flour",
@@ -1396,9 +1390,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, roasted",
@@ -1425,10 +1417,10 @@
       "zinc": 2.49
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat and skin, cooked, stewed",
@@ -1455,10 +1447,10 @@
       "sodium": 70.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat and skin, raw",
@@ -1485,10 +1477,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat only, cooked, fried",
@@ -1515,10 +1507,10 @@
       "vitamin_b12": 0.33
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat only, cooked, roasted",
@@ -1546,10 +1538,10 @@
       "zinc": 2.8
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat only, cooked, stewed",
@@ -1577,10 +1569,10 @@
       "vitamin_b12": 0.22
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, meat only, raw",
@@ -1607,10 +1599,10 @@
       "zinc": 2.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised",
@@ -1638,10 +1630,10 @@
       "sodium": 76.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",
@@ -1669,10 +1661,10 @@
       "vitamin_b12": 0.42
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
@@ -1700,10 +1692,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, batter",
@@ -1731,9 +1723,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, flour",
@@ -1761,9 +1751,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",
@@ -1791,10 +1779,10 @@
       "folate": 4.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed",
@@ -1822,10 +1810,10 @@
       "sodium": 76.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, raw",
@@ -1853,10 +1841,10 @@
       "vitamin_a": 14.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, braised",
@@ -1882,10 +1870,10 @@
       "selenium": 27.9
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, fried",
@@ -1912,10 +1900,10 @@
       "vitamin_b12": 0.35
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, stewed",
@@ -1943,10 +1931,10 @@
       "vitamin_b12": 0.24
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, drumstick, rotisserie, original seasoning, meat only, cooked",
@@ -1973,10 +1961,10 @@
       "vitamin_b12": 0.49
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, giblets, cooked, fried",
@@ -2003,10 +1991,10 @@
       "sodium": 113
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, giblets, cooked, simmered",
@@ -2034,10 +2022,10 @@
       "folate": 257
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, giblets, raw",
@@ -2064,10 +2052,10 @@
       "zinc": 3.32
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, fried, batter",
@@ -2095,9 +2083,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, fried, flour",
@@ -2125,9 +2111,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, roasted",
@@ -2155,10 +2139,10 @@
       "vitamin_b12": 0.38
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat and skin, cooked, stewed",
@@ -2186,10 +2170,10 @@
       "zinc": 2.43
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat and skin, raw",
@@ -2217,10 +2201,10 @@
       "selenium": 18.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat only, cooked, fried",
@@ -2247,10 +2231,10 @@
       "zinc": 2.98
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat only, cooked, roasted",
@@ -2278,10 +2262,10 @@
       "magnesium": 24.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat only, cooked, stewed",
@@ -2309,10 +2293,10 @@
       "zinc": 2.78
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, leg, meat only, raw",
@@ -2340,10 +2324,10 @@
       "zinc": 1.76
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, batter",
@@ -2371,9 +2355,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, flour",
@@ -2402,9 +2384,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, roasted",
@@ -2431,10 +2411,10 @@
       "sodium": 75.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat and skin, cooked, stewed",
@@ -2461,10 +2441,10 @@
       "zinc": 1.14
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat and skin, raw",
@@ -2491,10 +2471,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat only, cooked, fried",
@@ -2521,10 +2501,10 @@
       "phosphorus": 231
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat only, cooked, roasted",
@@ -2552,10 +2532,10 @@
       "zinc": 1.23
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat only, cooked, stewed",
@@ -2583,10 +2563,10 @@
       "sodium": 65.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, light meat, meat only, raw",
@@ -2613,10 +2593,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter",
@@ -2644,9 +2624,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, flour",
@@ -2674,9 +2652,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, raw",
@@ -2703,10 +2679,10 @@
       "vitamin_b12": 1.11
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, roasted",
@@ -2734,10 +2710,10 @@
       "zinc": 2.16
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin and giblets and neck, stewed",
@@ -2764,10 +2740,10 @@
       "sodium": 66.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin, cooked, fried, batter",
@@ -2796,9 +2772,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin, cooked, fried, flour",
@@ -2827,9 +2801,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin, cooked, roasted",
@@ -2857,10 +2829,10 @@
       "selenium": 23.9
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin, cooked, stewed",
@@ -2888,10 +2860,10 @@
       "zinc": 1.76
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat and skin, raw",
@@ -2919,10 +2891,10 @@
       "vitamin_c": 1.6
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat only, cooked, fried",
@@ -2950,10 +2922,10 @@
       "zinc": 2.24
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat only, cooked, roasted",
@@ -2981,10 +2953,10 @@
       "sodium": 86.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat only, cooked, stewed",
@@ -3012,10 +2984,10 @@
       "zinc": 1.99
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, meat only, raw",
@@ -3043,10 +3015,10 @@
       "vitamin_c": 2.3
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat and skin, cooked simmered",
@@ -3074,10 +3046,10 @@
       "zinc": 2.72
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat and skin, cooked, fried, batter",
@@ -3105,9 +3077,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat and skin, cooked, fried, flour",
@@ -3135,9 +3105,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat and skin, raw",
@@ -3164,10 +3132,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat only, cooked, fried",
@@ -3194,10 +3162,10 @@
       "zinc": 4.24
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat only, cooked, simmered",
@@ -3224,10 +3192,10 @@
       "vitamin_b12": 0.17
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, neck, meat only, raw",
@@ -3254,10 +3222,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, back, meat and skin, cooked",
@@ -3284,10 +3252,10 @@
       "vitamin_b12": 0.68
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked",
@@ -3314,10 +3282,10 @@
       "selenium": 48.3
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat and skin, cooked",
@@ -3344,10 +3312,10 @@
       "selenium": 30.6
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat only, cooked",
@@ -3375,10 +3343,10 @@
       "vitamin_a": 5.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, skin only, cooked",
@@ -3405,10 +3373,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat and skin, cooked",
@@ -3435,10 +3403,10 @@
       "selenium": 25.5
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat only, cooked",
@@ -3465,10 +3433,10 @@
       "vitamin_b12": 0.45
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat and skin, cooked",
@@ -3495,10 +3463,10 @@
       "vitamin_b12": 0.45
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat only, cooked",
@@ -3525,10 +3493,10 @@
       "selenium": 51.1
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, separable fat, raw",
@@ -3556,10 +3524,10 @@
       "zinc": 0.45
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, skin only, cooked, fried, batter",
@@ -3587,9 +3555,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, skin only, cooked, fried, flour",
@@ -3617,9 +3583,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, skin only, cooked, roasted",
@@ -3647,10 +3611,10 @@
       "selenium": 20.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, skin only, cooked, stewed",
@@ -3677,10 +3641,10 @@
       "selenium": 14.4
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, skin only, raw",
@@ -3708,10 +3672,10 @@
       "vitamin_a": 76.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, batter",
@@ -3739,9 +3703,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, flour",
@@ -3769,9 +3731,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",
@@ -3799,10 +3759,10 @@
       "magnesium": 22.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat and skin, cooked, stewed",
@@ -3830,10 +3790,10 @@
       "zinc": 2.25
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat and skin, raw",
@@ -3861,10 +3821,10 @@
       "folate": 3.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat only, cooked, fried",
@@ -3891,10 +3851,10 @@
       "zinc": 2.79
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted",
@@ -3922,10 +3882,10 @@
       "magnesium": 24.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, thigh, meat only, cooked, stewed",
@@ -3953,10 +3913,10 @@
       "zinc": 2.58
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, fried, batter",
@@ -3984,9 +3944,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, fried, flour",
@@ -4014,9 +3972,7 @@
     },
     "sub_group": "poultry",
     "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",
@@ -4044,10 +4000,10 @@
       "vitamin_c": 0.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat and skin, cooked, stewed",
@@ -4075,10 +4031,10 @@
       "vitamin_b12": 0.18
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat and skin, raw",
@@ -4106,10 +4062,10 @@
       "vitamin_a": 9.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat only, cooked, fried",
@@ -4136,10 +4092,10 @@
       "sodium": 91.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat only, cooked, roasted",
@@ -4167,10 +4123,10 @@
       "zinc": 2.14
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat only, cooked, stewed",
@@ -4198,10 +4154,10 @@
       "vitamin_b12": 0.22
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, broilers or fryers, wing, meat only, raw",
@@ -4229,10 +4185,10 @@
       "zinc": 1.63
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Chicken, canned, meat only, with broth",
@@ -5086,7 +5042,9 @@
       "selenium": 14.3
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -8442,7 +8400,9 @@
       "folate": 29.0
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -9517,10 +9477,10 @@
       "vitamin_b12": 0.37
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
-    "allergens": [
-      "gluten"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Turkey, gizzard, all classes, raw",
@@ -9579,7 +9539,9 @@
       "selenium": 36.1
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -9667,7 +9629,9 @@
       "vitamin_b12": 1.9
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -9758,7 +9722,9 @@
       "selenium": 31.4
     },
     "sub_group": "poultry",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {

@@ -1,0 +1,837 @@
+[
+  {
+    "name": "King'S Hawaiian, Classic Stuffing, Herb & Onion",
+    "serving_qty": 34,
+    "serving_unit": "g",
+    "serving_label": "per 34g (1 cup)",
+    "cal": 140.1,
+    "protein": 4.0,
+    "carbs": 25.0,
+    "fat": 3.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 1.08,
+      "sodium": 330.14,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "stuffing",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King'S Hawaiian, Hawaiian Sweet Sandwich Buns",
+    "serving_qty": 78,
+    "serving_unit": "g",
+    "serving_label": "per 78g (2.8 ONZ)",
+    "cal": 269.9,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 39.78,
+      "iron": 1.8,
+      "sodium": 240.24,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King'S Hawaiian, Savory Butter Rolls",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (1.0 ONZ)",
+    "cal": 100.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 19.88,
+      "iron": 0.72,
+      "sodium": 124.88,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian A Sweet & Tangy Ginger Sesame Sauce",
+    "serving_qty": 37,
+    "serving_unit": "g",
+    "serving_label": "per 37g (2 Tbsp)",
+    "cal": 50.0,
+    "protein": 0.0,
+    "carbs": 13.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 8.88,
+      "iron": 0.0,
+      "potassium": 58.09,
+      "sodium": 340.03
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Bbq Sauce",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 0.0,
+    "carbs": 15.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 240.12,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Bbq Sauce Light Roasted Kona Coffee",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 40.0,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 360.0,
+      "vitamin_c": 2.41
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Bbq Sauce, Smoked Bacon",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 1.0,
+    "carbs": 13.0,
+    "fat": 1.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 399.6,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Big Island Lava Sauce",
+    "serving_qty": 18,
+    "serving_unit": "g",
+    "serving_label": "per 18g (1 Tbsp)",
+    "cal": 14.9,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 540.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Classic Stuffing Herb & Onion",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (1.25 cup)",
+    "cal": 169.8,
+    "protein": 6.0,
+    "carbs": 30.0,
+    "fat": 3.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 39.99,
+      "iron": 1.8,
+      "sodium": 390.01,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "stuffing",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hamburger Buns, Hawaiian Sweet",
+    "serving_qty": 46,
+    "serving_unit": "GRM",
+    "serving_label": "per 46GRM (1 BUN)",
+    "cal": 139.8,
+    "protein": 4.0,
+    "carbs": 24.0,
+    "fat": 3.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 29.9,
+      "iron": 1.2,
+      "potassium": 59.8,
+      "sodium": 125.12,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Deluxe Hamburger Buns",
+    "serving_qty": 77,
+    "serving_unit": "g",
+    "serving_label": "per 77g (1 BUN)",
+    "cal": 240.2,
+    "protein": 7.0,
+    "carbs": 40.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 50.05,
+      "iron": 2.0,
+      "potassium": 110.11,
+      "sodium": 210.21
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Deluxe Hamburger Buns, Hawaiian Sweet",
+    "serving_qty": 78,
+    "serving_unit": "g",
+    "serving_label": "per 78g (2.8 ONZ)",
+    "cal": 269.9,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 39.78,
+      "iron": 1.8,
+      "sodium": 240.24,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Jalapeno Rolls",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (1 ONZ)",
+    "cal": 89.9,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fat": 2.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 105.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Pre-Sliced Slider Buns, Hawaiian Sweet",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (1 BUN)",
+    "cal": 89.9,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fat": 2.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 30.07,
+      "iron": 1.0,
+      "potassium": 35.03,
+      "sodium": 105.09,
+      "vitamin_d": 0.93
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Rolls, Original",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (1 ROLL)",
+    "cal": 100.1,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.15,
+      "iron": 0.8,
+      "potassium": 49.91,
+      "sodium": 84.94
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Sliced Bread, Coconut Macadamia Nut",
+    "serving_qty": 38,
+    "serving_unit": "g",
+    "serving_label": "per 38g (1.3 ONZ)",
+    "cal": 139.8,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 1.08,
+      "sodium": 104.88,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "tree_nut",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hawaiian Sweet Sliced Bread, Hawaiian Sweet",
+    "serving_qty": 33,
+    "serving_unit": "g",
+    "serving_label": "per 33g (1 slice)",
+    "cal": 100.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 13.86,
+      "iron": 1.0,
+      "potassium": 51.15,
+      "sodium": 95.04
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Honey Wheat English Muffins, Honey Wheat",
+    "serving_qty": 64,
+    "serving_unit": "g",
+    "serving_label": "per 64g (64 GRM)",
+    "cal": 160.0,
+    "protein": 4.0,
+    "carbs": 34.0,
+    "fat": 1.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 97.92,
+      "iron": 1.0,
+      "potassium": 94.72,
+      "sodium": 250.24,
+      "folate": 39.68
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Honey Wheat Rolls, Honey Wheat",
+    "serving_qty": 28,
+    "serving_unit": "GRM",
+    "serving_label": "per 28GRM (1 ROLL)",
+    "cal": 89.9,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fat": 2.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 10.08,
+      "iron": 0.6,
+      "potassium": 50.12,
+      "sodium": 70.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Honey Wheat Sliced Bread, Honey Wheat",
+    "serving_qty": 33,
+    "serving_unit": "g",
+    "serving_label": "per 33g (1 slice)",
+    "cal": 100.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 15.84,
+      "iron": 1.0,
+      "potassium": 45.87,
+      "sodium": 69.96
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Hot Dog Buns, Hawaiian Sweet",
+    "serving_qty": 43,
+    "serving_unit": "GRM",
+    "serving_label": "per 43GRM (1 BUN)",
+    "cal": 129.9,
+    "protein": 4.0,
+    "carbs": 23.0,
+    "fat": 3.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 30.1,
+      "iron": 1.2,
+      "potassium": 60.2,
+      "sodium": 119.97,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Mini Sub Rolls, Hawaiian Sweet",
+    "serving_qty": 57,
+    "serving_unit": "GRM",
+    "serving_label": "per 57GRM (1 ROLL)",
+    "cal": 180.1,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fat": 4.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 1.5,
+      "potassium": 79.8,
+      "sodium": 160.17,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Original Hawaiian Sweet English Muffins, Original Hawaiian Sweet",
+    "serving_qty": 64,
+    "serving_unit": "g",
+    "serving_label": "per 64g (1 English)",
+    "cal": 160.0,
+    "protein": 4.0,
+    "carbs": 33.0,
+    "fat": 1.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 71.04,
+      "iron": 2.0,
+      "potassium": 48.0,
+      "sodium": 280.32,
+      "folate": 56.32
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Original Hawaiian Sweet Pretzel Hamburger Buns, Original Hawaiian Sweet Pretzel",
+    "serving_qty": 75,
+    "serving_unit": "g",
+    "serving_label": "per 75g (1 Bun)",
+    "cal": 219.8,
+    "protein": 7.0,
+    "carbs": 34.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 60.75,
+      "iron": 2.0,
+      "potassium": 99.75,
+      "sodium": 757.5
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Original Hawaiian Sweet Pretzel Slider Buns",
+    "serving_qty": 35,
+    "serving_unit": "GRM",
+    "serving_label": "per 35GRM (1 Bun (35g))",
+    "cal": 100.1,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 3.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 28.0,
+      "iron": 1.0,
+      "potassium": 46.9,
+      "sodium": 360.5,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Original Hawaiian Sweet Rolls",
+    "serving_qty": 28,
+    "serving_unit": "GRM",
+    "serving_label": "per 28GRM (1 roll (28g) Per serving)",
+    "cal": 89.9,
+    "protein": 2.0,
+    "carbs": 14.0,
+    "fat": 2.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 15.12,
+      "iron": 1.0,
+      "potassium": 42.0,
+      "sodium": 75.04,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Original Hawaiian Sweet Rolls, Original Hawaiian Sweet",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (1 ROLL)",
+    "cal": 89.9,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.88,
+      "iron": 0.8,
+      "potassium": 40.04,
+      "sodium": 80.08
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Pretzel Slider Buns, Pretzel",
+    "serving_qty": 35,
+    "serving_unit": "g",
+    "serving_label": "per 35g (35 g Ou)",
+    "cal": 100.1,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 3.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 28.0,
+      "iron": 1.0,
+      "potassium": 46.9,
+      "sodium": 360.5
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Round Hawaiian Sweet Bread, Hawaiian Sweet",
+    "serving_qty": 57,
+    "serving_unit": "g",
+    "serving_label": "per 57g (2 ONZ)",
+    "cal": 169.9,
+    "protein": 5.0,
+    "carbs": 30.0,
+    "fat": 4.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 30.21,
+      "iron": 1.4,
+      "potassium": 79.8,
+      "sodium": 149.91
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Savory Butter Rolls",
+    "serving_qty": 28,
+    "serving_unit": "GRM",
+    "serving_label": "per 28GRM (1 ROLL)",
+    "cal": 89.9,
+    "protein": 3.0,
+    "carbs": 14.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.88,
+      "iron": 0.8,
+      "potassium": 50.12,
+      "sodium": 115.08,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Savory Butter Rolls, Savory Butter",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (1 ROLL)",
+    "cal": 100.1,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 30.07,
+      "iron": 0.9,
+      "potassium": 49.91,
+      "sodium": 124.93
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Sliced Hawaiian Sweet Bread",
+    "serving_qty": 33,
+    "serving_unit": "GRM",
+    "serving_label": "per 33GRM (1 slice (33g))",
+    "cal": 100.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 13.86,
+      "iron": 1.0,
+      "potassium": 51.15,
+      "sodium": 95.04,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  },
+  {
+    "name": "King's Hawaiian Sliced Honey Wheat  Bread",
+    "serving_qty": 33,
+    "serving_unit": "GRM",
+    "serving_label": "per 33GRM (1 slice (33g))",
+    "cal": 100.0,
+    "protein": 3.0,
+    "carbs": 16.0,
+    "fat": 2.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 15.84,
+      "iron": 1.0,
+      "potassium": 45.87,
+      "sodium": 69.96,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "King's Hawaiian"
+  }
+]

@@ -69,7 +69,8 @@ create table if not exists ingredients (
   fiber numeric not null default 0,
   micros jsonb not null default '{}'::jsonb,
   sub_group text, -- functional substitution group (e.g. 'breading_coating', 'poultry_breast_cutlet') — see lib/substitutions.js
-  dietary_tags text[] not null default '{}' -- e.g. {gluten-free, dairy-free, vegan, low-carb}
+  dietary_tags text[] not null default '{}', -- e.g. {gluten-free, dairy-free, vegan, low-carb}
+  brand text -- null = generic/store-agnostic; otherwise the specific brand (e.g. 'Kraft')
 );
 
 alter table ingredients add column if not exists sub_group text;
@@ -762,3 +763,18 @@ create policy "submit feedback"
 -- override. Both fall back to the household's settings when null.
 alter table profiles add column if not exists meal_days jsonb;
 alter table profiles add column if not exists snacks_per_day integer;
+
+-- ----------------------------------------------------------------------------
+-- Brand tracking for ingredients. Bulk-importing USDA's branded foods
+-- data (thousands of specific national-brand products) alongside the
+-- existing generic ingredients meant the ingredient picker needed a way to
+-- put the generic version first when you don't care about a specific
+-- brand - e.g. searching "milk" surfaces "Whole milk (generic)" before
+-- "Kraft 2% Milk". null = generic/store-agnostic; every seed file now sets
+-- this explicitly (existing hand-curated entries stay null unless they
+-- were already a specific product like "Daisy sour cream").
+alter table ingredients add column if not exists brand text;
+create index if not exists ingredients_brand_idx on ingredients (brand);
+-- Queries that populate an ingredient picker should sort nulls first so
+-- generics lead, then alphabetically within each group, e.g. in supabase-js:
+--   .order('brand', { ascending: true, nullsFirst: true }).order('name')

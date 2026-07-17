@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Classico Chicken Parmigiana",
+    "serving_qty": 98,
+    "serving_unit": "g",
+    "serving_label": "per 98g (3.5 ONZ)",
+    "cal": 169.5,
+    "protein": 5.0,
+    "carbs": 31.9,
+    "fat": 2.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 40.18,
+      "iron": 1.8,
+      "vitamin_c": 11.96,
+      "sodium": 509.6
+    },
+    "sub_group": "pasta_dinners",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Classico"
+  },
+  {
+    "name": "Classico Four Cheese Alfredo Pasta Sauce, Four Cheese Alfredo",
+    "serving_qty": 60,
+    "serving_unit": "g",
+    "serving_label": "per 60g (1/4 cup)",
+    "cal": 45.0,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 3.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 40.2,
+      "iron": 0.0,
+      "sodium": 360.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Classico"
+  },
+  {
+    "name": "Classico Riserva Basil Pesto",
+    "serving_qty": 62,
+    "serving_unit": "g",
+    "serving_label": "per 62g (0.25 cup)",
+    "cal": 300.1,
+    "protein": 3.0,
+    "carbs": 2.0,
+    "fat": 31.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 150.04,
+      "iron": 0.72,
+      "vitamin_c": 4.77,
+      "sodium": 399.9
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Classico"
+  }
+]

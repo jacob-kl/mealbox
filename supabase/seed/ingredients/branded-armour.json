@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Armour Lard",
+    "serving_qty": 13,
+    "serving_unit": "g",
+    "serving_label": "per 13g (1 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "butter_and_spread",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Armour"
+  },
+  {
+    "name": "Armour Margherita, Hard Salami Slices",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (6 SLICES)",
+    "cal": 110.0,
+    "protein": 6.0,
+    "carbs": 1.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 501.2,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Armour"
+  },
+  {
+    "name": "Armour Smok-Y Breakfast Sausage",
+    "serving_qty": 47,
+    "serving_unit": "g",
+    "serving_label": "per 47g (2 LINKS)",
+    "cal": 149.9,
+    "protein": 5.0,
+    "carbs": 3.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.21,
+      "iron": 0.36,
+      "sodium": 470.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "bacon_sausages_and_ribs",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Armour"
+  },
+  {
+    "name": "Armour Tavern Ham",
+    "serving_qty": 56,
+    "serving_unit": "g",
+    "serving_label": "per 56g (2 ONZ)",
+    "cal": 70.0,
+    "protein": 11.0,
+    "carbs": 1.0,
+    "fat": 2.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "vitamin_c": 0.0,
+      "sodium": 500.08
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Armour"
+  },
+  {
+    "name": "Armour Winco Foods, Deli Sliced Corned Beef",
+    "serving_qty": 56,
+    "serving_unit": "g",
+    "serving_label": "per 56g (2 ONZ)",
+    "cal": 59.9,
+    "protein": 11.0,
+    "carbs": 1.0,
+    "fat": 1.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 1.8,
+      "vitamin_c": 0.0,
+      "sodium": 409.92
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Armour"
+  }
+]

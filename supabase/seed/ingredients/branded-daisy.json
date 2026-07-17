@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Daisy 2% Low Fat Cottage Cheese",
+    "serving_qty": 150,
+    "serving_unit": "IU",
+    "serving_label": "per 150IU (1 Container)",
+    "cal": 120.0,
+    "protein": 17.0,
+    "carbs": 6.0,
+    "fat": 3.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 100.5,
+      "iron": 0.36,
+      "potassium": 139.5,
+      "sodium": 469.5
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 2% Low Fat Small Curd Cottage Cheese",
+    "serving_qty": 113,
+    "serving_unit": "GRM",
+    "serving_label": "per 113GRM (1/2 cup)",
+    "cal": 90.4,
+    "protein": 13.0,
+    "carbs": 5.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 80.23,
+      "iron": 0.0,
+      "potassium": 70.06,
+      "sodium": 350.3,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 4% Cottage Cheese",
+    "serving_qty": 113,
+    "serving_unit": "g",
+    "serving_label": "per 113g (1/2 cup)",
+    "cal": 109.6,
+    "protein": 13.0,
+    "carbs": 4.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 99.44,
+      "iron": 0.0,
+      "sodium": 389.85,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 4% Cottage Cheese With Blueberries, Blueberries",
+    "serving_qty": 170,
+    "serving_unit": "GRM",
+    "serving_label": "per 170GRM (1 Container)",
+    "cal": 159.8,
+    "protein": 14.0,
+    "carbs": 16.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 100.3,
+      "iron": 0.36,
+      "potassium": 139.4,
+      "sodium": 419.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 4% Cottage Cheese With Peaches, Peaches",
+    "serving_qty": 170,
+    "serving_unit": "GRM",
+    "serving_label": "per 170GRM (1 Container)",
+    "cal": 159.8,
+    "protein": 14.0,
+    "carbs": 14.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 79.9,
+      "iron": 0.36,
+      "potassium": 139.4,
+      "sodium": 419.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 4% Cottage Cheese With Pineapple, Pineapple",
+    "serving_qty": 170,
+    "serving_unit": "GRM",
+    "serving_label": "per 170GRM (1 Container)",
+    "cal": 159.8,
+    "protein": 14.0,
+    "carbs": 15.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 79.9,
+      "iron": 0.36,
+      "potassium": 139.4,
+      "sodium": 419.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 4% Cottage Cheese With Strawberries, Strawberries",
+    "serving_qty": 170,
+    "serving_unit": "GRM",
+    "serving_label": "per 170GRM (1 container)",
+    "cal": 159.8,
+    "protein": 14.0,
+    "carbs": 16.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 100.3,
+      "iron": 0.36,
+      "potassium": 139.4,
+      "sodium": 419.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy 4% Small Curd Cottage Cheese",
+    "serving_qty": 113,
+    "serving_unit": "GRM",
+    "serving_label": "per 113GRM (1/2 cup)",
+    "cal": 109.6,
+    "protein": 13.0,
+    "carbs": 5.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 99.44,
+      "iron": 0.1,
+      "potassium": 129.95,
+      "sodium": 389.85
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Banana Nut Pound Cake, Banana Nut",
+    "serving_qty": 66,
+    "serving_unit": "g",
+    "serving_label": "per 66g (2.33 ONZ)",
+    "cal": 268.0,
+    "protein": 6.0,
+    "carbs": 31.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.8,
+      "iron": 1.08,
+      "sodium": 291.06,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Brand, Light Sour Cream",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 39.9,
+    "protein": 2.0,
+    "carbs": 2.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 0.0,
+      "sodium": 24.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cream",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Carrot Pound Cake, Carrot",
+    "serving_qty": 66,
+    "serving_unit": "g",
+    "serving_label": "per 66g (2.33 ONZ)",
+    "cal": 268.0,
+    "protein": 6.0,
+    "carbs": 31.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.8,
+      "iron": 1.08,
+      "sodium": 291.06,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Chocolate Pound Cake, Chocolate",
+    "serving_qty": 66,
+    "serving_unit": "g",
+    "serving_label": "per 66g (2.33 ONZ)",
+    "cal": 268.0,
+    "protein": 6.0,
+    "carbs": 31.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.8,
+      "iron": 1.44,
+      "sodium": 291.06,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Chocolate Whoopie Pie",
+    "serving_qty": 71,
+    "serving_unit": "g",
+    "serving_label": "per 71g (2.5 ONZ)",
+    "cal": 300.3,
+    "protein": 7.0,
+    "carbs": 33.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 300.33,
+      "iron": 1.44,
+      "sodium": 300.33,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Colorado Mountain Jam, Organic Jam, Cherry Pie",
+    "serving_qty": 20,
+    "serving_unit": "g",
+    "serving_label": "per 20g (1 Tbsp)",
+    "cal": 25.0,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 0.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "jam_jelly_and_fruit_spreads",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Colorado Mountain Jam, Organic Jam, Raspberry",
+    "serving_qty": 20,
+    "serving_unit": "g",
+    "serving_label": "per 20g (1 Tbsp)",
+    "cal": 25.0,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 0.0,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "jam_jelly_and_fruit_spreads",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy French Onion Sour Cream Dip, French Onion",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 tbsp)",
+    "cal": 60.0,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "potassium": 69.9,
+      "sodium": 140.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Golden Pound Cake, Golden",
+    "serving_qty": 66,
+    "serving_unit": "g",
+    "serving_label": "per 66g (2.33 ONZ)",
+    "cal": 268.0,
+    "protein": 6.0,
+    "carbs": 31.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.8,
+      "iron": 1.08,
+      "sodium": 291.06,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Light Sour Cream, Light",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 39.9,
+    "protein": 2.0,
+    "carbs": 2.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 0.0,
+      "sodium": 24.9,
+      "vitamin_c": 0.0,
+      "vitamin_a": 36.0
+    },
+    "sub_group": "cream",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Marble Pound Cake, Marble",
+    "serving_qty": 66,
+    "serving_unit": "g",
+    "serving_label": "per 66g (2.33 ONZ)",
+    "cal": 268.0,
+    "protein": 3.5,
+    "carbs": 31.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.8,
+      "iron": 1.08,
+      "sodium": 314.16,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Organic Mountain Jam, Strawberry",
+    "serving_qty": 20,
+    "serving_unit": "g",
+    "serving_label": "per 20g (1 Tbsp)",
+    "cal": 25.0,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 0.0,
+      "vitamin_c": 9.0
+    },
+    "sub_group": "jam_jelly_and_fruit_spreads",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Roll Cake, Raspberry Jelly",
+    "serving_qty": 46,
+    "serving_unit": "g",
+    "serving_label": "per 46g (1.625 ONZ)",
+    "cal": 189.1,
+    "protein": 4.0,
+    "carbs": 21.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.78,
+      "iron": 1.08,
+      "sodium": 195.04,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "croissants_sweet_rolls_muffins_and_other_pastries",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Sour Cream",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 15.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cream",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy Sour Creamy Ranch Dip, Sour Creamy Ranch",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 tbsp)",
+    "cal": 60.0,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "potassium": 69.9,
+      "sodium": 125.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Daisy"
+  },
+  {
+    "name": "Daisy'S, Iced Red Velvet Ring Cake",
+    "serving_qty": 56,
+    "serving_unit": "g",
+    "serving_label": "per 56g (2 ONZ)",
+    "cal": 240.2,
+    "protein": 5.0,
+    "carbs": 26.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.16,
+      "iron": 1.08,
+      "sodium": 259.84,
+      "vitamin_c": 1.18
+    },
+    "sub_group": "cakes_cupcakes_snack_cakes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Daisy"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "name": "DiGiorno Parmesan Cheese",
+    "serving_qty": 5,
+    "serving_unit": "g",
+    "serving_label": "per 5g (2 tsp)",
+    "cal": 20.0,
+    "protein": 2.0,
+    "carbs": 0.0,
+    "fat": 1.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 60.0,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 60.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "DiGiorno"
+  },
+  {
+    "name": "DiGiorno Shredded Parmesan Cheese",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (0.25 cup)",
+    "cal": 110.0,
+    "protein": 9.0,
+    "carbs": 1.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 299.6,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 431.2
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "DiGiorno"
+  },
+  {
+    "name": "Digiorno, Romano Cheese",
+    "serving_qty": 5,
+    "serving_unit": "g",
+    "serving_label": "per 5g (2 tsp)",
+    "cal": 20.0,
+    "protein": 2.0,
+    "carbs": 0.0,
+    "fat": 1.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 60.0,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 70.0
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "DiGiorno"
+  },
+  {
+    "name": "Digiorno, Shaved Parmesan Cheese",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (0.25 cup)",
+    "cal": 110.0,
+    "protein": 9.0,
+    "carbs": 1.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 299.6,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 408.8
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "DiGiorno"
+  },
+  {
+    "name": "Digiorno, Shredded Parmesan Cheese",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (0.25 cup)",
+    "cal": 110.0,
+    "protein": 9.0,
+    "carbs": 1.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 299.6,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 400.4
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "DiGiorno"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Signature Select Applewood Smoked Thick Sliced Bacon, Applewood Smoked",
+    "serving_qty": 13,
+    "serving_unit": "g",
+    "serving_label": "per 13g (1 COOKED SLICE)",
+    "cal": 60.1,
+    "protein": 6.0,
+    "carbs": 1.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 1.95,
+      "iron": 0.0,
+      "potassium": 43.94,
+      "sodium": 230.1
+    },
+    "sub_group": "bacon_sausages_and_ribs",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Signature Select"
+  },
+  {
+    "name": "Signature Select Blood Orange Flavored Italian Sparkling Beverage With Blood Orange Juice From Concentrate, Blood Orange",
+    "serving_qty": 330,
+    "serving_unit": "ml",
+    "serving_label": "per 330ml (11.2 OZA)",
+    "cal": 36.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {},
+    "sub_group": "fruit_and_vegetable_juice_nectars_and_fruit_drinks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Signature Select"
+  },
+  {
+    "name": "Signature Select Blueberries Whole, Blueberries",
+    "serving_qty": 140,
+    "serving_unit": "g",
+    "serving_label": "per 140g (1 cup)",
+    "cal": 70.0,
+    "protein": 1.0,
+    "carbs": 16.9,
+    "fat": 1.0,
+    "fiber": 4.1,
+    "micros": {
+      "calcium": 9.8,
+      "iron": 0.29,
+      "potassium": 79.8,
+      "sodium": 0.0,
+      "vitamin_c": 4.06
+    },
+    "sub_group": "frozen_fruit_and_fruit_juice_concentrates",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Signature Select"
+  },
+  {
+    "name": "Signature Select Evaporated - Milk -",
+    "serving_qty": 30,
+    "serving_unit": "ml",
+    "serving_label": "per 30ml (2 tbsp)",
+    "cal": 39.9,
+    "protein": 2.0,
+    "carbs": 3.0,
+    "fat": 2.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 80.1,
+      "iron": 0.0,
+      "potassium": 90.0,
+      "sodium": 24.9
+    },
+    "sub_group": "milk",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Signature Select"
+  }
+]

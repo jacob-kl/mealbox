@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Sara Lee 100% Whole Wheat Bread, 100% Whole Wheat",
+    "serving_qty": 26,
+    "serving_unit": "g",
+    "serving_label": "per 26g (1 Slice)",
+    "cal": 60.1,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 1.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 29.9,
+      "iron": 0.5,
+      "potassium": 60.06,
+      "sodium": 114.92
+    },
+    "sub_group": "breads_and_buns",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Sara Lee"
+  },
+  {
+    "name": "Sara Lee Hickory Smoked Turkey Breast Sandwich",
+    "serving_qty": 147,
+    "serving_unit": "g",
+    "serving_label": "per 147g (5.2 ONZ)",
+    "cal": 320.5,
+    "protein": 22.9,
+    "carbs": 34.0,
+    "fat": 11.0,
+    "fiber": 2.1,
+    "micros": {
+      "calcium": 249.9,
+      "iron": 2.7,
+      "potassium": 499.8,
+      "sodium": 999.6,
+      "vitamin_c": 1.18
+    },
+    "sub_group": "frozen_appetizers_and_hors_d'oeuvres",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Sara Lee"
+  },
+  {
+    "name": "Sara Lee Hillshire Farm, Angus Beef Polska Kielbasa",
+    "serving_qty": 56,
+    "serving_unit": "g",
+    "serving_label": "per 56g (2 ONZ)",
+    "cal": 170.2,
+    "protein": 7.0,
+    "carbs": 3.0,
+    "fat": 15.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "potassium": 269.92,
+      "sodium": 459.76,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "sausages_hotdogs_and_brats",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "brand": "Sara Lee"
+  },
+  {
+    "name": "Sara Lee Hillshire Farm, Deli Select, Honey Roasted Turkey Breast",
+    "serving_qty": 56,
+    "serving_unit": "g",
+    "serving_label": "per 56g (2 ONZ)",
+    "cal": 59.9,
+    "protein": 10.0,
+    "carbs": 4.0,
+    "fat": 0.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 380.24,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Sara Lee"
+  },
+  {
+    "name": "Sara Lee Kahn'S, Bologna",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (1 SLICE)",
+    "cal": 89.9,
+    "protein": 3.0,
+    "carbs": 1.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.88,
+      "iron": 0.0,
+      "sodium": 291.2,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [],
+    "allergens": [],
+    "brand": "Sara Lee"
+  },
+  {
+    "name": "Sara Lee Virginia Brand Ham",
+    "serving_qty": 57,
+    "serving_unit": "g",
+    "serving_label": "per 57g (3 SLICES)",
+    "cal": 59.8,
+    "protein": 9.0,
+    "carbs": 1.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "vitamin_c": 0.0,
+      "sodium": 420.09
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Sara Lee"
+  }
+]

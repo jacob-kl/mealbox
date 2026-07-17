@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Great Value Broccoli Florets",
+    "serving_qty": 85,
+    "serving_unit": "g",
+    "serving_label": "per 85g (1 cup)",
+    "cal": 24.6,
+    "protein": 3.0,
+    "carbs": 4.0,
+    "fat": 0.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 39.95,
+      "iron": 0.7,
+      "potassium": 279.65,
+      "sodium": 24.65
+    },
+    "sub_group": "frozen_vegetables",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Great Value"
+  },
+  {
+    "name": "Great Value Seasonal Sprinkles",
+    "serving_qty": 5,
+    "serving_unit": "g",
+    "serving_label": "per 5g (1 tsp.)",
+    "cal": 25.0,
+    "protein": 6.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 0.0
+    },
+    "sub_group": "baking_decorations_and_dessert_toppings",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Great Value"
+  },
+  {
+    "name": "Great Value, Cinnamon Waffles, Cinnamon",
+    "serving_qty": 70,
+    "serving_unit": "g",
+    "serving_label": "per 70g (2 WAFFLES)",
+    "cal": 249.9,
+    "protein": 4.0,
+    "carbs": 36.0,
+    "fat": 10.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 200.2,
+      "iron": 3.6,
+      "phosphorus": 200.2,
+      "vitamin_c": 0.0,
+      "vitamin_b12": 1.2,
+      "potassium": 35.0,
+      "sodium": 389.9
+    },
+    "sub_group": "frozen_pancakes_waffles_french_toast_and_crepes",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Great Value"
+  }
+]

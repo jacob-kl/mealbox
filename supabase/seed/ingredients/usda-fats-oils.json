@@ -664,9 +664,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Margarine, 80% fat, tub, CANOLA HARVEST Soft Spread (canola, palm and palm kernel oils)",
@@ -802,9 +800,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Margarine, regular, 80% fat, composite, stick, with salt",
@@ -1067,9 +1063,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Margarine,spread, 35-39% fat, tub",
@@ -1254,11 +1248,11 @@
     },
     "sub_group": "fats_oils",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)",
@@ -1300,11 +1294,11 @@
     },
     "sub_group": "fats_oils",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Margarine-like spread, SMART BEAT Smart Squeeze",
@@ -1448,8 +1442,7 @@
       "gluten-free"
     ],
     "allergens": [
-      "dairy",
-      "soy"
+      "dairy"
     ]
   },
   {
@@ -2272,11 +2265,11 @@
     },
     "sub_group": "fats_oils",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Oil, canola",
@@ -2869,7 +2862,9 @@
       "vitamin_d": 0.0
     },
     "sub_group": "fats_oils",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "dairy"
     ]
@@ -2901,7 +2896,8 @@
     "sub_group": "fats_oils",
     "dietary_tags": [
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "allergens": []
   },
@@ -3928,9 +3924,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Oil, soybean, salad or cooking",
@@ -3963,9 +3957,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Oil, soybean, salad or cooking, (partially hydrogenated)",
@@ -3998,9 +3990,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed",
@@ -4033,9 +4023,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Oil, sunflower, high oleic (70% and over)",
@@ -4316,9 +4304,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Oil, walnut",
@@ -4761,11 +4747,11 @@
     },
     "sub_group": "fats_oils",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Salad dressing, caesar dressing, regular",
@@ -5608,9 +5594,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Salad dressing, mayonnaise, imitation, soybean without cholesterol",
@@ -5643,9 +5627,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Salad dressing, mayonnaise, light",
@@ -5743,9 +5725,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Salad dressing, mayonnaise, soybean oil, without salt",
@@ -5773,9 +5753,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Salad dressing, mayonnaise-type, light",
@@ -5870,11 +5848,11 @@
     },
     "sub_group": "fats_oils",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Salad dressing, ranch dressing, fat-free",
@@ -6291,9 +6269,7 @@
       "vegan",
       "vegetarian"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)",
@@ -6326,9 +6302,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)",
@@ -6455,9 +6429,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening household soybean (hydrogenated) and palm",
@@ -6489,9 +6461,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening industrial, lard and vegetable oil",
@@ -6554,9 +6524,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening, confectionery, fractionated palm",
@@ -6652,9 +6620,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening, industrial, soy (partially hydrogenated ) and corn for frying",
@@ -6789,9 +6755,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening, special purpose for baking, soybean (hydrogenated) palm and cottonseed",
@@ -6823,9 +6787,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening, special purpose for cakes and frostings, soybean (hydrogenated)",
@@ -6857,9 +6819,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Shortening, vegetable, household, composite",

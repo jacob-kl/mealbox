@@ -1,0 +1,3303 @@
+[
+  {
+    "name": "Ken'S Steak House Dressing, Chef'S Reserve, Dressing, Farmhouse Ranch, With Buttermilk",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 159.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 260.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Balsamic Vinaigrette Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 309.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Buffalo Wing Sauce",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 15.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 1.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 360.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Extra Heavy Mayonnaise",
+    "serving_qty": 14,
+    "serving_unit": "g",
+    "serving_label": "per 14g (1 Tbsp)",
+    "cal": 100.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 75.04,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Fat Free Vinaigrette Dressing, Sun-Dried Tomato",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 69.8,
+    "protein": 0.0,
+    "carbs": 16.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 270.0,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Honey Teriyaki Marinade & Sauce",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 19.9,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 259.5,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "oriental_mexican_and_ethnic_sauces",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Italian Dressing & Marinade",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 90.0,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 531.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Lite Northern Italian With Basil & Romano Dressing & Marinade",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 45.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 260.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Marinade & Sauce, Herb & Garlic",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 19.9,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 1.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 370.5,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "seasoning_mixes_salts_marinades_and_tenderizers",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S Steak House, Marinade & Sauce, Lemon Pepper",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 15.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 30.0,
+      "sodium": 0.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "seasoning_mixes_salts_marinades_and_tenderizers",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Chef'S Reserve, Steak House Dressing, Golden Vidalia Onion",
+    "serving_qty": 30,
+    "serving_unit": "MG",
+    "serving_label": "per 30MG (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 95.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Dressing, Caesar",
+    "serving_qty": 30,
+    "serving_unit": "MG",
+    "serving_label": "per 30MG (2 Tbsp)",
+    "cal": 80.1,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 7.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 321.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Dressing, Italian",
+    "serving_qty": 30,
+    "serving_unit": "MG",
+    "serving_label": "per 30MG (2 Tbsp)",
+    "cal": 45.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 230.1,
+      "vitamin_c": 3.6
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Dressing, Ranch",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 80.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 309.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Honey French Dressing, Honey French",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 8.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 230.1,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Olive Oil & Vinegar Dressing",
+    "serving_qty": 30,
+    "serving_unit": "MG",
+    "serving_label": "per 30MG (2 Tbsp)",
+    "cal": 50.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 240.0,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Vinaigrette Balsamic Dressing",
+    "serving_qty": 30,
+    "serving_unit": "MG",
+    "serving_label": "per 30MG (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 210.0,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Light Options, Vinaigrette, Sweet Vidalia Onion",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 210.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken'S, Lite Dressing, Sun-Dried Tomato",
+    "serving_qty": 30,
+    "serving_unit": "MG",
+    "serving_label": "per 30MG (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 390.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Apple Cider Vinaigrette Dressing, Apple Cider Vinaigrette",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 0.0,
+    "carbs": 8.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 129.92,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Asian Sesame With Ginger & Soy Dressing & Marinade, Asian Sesame With Ginger & Soy",
+    "serving_qty": 34,
+    "serving_unit": "GRM",
+    "serving_label": "per 34GRM (2 Tbsp)",
+    "cal": 79.9,
+    "protein": 1.0,
+    "carbs": 9.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 448.8,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "seasoning_mixes_salts_marinades_and_tenderizers",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Balsamic Simply Vinaigrette, Balsamic",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 100.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 319.3,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Balsamic Vinaigrette Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 279.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Balsamic Vinaigrette Dressing, Balsamic Vinaigrette",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 110.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 239.94,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Balsamic With Honey Dressing, Balsamic With Honey",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 160.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Barbecue Sauce, Tennessee Whiskey",
+    "serving_qty": 33,
+    "serving_unit": "MG",
+    "serving_label": "per 33MG (2 Tbsp)",
+    "cal": 39.9,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.13,
+      "iron": 0.36,
+      "sodium": 299.97,
+      "vitamin_c": 2.41
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Blue Cheese Dressing, Blue Cheese",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (1.5 ONZ)",
+    "cal": 199.9,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 21.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.21,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 319.92
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Blue Cheese Dressing, Cheese",
+    "serving_qty": 43,
+    "serving_unit": "GRM",
+    "serving_label": "per 43GRM (1.5 oz (43g))",
+    "cal": 199.9,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 21.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.21,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 319.92,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Blue Cheese With Gorgonzola Dressing, Blue Cheese With Gorgonzola",
+    "serving_qty": 29,
+    "serving_unit": "MG",
+    "serving_label": "per 29MG (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 260.13
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Boom Boom Dipping Sauce And Spread, Boom Boom",
+    "serving_qty": 29,
+    "serving_unit": "g",
+    "serving_label": "per 29g (2 Tbsp)",
+    "cal": 120.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 0.0,
+      "sodium": 249.98
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Buttermilk Ranch Dressing Topping & Spread",
+    "serving_qty": 29,
+    "serving_unit": "MG",
+    "serving_label": "per 29MG (2 Tbsp)",
+    "cal": 169.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 19.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.01,
+      "iron": 0.0,
+      "sodium": 249.98,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Buttermilk Ranch Dressing, Buttermilk Ranch",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 169.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 19.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 249.98,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Caesar Dressing & Marinade, Caesar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 159.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 450.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Caesar Dressing, Caesar",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 399.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's California French Dressing, California French",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 140.2,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 230.08
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Carolina Sweet Original Barbecue Sauce, Carolina Sweet Original",
+    "serving_qty": 35,
+    "serving_unit": "GRM",
+    "serving_label": "per 35GRM (2 Tbsp)",
+    "cal": 50.0,
+    "protein": 0.0,
+    "carbs": 13.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 70.0,
+      "sodium": 240.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Chipotle Ranch Dressing, Chipotle Ranch",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 219.9
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Chunky Blue Cheese Dressing, Chunky Blue Cheese",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Chunky Blue Cheese Dressing, Topping & Spread, Chunky Blue Cheese",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Country French With Orange Blossom Honey Dressing, Country French With Orange Blossom Honey",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 140.2,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 230.08
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy Caesar Dressing Topping & Spread, Creamy Caesar",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 169.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 249.98,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy Caesar Dressing, Creamy Caesar",
+    "serving_qty": 29,
+    "serving_unit": "g",
+    "serving_label": "per 29g (2 Tbsp)",
+    "cal": 169.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 249.98
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy Caesar With Roasted Garlic Dressing, Creamy Caesar With Roasted Garlic",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 149.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 17.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 260.13,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy French Dressing, Creamy French",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 180.11
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy Italian Dressing, Creamy Italian",
+    "serving_qty": 30,
+    "serving_unit": "IU",
+    "serving_label": "per 30IU (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 300.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy Parmesan With Cracked Peppercorn Dressing, Creamy Parmesan With Cracked Peppercorn",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 270.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Creamy Wisconsin Blue Cheese Dressing, Creamy Wisconsin Blue Cheese",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 149.9,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 229.97,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Deluxe Italian Dressing, Deluxe Italian",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 461.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Dijon Honey Mustard Dressing, Dijon Honey Mustard",
+    "serving_qty": 29,
+    "serving_unit": "g",
+    "serving_label": "per 29g (2 Tbsp)",
+    "cal": 120.1,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 200.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Farmhouse Ranch With Buttermilk Dressing, Farmhouse Ranch With Buttermilk",
+    "serving_qty": 29,
+    "serving_unit": "IU",
+    "serving_label": "per 29IU (2 Tbsp)",
+    "cal": 149.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 260.13
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Fat Free Honey Dijon Dressing, Honey; Dijon",
+    "serving_qty": 43,
+    "serving_unit": "GRM",
+    "serving_label": "per 43GRM (1.5 oz (43g))",
+    "cal": 60.2,
+    "protein": 1.0,
+    "carbs": 13.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 390.01,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Fat Free Italian Dressing, Fat Free Italian",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 14.9,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 489.8
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Fat Free Raspberry Vinaigrette Dressing, Raspberry Vinaigrette",
+    "serving_qty": 43,
+    "serving_unit": "GRM",
+    "serving_label": "per 43GRM (1.5 oz (43g))",
+    "cal": 49.9,
+    "protein": 0.0,
+    "carbs": 12.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 114.81,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's French With Smoked Bacon Dressing, French With Smoked Bacon",
+    "serving_qty": 33,
+    "serving_unit": "GRM",
+    "serving_label": "per 33GRM (2 Tbsp)",
+    "cal": 139.9,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 260.04,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Garlic & Basil Dressing, Garlic & Basil",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 358.4,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Garlic Parmesan Dressing, Garlic Parmesan",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 120.1,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 260.13,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Greek Dressing, Greek",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 200.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Greek Simply Vinaigrette, Greek",
+    "serving_qty": 29,
+    "serving_unit": "IU",
+    "serving_label": "per 29IU (2 Tbsp)",
+    "cal": 120.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 298.7
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Greek Vinaigrette, Greek",
+    "serving_qty": 29,
+    "serving_unit": "g",
+    "serving_label": "per 29g (2 Tbsp)",
+    "cal": 120.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 298.7
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Greek With Feta Cheese And Black Olives Dressing, Greek With Feta Cheese And Black Olives",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 279.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Greek With Feta Cheese And Black Olives Vinaigrette, Greek With Feta Cheese And Black Olives",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 90.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 260.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Honey Balsamic Dressing, Honey Balsamic",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 8.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 160.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Honey Dijon Dressing, Honey Dijon",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (1.5 ONZ)",
+    "cal": 60.2,
+    "protein": 1.0,
+    "carbs": 13.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 390.01
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Honey Mustard Dressing, Honey Mustard",
+    "serving_qty": 43,
+    "serving_unit": "IU",
+    "serving_label": "per 43IU (1.5 oz)",
+    "cal": 230.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 23.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 150.07
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Honey Mustard Dressing, Topping & Spread, Honey Mustard",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 140.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's House Italian Dressing & Marinade, House Italian",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 499.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Italian Dressing & Marinade, Italian",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 17.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 459.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Italian Dressing, Italian",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 279.93,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Italian Lite Dressing, Italian",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (1.5 ONZ)",
+    "cal": 60.2,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Italian With Aged Romano Dressing & Marinade, Italian With Aged Romano",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Italian With Garlic And Asiago Cheese Dressing, Italian With Garlic And Asiago Cheese",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 399.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Korean Bbq Marinade And Sauce, Korean Bbq",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 1.0,
+    "carbs": 11.0,
+    "fat": 0.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 630.0
+    },
+    "sub_group": "seasoning_mixes_salts_marinades_and_tenderizers",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Balsamic Vinaigrette Dressing & Marinade, Lite Balsamic Vinaigrette",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 319.3,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Balsamic Vinaigrette Dressing, Lite Balsamic Vinaigrette",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 319.3
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Buttermilk Ranch Dressing, Topping & Spread, Lite Buttermilk Ranch",
+    "serving_qty": 31,
+    "serving_unit": "IU",
+    "serving_label": "per 31IU (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 319.3
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Caesar Dressing & Marinade, Lite Caesar",
+    "serving_qty": 32,
+    "serving_unit": "IU",
+    "serving_label": "per 32IU (2 Tbsp)",
+    "cal": 70.1,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.84,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 601.6
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Chunky Blue Cheese Dressing, Lite Chunky Blue Cheese",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 80.0,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 359.6,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Country French With Orange Blossom Honey Dressing, Lite Country French With Orange Blossom Honey",
+    "serving_qty": 34,
+    "serving_unit": "IU",
+    "serving_label": "per 34IU (2 Tbsp)",
+    "cal": 100.0,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 240.04
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Creamy Caesar Dressing, Lite Creamy Caesar",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 9.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 341.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Creamy Caesar Dressing, Topping & Spread, Lite Creamy Caesar",
+    "serving_qty": 31,
+    "serving_unit": "IU",
+    "serving_label": "per 31IU (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 9.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 341.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Dressing, Olive Oil Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 240.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Honey Mustard Dressing, Lite Honey Mustard",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 179.84,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Honey Mustard Dressing, Topping & Spread, Lite Honey Mustard",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 179.84,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Italian Dressing",
+    "serving_qty": 43,
+    "serving_unit": "GRM",
+    "serving_label": "per 43GRM (1.5 oz (43g))",
+    "cal": 60.2,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 390.01,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Italian Dressing & Marinade, Lite Italian",
+    "serving_qty": 31,
+    "serving_unit": "IU",
+    "serving_label": "per 31IU (2 Tbsp)",
+    "cal": 45.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 409.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Northern Italian With Basil & Romano Dressing & Marinade, Lite Northern Italian With Basil & Romano",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 50.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 279.9
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Olive Oil Vinaigrette Dressing, Lite Olive Oil Vinaigrette",
+    "serving_qty": 31,
+    "serving_unit": "IU",
+    "serving_label": "per 31IU (2 Tbsp)",
+    "cal": 70.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 239.94
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Ranch Dressing, Lite Ranch",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 80.1,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 29.1,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 270.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Raspberry Walnut Vinaigrette Dressing & Marinade, Lite Raspberry Walnut Vinaigrette",
+    "serving_qty": 32,
+    "serving_unit": "IU",
+    "serving_label": "per 32IU (2 Tbsp)",
+    "cal": 80.0,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 129.92
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Red Wine Vinegar & Olive Oil Dressing, Lite Red Wine Vinegar & Olive Oil",
+    "serving_qty": 31,
+    "serving_unit": "IU",
+    "serving_label": "per 31IU (2 Tbsp)",
+    "cal": 49.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 289.85
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Lite Sweet Vidalia Onion Dressing, Lite Sweet Vidalia Onion",
+    "serving_qty": 34,
+    "serving_unit": "GRM",
+    "serving_label": "per 34GRM (2 Tbsp)",
+    "cal": 90.1,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 79.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Marinade & Sauce, Teriyaki",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 19.9,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 259.5,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "oriental_mexican_and_ethnic_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Memphis Style Sweet & Smokey Barbecue Sauce, Memphis Style Sweet & Smokey",
+    "serving_qty": 35,
+    "serving_unit": "GRM",
+    "serving_label": "per 35GRM (2 Tbsp)",
+    "cal": 45.1,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 70.0,
+      "sodium": 330.05,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Olive Oil & Vinegar Simply Vinaigrette, Olive Oil & Vinegar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 309.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Original Sugar Free Barbecue Sauce, Original Sugar Free",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 9.9,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 358.4,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Parmesan & Peppercorn Dressing, Parmesan & Peppercorn",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 260.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Peppercorn Ranch Dressing, Peppercorn Ranch",
+    "serving_qty": 29,
+    "serving_unit": "g",
+    "serving_label": "per 29g (2 Tbsp)",
+    "cal": 169.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 19.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 249.98
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Ranch Dressing",
+    "serving_qty": 43,
+    "serving_unit": "GRM",
+    "serving_label": "per 43GRM (1.5 oz (43g))",
+    "cal": 190.1,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 20.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 270.04,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Ranch Dressing, Ranch",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (1.5 ONZ)",
+    "cal": 190.1,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 20.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 270.04
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Ranch Dressing, Topping & Spread, Ranch",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Ranch Lite Dressing, Ranch",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 80.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 321.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Raspberry Pecan Dressing, Raspberry Pecan",
+    "serving_qty": 34,
+    "serving_unit": "g",
+    "serving_label": "per 34g (2 Tbsp)",
+    "cal": 44.9,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.02
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Raspberry Pecan Fat Free Dressing, Raspberry Pecan",
+    "serving_qty": 34,
+    "serving_unit": "GRM",
+    "serving_label": "per 34GRM (2 Tbsp)",
+    "cal": 44.9,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.02,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Raspberry Pomegranate Dressing, Lite, Raspberry Pomegranate",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 135.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Raspberry Vinaigrette Dressing, Raspberry",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (1.5 ONZ)",
+    "cal": 49.9,
+    "protein": 0.0,
+    "carbs": 12.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 114.81
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Raspberry Walnut Dressing, Raspberry Walnut",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 70.1,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 190.08,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [
+      "tree_nut"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Red Wine Vinegar & Olive Oil Dressing, Red Wine Vinegar & Olive Oil",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 368.9,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Roasted Sesame Dressing & Marinade, Roasted Sesame",
+    "serving_qty": 29,
+    "serving_unit": "IU",
+    "serving_label": "per 29IU (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 1.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 0.0,
+      "sodium": 260.13
+    },
+    "sub_group": "seasoning_mixes_salts_marinades_and_tenderizers",
+    "dietary_tags": [],
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Russian Dressing, Russian",
+    "serving_qty": 30,
+    "serving_unit": "IU",
+    "serving_label": "per 30IU (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 230.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Simply Vinaigrette, Asian",
+    "serving_qty": 32,
+    "serving_unit": "MG",
+    "serving_label": "per 32MG (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 400.0,
+      "vitamin_c": 1.22
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Southern Sweet & Spicy Barbecue Sauce, Southern Sweet & Spicy",
+    "serving_qty": 34,
+    "serving_unit": "IU",
+    "serving_label": "per 34IU (2 Tbsp)",
+    "cal": 44.9,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 70.04,
+      "sodium": 360.4
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Southwest Ranch  Dressing Topping & Spared",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 300.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sticky Spicy Wing Sauce With Gochujang, Sticky Spicy With Gochujang",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 1.0,
+    "carbs": 15.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Strawberry Vinaigrette With White Balsamic Dressing",
+    "serving_qty": 31,
+    "serving_unit": "MG",
+    "serving_label": "per 31MG (2 Tbsp)",
+    "cal": 70.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 7.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 140.12,
+      "vitamin_c": 1.21
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sun-Dried Tomato Dressing",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 69.8,
+    "protein": 0.0,
+    "carbs": 16.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 270.0,
+      "vitamin_c": 1.19
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Supreme Blue Cheese Dressing, Supreme Blue Cheese",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 240.12
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sweet & Spicy Korean Bbq Marinade And Sauce, Sweet & Spicy Korean Bbq",
+    "serving_qty": 19,
+    "serving_unit": "GRM",
+    "serving_label": "per 19GRM (1 Tbsp)",
+    "cal": 30.0,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 0.0,
+      "sodium": 389.5,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sweet & Tangy Carolina Gold Barbecue Sauce, Sweet & Tangy Carolina Gold",
+    "serving_qty": 34,
+    "serving_unit": "IU",
+    "serving_label": "per 34IU (2 Tbsp)",
+    "cal": 44.9,
+    "protein": 1.0,
+    "carbs": 10.0,
+    "fat": 0.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 179.86
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sweet Garlic Teriyaki Marinade And Sauce, Sweet Garlic Teriyaki",
+    "serving_qty": 37,
+    "serving_unit": "g",
+    "serving_label": "per 37g (2 Tbsp)",
+    "cal": 59.9,
+    "protein": 1.0,
+    "carbs": 14.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 728.9
+    },
+    "sub_group": "oriental_mexican_and_ethnic_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sweet N' Sour Sauce, Sweet N' Sour",
+    "serving_qty": 36,
+    "serving_unit": "GRM",
+    "serving_label": "per 36GRM (2 Tbsp)",
+    "cal": 60.1,
+    "protein": 0.0,
+    "carbs": 17.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 209.88
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sweet Orange Chili Sauce With Garlic And Soy, Sweet Orange Chili With Garlic And Soy",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 69.8,
+    "protein": 1.0,
+    "carbs": 13.0,
+    "fat": 1.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 748.8
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten",
+      "fish",
+      "soy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Sweet Vidalia Onion Dressing, Sweet Vidalia Onion",
+    "serving_qty": 33,
+    "serving_unit": "GRM",
+    "serving_label": "per 33GRM (2 Tbsp)",
+    "cal": 130.0,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 79.86,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Tableside Caesar Dressing, Tableside Caesar",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 149.9,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 420.5,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Thousand Island Dressing, Thousand Island",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 239.94,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Thousand Island Dressing, Topping & Spread, Thousand Island",
+    "serving_qty": 31,
+    "serving_unit": "GRM",
+    "serving_label": "per 31GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 239.94,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Thousand Island Lite Dressing, Thousand Island",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 80.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 289.92
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Three Cheese Italian Parmesan, Asiago And Romano Dressing & Marinade, Three Cheese Italian",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 348.8,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Zesty Italian Dressing & Marinade, Zesty Italian",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 560.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  },
+  {
+    "name": "Ken's Zesty Italian Dressing, Zesty Italian",
+    "serving_qty": 29,
+    "serving_unit": "GRM",
+    "serving_label": "per 29GRM (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 461.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Ken's"
+  }
+]

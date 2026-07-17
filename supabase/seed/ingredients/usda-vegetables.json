@@ -3767,11 +3767,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Butterbur, canned",
@@ -3800,11 +3800,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Butterbur, cooked, boiled, drained, with salt",
@@ -3833,11 +3833,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Butterbur, cooked, boiled, drained, without salt",
@@ -3866,11 +3866,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt",
@@ -6270,6 +6270,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -6301,6 +6303,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -6332,6 +6336,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -6363,6 +6369,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -6394,6 +6402,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -6425,6 +6435,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -10179,6 +10191,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -10210,6 +10224,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -10241,6 +10257,8 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": []
@@ -10536,11 +10554,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Lettuce, cos or romaine, raw",
@@ -12856,7 +12874,8 @@
     "sub_group": "vegetables",
     "dietary_tags": [
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "allergens": []
   },
@@ -12888,7 +12907,8 @@
     "sub_group": "vegetables",
     "dietary_tags": [
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "allergens": []
   },
@@ -18945,8 +18965,7 @@
       "gluten-free"
     ],
     "allergens": [
-      "dairy",
-      "shellfish"
+      "dairy"
     ]
   },
   {
@@ -18976,11 +18995,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "shellfish"
-    ]
+    "allergens": []
   },
   {
     "name": "Potatoes, scalloped, home-prepared with butter",
@@ -19011,8 +19030,7 @@
       "gluten-free"
     ],
     "allergens": [
-      "dairy",
-      "shellfish"
+      "dairy"
     ]
   },
   {
@@ -19042,11 +19060,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "shellfish"
-    ]
+    "allergens": []
   },
   {
     "name": "Potatoes, white, flesh and skin, baked",
@@ -20731,9 +20749,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, green, cooked, boiled, drained, without salt",
@@ -20766,9 +20782,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, green, raw",
@@ -20801,9 +20815,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, sprouted, cooked, steamed",
@@ -20836,9 +20848,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, sprouted, cooked, steamed, with salt",
@@ -20871,9 +20881,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, sprouted, cooked, stir-fried",
@@ -20906,9 +20914,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, sprouted, cooked, stir-fried, with salt",
@@ -20941,9 +20947,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, sprouted, raw",
@@ -20976,9 +20980,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Spinach souffle",
@@ -22261,11 +22263,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Squash, winter, butternut, cooked, baked, without salt",
@@ -22294,11 +22296,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Squash, winter, butternut, frozen, cooked, boiled, with salt",
@@ -22327,11 +22329,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Squash, winter, butternut, frozen, cooked, boiled, without salt",
@@ -22360,11 +22362,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Squash, winter, butternut, frozen, unprepared",
@@ -22393,11 +22395,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Squash, winter, butternut, raw",
@@ -22426,11 +22428,11 @@
     },
     "sub_group": "vegetables",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "Squash, winter, hubbard, baked, with salt",
@@ -26157,9 +26159,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "tree_nut"
-    ]
+    "allergens": []
   },
   {
     "name": "Waterchestnuts, chinese, canned, solids and liquids",
@@ -26192,9 +26192,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "tree_nut"
-    ]
+    "allergens": []
   },
   {
     "name": "Watercress, raw",

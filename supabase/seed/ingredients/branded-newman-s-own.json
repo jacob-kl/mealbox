@@ -1,0 +1,6163 @@
+[
+  {
+    "name": "Newman'S Own, All Natural Thin & Crispy Supreme Pizza",
+    "serving_qty": 139,
+    "serving_unit": "g",
+    "serving_label": "per 139g (0.333 PIZZA)",
+    "cal": 319.7,
+    "protein": 14.0,
+    "carbs": 32.9,
+    "fat": 15.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 200.16,
+      "iron": 1.45,
+      "sodium": 750.6,
+      "vitamin_c": 17.93
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Apricots",
+    "serving_qty": 40,
+    "serving_unit": "g",
+    "serving_label": "per 40g (0.25 cup)",
+    "cal": 100.0,
+    "protein": 1.0,
+    "carbs": 25.0,
+    "fat": 0.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 20.0,
+      "iron": 1.08,
+      "potassium": 460.0,
+      "sodium": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Black Bean & Corn Salsa, Medium",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 19.8,
+    "protein": 1.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 19.84,
+      "iron": 0.36,
+      "sodium": 140.16,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Caesar Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 339.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Chicken Parmigiana & Penne Skillet Meal",
+    "serving_qty": 340,
+    "serving_unit": "g",
+    "serving_label": "per 340g (0.5 PACKAGE)",
+    "cal": 448.8,
+    "protein": 23.0,
+    "carbs": 47.9,
+    "fat": 21.0,
+    "fiber": 5.1,
+    "micros": {
+      "calcium": 251.6,
+      "iron": 3.6,
+      "sodium": 958.8,
+      "vitamin_c": 11.9
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Common Good Organic Marinara Pasta Sauce",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 99.6,
+    "protein": 2.0,
+    "carbs": 8.0,
+    "fat": 8.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 0.73,
+      "sodium": 389.91,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Complete Skillet Meal For Two, Chicken Florentine & Farfalle",
+    "serving_qty": 340,
+    "serving_unit": "g",
+    "serving_label": "per 340g (0.5 PACKAGE)",
+    "cal": 370.6,
+    "protein": 27.0,
+    "carbs": 42.2,
+    "fat": 10.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 251.6,
+      "iron": 2.69,
+      "sodium": 799.0,
+      "vitamin_c": 8.84
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Complete Skillet Meal, Beef & Broccoli",
+    "serving_qty": 312,
+    "serving_unit": "g",
+    "serving_label": "per 312g (0.5 PACKAGE)",
+    "cal": 249.6,
+    "protein": 20.0,
+    "carbs": 23.0,
+    "fat": 9.0,
+    "fiber": 5.0,
+    "micros": {
+      "calcium": 81.12,
+      "iron": 2.71,
+      "sodium": 789.36,
+      "vitamin_c": 59.9
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "shellfish",
+      "fish",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Complete Skillet Meal, Orange Chicken",
+    "serving_qty": 312,
+    "serving_unit": "g",
+    "serving_label": "per 312g (312 GRM)",
+    "cal": 421.2,
+    "protein": 17.0,
+    "carbs": 52.1,
+    "fat": 16.0,
+    "fiber": 5.9,
+    "micros": {
+      "calcium": 59.28,
+      "iron": 1.81,
+      "sodium": 798.72,
+      "vitamin_c": 5.93
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "shellfish",
+      "fish",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Creamy Balsamic Dressing",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 200.1,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Dark Chocolate",
+    "serving_qty": 92,
+    "serving_unit": "g",
+    "serving_label": "per 92g (1 BAR)",
+    "cal": 470.1,
+    "protein": 4.0,
+    "carbs": 53.0,
+    "fat": 32.0,
+    "fiber": 6.0,
+    "micros": {
+      "calcium": 39.56,
+      "iron": 2.7,
+      "sodium": 10.12,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "chocolate",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Dressing, Poppy Seed",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 219.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Dressing, Sesame Ginger",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 35.1,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 1.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 300.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Five Cheese Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 90.0,
+    "protein": 4.0,
+    "carbs": 14.0,
+    "fat": 2.5,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 80.0,
+      "iron": 1.07,
+      "sodium": 450.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Garden Peppers Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 50.0,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 1.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 60.0,
+      "iron": 1.07,
+      "sodium": 440.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Garlic Chicken, Vegetables & Farfalle Skillet Meal",
+    "serving_qty": 340,
+    "serving_unit": "g",
+    "serving_label": "per 340g (0.5 PACKAGE)",
+    "cal": 299.2,
+    "protein": 22.0,
+    "carbs": 40.1,
+    "fat": 8.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 149.6,
+      "iron": 1.8,
+      "sodium": 819.4,
+      "vitamin_c": 42.16
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, General Paul'S Chicken Complete Skillet Meal",
+    "serving_qty": 312,
+    "serving_unit": "g",
+    "serving_label": "per 312g (0.5 PACKAGE)",
+    "cal": 399.4,
+    "protein": 19.0,
+    "carbs": 48.0,
+    "fat": 16.0,
+    "fiber": 5.0,
+    "micros": {
+      "calcium": 59.28,
+      "iron": 1.44,
+      "sodium": 720.72,
+      "vitamin_c": 48.05
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "shellfish",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Greek Nonfat Yogurt, Peach",
+    "serving_qty": 150,
+    "serving_unit": "g",
+    "serving_label": "per 150g (1 CONTAINER)",
+    "cal": 120.0,
+    "protein": 12.0,
+    "carbs": 18.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 150.0,
+      "iron": 0.0,
+      "sodium": 60.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Greek Nonfat Yogurt, Strawberry",
+    "serving_qty": 150,
+    "serving_unit": "g",
+    "serving_label": "per 150g (1 CONTAINER)",
+    "cal": 120.0,
+    "protein": 12.0,
+    "carbs": 19.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 150.0,
+      "iron": 0.0,
+      "sodium": 55.5,
+      "vitamin_c": 6.0
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Greek Vinaigrette Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 270.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Grilled Chicken Teriyaki With Lo Mein Noodles",
+    "serving_qty": 312,
+    "serving_unit": "g",
+    "serving_label": "per 312g (0.5 PACAKGE)",
+    "cal": 349.4,
+    "protein": 21.0,
+    "carbs": 54.0,
+    "fat": 5.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 18.72,
+      "iron": 1.09,
+      "sodium": 789.36,
+      "vitamin_c": 18.1
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Honey French Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 170.1,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Honey Mustard Dressing, Honey",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 0.0,
+      "sodium": 240.0,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Hot Chunky Salsa, Hot",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 9.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 150.08,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Italian Sausage & Rigatoni Skillet Meal",
+    "serving_qty": 340,
+    "serving_unit": "g",
+    "serving_label": "per 340g (0.5 PACKAGE)",
+    "cal": 510.0,
+    "protein": 19.0,
+    "carbs": 47.9,
+    "fat": 28.0,
+    "fiber": 5.1,
+    "micros": {
+      "calcium": 81.6,
+      "iron": 3.6,
+      "sodium": 731.0,
+      "vitamin_c": 54.06
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Light Italian Dressing",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 260.1,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Lighten Up!, Light Caesar Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 0.0,
+      "sodium": 381.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Lime Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 321.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Lite Italian Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 260.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Lite Raspberry & Walnut Dressing, Raspberry & Walnut",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 120.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Newman-O's, Chocolate Creme Filled Chocolate Cookies, Chocolate Creme",
+    "serving_qty": 27,
+    "serving_unit": "g",
+    "serving_label": "per 27g (2 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 109.89,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Newman-O's, Creme Filled Chocolate Cookies",
+    "serving_qty": 27,
+    "serving_unit": "g",
+    "serving_label": "per 27g (2 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 6.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 19.98,
+      "iron": 0.72,
+      "sodium": 119.88,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Newman-O's, Creme Filled Mint Chocolate Cookies",
+    "serving_qty": 27,
+    "serving_unit": "GRM",
+    "serving_label": "per 27GRM (2 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 109.89,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organic Pasta Sauce, Roasted Garlic",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 109.5,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 8.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 1.08,
+      "sodium": 389.91,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organic Pasta Sauce, Tomato Basil",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 99.6,
+    "protein": 2.0,
+    "carbs": 7.0,
+    "fat": 8.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 0.73,
+      "sodium": 389.91,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organic Super Dark Chocolate Cups With Raspberry Centers",
+    "serving_qty": 53,
+    "serving_unit": "g",
+    "serving_label": "per 53g (1 PACKAGE)",
+    "cal": 240.1,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fat": 15.0,
+    "fiber": 4.0,
+    "micros": {
+      "calcium": 20.14,
+      "iron": 1.44,
+      "sodium": 0.0,
+      "vitamin_c": 1.22
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Balsamic Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 270.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Cinnmon Mints, Hot",
+    "serving_qty": 2,
+    "serving_unit": "g",
+    "serving_label": "per 2g (2 PIECES)",
+    "cal": 10.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "chewing_gum_and_mints",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Dressing, Caesar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 279.9,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Italian Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 321.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Marinara Pasta Sauce",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 80.0,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 4.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 0.73,
+      "sodium": 380.07,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Olive Oil & Vinegar Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 135.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Pasta Sauce, Tomato & Basil",
+    "serving_qty": 123,
+    "serving_unit": "GRM",
+    "serving_label": "per 123GRM (0.5 cup)",
+    "cal": 80.0,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 4.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 0.73,
+      "sodium": 380.07,
+      "vitamin_c": 0.0,
+      "vitamin_a": 225.09
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics Ranch Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 290.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Organics, Raisins",
+    "serving_qty": 14,
+    "serving_unit": "g",
+    "serving_label": "per 14g (1 BOX)",
+    "cal": 40.0,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 105.0,
+      "sodium": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Pasta Sauce, Cabernet Marinara",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 70.1,
+    "protein": 2.0,
+    "carbs": 10.0,
+    "fat": 3.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 1.08,
+      "sodium": 590.4,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Pasta Sauce, Italian Sausage & Peppers",
+    "serving_qty": 126,
+    "serving_unit": "g",
+    "serving_label": "per 126g (0.5 cup)",
+    "cal": 89.5,
+    "protein": 4.0,
+    "carbs": 11.0,
+    "fat": 4.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 40.32,
+      "iron": 1.08,
+      "sodium": 630.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Pasta Sauce, Roasted Garlic",
+    "serving_qty": 126,
+    "serving_unit": "g",
+    "serving_label": "per 126g (0.5 cup)",
+    "cal": 70.6,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 2.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 40.32,
+      "iron": 1.44,
+      "sodium": 579.6,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Pasta Sauce, Sweet Onion, Roasted Garlic",
+    "serving_qty": 124,
+    "serving_unit": "g",
+    "serving_label": "per 124g (0.5 cup)",
+    "cal": 59.5,
+    "protein": 2.0,
+    "carbs": 12.0,
+    "fat": 1.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 59.52,
+      "iron": 1.44,
+      "sodium": 529.48,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Peanut Butter Cups",
+    "serving_qty": 34,
+    "serving_unit": "g",
+    "serving_label": "per 34g (1 PACKAGE)",
+    "cal": 179.9,
+    "protein": 3.0,
+    "carbs": 18.0,
+    "fat": 11.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 79.9,
+      "iron": 1.08,
+      "sodium": 49.98,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "peanut",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Premium Organic Dark Chocolate, Orange",
+    "serving_qty": 92,
+    "serving_unit": "g",
+    "serving_label": "per 92g (1 BAR)",
+    "cal": 470.1,
+    "protein": 4.0,
+    "carbs": 52.0,
+    "fat": 31.0,
+    "fiber": 6.0,
+    "micros": {
+      "calcium": 39.56,
+      "iron": 2.7,
+      "sodium": 10.12,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "chocolate",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Premium Organic Milk Chocolate",
+    "serving_qty": 92,
+    "serving_unit": "g",
+    "serving_label": "per 92g (1 BAR)",
+    "cal": 480.2,
+    "protein": 5.0,
+    "carbs": 54.0,
+    "fat": 30.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 250.24,
+      "iron": 3.6,
+      "sodium": 45.08,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "chocolate",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Salsa, Medium, Mango Tango",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 25.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 19.84,
+      "iron": 0.36,
+      "sodium": 200.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Sockarooni Pasta Sauce",
+    "serving_qty": 124,
+    "serving_unit": "g",
+    "serving_label": "per 124g (0.5 cup)",
+    "cal": 69.4,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 1.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 39.68,
+      "iron": 1.44,
+      "sodium": 460.04,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Spelt Pretzels",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (18 PRETZELS)",
+    "cal": 120.0,
+    "protein": 4.0,
+    "carbs": 23.0,
+    "fat": 1.0,
+    "fiber": 4.0,
+    "micros": {
+      "sodium": 240.0
+    },
+    "sub_group": "chips_pretzels_and_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Strawberry Fig And Strawberry Filled Cookies",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 BARS)",
+    "cal": 110.1,
+    "protein": 1.0,
+    "carbs": 22.0,
+    "fat": 1.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 19.84,
+      "iron": 0.36,
+      "sodium": 135.04,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Sun Dried Tomato Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 381.0,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, The Second Generation, Super Dark Chocolate Cups With Peanut Butter Centers",
+    "serving_qty": 53,
+    "serving_unit": "g",
+    "serving_label": "per 53g (1 PACKAGE)",
+    "cal": 279.8,
+    "protein": 5.0,
+    "carbs": 25.0,
+    "fat": 20.0,
+    "fiber": 4.0,
+    "micros": {
+      "calcium": 39.75,
+      "iron": 1.44,
+      "sodium": 59.89,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "peanut",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Thin & Crispy Margherita Pizza",
+    "serving_qty": 131,
+    "serving_unit": "g",
+    "serving_label": "per 131g (0.333 PIZZA)",
+    "cal": 280.3,
+    "protein": 12.0,
+    "carbs": 31.0,
+    "fat": 12.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 250.21,
+      "iron": 1.07,
+      "sodium": 649.76,
+      "vitamin_c": 9.04
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Thin & Crispy Multi-Grain Crust With Flaxseed Pizza",
+    "serving_qty": 116,
+    "serving_unit": "g",
+    "serving_label": "per 116g (0.334 PIZZA)",
+    "cal": 270.3,
+    "protein": 14.0,
+    "carbs": 31.0,
+    "fat": 10.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 199.52,
+      "iron": 1.08,
+      "sodium": 540.56,
+      "vitamin_c": 1.16
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Thin & Crispy Pizza, Four Cheese",
+    "serving_qty": 126,
+    "serving_unit": "g",
+    "serving_label": "per 126g (0.333 PIZZA)",
+    "cal": 299.9,
+    "protein": 16.0,
+    "carbs": 31.0,
+    "fat": 13.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 350.28,
+      "iron": 1.44,
+      "sodium": 609.84,
+      "vitamin_c": 4.79
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Thin & Crispy Pizza, Uncured Pepperoni",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.333 PIZZA)",
+    "cal": 320.0,
+    "protein": 15.0,
+    "carbs": 31.0,
+    "fat": 16.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 200.0,
+      "iron": 1.44,
+      "sodium": 800.0,
+      "vitamin_c": 4.75
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Vinaigrette, Olive Oil & Red Wine Vinegar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 50.1,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 351.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Vinaigrette, Roasted Garlic Balasamic",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 50.1,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 381.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, Vodka Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 140.0,
+    "protein": 3.0,
+    "carbs": 10.0,
+    "fat": 10.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 100.0,
+      "iron": 1.07,
+      "sodium": 410.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman'S Own, White Thin & Crispy Multi-Grain Crust With Flaxseed Pizza",
+    "serving_qty": 114,
+    "serving_unit": "g",
+    "serving_label": "per 114g (0.33 PIZZA)",
+    "cal": 280.4,
+    "protein": 11.0,
+    "carbs": 31.0,
+    "fat": 12.0,
+    "fiber": 2.1,
+    "micros": {
+      "calcium": 199.5,
+      "iron": 1.08,
+      "sodium": 630.42,
+      "vitamin_c": 1.25
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own 100% Extra Virgin Olive Oil & Balsamic Dressing, 100% Extra Virgin Olive Oil & Balsamic",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 3.9,
+      "iron": 0.0,
+      "potassium": 21.0,
+      "sodium": 290.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own All Natural Pizza, Thin & Crispy Multi-Grain With Flaxseed, Mediterranean",
+    "serving_qty": 128,
+    "serving_unit": "g",
+    "serving_label": "per 128g (0.33 PIZZA)",
+    "cal": 270.1,
+    "protein": 11.0,
+    "carbs": 33.0,
+    "fat": 10.0,
+    "fiber": 2.9,
+    "micros": {
+      "calcium": 199.68,
+      "iron": 1.43,
+      "sodium": 569.6,
+      "vitamin_c": 8.96
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own All Natural Virgin Limeade",
+    "serving_qty": 240,
+    "serving_unit": "ml",
+    "serving_label": "per 240ml (8 OZA)",
+    "cal": 139.2,
+    "protein": 0.0,
+    "carbs": 34.1,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 36.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "soda",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Alphabet Cookies, Chocolate",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (10 COOKIES)",
+    "cal": 110.0,
+    "protein": 2.0,
+    "carbs": 21.0,
+    "fat": 3.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 140.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Alphabet Cookies, Vanilla",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (10 COOKIES)",
+    "cal": 120.1,
+    "protein": 2.0,
+    "carbs": 21.0,
+    "fat": 3.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 19.88,
+      "iron": 0.36,
+      "sodium": 134.96,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Asiago Caesar With Garlic 100% Extra Virgin Olive Oil Dressing, Asiago Caesar With Garlic",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 159.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 189.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 12.9,
+      "iron": 0.0,
+      "potassium": 18.0,
+      "sodium": 339.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Balsamic Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 90.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 279.9,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Balsamic Vinaigrette Dressing, Balsamic Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 270.0,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Balsamic Vinaigrette, Balsamic",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 270.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Balsamic Vinegar Of Modena",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 15.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "other_condiments",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Barbecue Sauce, Hickory",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 69.8,
+    "protein": 0.0,
+    "carbs": 17.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.16,
+      "iron": 0.36,
+      "sodium": 290.16,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Barbecue Sauce, Honey",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 69.8,
+    "protein": 0.0,
+    "carbs": 17.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.16,
+      "iron": 0.36,
+      "sodium": 280.08,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Barbecue Sauce, Original",
+    "serving_qty": 36,
+    "serving_unit": "g",
+    "serving_label": "per 36g (2 Tbsp)",
+    "cal": 69.8,
+    "protein": 0.0,
+    "carbs": 17.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.16,
+      "iron": 0.36,
+      "sodium": 270.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Berry Blend",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (1 BOX)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 23.0,
+    "fat": 0.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "potassium": 105.0,
+      "sodium": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Black Licorice",
+    "serving_qty": 42,
+    "serving_unit": "g",
+    "serving_label": "per 42g (5 PIECES)",
+    "cal": 130.2,
+    "protein": 2.0,
+    "carbs": 31.0,
+    "fat": 1.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 1.08,
+      "sodium": 20.16
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Bleu Cheese Dressing",
+    "serving_qty": 42.5,
+    "serving_unit": "g",
+    "serving_label": "per 42.5g (1.5 ONZ)",
+    "cal": 220.2,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 23.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.97,
+      "iron": 0.0,
+      "sodium": 471.75,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Blueberry Fruit On The Bottom Greek Nonfat Yogurt, Blueberry",
+    "serving_qty": 150,
+    "serving_unit": "g",
+    "serving_label": "per 150g (1 CONTAINER)",
+    "cal": 120.0,
+    "protein": 12.0,
+    "carbs": 18.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 150.0,
+      "iron": 0.0,
+      "sodium": 60.0,
+      "vitamin_c": 3.6
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Buffalo Style Chicken White Chicken Breast Meat, Buffalo Style Ranch Sauce & Whole Milk Mozzarella Cheese Thin And Crispy Pizza, Buffalo Style Chicken",
+    "serving_qty": 143,
+    "serving_unit": "g",
+    "serving_label": "per 143g (0.333 PIZZA)",
+    "cal": 370.4,
+    "protein": 16.0,
+    "carbs": 36.0,
+    "fat": 18.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 248.82,
+      "iron": 1.0,
+      "potassium": 197.34,
+      "sodium": 690.69
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Butter Organic Microwave Popcorn Bags, Butter",
+    "serving_qty": 33,
+    "serving_unit": "GRM",
+    "serving_label": "per 33GRM (3.5 cups popped)",
+    "cal": 150.2,
+    "protein": 4.0,
+    "carbs": 23.0,
+    "fat": 4.5,
+    "fiber": 5.0,
+    "micros": {
+      "calcium": 9.9,
+      "iron": 1.1,
+      "potassium": 0.0,
+      "sodium": 250.14,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Buttermilk Ranch 100% Extra Virgin Olive Oil Dressing, Buttermilk Ranch",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 8.1,
+      "iron": 0.0,
+      "potassium": 15.0,
+      "sodium": 240.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Cabernet Marinara Pasta Sauce, Cabernet Marinara",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (1/2 cup)",
+    "cal": 80.0,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 2.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 30.0,
+      "iron": 0.8,
+      "potassium": 550.0,
+      "sodium": 550.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Caesar Avocado Oil & Extra Virgin Olive Oil Dressing, Caesar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 159.9,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 3.0,
+      "iron": 0.0,
+      "potassium": 9.0,
+      "sodium": 219.9
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Caesar Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 339.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Cheese Cauliflower Crust Thin And Crispy Pizza, Cheese",
+    "serving_qty": 113,
+    "serving_unit": "g",
+    "serving_label": "per 113g (0.333 Pizza)",
+    "cal": 280.2,
+    "protein": 11.0,
+    "carbs": 26.0,
+    "fat": 16.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 268.94,
+      "iron": 0.99,
+      "potassium": 203.4,
+      "sodium": 459.91,
+      "vitamin_c": 9.94
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Chicken Pad Thai Complete Skillet Meal For Two",
+    "serving_qty": 312,
+    "serving_unit": "g",
+    "serving_label": "per 312g (0.5 PACKAGE)",
+    "cal": 371.3,
+    "protein": 20.0,
+    "carbs": 51.2,
+    "fat": 10.0,
+    "fiber": 5.0,
+    "micros": {
+      "calcium": 59.28,
+      "iron": 3.59,
+      "sodium": 879.84,
+      "vitamin_c": 3.74
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Chocolate Chip Family Recipe Cookies, Chocolate Chip",
+    "serving_qty": 33,
+    "serving_unit": "GRM",
+    "serving_label": "per 33GRM (5 cookies)",
+    "cal": 150.2,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fat": 7.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 109.89,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [],
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Chocolate Creme Filled Chocolate Cookies",
+    "serving_qty": 25,
+    "serving_unit": "g",
+    "serving_label": "per 25g (2 COOKIES)",
+    "cal": 110.0,
+    "protein": 1.0,
+    "carbs": 18.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 110.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Citrus Splash Dressing",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 290.1,
+      "vitamin_c": 9.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Classic Mayonnaise",
+    "serving_qty": 13,
+    "serving_unit": "g",
+    "serving_label": "per 13g (1 Tbsp)",
+    "cal": 100.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 1.04,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 89.96
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Classic Oil & Vinegar Dressing, Classic Oil & Vinegar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 170.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Common Good Organic Pasta Sauce, Arrabbiata",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 99.6,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 8.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 0.73,
+      "sodium": 389.91,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Cookies, Oatmeal Chocolate Chip",
+    "serving_qty": 33,
+    "serving_unit": "g",
+    "serving_label": "per 33g (5 COOKIES)",
+    "cal": 139.9,
+    "protein": 2.0,
+    "carbs": 23.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.13,
+      "iron": 1.08,
+      "sodium": 160.05,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Cookies, Peanut Butter",
+    "serving_qty": 27,
+    "serving_unit": "g",
+    "serving_label": "per 27g (2 COOKIES)",
+    "cal": 119.9,
+    "protein": 2.0,
+    "carbs": 18.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 160.11,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "peanut",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Cranberries",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (1 BOX)",
+    "cal": 89.9,
+    "protein": 0.0,
+    "carbs": 23.0,
+    "fat": 0.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 10.08,
+      "sodium": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Cranberry Walnut Lite Vinaigrette, Cranberry Walnut",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 9.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 230.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creamy Caesar Dressing, Creamy Caesar",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 159.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 339.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creme Filled Chocolate Cookies",
+    "serving_qty": 27,
+    "serving_unit": "g",
+    "serving_label": "per 27g (2 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 109.89,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creme Filled Cookies, Vanilla",
+    "serving_qty": 27,
+    "serving_unit": "g",
+    "serving_label": "per 27g (2 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 6.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 19.98,
+      "iron": 0.0,
+      "sodium": 119.88,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creme Filled Ginger Cookies",
+    "serving_qty": 25,
+    "serving_unit": "g",
+    "serving_label": "per 25g (2 COOKIES)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 19.0,
+    "fat": 4.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 90.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creme Filled Ginger Cookies, Ginger 'N Creme",
+    "serving_qty": 27,
+    "serving_unit": "g",
+    "serving_label": "per 27g (2 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 89.91,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creme Filled Mint Chocolate Cookies",
+    "serving_qty": 25,
+    "serving_unit": "g",
+    "serving_label": "per 25g (2 COOKIES)",
+    "cal": 110.0,
+    "protein": 1.0,
+    "carbs": 18.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.36,
+      "sodium": 110.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Creme Filled Vanilla Cookies, Vanilla",
+    "serving_qty": 25,
+    "serving_unit": "g",
+    "serving_label": "per 25g (2 COOKIES)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 18.0,
+    "fat": 5.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.0,
+      "iron": 0.0,
+      "sodium": 120.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Crispy Wheat & Rice Flakes Cereal, Vanilla Almond",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (0.75 cup)",
+    "cal": 110.1,
+    "protein": 2.0,
+    "carbs": 24.0,
+    "fat": 1.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "potassium": 69.9,
+      "sodium": 125.1,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "cereal",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Dressing, Caesar",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 279.9,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Dressing, Creamy French",
+    "serving_qty": 42.5,
+    "serving_unit": "g",
+    "serving_label": "per 42.5g (1 PACKAGE)",
+    "cal": 159.8,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 429.25,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Dried Fruits Pitted Prunes, Dried Fruits",
+    "serving_qty": 40,
+    "serving_unit": "g",
+    "serving_label": "per 40g (1/4 cup)",
+    "cal": 110.0,
+    "protein": 1.0,
+    "carbs": 25.0,
+    "fat": 0.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 19.2,
+      "iron": 0.0,
+      "potassium": 312.0,
+      "sodium": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Dried Mango Strips",
+    "serving_qty": 40,
+    "serving_unit": "g",
+    "serving_label": "per 40g (1/4 cup)",
+    "cal": 140.0,
+    "protein": 1.0,
+    "carbs": 34.0,
+    "fat": 0.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 15.2,
+      "iron": 0.0,
+      "potassium": 350.0,
+      "sodium": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Family Recipe Cookies, Double Chocolate Chip",
+    "serving_qty": 33,
+    "serving_unit": "g",
+    "serving_label": "per 33g (5 COOKIES)",
+    "cal": 150.2,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fat": 8.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 69.96,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Family Recipe Cookies, Ginger Snap",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (5 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 24.0,
+    "fat": 3.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.36,
+      "sodium": 180.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Family Recipe Cookies, Orange Chocolate Chip",
+    "serving_qty": 33,
+    "serving_unit": "g",
+    "serving_label": "per 33g (5 COOKIES)",
+    "cal": 160.1,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fat": 7.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "sodium": 109.89,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [],
+    "allergens": [
+      "egg",
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Family Recipe Cookies, Spelt Ginger Snap",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (5 COOKIES)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 23.0,
+    "fat": 3.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.36,
+      "sodium": 180.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Family Recipe Italian Dressing",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 321.0,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Farmer'S Garden Pasta Sauce",
+    "serving_qty": 124,
+    "serving_unit": "GRM",
+    "serving_label": "per 124GRM (1/2 Cup (124g))",
+    "cal": 90.5,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 4.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 29.76,
+      "iron": 0.81,
+      "potassium": 570.4,
+      "sodium": 430.28,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Farmer'S Garden Salsa, Medium",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 15.0,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 19.84,
+      "iron": 0.36,
+      "sodium": 220.16,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Fire Roasted Tomato & Garlic Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 70.0,
+    "protein": 2.0,
+    "carbs": 10.0,
+    "fat": 2.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 60.0,
+      "iron": 1.07,
+      "sodium": 460.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Fire Roasted Tomato & Garlic Pasta Sauce, Fire Roasted Tomato & Garlic",
+    "serving_qty": 124,
+    "serving_unit": "GRM",
+    "serving_label": "per 124GRM (1/2 cup)",
+    "cal": 69.4,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 2.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 49.6,
+      "iron": 1.0,
+      "potassium": 529.48,
+      "sodium": 469.96,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Four Cheese Thin And Crispy Pizza, Four Cheese",
+    "serving_qty": 151,
+    "serving_unit": "g",
+    "serving_label": "per 151g (0.333 PIZZA)",
+    "cal": 389.6,
+    "protein": 18.0,
+    "carbs": 35.0,
+    "fat": 19.9,
+    "fiber": 1.1,
+    "micros": {
+      "calcium": 377.5,
+      "iron": 1.0,
+      "potassium": 182.71,
+      "sodium": 770.1
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own French Dressing",
+    "serving_qty": 42.5,
+    "serving_unit": "g",
+    "serving_label": "per 42.5g (1 PACKAGE)",
+    "cal": 190.0,
+    "protein": 0.0,
+    "carbs": 14.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 289.85,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Fruit Filled Cookies",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 COOKIES)",
+    "cal": 110.1,
+    "protein": 1.0,
+    "carbs": 23.0,
+    "fat": 1.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 19.84,
+      "iron": 0.36,
+      "sodium": 140.16,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Fruit Juice Cocktail, Grape",
+    "serving_qty": 240,
+    "serving_unit": "ml",
+    "serving_label": "per 240ml (8 OZA)",
+    "cal": 110.4,
+    "protein": 0.0,
+    "carbs": 29.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 40.8,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "fruit_and_vegetable_juice_nectars_and_fruit_drinks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Garlic Vinaigrette & Marinade Dressing, Garlic",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp (30g))",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 339.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Ginger Mints",
+    "serving_qty": 2,
+    "serving_unit": "g",
+    "serving_label": "per 2g (2 PIECES)",
+    "cal": 10.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "chewing_gum_and_mints",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Greek Avocado Oil & Extra Virgin Olive Oil Dressing, Greek",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 5.1,
+      "iron": 0.0,
+      "potassium": 15.0,
+      "sodium": 230.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Half & Half Lemonade Iced Tea",
+    "serving_qty": 240,
+    "serving_unit": "MLT",
+    "serving_label": "per 240MLT (8 fl oz)",
+    "cal": 110.4,
+    "protein": 0.0,
+    "carbs": 26.9,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 40.8,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "other_drinks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Harvest Vegetable Thin And Crispy Pizza",
+    "serving_qty": 146,
+    "serving_unit": "GRM",
+    "serving_label": "per 146GRM (1/3 Pizza (146g))",
+    "cal": 270.1,
+    "protein": 11.0,
+    "carbs": 34.0,
+    "fat": 10.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 160.6,
+      "iron": 0.99,
+      "potassium": 195.64,
+      "sodium": 600.06,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "frozen_appetizers_and_hors_d'oeuvres",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Hermits Cookie, Cinnamon",
+    "serving_qty": 22,
+    "serving_unit": "g",
+    "serving_label": "per 22g (1 PIECE)",
+    "cal": 80.1,
+    "protein": 1.0,
+    "carbs": 16.0,
+    "fat": 1.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.02,
+      "iron": 1.44,
+      "sodium": 60.06,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Hermits Cookie, Ginger",
+    "serving_qty": 22,
+    "serving_unit": "g",
+    "serving_label": "per 22g (1 PIECE)",
+    "cal": 80.1,
+    "protein": 1.0,
+    "carbs": 16.0,
+    "fat": 1.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.02,
+      "iron": 1.44,
+      "sodium": 64.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Hermits, Original",
+    "serving_qty": 22,
+    "serving_unit": "g",
+    "serving_label": "per 22g (1 PIECE)",
+    "cal": 80.1,
+    "protein": 1.0,
+    "carbs": 16.0,
+    "fat": 1.5,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 20.02,
+      "iron": 1.44,
+      "sodium": 64.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "cookies_and_biscuits",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own High Protein Pretzels",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (None)",
+    "cal": 120.0,
+    "protein": 2.0,
+    "carbs": 22.0,
+    "fat": 1.5,
+    "fiber": 4.0,
+    "micros": {
+      "sodium": 230.1
+    },
+    "sub_group": "chips_pretzels_and_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Honey Apple Cider Vinaigrette, Honey Apple Cider",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (2 Tbsp)",
+    "cal": 129.9,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 249.86,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Honey Dijon Mustard, Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 159.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Honey Mustard Lite Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 39.9,
+      "iron": 0.0,
+      "vitamin_c": 0.0,
+      "sodium": 240.0
+    },
+    "sub_group": "ketchup_mustard_bbq_and_cheese_sauce",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Honey Mustard Mayonnaise",
+    "serving_qty": 13,
+    "serving_unit": "g",
+    "serving_label": "per 13g (1 Tbsp)",
+    "cal": 80.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 1.04,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 60.06
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian 100% Extra Virgin Olive Oil Dressing, Italian",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 120.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 13.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 12.0,
+      "iron": 0.0,
+      "potassium": 9.9,
+      "sodium": 290.1
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian Dressing, Italian",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 12.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 321.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian Sausage & Peppers Flavorful Chunks Of Italian Sausage Combined With Lots Of Red And Green Bell Peppers, Onions And Mozzarella Thin And Crispy Pizza, Italian Sausage & Peppers",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.25 Pizza)",
+    "cal": 280.4,
+    "protein": 12.0,
+    "carbs": 27.1,
+    "fat": 14.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 191.88,
+      "iron": 1.0,
+      "potassium": 234.93,
+      "sodium": 639.6
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian Sausage & Peppers Pasta Sauce, Italian Sausage & Peppers",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (1/2 cup)",
+    "cal": 90.0,
+    "protein": 4.0,
+    "carbs": 10.0,
+    "fat": 3.5,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 30.0,
+      "iron": 0.9,
+      "potassium": 500.0,
+      "sodium": 620.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian Sausage & Uncured Pepperoni Thin And Crispy Pizza, Italian Sausage & Uncured Pepperoni",
+    "serving_qty": 156,
+    "serving_unit": "GRM",
+    "serving_label": "per 156GRM (1/3 Pizza)",
+    "cal": 410.3,
+    "protein": 17.0,
+    "carbs": 38.1,
+    "fat": 21.1,
+    "fiber": 0.9,
+    "micros": {
+      "calcium": 193.44,
+      "iron": 2.0,
+      "potassium": 182.52,
+      "sodium": 950.04,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian Sausage And Mozzarella Cheese, Italian Sausage",
+    "serving_qty": 156,
+    "serving_unit": "g",
+    "serving_label": "per 156g (0.333 PIZZA)",
+    "cal": 380.6,
+    "protein": 17.9,
+    "carbs": 34.9,
+    "fat": 20.0,
+    "fiber": 0.9,
+    "micros": {
+      "calcium": 246.48,
+      "iron": 1.0,
+      "potassium": 238.68,
+      "sodium": 929.76
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Italian Sausage, Mozzarella Cheese, Parmesan Cheese Thin & Crispy Pizza",
+    "serving_qty": 129,
+    "serving_unit": "g",
+    "serving_label": "per 129g (0.333 PIZZA)",
+    "cal": 300.6,
+    "protein": 13.9,
+    "carbs": 31.0,
+    "fat": 13.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 250.26,
+      "iron": 1.44,
+      "sodium": 679.83,
+      "vitamin_c": 2.45
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Lemonade, Pink Virgin",
+    "serving_qty": 240,
+    "serving_unit": "ml",
+    "serving_label": "per 240ml (8 OZA)",
+    "cal": 110.4,
+    "protein": 0.0,
+    "carbs": 26.9,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 40.8,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "soda",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Lemonade, Virgin Pomegranate",
+    "serving_qty": 240,
+    "serving_unit": "ml",
+    "serving_label": "per 240ml (8 OZA)",
+    "cal": 110.4,
+    "protein": 0.0,
+    "carbs": 28.1,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 14.4,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "soda",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Licorice Bites, Black Licorice",
+    "serving_qty": 35,
+    "serving_unit": "g",
+    "serving_label": "per 35g (5 PIECES)",
+    "cal": 120.0,
+    "protein": 2.0,
+    "carbs": 27.0,
+    "fat": 1.0,
+    "fiber": 1.0,
+    "micros": {
+      "sodium": 10.15
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Licorice Bites, Sour Pineapple",
+    "serving_qty": 35,
+    "serving_unit": "g",
+    "serving_label": "per 35g (5 PIECES)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 29.0,
+    "fat": 1.0,
+    "fiber": 1.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Licorice Bites, Strawberry",
+    "serving_qty": 35,
+    "serving_unit": "g",
+    "serving_label": "per 35g (5 PIECES)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 24.0,
+    "fat": 1.0,
+    "fiber": 1.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Licorice Made With Organic Sugar Twists, Strawberry",
+    "serving_qty": 42,
+    "serving_unit": "g",
+    "serving_label": "per 42g (5 PIECES)",
+    "cal": 130.2,
+    "protein": 2.0,
+    "carbs": 32.0,
+    "fat": 0.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 20.16,
+      "iron": 0.36,
+      "sodium": 5.04
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Light Balsamic Vinaigrette, Light Balsamic",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 45.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 290.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Lite Raspberry Dressing",
+    "serving_qty": 42.5,
+    "serving_unit": "g",
+    "serving_label": "per 42.5g (1 PACKAGE)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 6.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 170.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Margherita Cauliflower Crust Thin And Crispy Pizza, Margherita",
+    "serving_qty": 114,
+    "serving_unit": "GRM",
+    "serving_label": "per 114GRM (1/3 Pizza (114g) Per serving)",
+    "cal": 259.9,
+    "protein": 9.0,
+    "carbs": 26.0,
+    "fat": 14.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 220.02,
+      "iron": 1.0,
+      "potassium": 221.16,
+      "sodium": 400.14,
+      "vitamin_d": 0.0,
+      "vitamin_c": 11.97
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Margherita Stone-Fired Crust Pizza",
+    "serving_qty": 124,
+    "serving_unit": "GRM",
+    "serving_label": "per 124GRM (1/3 Pizza (124g) Per serving)",
+    "cal": 270.3,
+    "protein": 14.0,
+    "carbs": 33.0,
+    "fat": 9.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 107.88,
+      "iron": 1.0,
+      "potassium": 101.68,
+      "sodium": 610.08,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Marinara Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 70.0,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 1.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 60.0,
+      "iron": 1.8,
+      "sodium": 460.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Marinara Pasta Sauce, Marinara",
+    "serving_qty": 124,
+    "serving_unit": "g",
+    "serving_label": "per 124g (1/2 cup)",
+    "cal": 69.4,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 1.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 33.48,
+      "iron": 1.0,
+      "potassium": 638.6,
+      "sodium": 489.8
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Mayonnaise, Chipotle",
+    "serving_qty": 13,
+    "serving_unit": "g",
+    "serving_label": "per 13g (1 Tbsp)",
+    "cal": 100.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 1.04,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 65.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Mediterranean Thin And Crispy Pizza",
+    "serving_qty": 145,
+    "serving_unit": "GRM",
+    "serving_label": "per 145GRM (1/3 Pizza (145g))",
+    "cal": 290.0,
+    "protein": 12.0,
+    "carbs": 33.9,
+    "fat": 12.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 203.0,
+      "iron": 1.0,
+      "potassium": 205.9,
+      "sodium": 639.45,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Medium Salsa",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 9.9,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 10.88,
+      "iron": 0.0,
+      "potassium": 128.96,
+      "sodium": 104.96
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Medium Salsa, Medium",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (31 GRM)",
+    "cal": 14.9,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 9.92,
+      "iron": 0.2,
+      "potassium": 129.89,
+      "sodium": 105.09
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Microwave Popcorn, Butter",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (3.5 CUPS POPPED) | UNPOPPED (ABOUT)",
+    "cal": 150.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fat": 8.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 0.9,
+      "iron": 1.0,
+      "potassium": 60.0,
+      "sodium": 249.9
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Microwave Popcorn, Movie Theater Butter",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (3.5 CUPS POPPED) | UNPOPPED (ABOUT)",
+    "cal": 159.9,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fat": 10.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 0.9,
+      "iron": 1.0,
+      "potassium": 54.9,
+      "sodium": 290.1
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Microwave Popcorn, Sea Salt",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (3.5 CUPS POPPED) | UNPOPPED (ABOUT)",
+    "cal": 150.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fat": 9.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 0.9,
+      "iron": 1.0,
+      "potassium": 57.9,
+      "sodium": 290.1
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Microwave Popcorn, Touch Of Butter",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (3.5 CUPS POPPED) | UNPOPPED (ABOUT)",
+    "cal": 129.9,
+    "protein": 3.0,
+    "carbs": 19.0,
+    "fat": 4.5,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 2.1,
+      "iron": 1.0,
+      "potassium": 72.0,
+      "sodium": 249.9
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Mild Salsa, Mild",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (2 Tbsp)",
+    "cal": 14.9,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 9.92,
+      "iron": 0.2,
+      "potassium": 129.89,
+      "sodium": 89.9
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Mushroom Marinara Pasta Sauce, Mushroom Marinara",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (1/2 cup)",
+    "cal": 70.0,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 1.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 30.0,
+      "iron": 1.0,
+      "potassium": 620.0,
+      "sodium": 490.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Oil & Vinegar Dressing, Oil & Vinegar",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 140.1,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 135.0,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Olive Oil & Vinegar Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 150.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Olive Oil, Basil & Garlic Pasta Sauce, Basil & Garlic",
+    "serving_qty": 124,
+    "serving_unit": "GRM",
+    "serving_label": "per 124GRM (1/2 Cup)",
+    "cal": 100.4,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 4.5,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 39.68,
+      "iron": 0.91,
+      "potassium": 610.08,
+      "sodium": 430.28,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Balsamic Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 270.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Balsamic Vinegar Of Modena",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 19.9,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {},
+    "sub_group": "other_condiments",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Cold Pressed Extra Virgin Olive Oil",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 130.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "vegetable_and_cooking_oils",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Dark Chocolate",
+    "serving_qty": 34,
+    "serving_unit": "g",
+    "serving_label": "per 34g (1 PACKAGE)",
+    "cal": 179.9,
+    "protein": 3.0,
+    "carbs": 18.0,
+    "fat": 12.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 20.06,
+      "iron": 0.72,
+      "sodium": 40.12,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "peanut",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Extra Virgin Olive Oil",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 130.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "vegetable_and_cooking_oils",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Extra Virgin Olive Oil, First Cold Pressed",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 130.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "vegetable_and_cooking_oils",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Lemonade",
+    "serving_qty": 240,
+    "serving_unit": "ml",
+    "serving_label": "per 240ml (8 OZA)",
+    "cal": 110.4,
+    "protein": 0.0,
+    "carbs": 26.9,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 40.8,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "soda",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Light Tasting Olive Oil",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 130.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "vegetable_and_cooking_oils",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Peppermints",
+    "serving_qty": 2,
+    "serving_unit": "g",
+    "serving_label": "per 2g (2 PIECES)",
+    "cal": 10.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "chewing_gum_and_mints",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Pure Olive Oil",
+    "serving_qty": 15,
+    "serving_unit": "ml",
+    "serving_label": "per 15ml (1 Tbsp)",
+    "cal": 130.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "vegetable_and_cooking_oils",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Traditional Herb Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 80.0,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 2.5,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 40.0,
+      "iron": 1.44,
+      "sodium": 500.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organic Tuscan Italian Dressing",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 99.8,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 348.8,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organics Pitted Dates",
+    "serving_qty": 40,
+    "serving_unit": "g",
+    "serving_label": "per 40g (5 -6 Dates)",
+    "cal": 130.0,
+    "protein": 1.0,
+    "carbs": 32.0,
+    "fat": 0.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 20.0,
+      "potassium": 280.0,
+      "sodium": 0.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Organics Raisins",
+    "serving_qty": 40,
+    "serving_unit": "g",
+    "serving_label": "per 40g (0.25 cup)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 32.0,
+    "fat": 0.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 20.0,
+      "iron": 0.72,
+      "potassium": 300.0,
+      "sodium": 0.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Parmesan & Roasted Garlic",
+    "serving_qty": 29,
+    "serving_unit": "g",
+    "serving_label": "per 29g (2 Tbsp)",
+    "cal": 109.9,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.01,
+      "iron": 0.0,
+      "sodium": 339.3,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Parmesan Balsamic Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 110.1,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 351.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pasta Sauce, Alfredo",
+    "serving_qty": 61,
+    "serving_unit": "g",
+    "serving_label": "per 61g (0.25 cup)",
+    "cal": 90.3,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 40.26,
+      "iron": 0.0,
+      "sodium": 409.92,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pasta Sauce, Roasted Garlic & Peppers",
+    "serving_qty": 124,
+    "serving_unit": "g",
+    "serving_label": "per 124g (0.5 cup)",
+    "cal": 69.4,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 2.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 1.08,
+      "sodium": 590.24,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pasta Sauce, Roasted Garlic Alfredo",
+    "serving_qty": 61,
+    "serving_unit": "GRM",
+    "serving_label": "per 61GRM (0.25 cup)",
+    "cal": 90.3,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 8.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 40.26,
+      "iron": 0.36,
+      "sodium": 400.16,
+      "vitamin_c": 0.0,
+      "vitamin_a": 54.29
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Peach Salsa, Medium",
+    "serving_qty": 32,
+    "serving_unit": "g",
+    "serving_label": "per 32g (2 Tbsp)",
+    "cal": 25.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 99.84,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pineapple Fruit On The Bottom Greek Nonfat Yogurt, Pineapple",
+    "serving_qty": 150,
+    "serving_unit": "g",
+    "serving_label": "per 150g (None)",
+    "cal": 120.0,
+    "protein": 12.0,
+    "carbs": 19.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 150.0,
+      "iron": 0.0,
+      "sodium": 55.5,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "yogurt",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pineapple Salsa, Medium",
+    "serving_qty": 32,
+    "serving_unit": "GRM",
+    "serving_label": "per 32GRM (2 Tbsp)",
+    "cal": 19.8,
+    "protein": 0.0,
+    "carbs": 5.0,
+    "fat": 0.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 135.04,
+      "vitamin_c": 0.0,
+      "vitamin_a": 35.84
+    },
+    "sub_group": "dips_and_salsa",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pomegranate Licorice Twists",
+    "serving_qty": 42,
+    "serving_unit": "g",
+    "serving_label": "per 42g (5 PIECES)",
+    "cal": 130.2,
+    "protein": 2.0,
+    "carbs": 32.0,
+    "fat": 0.5,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 20.16,
+      "iron": 0.72,
+      "sodium": 5.04
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Pop'S Corn, Organic Microwave Popcorn, Light Butter",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (2.6 cup)",
+    "cal": 112.0,
+    "protein": 3.0,
+    "carbs": 19.0,
+    "fat": 3.0,
+    "fiber": 3.5,
+    "micros": {
+      "iron": 0.72,
+      "sodium": 168.0
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Premium Organic Dark Chocolate",
+    "serving_qty": 46,
+    "serving_unit": "g",
+    "serving_label": "per 46g (4 SQUARES)",
+    "cal": 230.0,
+    "protein": 3.0,
+    "carbs": 21.0,
+    "fat": 20.0,
+    "fiber": 4.0,
+    "micros": {
+      "calcium": 59.8,
+      "iron": 1.08,
+      "sodium": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "chocolate",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Premium Organic Espresso Dark Chocolate",
+    "serving_qty": 46,
+    "serving_unit": "g",
+    "serving_label": "per 46g (2 SQUARES)",
+    "cal": 230.0,
+    "protein": 2.0,
+    "carbs": 26.0,
+    "fat": 16.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 19.78,
+      "iron": 1.08,
+      "sodium": 0.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "chocolate",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "soy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Prunes",
+    "serving_qty": 40,
+    "serving_unit": "GRM",
+    "serving_label": "per 40GRM (1/4 cup)",
+    "cal": 100.0,
+    "protein": 1.0,
+    "carbs": 26.0,
+    "fat": 0.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 20.0,
+      "iron": 0.36,
+      "potassium": 290.0,
+      "sodium": 0.0,
+      "vitamin_c": 0.0,
+      "vitamin_a": 54.0
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Quattro Formaggi Stone-Fired Crust Pizza, Quattro Formaggi",
+    "serving_qty": 129,
+    "serving_unit": "GRM",
+    "serving_label": "per 129GRM (1/3 Pizza (129g) Per serving)",
+    "cal": 309.6,
+    "protein": 15.0,
+    "carbs": 33.0,
+    "fat": 13.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 171.57,
+      "iron": 1.01,
+      "potassium": 105.78,
+      "sodium": 570.18,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Raisins",
+    "serving_qty": 43,
+    "serving_unit": "g",
+    "serving_label": "per 43g (None)",
+    "cal": 129.9,
+    "protein": 1.0,
+    "carbs": 34.0,
+    "fat": 0.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 20.21,
+      "iron": 0.72,
+      "potassium": 319.92,
+      "sodium": 0.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "wholesome_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Ranch Dairy Free Avocado Oil & Extra Virgin Olive Oil Dressing, Ranch",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 159.9,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 3.9,
+      "iron": 0.0,
+      "potassium": 9.0,
+      "sodium": 219.9
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Ranch Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 16.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 290.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Ranch Dressing, Ranch",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 150.0,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 15.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.0,
+      "sodium": 290.1,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Roasted Garlic Pasta Sauce, Roasted Garlic",
+    "serving_qty": 124,
+    "serving_unit": "GRM",
+    "serving_label": "per 124GRM (1/2 Cup)",
+    "cal": 59.5,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 1.5,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 39.68,
+      "iron": 0.81,
+      "potassium": 509.64,
+      "sodium": 460.04,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Salsa Con Queso",
+    "serving_qty": 31,
+    "serving_unit": "g",
+    "serving_label": "per 31g (2 Tbsp)",
+    "cal": 45.0,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 3.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.15,
+      "iron": 0.1,
+      "potassium": 49.91,
+      "sodium": 220.1
+    },
+    "sub_group": "cheese",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Sea Salt Flavor Microwave Popcorn, Sea Salt",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (30g unpopped (about 3.5 cups popped))",
+    "cal": 150.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fat": 9.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 0.9,
+      "iron": 1.0,
+      "potassium": 57.9,
+      "sodium": 290.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Shrimp Scampi & Farfalle Pasta",
+    "serving_qty": 312,
+    "serving_unit": "g",
+    "serving_label": "per 312g (0.5 PACKAGE)",
+    "cal": 449.3,
+    "protein": 19.0,
+    "carbs": 53.0,
+    "fat": 17.0,
+    "fiber": 3.1,
+    "micros": {
+      "calcium": 99.84,
+      "iron": 2.71,
+      "sodium": 739.44,
+      "vitamin_c": 35.88
+    },
+    "sub_group": "frozen_dinners_and_entrees",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten",
+      "shellfish"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Sicilian Recipe Thin And Crispy Crust Pizza",
+    "serving_qty": 121,
+    "serving_unit": "GRM",
+    "serving_label": "per 121GRM (1/4 pizza (121 g))",
+    "cal": 319.4,
+    "protein": 14.0,
+    "carbs": 27.0,
+    "fat": 16.9,
+    "fiber": 2.1,
+    "micros": {
+      "calcium": 147.62,
+      "iron": 1.0,
+      "potassium": 267.41,
+      "sodium": 860.31,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Sockarooni No Sugar Added Peppers, Spices &The Whole Shebang! Pasta Sauce, Sockarooni",
+    "serving_qty": 125,
+    "serving_unit": "GRM",
+    "serving_label": "per 125GRM (1/2 cup)",
+    "cal": 70.0,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 1.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 30.0,
+      "iron": 0.9,
+      "potassium": 600.0,
+      "sodium": 500.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Sockarooni Pasta Sauce",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 80.0,
+    "protein": 2.0,
+    "carbs": 10.0,
+    "fat": 4.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 1.08,
+      "sodium": 380.07,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Sour Cherry",
+    "serving_qty": 40,
+    "serving_unit": "g",
+    "serving_label": "per 40g (4 PIECES)",
+    "cal": 130.0,
+    "protein": 1.0,
+    "carbs": 29.0,
+    "fat": 0.5,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Sour Cherry Flavored Licorice Bites, Sour Cherry",
+    "serving_qty": 35,
+    "serving_unit": "g",
+    "serving_label": "per 35g (5 PIECES)",
+    "cal": 120.0,
+    "protein": 1.0,
+    "carbs": 29.0,
+    "fat": 1.0,
+    "fiber": 1.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "candy",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Southwest Dressing",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 80.1,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 20.1,
+      "iron": 0.36,
+      "sodium": 240.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy",
+      "egg"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Spinaci & Formaggi Stone-Fired Crust Pizza, Spinaci; Formaggi",
+    "serving_qty": 130,
+    "serving_unit": "GRM",
+    "serving_label": "per 130GRM (1/3 Pizza (130g) Per serving)",
+    "cal": 309.4,
+    "protein": 17.0,
+    "carbs": 34.1,
+    "fat": 12.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 192.4,
+      "iron": 1.0,
+      "potassium": 150.8,
+      "sodium": 609.7,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Tender White Microwave Popcorn",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (3.5 CUPS POPPED) | UNPOPPED (ABOUT)",
+    "cal": 150.0,
+    "protein": 2.0,
+    "carbs": 16.0,
+    "fat": 9.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 0.9,
+      "iron": 1.0,
+      "potassium": 57.9,
+      "sodium": 290.1
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Buffalo Style Chicken Pizza",
+    "serving_qty": 132,
+    "serving_unit": "g",
+    "serving_label": "per 132g (0.33 PIZZA)",
+    "cal": 319.4,
+    "protein": 15.0,
+    "carbs": 31.9,
+    "fat": 14.0,
+    "fiber": 1.1,
+    "micros": {
+      "calcium": 200.64,
+      "iron": 1.08,
+      "sodium": 579.48,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Crust Buffalo Style Chicken Pizza, Chicken",
+    "serving_qty": 143,
+    "serving_unit": "GRM",
+    "serving_label": "per 143GRM (1/3 pizza (143g))",
+    "cal": 370.4,
+    "protein": 16.0,
+    "carbs": 36.0,
+    "fat": 18.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 248.82,
+      "iron": 1.0,
+      "potassium": 197.34,
+      "sodium": 759.33,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "egg",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Crust Italian Sausage & Uncured Pepperoni Pizza, Sausage; Pepperoni",
+    "serving_qty": 156,
+    "serving_unit": "GRM",
+    "serving_label": "per 156GRM (1/3 pizza (156g))",
+    "cal": 410.3,
+    "protein": 17.9,
+    "carbs": 34.9,
+    "fat": 22.9,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 185.64,
+      "iron": 2.0,
+      "potassium": 338.52,
+      "sodium": 1079.52,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Multi-Grain Crust With Flaxseed Pizza",
+    "serving_qty": 139,
+    "serving_unit": "g",
+    "serving_label": "per 139g (0.333 PIZZA)",
+    "cal": 350.3,
+    "protein": 15.0,
+    "carbs": 32.0,
+    "fat": 19.0,
+    "fiber": 1.9,
+    "micros": {
+      "calcium": 250.2,
+      "iron": 1.45,
+      "sodium": 860.41,
+      "vitamin_c": 2.36
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Pizza",
+    "serving_qty": 136,
+    "serving_unit": "g",
+    "serving_label": "per 136g (0.33 PIZZA)",
+    "cal": 340.0,
+    "protein": 19.0,
+    "carbs": 34.0,
+    "fat": 16.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 399.84,
+      "iron": 1.07,
+      "sodium": 680.0,
+      "vitamin_c": 2.45
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Pizza, Margherita",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.333 PIZZA)",
+    "cal": 259.5,
+    "protein": 11.0,
+    "carbs": 33.0,
+    "fat": 9.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 200.49,
+      "iron": 1.08,
+      "sodium": 469.86,
+      "vitamin_c": 3.57
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Pizza, Organic Mozzarella Cheese, Organic Green & Red Bell Peppers, Organic Mushrooms & Onions",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.333 PIZZA)",
+    "cal": 239.8,
+    "protein": 10.0,
+    "carbs": 32.0,
+    "fat": 9.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 150.06,
+      "iron": 1.08,
+      "sodium": 430.5,
+      "vitamin_c": 17.96
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin & Crispy Pizza, Uncured Pepperoni",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.333 PIZZA)",
+    "cal": 319.8,
+    "protein": 14.0,
+    "carbs": 33.0,
+    "fat": 15.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 200.49,
+      "iron": 1.08,
+      "sodium": 610.08,
+      "vitamin_c": 4.8
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Crust Four Cheese Pizza, Mozzarella; Cheddar; Parmesan; Asiago",
+    "serving_qty": 151,
+    "serving_unit": "GRM",
+    "serving_label": "per 151GRM (1/3 pizza (151g))",
+    "cal": 389.6,
+    "protein": 18.0,
+    "carbs": 35.0,
+    "fat": 19.9,
+    "fiber": 1.1,
+    "micros": {
+      "calcium": 377.5,
+      "iron": 1.0,
+      "potassium": 182.71,
+      "sodium": 770.1,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza",
+    "serving_qty": 146,
+    "serving_unit": "g",
+    "serving_label": "per 146g (0.333 PIZZA)",
+    "cal": 270.1,
+    "protein": 11.0,
+    "carbs": 34.0,
+    "fat": 10.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 160.6,
+      "iron": 0.99,
+      "potassium": 195.64,
+      "sodium": 600.06
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza, Marcherita",
+    "serving_qty": 155,
+    "serving_unit": "g",
+    "serving_label": "per 155g (0.333 PIZZA)",
+    "cal": 319.3,
+    "protein": 15.0,
+    "carbs": 33.0,
+    "fat": 14.0,
+    "fiber": 0.9,
+    "micros": {
+      "calcium": 269.7,
+      "iron": 1.01,
+      "potassium": 234.05,
+      "sodium": 649.45
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza, Mediterranean",
+    "serving_qty": 145,
+    "serving_unit": "g",
+    "serving_label": "per 145g (0.333 PIZZA)",
+    "cal": 290.0,
+    "protein": 12.0,
+    "carbs": 33.9,
+    "fat": 12.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 203.0,
+      "iron": 1.0,
+      "potassium": 205.9,
+      "sodium": 639.45
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza, Mozzarella, Cheddar, Parmesan & Asiago",
+    "serving_qty": 151,
+    "serving_unit": "g",
+    "serving_label": "per 151g (0.333 PIZZA)",
+    "cal": 389.6,
+    "protein": 18.0,
+    "carbs": 35.0,
+    "fat": 19.9,
+    "fiber": 1.1,
+    "micros": {
+      "calcium": 377.5,
+      "iron": 1.0,
+      "potassium": 182.71,
+      "sodium": 770.1
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza, Mushroom Trio",
+    "serving_qty": 143,
+    "serving_unit": "g",
+    "serving_label": "per 143g (0.333 PIZZA)",
+    "cal": 300.3,
+    "protein": 13.0,
+    "carbs": 32.0,
+    "fat": 14.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 198.77,
+      "iron": 1.0,
+      "potassium": 118.69,
+      "sodium": 640.64
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza, Supreme",
+    "serving_qty": 161,
+    "serving_unit": "g",
+    "serving_label": "per 161g (0.333 PIZZA)",
+    "cal": 380.0,
+    "protein": 16.0,
+    "carbs": 38.0,
+    "fat": 18.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 196.42,
+      "iron": 2.0,
+      "potassium": 186.76,
+      "sodium": 949.9
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin And Crispy Pizza, White Whole Milk Mozzarella Cheese",
+    "serving_qty": 142,
+    "serving_unit": "g",
+    "serving_label": "per 142g (0.333 PIZZA)",
+    "cal": 349.3,
+    "protein": 15.1,
+    "carbs": 32.9,
+    "fat": 18.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 262.7,
+      "iron": 2.0,
+      "potassium": 187.44,
+      "sodium": 690.12
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Thin Pretzels Sticks",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (22 PRETZELS, PER CONTAINER ABOUT)",
+    "cal": 110.1,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fat": 1.5,
+    "fiber": 4.0,
+    "micros": {
+      "sodium": 180.0
+    },
+    "sub_group": "chips_pretzels_and_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Tomato & Basil Pasta Sauce",
+    "serving_qty": 125,
+    "serving_unit": "g",
+    "serving_label": "per 125g (0.5 cup)",
+    "cal": 80.0,
+    "protein": 3.0,
+    "carbs": 13.0,
+    "fat": 2.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 40.0,
+      "iron": 1.44,
+      "sodium": 460.0,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Tomato & Basil Pasta Sauce, Tomato & Basil",
+    "serving_qty": 124,
+    "serving_unit": "GRM",
+    "serving_label": "per 124GRM (1/2 Cup)",
+    "cal": 69.4,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 2.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 29.76,
+      "iron": 0.91,
+      "potassium": 550.56,
+      "sodium": 469.96,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Uncured Pepperoni Thin & Crispy Crust Pizza, Pepperoni",
+    "serving_qty": 143,
+    "serving_unit": "GRM",
+    "serving_label": "per 143GRM (1/3 pizza (143g))",
+    "cal": 370.4,
+    "protein": 16.0,
+    "carbs": 35.0,
+    "fat": 19.0,
+    "fiber": 2.0,
+    "micros": {
+      "calcium": 197.34,
+      "iron": 1.0,
+      "potassium": 297.44,
+      "sodium": 949.52,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Uncured Pepperoni Whole Milk Mozzarella Cheese Thin And Crispy Pizza, Uncured Pepperoni",
+    "serving_qty": 143,
+    "serving_unit": "g",
+    "serving_label": "per 143g (0.333 Pizza)",
+    "cal": 370.4,
+    "protein": 16.0,
+    "carbs": 35.0,
+    "fat": 19.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 195.91,
+      "iron": 1.0,
+      "potassium": 234.52,
+      "sodium": 929.5
+    },
+    "sub_group": "pizza",
+    "dietary_tags": [],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Unsalted Pop'S Corn",
+    "serving_qty": 28,
+    "serving_unit": "g",
+    "serving_label": "per 28g (3.2 cup)",
+    "cal": 100.0,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 1.5,
+    "fiber": 3.0,
+    "micros": {
+      "iron": 0.72,
+      "sodium": 0.0
+    },
+    "sub_group": "popcorn_peanuts_seeds_and_related_snacks",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Vinaigrette, Balsamic",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 90.0,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 279.9,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Vinaigrette, Raspberry & Walnut",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp)",
+    "cal": 69.9,
+    "protein": 0.0,
+    "carbs": 7.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 120.0,
+      "vitamin_c": 0.0,
+      "vitamin_a": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Virgin Lemonade",
+    "serving_qty": 240,
+    "serving_unit": "ml",
+    "serving_label": "per 240ml (8 OZA)",
+    "cal": 110.4,
+    "protein": 0.0,
+    "carbs": 26.9,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 40.8,
+      "vitamin_c": 2.4
+    },
+    "sub_group": "soda",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Vodka Organic Pasta Sauce",
+    "serving_qty": 123,
+    "serving_unit": "g",
+    "serving_label": "per 123g (0.5 cup)",
+    "cal": 150.1,
+    "protein": 2.0,
+    "carbs": 7.0,
+    "fat": 12.0,
+    "fiber": 1.0,
+    "micros": {
+      "calcium": 60.27,
+      "iron": 0.36,
+      "sodium": 530.13,
+      "vitamin_c": 0.0
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Vodka Pasta Sauce, Vodka Sauce",
+    "serving_qty": 124,
+    "serving_unit": "g",
+    "serving_label": "per 124g (1/2 cup)",
+    "cal": 140.1,
+    "protein": 3.0,
+    "carbs": 11.0,
+    "fat": 9.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 69.44,
+      "iron": 0.69,
+      "potassium": 539.4,
+      "sodium": 469.96
+    },
+    "sub_group": "prepared_pasta_and_pizza_sauces",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Wheat Bran Flax Flakes Cereal, Honey",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (0.75 cup)",
+    "cal": 99.9,
+    "protein": 3.0,
+    "carbs": 24.0,
+    "fat": 1.0,
+    "fiber": 4.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 9.0,
+      "potassium": 35.1,
+      "sodium": 80.1,
+      "zinc": 1.5,
+      "vitamin_c": 15.0,
+      "vitamin_b12": 1.5
+    },
+    "sub_group": "cereal",
+    "dietary_tags": [],
+    "allergens": [
+      "gluten"
+    ],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own White Balsamic Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "GRM",
+    "serving_label": "per 30GRM (2 Tbsp (30g))",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 339.0,
+      "vitamin_d": 0.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own White Balsamic Vinaigrette, White Balsamic",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 99.9,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 11.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "potassium": 0.0,
+      "sodium": 339.0
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Winter Green Mints",
+    "serving_qty": 2,
+    "serving_unit": "g",
+    "serving_label": "per 2g (2 PIECES)",
+    "cal": 10.0,
+    "protein": 0.0,
+    "carbs": 2.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "sodium": 0.0
+    },
+    "sub_group": "chewing_gum_and_mints",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  },
+  {
+    "name": "Newman's Own Zesty Italian Vinaigrette",
+    "serving_qty": 30,
+    "serving_unit": "g",
+    "serving_label": "per 30g (2 Tbsp)",
+    "cal": 60.0,
+    "protein": 0.0,
+    "carbs": 4.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.0,
+      "sodium": 321.0,
+      "vitamin_c": 1.2
+    },
+    "sub_group": "salad_dressing_and_mayonnaise",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Newman's Own"
+  }
+]

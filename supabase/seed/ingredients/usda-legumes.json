@@ -2738,7 +2738,9 @@
       "vitamin_d": 0.0
     },
     "sub_group": "legumes",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": []
   },
   {
@@ -5287,9 +5289,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, all types, dry-roasted, with salt",
@@ -5322,9 +5322,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, all types, dry-roasted, without salt",
@@ -5357,9 +5355,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, all types, oil-roasted, with salt",
@@ -5392,9 +5388,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, all types, oil-roasted, without salt",
@@ -5427,9 +5421,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, all types, raw",
@@ -5462,9 +5454,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, spanish, oil-roasted, with salt",
@@ -5497,9 +5487,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, spanish, oil-roasted, without salt",
@@ -5532,9 +5520,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, spanish, raw",
@@ -5567,9 +5553,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, valencia, oil-roasted, with salt",
@@ -5602,9 +5586,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, valencia, oil-roasted, without salt",
@@ -5637,9 +5619,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, valencia, raw",
@@ -5672,9 +5652,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, virginia, oil-roasted, with salt",
@@ -5707,9 +5685,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, virginia, oil-roasted, without salt",
@@ -5742,9 +5718,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peanuts, virginia, raw",
@@ -5777,9 +5751,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "peanut"
-    ]
+    "allergens": []
   },
   {
     "name": "Peas, green, split, mature seeds, raw",
@@ -6206,12 +6178,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Chocolate, soymilk",
@@ -6238,12 +6209,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Coffee, soymilk",
@@ -6269,12 +6239,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK French Vanilla Creamer",
@@ -6294,11 +6263,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Hazelnut Creamer",
@@ -6318,10 +6287,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
     "allergens": [
-      "dairy",
       "tree_nut"
     ]
   },
@@ -6375,12 +6345,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Light Plain, soymilk",
@@ -6407,12 +6376,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Light Vanilla, soymilk",
@@ -6439,12 +6407,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Mocha, soymilk",
@@ -6470,12 +6437,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Nog, soymilk",
@@ -6502,12 +6468,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Original Creamer",
@@ -6527,11 +6492,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Peach soy yogurt",
@@ -6608,12 +6573,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Plus Fiber, soymilk",
@@ -6640,12 +6604,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Plus Omega-3 DHA, soymilk",
@@ -6672,12 +6635,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Plus for Bone Health, soymilk",
@@ -6704,12 +6666,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Raspberry soy yogurt",
@@ -6786,12 +6747,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Vanilla soy yogurt (family size)",
@@ -6869,12 +6829,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "SILK Very Vanilla, soymilk",
@@ -6901,12 +6860,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Sandwich spread, meatless",
@@ -7488,8 +7446,7 @@
       "gluten-free"
     ],
     "allergens": [
-      "dairy",
-      "soy"
+      "dairy"
     ]
   },
   {
@@ -7523,9 +7480,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, cooked, boiled, with salt",
@@ -7558,9 +7513,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, dry roasted",
@@ -7593,9 +7546,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, raw",
@@ -7628,9 +7579,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, roasted, no salt added",
@@ -7663,9 +7612,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soybeans, mature seeds, roasted, salted",
@@ -7698,9 +7645,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk (All flavors), enhanced",
@@ -7726,12 +7671,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk (All flavors), lowfat, with added calcium, vitamins A and D",
@@ -7756,12 +7700,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk (all flavors), nonfat, with added calcium, vitamins A and D",
@@ -7790,12 +7733,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D",
@@ -7820,12 +7762,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, chocolate and other flavors, light, with added calcium, vitamins A and D",
@@ -7854,12 +7795,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, chocolate, nonfat, with added calcium, vitamins A and D",
@@ -7888,12 +7828,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, chocolate, unfortified",
@@ -7922,12 +7861,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, chocolate, with added calcium, vitamins A and D",
@@ -7956,12 +7894,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, original and vanilla, light, unsweetened, with added calcium, vitamins A and D",
@@ -7988,12 +7925,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, original and vanilla, light, with added calcium, vitamins A and D",
@@ -8022,12 +7958,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, original and vanilla, unfortified",
@@ -8056,12 +7991,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Soymilk, original and vanilla, with added calcium, vitamins A and D",
@@ -8090,12 +8024,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Tempeh, cooked",
@@ -8677,9 +8610,7 @@
       "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Vermicelli, made from soy",
@@ -9080,12 +9011,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Vitasoy USA, Vitasoy Organic Classic Original Soymilk",
@@ -9106,12 +9036,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Vitasoy USA, Vitasoy Organic Creamy Original Soymilk",
@@ -9136,12 +9065,11 @@
     },
     "sub_group": "legumes",
     "dietary_tags": [
+      "vegan",
+      "vegetarian",
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "soy"
-    ]
+    "allergens": []
   },
   {
     "name": "Winged beans, mature seeds, cooked, boiled, with salt",

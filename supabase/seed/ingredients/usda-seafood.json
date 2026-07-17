@@ -382,9 +382,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Crustaceans, crayfish, mixed species, farmed, raw",
@@ -414,9 +412,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Crustaceans, crayfish, mixed species, wild, cooked, moist heat",
@@ -447,9 +443,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Crustaceans, crayfish, mixed species, wild, raw",
@@ -480,9 +474,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Crustaceans, lobster, northern, cooked, moist heat",
@@ -636,7 +628,9 @@
       "selenium": 41.7
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "shellfish"
     ]
@@ -892,9 +886,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, anchovy, european, raw",
@@ -924,9 +916,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, bass, fresh water, mixed species, raw",
@@ -1084,9 +1074,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, bluefish, raw",
@@ -1116,9 +1104,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, burbot, cooked, dry heat",
@@ -1148,9 +1134,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, burbot, raw",
@@ -1180,9 +1164,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, butterfish, cooked, dry heat",
@@ -1212,10 +1194,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, butterfish, raw",
@@ -1245,10 +1224,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, carp, cooked, dry heat",
@@ -1278,9 +1254,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, carp, raw",
@@ -1311,9 +1285,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, catfish, channel, cooked, breaded and fried",
@@ -1340,7 +1312,9 @@
       "selenium": 13.9
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "fish"
     ]
@@ -1505,9 +1479,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, cisco, raw",
@@ -1537,9 +1509,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, cisco, smoked",
@@ -1570,9 +1540,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, cod, Atlantic, canned, solids and liquid",
@@ -1824,10 +1792,10 @@
       "selenium": 38.8
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
-    "allergens": [
-      "fish"
-    ]
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
   },
   {
     "name": "Fish, croaker, Atlantic, raw",
@@ -1858,9 +1826,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, cusk, cooked, dry heat",
@@ -1890,9 +1856,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, cusk, raw",
@@ -1922,9 +1886,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, drum, freshwater, cooked, dry heat",
@@ -1954,9 +1916,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, drum, freshwater, raw",
@@ -1986,9 +1946,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, eel, mixed species, cooked, dry heat",
@@ -2018,9 +1976,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, eel, mixed species, raw",
@@ -2051,9 +2007,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, fish sticks, frozen, prepared",
@@ -2084,9 +2038,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, flatfish (flounder and sole species), cooked, dry heat",
@@ -2182,9 +2134,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, grouper, mixed species, cooked, dry heat",
@@ -2214,9 +2164,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, grouper, mixed species, raw",
@@ -2246,9 +2194,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, haddock, cooked, dry heat",
@@ -2701,9 +2647,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, ling, raw",
@@ -2733,9 +2677,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, lingcod, cooked, dry heat",
@@ -2765,9 +2707,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, lingcod, raw",
@@ -2797,9 +2737,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, mackerel, Atlantic, cooked, dry heat",
@@ -3155,9 +3093,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, mahimahi, raw",
@@ -3187,9 +3123,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, milkfish, cooked, dry heat",
@@ -3219,10 +3153,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, milkfish, raw",
@@ -3252,10 +3183,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "dairy",
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, monkfish, cooked, dry heat",
@@ -3285,9 +3213,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, monkfish, raw",
@@ -3317,9 +3243,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, mullet, striped, cooked, dry heat",
@@ -3349,9 +3273,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, mullet, striped, raw",
@@ -3382,9 +3304,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, ocean perch, Atlantic, cooked, dry heat",
@@ -3415,9 +3335,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, ocean perch, Atlantic, raw",
@@ -3448,9 +3366,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, perch, mixed species, cooked, dry heat",
@@ -3480,9 +3396,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, perch, mixed species, raw",
@@ -3513,9 +3427,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pike, northern, cooked, dry heat",
@@ -3545,9 +3457,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pike, northern, raw",
@@ -3578,9 +3488,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pike, walleye, cooked, dry heat",
@@ -3610,9 +3518,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pike, walleye, raw",
@@ -3642,9 +3548,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, Alaska, cooked",
@@ -3669,9 +3573,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, Alaska, cooked, dry heat (may contain additives to retain moisture)",
@@ -3702,9 +3604,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, Alaska, raw",
@@ -3729,9 +3629,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, Alaska, raw (may contain additives to retain moisture)",
@@ -3762,9 +3660,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, Atlantic, cooked, dry heat",
@@ -3794,9 +3690,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, Atlantic, raw",
@@ -3827,9 +3721,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pollock, raw",
@@ -3859,9 +3751,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pompano, florida, cooked, dry heat",
@@ -3891,9 +3781,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pompano, florida, raw",
@@ -3924,9 +3812,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pout, ocean, cooked, dry heat",
@@ -3956,9 +3842,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, pout, ocean, raw",
@@ -3988,9 +3872,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, rockfish, Pacific, mixed species, cooked, dry heat",
@@ -4021,9 +3903,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, rockfish, Pacific, mixed species, raw",
@@ -4054,9 +3934,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, roe, mixed species, cooked, dry heat",
@@ -4086,9 +3964,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, roe, mixed species, raw",
@@ -4119,9 +3995,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, roughy, orange, cooked, dry heat",
@@ -4151,9 +4025,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, roughy, orange, raw",
@@ -4183,9 +4055,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sablefish, cooked, dry heat",
@@ -4215,9 +4085,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sablefish, raw",
@@ -4247,9 +4115,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sablefish, smoked",
@@ -4279,9 +4145,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, salmon, Atlantic, farmed, cooked, dry heat",
@@ -5222,9 +5086,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, scup, raw",
@@ -5255,9 +5117,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sea bass, mixed species, cooked, dry heat",
@@ -5352,9 +5212,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, seatrout, mixed species, raw",
@@ -5384,9 +5242,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, shad, american, cooked, dry heat",
@@ -5416,9 +5272,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, shad, american, raw",
@@ -5449,9 +5303,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, shark, mixed species, cooked, batter-dipped and fried",
@@ -5479,9 +5331,7 @@
     },
     "sub_group": "seafood",
     "dietary_tags": [],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, shark, mixed species, raw",
@@ -5512,9 +5362,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sheepshead, cooked, dry heat",
@@ -5544,9 +5392,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sheepshead, raw",
@@ -5576,9 +5422,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, smelt, rainbow, cooked, dry heat",
@@ -5608,9 +5452,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, smelt, rainbow, raw",
@@ -5641,9 +5483,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, snapper, mixed species, cooked, dry heat",
@@ -5738,9 +5578,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, spot, raw",
@@ -5770,9 +5608,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sturgeon, mixed species, cooked, dry heat",
@@ -5803,9 +5639,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sturgeon, mixed species, raw",
@@ -5836,9 +5670,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sturgeon, mixed species, smoked",
@@ -5869,9 +5701,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sucker, white, cooked, dry heat",
@@ -5901,9 +5731,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sucker, white, raw",
@@ -5933,9 +5761,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sunfish, pumpkin seed, cooked, dry heat",
@@ -5965,9 +5791,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, sunfish, pumpkin seed, raw",
@@ -5997,9 +5821,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, surimi",
@@ -6029,9 +5851,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, swordfish, cooked, dry heat",
@@ -6062,9 +5882,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, swordfish, raw",
@@ -6095,9 +5913,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, tilapia, cooked, dry heat",
@@ -6193,9 +6009,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, tilefish, raw",
@@ -6225,9 +6039,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, trout, brook, raw, New York State",
@@ -6993,9 +6805,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, turbot, european, raw",
@@ -7025,9 +6835,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, whitefish, mixed species, cooked, dry heat",
@@ -7057,9 +6865,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, whitefish, mixed species, raw",
@@ -7090,9 +6896,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, whitefish, mixed species, smoked",
@@ -7123,9 +6927,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, whiting, mixed species, cooked, dry heat",
@@ -7156,9 +6958,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, whiting, mixed species, raw",
@@ -7189,9 +6989,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, wolffish, Atlantic, cooked, dry heat",
@@ -7221,9 +7019,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, wolffish, Atlantic, raw",
@@ -7253,9 +7049,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, yellowtail, mixed species, cooked, dry heat",
@@ -7285,9 +7079,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Fish, yellowtail, mixed species, raw",
@@ -7317,9 +7109,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Frog legs, raw",
@@ -7381,9 +7171,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Mollusks, abalone, mixed species, cooked, fried",
@@ -7537,7 +7325,9 @@
       "selenium": 28.9
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "shellfish"
     ]
@@ -7666,9 +7456,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Mollusks, cuttlefish, mixed species, raw",
@@ -7698,9 +7486,7 @@
     "dietary_tags": [
       "gluten-free"
     ],
-    "allergens": [
-      "fish"
-    ]
+    "allergens": []
   },
   {
     "name": "Mollusks, mussel, blue, cooked, moist heat",
@@ -7951,7 +7737,9 @@
       "selenium": 66.5
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "shellfish"
     ]
@@ -8177,7 +7965,9 @@
       "selenium": 26.9
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "shellfish"
     ]
@@ -8423,7 +8213,9 @@
       "folate": 9.0
     },
     "sub_group": "seafood",
-    "dietary_tags": [],
+    "dietary_tags": [
+      "gluten-free"
+    ],
     "allergens": [
       "fish"
     ]

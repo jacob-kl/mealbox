@@ -15,7 +15,8 @@ export default async function NewRecipePage() {
 
   const { data: ingredients } = await supabase
     .from('ingredients')
-    .select('name, serving_qty, serving_unit')
+    .select('name, serving_qty, serving_unit, brand')
+    .order('brand', { ascending: true, nullsFirst: true })
     .order('name');
 
   return (

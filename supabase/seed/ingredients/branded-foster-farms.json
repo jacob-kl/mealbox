@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Foster Farms Leg Quarters Chicken",
+    "serving_qty": 112,
+    "serving_unit": "g",
+    "serving_label": "per 112g (4 ONZ)",
+    "cal": 210.6,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 14.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 1.08,
+      "vitamin_c": 2.35,
+      "sodium": 89.6
+    },
+    "sub_group": "poultry_chicken_and_turkey",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Foster Farms"
+  },
+  {
+    "name": "Foster Farms, Half Breasts Chicken With Ribs",
+    "serving_qty": 112,
+    "serving_unit": "g",
+    "serving_label": "per 112g (4 ONZ)",
+    "cal": 190.4,
+    "protein": 23.0,
+    "carbs": 0.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 0.0,
+      "iron": 0.72,
+      "vitamin_c": 0.0,
+      "sodium": 69.44
+    },
+    "sub_group": "poultry_chicken_and_turkey",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Foster Farms"
+  },
+  {
+    "name": "Foster Farms, Turkey Pastrani",
+    "serving_qty": 56,
+    "serving_unit": "g",
+    "serving_label": "per 56g (2 ONZ)",
+    "cal": 70.0,
+    "protein": 11.0,
+    "carbs": 0.0,
+    "fat": 2.5,
+    "fiber": 0.0,
+    "micros": {
+      "iron": 1.08,
+      "sodium": 450.24
+    },
+    "sub_group": "pepperoni_salami_and_cold_cuts",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": [],
+    "brand": "Foster Farms"
+  }
+]
