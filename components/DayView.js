@@ -88,6 +88,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
   // selecting it did nothing.
   const [suggestionsDismissed, setSuggestionsDismissed] = useState(false);
   const [ingredientResults, setIngredientResults] = useState([]);
+  const [ingredientSearchError, setIngredientSearchError] = useState(null);
 
   // Ingredient search now happens server-side (see
   // app/api/ingredients/search) - the table is far too large to ship to
@@ -97,16 +98,29 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
     const q = customName.trim();
     if (q.length < 2 || suggestionsDismissed) {
       setIngredientResults([]);
+      setIngredientSearchError(null);
       return;
     }
     let cancelled = false;
     const handle = setTimeout(async () => {
       try {
         const res = await fetch(`/api/ingredients/search?q=${encodeURIComponent(q)}`);
-        const json = await res.json();
-        if (!cancelled) setIngredientResults(json.ingredients || []);
-      } catch {
-        if (!cancelled) setIngredientResults([]);
+        const json = await res.json().catch(() => null);
+        if (cancelled) return;
+        if (!res.ok) {
+          console.error('Ingredient search failed:', json?.error || res.status);
+          setIngredientSearchError('Search hit a problem - try again in a moment.');
+          setIngredientResults([]);
+          return;
+        }
+        setIngredientSearchError(null);
+        setIngredientResults(json?.ingredients || []);
+      } catch (err) {
+        if (!cancelled) {
+          console.error('Ingredient search failed:', err);
+          setIngredientSearchError('Search hit a problem - try again in a moment.');
+          setIngredientResults([]);
+        }
       }
     }, 250);
     return () => {
@@ -484,6 +498,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
                   </div>
                 )}
               </div>
+              {ingredientSearchError && <p className="text-xs text-red-600">{ingredientSearchError}</p>}
               {selectedBase && (
                 <div className="flex items-center gap-2 text-sm bg-paper rounded-card px-3 py-2">
                   <span className="text-ink/60">Serving: {selectedBase.detail}</span>

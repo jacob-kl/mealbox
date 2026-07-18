@@ -81,6 +81,14 @@ function roundRobinByBrand(rows, limit) {
   return result;
 }
 
+// Fetches every row matching a single word - the simplest possible query
+// shape, so there's nothing here left to be uncertain about.
+async function fetchWordCandidates(supabase, word, columns) {
+  const { data, error } = await supabase.from('ingredients').select(columns).ilike('name', `%${word}%`).limit(5000);
+  if (error) throw new Error(error.message);
+  return data || [];
+}
+
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
   const q = (searchParams.get('q') || '').trim();
@@ -94,32 +102,36 @@ export async function GET(request) {
 
   const columns = 'name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, brand';
   const variants = keywordListVariants(keywords(q));
+  const distinctWords = [...new Set(variants.flat())];
 
-  // Run each word-list variant as its own query - every word in a variant
-  // is required (chaining .ilike() on the same column ANDs the
-  // conditions together rather than overriding one another), but a row
-  // only needs to satisfy ONE of the (at most two) variants. In parallel
-  // since they're independent, then merge and dedupe by name.
-  const results = await Promise.all(
-    variants.map((wordList) => {
-      let variantQuery = supabase.from('ingredients').select(columns);
-      for (const word of wordList) {
-        variantQuery = variantQuery.ilike('name', `%${word}%`);
-      }
-      return variantQuery.order('brand', { ascending: true, nullsFirst: true }).order('name').limit(200);
-    })
-  );
-
-  for (const r of results) {
-    if (r.error) return NextResponse.json({ error: r.error.message }, { status: 500 });
+  // One query per distinct word (mac / cheese / kraft / and / & - each on
+  // its own, nothing chained), run in parallel. Every combining rule -
+  // "all words in a variant required, any variant is enough" - is then
+  // just set membership checks below, not something asked of the
+  // database at all.
+  let wordResults;
+  try {
+    wordResults = await Promise.all(distinctWords.map((w) => fetchWordCandidates(supabase, w, columns)));
+  } catch (err) {
+    return NextResponse.json({ error: err.message }, { status: 500 });
   }
-  const byName = new Map();
-  for (const r of results) {
-    for (const row of r.data || []) {
-      if (!byName.has(row.name)) byName.set(row.name, row);
+
+  const rowByName = new Map();
+  const wordsMatchedByName = new Map();
+  distinctWords.forEach((word, i) => {
+    for (const row of wordResults[i]) {
+      rowByName.set(row.name, row);
+      if (!wordsMatchedByName.has(row.name)) wordsMatchedByName.set(row.name, new Set());
+      wordsMatchedByName.get(row.name).add(word);
     }
+  });
+
+  const candidates = [];
+  for (const [name, matchedWords] of wordsMatchedByName) {
+    const qualifies = variants.some((variantWords) => variantWords.every((w) => matchedWords.has(w)));
+    if (qualifies) candidates.push(rowByName.get(name));
   }
 
-  const diversified = roundRobinByBrand([...byName.values()], 15);
+  const diversified = roundRobinByBrand(candidates, 15);
   return NextResponse.json({ ingredients: diversified });
 }
