@@ -142,7 +142,7 @@ export default function DayView({ date, profile, plannedMeals, logEntries, hasWe
       carbs: i.carbs ?? 0,
       fat: i.fat ?? 0,
     }));
-    return [...recipeMatches, ...ingredientMatches].slice(0, 8);
+    return [...recipeMatches, ...ingredientMatches].slice(0, 20);
   }, [customName, recipeCatalog, ingredientResults, suggestionsDismissed]);
 
   function applySuggestion(s) {

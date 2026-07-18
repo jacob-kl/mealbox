@@ -21,6 +21,44 @@ function searchVariants(q) {
   return [...variants];
 }
 
+// A plain "sort by brand, then limit" starves out anything that doesn't
+// sort early alphabetically: a popular query like "mac and cheese" can
+// have a dozen 365 or Amy's matches alone, which fills the whole limit
+// before Kraft or Velveeta - both very real, very findable products - are
+// ever reached. Round-robin across brands instead, taking one match per
+// brand per pass, so a query that matches five different brands actually
+// surfaces all five rather than whichever one happens to come first in
+// the alphabet. Every generic (brand null) is its own "bucket" - they
+// don't compete with each other for a slot, and (via nullsFirst below)
+// always get pulled before any brand's turn in the rotation.
+function roundRobinByBrand(rows, limit) {
+  const buckets = new Map(); // key -> queue of rows, in their original relative order
+  const order = []; // first-seen order of bucket keys, for stable rotation
+  let genericCounter = 0;
+  for (const row of rows) {
+    const key = row.brand == null ? `__generic_${genericCounter++}` : row.brand;
+    if (!buckets.has(key)) {
+      buckets.set(key, []);
+      order.push(key);
+    }
+    buckets.get(key).push(row);
+  }
+  const result = [];
+  let remaining = true;
+  while (result.length < limit && remaining) {
+    remaining = false;
+    for (const key of order) {
+      if (result.length >= limit) break;
+      const bucket = buckets.get(key);
+      if (bucket.length) {
+        result.push(bucket.shift());
+        if (bucket.length) remaining = true;
+      }
+    }
+  }
+  return result;
+}
+
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
   const q = (searchParams.get('q') || '').trim();
@@ -41,14 +79,15 @@ export async function GET(request) {
       ? query.or(variants.map((v) => `name.ilike.%${v}%`).join(','))
       : query.ilike('name', `%${q}%`);
 
+  // Pull a much bigger candidate pool than we'll actually show - the
+  // round-robin below needs enough rows per brand to draw from, not just
+  // whatever the first 8-15 alphabetically happen to be.
   const { data, error } = await query
-    // Generic ingredients (brand is null) first, so the picker leads with
-    // "Whole milk (generic)" before "Kraft ..." - see schema.sql's note by
-    // the brand column for the same convention used elsewhere.
     .order('brand', { ascending: true, nullsFirst: true })
     .order('name')
-    .limit(8);
+    .limit(200);
 
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
-  return NextResponse.json({ ingredients: data || [] });
+  const diversified = roundRobinByBrand(data || [], 15);
+  return NextResponse.json({ ingredients: diversified });
 }
