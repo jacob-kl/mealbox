@@ -61,6 +61,12 @@ const GROUP_COLORS = {
   argentinian: '#5B8DD9',
   hawaiian: '#E0757A',
   'central-american': '#8B6F47',
+  chilean: '#A6467E',
+  paraguayan: '#C4A93E',
+  uruguayan: '#4AACA0',
+  bolivian: '#D68C45',
+  colombian: '#E0785A',
+  ecuadorian: '#7A93D4',
 };
 
 /**

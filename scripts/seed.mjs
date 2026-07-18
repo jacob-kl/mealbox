@@ -82,8 +82,26 @@ async function seedIngredients() {
     console.log(`  ${file}: ${fileCount} ingredients`);
   }
 
-  const { error } = await supabase.from('ingredients').upsert(ingredients, { onConflict: 'name' });
-  if (error) throw new Error(`Seeding ingredients failed: ${error.message}`);
+  // A single upsert covering all ~58,600 rows is too large a statement for
+  // Supabase's statement_timeout to complete - fine back when this was a
+  // few hundred hand-curated ingredients, but importing the USDA databases
+  // changed the scale by two orders of magnitude and this was never
+  // adjusted for that. Batch it: same total upsert, broken into chunks
+  // small enough for Postgres to finish each one comfortably.
+  const BATCH_SIZE = 500;
+  for (let i = 0; i < ingredients.length; i += BATCH_SIZE) {
+    const chunk = ingredients.slice(i, i + BATCH_SIZE);
+    const { error } = await supabase.from('ingredients').upsert(chunk, { onConflict: 'name' });
+    if (error) {
+      throw new Error(
+        `Seeding ingredients failed on batch ${i}-${i + chunk.length} of ${ingredients.length}: ${error.message}`
+      );
+    }
+    const done = Math.min(i + BATCH_SIZE, ingredients.length);
+    if (done % 5000 < BATCH_SIZE || done === ingredients.length) {
+      console.log(`  ...upserted ${done} / ${ingredients.length}`);
+    }
+  }
 
   console.log(`Seeded ${ingredients.length} ingredients from ${files.length} files.`);
   return ingredients;

@@ -129,6 +129,16 @@ const COUNTRY_GROUPS = {
   Nicaragua: { group: 'central-american', cuisines: ['central-american'] },
   'Costa Rica': { group: 'central-american', cuisines: ['central-american'] },
   Panama: { group: 'central-american', cuisines: ['central-american'] },
+  // More South American countries, each its own dedicated group rather
+  // than folded into a neighbor - Peru/Brazil/Argentina already set that
+  // precedent, and lumping (e.g. Chile under 'argentinian') was tried and
+  // explicitly rejected before.
+  Chile: { group: 'chilean', cuisines: ['chilean'] },
+  Paraguay: { group: 'paraguayan', cuisines: ['paraguayan'] },
+  Uruguay: { group: 'uruguayan', cuisines: ['uruguayan'] },
+  Bolivia: { group: 'bolivian', cuisines: ['bolivian'] },
+  Colombia: { group: 'colombian', cuisines: ['colombian'] },
+  Ecuador: { group: 'ecuadorian', cuisines: ['ecuadorian'] },
 };
 
 // United States: every state belongs to one of three groups now - New
