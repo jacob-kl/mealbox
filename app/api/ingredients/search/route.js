@@ -9,16 +9,38 @@ import { createClient } from '@/lib/supabase/server';
 // that size). This does the search server-side instead: a handful of
 // matching rows over the wire per keystroke, not the whole table once.
 
+// Splits a query into individual required keywords instead of one literal
+// phrase, so word order doesn't matter. A literal-phrase match on "mac
+// and cheese kraft" can never find "Kraft Mac & Cheese" - the brand name
+// comes first there, not last - even though every one of those words is
+// genuinely present. Treating each word as its own required condition
+// (all of them, in any order) is what actually matches how people type a
+// second, clarifying word onto a search that was already close.
+function keywords(q) {
+  return q.trim().split(/\s+/).filter(Boolean);
+}
+
 // Ingredient names aren't consistent about "and" vs "&" ("Kraft Mac &
-// Cheese" but plenty of others spell it out), so a search for one
-// wouldn't find the other. Generate both spellings and match either,
-// rather than expecting the person typing to guess which one a given
-// product happens to use.
-function searchVariants(q) {
-  const variants = new Set([q]);
-  if (/&/.test(q)) variants.add(q.replace(/&/g, 'and'));
-  if (/\band\b/i.test(q)) variants.add(q.replace(/\band\b/gi, '&'));
-  return [...variants];
+// Cheese" but plenty of others spell it out). If one of the typed words is
+// exactly "and" or "&" on its own, also try the other spelling in that
+// same slot, rather than expecting the person to guess which one a given
+// product happens to use. Every other word is left alone; this only ever
+// produces a second variant, never more, since a query realistically has
+// at most one such word.
+function keywordListVariants(words) {
+  const andIndex = words.findIndex((w) => w.toLowerCase() === 'and');
+  if (andIndex !== -1) {
+    const swapped = [...words];
+    swapped[andIndex] = '&';
+    return [words, swapped];
+  }
+  const ampIndex = words.findIndex((w) => w === '&');
+  if (ampIndex !== -1) {
+    const swapped = [...words];
+    swapped[ampIndex] = 'and';
+    return [words, swapped];
+  }
+  return [words];
 }
 
 // A plain "sort by brand, then limit" starves out anything that doesn't
@@ -70,24 +92,34 @@ export async function GET(request) {
   } = await supabase.auth.getUser();
   if (!user) return NextResponse.json({ error: 'Not authenticated' }, { status: 401 });
 
-  const variants = searchVariants(q);
-  let query = supabase
-    .from('ingredients')
-    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, brand');
-  query =
-    variants.length > 1
-      ? query.or(variants.map((v) => `name.ilike.%${v}%`).join(','))
-      : query.ilike('name', `%${q}%`);
+  const columns = 'name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, brand';
+  const variants = keywordListVariants(keywords(q));
 
-  // Pull a much bigger candidate pool than we'll actually show - the
-  // round-robin below needs enough rows per brand to draw from, not just
-  // whatever the first 8-15 alphabetically happen to be.
-  const { data, error } = await query
-    .order('brand', { ascending: true, nullsFirst: true })
-    .order('name')
-    .limit(200);
+  // Run each word-list variant as its own query - every word in a variant
+  // is required (chaining .ilike() on the same column ANDs the
+  // conditions together rather than overriding one another), but a row
+  // only needs to satisfy ONE of the (at most two) variants. In parallel
+  // since they're independent, then merge and dedupe by name.
+  const results = await Promise.all(
+    variants.map((wordList) => {
+      let variantQuery = supabase.from('ingredients').select(columns);
+      for (const word of wordList) {
+        variantQuery = variantQuery.ilike('name', `%${word}%`);
+      }
+      return variantQuery.order('brand', { ascending: true, nullsFirst: true }).order('name').limit(200);
+    })
+  );
 
-  if (error) return NextResponse.json({ error: error.message }, { status: 500 });
-  const diversified = roundRobinByBrand(data || [], 15);
+  for (const r of results) {
+    if (r.error) return NextResponse.json({ error: r.error.message }, { status: 500 });
+  }
+  const byName = new Map();
+  for (const r of results) {
+    for (const row of r.data || []) {
+      if (!byName.has(row.name)) byName.set(row.name, row);
+    }
+  }
+
+  const diversified = roundRobinByBrand([...byName.values()], 15);
   return NextResponse.json({ ingredients: diversified });
 }
