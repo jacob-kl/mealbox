@@ -105,11 +105,12 @@ export function NavBar({ active }) {
 }
 
 export const CUISINES = [
-  'american', 'argentinian', 'australian', 'bolivian', 'brazilian', 'canadian', 'caribbean', 'central-african',
-  'central-american', 'chilean', 'chinese', 'colombian', 'east-african', 'ecuadorian', 'french', 'german',
-  'guyanese', 'hawaiian', 'indian', 'irish', 'italian', 'japanese', 'korean', 'mediterranean', 'mexican',
-  'middle-eastern', 'mongolian', 'new-mexico', 'new-zealander', 'north-african', 'paraguayan', 'peruvian',
-  'polish', 'portuguese', 'russian', 'south-african', 'southeast-asian', 'southern', 'spanish', 'surinamese',
+  'american', 'argentinian', 'australian', 'bolivian', 'brazilian', 'bruneian', 'burmese', 'cambodian',
+  'canadian', 'caribbean', 'central-african', 'central-american', 'chilean', 'chinese', 'colombian',
+  'east-african', 'ecuadorian', 'filipino', 'french', 'german', 'guyanese', 'hawaiian', 'indian', 'indonesian',
+  'irish', 'italian', 'japanese', 'korean', 'laotian', 'malaysian', 'mediterranean', 'mexican', 'middle-eastern',
+  'mongolian', 'new-mexico', 'new-zealander', 'north-african', 'papua-new-guinean', 'paraguayan', 'peruvian',
+  'polish', 'portuguese', 'russian', 'south-african', 'southern', 'spanish', 'surinamese',
   'swedish', 'swiss', 'thai', 'uruguayan', 'venezuelan', 'vietnamese', 'west-african',
 ];
 
@@ -137,6 +138,14 @@ export const CUISINE_LABELS = {
   irish: 'Irish',
   swedish: 'Swedish',
   swiss: 'Swiss',
+  burmese: 'Burmese',
+  laotian: 'Laotian',
+  cambodian: 'Cambodian',
+  malaysian: 'Malaysian',
+  bruneian: 'Bruneian',
+  indonesian: 'Indonesian',
+  filipino: 'Filipino',
+  'papua-new-guinean': 'Papua New Guinean',
   chinese: 'Chinese',
   'east-african': 'East African',
   french: 'French',
@@ -155,7 +164,6 @@ export const CUISINE_LABELS = {
   peruvian: 'Peruvian',
   russian: 'Russian',
   'south-african': 'South African',
-  'southeast-asian': 'Southeast Asian',
   southern: 'Southern',
   spanish: 'Spanish',
   thai: 'Thai',

@@ -1,0 +1,1375 @@
+[
+  {
+    "name": "Laotian Khao Piak Sen",
+    "cuisine": "laotian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 55,
+        "note": "thick, or tapioca noodles if available"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Simmer the chicken with the onion in the broth until tender, about 20 minutes, then shred it.",
+      "Cook the noodles separately according to package directions.",
+      "Combine the noodles, shredded chicken, and broth in a bowl."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": "thick, or tapioca noodles if available"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the chicken with the onion and garlic in the broth for 20-25 minutes until very tender, then remove and shred it, returning it to the pot.",
+      "Stir in the fish sauce.",
+      "Cook the noodles according to package directions and add to the broth, or ladle the broth over them.",
+      "Top with fresh cilantro - this thick, chicken-based noodle soup is Laos's beloved comfort food, often eaten for breakfast."
+    ]
+  },
+  {
+    "name": "Laotian Sticky Rice with Egg",
+    "cuisine": "laotian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Steam or cook the sticky rice according to package directions.",
+      "Fry the egg and drizzle with the fish sauce.",
+      "Serve together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.20833333333333334,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 15,
+        "note": "sliced, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Steam or cook the sticky rice according to package directions, keeping it warm.",
+      "Fry the egg to your liking and top with a few slices of onion.",
+      "Serve the egg over or alongside the rice, drizzled with fish sauce - a simple, common Laotian breakfast, sticky rice being the staple starch of the country."
+    ]
+  },
+  {
+    "name": "Laotian Coconut Rice Porridge",
+    "cuisine": "laotian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 94.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in water and coconut milk for 20-25 minutes, stirring occasionally, until thick and creamy.",
+      "Stir in the sugar and serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 118.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup, toasted, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice in 1.5 cups water with the coconut milk over medium-low heat, stirring occasionally, for 22-28 minutes until thick and porridge-like.",
+      "Stir in the sugar.",
+      "Top with the toasted shredded coconut and serve warm - a comforting, mildly sweet breakfast porridge."
+    ]
+  },
+  {
+    "name": "Laotian Larb",
+    "cuisine": "laotian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "thinly sliced"
+      }
+    ],
+    "steps": [
+      "Brown the ground chicken in a dry pan until cooked through, breaking it into small crumbles.",
+      "Toss with the lime juice, fish sauce, and onion.",
+      "Serve with sticky rice and fresh lettuce leaves."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 15,
+        "note": "toasted and ground, as a khao khua stand-in"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the raw rice in a dry pan over medium heat, stirring, 4-5 minutes until deeply golden and fragrant, then grind into a coarse powder - this is khao khua, essential to real larb's texture and nutty flavor.",
+      "Brown the ground chicken in a dry pan until cooked through, breaking it into small, even crumbles.",
+      "Toss the cooked chicken with the lime juice, fish sauce, onion, cilantro, and toasted rice powder.",
+      "Serve with sticky rice and fresh lettuce or cabbage leaves for wrapping - Laos's national dish, a bright, herbaceous minced meat salad."
+    ]
+  },
+  {
+    "name": "Laotian Tam Mak Hoong",
+    "cuisine": "laotian",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 130,
+        "note": "shredded, as a green papaya stand-in"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 15,
+        "note": "crushed"
+      }
+    ],
+    "steps": [
+      "Toss the shredded cabbage with the tomatoes and lime juice.",
+      "Top with the crushed peanuts.",
+      "Season with salt and serve."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 140,
+        "note": "shredded, as a green papaya stand-in"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 18,
+        "note": "crushed"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the shredded cabbage (a stand-in for shredded green papaya, the traditional base) with the tomatoes, garlic, lime juice, and fish sauce.",
+      "Top with the crushed peanuts.",
+      "The real dish is traditionally pounded together in a mortar and pestle to bruise and soften the vegetables, releasing their juices - Laos's version of the papaya salad found across the region, typically the spiciest."
+    ]
+  },
+  {
+    "name": "Laotian Or Lam",
+    "cuisine": "laotian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": "trimmed"
+      },
+      {
+        "ingredient": "Eggplant",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer the pork in the broth 25-30 minutes until nearly tender.",
+      "Add the green beans and eggplant, and simmer 12-15 more minutes until all the vegetables are tender.",
+      "Serve with sticky rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 90,
+        "note": "trimmed"
+      },
+      {
+        "ingredient": "Eggplant",
+        "qty": 110,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp, as a stand-in for local herbs"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the pork with the garlic in the chicken broth for 25-30 minutes until nearly tender.",
+      "Add the green beans, eggplant, fish sauce, and oregano, and simmer 12-18 more minutes until all the vegetables are tender and the stew has thickened slightly.",
+      "Serve with sticky rice - a hearty, herb-forward stew from Luang Prabang, considered one of Laos's most distinctive regional dishes."
+    ]
+  },
+  {
+    "name": "Laotian Naem Khao",
+    "cuisine": "laotian",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 100,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Fry or bake the cooked rice until crisp and golden.",
+      "Brown the ground pork, then toss with the crispy rice, onion, and lime juice.",
+      "Serve with fresh lettuce leaves for wrapping."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 110,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Spread the cooked rice on a tray and bake at 375F (190C) for 12-15 minutes, or pan-fry, until deeply golden and crisp, then break into small clumps.",
+      "Brown the ground pork over medium-high heat, 6-8 minutes.",
+      "Toss the crispy rice with the pork, onion, cilantro, lime juice, and fish sauce.",
+      "Serve with fresh lettuce leaves for wrapping - a beloved crunchy, tangy Laotian salad, popular as a shared appetizer."
+    ]
+  },
+  {
+    "name": "Laotian Grilled Chicken (Ping Kai)",
+    "cuisine": "laotian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Combine the garlic, fish sauce, and lime juice into a marinade, and coat the chicken.",
+      "Marinate at least 20 minutes, then grill or roast until well charred and cooked through, 25-30 minutes.",
+      "Serve with sticky rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ginger root, raw",
+        "qty": 10,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the garlic, ginger, fish sauce, lime juice, and black pepper into a marinade.",
+      "Coat the chicken thoroughly and marinate at least 30 minutes, or overnight for deeper flavor.",
+      "Grill over medium-high heat, or roast at 425F (220C), turning occasionally, 28-32 minutes until well charred and cooked through.",
+      "Serve with sticky rice and a dipping sauce - grilled chicken is a fixture of Laotian street food and gatherings."
+    ]
+  },
+  {
+    "name": "Laotian Mok Pa (Steamed Fish)",
+    "cuisine": "laotian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 59.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Combine the fish with the coconut milk, fish sauce, and onion.",
+      "Wrap in foil (traditionally banana leaf) and steam or bake at 375F for 20-25 minutes until cooked through.",
+      "Serve with sticky rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 71.0,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the fish with the coconut milk, fish sauce, onion, garlic, and cilantro in a bowl, coating well.",
+      "Wrap tightly in foil (traditionally banana leaf, which adds its own aroma) and steam over simmering water, or bake at 375F (190C), for 22-28 minutes until the fish is cooked through and flaky.",
+      "Serve with sticky rice - mok pa is a beloved steamed fish custard, gently spiced and delicate."
+    ]
+  },
+  {
+    "name": "Laotian Sausage (Sai Oua)",
+    "cuisine": "laotian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 200,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ginger root, raw",
+        "qty": 12,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the ground pork with the garlic, ginger, and fish sauce.",
+      "Shape into small patties or logs and grill or pan-fry until well browned and cooked through, 5-6 minutes per side.",
+      "Serve with sticky rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 220,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ginger root, raw",
+        "qty": 15,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the ground pork thoroughly with the garlic, ginger, fish sauce, cilantro, and black pepper until well combined.",
+      "Shape into small patties or short logs.",
+      "Grill or pan-fry over medium heat, 5-7 minutes per side, until well browned and cooked through.",
+      "Serve with sticky rice and fresh herbs - sai oua is one of Laos's most celebrated grilled sausages, especially associated with Luang Prabang."
+    ]
+  },
+  {
+    "name": "Laotian Beef Stew (Aw Sii In)",
+    "cuisine": "laotian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the broth and fish sauce, and simmer, covered, 1.5-2 hours until the beef is tender.",
+      "Serve with sticky rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp, as a stand-in for local herbs"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and garlic over medium-high heat, 8-10 minutes.",
+      "Add the beef broth, fish sauce, and oregano.",
+      "Cover and simmer over low heat 1.5-2 hours until the beef is completely tender and the broth has deepened in flavor.",
+      "Serve with sticky rice - a warming, herb-forward Laotian beef stew."
+    ]
+  },
+  {
+    "name": "Laotian Fried Spring Rolls",
+    "cuisine": "laotian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "as a wrapper"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Brown the chicken and mix with the cabbage.",
+      "Roll tightly in the wrapper, sealing the edge with a little water.",
+      "Fry until golden and crisp, about 5-6 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 70,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.16666666666666666,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": "for sealing"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the ground chicken with the onion, then mix with the shredded cabbage and fish sauce, cooking briefly until the cabbage just softens.",
+      "Let cool slightly, then spoon onto the wrapper and roll tightly, sealing the edge with a flour-water paste.",
+      "Fry in the oil over medium heat, turning occasionally, 5-7 minutes until deeply golden and crisp on all sides.",
+      "A popular snack shared across Laos and its neighbors."
+    ]
+  },
+  {
+    "name": "Laotian Grilled Sticky Rice Balls (Khao Jee)",
+    "cuisine": "laotian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Shape the cooked sticky rice into a small flat patty.",
+      "Brush with the beaten egg and grill or pan-fry in the oil until golden and slightly crisp, about 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.75,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.08333333333333333,
+        "note": "mixed into the egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Shape the cooked sticky rice into a small, firm flat patty or ball, pressing well so it holds together.",
+      "Mix the beaten egg with the fish sauce.",
+      "Grill or pan-fry the rice in the oil over medium heat, brushing repeatedly with the egg mixture, 3-5 minutes per side, until golden, glossy, and slightly crisp at the edges.",
+      "A simple, beloved Laotian street snack."
+    ]
+  },
+  {
+    "name": "Laotian Banana in Coconut Sauce",
+    "cuisine": "laotian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 120,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 71.0,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Warm the coconut milk with the sugar until dissolved.",
+      "Add the banana slices and simmer 5-6 minutes until softened.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 130,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 82.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup, toasted, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the coconut milk with the sugar over medium-low heat until the sugar dissolves, 2-3 minutes.",
+      "Add the banana slices and simmer gently 6-8 minutes until softened and infused with the coconut sauce.",
+      "Top with the toasted shredded coconut and serve warm - a simple, comforting sweet snack found throughout Laos."
+    ]
+  },
+  {
+    "name": "Laotian Spiced Fried Peanuts",
+    "cuisine": "laotian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Fry the sliced garlic in the oil until golden.",
+      "Add the peanuts and toss to coat, warming through 1-2 minutes.",
+      "Cool slightly before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Fry the sliced garlic in the oil over medium-low heat, 2-3 minutes, until golden and crisp - watch closely, as it burns quickly.",
+      "Add the peanuts and turmeric, and toss to coat, warming through for 1-2 minutes.",
+      "Cool slightly before serving - a simple, savory snack, often set out alongside drinks."
+    ]
+  },
+  {
+    "name": "Laotian Sticky Rice with Mango",
+    "cuisine": "laotian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 71.0,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mangos, raw",
+        "qty": 100,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Warm the coconut milk with the sugar until dissolved.",
+      "Pour over the cooked sticky rice and let sit 5 minutes to absorb.",
+      "Serve with the sliced mango."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 82.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mangos, raw",
+        "qty": 110,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup, toasted, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the coconut milk with the sugar over low heat until the sugar dissolves, about 2-3 minutes.",
+      "Pour most of the coconut mixture over the warm cooked sticky rice, reserving a little, and let sit 8-10 minutes to absorb.",
+      "Serve topped with the sliced mango, the reserved coconut sauce drizzled over, and the toasted coconut - shared across the region, but a true staple in Laos as well."
+    ]
+  },
+  {
+    "name": "Laotian Coconut Custard",
+    "cuisine": "laotian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 94.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the eggs, coconut milk, and sugar together until smooth.",
+      "Pour into a small dish and steam or bake at 325F for 30-35 minutes until just set.",
+      "Cool before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 118.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the eggs, coconut milk, sugar, and vanilla together until smooth and well combined.",
+      "Pour into a small buttered dish.",
+      "Steam over simmering water, or bake in a water bath at 325F (165C), for 32-40 minutes until just set with a gentle wobble in the center.",
+      "Cool before serving, chilled or at room temperature - a simple, silky coconut custard found across Laos."
+    ]
+  },
+  {
+    "name": "Laotian Khao Tom (Sweet Rice Bundles)",
+    "cuisine": "laotian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 47.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the cooked rice with the coconut milk and sugar.",
+      "Wrap portions around a slice of banana, using foil in place of the traditional banana leaf.",
+      "Steam for 15-20 minutes until firm and set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked, glutinous if available"
+      },
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 70,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 59.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cooked sticky rice with the coconut milk, sugar, and shredded coconut until well combined.",
+      "Take a portion of the rice mixture, flatten slightly, place a slice of banana in the center, and wrap into a small bundle, using foil in place of the traditional banana leaf.",
+      "Steam the bundles over simmering water for 18-22 minutes until firm and set.",
+      "Let cool slightly before unwrapping - a portable, traditional Laotian sweet, often made for festivals and offerings."
+    ]
+  },
+  {
+    "name": "Laotian Jeow Mak Len (Tomato Dip)",
+    "cuisine": "laotian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the tomatoes with the garlic for 8-10 minutes until thickened.",
+      "Stir in the fish sauce and lime juice.",
+      "Serve with sticky rice and grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes with the garlic and jalapeno (if using) over medium-low heat for 10-12 minutes until thickened and jammy.",
+      "Mash roughly with a fork or in a mortar for a more traditional texture, then stir in the fish sauce and lime juice.",
+      "Serve as a dip with sticky rice and grilled meats or vegetables - jeow dips are a staple of Laotian meals."
+    ]
+  },
+  {
+    "name": "Laotian Padaek-Style Chili Sauce",
+    "cuisine": "laotian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the fish sauce, jalapeno, and lime juice together.",
+      "Serve as a dipping sauce alongside rice and grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the fish sauce, jalapeno, lime juice, and garlic together until combined.",
+      "Serve as a bold, pungent dipping sauce - padaek, a fermented fish sauce even more intense than standard fish sauce, is central to Laotian cooking; this offers a similar savory heat in a simpler form."
+    ]
+  }
+]

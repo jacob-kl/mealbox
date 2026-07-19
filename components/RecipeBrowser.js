@@ -16,6 +16,18 @@ const MEAL_TYPE_LABELS = {
   dessert: 'Desserts',
 };
 
+// Not real cuisine content - just a couple of easter eggs on the map.
+const EASTER_EGGS = {
+  Greenland: {
+    image: '/easter-eggs/greenland.jpg',
+    caption: "what are you doing here? you aren't going to eat me, are you?",
+  },
+  Antarctica: {
+    image: '/easter-eggs/antarctica.jpg',
+    caption: "whoa - a meal-planning app? I'm going to go ahead and assume I'm not on today's menu.",
+  },
+};
+
 export default function RecipeBrowser({ recipes, defaultToFull = true }) {
   const [query, setQuery] = useState('');
   // null = map view (default landing state). Once a region is picked or a
@@ -24,9 +36,11 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
   const [activeCuisines, setActiveCuisines] = useState(null);
   const [activeLabel, setActiveLabel] = useState(null);
   const [openId, setOpenId] = useState(null);
+  // Name of an easter-egg region (e.g. 'Greenland'), or null.
+  const [easterEgg, setEasterEgg] = useState(null);
 
   const cuisinesPresent = useMemo(() => [...new Set(recipes.map((r) => r.cuisine))].sort(), [recipes]);
-  const showingMap = activeCuisines === null && !query;
+  const showingMap = activeCuisines === null && !query && !easterEgg;
 
   const filtered = useMemo(() => {
     return recipes.filter((r) => {
@@ -57,10 +71,15 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
     setActiveLabel(label);
   }
 
+  function handleEasterEgg(name) {
+    setEasterEgg(name);
+  }
+
   function backToMap() {
     setActiveCuisines(null);
     setActiveLabel(null);
     setQuery('');
+    setEasterEgg(null);
   }
 
   return (
@@ -76,6 +95,7 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
           onChange={(e) => {
             setQuery(e.target.value);
             if (e.target.value) setActiveCuisines('all');
+            if (e.target.value) setEasterEgg(null);
           }}
           placeholder="Search all recipes…"
           className="flex-1 min-w-[160px] border border-line rounded-card px-3 py-2 bg-card text-sm"
@@ -85,6 +105,7 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
           onChange={(e) => {
             setActiveCuisines(e.target.value === 'all' ? 'all' : [e.target.value]);
             setActiveLabel(e.target.value === 'all' ? null : cuisineLabel(e.target.value));
+            setEasterEgg(null);
           }}
           className="border border-line rounded-card px-3 py-2 bg-card text-sm"
         >
@@ -97,8 +118,17 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
         </select>
       </div>
 
-      {showingMap ? (
-        <CuisineWorldMap onSelect={handleMapSelect} />
+      {easterEgg ? (
+        <div className="flex flex-col items-center text-center py-8">
+          <img
+            src={EASTER_EGGS[easterEgg].image}
+            alt={easterEgg}
+            className="max-w-xs w-full rounded-card border border-line mb-4"
+          />
+          <p className="font-display text-xl italic max-w-md">{EASTER_EGGS[easterEgg].caption}</p>
+        </div>
+      ) : showingMap ? (
+        <CuisineWorldMap onSelect={handleMapSelect} onEasterEgg={handleEasterEgg} />
       ) : (
         <>
           {activeLabel && (

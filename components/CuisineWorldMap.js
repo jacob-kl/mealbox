@@ -47,7 +47,6 @@ const GROUP_COLORS = {
   korean: '#4E7B8B',
   thai: '#8B5FBF',
   vietnamese: '#8FA83E',
-  'southeast-asian': '#C4A63E',
   'north-african': '#CC3333',
   'west-african': '#3FA05C',
   'east-african': '#D6673E',
@@ -78,13 +77,23 @@ const GROUP_COLORS = {
   irish: '#3F8F4A',
   swedish: '#4A6FA5',
   swiss: '#8B2942',
+  burmese: '#D4A843',
+  laotian: '#4A9B7A',
+  cambodian: '#C25B3A',
+  malaysian: '#3D5FA8',
+  bruneian: '#D9B33D',
+  indonesian: '#A8344A',
+  filipino: '#5BA8D9',
+  'papua-new-guinean': '#6B4A8A',
+  greenland: '#A8D4E8',
+  antarctica: '#3D5566',
 };
 
 /**
  * @param {(cuisines: string[], label: string) => void} onSelect - called
  *   with the cuisine slug(s) for the clicked region and a human label
  */
-export default function CuisineWorldMap({ onSelect }) {
+export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
   const [hoveredGroup, setHoveredGroup] = useState(null);
   const [hoveredLabel, setHoveredLabel] = useState(null);
 
@@ -160,6 +169,10 @@ export default function CuisineWorldMap({ onSelect }) {
               }}
               onClick={() => {
                 if (!clickable) return;
+                if (shape.name === 'Greenland' || shape.name === 'Antarctica') {
+                  onEasterEgg(shape.name);
+                  return;
+                }
                 onSelect(shape.cuisines, labelFor(shape.cuisines));
               }}
             />

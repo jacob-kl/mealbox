@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "Indonesian Nasi Goreng",
+    "cuisine": "indonesian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried, to top"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Fry the onion, then add the rice and stir-fry 3-4 minutes with the soy sauce.",
+      "Fry the egg separately and place on top."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": "fried, to top"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the onion, garlic, and jalapeno in the oil until fragrant, 3-4 minutes.",
+      "Add the cooked rice and soy sauce, and stir-fry 4-5 minutes over high heat until well combined and slightly crisp in spots.",
+      "Fry the egg separately and place on top - nasi goreng is often called Indonesia's national dish, eaten any time of day but especially for breakfast."
+    ]
+  },
+  {
+    "name": "Indonesian Bubur Ayam",
+    "cuisine": "indonesian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 100,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 8,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the rice in the broth with the chicken for 30-35 minutes, stirring occasionally, until thick and porridge-like.",
+      "Shred the chicken back in and season with the soy sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 110,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Ginger root, raw",
+        "qty": 8,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice and ginger in the broth with the chicken for 32-40 minutes, stirring occasionally, until the rice has broken down into a thick, creamy porridge.",
+      "Remove the chicken, shred it, and stir back in with the soy sauce.",
+      "Top with cilantro and serve hot - Indonesia's beloved chicken rice porridge, a breakfast staple."
+    ]
+  },
+  {
+    "name": "Indonesian Fried Rice Noodles (Bihun Goreng)",
+    "cuisine": "indonesian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 55,
+        "note": "thin, cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Scramble the egg, then add the cooked noodles, bean sprouts, and soy sauce.",
+      "Stir-fry 3-4 minutes until well combined."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": "thin, cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Scramble the egg in the oil, then push aside.",
+      "Add the garlic, cooked noodles, bean sprouts, and soy sauce, and stir-fry 4-5 minutes over high heat until well combined.",
+      "A simple, common Indonesian breakfast noodle dish."
+    ]
+  },
+  {
+    "name": "Indonesian Gado-Gado",
+    "cuisine": "indonesian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 100,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": "trimmed, blanched"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 25,
+        "note": "crushed"
+      }
+    ],
+    "steps": [
+      "Arrange the cabbage, green beans, and sliced egg together.",
+      "Blend the crushed peanuts with a little water into a sauce and spoon over the top."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 110,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 65,
+        "note": "trimmed, blanched"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": "hard-boiled"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 30,
+        "note": "crushed"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.16666666666666666,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blanch the green beans until just tender, then combine with the shredded cabbage and sliced hard-boiled egg on a plate.",
+      "Blend the crushed peanuts with the fish sauce, lime juice, and a splash of warm water into a thick, spoonable sauce.",
+      "Spoon generously over the vegetables - gado-gado, meaning roughly 'mix-mix,' is a beloved Indonesian vegetable salad with peanut sauce."
+    ]
+  },
+  {
+    "name": "Indonesian Soto Ayam",
+    "cuisine": "indonesian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the chicken with the turmeric in the broth until tender, 20-25 minutes, then shred.",
+      "Combine with the cooked noodles and broth."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 25,
+        "note": "to top"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the chicken with the garlic and turmeric in the broth for 22-28 minutes until very tender, then shred and return to the pot.",
+      "Ladle over the cooked noodles, top with bean sprouts, and finish with a squeeze of lime - soto ayam, a turmeric-spiced chicken soup, is found across Indonesia in countless regional variations."
+    ]
+  },
+  {
+    "name": "Indonesian Sate Ayam",
+    "cuisine": "indonesian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 20,
+        "note": "crushed, for the sauce"
+      }
+    ],
+    "steps": [
+      "Marinate the chicken with the soy sauce and garlic for at least 20 minutes.",
+      "Thread onto skewers and grill until charred and cooked through, 10-12 minutes.",
+      "Blend the peanuts with a little water for a dipping sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 25,
+        "note": "crushed, for the sauce"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.3333333333333333,
+        "note": "for the sauce"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the cubed chicken with the soy sauce and garlic for at least 30 minutes.",
+      "Thread onto skewers and grill over medium-high heat, turning occasionally, 12-15 minutes until well charred and cooked through.",
+      "Blend the crushed peanuts with the sugar and a splash of warm water into a thick dipping sauce.",
+      "Serve with the sauce and rice cakes if you have them - satay is beloved across Indonesia."
+    ]
+  },
+  {
+    "name": "Indonesian Bakso",
+    "cuisine": "indonesian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 40,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 25,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Shape the ground beef into small meatballs.",
+      "Simmer the meatballs in the broth for 12-15 minutes until cooked through.",
+      "Serve over the noodles with bean sprouts."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 45,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Bean sprouts",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the ground beef with the garlic and shape into small, firm meatballs.",
+      "Simmer the meatballs in the beef broth for 14-18 minutes until cooked through and firm.",
+      "Stir in the soy sauce.",
+      "Ladle the broth and meatballs over the cooked noodles, top with bean sprouts and cilantro - bakso, a beloved meatball soup, is sold on street carts throughout Indonesia."
+    ]
+  },
+  {
+    "name": "Indonesian Rendang",
+    "cuisine": "indonesian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 94.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion and turmeric.",
+      "Add the coconut milk and simmer, uncovered, 1.5-2 hours, stirring occasionally, until the sauce reduces and darkens.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 118.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ginger root, raw",
+        "qty": 15,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup, toasted"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, garlic, ginger, and turmeric over medium-high heat, 10-12 minutes.",
+      "Add the coconut milk and toasted shredded coconut, bringing to a simmer.",
+      "Cook uncovered over low heat 1.5-2.5 hours, stirring occasionally, until the sauce has reduced dramatically, turned deep brown, and the oil has separated.",
+      "Serve with rice - rendang originates from West Sumatra's Minangkabau people and is treasured across Indonesia and beyond."
+    ]
+  },
+  {
+    "name": "Indonesian Ayam Goreng",
+    "cuisine": "indonesian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Simmer the chicken with the garlic and turmeric in a little water for 15 minutes.",
+      "Drain and fry in the oil until deeply golden and crisp, 5-6 minutes per side.",
+      "Serve with rice and sambal."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Ginger root, raw",
+        "qty": 10,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the chicken with the garlic, ginger, turmeric, and fish sauce in a cup of water for 15-18 minutes until nearly cooked through, then drain well and pat dry.",
+      "Fry the par-cooked chicken in the oil over medium heat, 6-8 minutes per side, until deeply golden and crisp outside.",
+      "Serve with rice and sambal - this double-cooking method, first simmered then fried, gives ayam goreng its distinctive tenderness inside a crisp crust."
+    ]
+  },
+  {
+    "name": "Indonesian Grilled Fish (Ikan Bakar)",
+    "cuisine": "indonesian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Rub the fish with the turmeric and garlic.",
+      "Grill over medium-high heat, 4-6 minutes per side, until cooked through.",
+      "Finish with the lime juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the turmeric, garlic, jalapeno, and half the oil into a paste, and rub thoroughly over the fish.",
+      "Marinate 15-20 minutes, then grill over medium-high heat, brushing with the remaining oil, 5-7 minutes per side.",
+      "Finish with a generous squeeze of lime juice - grilled fish is central to Indonesia's coastal cooking."
+    ]
+  },
+  {
+    "name": "Indonesian Semur (Sweet Soy Braised Beef)",
+    "cuisine": "indonesian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the soy sauce, brown sugar, and a splash of water, and simmer, covered, 1.5-2 hours until tender.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and garlic over medium-high heat, 8-10 minutes.",
+      "Add the soy sauce, brown sugar, and beef broth.",
+      "Cover and simmer over low heat 1.5-2.5 hours until the beef is completely tender and the sauce has reduced to a dark, glossy consistency.",
+      "Serve with rice - semur's sweet, dark soy flavor reflects Indonesia's long history with Dutch and Chinese trade influences."
+    ]
+  },
+  {
+    "name": "Indonesian Tempeh Goreng",
+    "cuisine": "indonesian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "HOUSE FOODS Premium Firm Tofu",
+        "qty": 130,
+        "note": "cubed, as a tempeh stand-in"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 8,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Marinate the tofu with the garlic and soy sauce for 10 minutes.",
+      "Fry in the oil until golden and crisp on all sides, about 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "HOUSE FOODS Premium Firm Tofu",
+        "qty": 150,
+        "note": "cubed, as a tempeh stand-in"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Press the tofu briefly to remove excess moisture, then cube it (standing in for tempeh, Indonesia's beloved fermented soybean cake).",
+      "Marinate with the garlic, soy sauce, and turmeric for 10-15 minutes.",
+      "Fry in the oil over medium-high heat, 3-5 minutes per side, until deeply golden and crisp.",
+      "A simple, popular Indonesian snack and side dish."
+    ]
+  },
+  {
+    "name": "Indonesian Pisang Goreng",
+    "cuisine": "indonesian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 120,
+        "note": "sliced lengthwise"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour with a little water and the sugar into a smooth batter.",
+      "Dip the banana in the batter and fry until golden, about 2-3 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 130,
+        "note": "sliced lengthwise"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup, for the batter, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, sugar, shredded coconut if using, and enough water to form a smooth, coatable batter.",
+      "Dip the banana slices in the batter, coating evenly, and fry in the oil over medium heat, 2-4 minutes per side, until golden and crisp.",
+      "A beloved Indonesian fried banana snack."
+    ]
+  },
+  {
+    "name": "Indonesian Krupuk-Style Cassava Crackers",
+    "cuisine": "indonesian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Mix the cassava flour with the garlic and enough water to form a very thin batter.",
+      "Fry thin spoonfuls until crisp and puffed, about 1-2 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.625,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cassava flour with the garlic, a pinch of salt, and enough water to form a very thin, pourable batter.",
+      "Fry thin spoonfuls in the hot oil, 1-3 minutes per side, until crisp, puffed, and lightly golden.",
+      "Krupuk, in countless forms, is a beloved crunchy accompaniment to nearly every Indonesian meal."
+    ]
+  },
+  {
+    "name": "Indonesian Martabak Telur (Savory Stuffed Pancake)",
+    "cuisine": "indonesian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the wrapper"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Make a simple dough from the flour and water, and roll thin.",
+      "Brown the beef with the onion, then mix with the beaten egg.",
+      "Spoon the filling onto the dough, fold into a package, and fry until golden and crisp on both sides."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": "for the wrapper"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple, elastic dough from the flour, a pinch of salt, and water, and roll it out very thin.",
+      "Brown the ground beef with the onion and soy sauce, then mix with the beaten egg off the heat.",
+      "Spoon the filling onto the center of the dough, fold in the sides to form a sealed package.",
+      "Fry in the oil over medium heat, 3-4 minutes per side, until golden and crisp on both sides.",
+      "Slice into wedges and serve hot - martabak telur is a beloved Indonesian street food, especially popular at night markets."
+    ]
+  },
+  {
+    "name": "Indonesian Es Cendol",
+    "cuisine": "indonesian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 94.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 20,
+        "note": "cooked, as a cendol jelly stand-in"
+      }
+    ],
+    "steps": [
+      "Warm the coconut milk with the brown sugar until dissolved.",
+      "Combine with the cooked noodles.",
+      "Chill before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 106.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 25,
+        "note": "cooked, as a cendol jelly stand-in"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 20,
+        "note": "cooked, as a red bean topping"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the coconut milk with the brown sugar over low heat until fully dissolved, then chill.",
+      "Combine the chilled coconut mixture with the cooked noodles (standing in for the green rice-flour jelly strands) and cooked kidney beans.",
+      "Serve well chilled over crushed ice - es cendol is a beloved cold Indonesian dessert."
+    ]
+  },
+  {
+    "name": "Indonesian Pisang Rai (Coconut Banana)",
+    "cuisine": "indonesian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 120,
+        "note": "whole, peeled"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 20,
+        "note": "as sticky rice flour, ground"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.125,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Mix the ground rice with a little water into a thick batter.",
+      "Coat the banana in the batter, boil for 5-6 minutes, then roll in the shredded coconut."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 130,
+        "note": "whole, peeled"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 25,
+        "note": "as sticky rice flour, ground"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.1875,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp, mixed with the coconut"
+      }
+    ],
+    "steps_detailed": [
+      "Grind the rice into a fine flour and mix with enough water to form a thick, smooth batter.",
+      "Coat the whole peeled banana in the batter and boil for 6-8 minutes until the coating is cooked through.",
+      "Roll immediately in the shredded coconut mixed with sugar - a beloved Balinese sweet snack, coconut-coated boiled banana."
+    ]
+  },
+  {
+    "name": "Indonesian Klepon",
+    "cuisine": "indonesian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": "as glutinous rice flour, ground"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp, chopped small, for the filling"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.125,
+        "note": "cup, for rolling"
+      }
+    ],
+    "steps": [
+      "Grind the rice into a fine flour and mix with enough water to form a soft, pliable dough.",
+      "Wrap small portions around a bit of the brown sugar, sealing completely.",
+      "Boil until they float, about 5-6 minutes, then roll in the shredded coconut."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": "as glutinous rice flour, ground"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2.5,
+        "note": "tbsp, chopped small, for the filling"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.1875,
+        "note": "cup, for rolling"
+      }
+    ],
+    "steps_detailed": [
+      "Grind the rice into a fine flour (or use pre-made glutinous rice flour if available) and mix with enough water to form a soft, pliable dough.",
+      "Take small portions of dough, flatten, wrap around a small piece of chopped brown sugar, and seal completely, rolling into smooth balls.",
+      "Boil in water until they float to the surface, 5-7 minutes, indicating they're cooked through.",
+      "Drain and immediately roll in the shredded coconut - klepon is a beloved Indonesian sweet, famous for its molten palm sugar center that bursts when bitten."
+    ]
+  },
+  {
+    "name": "Indonesian Sambal Terasi",
+    "cuisine": "indonesian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 2,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Blend the jalapeno and tomatoes into a coarse paste.",
+      "Fry briefly in a little oil, then stir in the fish sauce and lime juice.",
+      "Serve as a fiery condiment."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 2.5,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the jalapeno, tomatoes, and garlic into a coarse paste.",
+      "Fry the paste in the oil over medium heat for 4-5 minutes until fragrant and slightly darkened.",
+      "Stir in the fish sauce and lime juice.",
+      "This nods to sambal terasi, which traditionally includes fermented shrimp paste - one of the most common sambals across Indonesia."
+    ]
+  },
+  {
+    "name": "Indonesian Peanut Sauce (Bumbu Kacang)",
+    "cuisine": "indonesian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 45,
+        "note": "crushed"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 47.3,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the crushed peanuts with the coconut milk and sugar for 5-6 minutes until thickened.",
+      "Stir in the lime juice off the heat.",
+      "Serve with satay, gado-gado, or grilled vegetables."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 50,
+        "note": "crushed"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 59.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.16666666666666666,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the crushed peanuts with the coconut milk, sugar, fish sauce, and jalapeno if using, stirring frequently, for 6-8 minutes until thickened.",
+      "Stir in the lime juice off the heat.",
+      "The essential sauce behind satay and gado-gado, and endlessly versatile across Indonesian cooking."
+    ]
+  }
+]

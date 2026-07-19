@@ -1,0 +1,1408 @@
+[
+  {
+    "name": "Filipino Tapsilog",
+    "cuisine": "filipino",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Marinate the beef with the garlic for 15-20 minutes.",
+      "Pan-fry until well browned and cooked through, 3-4 minutes per side.",
+      "Serve with the rice and a fried egg."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 170,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the thinly sliced beef with the garlic, soy sauce, vinegar, and lime juice (standing in for calamansi) for at least 20-30 minutes.",
+      "Pan-fry over medium-high heat, 3-5 minutes per side, until well browned and cooked through.",
+      "Serve with garlic fried rice and a fried egg - tapsilog (a portmanteau of tapa, sinangag, and itlog) is a beloved Filipino breakfast combo."
+    ]
+  },
+  {
+    "name": "Filipino Garlic Fried Rice (Sinangag)",
+    "cuisine": "filipino",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked, day-old if possible"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Fry the garlic in the oil until golden and fragrant.",
+      "Add the rice and stir-fry 4-5 minutes until heated through and slightly crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": "cooked, day-old if possible"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the garlic in the oil over medium heat, 2-3 minutes, until golden and fragrant - watch closely, as it burns quickly.",
+      "Add the rice and black pepper, and stir-fry 5-6 minutes, breaking up clumps, until heated through and slightly crisp.",
+      "The garlic component of nearly every Filipino silog breakfast combo."
+    ]
+  },
+  {
+    "name": "Filipino Longganisa with Eggs",
+    "cuisine": "filipino",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 84,
+        "note": "1.5 servings, as a longganisa stand-in"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Fry the sausage with the garlic until browned.",
+      "Fry the egg separately.",
+      "Serve together with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 100,
+        "note": "1.75 servings, as a longganisa stand-in"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.16666666666666666,
+        "note": "for a sweet longganisa style"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the sausage with the garlic and sugar over medium heat, 5-6 minutes, until browned and slightly caramelized, mimicking the sweet-garlicky character of real longganisa.",
+      "Fry the egg separately to your liking.",
+      "Serve together with garlic rice - another beloved Filipino silog breakfast combo."
+    ]
+  },
+  {
+    "name": "Filipino Adobo",
+    "cuisine": "filipino",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Combine the chicken, soy sauce, vinegar, and garlic in a pot, and bring to a simmer.",
+      "Cover and cook 25-30 minutes until the chicken is tender.",
+      "Uncover and simmer 5-10 more minutes to reduce the sauce, then serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the chicken, soy sauce, vinegar, garlic, bay leaf, and black pepper in a pot - importantly, don't stir once the vinegar goes in until it's had a chance to simmer uncovered briefly, which mellows its sharpness.",
+      "Bring to a simmer, cover, and cook 25-30 minutes until the chicken is tender.",
+      "Uncover and simmer 8-12 more minutes to reduce the sauce until glossy and slightly thickened.",
+      "Remove the bay leaf and serve with rice - adobo is widely considered the Philippines' national dish, with countless regional and family variations."
+    ]
+  },
+  {
+    "name": "Filipino Sinigang",
+    "cuisine": "filipino",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Tamarinds, raw",
+        "qty": 20,
+        "note": "pulp, soaked and strained"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Simmer the pork with the onion in water for 30-35 minutes until nearly tender.",
+      "Add the tomatoes and strained tamarind pulp, and simmer 10-15 more minutes.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Tamarinds, raw",
+        "qty": 25,
+        "note": "pulp, soaked and strained"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": "trimmed"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the pork with the onion in 3 cups water for 30-35 minutes until nearly tender.",
+      "Add the tomatoes, strained tamarind pulp, and fish sauce, and simmer 10 minutes.",
+      "Add the green beans and simmer 8-10 more minutes until tender.",
+      "Serve with rice - sinigang's distinctive sour broth, most often built on tamarind, makes it one of the most beloved soups in Filipino cooking."
+    ]
+  },
+  {
+    "name": "Filipino Pancit",
+    "cuisine": "filipino",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 130,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken, then add the cabbage and cook until just tender.",
+      "Add the cooked noodles and soy sauce, and toss everything together.",
+      "Serve hot."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Rice noodles (dry)",
+        "qty": 65,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 70,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 30,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the garlic over medium-high heat, 6-8 minutes.",
+      "Add the cabbage and carrot, and cook 4-5 minutes until just tender.",
+      "Add the cooked noodles and soy sauce, and toss everything together over high heat 3-4 minutes.",
+      "Finish with a squeeze of lime and serve hot - pancit, in its countless regional forms, is a fixture of Filipino celebrations, traditionally eaten for long life."
+    ]
+  },
+  {
+    "name": "Filipino Caldereta",
+    "cuisine": "filipino",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 45,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the tomatoes, carrot, and a splash of water, and simmer, covered, 1.5-2 hours until the beef is tender.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and garlic over medium-high heat, 8-10 minutes.",
+      "Add the diced tomatoes, tomato paste, carrot, and beef broth.",
+      "Cover and simmer over low heat 1.5-2.5 hours until the beef is completely tender and the sauce has thickened.",
+      "Serve with rice - caldereta reflects the Philippines' Spanish colonial influence, a rich tomato-based beef stew for special occasions."
+    ]
+  },
+  {
+    "name": "Filipino Sisig",
+    "cuisine": "filipino",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 200,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Brown the pork well, chopping it finer as it cooks.",
+      "Toss with the onion, lime juice, and jalapeno.",
+      "Serve sizzling hot with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 220,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "fried, to top"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the finely chopped pork over medium-high heat, 10-12 minutes, chopping further with the spatula as it cooks until finely textured.",
+      "Toss with the onion, jalapeno, lime juice, and soy sauce.",
+      "Top with a fried egg and serve sizzling hot with rice - sisig, from Pampanga, is a beloved Filipino dish, traditionally served on a hot plate."
+    ]
+  },
+  {
+    "name": "Filipino Kare-Kare",
+    "cuisine": "filipino",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 30,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 70,
+        "note": "trimmed"
+      },
+      {
+        "ingredient": "Achiote paste",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the beef until tender, about 1.5 hours.",
+      "Blend the ground peanuts with a little broth into a paste and stir in, along with the achiote paste.",
+      "Add the green beans and simmer 10-12 minutes until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 35,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": "trimmed"
+      },
+      {
+        "ingredient": "Achiote paste",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the beef with the onion in water to cover for 1.5-2 hours until very tender, reserving 1/2 cup of the cooking liquid.",
+      "Blend the ground peanuts with the beef broth into a smooth paste, then stir into the pot along with the achiote paste (for its characteristic orange color).",
+      "Add the green beans and simmer 10-15 minutes until tender and the sauce has thickened.",
+      "Serve with rice and a side of fermented shrimp paste if you have it - kare-kare is a beloved Filipino oxtail-and-peanut stew, traditionally reserved for special occasions."
+    ]
+  },
+  {
+    "name": "Filipino Grilled Milkfish (Bangus)",
+    "cuisine": "filipino",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, milkfish, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 8,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Marinate the fish with the garlic, lime juice, and soy sauce for 15-20 minutes.",
+      "Grill over medium-high heat, 5-6 minutes per side, until cooked through.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, milkfish, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the fish with the garlic, lime juice, soy sauce, and black pepper for 20-30 minutes.",
+      "Brush with the oil and grill over medium-high heat, 5-7 minutes per side, until cooked through and lightly charred.",
+      "Serve with rice - bangus, the Philippines' national fish, is prepared in countless ways, but simply grilled is among the most beloved."
+    ]
+  },
+  {
+    "name": "Filipino Lechon Kawali (Crispy Pork Belly)",
+    "cuisine": "filipino",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 220,
+        "note": "in one piece"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "smashed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Simmer the pork with the bay leaf and garlic in water to cover for 45-50 minutes until tender.",
+      "Drain well, pat dry, and fry in the oil until deeply golden and crackling-crisp on the outside, 4-5 minutes per side.",
+      "Slice and serve with a vinegar dipping sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 240,
+        "note": "in one piece"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "smashed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the pork with the bay leaf, garlic, and black pepper in water to cover for 45-55 minutes until fully tender.",
+      "Drain thoroughly and pat completely dry - the drier the surface, the crispier the result.",
+      "Fry in the oil over medium-high heat, 5-7 minutes per side, until deeply golden and shatteringly crisp on the outside.",
+      "Slice and serve with a vinegar dipping sauce - the double-cooking method (boil then fry) is what gives lechon kawali its signature contrast between tender meat and crackling skin."
+    ]
+  },
+  {
+    "name": "Filipino Lumpia",
+    "cuisine": "filipino",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 30,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "as a wrapper"
+      }
+    ],
+    "steps": [
+      "Brown the chicken and mix with the cabbage and carrot.",
+      "Roll tightly in the wrapper, sealing with a little water.",
+      "Fry until golden and crisp, about 5-6 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground chicken",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 70,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 35,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the ground chicken with the garlic and soy sauce, then mix with the shredded cabbage and carrot, cooking briefly until just softened.",
+      "Let cool slightly, then roll tightly in the wrapper, sealing the edge with a little water.",
+      "Fry in the oil over medium heat, turning, 5-7 minutes until deeply golden and crisp on all sides - lumpia are a beloved Filipino party staple."
+    ]
+  },
+  {
+    "name": "Filipino Turon",
+    "cuisine": "filipino",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 100,
+        "note": "sliced lengthwise"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "as a wrapper"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Roll the banana in the wrapper with the brown sugar, sealing the edge.",
+      "Fry until golden and caramelized, about 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 110,
+        "note": "sliced lengthwise"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Jackfruit, raw",
+        "qty": 20,
+        "note": "sliced, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Roll the banana (with a few slices of jackfruit if using, a traditional addition) in the wrapper along with the brown sugar, sealing the edge tightly with a little water.",
+      "Fry in the oil over medium heat, 3-5 minutes per side, until the wrapper is deeply golden and the sugar has caramelized into a sticky glaze.",
+      "A beloved Filipino sweet snack, sold at street stalls everywhere."
+    ]
+  },
+  {
+    "name": "Filipino Fish Balls with Sweet Sauce",
+    "cuisine": "filipino",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 130,
+        "note": "finely ground"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the ground fish with the flour and shape into small balls.",
+      "Fry until golden, about 4-5 minutes.",
+      "Serve with a simple sweet sauce made from the sugar and a splash of water and soy sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 150,
+        "note": "finely ground"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 5,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the finely ground fish with the flour and a pinch of salt, and shape into small balls.",
+      "Fry in the oil over medium heat, turning occasionally, 5-6 minutes until golden and cooked through.",
+      "Simmer the sugar, soy sauce, and jalapeno with a splash of water into a thin, sweet-savory dipping sauce.",
+      "A beloved Filipino street food snack, sold on skewers."
+    ]
+  },
+  {
+    "name": "Filipino Banana Cue",
+    "cuisine": "filipino",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 120,
+        "note": "whole, peeled"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Fry the whole banana in the oil, sprinkling with the brown sugar as it fries.",
+      "Cook 3-4 minutes per side, until the sugar caramelizes into a sticky coating.",
+      "Serve warm, traditionally on a skewer."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 130,
+        "note": "whole, peeled"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Heat the oil in a skillet over medium heat.",
+      "Fry the whole peeled banana, sprinkling generously with the brown sugar as it cooks, 4-6 minutes per side, until the sugar caramelizes into a deep, sticky, glossy coating.",
+      "Serve warm, traditionally threaded onto a bamboo skewer - a classic Filipino street food, especially popular after school."
+    ]
+  },
+  {
+    "name": "Filipino Halo-Halo",
+    "cuisine": "filipino",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 59.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 30,
+        "note": "cooked, sweetened"
+      },
+      {
+        "ingredient": "Jackfruit, raw",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Sweeten the beans with a little of the sugar.",
+      "Layer the beans, jackfruit, and coconut milk in a glass.",
+      "Serve chilled, ideally over crushed ice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 71.0,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 35,
+        "note": "cooked, sweetened"
+      },
+      {
+        "ingredient": "Jackfruit, raw",
+        "qty": 45,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Sweeten the beans with a little of the sugar.",
+      "Layer the beans, jackfruit, sliced banana, and shredded coconut in a tall glass.",
+      "Pour the coconut milk over the top and serve chilled, ideally over crushed ice - halo-halo, meaning 'mix-mix,' is a beloved Filipino cold dessert combining many sweet ingredients."
+    ]
+  },
+  {
+    "name": "Filipino Leche Flan",
+    "cuisine": "filipino",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp, for the caramel"
+      }
+    ],
+    "steps": [
+      "Melt the sugar in a small dish until it turns amber, then swirl to coat the bottom.",
+      "Whisk the eggs, condensed milk, and milk together and pour over the caramel.",
+      "Steam or bake in a water bath at 325F for 35-40 minutes until just set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweetened condensed milk",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp, for the caramel"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Melt the sugar in a small dish over low heat until it turns deep amber, then carefully swirl to coat the bottom and sides.",
+      "Whisk the eggs, condensed milk, milk, and vanilla together until smooth, being careful not to create too many bubbles.",
+      "Pour over the caramel.",
+      "Steam over simmering water, or bake in a water bath at 325F (165C), for 35-45 minutes until just set with a gentle wobble.",
+      "Chill before unmolding onto a plate, letting the caramel run down the sides - leche flan is a treasured Filipino dessert, especially for celebrations."
+    ]
+  },
+  {
+    "name": "Filipino Bibingka",
+    "cuisine": "filipino",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": "as rice flour, ground"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 59.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Grind the rice into a fine flour and mix with the coconut milk, egg, and sugar into a smooth batter.",
+      "Pour into a small buttered dish and bake at 375F for 20-25 minutes until set and golden on top.",
+      "Cool slightly before slicing."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": "as rice flour, ground"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 71.0,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, melted, to top"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.0625,
+        "note": "cup, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Grind the rice into a fine flour and whisk with the coconut milk, egg, and sugar into a smooth, pourable batter.",
+      "Pour into a small buttered baking dish.",
+      "Bake at 375F (190C) for 22-28 minutes until set and golden on top.",
+      "Brush with the melted butter and scatter with shredded coconut while still warm - bibingka, traditionally baked in banana leaf over hot coals, is a beloved Filipino rice cake, especially popular during the Christmas season."
+    ]
+  },
+  {
+    "name": "Filipino Vinegar Dipping Sauce (Sawsawan)",
+    "cuisine": "filipino",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "no-cook",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Combine the vinegar, garlic, and jalapeno.",
+      "Season with salt and serve alongside fried or grilled foods."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce made from soy (tamari)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the vinegar, garlic, jalapeno, soy sauce, and black pepper.",
+      "Let sit 10 minutes so the flavors meld.",
+      "Sawsawan, endlessly varied, is served alongside nearly every fried or grilled Filipino dish for dipping."
+    ]
+  },
+  {
+    "name": "Filipino Banana Ketchup Style Glaze",
+    "cuisine": "filipino",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 60,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Blend the mashed banana with the tomato paste, vinegar, and sugar until smooth.",
+      "Simmer 5 minutes to thicken slightly.",
+      "Use as a glaze or dipping condiment."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 70,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the mashed banana with the tomato paste, vinegar, sugar, and black pepper until smooth.",
+      "Simmer over low heat 6-8 minutes until slightly thickened.",
+      "Banana ketchup is a beloved, uniquely Filipino condiment, invented during a WWII tomato shortage and never abandoned since."
+    ]
+  }
+]

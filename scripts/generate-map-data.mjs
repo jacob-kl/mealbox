@@ -51,12 +51,18 @@ const COUNTRY_GROUPS = {
   // Southeast Asian cluster - Taiwan intentionally excluded, since it isn't
   // part of Southeast Asia and lumping it in would repeat the same
   // inaccurate-labeling problem this rename was meant to fix.
-  Malaysia: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
-  Indonesia: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
-  Philippines: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
-  Myanmar: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
-  Cambodia: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
-  Laos: { group: 'southeast-asian', cuisines: ['southeast-asian'] },
+  Malaysia: { group: 'malaysian', cuisines: ['malaysian'] },
+  Indonesia: { group: 'indonesian', cuisines: ['indonesian'] },
+  Philippines: { group: 'filipino', cuisines: ['filipino'] },
+  Myanmar: { group: 'burmese', cuisines: ['burmese'] },
+  Cambodia: { group: 'cambodian', cuisines: ['cambodian'] },
+  Laos: { group: 'laotian', cuisines: ['laotian'] },
+  Brunei: { group: 'bruneian', cuisines: ['bruneian'] },
+  'Papua New Guinea': { group: 'papua-new-guinean', cuisines: ['papua-new-guinean'] },
+  // New Guinea itself isn't a separate country in this dataset - it's the
+  // island, split between Indonesia's western half (Papua/West Papua
+  // provinces, covered above) and Papua New Guinea's eastern half
+  // (also covered above). There's no third shape to assign a group to.
   // North Africa cluster
   Morocco: { group: 'north-african', cuisines: ['north-african'] },
   Egypt: { group: 'north-african', cuisines: ['north-african'] },
@@ -155,6 +161,12 @@ const COUNTRY_GROUPS = {
   Ireland: { group: 'irish', cuisines: ['irish'] },
   Sweden: { group: 'swedish', cuisines: ['swedish'] },
   Switzerland: { group: 'swiss', cuisines: ['swiss'] },
+  // Greenland and Antarctica are easter eggs, not real cuisine content -
+  // clicking them is special-cased by name in CuisineWorldMap.js to show
+  // a joke image instead of filtering recipes. They still need a truthy
+  // `groups` entry here so the map treats them as clickable/colored.
+  Greenland: { group: 'greenland', cuisines: ['greenland'] },
+  Antarctica: { group: 'antarctica', cuisines: ['antarctica'] },
 };
 
 // United States: every state belongs to one of three groups now - New
