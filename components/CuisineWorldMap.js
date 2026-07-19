@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { MAP_SHAPES, MAP_WIDTH, MAP_HEIGHT } from '@/lib/mapShapes';
+import { MAP_SHAPES, MAP_WIDTH, MAP_HEIGHT, REGION_META } from '@/lib/mapShapes';
 import { cuisineLabel } from '@/components/ui';
 
 // Every shape belongs to one or more "hover groups" (see generate-map-data
@@ -89,6 +89,7 @@ const GROUP_COLORS = {
   venezuelan: '#B83A3A',
   guyanese: '#E8C547',
   surinamese: '#9B5FA8',
+  'french-guianese': '#D97A3F',
   canadian: '#D14545',
   australian: '#C77D3F',
   'new-zealander': '#4A9B85',
@@ -114,17 +115,44 @@ const GROUP_COLORS = {
   saudi: '#2D8659',
   syrian: '#8A3838',
   palestinian: '#7A4A8A',
+  // Shared cluster colors, used only on the world map for countries that
+  // belong to a regional drill-down (see REGION_META) - clicking any of
+  // these opens the zoomed regional map instead of selecting a cuisine
+  // directly, so they read as one region rather than seven/eight separate
+  // countries with their own individual colors.
+  'middle-east': '#9B6B4A',
+  'southeast-asia': '#4A8B7A',
 };
 
 /**
  * @param {(cuisines: string[], label: string) => void} onSelect - called
  *   with the cuisine slug(s) for the clicked region and a human label
+ * @param {(regionKey: string) => void} [onRegionSelect] - called instead of
+ *   onSelect when a shape belonging to a regional drill-down (Middle East,
+ *   Southeast Asia) is clicked on the WORLD map. Not needed/used when this
+ *   component is rendering a regional view itself (those shapes have no
+ *   `region` tag, so they always use onSelect normally).
+ * @param {Array} [shapes] - defaults to the world map; pass a regional
+ *   shape array (from REGION_SHAPES) to render a zoomed-in regional view
+ *   instead, reusing all the same hover/click/fill logic.
+ * @param {number} [width] @param {number} [height] - viewBox dimensions
+ *   matching whichever `shapes` array is passed in.
  */
-export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
+export default function CuisineWorldMap({
+  onSelect,
+  onEasterEgg,
+  onRegionSelect,
+  shapes: shapesProp,
+  width: widthProp,
+  height: heightProp,
+}) {
+  const shapes = shapesProp ?? MAP_SHAPES;
+  const width = widthProp ?? MAP_WIDTH;
+  const height = heightProp ?? MAP_HEIGHT;
   const [hoveredGroup, setHoveredGroup] = useState(null);
   const [hoveredLabel, setHoveredLabel] = useState(null);
 
-  const groupSizes = useMemo(() => computeGroupSizes(MAP_SHAPES), []);
+  const groupSizes = useMemo(() => computeGroupSizes(shapes), [shapes]);
 
   function labelFor(cuisines) {
     return cuisines.map(cuisineLabel).join(' & ');
@@ -142,7 +170,7 @@ export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
         </p>
       </div>
       <svg
-        viewBox={`0 0 ${MAP_WIDTH} ${MAP_HEIGHT}`}
+        viewBox={`0 0 ${width} ${height}`}
         className="w-full h-auto rounded-card"
         onMouseLeave={() => {
           setHoveredGroup(null);
@@ -155,17 +183,18 @@ export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
         <rect
           x={0}
           y={0}
-          width={MAP_WIDTH}
-          height={MAP_HEIGHT}
+          width={width}
+          height={height}
           fill="#BEDCEA"
           onMouseEnter={() => {
             setHoveredGroup(null);
             setHoveredLabel(null);
           }}
         />
-        {MAP_SHAPES.map((shape) => {
+        {shapes.map((shape) => {
           const clickable = !!shape.groups;
-          const activeGroup = clickable ? mostSpecificGroup(shape, groupSizes) : null;
+          const isRegionMember = clickable && !!shape.region;
+          const activeGroup = clickable ? (isRegionMember ? shape.region : mostSpecificGroup(shape, groupSizes)) : null;
           const isActive = clickable && hoveredGroup === activeGroup;
           const isDimmed = hoveredGroup && !isActive;
           const transform = shape.translateX != null ? `translate(${shape.translateX},${shape.translateY})` : undefined;
@@ -195,12 +224,16 @@ export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
                   return;
                 }
                 setHoveredGroup(activeGroup);
-                setHoveredLabel(labelFor(shape.cuisines));
+                setHoveredLabel(isRegionMember ? REGION_META[shape.region].label : labelFor(shape.cuisines));
               }}
               onClick={() => {
                 if (!clickable) return;
                 if (shape.name === 'Greenland' || shape.name === 'Antarctica') {
                   onEasterEgg(shape.name);
+                  return;
+                }
+                if (isRegionMember) {
+                  onRegionSelect(shape.region);
                   return;
                 }
                 onSelect(shape.cuisines, labelFor(shape.cuisines));

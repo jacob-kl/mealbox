@@ -5,6 +5,7 @@ import { Card, Badge, cuisineLabel } from '@/components/ui';
 import { flagFor } from '@/lib/cuisineFlags';
 import RecipeDetail from '@/components/RecipeDetail';
 import CuisineWorldMap from '@/components/CuisineWorldMap';
+import { REGION_SHAPES, REGION_META } from '@/lib/mapShapes';
 
 const MEAL_TYPE_ORDER = ['breakfast', 'lunch', 'dinner', 'snack', 'sauce', 'dessert'];
 const MEAL_TYPE_LABELS = {
@@ -38,9 +39,12 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
   const [openId, setOpenId] = useState(null);
   // Name of an easter-egg region (e.g. 'Greenland'), or null.
   const [easterEgg, setEasterEgg] = useState(null);
+  // Key into REGION_SHAPES/REGION_META (e.g. 'middle-east'), or null if
+  // showing the normal world map / recipe list.
+  const [activeRegionView, setActiveRegionView] = useState(null);
 
   const cuisinesPresent = useMemo(() => [...new Set(recipes.map((r) => r.cuisine))].sort(), [recipes]);
-  const showingMap = activeCuisines === null && !query && !easterEgg;
+  const showingMap = activeCuisines === null && !query && !easterEgg && !activeRegionView;
 
   const filtered = useMemo(() => {
     return recipes.filter((r) => {
@@ -75,11 +79,25 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
     setEasterEgg(name);
   }
 
+  function handleRegionSelect(regionKey) {
+    setActiveRegionView(regionKey);
+  }
+
   function backToMap() {
+    // If the current recipe list was reached via a regional drill-down,
+    // go back to that region's map first rather than jumping straight to
+    // the world map - one level up at a time, like a normal back button.
+    if (activeRegionView && activeCuisines !== null) {
+      setActiveCuisines(null);
+      setActiveLabel(null);
+      setQuery('');
+      return;
+    }
     setActiveCuisines(null);
     setActiveLabel(null);
     setQuery('');
     setEasterEgg(null);
+    setActiveRegionView(null);
   }
 
   return (
@@ -87,7 +105,7 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
       <div className="flex flex-wrap gap-2 mb-4 items-center">
         {!showingMap && (
           <button type="button" onClick={backToMap} className="text-sm text-pine hover:underline shrink-0">
-            ← Map
+            ← {activeRegionView && activeCuisines !== null ? REGION_META[activeRegionView].label : 'Map'}
           </button>
         )}
         <input
@@ -106,6 +124,7 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
             setActiveCuisines(e.target.value === 'all' ? 'all' : [e.target.value]);
             setActiveLabel(e.target.value === 'all' ? null : cuisineLabel(e.target.value));
             setEasterEgg(null);
+            setActiveRegionView(null);
           }}
           className="border border-line rounded-card px-3 py-2 bg-card text-sm"
         >
@@ -127,8 +146,16 @@ export default function RecipeBrowser({ recipes, defaultToFull = true }) {
           />
           <p className="font-display text-xl italic max-w-md">{EASTER_EGGS[easterEgg].caption}</p>
         </div>
+      ) : activeRegionView && activeCuisines === null ? (
+        <CuisineWorldMap
+          shapes={REGION_SHAPES[activeRegionView]}
+          width={REGION_META[activeRegionView].width}
+          height={REGION_META[activeRegionView].height}
+          onSelect={handleMapSelect}
+          onEasterEgg={handleEasterEgg}
+        />
       ) : showingMap ? (
-        <CuisineWorldMap onSelect={handleMapSelect} onEasterEgg={handleEasterEgg} />
+        <CuisineWorldMap onSelect={handleMapSelect} onEasterEgg={handleEasterEgg} onRegionSelect={handleRegionSelect} />
       ) : (
         <>
           {activeLabel && (
