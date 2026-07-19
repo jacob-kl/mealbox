@@ -212,7 +212,7 @@ const REGIONS = {
   },
   'southeast-asia': {
     label: 'Southeast Asia',
-    countries: ['Myanmar', 'Laos', 'Cambodia', 'Malaysia', 'Brunei', 'Indonesia', 'Philippines', 'Papua New Guinea'],
+    countries: ['Myanmar', 'Laos', 'Cambodia', 'Thailand', 'Malaysia', 'Brunei', 'Indonesia', 'Philippines', 'Papua New Guinea'],
     width: 1000,
     height: 560,
   },
