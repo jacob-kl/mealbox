@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "Swedish Cinnamon Buns",
+    "cuisine": "swedish",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour, half the butter, milk, and cardamom into a smooth dough. Rest 20 minutes.",
+      "Roll out, spread with the remaining butter, roll up, and slice into buns.",
+      "Bake at 375F for 15-18 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": "for egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, half the butter, milk, and half the cardamom into a smooth, slightly soft dough. Cover and rest 25-30 minutes.",
+      "Roll the dough into a rectangle and spread with the remaining softened butter.",
+      "Mix the brown sugar, cinnamon, and remaining cardamom, and sprinkle evenly over the buttered dough.",
+      "Roll up tightly from the long side and slice into rounds, placing them cut-side up on a baking sheet.",
+      "Brush with the egg wash and bake at 375F (190C) for 15-20 minutes until golden - Sweden's beloved kanelbulle, with cardamom as the defining flavor note."
+    ]
+  },
+  {
+    "name": "Swedish Filmjolk-Style Yogurt Bowl",
+    "cuisine": "swedish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chobani Plain Low-Fat Greek Yogurt, Plain",
+        "qty": 200,
+        "note": "as a filmjolk stand-in"
+      },
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 30,
+        "note": "as a lingonberry stand-in"
+      }
+    ],
+    "steps": [
+      "Spoon the yogurt into a bowl.",
+      "Top with the oats and cranberry sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chobani Plain Low-Fat Greek Yogurt, Plain",
+        "qty": 220,
+        "note": "as a filmjolk stand-in"
+      },
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 35,
+        "note": "as a lingonberry stand-in"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the oats in a dry pan for 2-3 minutes until fragrant.",
+      "Spoon the yogurt (filmjolk, a tangy Swedish cultured milk, is the traditional base) into a bowl.",
+      "Top with the toasted oats, cranberry sauce (standing in for lingonberry), and a drizzle of honey."
+    ]
+  },
+  {
+    "name": "Swedish Open-Faced Sandwich",
+    "cuisine": "swedish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or rye crispbread"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 30,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, sliced"
+      }
+    ],
+    "steps": [
+      "Top the bread with the cheese and sliced egg.",
+      "Serve open-faced."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 35,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Layer the rye crispbread with the sliced cheese and hard-boiled egg.",
+      "Top with the diced tomatoes and a scattering of fresh dill.",
+      "Serve open-faced - the smorgasbord (smorgasbord literally means 'bread and butter table') tradition of open sandwiches is a Swedish breakfast and lunch staple."
+    ]
+  },
+  {
+    "name": "Swedish Meatballs",
+    "cuisine": "swedish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.15,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Mix the beef with the milk and a little flour, and shape into small meatballs.",
+      "Brown the meatballs, then remove.",
+      "Whisk more flour into the broth and simmer into a gravy, then return the meatballs to warm through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 20,
+        "note": "as a lingonberry stand-in, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with the milk, half the flour, egg, and onion, and shape into small, evenly-sized meatballs.",
+      "Brown the meatballs in the butter over medium heat, 6-8 minutes, turning to color all sides, then remove and set aside.",
+      "Whisk the remaining flour into the pan drippings, cook 1 minute, then gradually whisk in the beef broth, simmering 4-5 minutes until thickened into a gravy.",
+      "Return the meatballs to the gravy and simmer 5 minutes to finish cooking through.",
+      "Serve with the cranberry sauce alongside, standing in for lingonberry jam - Sweden's most famous culinary export."
+    ]
+  },
+  {
+    "name": "Swedish Pea Soup",
+    "cuisine": "swedish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peas, green, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Saute the bacon and onion together until fragrant.",
+      "Add the peas and broth, and simmer 15-18 minutes until the peas are tender.",
+      "Blend partially for a rustic, thick texture."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peas, green, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Allspice",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the diced bacon and onion together for 5-6 minutes until fragrant and lightly golden.",
+      "Add the peas, garlic, broth, and allspice, and simmer 18-20 minutes until the peas are very tender.",
+      "Blend partially with an immersion blender, leaving some texture - traditionally eaten on Thursdays in Sweden, often followed by pancakes for dessert."
+    ]
+  },
+  {
+    "name": "Swedish Toast Skagen",
+    "cuisine": "swedish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "shellfish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 5,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "toasted, or bread"
+      }
+    ],
+    "steps": [
+      "Mix the chopped shrimp with the sour cream and dill.",
+      "Toast the bread and top generously with the shrimp mixture.",
+      "Serve immediately."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 170,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 6,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the chopped shrimp with the sour cream, dill, lime juice, and black pepper until well combined.",
+      "Toast the bread until golden and crisp.",
+      "Top generously with the shrimp mixture and serve immediately - a beloved Swedish open-faced sandwich, especially popular as a light lunch or starter."
+    ]
+  },
+  {
+    "name": "Swedish Sillsallad",
+    "cuisine": "swedish",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "fish",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 100,
+        "note": "well-salted, as a pickled herring stand-in"
+      },
+      {
+        "ingredient": "Beets, cooked, boiled, drained",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "boiled, diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Salt the fish generously and poach until just cooked, then dice.",
+      "Combine the diced fish, beets, and potato with the sour cream.",
+      "Chill before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 110,
+        "note": "well-salted, as a pickled herring stand-in"
+      },
+      {
+        "ingredient": "Beets, cooked, boiled, drained",
+        "qty": 110,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "boiled, diced"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 4,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the fish generously and let sit 15 minutes to firm up, mimicking the tang of true pickled herring, then poach gently until just cooked and dice.",
+      "Combine the diced fish, beets, potato, and onion in a bowl.",
+      "Fold in the sour cream and vinegar, and season with salt.",
+      "Chill at least 30 minutes, then scatter with fresh dill before serving - a classic Swedish Christmas table salad, valued for its striking pink color from the beets."
+    ]
+  },
+  {
+    "name": "Swedish Salmon Gravlax-Style",
+    "cuisine": "swedish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, salmon, Atlantic, wild, raw",
+        "qty": 180,
+        "note": "well-salted and sugared"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 10,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Coat the salmon generously with salt, sugar, and the chopped dill.",
+      "Wrap tightly and cure in the fridge at least 4-6 hours, or overnight for best flavor.",
+      "Slice thin and serve, traditionally with a mustard-dill sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, salmon, Atlantic, wild, raw",
+        "qty": 200,
+        "note": "well-salted and sugared"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 12,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine a generous amount of salt with the sugar, black pepper, and chopped dill.",
+      "Coat the salmon thoroughly with the mixture, pressing it into the flesh.",
+      "Wrap tightly in plastic wrap and place in the fridge with a light weight on top, curing at least 6-8 hours, or up to 2 days for a firmer texture.",
+      "Rinse off the cure, pat dry, and slice very thin on the diagonal - gravlax is one of Sweden's most iconic dishes, traditionally served with a sweet mustard-dill sauce."
+    ]
+  },
+  {
+    "name": "Swedish Pytt i Panna",
+    "cuisine": "swedish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 180,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": "or diced leftover meat"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried, to top"
+      }
+    ],
+    "steps": [
+      "Fry the potato until golden and crisp.",
+      "Brown the beef and onion separately, then combine everything in the pan.",
+      "Top with a fried egg before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": "or diced leftover meat"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 55,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried, to top"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the diced potato in half the oil over medium heat, 12-15 minutes, until golden and crisp on the outside, tender inside.",
+      "In a separate pan, brown the beef and onion with the black pepper until well cooked, 8-10 minutes.",
+      "Combine the potato, beef, and onion together in one pan and toss to combine, frying together 2-3 more minutes.",
+      "Top each portion with a fried egg - a beloved Swedish way to use up leftovers, named literally 'small pieces in a pan.'"
+    ]
+  },
+  {
+    "name": "Swedish Fish Casserole (Janssons Frestelse)",
+    "cuisine": "swedish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 180,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 100,
+        "note": "well-salted, as an anchovy-adjacent stand-in"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Layer the potato, fish, and onion in a small baking dish.",
+      "Pour the milk over the top.",
+      "Bake at 375F for 40-45 minutes until the potatoes are tender and the top is golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 110,
+        "note": "well-salted, as an anchovy-adjacent stand-in"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the fish generously to mimic the salty, umami-rich pickled sprats traditionally used, and slice thin.",
+      "Layer the sliced potato, fish, and onion in a small buttered baking dish, seasoning with black pepper between layers.",
+      "Pour the milk over the top and dot with the remaining butter.",
+      "Bake at 375F (190C) for 40-50 minutes until the potatoes are tender and the top is golden and bubbling - a beloved, richly savory Swedish casserole, despite the debated origin of its name."
+    ]
+  },
+  {
+    "name": "Swedish Kalops",
+    "cuisine": "swedish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the carrot and broth, and simmer, covered, 1.5-2 hours until the beef is very tender.",
+      "Serve with boiled potatoes and cranberry sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 55,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 55,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Allspice",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Dust the beef lightly in the flour and brown it with the onion over medium-high heat, 8-10 minutes.",
+      "Add the carrot, beef broth, bay leaf, and allspice.",
+      "Cover and simmer over low heat 1.5-2 hours until the beef is completely tender and the sauce has thickened slightly.",
+      "Remove the bay leaf and serve with boiled potatoes and cranberry sauce (standing in for lingonberry) - a comforting, everyday Swedish beef stew, distinctively spiced with allspice."
+    ]
+  },
+  {
+    "name": "Swedish Knackebrod with Cheese",
+    "cuisine": "swedish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or rye crispbread"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 30,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 15,
+        "note": "as a lingonberry stand-in"
+      }
+    ],
+    "steps": [
+      "Top the crispbread with the sliced cheese and a spoonful of cranberry sauce.",
+      "Serve as a simple snack."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 35,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 20,
+        "note": "as a lingonberry stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Spread the crispbread lightly with butter.",
+      "Top with the sliced cheese and a spoonful of cranberry sauce (standing in for lingonberry preserves) - a classic, simple Swedish snack pairing."
+    ]
+  },
+  {
+    "name": "Swedish Shrimp Sandwich (Rakmacka)",
+    "cuisine": "swedish",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [
+      "shellfish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or bread"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "hard-boiled, sliced"
+      }
+    ],
+    "steps": [
+      "Mix the shrimp with the sour cream.",
+      "Pile onto the bread and top with the sliced egg.",
+      "Serve open-faced."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.75,
+        "note": "hard-boiled, sliced"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 4,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 20,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the shrimp with the sour cream and dill until well combined.",
+      "Pile generously onto the bread, top with the sliced egg and diced tomatoes.",
+      "Serve open-faced - a beloved Swedish sandwich, especially popular in summer."
+    ]
+  },
+  {
+    "name": "Swedish Almond Cookies",
+    "cuisine": "swedish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, then mix in the flour and cardamom.",
+      "Shape into small rounds and press flat.",
+      "Bake at 350F for 10-12 minutes until just golden at the edges."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar together until light, then beat in the vanilla.",
+      "Mix in the flour and cardamom until a soft dough forms.",
+      "Shape into small rounds, press flat with a fork, and place on a baking sheet.",
+      "Bake at 350F (175C) for 10-14 minutes until just golden at the edges - a simple, buttery Swedish fika (coffee break) treat."
+    ]
+  },
+  {
+    "name": "Swedish Pressgurka",
+    "cuisine": "swedish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "no-cook",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Thinly slice the cucumber and toss with the vinegar, sugar, and dill.",
+      "Let sit at least 15 minutes before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 170,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 4,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Thinly slice the cucumber as evenly as possible, ideally with a mandoline for paper-thin rounds.",
+      "Whisk the vinegar, sugar, and black pepper together until the sugar dissolves, then toss with the cucumber and dill.",
+      "Let sit at room temperature at least 20-30 minutes, or chill for a few hours, so the cucumber lightly pickles - a bright, tangy side found at almost every Swedish meal."
+    ]
+  },
+  {
+    "name": "Swedish Princess Cake Style Sponge",
+    "cuisine": "swedish",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp, whipped, as a cream stand-in"
+      }
+    ],
+    "steps": [
+      "Beat the eggs and sugar until pale, then fold in the flour to make a simple sponge batter.",
+      "Bake at 350F for 18-20 minutes until springy, then cool.",
+      "Top with the whipped cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 3,
+        "note": "tbsp, whipped with a little sugar"
+      },
+      {
+        "ingredient": "Kroger Strawberry Preserves",
+        "qty": 20,
+        "note": "for a jam layer"
+      }
+    ],
+    "steps_detailed": [
+      "Beat the eggs and sugar together until pale and thickened, about 4-5 minutes.",
+      "Sift the flour and baking powder together and fold in gently.",
+      "Bake in a small buttered pan at 350F (175C) for 18-22 minutes until springy and golden. Let cool completely.",
+      "Slice the sponge horizontally and spread the jam over the bottom layer, then the whipped cream, and replace the top.",
+      "A simplified nod to Sweden's iconic prinsesstarta, traditionally domed and covered in green marzipan."
+    ]
+  },
+  {
+    "name": "Swedish Semlor",
+    "cuisine": "swedish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.15,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour, butter, milk, and cardamom into a soft dough, and bake small rounds at 375F for 15 minutes.",
+      "Once cool, cut a lid off the top, hollow out a little, and fill with whipped cream.",
+      "Replace the lid and dust with powdered sugar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp, whipped, as a cream stand-in"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": "for egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, butter, milk, cardamom, and sugar into a soft, slightly enriched dough. Rest 20-30 minutes.",
+      "Shape into small round buns, brush with the egg wash, and bake at 375F (190C) for 15-18 minutes until golden. Let cool completely.",
+      "Cut a lid off the top of each bun and hollow out a little of the crumb from the center (save the crumbs).",
+      "Mix some of the reserved crumbs with a spoonful of the whipped cream and spoon back into the hollow, then top with more whipped cream.",
+      "Replace the lid and dust with powdered or granulated sugar - Sweden's beloved cardamom bun, traditionally eaten before Lent."
+    ]
+  },
+  {
+    "name": "Swedish Chokladbollar",
+    "cuisine": "swedish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the oats, cocoa powder, softened butter, and sugar with a splash of cold coffee or water into a firm, moldable mixture.",
+      "Roll into small balls.",
+      "Chill until firm, about 30 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.125,
+        "note": "cup, for rolling"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the butter and mix with the sugar, cocoa powder, and vanilla until well combined.",
+      "Stir in the oats and a splash of cold coffee (traditional, for depth of flavor) or water, mixing until the mixture holds together when pressed.",
+      "Roll into small balls, about 1 inch across.",
+      "Roll each ball in the shredded coconut to coat.",
+      "Chill at least 30-40 minutes until firm - a beloved no-bake Swedish treat, found in every bakery and home kitchen."
+    ]
+  },
+  {
+    "name": "Swedish Mustard-Dill Sauce",
+    "cuisine": "swedish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "no-cook",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 6,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the mustard, honey, dill, and oil together until smooth.",
+      "Serve alongside gravlax or other cured fish."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 8,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mustard, honey, and vinegar together until smooth, then slowly whisk in the oil until emulsified.",
+      "Stir in the chopped dill.",
+      "Serve alongside gravlax, cured salmon, or boiled potatoes - the classic Swedish hovmastarsas that always accompanies gravlax."
+    ]
+  },
+  {
+    "name": "Swedish Lingonberry Sauce",
+    "cuisine": "swedish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cranberries, raw",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the fresh cranberries with the sugar and canned cranberry sauce for 8-10 minutes until slightly thickened.",
+      "Cool before serving alongside meatballs or roasted meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cranberries, raw",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the fresh cranberries, sugar, canned cranberry sauce, and cinnamon with a splash of water in a small saucepan.",
+      "Simmer over medium-low heat, stirring occasionally, for 10-12 minutes until the fresh berries have mostly broken down and the mixture has thickened.",
+      "Cool before serving - a reasonable stand-in for lingonberry sauce, the tart-sweet condiment inseparable from Swedish meatballs."
+    ]
+  }
+]

@@ -68,10 +68,16 @@ const GROUP_COLORS = {
   colombian: '#E0785A',
   ecuadorian: '#7A93D4',
   venezuelan: '#B83A3A',
-  guyanese: '#3FA37E',
+  guyanese: '#E8C547',
   surinamese: '#9B5FA8',
   canadian: '#D14545',
   australian: '#C77D3F',
+  'new-zealander': '#4A9B85',
+  polish: '#5B7A99',
+  portuguese: '#2E6B8A',
+  irish: '#3F8F4A',
+  swedish: '#4A6FA5',
+  swiss: '#8B2942',
 };
 
 /**

@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "Irish Full Breakfast",
+    "cuisine": "irish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 56,
+        "note": "1 serving, as a sausage stand-in"
+      }
+    ],
+    "steps": [
+      "Fry the bacon and sausage together until browned.",
+      "Warm the diced tomatoes in the same pan.",
+      "Fry the eggs and serve everything together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bacon",
+        "qty": 3,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 56,
+        "note": "1 serving, as a sausage stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the bacon and sausage together in the butter over medium heat until well browned, 6-8 minutes.",
+      "Warm the diced tomatoes in the same pan for 2-3 minutes.",
+      "Fry the eggs in the rendered fat to your preferred doneness, seasoning with black pepper.",
+      "Serve everything together on one plate with toast - the full Irish breakfast, a weekend institution."
+    ]
+  },
+  {
+    "name": "Irish Soda Bread",
+    "cuisine": "irish",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Mix the flour, baking powder, and a pinch of salt.",
+      "Stir in the sour cream (thinned with the milk, as a buttermilk stand-in) until a soft dough forms.",
+      "Shape into a round, score a cross on top, and bake at 400F for 30-35 minutes until golden and hollow-sounding."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp, melted"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, baking powder, and a good pinch of salt in a bowl.",
+      "Thin the sour cream with the milk to mimic buttermilk's tang and consistency, then stir into the dry ingredients along with the melted butter until a soft, slightly sticky dough forms - don't overwork it.",
+      "Shape into a round loaf on a floured surface and cut a deep cross into the top.",
+      "Bake at 400F (200C) for 32-38 minutes until deeply golden and it sounds hollow when tapped on the bottom.",
+      "Best served warm, sliced thick, with butter - a simple bread with no yeast, leavened entirely by the baking powder reacting with the acidic buttermilk."
+    ]
+  },
+  {
+    "name": "Irish Porridge",
+    "cuisine": "irish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the oats in the milk (or water) for 5-7 minutes, stirring, until thick and creamy.",
+      "Drizzle with honey before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the oats, milk, and cinnamon in a saucepan.",
+      "Simmer over medium-low heat, stirring often, 6-8 minutes until thick and creamy.",
+      "Drizzle with honey and serve hot - a simple, warming Irish breakfast staple, traditionally made with just oats, water, and salt."
+    ]
+  },
+  {
+    "name": "Irish Stew",
+    "cuisine": "irish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 180,
+        "note": "or lamb stew meat if available"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the onion.",
+      "Add the potato, carrot, and enough water to cover, and simmer, covered, 1-1.25 hours until everything is tender.",
+      "Season and serve hot."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": "or lamb stew meat if available"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 65,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion over medium-high heat, 6-8 minutes.",
+      "Add the potato, carrot, bay leaf, oregano, and beef broth, adding water if needed to just cover.",
+      "Cover and simmer over low heat 1-1.5 hours until the lamb is completely tender and the potato has partially broken down, thickening the stew naturally.",
+      "Remove the bay leaf and serve hot with soda bread - Ireland's most iconic dish, traditionally a simple, humble farmhouse meal."
+    ]
+  },
+  {
+    "name": "Irish Colcannon",
+    "cuisine": "irish",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 100,
+        "note": "chopped, cooked"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Mash the boiled potato with the butter and milk until smooth.",
+      "Fold in the cooked cabbage.",
+      "Serve hot with an extra pat of butter."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 220,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 110,
+        "note": "chopped, cooked"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion in a little of the butter until soft, then cook the cabbage with it until tender.",
+      "Mash the boiled potato with the remaining butter and milk until smooth and creamy.",
+      "Fold in the cabbage and onion, and season with black pepper.",
+      "Serve hot, traditionally with a well in the center filled with melted butter - a beloved Irish comfort food, especially popular at Halloween."
+    ]
+  },
+  {
+    "name": "Irish Boxty",
+    "cuisine": "irish",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "half boiled and mashed, half raw and grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Mix the mashed and grated potato with the flour and a pinch of salt into a thick batter.",
+      "Fry spoonfuls flattened into pancakes in the butter, 3-4 minutes per side, until golden.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "half boiled and mashed, half raw and grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.1,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Squeeze excess liquid from the grated raw potato.",
+      "Mix the mashed and grated potato with the flour, baking powder, and milk into a thick, cohesive batter.",
+      "Heat the butter in a skillet over medium heat and fry spoonfuls of the batter, flattened into pancakes, 3-4 minutes per side until golden brown.",
+      "Serve warm, traditionally with butter or alongside a full breakfast - 'boxty on the griddle, boxty in the pan' is a well-known Irish rhyme about this potato pancake."
+    ]
+  },
+  {
+    "name": "Irish Dublin Coddle",
+    "cuisine": "irish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 84,
+        "note": "1.5 servings, sliced, as a sausage stand-in"
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 3,
+        "note": "slices, chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Layer the sausage, bacon, potato, and onion in a pot with enough water to just cover.",
+      "Simmer, covered, 45-50 minutes until everything is tender.",
+      "Serve hot with bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 112,
+        "note": "2 servings, sliced, as a sausage stand-in"
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 4,
+        "note": "slices, chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 55,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Layer the sliced sausage, chopped bacon, potato, and onion in a pot, seasoning with black pepper and oregano between layers.",
+      "Add water just to cover the layers.",
+      "Cover and simmer over low heat 50-60 minutes until the potatoes are very tender and the broth has taken on flavor from the meats.",
+      "Serve hot in bowls with crusty bread - a humble Dublin classic, traditionally made from whatever was on hand."
+    ]
+  },
+  {
+    "name": "Irish Shepherd's Pie",
+    "cuisine": "irish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 180,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Peas, green, raw",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the carrot.",
+      "Stir in the peas and spread the mixture in a small baking dish.",
+      "Top with the mashed potato and bake at 400F for 20-25 minutes until golden on top."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Peas, green, raw",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 55,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion and carrot over medium-high heat, 8-10 minutes.",
+      "Add the beef broth and oregano, and simmer 5-6 minutes until slightly thickened, then stir in the peas.",
+      "Spread the lamb mixture evenly in a small buttered baking dish.",
+      "Mash the boiled potato with the butter until smooth, then spread evenly over the lamb layer, running a fork over the top for texture.",
+      "Bake at 400F (200C) for 22-28 minutes until the top is golden and the filling is bubbling at the edges - traditionally made with lamb, distinguishing it from cottage pie's beef."
+    ]
+  },
+  {
+    "name": "Irish Bacon and Cabbage",
+    "cuisine": "irish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 84,
+        "note": "1.5 servings, or bacon joint if available"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 130,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Simmer the bacon in water 20-25 minutes.",
+      "Add the potato and cabbage, and simmer 15-18 more minutes until tender.",
+      "Slice the bacon and serve with the vegetables."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 112,
+        "note": "2 servings, or bacon joint if available"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 170,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the bacon in water to cover for 20-25 minutes.",
+      "Add the potato and carrot, and simmer 15 minutes.",
+      "Add the cabbage and continue simmering 10-12 minutes until all the vegetables are tender.",
+      "Slice the bacon and serve with the vegetables and a little of the cooking broth, seasoned with black pepper - a simple, classic Irish Sunday dinner."
+    ]
+  },
+  {
+    "name": "Irish Beef and Guinness Stew",
+    "cuisine": "irish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the broth (a splash of dark beer adds the traditional depth if you have it) and carrot, and simmer, covered, 1.5-2 hours until tender.",
+      "Serve with mashed potato."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 55,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef well in batches, then set aside.",
+      "Saute the onion and garlic in the same pot for 5-6 minutes until softened, then stir in the tomato paste.",
+      "Return the beef, add the beef broth, carrot, and bay leaf (a cup of stout beer traditionally goes in here too, for the dish's name and characteristic depth).",
+      "Cover and simmer over low heat 1.5-2 hours until the beef is completely tender and the sauce has thickened.",
+      "Remove the bay leaf and serve with mashed potato - a hearty pub classic found across Ireland."
+    ]
+  },
+  {
+    "name": "Irish Corned Beef and Cabbage",
+    "cuisine": "irish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "well-salted, as a corned beef stand-in"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 130,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Season the beef generously with extra salt and simmer in water 1.5-2 hours until very tender.",
+      "Add the potato and carrot, and simmer 15 minutes, then add the cabbage and simmer 10-12 more minutes.",
+      "Slice the beef and serve with the vegetables."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "well-salted, as a corned beef stand-in"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 140,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 55,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "quartered"
+      }
+    ],
+    "steps_detailed": [
+      "Season the beef generously with extra salt (mimicking the brine of true corned beef) and black pepper, and let sit 15 minutes.",
+      "Simmer the beef with the onion and bay leaf in water to cover for 1.5-2.5 hours until completely fork-tender.",
+      "Add the potato and carrot, and simmer 15 minutes.",
+      "Add the cabbage wedges and continue simmering 10-15 minutes until all the vegetables are tender.",
+      "Remove the bay leaf, slice the beef against the grain, and serve with the vegetables - beloved in Irish-American tradition especially, and closely associated with St. Patrick's Day."
+    ]
+  },
+  {
+    "name": "Irish Cheese and Brown Bread",
+    "cuisine": "irish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the bread"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Mix the flour, baking powder, sour cream, and a splash of water into a soft dough, and bake into a small loaf at 400F for 25 minutes.",
+      "Slice and top with the cheese."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.15,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, baking powder, sour cream, and milk into a soft dough, then shape into a small loaf.",
+      "Bake at 400F (200C) for 25-30 minutes until golden and cooked through.",
+      "Let cool slightly, slice, butter, and top with the cheese - a simple, satisfying Irish snack."
+    ]
+  },
+  {
+    "name": "Irish Sausage Rolls",
+    "cuisine": "irish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 84,
+        "note": "1.5 servings, chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for the pastry"
+      }
+    ],
+    "steps": [
+      "Make a simple pastry from the flour, butter, and cold water.",
+      "Wrap the pastry around the sausage and bake at 375F for 25-30 minutes until golden.",
+      "Slice and serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 112,
+        "note": "2 servings, chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for the pastry"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": "for egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple pastry from the flour, butter, a pinch of salt, and cold water, rolling into a rectangle.",
+      "Lay the chopped sausage along the center and wrap the pastry around it, sealing the seam.",
+      "Brush with the egg wash and bake at 375F (190C) for 25-32 minutes until the pastry is golden and flaky.",
+      "Slice into pieces and serve warm - a beloved party and pub snack across Ireland."
+    ]
+  },
+  {
+    "name": "Irish Potato Farls",
+    "cuisine": "irish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 180,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Mix the mashed potato with the flour and a pinch of salt into a firm dough.",
+      "Roll out and cut into triangles (farls).",
+      "Fry in the butter, 3-4 minutes per side, until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed potato with the flour, black pepper, and a good pinch of salt into a firm, workable dough.",
+      "Roll out to about 1/2 inch thick and cut into a circle, then cut the circle into four triangular farls.",
+      "Heat the butter in a skillet over medium heat and fry the farls 3-4 minutes per side until golden and slightly crisp.",
+      "Serve warm, traditionally as part of a full Irish breakfast."
+    ]
+  },
+  {
+    "name": "Irish Champ",
+    "cuisine": "irish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped, as a scallion stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Warm the milk with the chopped onion until just simmering.",
+      "Mash the boiled potato with the butter, then stir in the warm milk and onion.",
+      "Serve hot with a well of melted butter in the center."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 220,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "finely chopped, as a scallion stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk with the chopped onion (traditionally scallions/spring onions) over low heat for 3-4 minutes until fragrant and just simmering.",
+      "Mash the boiled potato with half the butter until smooth.",
+      "Stir in the warm milk and onion mixture, and season with black pepper.",
+      "Serve hot with a well in the center filled with the remaining melted butter - simple, comforting, and deeply traditional."
+    ]
+  },
+  {
+    "name": "Irish Apple Cake",
+    "cuisine": "irish",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 130,
+        "note": "diced"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, then work in the flour to form a soft batter.",
+      "Fold in the diced apple.",
+      "Bake at 350F for 30-35 minutes until golden and a toothpick comes out clean."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 150,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar until light and fluffy, then beat in the egg.",
+      "Sift together the flour, baking powder, and cinnamon, and fold into the batter until just combined.",
+      "Fold in the diced apple.",
+      "Pour into a small buttered baking dish and bake at 350F (175C) for 32-40 minutes until golden and a toothpick comes out clean.",
+      "Serve warm, traditionally with custard or cream - a simple, homey Irish classic."
+    ]
+  },
+  {
+    "name": "Irish Barmbrack",
+    "cuisine": "irish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 40,
+        "note": "soaked in tea"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Soak the raisins in warm tea for at least 30 minutes, then drain, reserving the tea.",
+      "Mix the flour, sugar, and baking powder with the soaked raisins and enough of the reserved tea to form a thick batter.",
+      "Bake at 325F for 40-45 minutes until a toothpick comes out clean."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 50,
+        "note": "soaked in tea"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soak the raisins in warm strong tea for at least 1 hour, or overnight, then drain well, reserving a little of the tea.",
+      "Beat the egg with the brown sugar, then stir in the flour, baking powder, and cinnamon along with the soaked raisins and a splash of the reserved tea to form a thick, spoonable batter.",
+      "Pour into a small buttered loaf pan.",
+      "Bake at 325F (165C) for 45-55 minutes until a toothpick comes out clean.",
+      "Traditionally baked for Halloween with small charms hidden inside to predict the future - a beloved Irish tea bread."
+    ]
+  },
+  {
+    "name": "Irish Bread and Butter Pudding",
+    "cuisine": "irish",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
+        "qty": 50,
+        "note": "as a bread slice stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Butter the crackers and arrange in a small baking dish.",
+      "Whisk the egg, milk, and sugar together and pour over.",
+      "Bake at 350F for 30-35 minutes until set and golden on top."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
+        "qty": 60,
+        "note": "as a bread slice stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Butter the crackers (standing in for slightly stale bread) and layer them in a small baking dish, scattering the raisins between layers.",
+      "Whisk the eggs, milk, sugar, and cinnamon together until smooth, and pour evenly over the bread, pressing gently so it soaks in.",
+      "Let sit 10 minutes so the custard absorbs before baking.",
+      "Bake at 350F (175C) for 32-40 minutes until set and golden on top.",
+      "Serve warm - simple, humble, and a great way to use up leftover bread, much loved across Ireland and Britain alike."
+    ]
+  },
+  {
+    "name": "Irish Whiskey Cream Sauce",
+    "cuisine": "irish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.125,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the sour cream, sugar, and milk together until smooth.",
+      "Warm gently and serve over cake or fruit."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.15625,
+        "note": ""
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the sour cream, brown sugar, milk, and vanilla together until smooth.",
+      "Warm gently in a small saucepan over low heat, stirring, until slightly thickened, about 3-4 minutes - don't let it boil.",
+      "Serve warm over apple cake, bread pudding, or fresh fruit, echoing the flavor of a whiskey cream liqueur without the alcohol."
+    ]
+  },
+  {
+    "name": "Irish Mustard Sauce",
+    "cuisine": "irish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "no-cook",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the mustard, honey, and sour cream together until smooth.",
+      "Serve alongside ham, sausages, or boiled bacon."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mustard, honey, sour cream, and black pepper together until smooth and well combined.",
+      "Chill briefly before serving alongside ham, sausages, or boiled bacon and cabbage."
+    ]
+  }
+]

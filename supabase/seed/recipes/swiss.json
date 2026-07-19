@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Swiss Bircher Muesli",
+    "cuisine": "swiss",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 100,
+        "note": "grated"
+      }
+    ],
+    "steps": [
+      "Soak the oats in the milk overnight in the fridge.",
+      "Stir in the grated apple just before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 110,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Combine the oats and milk in a bowl or jar, cover, and refrigerate overnight so the oats soften fully.",
+      "The next morning, grate the apple and toss it with the lime juice to keep it from browning.",
+      "Stir the grated apple and honey into the soaked oats just before serving.",
+      "Created by a Swiss physician in the early 1900s as a healthy breakfast for his patients, Bircher muesli remains a Swiss breakfast staple worldwide."
+    ]
+  },
+  {
+    "name": "Swiss Roesti with Egg",
+    "cuisine": "swiss",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 180,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Squeeze excess liquid from the grated potato.",
+      "Press into a thin, even layer in the buttered pan and fry 6-8 minutes per side until deeply golden and crisp.",
+      "Top with the fried egg."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Grate the potato and squeeze out as much excess liquid as possible using a clean towel.",
+      "Season with black pepper and press into a thin, even layer in the buttered pan.",
+      "Fry over medium heat, 7-9 minutes per side, pressing down occasionally, until deeply golden and crisp on both sides.",
+      "Top with a fried egg - roesti began as a hearty farmer's breakfast in the canton of Bern and became a Swiss national symbol."
+    ]
+  },
+  {
+    "name": "Swiss Zopf with Jam",
+    "cuisine": "swiss",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Kroger Strawberry Preserves",
+        "qty": 20,
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Mix the flour, butter, and milk into a smooth, slightly enriched dough.",
+      "Shape into a simple braid or loaf and bake at 375F for 20-25 minutes until golden.",
+      "Serve sliced with the preserves."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Kroger Strawberry Preserves",
+        "qty": 25,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, butter, milk, egg, and sugar into a smooth, elastic dough. Knead briefly and rest 20-30 minutes.",
+      "Divide into strands and braid into a simple loaf, or shape into a round loaf if simpler.",
+      "Bake at 375F (190C) for 22-28 minutes until deeply golden.",
+      "Serve sliced, generously spread with the preserves - zopf is the classic Swiss Sunday morning bread."
+    ]
+  },
+  {
+    "name": "Swiss Cheese Fondue",
+    "cuisine": "swiss",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 3,
+        "note": "oz, grated"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Swiss Cheese, Swiss",
+        "qty": 56.7,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Toss the grated cheeses with the flour.",
+      "Warm the wine gently, then add the cheese in handfuls, stirring until melted and smooth.",
+      "Serve warm with bread cubes for dipping."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 3.5,
+        "note": "oz, grated"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Swiss Cheese, Swiss",
+        "qty": 70.9,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.3,
+        "note": "for seasoning, a pinch"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the inside of a small pot with the minced garlic.",
+      "Toss the grated cheeses with the flour to help them melt smoothly.",
+      "Warm the wine in the pot over low heat, then add the cheese gradually in handfuls, stirring constantly in a figure-eight motion until fully melted and smooth.",
+      "Season with a pinch of nutmeg.",
+      "Serve warm with cubes of crusty bread for dipping - Switzerland's most iconic communal dish."
+    ]
+  },
+  {
+    "name": "Swiss Roesti with Ham",
+    "cuisine": "swiss",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 180,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Squeeze excess liquid from the grated potato and mix with the diced ham.",
+      "Press into the buttered pan and fry 6-8 minutes per side until crisp and golden.",
+      "Slice into wedges and serve."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Grate the potato and squeeze out as much liquid as possible, then mix with the diced ham, onion, and black pepper.",
+      "Press into a thin, even layer in the buttered pan.",
+      "Fry over medium heat, 7-9 minutes per side, pressing down occasionally, until deeply golden and crisp.",
+      "Slice into wedges and serve - a heartier version of the classic roesti, popular as a full lunch."
+    ]
+  },
+  {
+    "name": "Swiss Barley Soup (Buendner Gerstensuppe)",
+    "cuisine": "swiss",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bob's Red Mill Pearl Barley",
+        "qty": 54,
+        "note": "1 serving"
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Saute the bacon and carrot until fragrant.",
+      "Add the barley and broth, and simmer 35-40 minutes until the barley is tender.",
+      "Season and serve hot."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bob's Red Mill Pearl Barley",
+        "qty": 60,
+        "note": "1 serving, plus a little extra"
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 55,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
+        "qty": 40,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the diced bacon, onion, carrot, and leek together for 6-8 minutes until softened and fragrant.",
+      "Add the barley and beef broth, and bring to a simmer.",
+      "Cover and cook over low heat 40-45 minutes, stirring occasionally, until the barley is tender and the soup has thickened.",
+      "A hearty specialty from the canton of Graubuenden, traditionally simmered for hours with dried meats."
+    ]
+  },
+  {
+    "name": "Swiss Alplermagronen",
+    "cuisine": "swiss",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 42.5,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Boil the noodles and potato together until both are tender, about 12-15 minutes.",
+      "Drain and stir in the milk and cheese until melted and creamy.",
+      "Serve with applesauce on the side, the traditional pairing."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 56.7,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the noodles and potato together in salted water until both are tender, 12-16 minutes, then drain.",
+      "Saute the onion in the butter until deeply golden and caramelized, 10-12 minutes.",
+      "Return the drained noodles and potato to the pot, stir in the milk and grated cheese over low heat until melted and creamy.",
+      "Top with the caramelized onion and serve with applesauce alongside - a beloved alpine dish, named for the cowherds (Alpler) who traditionally made it high in the mountains."
+    ]
+  },
+  {
+    "name": "Swiss Raclette",
+    "cuisine": "swiss",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Swiss Cheese, Swiss",
+        "qty": 85.0,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "pickled or sliced, to serve"
+      }
+    ],
+    "steps": [
+      "Boil the potato until tender.",
+      "Melt the cheese under the broiler until bubbling and lightly browned.",
+      "Pour the melted cheese over the potato and serve with the onion."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Swiss Cheese, Swiss",
+        "qty": 99.2,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "pickled or sliced, to serve"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the potato whole until fully tender, 15-20 minutes, then keep warm.",
+      "Arrange the sliced cheese in a small oven-safe dish and broil for 3-5 minutes until fully melted, bubbling, and lightly browned in spots.",
+      "Pour the melted cheese directly over the warm boiled potato, season with black pepper, and serve with the pickled or sliced onion - raclette is as much a social gathering as a meal in Switzerland."
+    ]
+  },
+  {
+    "name": "Swiss Zurcher Geschnetzeltes",
+    "cuisine": "swiss",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Mushrooms, white, raw",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Saute the chicken and mushrooms until the chicken is cooked through.",
+      "Add the wine and simmer 3-4 minutes, then stir in the sour cream.",
+      "Serve over roesti or noodles."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 220,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Mushrooms, white, raw",
+        "qty": 90,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion in the butter until soft, then add the chicken and mushrooms, cooking over medium-high heat until the chicken is just cooked through and lightly browned, 6-8 minutes.",
+      "Dust with the flour and stir to coat, then add the wine, scraping up any browned bits, and simmer 3-4 minutes.",
+      "Stir in the sour cream and simmer 2-3 more minutes until the sauce is smooth and slightly thickened.",
+      "Serve over roesti or buttered noodles - a beloved dish from Zurich, sliced veal traditionally used in place of chicken."
+    ]
+  },
+  {
+    "name": "Swiss Cordon Bleu",
+    "cuisine": "swiss",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 180,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1.5,
+        "note": "oz, sliced"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Pound the chicken thin, then layer with the ham and cheese, and fold or roll to enclose.",
+      "Dredge in flour and pan-fry until golden and cooked through, about 5-6 minutes per side.",
+      "Serve with roesti or a simple salad."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 2,
+        "note": "oz, sliced"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Pound the chicken breast to an even thickness, then layer the ham and cheese in the center and fold the chicken over to fully enclose the filling, securing with a toothpick if needed.",
+      "Dredge in flour, then egg, pressing to help it adhere.",
+      "Heat the oil in a skillet over medium heat and fry 5-7 minutes per side until deeply golden and cooked through, with the cheese melted inside.",
+      "Serve with roesti or a simple green salad - a Swiss dish now popular worldwide."
+    ]
+  },
+  {
+    "name": "Swiss Papet Vaudois",
+    "cuisine": "swiss",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 84,
+        "note": "1.5 servings, as a saucisson stand-in"
+      },
+      {
+        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer the sausage with the leeks and potato in water to cover for 25-30 minutes until tender.",
+      "Mash some of the potato into the broth with the milk to thicken slightly.",
+      "Slice the sausage and serve with the leek and potato mixture."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 112,
+        "note": "2 servings, as a saucisson stand-in"
+      },
+      {
+        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
+        "qty": 110,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the sausage with the leeks and potato in water to just cover for 30-35 minutes until the potato is very tender.",
+      "Remove the sausage and slice it.",
+      "Mash some of the potato directly in the pot with the milk, butter, and black pepper to thicken the leek mixture into a soft, stew-like consistency.",
+      "Serve the sliced sausage over the leek and potato mixture - a classic dish from the canton of Vaud, historically paired with saucisson au chou."
+    ]
+  },
+  {
+    "name": "Swiss Cheese and Bread",
+    "cuisine": "swiss",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 2,
+        "note": "oz, sliced"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or crusty bread"
+      },
+      {
+        "ingredient": "Kroger Strawberry Preserves",
+        "qty": 15,
+        "note": "or cranberry sauce, to serve"
+      }
+    ],
+    "steps": [
+      "Slice the cheese and serve with the bread and a small spoonful of preserves."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 2.5,
+        "note": "oz, sliced"
+      },
+      {
+        "ingredient": "Cranberry sauce, canned, sweetened",
+        "qty": 20,
+        "note": "to serve"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Slice the cheese and arrange on a small plate with the bread.",
+      "Serve with a small spoonful of cranberry sauce and a scattering of chopped walnuts - a simple, classic Swiss cheese board pairing."
+    ]
+  },
+  {
+    "name": "Swiss Rosti Bites",
+    "cuisine": "swiss",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 130,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1,
+        "note": "oz, grated"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Squeeze excess liquid from the grated potato and mix with the grated cheese.",
+      "Shape into small patties and fry in the butter, 3-4 minutes per side, until golden.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Gruyere cheese",
+        "qty": 1.25,
+        "note": "oz, grated"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Grate the potato and squeeze out excess liquid, then mix with the grated cheese and black pepper.",
+      "Shape into small patties, about 2 inches across.",
+      "Heat the butter in a skillet over medium heat and fry the patties 3-5 minutes per side until golden and the cheese has melted inside.",
+      "Serve warm as a simple, cheesy snack."
+    ]
+  },
+  {
+    "name": "Swiss Meringues with Cream",
+    "cuisine": "swiss",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "white only"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp, whipped, as a cream stand-in"
+      }
+    ],
+    "steps": [
+      "Whip the egg white with the sugar until stiff and glossy.",
+      "Pipe or spoon small mounds onto a lined sheet and bake at 200F for 1.5-2 hours until dry and crisp.",
+      "Serve with the whipped cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.5,
+        "note": "whites only"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp, whipped with a little sugar"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whip the egg whites until foamy, then gradually add the sugar, whipping until very stiff and glossy.",
+      "Fold in the vanilla.",
+      "Pipe or spoon small mounds onto a parchment-lined sheet.",
+      "Bake at 200F (95C) for 1.5-2 hours until completely dry and crisp throughout, then let cool in the turned-off oven.",
+      "Serve with the whipped cream - meringues (meringue) are widely believed to have originated in the Swiss town of Meiringen."
+    ]
+  },
+  {
+    "name": "Swiss Landjager-Style Snack Sausage",
+    "cuisine": "swiss",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 56,
+        "note": "1 serving"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 28.3,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Slice the sausage and serve with the cheese, no cooking needed."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Hickory Smoked Polska Kielbasa",
+        "qty": 70,
+        "note": "1.25 servings"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 35.4,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Caraway seed",
+        "qty": 0.125,
+        "note": "tsp, for flavor, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Slice the sausage into thin rounds (Landjager is traditionally a dried, cured snack sausage, eaten cold and often carried on hikes).",
+      "Serve alongside the sliced cheese, with a pinch of caraway seed scattered over if you'd like, echoing the spicing found in some regional versions.",
+      "A simple, portable Swiss snack, popular for hiking in the Alps."
+    ]
+  },
+  {
+    "name": "Swiss Chocolate Fondue",
+    "cuisine": "swiss",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ghirardelli 100% Unsweetened Premium Baking Cocoa Powder, Unsweetened",
+        "qty": 15,
+        "note": "or chocolate, melted"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Strawberries, raw",
+        "qty": 100,
+        "note": "for dipping"
+      }
+    ],
+    "steps": [
+      "Warm the milk with the sugar and cocoa powder, whisking until smooth and glossy.",
+      "Serve warm with the strawberries for dipping."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ghirardelli 100% Unsweetened Premium Baking Cocoa Powder, Unsweetened",
+        "qty": 20,
+        "note": "or chocolate, melted"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Strawberries, raw",
+        "qty": 120,
+        "note": "for dipping"
+      },
+      {
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 80,
+        "note": "sliced, for dipping"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk in a small pot, then whisk in the cocoa powder, sugar, and butter until completely smooth and glossy.",
+      "Simmer gently 2-3 minutes, stirring, until slightly thickened.",
+      "Transfer to a small warm bowl and serve with the strawberries and apple slices for dipping - Switzerland, the birthplace of much of the world's finest chocolate, does this beautifully."
+    ]
+  },
+  {
+    "name": "Swiss Nusstorte",
+    "cuisine": "swiss",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the crust"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 40,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Make a simple pastry from the flour and butter, and press into a small tart tin.",
+      "Simmer the brown sugar with a splash of water and the walnuts into a thick, sticky filling.",
+      "Fill the crust and bake at 350F for 25-30 minutes until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.15,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple pastry from the flour, half the butter, a pinch of salt, and cold water. Press into a small tart tin.",
+      "Melt the remaining butter with the brown sugar, milk, and honey, and simmer 3-4 minutes until it thickens slightly.",
+      "Stir in the chopped walnuts and pour into the crust.",
+      "Bake at 350F (175C) for 28-35 minutes until the filling is set and bubbling gently at the edges.",
+      "Cool before slicing - a specialty of the Engadin valley, this dense, caramel-walnut tart keeps well for days."
+    ]
+  },
+  {
+    "name": "Swiss Basler Lackerli",
+    "cuisine": "swiss",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Warm the honey and mix with the flour, walnuts, and cinnamon into a firm dough.",
+      "Press into a small pan and bake at 350F for 15-18 minutes until set.",
+      "Cool and cut into small bars."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Allspice",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the honey gently until runny, then mix with the flour, baking powder, cinnamon, and allspice.",
+      "Stir in the chopped walnuts, forming a firm, sticky dough.",
+      "Press evenly into a small buttered pan.",
+      "Bake at 350F (175C) for 15-20 minutes until set and lightly golden at the edges.",
+      "Let cool completely, then cut into small bars - a spiced honey-nut treat from Basel, traditionally associated with Christmas."
+    ]
+  },
+  {
+    "name": "Swiss Fondue Dipping Sauce",
+    "cuisine": "swiss",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "no-cook",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the mustard, honey, and sour cream together.",
+      "Serve alongside roesti or grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mustard, honey, sour cream, and black pepper together until smooth.",
+      "Serve alongside roesti, grilled meats, or as a dip for cheese fondue leftovers."
+    ]
+  },
+  {
+    "name": "Swiss Herb Butter",
+    "cuisine": "swiss",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 5,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Mash the softened butter with the dill and garlic until well combined.",
+      "Use on bread, roesti, or grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, softened"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 6,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.75,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the softened butter with the dill, garlic, and black pepper until well combined and evenly flecked with green.",
+      "Roll into a log in plastic wrap and chill until firm, or use immediately.",
+      "Spread on bread, melt over roesti, or top grilled meats and fish."
+    ]
+  }
+]

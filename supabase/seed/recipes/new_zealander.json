@@ -1,0 +1,1428 @@
+[
+  {
+    "name": "New Zealand Kiwifruit and Yogurt Bowl",
+    "cuisine": "new-zealander",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Chobani Plain Low-Fat Greek Yogurt, Plain",
+        "qty": 240,
+        "note": "or similar plain yogurt"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Slice the kiwifruit.",
+      "Spoon the yogurt into a bowl and top with the kiwifruit.",
+      "Drizzle with honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Chobani Plain Low-Fat Greek Yogurt, Plain",
+        "qty": 288,
+        "note": "or similar plain yogurt"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 20,
+        "note": "toasted, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the oats in a dry pan for 2-3 minutes until fragrant and lightly golden, then let cool.",
+      "Slice the kiwifruit into rounds.",
+      "Spoon the yogurt into a bowl, arrange the kiwifruit over the top, and scatter with the toasted oats.",
+      "Drizzle generously with honey - New Zealand's Zespri kiwifruit is a major export and breakfast staple."
+    ]
+  },
+  {
+    "name": "New Zealand Bacon and Egg Pie",
+    "cuisine": "new-zealander",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bacon",
+        "qty": 3,
+        "note": "slices, chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for the pastry"
+      }
+    ],
+    "steps": [
+      "Fry the bacon until just crisp.",
+      "Make a simple pastry from the flour, butter, and cold water, and line a small dish.",
+      "Pour in the beaten eggs and scattered bacon, and bake at 375F for 25-30 minutes until set and golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bacon",
+        "qty": 4,
+        "note": "slices, chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 3,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for the pastry"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.15,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the chopped bacon in a dry pan until just crisp, then let cool slightly.",
+      "Make a simple pastry from the flour, butter, a pinch of salt, and cold water. Roll out and line a small pie dish.",
+      "Whisk the eggs with the milk and black pepper, then pour into the pastry shell and scatter the bacon over the top.",
+      "Bake at 375F (190C) for 28-32 minutes until the filling is set and the pastry is golden.",
+      "A classic New Zealand picnic and lunchbox staple, usually eaten cold or at room temperature."
+    ]
+  },
+  {
+    "name": "New Zealand Weet-Bix Style Breakfast",
+    "cuisine": "new-zealander",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 40,
+        "note": "or wheat biscuit cereal"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Combine the cereal, milk, and sugar in a bowl.",
+      "Let sit 2-3 minutes to soften slightly before eating."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 45,
+        "note": "or wheat biscuit cereal"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.85,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 60,
+        "note": "sliced, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the cereal and milk in a bowl and let sit 2-3 minutes so the cereal softens slightly, the traditional way wheat biscuit cereal is eaten.",
+      "Sprinkle with the brown sugar and top with sliced kiwifruit.",
+      "A simple, iconic Kiwi breakfast."
+    ]
+  },
+  {
+    "name": "New Zealand Meat Pie",
+    "cuisine": "new-zealander",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for the pastry"
+      }
+    ],
+    "steps": [
+      "Brown the beef and simmer with the broth until thickened, about 10 minutes.",
+      "Make a simple pastry from the flour, butter, and cold water.",
+      "Fill the pastry, top with more pastry, and bake at 375F for 25-30 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, for the pastry"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": "for egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the ground beef with the onion, then add the beef broth and simmer 8-10 minutes until thick and gravy-like. Let cool.",
+      "Make a simple pastry from the flour, butter, a pinch of salt, and cold water, rolling into two rounds.",
+      "Line a small pie dish with one round, fill with the cooled meat mixture, and top with the second round, crimping the edges and cutting a vent.",
+      "Brush with the egg wash and bake at 375F (190C) for 28-32 minutes until deeply golden - New Zealanders eat more meat pies per capita than almost anywhere else."
+    ]
+  },
+  {
+    "name": "New Zealand Whitebait Fritters",
+    "cuisine": "new-zealander",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 130,
+        "note": "finely chopped, as a whitebait stand-in"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Mix the finely chopped fish with the beaten eggs and flour into a loose batter.",
+      "Fry spoonfuls in the butter 2-3 minutes per side until golden.",
+      "Serve with a squeeze of lemon."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 150,
+        "note": "finely chopped, as a whitebait stand-in"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.5,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Finely chop the fish (traditionally tiny whole whitebait fish, which cook whole into the fritter) and mix with the beaten eggs and flour into a loose, cohesive batter.",
+      "Heat the butter in a skillet over medium heat and fry spoonfuls of the batter, flattened slightly, 2-3 minutes per side until golden and cooked through.",
+      "Serve with a good squeeze of lime, echoing the classic lemon wedge - whitebait fritters are a treasured seasonal delicacy on the West Coast of the South Island."
+    ]
+  },
+  {
+    "name": "New Zealand Pumpkin Soup",
+    "cuisine": "new-zealander",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 200,
+        "note": "peeled, chunked, as a pumpkin stand-in"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp, to serve"
+      }
+    ],
+    "steps": [
+      "Saute the onion until soft, then add the sweet potato and broth and simmer 15-18 minutes until tender.",
+      "Blend until smooth.",
+      "Serve with a swirl of sour cream."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 220,
+        "note": "peeled, chunked, as a pumpkin stand-in"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1.5,
+        "note": "tbsp, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion and garlic for 4-5 minutes until soft.",
+      "Add the sweet potato (standing in for New Zealand's beloved pumpkin), broth, and cinnamon, and simmer 18-20 minutes until completely tender.",
+      "Blend until smooth and creamy, thinning with a little water if needed.",
+      "Serve hot with a swirl of sour cream - pumpkin soup is a beloved winter staple across New Zealand."
+    ]
+  },
+  {
+    "name": "New Zealand Green-Lipped Mussels",
+    "cuisine": "new-zealander",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "shellfish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Mussels (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Steam the mussels in the wine and garlic until they open, about 5-6 minutes.",
+      "Discard any that stay closed.",
+      "Toss with the butter and serve with the broth."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Mussels (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Dry white wine (cooking)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Saute the garlic briefly in half the butter, then add the wine and bring to a simmer.",
+      "Add the mussels, cover, and steam 5-7 minutes until they all open - discard any that remain closed.",
+      "Toss with the remaining butter, cilantro, and lime juice.",
+      "Serve hot with the flavorful broth - New Zealand's green-lipped mussels are a prized export, farmed extensively in the Marlborough Sounds."
+    ]
+  },
+  {
+    "name": "New Zealand Hangi-Style Lamb and Vegetables",
+    "cuisine": "new-zealander",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": "formed into a small roast, or use lamb chops"
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "peeled, chunked"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 80,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Season the lamb well and roast at 325F, covered, for 1-1.5 hours until very tender.",
+      "Steam or simmer the sweet potato, cabbage, and carrot until tender.",
+      "Serve together - traditionally cooked in an underground earth oven, this stovetop version keeps the same slow-cooked, tender character."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a small roast, or use lamb chops"
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 170,
+        "note": "peeled, chunked"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 90,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 70,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the lamb generously with garlic, oregano, and a little oil, and shape into a compact roast.",
+      "Roast in a covered dish at 325F (165C) for 1.25-1.5 hours until completely tender, basting occasionally with the pan juices.",
+      "Steam or simmer the sweet potato, cabbage, and carrot separately until tender, about 15-18 minutes.",
+      "Serve everything together - a hangi is traditionally cooked in a pit with heated stones, a Maori cooking method for large gatherings; this recaptures the same slow-cooked, smoky-tender result at home."
+    ]
+  },
+  {
+    "name": "New Zealand Fish and Chips",
+    "cuisine": "new-zealander",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 180,
+        "note": "or snapper if available"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": "for the batter"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cut into fries"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Cut the potato into fries and fry until golden, about 10-12 minutes, then set aside.",
+      "Dust the fish in flour and fry until golden and cooked through, about 3-4 minutes per side.",
+      "Serve together, traditionally wrapped in paper."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": "or snapper if available"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the batter"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "cut into fries"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Cut the potatoes into fries and fry in the oil over medium-high heat until golden and crisp, 10-14 minutes total, then set aside.",
+      "Whisk the flour, baking powder, and a splash of cold water into a thick, smooth batter.",
+      "Dip the fish in the batter and fry in the same oil, 3-5 minutes per side, until deeply golden and cooked through.",
+      "Serve with a squeeze of lime - a Friday night tradition across New Zealand, often enjoyed straight from the paper by the beach."
+    ]
+  },
+  {
+    "name": "New Zealand Lamb Shanks",
+    "cuisine": "new-zealander",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": "or lamb shank if available"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Brown the lamb, then add the onion, carrot, and tomatoes with a splash of water.",
+      "Cover and simmer 1-1.5 hours until the lamb is completely tender.",
+      "Serve with mashed potato."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "or lamb shank if available"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 45,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb well, then remove and set aside.",
+      "Saute the onion, carrot, and garlic in the same pot for 5-6 minutes until softened.",
+      "Return the lamb, add the diced tomatoes, beef broth, bay leaf, and oregano, and bring to a simmer.",
+      "Cover and cook over low heat 1.25-1.5 hours until the lamb is completely tender and falling apart.",
+      "Remove the bay leaf and serve with mashed potato - New Zealand lamb is famous worldwide, and slow-braised shanks are a beloved comfort dish."
+    ]
+  },
+  {
+    "name": "New Zealand Boil Up",
+    "cuisine": "new-zealander",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 100,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 130,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": "for doughboys"
+      }
+    ],
+    "steps": [
+      "Simmer the pork in water 30-35 minutes until nearly tender.",
+      "Add the potato and cabbage, and simmer 15 minutes more.",
+      "Mix the flour with a little water into a soft dough, drop spoonfuls into the simmering pot, and cook 10 minutes until the doughboys are cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 110,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 140,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": "for doughboys"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the pork with the onion and black pepper in 3 cups water for 30-35 minutes until nearly tender.",
+      "Add the potato and simmer 12-15 minutes, then add the cabbage and simmer 8-10 more minutes.",
+      "Mix the flour and baking powder with a pinch of salt and just enough water to form a soft dough for the doughboys (dumplings).",
+      "Drop spoonfuls of the dough into the simmering pot and cook, covered, 10-12 minutes until they're cooked through and fluffy.",
+      "A cherished Maori comfort food, traditionally made with pork bones and watercress, passed down through generations."
+    ]
+  },
+  {
+    "name": "New Zealand Cheese Rolls",
+    "cuisine": "new-zealander",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or white bread, crusts removed"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 42.5,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the cheese with the milk into a spreadable paste.",
+      "Spread onto the bread, roll up tightly, and toast in the buttered pan until golden on all sides."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 56.7,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 15,
+        "note": "finely grated, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the shredded cheese with the milk and grated onion (if using) into a soft, spreadable paste.",
+      "Spread generously onto flattened, crust-removed bread slices and roll up tightly into a cylinder.",
+      "Toast the rolls in the buttered pan over medium heat, turning to brown all sides, 5-6 minutes total until golden and the cheese has melted inside.",
+      "A beloved Southland/Otago regional specialty, especially popular at school galas and community events."
+    ]
+  },
+  {
+    "name": "New Zealand Sausage Sizzle",
+    "cuisine": "new-zealander",
+    "meal_type": "snack",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 100,
+        "note": "seasoned like sausage"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or bread slice"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Season and grill or pan-fry the pork until well browned and cooked through.",
+      "Saute the onion until soft and golden.",
+      "Serve the sausage on the bread, topped with the onion and a swipe of tomato sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 110,
+        "note": "seasoned like sausage"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "or ketchup, to serve"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Season the pork generously with garlic and pepper, mimicking a classic sausage flavor, and shape if needed.",
+      "Grill or pan-fry over medium-high heat until well browned outside and cooked through, 5-6 minutes per side.",
+      "Saute the onion in the oil until soft and golden, 6-8 minutes.",
+      "Serve the sausage on a folded slice of white bread, topped with the onions and a swipe of tomato sauce - the classic 'sausage sizzle' fundraiser staple found outside every hardware store and polling booth."
+    ]
+  },
+  {
+    "name": "New Zealand Pineapple Lumps Style Bites",
+    "cuisine": "new-zealander",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pineapple, canned, juice pack, solids and liquids",
+        "qty": 100,
+        "note": "chopped, patted dry"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Pat the chopped pineapple very dry.",
+      "Melt the cocoa powder with the sugar and a splash of water into a thick chocolate-like glaze.",
+      "Coat the pineapple pieces in the glaze and chill until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pineapple, canned, juice pack, solids and liquids",
+        "qty": 110,
+        "note": "chopped, patted very dry"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Pat the chopped pineapple pieces very dry with paper towels - excess moisture will keep the coating from setting.",
+      "Melt the butter with the cocoa powder, sugar, and a small splash of water over low heat into a thick, glossy chocolate glaze.",
+      "Toss the pineapple pieces in the glaze to coat evenly.",
+      "Chill on a lined tray until set, about 20-30 minutes - inspired by the iconic Kiwi lolly (candy) that pairs chocolate and pineapple flavor."
+    ]
+  },
+  {
+    "name": "New Zealand Pavlova",
+    "cuisine": "new-zealander",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.5,
+        "note": "whites only"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 2,
+        "note": "tbsp, whipped, as a cream stand-in"
+      },
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 60,
+        "note": "sliced, to top"
+      }
+    ],
+    "steps": [
+      "Whip the egg whites until foamy, then gradually add the sugar and whip until thick, glossy, and holding stiff peaks.",
+      "Spread into a round on a lined baking sheet and bake at 250F for 50-60 minutes until crisp outside, then turn off the oven and let cool inside.",
+      "Top with the whipped cream and sliced kiwifruit."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "whites only"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 3,
+        "note": "tbsp, whipped with a little sugar"
+      },
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 80,
+        "note": "sliced, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Whip the egg whites until foamy, then gradually add the sugar a spoonful at a time, whipping until thick, glossy, and holding stiff, shiny peaks.",
+      "Gently fold in the cornstarch and vinegar for the classic marshmallowy center.",
+      "Spread into a round mound on a parchment-lined sheet, smoothing the sides.",
+      "Bake at 250F (120C) for 55-65 minutes until crisp outside, then turn off the oven and let it cool completely inside with the door ajar.",
+      "Top with whipped cream and sliced kiwifruit just before serving - New Zealand and Australia have argued for decades over who invented this, but kiwifruit on top is a distinctly Kiwi touch."
+    ]
+  },
+  {
+    "name": "New Zealand Afghan Biscuits",
+    "cuisine": "new-zealander",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Post Corn Flakes Cereal",
+        "qty": 7.5,
+        "note": "crushed"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, then mix in the flour and cocoa powder.",
+      "Fold in the crushed corn flakes and shape into small rounds.",
+      "Bake at 350F for 12-15 minutes until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Post Corn Flakes Cereal",
+        "qty": 9,
+        "note": "crushed"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar together until light, then beat in the vanilla.",
+      "Sift in the flour and cocoa powder and mix until just combined into a soft dough.",
+      "Gently fold in the crushed corn flakes, keeping some texture rather than overmixing.",
+      "Shape into small rounds, flatten slightly, and place on a baking sheet.",
+      "Bake at 350F (175C) for 12-16 minutes until just set - a uniquely New Zealand chocolate biscuit named, somewhat mysteriously, after Afghanistan."
+    ]
+  },
+  {
+    "name": "New Zealand Louise Cake",
+    "cuisine": "new-zealander",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Kroger Strawberry Preserves",
+        "qty": 30,
+        "note": "or raspberry jam"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "white only, for topping"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, then work in the flour to form a shortbread base and press into a small pan.",
+      "Spread the jam over the base.",
+      "Whip the egg white with a little sugar and coconut, spread over the jam, and bake at 350F for 25-30 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Kroger Strawberry Preserves",
+        "qty": 40,
+        "note": "or raspberry jam"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.5,
+        "note": "whites only, for topping"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp, for the meringue topping"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar, then work in the flour until a soft shortbread dough forms. Press evenly into a small buttered pan.",
+      "Bake at 350F (175C) for 10-12 minutes until just set, then remove and spread the jam evenly over the warm base.",
+      "Whip the egg whites until foamy, then gradually add the sugar for the topping and whip until glossy, and fold in the shredded coconut.",
+      "Spread the coconut meringue over the jam layer.",
+      "Return to the oven and bake 15-18 more minutes until the topping is golden.",
+      "Cool completely before slicing - a classic New Zealand school-bake-sale favorite, layering shortbread, jam, and coconut meringue."
+    ]
+  },
+  {
+    "name": "New Zealand Kiwifruit Salsa",
+    "cuisine": "new-zealander",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "no-cook",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 15,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Combine the diced kiwifruit, onion, lime juice, and jalapeno.",
+      "Season with salt and let sit 10 minutes.",
+      "Serve alongside grilled fish or pork."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Kiwifruit, green, raw",
+        "qty": 110,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the diced kiwifruit, onion, jalapeno, and cilantro in a bowl.",
+      "Stir in the lime juice and season with salt.",
+      "Let sit 10-15 minutes so the flavors meld, then serve alongside grilled fish, pork, or chicken."
+    ]
+  },
+  {
+    "name": "New Zealand Mint Sauce",
+    "cuisine": "new-zealander",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "no-cook",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peppermint, fresh",
+        "qty": 4,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Combine the chopped mint, vinegar, and sugar.",
+      "Let sit 10 minutes before serving alongside roast lamb."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peppermint, fresh",
+        "qty": 4.8,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Finely chop the mint and combine with the vinegar, sugar, and oil in a small bowl.",
+      "Stir well and let sit at least 10-15 minutes so the sugar dissolves and the mint infuses the vinegar.",
+      "The classic accompaniment to roast lamb across New Zealand and the wider Commonwealth."
+    ]
+  },
+  {
+    "name": "New Zealand Honey Glaze",
+    "cuisine": "new-zealander",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the honey, mustard, and lime juice together until smooth.",
+      "Brush over roasted chicken, pork, or vegetables in the last few minutes of cooking."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 6.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the honey, mustard, lime juice, and black pepper together until smooth and well combined.",
+      "Brush generously over roasted chicken, pork, or root vegetables in the last 10-15 minutes of cooking so it caramelizes without burning.",
+      "New Zealand honey, especially manuka, is a prized export known for its distinctive character."
+    ]
+  }
+]

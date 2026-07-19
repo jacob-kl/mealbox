@@ -149,6 +149,12 @@ const COUNTRY_GROUPS = {
   // to color for it regardless of cuisine tagging.
   Canada: { group: 'canadian', cuisines: ['canadian'] },
   Australia: { group: 'australian', cuisines: ['australian'] },
+  'New Zealand': { group: 'new-zealander', cuisines: ['new-zealander'] },
+  Poland: { group: 'polish', cuisines: ['polish'] },
+  Portugal: { group: 'portuguese', cuisines: ['portuguese'] },
+  Ireland: { group: 'irish', cuisines: ['irish'] },
+  Sweden: { group: 'swedish', cuisines: ['swedish'] },
+  Switzerland: { group: 'swiss', cuisines: ['swiss'] },
 };
 
 // United States: every state belongs to one of three groups now - New
