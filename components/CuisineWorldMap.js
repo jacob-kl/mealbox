@@ -13,6 +13,27 @@ import { cuisineLabel } from '@/components/ui';
 // hovering New Mexico directly picks the small 'new-mexico' group, while
 // hovering any other state picks the big 'usa' group, which New Mexico
 // and the Southern states still belong to and light up as part of.
+// Some shapes (like Palestine's West Bank/Gaza polygon in this
+// low-resolution 110m dataset) are so small that the standard stroke
+// width visually consumes the entire fill area, making the fill color
+// unreadable no matter what it's set to. This computes an approximate
+// bounding-box diagonal from the path's coordinate pairs so genuinely
+// tiny shapes can get a proportionally thinner outline instead.
+function shapeBoundingDiagonal(d) {
+  const coords = d.match(/-?\d+\.?\d*/g);
+  if (!coords || coords.length < 4) return Infinity;
+  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+  for (let i = 0; i < coords.length - 1; i += 2) {
+    const x = parseFloat(coords[i]);
+    const y = parseFloat(coords[i + 1]);
+    if (x < minX) minX = x;
+    if (x > maxX) maxX = x;
+    if (y < minY) minY = y;
+    if (y > maxY) maxY = y;
+  }
+  return Math.sqrt((maxX - minX) ** 2 + (maxY - minY) ** 2);
+}
+
 function computeGroupSizes(shapes) {
   const sizes = {};
   for (const s of shapes) {
@@ -40,7 +61,6 @@ const GROUP_COLORS = {
   french: '#6C7FD1',
   spanish: '#B8863B',
   mediterranean: '#3FA7A0',
-  'middle-eastern': '#C99A4A',
   indian: '#CC5B2E',
   chinese: '#B23A55',
   japanese: '#D88FA3',
@@ -87,6 +107,13 @@ const GROUP_COLORS = {
   'papua-new-guinean': '#6B4A8A',
   greenland: '#A8D4E8',
   antarctica: '#3D5566',
+  lebanese: '#3D7A4A',
+  israeli: '#3D6FA8',
+  jordanian: '#B8622E',
+  turkish: '#C23B3B',
+  saudi: '#2D8659',
+  syrian: '#8A3838',
+  palestinian: '#7A4A8A',
 };
 
 /**
@@ -144,6 +171,9 @@ export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
           const transform = shape.translateX != null ? `translate(${shape.translateX},${shape.translateY})` : undefined;
 
           const fill = clickable ? GROUP_COLORS[activeGroup] || '#999999' : '#FFFFFF';
+          const baseStrokeWidth = shape.kind === 'state' ? 0.6 : 0.5;
+          const isTinyShape = shape.kind !== 'state' && shapeBoundingDiagonal(shape.d) < 6;
+          const strokeWidth = isTinyShape ? baseStrokeWidth * 0.15 : baseStrokeWidth;
 
           return (
             <path
@@ -152,7 +182,7 @@ export default function CuisineWorldMap({ onSelect, onEasterEgg }) {
               transform={transform}
               fill={fill}
               stroke={shape.kind === 'state' ? '#FFFFFF' : '#8FA3AD'}
-              strokeWidth={shape.kind === 'state' ? 0.6 : 0.5}
+              strokeWidth={strokeWidth}
               opacity={isDimmed ? 0.3 : 1}
               style={{ cursor: clickable ? 'pointer' : 'default', transition: 'opacity 0.15s' }}
               onMouseEnter={() => {

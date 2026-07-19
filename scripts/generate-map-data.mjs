@@ -42,12 +42,13 @@ const COUNTRY_GROUPS = {
   Croatia: { group: 'mediterranean', cuisines: ['mediterranean'] },
   Cyprus: { group: 'mediterranean', cuisines: ['mediterranean'] },
   // Middle Eastern cluster
-  Lebanon: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
-  Israel: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
-  Jordan: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
-  Turkey: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
-  'Saudi Arabia': { group: 'middle-eastern', cuisines: ['middle-eastern'] },
-  Syria: { group: 'middle-eastern', cuisines: ['middle-eastern'] },
+  Lebanon: { group: 'lebanese', cuisines: ['lebanese'] },
+  Israel: { group: 'israeli', cuisines: ['israeli'] },
+  Jordan: { group: 'jordanian', cuisines: ['jordanian'] },
+  Turkey: { group: 'turkish', cuisines: ['turkish'] },
+  'Saudi Arabia': { group: 'saudi', cuisines: ['saudi'] },
+  Syria: { group: 'syrian', cuisines: ['syrian'] },
+  Palestine: { group: 'palestinian', cuisines: ['palestinian'] },
   // Southeast Asian cluster - Taiwan intentionally excluded, since it isn't
   // part of Southeast Asia and lumping it in would repeat the same
   // inaccurate-labeling problem this rename was meant to fix.

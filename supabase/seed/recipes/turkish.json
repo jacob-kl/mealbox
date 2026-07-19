@@ -1,0 +1,1369 @@
+[
+  {
+    "name": "Turkish Menemen",
+    "cuisine": "turkish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Saute the bell pepper in the oil until softened.",
+      "Add the tomatoes and simmer 8-10 minutes until thickened.",
+      "Pour in the beaten eggs and stir gently until just set, like a soft scramble."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 14.2,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.6,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Saute the bell pepper in the oil over medium heat, 5-6 minutes, until softened.",
+      "Add the diced tomatoes and paprika, and simmer 10-12 minutes until thickened.",
+      "Pour in the beaten eggs and stir gently over low heat until just set and creamy, not fully scrambled.",
+      "Scatter with the feta and serve immediately with bread - menemen is a beloved Turkish breakfast, distinct from shakshuka in that the eggs are stirred through rather than left as whole poached pockets."
+    ]
+  },
+  {
+    "name": "Turkish Simit with Cheese",
+    "cuisine": "turkish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 28.3,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Make a simple dough from the flour and warm water, shaping into a ring.",
+      "Coat generously in the sesame seeds and bake at 400F for 18-22 minutes until golden.",
+      "Serve with the feta."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 35.4,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.3333333333333333,
+        "note": "for the glaze, mixed with water"
+      }
+    ],
+    "steps_detailed": [
+      "Make a soft, elastic dough from the flour, a pinch of salt, and warm water. Knead well and rest 20-30 minutes.",
+      "Shape into a ring and brush with a thin honey-water glaze, then coat generously in the sesame seeds.",
+      "Bake at 400F (200C) for 20-25 minutes until deeply golden and crisp on the outside.",
+      "Serve with the feta and tea - simit, a sesame-crusted bread ring, is sold on every street corner in Turkey, especially for breakfast."
+    ]
+  },
+  {
+    "name": "Turkish Kaymak with Honey",
+    "cuisine": "turkish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 150,
+        "note": "as a kaymak stand-in"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Spoon the yogurt into a bowl.",
+      "Drizzle with the honey and top with the walnuts.",
+      "Serve with warm bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 170,
+        "note": "as a kaymak stand-in"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 18,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Spoon the thick yogurt (standing in for kaymak, a rich clotted cream) into a bowl.",
+      "Drizzle generously with the honey and top with the walnuts.",
+      "Serve with warm bread - kaymak and honey is a classic, indulgent Turkish breakfast pairing."
+    ]
+  },
+  {
+    "name": "Turkish Lahmacun",
+    "cuisine": "turkish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      }
+    ],
+    "steps": [
+      "Make a simple dough from the flour and water, and roll out thin.",
+      "Mix the beef with the tomatoes and onion, and spread thinly over the dough.",
+      "Bake at 450F for 8-10 minutes until the edges are crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Make a soft dough from the flour, a pinch of salt, and water. Roll out very thin.",
+      "Mix the beef with the tomatoes, onion, garlic, and paprika, and spread in a very thin, even layer over the dough, right to the edges.",
+      "Bake at 450F (230C) for 8-12 minutes until the crust is crisp and the meat is cooked through.",
+      "Finish with a squeeze of lime, roll up, and eat - lahmacun, sometimes called Turkish pizza, is a beloved street food."
+    ]
+  },
+  {
+    "name": "Turkish Doner-Style Chicken",
+    "cuisine": "turkish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Marinate the chicken with the paprika, garlic, and lime juice for at least 20 minutes.",
+      "Pan-fry over high heat, 5-6 minutes, until well browned and cooked through.",
+      "Serve with flatbread and a yogurt sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.9,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the thinly sliced chicken with the paprika, garlic, lime juice, oil, and cinnamon for at least 30 minutes, or overnight.",
+      "Cook over high heat in a wide skillet, 6-8 minutes, stirring occasionally, until deeply browned and slightly crisp at the edges, mimicking the charred exterior of a doner spit.",
+      "Serve with warm flatbread, pickles, and a yogurt sauce - doner kebab is one of Turkey's most famous culinary exports."
+    ]
+  },
+  {
+    "name": "Turkish Manti",
+    "cuisine": "turkish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Make a simple dough from the flour and water, roll thin, and cut into small squares.",
+      "Fill each square with a small amount of the beef and pinch closed into tiny dumplings.",
+      "Boil until they float, about 8-10 minutes, and serve topped with the yogurt mixed with garlic."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, melted"
+      }
+    ],
+    "steps_detailed": [
+      "Make a firm, smooth dough from the flour, a pinch of salt, and water, and roll out as thin as possible.",
+      "Cut into small squares, place a tiny amount of the seasoned beef in the center of each, and pinch the corners together to seal into small dumplings.",
+      "Boil in batches for 8-12 minutes until they float and are cooked through.",
+      "Serve topped with the garlic yogurt, a drizzle of melted butter, and a dusting of paprika - manti, Turkey's tiny dumplings, are famously labor-intensive to make by hand."
+    ]
+  },
+  {
+    "name": "Turkish Pide",
+    "cuisine": "turkish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 28.3,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "cracked on top"
+      }
+    ],
+    "steps": [
+      "Make a soft dough from the flour and warm water, and shape into a long boat shape with raised edges.",
+      "Top with the beef and feta.",
+      "Bake at 450F for 12-15 minutes, cracking the egg on top for the last 3 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 35.4,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": "cracked on top"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp, melted, to finish"
+      }
+    ],
+    "steps_detailed": [
+      "Make a soft, elastic dough from the flour, a pinch of salt, and warm water. Rest 20-30 minutes.",
+      "Shape into a long, boat-like oval with raised, pinched edges to hold the filling.",
+      "Top with the beef, onion, and feta.",
+      "Bake at 450F (230C) for 12-16 minutes, cracking the egg into the center for the final 3-4 minutes of baking.",
+      "Brush the crust with melted butter as it comes out - pide, Turkey's answer to a boat-shaped flatbread pizza, comes in countless topping variations."
+    ]
+  },
+  {
+    "name": "Turkish Adana Kebab",
+    "cuisine": "turkish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Mix the lamb with the grated onion, paprika, and jalapeno.",
+      "Shape into flattened logs and grill or pan-fry, 4-5 minutes per side, until cooked through.",
+      "Serve with rice or flatbread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "grated"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.9,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the lamb thoroughly with the grated onion, paprika, jalapeno, and garlic until well combined and slightly sticky.",
+      "Shape into flattened logs around skewers if you have them.",
+      "Grill or pan-fry in the oil, 4-6 minutes per side, until well charred and cooked through.",
+      "Serve with rice or flatbread - Adana kebab, named for the southern Turkish city, is prized for its bold spice and char."
+    ]
+  },
+  {
+    "name": "Turkish Iskender Kebab",
+    "cuisine": "turkish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Pan-fry the beef until well browned and cooked through.",
+      "Simmer the tomatoes into a thick sauce and pour over the beef.",
+      "Top with the yogurt and melted butter, and serve over flatbread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Pan-fry the thinly sliced beef with the garlic over high heat, 5-7 minutes, until well browned.",
+      "Simmer the diced tomatoes separately, 8-10 minutes, until thickened into a rich sauce, then pour over the beef.",
+      "Top with the yogurt and melted browned butter, and serve over pieces of flatbread that soak up the sauce - Iskender kebab, named for its creator in Bursa, is one of Turkey's most indulgent dishes."
+    ]
+  },
+  {
+    "name": "Turkish Stuffed Peppers (Biber Dolmasi)",
+    "cuisine": "turkish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 180,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the raw rice with the beef and half the tomatoes.",
+      "Stuff into the pepper halves and place in a baking dish with the remaining tomatoes.",
+      "Bake at 375F, covered, for 40-45 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 200,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the raw rice with the beef, onion, cinnamon, and half the tomatoes.",
+      "Stuff generously into the pepper halves and arrange in a baking dish, pouring the remaining tomatoes around and over them.",
+      "Cover and bake at 375F (190C) for 42-50 minutes until the rice is tender and the peppers are soft.",
+      "A beloved Turkish stuffed vegetable dish, part of the wider dolma family found across the former Ottoman world."
+    ]
+  },
+  {
+    "name": "Turkish Kofte",
+    "cuisine": "turkish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix the beef with the grated onion, flour, and cinnamon.",
+      "Shape into small oval patties and grill or pan-fry, 4-5 minutes per side, until well browned and cooked through.",
+      "Serve with rice and a salad."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.6,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef thoroughly with the grated onion, flour, cinnamon, garlic, and paprika until well combined.",
+      "Shape into small oval patties.",
+      "Grill or pan-fry, 4-6 minutes per side, until well browned and cooked through.",
+      "Serve with rice and a simple salad - kofte, in countless regional and family variations, is one of Turkey's most everyday comfort dishes."
+    ]
+  },
+  {
+    "name": "Turkish Cacik",
+    "cuisine": "turkish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Mix the yogurt with the cucumber and garlic.",
+      "Season with salt and chill before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 90,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.16666666666666666,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, as a mint stand-in"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the yogurt with the finely diced cucumber, garlic, oil, and herbs.",
+      "Season with salt and chill at least 15 minutes before serving - cacik, a cooling yogurt-cucumber dish, is a Turkish table staple."
+    ]
+  },
+  {
+    "name": "Turkish Fried Eggplant with Yogurt",
+    "cuisine": "turkish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 180,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Fry the eggplant slices in the oil until golden, about 3-4 minutes per side.",
+      "Serve topped with the yogurt."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 200,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the eggplant slices in the oil over medium heat, 3-5 minutes per side, until deeply golden and soft.",
+      "Mix the yogurt with the garlic.",
+      "Serve the warm eggplant topped with the garlic yogurt - a simple, popular Turkish meze."
+    ]
+  },
+  {
+    "name": "Turkish Roasted Chickpeas (Leblebi)",
+    "cuisine": "turkish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.2,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Pat the chickpeas dry and toss with the oil and paprika.",
+      "Roast at 425F for 20-25 minutes, shaking occasionally, until crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.9,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Pat the chickpeas very dry with a towel.",
+      "Toss with the oil and paprika.",
+      "Roast at 425F (220C) for 22-28 minutes, shaking the pan occasionally, until deeply golden and crisp - leblebi, roasted chickpeas, are a classic Turkish snack, often paired with dried fruit and nuts."
+    ]
+  },
+  {
+    "name": "Turkish Borek",
+    "cuisine": "turkish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 42.5,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, melted"
+      }
+    ],
+    "steps": [
+      "Layer the phyllo with the melted butter.",
+      "Mix the feta with the egg and spread between layers, then roll or fold into a log or triangles.",
+      "Bake at 375F for 20-25 minutes until deeply golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 56.7,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.16666666666666666,
+        "note": "to top"
+      }
+    ],
+    "steps_detailed": [
+      "Layer sheets of phyllo, brushing each with melted butter.",
+      "Mix the feta with the beaten egg, spread over the layered phyllo, and roll tightly into a log, or fold into triangles.",
+      "Brush the top with more butter and scatter with sesame seeds.",
+      "Bake at 375F (190C) for 22-28 minutes until deeply golden and flaky - borek, in its many shapes and fillings, is a beloved Turkish savory pastry."
+    ]
+  },
+  {
+    "name": "Turkish Baklava",
+    "cuisine": "turkish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Layer the phyllo with the melted butter, scattering the chopped walnuts between layers.",
+      "Bake at 350F for 25-30 minutes until deeply golden.",
+      "Pour the honey over while still warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Layer sheets of phyllo in a small buttered dish, brushing each layer with melted butter, and scattering the chopped walnuts (mixed with the cinnamon) between every few layers.",
+      "Cut into diamond or square shapes before baking.",
+      "Bake at 350F (175C) for 28-35 minutes until deeply golden and crisp.",
+      "Pour the honey evenly over the hot baklava as soon as it comes out of the oven, letting it soak in as it cools - baklava, though claimed by several countries, is deeply woven into Turkish and former Ottoman dessert tradition."
+    ]
+  },
+  {
+    "name": "Turkish Apricot Dessert (Kayisi Tatlisi)",
+    "cuisine": "turkish",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Apricots, dried, sulfured, uncooked",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps": [
+      "Simmer the dried apricots in water until plump and soft, about 15 minutes.",
+      "Fill each with a little of the milk mixed with sugar.",
+      "Top with the walnuts and chill before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Apricots, dried, sulfured, uncooked",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 18,
+        "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the dried apricots in water to cover for 15-20 minutes until plump and very soft, then drain and let cool slightly.",
+      "Warm the milk with the sugar and rosewater until slightly thickened, about 3-4 minutes.",
+      "Split each apricot open and fill with a spoonful of the sweetened milk.",
+      "Top with the chopped walnuts and chill before serving - a beloved Turkish dessert built on the country's famous dried apricots."
+    ]
+  },
+  {
+    "name": "Turkish Delight (Lokum)",
+    "cuisine": "turkish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cornstarch",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Whisk the cornstarch with 3/4 cup water until smooth, then simmer, stirring constantly, until very thick, about 10 minutes.",
+      "Stir in the sugar and rosewater, and cook 5 more minutes.",
+      "Fold in the pistachios, pour into a small dish, and chill until firm before cutting into cubes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cornstarch",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 18,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.08333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornstarch with 3/4 cup water until completely smooth.",
+      "Simmer over medium-low heat, stirring constantly, 10-12 minutes until very thick and glossy.",
+      "Stir in the sugar, rosewater, and lime juice, and cook 5-6 more minutes, stirring, until it pulls together into a thick, gel-like mass.",
+      "Fold in the chopped pistachios, pour into a small lined dish, smoothing the top, and chill at least 2-3 hours until fully set.",
+      "Cut into cubes and dust with a little extra cornstarch or powdered sugar if desired - lokum, known internationally as Turkish delight, is one of Turkey's most famous sweets."
+    ]
+  },
+  {
+    "name": "Turkish Garlic Yogurt Sauce",
+    "cuisine": "turkish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the yogurt, garlic, and lime juice together.",
+      "Season with salt and serve alongside kebabs or manti."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.20833333333333334,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the yogurt, garlic, lime juice, and oil together until smooth.",
+      "Season with salt and chill briefly - this garlic yogurt is essential alongside Turkish manti and many kebabs."
+    ]
+  },
+  {
+    "name": "Turkish Ezme (Spicy Tomato Relish)",
+    "cuisine": "turkish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Combine the tomatoes, onion, jalapeno, and lime juice.",
+      "Season with salt and serve alongside grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Combine the tomatoes, onion, jalapeno, paprika, lime juice, and oil, mashing slightly to release the juices.",
+      "Season with salt and let sit 10-15 minutes before serving - ezme is a fiery, tangy relish served alongside kebabs across Turkey."
+    ]
+  }
+]

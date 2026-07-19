@@ -1,0 +1,1363 @@
+[
+  {
+    "name": "Jordanian Ful with Olive Oil",
+    "cuisine": "jordanian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Kidney beans",
+        "qty": 200,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Warm the beans with a splash of their liquid.",
+      "Mash lightly and stir in the lime juice and garlic.",
+      "Drizzle generously with the oil and serve with warm bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Kidney beans",
+        "qty": 220,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, as a parsley stand-in"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the beans with a splash of their liquid over medium-low heat, 5-6 minutes.",
+      "Mash lightly, leaving some texture, and stir in the lime juice and garlic.",
+      "Top with the diced tomatoes and cilantro, and drizzle generously with olive oil.",
+      "Ful is a fixture of the Jordanian breakfast table, eaten with warm khubz bread for scooping."
+    ]
+  },
+  {
+    "name": "Jordanian Labneh Bil Zeit",
+    "cuisine": "jordanian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 150,
+        "note": "strained overnight, as a labneh stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Strain the yogurt overnight to thicken it into labneh.",
+      "Spread onto a plate, drizzle with the oil, and sprinkle with za'atar.",
+      "Serve with warm bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 170,
+        "note": "strained overnight, as a labneh stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olives, ripe, canned (small-extra large)",
+        "qty": 15,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Strain the yogurt in a cheesecloth-lined sieve overnight in the fridge until thick and spreadable.",
+      "Spread onto a plate, drizzle generously with the oil, and sprinkle with za'atar.",
+      "Serve with olives and warm bread - labneh with olive oil is one of the most common Jordanian breakfasts."
+    ]
+  },
+  {
+    "name": "Jordanian Eggs with Sumac Onions",
+    "cuisine": "jordanian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Saute the onion in the oil until softened and lightly golden, about 6-8 minutes.",
+      "Toss with the sumac.",
+      "Fry the eggs separately and serve together with warm bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Sumac",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion in the oil over medium heat, 8-10 minutes, until softened and lightly golden.",
+      "Toss with the sumac off the heat, for its distinctive tangy, lemony flavor.",
+      "Fry the eggs in the same pan to your liking, and serve together with warm bread - a simple, common Jordanian breakfast."
+    ]
+  },
+  {
+    "name": "Jordanian Maqluba",
+    "cuisine": "jordanian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggplant",
+        "qty": 100,
+        "note": "sliced, fried"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Fry the eggplant slices until golden.",
+      "Simmer the chicken with the turmeric until cooked through, reserving the broth.",
+      "Layer the eggplant, chicken, and rice in a pot, add the broth, and simmer, covered, 20-25 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggplant",
+        "qty": 110,
+        "note": "sliced, fried"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the eggplant slices in the oil until deeply golden, 3-4 minutes per side, and set aside.",
+      "Simmer the chicken with the onion and turmeric in 2 cups water for 20-25 minutes until cooked through, reserving the broth.",
+      "Layer the fried eggplant, chicken, and rice in a pot, pour the reserved broth over, cover, and simmer 22-28 minutes until the rice is tender and the liquid is absorbed.",
+      "To serve traditionally, invert the pot onto a large plate so the layers flip upside down - maqluba, meaning 'upside-down,' is one of Jordan's most celebrated dishes."
+    ]
+  },
+  {
+    "name": "Jordanian Fattet Hummus",
+    "cuisine": "jordanian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "toasted, torn into pieces"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Warm the chickpeas.",
+      "Mix the yogurt with the garlic.",
+      "Layer the toasted bread pieces, warm chickpeas, and yogurt in a bowl."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Toast pieces of bread until crisp and golden, then break into small pieces and layer in a wide, shallow bowl.",
+      "Warm the chickpeas with a splash of their liquid.",
+      "Mix the yogurt with the garlic and a pinch of salt.",
+      "Layer the warm chickpeas over the bread, top with the garlic yogurt, drizzle with the oil, and scatter with pistachios - fatteh, layered bread-and-yogurt dishes, are a beloved Jordanian comfort food."
+    ]
+  },
+  {
+    "name": "Jordanian Freekeh Soup",
+    "cuisine": "jordanian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 40,
+        "note": "as a freekeh stand-in"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion.",
+      "Add the bulgur and broth, and simmer 20-25 minutes until the grain is tender.",
+      "Serve hot."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 45,
+        "note": "as a freekeh stand-in"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, garlic, and cinnamon over medium-high heat, 8-10 minutes.",
+      "Add the bulgur (standing in for freekeh, smoky roasted green wheat) and chicken broth.",
+      "Simmer 22-28 minutes until the grain is tender and the soup has thickened slightly.",
+      "A warming, smoky Jordanian soup, especially popular in cooler months."
+    ]
+  },
+  {
+    "name": "Jordanian Shish Barak",
+    "cuisine": "jordanian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the dumplings"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Make a simple dough from the flour and water, and cut into small rounds.",
+      "Brown the beef and fill each round, pinching closed into small dumplings.",
+      "Simmer the dumplings in the yogurt (thinned with a little water and the garlic) for 12-15 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": "for the dumplings"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple, firm dough from the flour, a pinch of salt, and water, and roll out thin, cutting into small rounds.",
+      "Brown the beef with the onion, then fill each round with a small spoonful and pinch closed into little dumplings.",
+      "Boil the dumplings briefly until they float, then transfer to a pot of the yogurt (thinned with a splash of water and simmered gently with the garlic so it doesn't split) and simmer 12-18 minutes.",
+      "Top with pistachios and serve - shish barak, meat dumplings in warm yogurt sauce, is a treasured Jordanian winter comfort food."
+    ]
+  },
+  {
+    "name": "Jordanian Mansaf",
+    "cuisine": "jordanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a small roast, or use lamb pieces"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 15,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps": [
+      "Simmer the lamb until very tender, about 1-1.25 hours.",
+      "Warm the yogurt gently with a little of the cooking liquid.",
+      "Serve the lamb and yogurt sauce over the rice, topped with the pistachios."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 240,
+        "note": "formed into a small roast, or use lamb pieces"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 18,
+        "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the lamb with the garlic and bay leaf in water to cover for 1-1.5 hours until completely tender, reserving the cooking liquid.",
+      "Warm the yogurt gently with a splash of the reserved cooking liquid, stirring constantly over low heat so it doesn't split - this approximates jameed, the dried fermented yogurt traditionally used, which gives mansaf its distinctive tang.",
+      "Spread the rice on a platter, top with the lamb, and pour the warm yogurt sauce generously over everything.",
+      "Scatter with the pistachios - mansaf is Jordan's national dish, traditionally eaten by hand at large family and community gatherings."
+    ]
+  },
+  {
+    "name": "Jordanian Zarb-Style Roasted Chicken",
+    "cuisine": "jordanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Season the chicken with the turmeric and garlic.",
+      "Roast at 425F with the onion for 30-35 minutes until well browned and cooked through.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the chicken generously with the turmeric, garlic, cinnamon, and oil, and let marinate at least 20 minutes.",
+      "Roast at 425F (220C) with the onion chunks for 32-38 minutes until deeply browned and cooked through.",
+      "Serve with rice - this echoes zarb, a traditional Bedouin method of slow-roasting meat in an underground sand oven in Jordan's desert regions like Wadi Rum."
+    ]
+  },
+  {
+    "name": "Jordanian Beef and Freekeh Stew",
+    "cuisine": "jordanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 40,
+        "note": "as a freekeh stand-in"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the bulgur and broth, and simmer, covered, 1-1.25 hours until the beef is tender.",
+      "Serve hot."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 45,
+        "note": "as a freekeh stand-in"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, garlic, and cinnamon over medium-high heat, 8-10 minutes.",
+      "Add the bulgur and beef broth.",
+      "Cover and simmer over low heat 1-1.5 hours until the beef is completely tender and the grain is soft.",
+      "Serve hot - a hearty, smoky Jordanian stew."
+    ]
+  },
+  {
+    "name": "Jordanian Kofta Bil Sanieh (Baked Kofta)",
+    "cuisine": "jordanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 130,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the beef with the grated onion and shape into a flat layer in a baking dish.",
+      "Top with the sliced potato and diced tomatoes.",
+      "Bake at 400F for 30-35 minutes until the beef is cooked through and the potato is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, as a parsley stand-in"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef thoroughly with the grated onion, garlic, and herbs, and press into an even layer in a baking dish.",
+      "Layer the sliced potato over the meat, then top with the diced tomatoes.",
+      "Bake at 400F (200C) for 32-40 minutes until the beef is cooked through and the potato is tender and lightly browned.",
+      "A comforting, simple baked Jordanian family dinner."
+    ]
+  },
+  {
+    "name": "Jordanian Hummus",
+    "cuisine": "jordanian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 22.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Blend the chickpeas, tahini, lime juice, and garlic with a splash of water until smooth.",
+      "Drizzle with olive oil and serve with warm bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, tahini, lime juice, garlic, and oil with a splash of water until very smooth.",
+      "Spread onto a plate, drizzle with more oil, and serve with warm bread - hummus is central to Jordanian mezze spreads."
+    ]
+  },
+  {
+    "name": "Jordanian Falafel",
+    "cuisine": "jordanian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped, as a parsley stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Blend the chickpeas, garlic, and herbs into a coarse, moldable paste.",
+      "Shape into small balls and fry until deeply golden, about 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.3,
+        "note": "cup, chopped, as a parsley stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, garlic, herbs, flour, and turmeric in a food processor into a coarse, moldable paste.",
+      "Shape into small balls or patties.",
+      "Fry in the oil over medium heat, 3-5 minutes per side, until deeply golden and crisp - falafel is a beloved Jordanian street food staple."
+    ]
+  },
+  {
+    "name": "Jordanian Kunafa Cheese Bites",
+    "cuisine": "jordanian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 42.5,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp, to serve"
+      }
+    ],
+    "steps": [
+      "Layer the phyllo with the melted butter, fill with the feta, and fold into small packets.",
+      "Bake at 375F for 15-18 minutes until golden.",
+      "Drizzle with honey before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 56.7,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Layer sheets of phyllo, brushing each with melted butter, then fill with the crumbled feta and fold into small packets, sealing well.",
+      "Bake at 375F (190C) for 16-20 minutes until deeply golden and crisp.",
+      "Drizzle with honey before serving - a simplified nod to kunafa, a beloved sweet-savory Levantine treat with especially strong ties to Jordan and Palestine."
+    ]
+  },
+  {
+    "name": "Jordanian Fried Cauliflower",
+    "cuisine": "jordanian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "chunked, as a cauliflower stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 15,
+        "note": "for the sauce"
+      }
+    ],
+    "steps": [
+      "Fry the cabbage chunks in the oil until deeply golden, about 6-8 minutes.",
+      "Whisk the tahini with a splash of water and lime juice for a dipping sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 170,
+        "note": "chunked, as a cauliflower stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 18.8,
+        "note": "for the sauce"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cabbage chunks (standing in for cauliflower florets) in the oil over medium heat, 8-10 minutes, until deeply golden and crisp at the edges.",
+      "Whisk the tahini with the lime juice, garlic, and a splash of water into a smooth dipping sauce.",
+      "Serve hot with the sauce alongside - fried cauliflower with tahini is a very popular Jordanian mezze dish."
+    ]
+  },
+  {
+    "name": "Jordanian Knafeh",
+    "cuisine": "jordanian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 40,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 56.7,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the shredded phyllo with the melted butter.",
+      "Press half into a small pan, top with the feta, then the remaining phyllo.",
+      "Bake at 375F for 20-25 minutes until golden, then drizzle with the honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 45,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 70.9,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 15,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the shredded phyllo thoroughly with the melted butter until evenly coated.",
+      "Press half into a small buttered pan, top with the crumbled feta, then cover with the remaining phyllo, pressing down firmly.",
+      "Bake at 375F (190C) for 22-28 minutes until deeply golden and crisp on top.",
+      "Drizzle generously with the honey and scatter with pistachios while still warm - knafeh is one of the most beloved desserts across Jordan and the wider Levant."
+    ]
+  },
+  {
+    "name": "Jordanian Date Cookies (Maamoul)",
+    "cuisine": "jordanian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 40,
+        "note": "pitted, mashed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour, butter, and sugar into a soft, crumbly dough.",
+      "Flatten portions, fill with the mashed dates, and reshape into small rounds.",
+      "Bake at 350F for 18-22 minutes until just set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 45,
+        "note": "pitted, mashed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, butter, and sugar into a soft, slightly crumbly dough.",
+      "Flatten a portion, fill with the mashed dates, and reshape around it, sealing completely.",
+      "Bake at 350F (175C) for 18-24 minutes until just set and very pale - a beloved Jordanian holiday cookie."
+    ]
+  },
+  {
+    "name": "Jordanian Halawa",
+    "cuisine": "jordanian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Warm the sugar with a splash of water until it forms a thick syrup.",
+      "Stir the syrup into the tahini until it thickens and becomes fudge-like.",
+      "Fold in the pistachios, press into a small dish, and chill before slicing."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 52.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 18,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the sugar with a splash of water over medium heat until it dissolves and forms a thick, slightly sticky syrup, about 3-4 minutes.",
+      "Remove from heat and stir in the tahini and vanilla vigorously until the mixture thickens and turns pale and fudge-like - it will seize up quickly.",
+      "Fold in the chopped pistachios, press firmly into a small lined dish, and chill at least 1 hour until firm.",
+      "Slice into small pieces - halawa (halva), a dense tahini-based sweet, is beloved across Jordan and the broader Levant."
+    ]
+  },
+  {
+    "name": "Jordanian Toum",
+    "cuisine": "jordanian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Garlic clove",
+        "qty": 4,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend the garlic with the lime juice, then slowly drizzle in the oil while blending until thick.",
+      "Serve alongside grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Garlic clove",
+        "qty": 5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the garlic with a little of the lime juice until very finely pureed.",
+      "With the blender running, slowly drizzle in the oil, alternating with the remaining lime juice, until it emulsifies into a thick, creamy sauce.",
+      "Serve alongside grilled chicken, lamb, or vegetables."
+    ]
+  },
+  {
+    "name": "Jordanian Yogurt Garlic Sauce",
+    "cuisine": "jordanian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the yogurt, garlic, and lime juice together.",
+      "Season with salt and serve alongside grilled meats or rice dishes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped, as a mint stand-in"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the yogurt, garlic, lime juice, and herbs together until smooth.",
+      "Season with salt and chill briefly before serving - a cooling counterpart to Jordan's richer meat dishes like mansaf and maqluba."
+    ]
+  }
+]
