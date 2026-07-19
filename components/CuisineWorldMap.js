@@ -67,6 +67,11 @@ const GROUP_COLORS = {
   bolivian: '#D68C45',
   colombian: '#E0785A',
   ecuadorian: '#7A93D4',
+  venezuelan: '#B83A3A',
+  guyanese: '#3FA37E',
+  surinamese: '#9B5FA8',
+  canadian: '#D14545',
+  australian: '#C77D3F',
 };
 
 /**

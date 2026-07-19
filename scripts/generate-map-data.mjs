@@ -139,6 +139,16 @@ const COUNTRY_GROUPS = {
   Bolivia: { group: 'bolivian', cuisines: ['bolivian'] },
   Colombia: { group: 'colombian', cuisines: ['colombian'] },
   Ecuador: { group: 'ecuadorian', cuisines: ['ecuadorian'] },
+  Venezuela: { group: 'venezuelan', cuisines: ['venezuelan'] },
+  Guyana: { group: 'guyanese', cuisines: ['guyanese'] },
+  Suriname: { group: 'surinamese', cuisines: ['surinamese'] },
+  // French Guiana has no recipes registered to a map group - it isn't a
+  // separate feature in this world-atlas dataset at all (it's absorbed
+  // into France's polygon, since it's legally a French overseas
+  // territory rather than an independent country), so there's no shape
+  // to color for it regardless of cuisine tagging.
+  Canada: { group: 'canadian', cuisines: ['canadian'] },
+  Australia: { group: 'australian', cuisines: ['australian'] },
 };
 
 // United States: every state belongs to one of three groups now - New

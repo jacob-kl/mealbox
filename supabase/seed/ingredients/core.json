@@ -1299,6 +1299,27 @@
     ]
   },
   {
+    "name": "Cassareep",
+    "serving_qty": 1,
+    "serving_unit": "tbsp",
+    "serving_label": "per 1 tbsp",
+    "cal": 45,
+    "protein": 0.2,
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 0,
+    "micros": {
+      "iron": 0.5,
+      "potassium": 50
+    },
+    "sub_group": "sweetener_liquid",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
     "name": "Cassava",
     "serving_qty": 100,
     "serving_unit": "g_raw",
@@ -7427,6 +7448,27 @@
     "micros": {},
     "sub_group": "extract_flavoring",
     "dietary_tags": [],
+    "allergens": []
+  },
+  {
+    "name": "Vegemite",
+    "serving_qty": 1,
+    "serving_unit": "tsp",
+    "serving_label": "per 1 tsp (5g)",
+    "cal": 9,
+    "protein": 1.1,
+    "carbs": 0.9,
+    "fat": 0.1,
+    "fiber": 0.2,
+    "micros": {
+      "sodium": 370,
+      "folate": 50
+    },
+    "sub_group": "spread_condiment",
+    "dietary_tags": [
+      "vegan",
+      "gluten-free"
+    ],
     "allergens": []
   },
   {

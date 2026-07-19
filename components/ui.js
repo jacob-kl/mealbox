@@ -105,11 +105,12 @@ export function NavBar({ active }) {
 }
 
 export const CUISINES = [
-  'american', 'argentinian', 'bolivian', 'brazilian', 'caribbean', 'central-african', 'central-american',
-  'chilean', 'chinese', 'colombian', 'east-african', 'ecuadorian', 'french', 'german', 'hawaiian', 'indian',
-  'italian', 'japanese', 'korean', 'mediterranean', 'mexican', 'middle-eastern', 'mongolian', 'new-mexico',
-  'north-african', 'paraguayan', 'peruvian', 'russian', 'south-african', 'southeast-asian', 'southern',
-  'spanish', 'thai', 'uruguayan', 'vietnamese', 'west-african',
+  'american', 'argentinian', 'australian', 'bolivian', 'brazilian', 'canadian', 'caribbean', 'central-african',
+  'central-american', 'chilean', 'chinese', 'colombian', 'east-african', 'ecuadorian', 'french', 'german',
+  'guyanese', 'hawaiian', 'indian', 'italian', 'japanese', 'korean', 'mediterranean', 'mexican', 'middle-eastern',
+  'mongolian', 'new-mexico', 'north-african', 'paraguayan', 'peruvian', 'russian', 'south-african',
+  'southeast-asian', 'southern', 'spanish', 'surinamese', 'thai', 'uruguayan', 'venezuelan', 'vietnamese',
+  'west-african',
 ];
 
 export const CUISINE_LABELS = {
@@ -125,6 +126,11 @@ export const CUISINE_LABELS = {
   bolivian: 'Bolivian',
   colombian: 'Colombian',
   ecuadorian: 'Ecuadorian',
+  venezuelan: 'Venezuelan',
+  guyanese: 'Guyanese',
+  surinamese: 'Surinamese',
+  canadian: 'Canadian',
+  australian: 'Australian',
   chinese: 'Chinese',
   'east-african': 'East African',
   french: 'French',

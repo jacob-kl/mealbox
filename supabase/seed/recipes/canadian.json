@@ -1,0 +1,1442 @@
+[
+  {
+    "name": "Canadian Bacon and Eggs",
+    "cuisine": "canadian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Fry the Canadian bacon in a dry pan until lightly browned, 2 minutes per side.",
+      "Fry the eggs in the butter to your liking.",
+      "Serve together, classic diner-style."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 84,
+        "note": "1.5 servings"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the Canadian bacon in a dry skillet over medium heat, 2-3 minutes per side, until lightly browned and warmed through.",
+      "In the same pan, melt the butter and fry the eggs to your preferred doneness, seasoning with black pepper.",
+      "Serve together - Canadian bacon (a lean, back-cut ham-style bacon) is a distinct breakfast staple from the American strip bacon most people know."
+    ]
+  },
+  {
+    "name": "Canadian Maple Pancakes",
+    "cuisine": "canadian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 30,
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Whisk the flour, egg, and milk into a smooth batter.",
+      "Cook spoonfuls on a hot griddle, flipping once bubbles form on the surface, about 2 minutes per side.",
+      "Serve warm, drenched in maple syrup."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 45,
+        "note": "to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk together the flour, baking powder, and sugar in a bowl.",
+      "In another bowl, whisk the egg, milk, and melted butter, then pour into the dry ingredients and stir just until combined - a few lumps are fine.",
+      "Cook 1/4-cup portions on a hot, lightly greased griddle, flipping once bubbles form across the surface and the edges look set, about 2-3 minutes per side.",
+      "Stack and serve warm, with plenty of maple syrup poured over - real maple syrup, ideally, given how central it is to Canadian food culture."
+    ]
+  },
+  {
+    "name": "Canadian Montreal Bagel with Cream Cheese",
+    "cuisine": "canadian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or bagel"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "qty": 42.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.5,
+        "note": "tbsp, for the dough, or to drizzle"
+      }
+    ],
+    "steps": [
+      "Toast the bagel until golden.",
+      "Spread generously with the cream cheese.",
+      "Drizzle with a little honey, echoing the slightly sweet, wood-fired Montreal bagel style."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "qty": 56.7,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.3333333333333333,
+        "note": "for topping"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the bagel until golden and slightly crisp at the edges.",
+      "Spread generously with the cream cheese.",
+      "Montreal-style bagels are boiled in honey-sweetened water and baked in a wood-fired oven, giving them a denser, sweeter character than New York bagels - a drizzle of honey and a scatter of sesame seeds nods to that tradition."
+    ]
+  },
+  {
+    "name": "Canadian Poutine",
+    "cuisine": "canadian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "cut into fries"
+      },
+      {
+        "ingredient": "Kroger Cheddar Cheese Curds, Cheddar",
+        "qty": 56,
+        "note": "2 servings"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Cut the potato into fries and fry in the oil until golden and crisp, about 10-12 minutes.",
+      "Warm the beef broth with a little flour whisked in to thicken it into a gravy.",
+      "Pile the fries on a plate, scatter with the cheese curds, and pour the hot gravy over so the curds start to melt."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 220,
+        "note": "cut into fries"
+      },
+      {
+        "ingredient": "Kroger Cheddar Cheese Curds, Cheddar",
+        "qty": 84,
+        "note": "3 servings"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cut the potatoes into fries and fry in batches in the oil over medium-high heat until golden and crisp, about 10-14 minutes total.",
+      "Meanwhile, melt the butter in a small saucepan, whisk in the flour, and cook 1 minute, then gradually whisk in the beef broth and black pepper, simmering 3-4 minutes until it thickens into a light gravy.",
+      "Pile the hot fries onto a plate and scatter the cheese curds generously over them.",
+      "Pour the hot gravy over the top immediately so the curds begin to soften and squeak - the defining Quebec dish, at its best eaten right away."
+    ]
+  },
+  {
+    "name": "Canadian Split Pea Soup",
+    "cuisine": "canadian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Split peas (dry)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Saute the bacon, carrot, and onion together until fragrant.",
+      "Add the split peas and 3 cups water, and simmer 35-40 minutes until the peas are completely soft.",
+      "Blend partially or leave chunky, and season well."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Split peas (dry)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 45,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the diced Canadian bacon, carrot, and onion together in a pot for 6-8 minutes until fragrant and lightly browned.",
+      "Add the split peas, bay leaf, oregano, and 3.5 cups water. Bring to a simmer.",
+      "Cook, partially covered, 35-45 minutes, stirring occasionally, until the peas are completely soft and the soup has thickened.",
+      "Remove the bay leaf, and either blend partially with an immersion blender for a smoother texture, or leave it rustic and chunky - a Quebec tradition with French roots."
+    ]
+  },
+  {
+    "name": "Canadian Montreal Smoked Meat Sandwich",
+    "cuisine": "canadian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 150,
+        "note": "thinly sliced after cooking"
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "or rye bread"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Season the beef well and simmer or braise until very tender, then slice thin.",
+      "Warm the bread.",
+      "Pile the sliced beef onto the bread with a dash of Worcestershire sauce for depth, and serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 170,
+        "note": "thinly sliced after cooking"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 5.0,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Season the beef generously with black pepper and cumin (mimicking the classic spice-crusted exterior), then simmer or braise until completely fork-tender, 2.5-3 hours.",
+      "Let the beef rest, then slice it very thin against the grain.",
+      "Warm the rye bread and spread with a little mustard.",
+      "Pile the warm sliced beef generously onto the bread, adding a dash of Worcestershire sauce - the Montreal deli classic, always served on rye with mustard."
+    ]
+  },
+  {
+    "name": "Canadian Perogies",
+    "cuisine": "canadian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz, crumbled"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Make a simple dough from the flour, a pinch of salt, and warm water.",
+      "Mix the mashed potato with the cheese for the filling.",
+      "Roll the dough thin, cut into rounds, fill, fold, and boil for 4-5 minutes until they float, then finish in the butter in a hot pan."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz, crumbled"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Daisy sour cream",
+        "qty": 1,
+        "note": "tbsp, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Make a smooth dough from the flour, egg, a pinch of salt, and warm water, kneading until elastic. Rest 20 minutes.",
+      "Saute half the onion until soft and mix with the mashed potato and crumbled cheese for the filling.",
+      "Roll the dough thin and cut into rounds. Place a spoonful of filling on each, fold over, and pinch the edges firmly to seal.",
+      "Boil the perogies in batches for 4-5 minutes until they float to the surface, then drain.",
+      "Fry the boiled perogies in the butter with the remaining onion until golden on both sides, and serve with a dollop of sour cream - a Prairie Canadian staple with Ukrainian and Polish roots."
+    ]
+  },
+  {
+    "name": "Canadian Tourtiere",
+    "cuisine": "canadian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 70,
+        "note": "ground or finely chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 90,
+        "note": "for the crust"
+      }
+    ],
+    "steps": [
+      "Brown the beef and pork together with the onion, seasoning well with warm spices like cinnamon and cloves.",
+      "Make a simple pastry crust from the flour, butter, and water.",
+      "Fill the crust with the meat mixture, top with more pastry, and bake at 375F for 35-40 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 80,
+        "note": "ground or finely chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 60,
+        "note": "boiled, diced"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 100,
+        "note": "for the crust"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 3,
+        "note": "tbsp, for the crust"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef and pork together with the onion and garlic, seasoning with the cumin and cinnamon - the warm spice blend is what gives tourtiere its distinctive character.",
+      "Stir in the diced potato and a splash of water, and simmer 8-10 minutes until well combined and slightly thickened. Let cool.",
+      "Make a simple pastry dough from the flour, butter, a pinch of salt, and cold water. Divide in half and roll into two rounds.",
+      "Line a small pie dish with one round, fill with the cooled meat mixture, and top with the second round, crimping the edges to seal and cutting a few vents.",
+      "Bake at 375F (190C) for 35-45 minutes until the crust is golden brown - a Quebec Christmas Eve tradition."
+    ]
+  },
+  {
+    "name": "Canadian Maple Glazed Salmon",
+    "cuisine": "canadian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, salmon, Atlantic, wild, raw",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Season the salmon and sear in the butter over medium-high heat, 3-4 minutes per side.",
+      "Drizzle with the maple syrup in the last minute of cooking, letting it caramelize slightly.",
+      "Serve immediately."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, salmon, Atlantic, wild, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the salmon with black pepper and sear skin-side down in the butter over medium-high heat, 4-5 minutes, until crisp.",
+      "Flip and cook 2-3 more minutes, then drizzle the maple syrup and lime juice over the fish, letting it bubble and glaze the surface for the last minute.",
+      "Spoon any extra glaze from the pan over the fish before serving - a quintessential Canadian pairing of Atlantic salmon and maple."
+    ]
+  },
+  {
+    "name": "Canadian Jiggs Dinner",
+    "cuisine": "canadian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, or salt beef if available"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 80,
+        "note": "wedged"
+      }
+    ],
+    "steps": [
+      "Simmer the bacon in water 15 minutes.",
+      "Add the potato, carrot, and cabbage, and simmer 20-25 minutes until all the vegetables are tender.",
+      "Serve everything together in wide bowls."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 84,
+        "note": "1.5 servings, or salt beef if available"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 70,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 90,
+        "note": "wedged"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "quartered"
+      },
+      {
+        "ingredient": "Split peas (dry)",
+        "qty": 40,
+        "note": "for pease pudding, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the bacon (traditionally salt beef, soaked overnight to reduce saltiness) in water for 15-20 minutes.",
+      "Add the potato, carrot, onion, and split peas if using, and simmer 15 minutes.",
+      "Add the cabbage wedges and continue simmering 10-15 minutes until all the vegetables are tender.",
+      "Serve everything together in wide bowls with some of the cooking broth - a Newfoundland Sunday dinner tradition, named for the way all the ingredients 'jig' together in the pot."
+    ]
+  },
+  {
+    "name": "Canadian Baked Beans",
+    "cuisine": "canadian",
+    "meal_type": "dinner",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Kidney beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Saute the bacon and onion together until fragrant.",
+      "Add the beans and maple syrup with a splash of water, and simmer 20-25 minutes until thickened.",
+      "Season and serve hot."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Kidney beans",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Smithfield Canadian Bacon",
+        "qty": 56,
+        "note": "1 serving, diced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the diced Canadian bacon and onion together for 5-6 minutes until fragrant and lightly browned.",
+      "Add the beans, maple syrup, tomato paste, oregano, and 1/2 cup water. Bring to a simmer.",
+      "Cook 25-30 minutes, stirring occasionally, until thickened to a rich, glossy consistency.",
+      "Maple syrup stands in beautifully for the molasses used in Maritime Canadian baked beans - serve hot as a hearty side or light dinner."
+    ]
+  },
+  {
+    "name": "Canadian Beavertails",
+    "cuisine": "canadian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp, with cinnamon, to top"
+      }
+    ],
+    "steps": [
+      "Mix the flour, egg, a pinch of salt, and a little milk or water into a soft dough.",
+      "Stretch each portion into a flat, elongated oval shape.",
+      "Fry in the oil until golden on both sides, then dust with the cinnamon sugar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp, with cinnamon, to top"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, baking powder, egg, a pinch of salt, and enough milk or water to form a soft, slightly sticky dough. Rest 15 minutes.",
+      "Divide into portions and stretch each by hand into a flat, elongated oval, mimicking the shape of a beaver's tail.",
+      "Heat the oil in a skillet over medium heat and fry each piece 1-2 minutes per side until puffed and golden.",
+      "Drain briefly and immediately dust generously with the cinnamon sugar while still warm and slightly sticky, so it clings well.",
+      "A beloved Ottawa and Quebec fairground treat."
+    ]
+  },
+  {
+    "name": "Canadian Ketchup-Style Spiced Potato Chips",
+    "cuisine": "canadian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "very thinly sliced"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Slice the potato as thin as possible and fry in the oil until crisp, in batches, about 3-4 minutes per batch.",
+      "Toss the hot chips with a small amount of tomato paste mixed with a pinch of sugar and salt for the distinctive tangy-sweet Canadian ketchup chip flavor.",
+      "Cool slightly before eating - they'll crisp further as they cool."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "very thinly sliced"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.16666666666666666,
+        "note": ""
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Slice the potatoes as thin and evenly as possible (a mandoline helps) and pat dry thoroughly.",
+      "Fry in batches in the oil over medium heat, 3-5 minutes per batch, until deeply golden and crisp, draining well between batches.",
+      "Whisk the tomato paste, sugar, vinegar, and a good pinch of salt into a thin, tangy glaze.",
+      "Toss the hot, freshly fried chips with the glaze while still warm so it clings, mimicking the iconic ketchup-flavored potato chips found across Canada."
+    ]
+  },
+  {
+    "name": "Canadian Sausage Roll",
+    "cuisine": "canadian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.5,
+        "note": "tbsp, for the pastry"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Season the ground beef with the oregano and shape into a log.",
+      "Wrap in a simple butter pastry made from the flour, butter, and cold water.",
+      "Bake at 375F for 25-30 minutes until the pastry is golden and the meat is cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, for the pastry"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.25,
+        "note": "for egg wash"
+      }
+    ],
+    "steps_detailed": [
+      "Season the ground beef well with the oregano and black pepper, and shape into a log about 1.5 inches thick.",
+      "Make a simple pastry from the flour, butter, a pinch of salt, and cold water, rolling it into a rectangle.",
+      "Wrap the pastry around the meat log, sealing the seam and ends well.",
+      "Brush with the beaten egg and bake at 375F (190C) for 28-32 minutes until the pastry is deeply golden and the meat is cooked through.",
+      "Slice and serve warm."
+    ]
+  },
+  {
+    "name": "Canadian Butter Tarts",
+    "cuisine": "canadian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the crust"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Make a simple pastry crust from the flour, a little butter, and cold water, and press into small tart shells.",
+      "Whisk the remaining butter, brown sugar, and egg together into a filling.",
+      "Fill the shells and bake at 375F for 15-18 minutes until the filling is just set and bubbling at the edges."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the crust"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": "optional"
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple pastry from the flour, a portion of the butter, a pinch of salt, and cold water. Press into small tart tins.",
+      "Melt the remaining butter and whisk with the brown sugar, egg, and vanilla until smooth.",
+      "Divide the raisins (if using) among the tart shells, then pour the filling over.",
+      "Bake at 375F (190C) for 16-20 minutes until the filling is puffed and bubbling at the edges but still has a slight jiggle in the center - the classic debate over runny versus firm filling is very much a real thing here.",
+      "Let cool before removing from the tins, as the filling sets further while cooling."
+    ]
+  },
+  {
+    "name": "Canadian Nanaimo Bars",
+    "cuisine": "canadian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
+        "qty": 40,
+        "note": "or crushed digestive biscuits"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the crumbs, coconut, melted butter, and cocoa powder, and press into a small pan for the base layer.",
+      "Chill until firm.",
+      "Top with a simple custard-flavored buttercream and a thin layer of melted chocolate, chilling between each layer."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
+        "qty": 45,
+        "note": "or crushed digestive biscuits"
+      },
+      {
+        "ingredient": "Shredded coconut",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cocoa powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.0625,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the crumbs, coconut, half the melted butter, and cocoa powder until evenly combined, then press firmly into a small buttered pan.",
+      "Chill the base for at least 20 minutes until firm.",
+      "Beat the remaining butter with the sugar, milk, and vanilla until light and fluffy for the middle custard layer, then spread evenly over the chilled base and chill again for 15-20 minutes.",
+      "Melt a little chocolate (or use extra cocoa powder mixed with a touch of butter and sugar) and spread thinly over the top as the final layer.",
+      "Chill until fully set, then cut into small squares - this three-layer no-bake treat, named for Nanaimo, British Columbia, is a true Canadian classic."
+    ]
+  },
+  {
+    "name": "Canadian Maple Syrup Pie",
+    "cuisine": "canadian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "for the crust"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Make a simple pastry crust from the flour, butter, and cold water, and press into a small pie dish.",
+      "Whisk the maple syrup and egg together and pour into the crust.",
+      "Bake at 350F for 30-35 minutes until just set with a slight wobble in the center."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": "for the crust"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple pastry from the flour, butter, a pinch of salt, and cold water. Press into a small pie dish and chill 15 minutes.",
+      "Whisk the maple syrup, eggs, cornstarch, and vanilla together until smooth.",
+      "Pour the filling into the chilled crust.",
+      "Bake at 350F (175C) for 32-38 minutes until the filling is just set with a gentle wobble in the very center - a Quebec classic (tarte au sucre), simple and deeply sweet.",
+      "Let cool completely before slicing, as the filling firms up significantly as it cools."
+    ]
+  },
+  {
+    "name": "Canadian Poutine Gravy",
+    "cuisine": "canadian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Melt the butter and whisk in the flour, cooking 1 minute.",
+      "Gradually whisk in the beef broth and simmer 4-5 minutes until thickened.",
+      "Season with the pepper and pour over poutine or fries."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Melt the butter in a small saucepan over medium heat, whisk in the flour, and cook, stirring, for 1-2 minutes until lightly golden.",
+      "Gradually whisk in the beef broth, chicken broth, and Worcestershire sauce, working out any lumps.",
+      "Simmer 5-6 minutes, whisking occasionally, until thickened to a pourable gravy consistency.",
+      "Season with black pepper and use immediately over hot fries and cheese curds."
+    ]
+  },
+  {
+    "name": "Canadian Maple-Dijon Glaze",
+    "cuisine": "canadian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the maple syrup, mustard, and oil together until smooth.",
+      "Brush over salmon, chicken, or roasted vegetables before or after cooking."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Maple Syrup, Cinnamon Infused",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Yellow Mustard, Yellow",
+        "qty": 18.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.16666666666666666,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the maple syrup, mustard, oil, lime juice, and black pepper together until smooth and well combined.",
+      "Use as a glaze brushed onto salmon, chicken, or roasted vegetables in the last few minutes of cooking, or as a finishing drizzle.",
+      "Keeps well in the fridge for a week."
+    ]
+  },
+  {
+    "name": "Canadian Caesar Mix",
+    "cuisine": "canadian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "no-cook",
+      "cold-friendly"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the tomato paste with a splash of water to thin it into a juice-like consistency.",
+      "Stir in the Worcestershire sauce and lime juice.",
+      "Use as a savory, tangy mixer base, the way clamato juice anchors a Canadian Caesar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.125,
+        "note": "minced, optional"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the tomato paste with about 1/4 cup water until smooth and juice-like in consistency.",
+      "Stir in the Worcestershire sauce, lime juice, black pepper, and jalapeno if using for a little heat.",
+      "This savory-tangy base stands in for clamato juice, the clam-tomato blend that anchors Canada's own invented cocktail, the Caesar - equally good as a marinade base for grilled meats."
+    ]
+  }
+]
