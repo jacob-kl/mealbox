@@ -1,7 +1,9 @@
+cat > app/api/week/swap/route.js << 'EOF'
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { swapMeal, computeMealShares, COURSE_SHARE, DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { canEditMealPlan } from '@/lib/permissions';
+import { fetchAll } from '@/lib/supabase/fetchAll';
 
 export async function POST(request) {
   const supabase = await createClient();
@@ -66,10 +68,13 @@ export async function POST(request) {
     .select('id, target_calories, target_protein_g, target_carbs_g')
     .eq('household_id', householdId);
 
-  const { data: recipePool } = await supabase
-    .from('recipes')
-    .select('*')
-    .or(`household_id.is.null,household_id.eq.${householdId}`);
+  const recipePool = await fetchAll(() =>
+    supabase
+      .from('recipes')
+      .select('*')
+      .or(`household_id.is.null,household_id.eq.${householdId}`)
+      .order('id')
+  );
 
   // Only fetch ingredients this recipe pool actually references, rather
   // than the whole table - with ~58,000 rows now (after importing USDA's
@@ -159,3 +164,4 @@ export async function POST(request) {
 
   return NextResponse.json({ meal: newMeal });
 }
+EOF

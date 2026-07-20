@@ -1,7 +1,9 @@
+cat > app/api/week/generate/route.js << 'EOF'
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { generateWeek, DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
 import { canEditMealPlan } from '@/lib/permissions';
+import { fetchAll } from '@/lib/supabase/fetchAll';
 
 export async function POST(request) {
   const supabase = await createClient();
@@ -40,10 +42,13 @@ export async function POST(request) {
     .select('id, display_name, color, target_calories, target_protein_g, target_carbs_g, lunch_schedule, meal_days, snacks_per_day')
     .eq('household_id', householdId);
 
-  const { data: recipePool } = await supabase
-    .from('recipes')
-    .select('*')
-    .or(`household_id.is.null,household_id.eq.${householdId}`);
+  const recipePool = await fetchAll(() =>
+    supabase
+      .from('recipes')
+      .select('*')
+      .or(`household_id.is.null,household_id.eq.${householdId}`)
+      .order('id')
+  );
 
   // Only fetch ingredients these specific recipes actually reference,
   // rather than the whole table - with ~58,000 rows now (after importing
@@ -145,3 +150,4 @@ export async function POST(request) {
 
   return NextResponse.json({ weekPlanId: weekPlan.id, meals });
 }
+EOF

@@ -1,5 +1,7 @@
+cat > app/dashboard/page.js << 'EOF'
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
+import { fetchAll } from '@/lib/supabase/fetchAll';
 import { currentWeekStart, dayIndexForDate, isoDate, parseDate } from '@/lib/dates';
 import { NavBar } from '@/components/ui';
 import DayView from '@/components/DayView';
@@ -80,16 +82,22 @@ export default async function DashboardPage({ searchParams }) {
     .eq('profile_id', user.id)
     .eq('log_date', date);
 
-  const { data: recipeCatalog } = await supabase
-    .from('recipes')
-    .select('id, name, meal_type, cuisine, tags, macros_per_serving, ingredients, steps')
-    .or(`household_id.is.null,household_id.eq.${profile.household_id}`)
-    .order('name');
+  const recipeCatalog = await fetchAll(() =>
+    supabase
+      .from('recipes')
+      .select('id, name, meal_type, cuisine, tags, macros_per_serving, ingredients, steps')
+      .or(`household_id.is.null,household_id.eq.${profile.household_id}`)
+      .order('name')
+      .order('id')
+  );
 
-  const { data: ingredientCatalog } = await supabase
-    .from('ingredients')
-    .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, sub_group, dietary_tags, allergens')
-    .order('name');
+  const ingredientCatalog = await fetchAll(() =>
+    supabase
+      .from('ingredients')
+      .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, sub_group, dietary_tags, allergens')
+      .order('name')
+      .order('id')
+  );
 
   return (
     <>
@@ -101,8 +109,8 @@ export default async function DashboardPage({ searchParams }) {
           plannedMeals={plannedMeals}
           logEntries={logEntries || []}
           hasWeekPlan={!!weekPlan}
-          recipeCatalog={recipeCatalog || []}
-          ingredientCatalog={ingredientCatalog || []}
+          recipeCatalog={recipeCatalog}
+          ingredientCatalog={ingredientCatalog}
           defaultToFull={defaultToFull}
           householdMembers={householdMembers || []}
           lunchBatchCount={lunchBatchCount}
@@ -111,3 +119,4 @@ export default async function DashboardPage({ searchParams }) {
     </>
   );
 }
+EOF
