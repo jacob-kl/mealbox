@@ -16,12 +16,25 @@ export default async function RecipesPage() {
   const { data: household } = await supabase.from('households').select('settings').eq('id', profile?.household_id).single();
   const defaultToFull = household?.settings?.recipeDetailDefault !== 'quick';
 
-  const { data: recipes } = await supabase
-    .from('recipes')
-    .select('*')
-    .or(`household_id.is.null,household_id.eq.${profile?.household_id}`)
-    .order('cuisine')
-    .order('name');
+  const recipes = [];
+  let from = 0;
+  while (true) {
+    const { data, error } = await supabase
+      .from('recipes')
+      .select('*')
+      .or(`household_id.is.null,household_id.eq.${profile?.household_id}`)
+      .order('cuisine')
+      .order('name')
+      .order('id')
+      .range(from, from + 999);
+    if (error) {
+      console.error('Failed to load recipes page:', error);
+      break;
+    }
+    if (!data || data.length === 0) break;
+    recipes.push(...data);
+    from += data.length;
+  }
 
   return (
     <>
@@ -36,7 +49,7 @@ export default async function RecipesPage() {
             <Button>+ New Recipe</Button>
           </Link>
         </div>
-        <RecipeBrowser recipes={recipes || []} defaultToFull={defaultToFull} />
+        <RecipeBrowser recipes={recipes} defaultToFull={defaultToFull} />
       </main>
     </>
   );
