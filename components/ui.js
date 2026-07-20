@@ -105,19 +105,26 @@ export function NavBar({ active }) {
 }
 
 export const CUISINES = [
-  'american', 'argentinian', 'australian', 'belizean', 'bolivian', 'brazilian', 'bruneian', 'burmese', 'cambodian',
-  'canadian', 'caribbean', 'central-african', 'chilean', 'chinese', 'colombian', 'costa-rican',
-  'east-african', 'ecuadorian', 'filipino', 'french', 'french-guianese', 'german', 'guatemalan', 'guyanese',
-  'hawaiian', 'honduran', 'indian', 'indonesian',
+  'american', 'argentinian', 'armenian', 'australian', 'azerbaijani', 'belizean', 'bolivian', 'brazilian',
+  'bruneian', 'burmese', 'cambodian', 'canadian', 'caribbean', 'central-african', 'chilean', 'chinese',
+  'colombian', 'costa-rican', 'east-african', 'ecuadorian', 'filipino', 'french', 'french-guianese', 'georgian',
+  'german', 'guatemalan', 'guyanese', 'hawaiian', 'honduran', 'indian', 'indonesian', 'iranian', 'iraqi',
   'irish', 'israeli', 'italian', 'japanese', 'jordanian', 'korean', 'laotian', 'lebanese', 'malaysian',
-  'mediterranean', 'mexican', 'mongolian', 'new-mexico', 'new-zealander', 'nicaraguan', 'north-african', 'palestinian',
-  'panamanian', 'papua-new-guinean', 'paraguayan', 'peruvian', 'polish', 'portuguese', 'russian', 'salvadoran',
-  'saudi', 'south-african', 'southern', 'spanish', 'surinamese', 'swedish', 'swiss', 'syrian', 'thai',
-  'turkish', 'uruguayan', 'venezuelan', 'vietnamese', 'west-african',
+  'mediterranean', 'mexican', 'mongolian', 'new-mexico', 'new-zealander', 'nicaraguan', 'north-african', 'omani',
+  'palestinian', 'panamanian', 'papua-new-guinean', 'paraguayan', 'peruvian', 'polish', 'portuguese', 'russian',
+  'salvadoran', 'saudi', 'south-african', 'southern', 'spanish', 'surinamese', 'swedish', 'swiss', 'syrian',
+  'thai', 'turkish', 'uruguayan', 'venezuelan', 'vietnamese', 'west-african', 'yemeni',
 ];
 
 export const CUISINE_LABELS = {
   american: 'American',
+  yemeni: 'Yemeni',
+  omani: 'Omani',
+  iraqi: 'Iraqi',
+  iranian: 'Iranian',
+  georgian: 'Georgian',
+  armenian: 'Armenian',
+  azerbaijani: 'Azerbaijani',
   argentinian: 'Argentinian',
   brazilian: 'Brazilian',
   caribbean: 'Caribbean',

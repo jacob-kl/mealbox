@@ -1,0 +1,1360 @@
+[
+  {
+    "name": "Persian Kuku Sabzi",
+    "cuisine": "iranian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the eggs with the herbs and flour.",
+      "Pour into a hot, oiled skillet and cook, covered, over low heat 8-10 minutes until set.",
+      "Flip and cook 2-3 more minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.3,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3.8,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the eggs with the herbs, flour, and onion until well combined.",
+      "Pour into a hot, oiled skillet and cook, covered, over low heat 10-12 minutes until mostly set.",
+      "Flip carefully and cook 3-4 more minutes until fully cooked through.",
+      "Kuku sabzi, a dense herb frittata, is a beloved Persian breakfast and Nowruz (Persian New Year) tradition."
+    ]
+  },
+  {
+    "name": "Persian Naan-e Barbari",
+    "cuisine": "iranian",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour, baking powder, a pinch of salt, and warm water into a soft dough. Rest 20 minutes.",
+      "Shape into a flat oval and bake at 450F for 12-15 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.16666666666666666,
+        "note": "to top"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, baking powder, a pinch of salt, oil, and warm water into a soft, elastic dough. Knead well and rest 25-30 minutes.",
+      "Shape into a long, flat oval, dimple the surface with your fingers, and scatter with sesame seeds.",
+      "Bake at 450F (230C) for 12-16 minutes until golden and crisp - barbari, a thick, ridged flatbread, is a staple Persian breakfast bread."
+    ]
+  },
+  {
+    "name": "Persian Feta and Herbs",
+    "cuisine": "iranian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 42.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "as a lavash stand-in"
+      }
+    ],
+    "steps": [
+      "Arrange the feta, herbs, and walnuts on a plate.",
+      "Serve with warm flatbread for wrapping."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 49.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.15,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": "as a lavash stand-in"
+      },
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 20,
+        "note": "pitted"
+      }
+    ],
+    "steps_detailed": [
+      "Arrange the feta, fresh herbs, walnuts, and dates on a plate.",
+      "Serve with warm flatbread for wrapping bites together - a simple, elegant Persian breakfast spread, sabzi khordan."
+    ]
+  },
+  {
+    "name": "Persian Ash Reshteh",
+    "cuisine": "iranian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps": [
+      "Saute the onion until deeply golden.",
+      "Simmer the noodles and beans with the onion and 2 cups water for 15-18 minutes.",
+      "Stir in the cilantro and serve."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.3,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion and garlic until deeply golden and caramelized, 12-15 minutes - this forms the aromatic base.",
+      "Simmer the noodles and beans with the onion mixture in 2.25 cups water for 18-22 minutes until the noodles are tender.",
+      "Stir in the cilantro and finish with the lime juice - ash reshteh, a hearty herb and noodle soup, is a beloved Persian dish, especially for Nowruz."
+    ]
+  },
+  {
+    "name": "Persian Baghali Polo",
+    "cuisine": "iranian",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 80,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook the rice with the beans and dill.",
+      "Toss with the oil before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 90,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3.8,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice according to package directions, folding in the beans and dill during the last few minutes of cooking.",
+      "Toss with the oil and butter before serving - baghali polo, dill rice with fava beans, is a treasured Persian side, traditionally paired with lamb."
+    ]
+  },
+  {
+    "name": "Persian Tahchin",
+    "cuisine": "iranian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 130,
+        "note": "shredded, cooked"
+      }
+    ],
+    "steps": [
+      "Mix the cooked rice with the yogurt and egg.",
+      "Fold in the shredded chicken and press into a small baking dish.",
+      "Bake at 375F for 30-35 minutes until golden and set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": "shredded, cooked"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp, melted"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cooked rice with the yogurt, egg, saffron, and melted butter until well combined.",
+      "Fold in the shredded chicken, reserving some to layer in the middle, and press firmly into a small buttered baking dish.",
+      "Bake at 375F (190C) for 32-40 minutes until the top is golden and the bottom has formed a crisp, golden crust.",
+      "Tahchin, a saffron rice cake with a prized crispy crust, is a beloved and impressive Persian dish."
+    ]
+  },
+  {
+    "name": "Persian Zereshk Polo",
+    "cuisine": "iranian",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
+        "qty": 20,
+        "note": "as a barberry stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      }
+    ],
+    "steps": [
+      "Dissolve the saffron in a splash of warm water.",
+      "Toss the cooked rice with the butter, saffron water, and dried cranberries."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
+        "qty": 25,
+        "note": "as a barberry stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1.25,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Dissolve the saffron in a tablespoon of warm water.",
+      "Briefly warm the dried cranberries (standing in for tart barberries) in the butter with the sugar, 2-3 minutes.",
+      "Toss the cooked rice with the saffron water and the buttered cranberries - zereshk polo, jeweled with tart berries, is a treasured Persian dish, traditionally paired with chicken."
+    ]
+  },
+  {
+    "name": "Persian Ghormeh Sabzi",
+    "cuisine": "iranian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.5,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the beef.",
+      "Add the beans, herbs, lime juice, and a splash of water, and simmer 1-1.25 hours until tender.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.6,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, fenugreek seed",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-10 minutes.",
+      "Add the beans, cilantro, fenugreek, lime juice (standing in for dried lime, traditionally used), and 3/4 cup water.",
+      "Simmer, covered, 1.25-1.5 hours until the beef is very tender and the sauce has deepened into a dark green.",
+      "Serve with rice - ghormeh sabzi, a beloved herb stew, is widely considered Iran's national dish."
+    ]
+  },
+  {
+    "name": "Persian Chelo Kabab",
+    "cuisine": "iranian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      }
+    ],
+    "steps": [
+      "Mix the beef with the grated onion, and shape into flattened logs.",
+      "Grill or pan-fry until well charred and cooked through.",
+      "Serve over the rice, finished with a pinch of saffron dissolved in warm water."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "grated"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1.25,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 30,
+        "note": "grilled, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef thoroughly with the grated onion until smooth and slightly sticky, then shape into flattened logs around skewers if you have them.",
+      "Grill or pan-fry, 4-6 minutes per side, until well charred and cooked through.",
+      "Dissolve the saffron in a tablespoon of warm water and drizzle over the cooked rice along with the butter.",
+      "Serve the kabab over the saffron rice with the tomatoes - chelo kabab, grilled meat over saffron rice, is Iran's most iconic dish."
+    ]
+  },
+  {
+    "name": "Persian Fesenjan",
+    "cuisine": "iranian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 50,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Pomegranate juice, bottled",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion.",
+      "Blend the ground walnuts with the pomegranate juice and a splash of water into a sauce.",
+      "Add to the chicken and simmer 25-30 minutes until thickened."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 55,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Pomegranate juice, bottled",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion and turmeric, 8-10 minutes.",
+      "Blend the ground walnuts with the pomegranate juice, sugar, and a splash of water into a thick sauce.",
+      "Add the sauce to the chicken and simmer 28-35 minutes, stirring occasionally, until deeply thickened and rich.",
+      "Fesenjan, walnut and pomegranate stew, is a treasured Persian dish for special occasions, prized for its sweet-tart depth."
+    ]
+  },
+  {
+    "name": "Persian Abgoosht (Dizi)",
+    "cuisine": "iranian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the beef with the beans, potato, and tomatoes for 1.25-1.5 hours until everything is very tender.",
+      "Mash roughly before serving with bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the beef with the onion, turmeric, beans, potato, and tomatoes in 2.5 cups water for 1.5-1.75 hours until everything is completely tender.",
+      "Traditionally the broth is served first as a soup, then the solids are mashed together and eaten separately with bread - abgoosht (also called dizi, after the pot it's cooked in) is one of Iran's most cherished, ancient comfort dishes."
+    ]
+  },
+  {
+    "name": "Persian Hummus with Walnuts",
+    "cuisine": "iranian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 22.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps": [
+      "Blend the chickpeas, tahini, and lime juice with a splash of water until smooth.",
+      "Top with the chopped walnuts and serve with flatbread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 18,
+        "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, tahini, lime juice, and garlic with a splash of water until very smooth.",
+      "Top with the chopped walnuts and serve with warm flatbread."
+    ]
+  },
+  {
+    "name": "Persian Roasted Nuts (Ajil)",
+    "cuisine": "iranian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Combine the nuts and raisins.",
+      "Serve as a simple snack mix."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 15,
+        "note": "pitted, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the nuts, raisins, and dates.",
+      "Ajil, a mixed nut and dried fruit snack, is a common Persian teatime staple."
+    ]
+  },
+  {
+    "name": "Persian Mast-o Khiar",
+    "cuisine": "iranian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 80,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Mix the yogurt with the cucumber and dill.",
+      "Season with salt and chill before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 90,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3.8,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 10,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.25,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the yogurt with the cucumber, dill, walnuts, and garlic.",
+      "Season with salt and chill at least 15 minutes before serving - mast-o khiar, a cooling yogurt-cucumber dip, is a Persian meal staple."
+    ]
+  },
+  {
+    "name": "Persian Nan-e Shirini",
+    "cuisine": "iranian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "for egg wash"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, then mix in the flour to form a soft dough.",
+      "Shape into small rounds, brush with egg wash, and bake at 350F for 14-18 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.75,
+        "note": "for egg wash"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar together until light, then mix in the flour and cardamom until a soft dough forms.",
+      "Shape into small rounds, brush with the egg wash, and bake at 350F (175C) for 15-20 minutes until golden.",
+      "Nan-e shirini, simple sweet cookies, are a common Persian teatime treat."
+    ]
+  },
+  {
+    "name": "Persian Sholeh Zard",
+    "cuisine": "iranian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in 1.5 cups water with the sugar, saffron, and cinnamon for 25-30 minutes until thick and golden.",
+      "Chill or serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1.25,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 12,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice in 1.75 cups water with the sugar, saffron, and cinnamon over medium-low heat, stirring occasionally, 28-35 minutes until thick and richly golden.",
+      "Top with chopped pistachios and serve warm or chilled - sholeh zard, saffron rice pudding, is a treasured Persian dessert, often made as a votive offering."
+    ]
+  },
+  {
+    "name": "Persian Halva",
+    "cuisine": "iranian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Warm the sugar with a splash of water until it forms a syrup.",
+      "Stir the syrup into the tahini with the rosewater until it thickens.",
+      "Press into a small dish and chill before slicing."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 52.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the sugar with a splash of water over medium heat until it dissolves into a thick syrup, 3-4 minutes.",
+      "Remove from heat and stir in the tahini and rosewater vigorously until it thickens and turns pale.",
+      "Fold in the chopped pistachios, press into a small lined dish, and chill at least 1 hour until firm.",
+      "Persian halva, dense and fudge-like, is traditionally prepared for mourning gatherings as well as everyday sweets."
+    ]
+  },
+  {
+    "name": "Persian Faloodeh",
+    "cuisine": "iranian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 30,
+        "note": "cooked, thin, as vermicelli"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Cook the noodles until tender, then rinse under cold water.",
+      "Warm the sugar with a splash of water and the rosewater into a light syrup, then chill.",
+      "Toss the cold noodles with the syrup and lime juice, and freeze 1-2 hours before serving icy cold."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Egg noodles (dry)",
+        "qty": 35,
+        "note": "cooked, thin, as vermicelli"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the noodles (standing in for rice vermicelli, traditionally used) until tender, then rinse thoroughly under cold water and drain well.",
+      "Warm the sugar with a splash of water and the rosewater over low heat, 3-4 minutes, into a light syrup, then chill completely.",
+      "Toss the cold noodles with the chilled syrup and lime juice, and freeze for 1-2 hours, stirring once partway through, until icy and semi-frozen.",
+      "Serve immediately, icy cold - faloodeh, a unique frozen noodle sorbet, is one of the world's oldest known frozen desserts, with roots in ancient Persia."
+    ]
+  },
+  {
+    "name": "Persian Pomegranate Walnut Sauce",
+    "cuisine": "iranian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pomegranate juice, bottled",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 20,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the pomegranate juice with the ground walnuts and sugar for 8-10 minutes until thickened.",
+      "Serve over grilled chicken or vegetables."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pomegranate juice, bottled",
+        "qty": 52.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 25,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the pomegranate juice with the ground walnuts, sugar, and cinnamon over medium-low heat, stirring, 10-12 minutes until thickened.",
+      "This nods to the same sweet-tart walnut-pomegranate flavor base as fesenjan, in condiment form."
+    ]
+  },
+  {
+    "name": "Persian Torshi-Style Pickled Vegetables",
+    "cuisine": "iranian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Combine the carrot, cabbage, and vinegar.",
+      "Let sit at least 20 minutes before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Carrot",
+        "qty": 45,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 55,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the carrot, cabbage, vinegar, garlic, and cinnamon.",
+      "Let sit at least 25-30 minutes so the vegetables lightly pickle - torshi, tangy pickled vegetables, are a staple Persian table condiment."
+    ]
+  }
+]

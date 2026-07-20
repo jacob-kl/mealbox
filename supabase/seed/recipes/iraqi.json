@@ -1,0 +1,1400 @@
+[
+  {
+    "name": "Iraqi Kahi with Cream",
+    "cuisine": "iraqi",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "qty": 20,
+        "note": "as a geymar stand-in"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Make a soft dough from the flour and water, and roll into thin layers, brushing with melted butter.",
+      "Stack and bake at 400F for 15-18 minutes until golden and flaky.",
+      "Serve with the cream and honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "qty": 25,
+        "note": "as a geymar stand-in"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Make a soft, elastic dough from the flour, cardamom, and water. Divide into portions and roll each thin.",
+      "Brush each layer generously with melted butter, stack, and bake at 400F (200C) for 16-20 minutes until golden and visibly flaky.",
+      "Serve with the cream and honey - kahi with geymar (clotted cream) is a beloved Iraqi breakfast, especially on weekends."
+    ]
+  },
+  {
+    "name": "Iraqi Samoon with Cheese",
+    "cuisine": "iraqi",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "as a samoon bread stand-in"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.5,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Warm the bread.",
+      "Fill with the cheese and tomatoes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": "as a samoon bread stand-in"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.75,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber",
+        "qty": 30,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the bread (standing in for samoon, Iraq's iconic boat-shaped bread) until soft.",
+      "Fill generously with the cheese, tomatoes, and cucumber - a simple, common Iraqi breakfast sandwich."
+    ]
+  },
+  {
+    "name": "Iraqi Timman Bagilla Style Rice Bowl",
+    "cuisine": "iraqi",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 80,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the rice with the beans, dill, and butter.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 90,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3.8,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the rice with the beans, dill, garlic, and butter until well combined and fragrant.",
+      "Serve warm - timman bagilla, dill-scented rice with fava beans, is a beloved Iraqi comfort dish, often eaten for breakfast or alongside fish."
+    ]
+  },
+  {
+    "name": "Iraqi Dolma",
+    "cuisine": "iraqi",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 150,
+        "note": "halved"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the raw rice with the beef and half the tomatoes.",
+      "Stuff into the pepper halves and place in a baking dish with the remaining tomatoes.",
+      "Bake at 375F, covered, for 40-45 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 170,
+        "note": "halved"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the raw rice with the beef, garlic, and dill, and half the tomatoes.",
+      "Stuff generously into the pepper halves and arrange in a baking dish, pouring the remaining tomatoes around and over them.",
+      "Cover and bake at 375F (190C) for 42-50 minutes until the rice is tender and the peppers are soft.",
+      "Dolma, in countless vegetable and leaf variations, is a treasured Iraqi dish, often made as an elaborate mixed-vegetable spread for gatherings."
+    ]
+  },
+  {
+    "name": "Iraqi Kubba Soup",
+    "cuisine": "iraqi",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Soak the bulgur, then mix with a third of the beef and shape into small balls.",
+      "Brown the remaining beef with the onion, add the tomatoes and a splash of water, and simmer 20 minutes.",
+      "Add the kubba balls and simmer 10-12 more minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Soak the bulgur in hot water 15 minutes, then drain and mix with a third of the beef, shaping into small, firm balls.",
+      "Brown the remaining beef with the onion and garlic, then add the tomatoes, lime juice, and 3/4 cup water, and simmer 20-25 minutes.",
+      "Gently add the kubba balls and simmer 12-15 more minutes until cooked through.",
+      "Kubba, Iraq's beloved bulgur-and-meat dumplings, appear in countless regional soup variations."
+    ]
+  },
+  {
+    "name": "Iraqi Shorbat Adas",
+    "cuisine": "iraqi",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils, pink or red, raw",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer the lentils with the onion, garlic, and cumin in 1.5 cups water for 20-25 minutes until soft.",
+      "Blend until smooth.",
+      "Serve with lime and bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils, pink or red, raw",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion and garlic in the oil with the cumin until softened, 5-6 minutes.",
+      "Add the lentils and 1.75 cups water, and simmer 22-28 minutes until the lentils are completely soft.",
+      "Blend until smooth and finish with the lime juice - shorbat adas, red lentil soup, is a beloved everyday Iraqi lunch."
+    ]
+  },
+  {
+    "name": "Iraqi Biryani",
+    "cuisine": "iraqi",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 12,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the turmeric.",
+      "Add the rice and 1.5 cups water, and simmer, covered, 18-22 minutes until tender.",
+      "Fold in the raisins before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 12,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion and turmeric over medium-high heat, 8-10 minutes.",
+      "Add the rice and 1.75 cups water, cover, and simmer 20-25 minutes until the rice is tender and fragrant.",
+      "Fold in the raisins and top with the walnuts - Iraqi biryani, reflecting deep historical trade ties with South Asia, is a beloved festive dish."
+    ]
+  },
+  {
+    "name": "Iraqi Masgouf",
+    "cuisine": "iraqi",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": "butterflied"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Rub the fish with the turmeric and garlic.",
+      "Grill skin-down over medium heat until cooked through, about 12-15 minutes.",
+      "Finish with the lime juice and serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 240,
+        "note": "butterflied"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Butterfly the fish and rub thoroughly with the turmeric, garlic, paprika, and oil.",
+      "Grill skin-down over medium heat, without flipping, 15-18 minutes until the flesh is cooked through and flaky.",
+      "Finish with a generous squeeze of lime and serve with rice - masgouf, traditionally grilled beside an open riverside fire, is widely considered Iraq's national dish."
+    ]
+  },
+  {
+    "name": "Iraqi Quzi",
+    "cuisine": "iraqi",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a small roast"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 12,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Season the lamb with the turmeric and roast at 350F for 40-45 minutes until tender.",
+      "Cook the rice separately and fold in the raisins.",
+      "Serve the lamb over the rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 240,
+        "note": "formed into a small roast"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 2.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 12,
+        "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the lamb thoroughly with the turmeric and cardamom, and roast at 350F (175C) for 42-50 minutes until deeply tender.",
+      "Cook the rice separately and fold in the raisins.",
+      "Serve the lamb over the spiced rice, topped with the walnuts - quzi, whole roasted lamb over richly spiced rice, is Iraq's festive centerpiece dish for celebrations."
+    ]
+  },
+  {
+    "name": "Iraqi Tashreeb",
+    "cuisine": "iraqi",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "torn, as samoon bread"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Simmer the chicken with the onion and tomatoes until tender, about 25-30 minutes.",
+      "Tear the bread into a bowl and ladle the chicken and broth over it, letting it soak."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": "torn, as samoon bread"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dill weed, fresh",
+        "qty": 3,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the chicken with the onion, garlic, tomatoes, and dill in a splash of water for 28-35 minutes until tender.",
+      "Tear the bread into a wide serving bowl and ladle the chicken, vegetables, and broth generously over it, letting the bread soak fully.",
+      "Tashreeb, bread soaked in savory broth, is one of Iraq's most ancient and beloved comfort dishes."
+    ]
+  },
+  {
+    "name": "Iraqi Bamia (Okra and Beef Stew)",
+    "cuisine": "iraqi",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion and garlic.",
+      "Add the tomatoes and a splash of water, and simmer 20-25 minutes.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, garlic, and cumin over medium-high heat, 8-10 minutes.",
+      "Add the diced tomatoes and 1/2 cup water, and simmer 22-28 minutes until thickened, finishing with the lime juice.",
+      "Serve with rice - bamia, a tomato-forward stew traditionally built around okra, is a comforting Iraqi home-cooked staple."
+    ]
+  },
+  {
+    "name": "Iraqi Kubba Halab (Fried Kubba)",
+    "cuisine": "iraqi",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Soak the bulgur, then mix with half the beef and shape into a shell.",
+      "Brown the remaining beef with the onion for the filling.",
+      "Fill the shells, seal into ovals, and fry until deeply golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Soak the bulgur in hot water 15-20 minutes, then drain and mix with half the beef and the cinnamon, forming a smooth, pliable shell mixture.",
+      "Brown the remaining beef with the onion and pistachios for the filling.",
+      "Shape the shell mixture around a spoonful of filling into small torpedo shapes, sealing completely.",
+      "Fry until deeply golden on all sides, 4-6 minutes - kubba, in its many shapes and cooking methods, is Iraq's most iconic snack food."
+    ]
+  },
+  {
+    "name": "Iraqi Hummus",
+    "cuisine": "iraqi",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 22.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Blend the chickpeas, tahini, lime juice, and garlic with a splash of water until smooth.",
+      "Serve with flatbread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, tahini, lime juice, garlic, and oil with a splash of water until very smooth.",
+      "Serve with warm bread - hummus is common mezze fare across Iraq."
+    ]
+  },
+  {
+    "name": "Iraqi Baba Ghanoush",
+    "cuisine": "iraqi",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 200,
+        "note": "whole"
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Roast the whole eggplant until completely soft and collapsed.",
+      "Scoop out the flesh and mash with the tahini, lime juice, and garlic.",
+      "Serve with flatbread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 220,
+        "note": "whole"
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 18.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Roast the whole eggplant at 425F (220C) for 28-35 minutes, turning occasionally, until charred and completely soft.",
+      "Scoop out the flesh and mash with the tahini, lime juice, garlic, and oil.",
+      "Serve with warm bread - a smoky, beloved Iraqi mezze dish."
+    ]
+  },
+  {
+    "name": "Iraqi Falafel",
+    "cuisine": "iraqi",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Blend the chickpeas, garlic, and cilantro into a coarse, moldable paste.",
+      "Shape into small balls and fry until deeply golden, about 3-4 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.3,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, garlic, cilantro, flour, and cumin in a food processor into a coarse, moldable paste.",
+      "Shape into small balls or patties.",
+      "Fry in the oil over medium heat, 3-5 minutes per side, until deeply golden and crisp - falafel is popular street food across Iraq."
+    ]
+  },
+  {
+    "name": "Iraqi Kleicha",
+    "cuisine": "iraqi",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 40,
+        "note": "pitted, mashed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour, butter, and sugar into a soft, crumbly dough.",
+      "Flatten portions, fill with the mashed dates, and reshape into small rounds.",
+      "Bake at 350F for 18-22 minutes until just set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 45,
+        "note": "pitted, mashed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, butter, sugar, and cardamom into a soft, slightly crumbly dough.",
+      "Flatten a portion, fill with the mashed dates, and reshape around it, sealing completely, often pressed with a decorative mold or fork pattern.",
+      "Bake at 350F (175C) for 18-24 minutes until just set and very pale - kleicha is considered Iraq's national cookie, especially treasured during Eid."
+    ]
+  },
+  {
+    "name": "Iraqi Zerda",
+    "cuisine": "iraqi",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in 1.5 cups water with the sugar, saffron, and butter for 20-25 minutes until tender and golden.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1.25,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 12,
+        "note": "chopped, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice in 1.75 cups water with the sugar, saffron, and butter over medium-low heat, stirring occasionally, 22-28 minutes until tender and richly golden.",
+      "Top with the chopped pistachios and serve warm - zerda, saffron-sweetened rice, is a treasured Iraqi dessert for celebrations."
+    ]
+  },
+  {
+    "name": "Iraqi Baklava",
+    "cuisine": "iraqi",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Layer the phyllo with the melted butter, scattering the chopped walnuts between layers.",
+      "Bake at 350F for 25-30 minutes until deeply golden.",
+      "Pour the honey over while still warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2.5,
+        "note": "tbsp, melted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Layer sheets of phyllo in a small buttered dish, brushing each with melted butter, scattering the walnuts mixed with cardamom between layers.",
+      "Cut into diamond shapes before baking.",
+      "Bake at 350F (175C) for 28-35 minutes until deeply golden and crisp.",
+      "Pour the honey evenly over the hot baklava as soon as it comes out of the oven - baklava has deep roots in Iraqi and wider Mesopotamian dessert tradition."
+    ]
+  },
+  {
+    "name": "Iraqi Amba",
+    "cuisine": "iraqi",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Mangos, raw",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mash the mango with the turmeric and lime juice.",
+      "Season with salt and let sit 10 minutes before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Mangos, raw",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.1,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.25,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the mango with the turmeric, lime juice, and garlic until mostly smooth with some texture.",
+      "Amba, a tangy pickled mango condiment, originated in Iraq's Jewish community and remains a beloved sauce for sandwiches and grilled meats."
+    ]
+  },
+  {
+    "name": "Iraqi Dagga",
+    "cuisine": "iraqi",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mash the tomatoes with the garlic, jalapeno, and lime juice.",
+      "Season with salt and serve alongside grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the tomatoes with the garlic, jalapeno, lime juice, and cilantro into a rough, fresh relish.",
+      "Dagga, a simple fresh tomato relish, is a common Iraqi table condiment."
+    ]
+  }
+]

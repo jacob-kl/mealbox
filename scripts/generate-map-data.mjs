@@ -49,6 +49,15 @@ const COUNTRY_GROUPS = {
   'Saudi Arabia': { group: 'saudi', cuisines: ['saudi'] },
   Syria: { group: 'syrian', cuisines: ['syrian'] },
   Palestine: { group: 'palestinian', cuisines: ['palestinian'] },
+  Yemen: { group: 'yemeni', cuisines: ['yemeni'] },
+  Oman: { group: 'omani', cuisines: ['omani'] },
+  Iraq: { group: 'iraqi', cuisines: ['iraqi'] },
+  Iran: { group: 'iranian', cuisines: ['iranian'] },
+  // Georgia, Armenia, and Azerbaijan are standalone countries on the world
+  // map - not part of the Middle East region cluster below.
+  Georgia: { group: 'georgian', cuisines: ['georgian'] },
+  Armenia: { group: 'armenian', cuisines: ['armenian'] },
+  Azerbaijan: { group: 'azerbaijani', cuisines: ['azerbaijani'] },
   // Southeast Asian cluster - Taiwan intentionally excluded, since it isn't
   // part of Southeast Asia and lumping it in would repeat the same
   // inaccurate-labeling problem this rename was meant to fix.
@@ -206,9 +215,9 @@ const worldGeo = feature(worldTopo, worldTopo.objects.countries);
 const REGIONS = {
   'middle-east': {
     label: 'Middle East',
-    countries: ['Lebanon', 'Israel', 'Jordan', 'Turkey', 'Saudi Arabia', 'Syria', 'Palestine'],
-    width: 800,
-    height: 620,
+    countries: ['Lebanon', 'Israel', 'Jordan', 'Turkey', 'Saudi Arabia', 'Syria', 'Palestine', 'Yemen', 'Oman', 'Iraq', 'Iran'],
+    width: 1000,
+    height: 750,
   },
   'southeast-asia': {
     label: 'Southeast Asia',

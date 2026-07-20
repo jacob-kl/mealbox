@@ -125,10 +125,19 @@ const GROUP_COLORS = {
   // Shared cluster colors, used only on the world map for countries that
   // belong to a regional drill-down (see REGION_META) - clicking any of
   // these opens the zoomed regional map instead of selecting a cuisine
-  // directly, so they read as one region rather than seven/eight separate
-  // countries with their own individual colors.
+  // directly, so a whole cluster reads as one region rather than many
+  // separate countries with their own individual colors.
   'middle-east': '#9B6B4A',
   'southeast-asia': '#4A8B7A',
+  yemeni: '#A85A2E',
+  omani: '#B8935A',
+  iraqi: '#3D8A8A',
+  iranian: '#5B4A8A',
+  // Georgia, Armenia, and Azerbaijan are standalone on the world map (not
+  // part of the Middle East cluster), so each gets its own real color.
+  georgian: '#4A9B5C',
+  armenian: '#D4823D',
+  azerbaijani: '#3D6B99',
 };
 
 /**
