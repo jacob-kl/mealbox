@@ -1,4 +1,3 @@
-cat > app/dashboard/page.js << 'EOF'
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
 import { fetchAll } from '@/lib/supabase/fetchAll';
@@ -47,9 +46,6 @@ export default async function DashboardPage({ searchParams }) {
       .or(`profile_id.eq.${user.id},profile_id.is.null`);
     plannedMeals = data || [];
 
-    // Lightweight, whole-week query (just enough to count repeats) so a
-    // batched lunch can show its weekly total alongside the per-day amount,
-    // even from the single-day Today view.
     const { data: weekLunches } = await supabase
       .from('week_plan_meals')
       .select('profile_id, recipe_id')
@@ -119,4 +115,3 @@ export default async function DashboardPage({ searchParams }) {
     </>
   );
 }
-EOF

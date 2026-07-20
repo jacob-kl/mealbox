@@ -1,4 +1,3 @@
-cat > app/api/week/generate/route.js << 'EOF'
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { generateWeek, DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
@@ -50,12 +49,6 @@ export async function POST(request) {
       .order('id')
   );
 
-  // Only fetch ingredients these specific recipes actually reference,
-  // rather than the whole table - with ~58,000 rows now (after importing
-  // USDA's databases), an unbounded select silently caps at Supabase's
-  // default 1000-row limit, which would quietly drop any ingredient
-  // sorting past that point rather than error, breaking macro math with
-  // no visible cause.
   const neededNames = new Set();
   for (const r of recipePool || []) {
     for (const line of r.ingredients || []) neededNames.add(line.ingredient);
@@ -67,7 +60,6 @@ export async function POST(request) {
     .in('name', [...neededNames]);
   const ingredientsByName = Object.fromEntries((ingredients || []).map((i) => [i.name, i]));
 
-  // Avoid repeating recipes used in the last 14 days.
   const twoWeeksAgo = new Date(new Date(weekStart).getTime() - 14 * 86400000)
     .toISOString()
     .slice(0, 10);
@@ -150,4 +142,3 @@ export async function POST(request) {
 
   return NextResponse.json({ weekPlanId: weekPlan.id, meals });
 }
-EOF

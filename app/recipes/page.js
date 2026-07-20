@@ -1,4 +1,3 @@
-cat > app/recipes/page.js << 'EOF'
 import { redirect } from 'next/navigation';
 import Link from 'next/link';
 import { createClient } from '@/lib/supabase/server';
@@ -46,4 +45,3 @@ export default async function RecipesPage() {
     </>
   );
 }
-EOF

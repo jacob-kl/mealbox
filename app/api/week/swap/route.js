@@ -1,4 +1,3 @@
-cat > app/api/week/swap/route.js << 'EOF'
 import { NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { swapMeal, computeMealShares, COURSE_SHARE, DEFAULT_MEAL_DAYS, DEFAULT_MEAL_STRUCTURE } from '@/lib/weekBuilder';
@@ -76,11 +75,6 @@ export async function POST(request) {
       .order('id')
   );
 
-  // Only fetch ingredients this recipe pool actually references, rather
-  // than the whole table - with ~58,000 rows now (after importing USDA's
-  // databases), an unbounded select silently caps at Supabase's default
-  // 1000-row limit, which would quietly drop anything sorting past that
-  // point rather than error.
   const neededNames = new Set();
   for (const r of recipePool || []) {
     for (const line of r.ingredients || []) neededNames.add(line.ingredient);
@@ -99,11 +93,6 @@ export async function POST(request) {
     targetCarbsG: m.target_carbs_g ?? null,
   }));
 
-  // If this is a paired main/side, only search for that course's recipes
-  // and only swap that one course's share of the slot's budget. If there's
-  // no sibling row, this is a standalone shared meal — search the combined
-  // complete+main pool (same as generation) rather than restricting to
-  // 'complete' only, so swapping doesn't lose access to most of the library.
   let calorieShare = baseShare;
   let filterCourse = null;
   let filterCourseIn = mealSlot === 'dinner' ? ['complete', 'main'] : null;
@@ -164,4 +153,3 @@ export async function POST(request) {
 
   return NextResponse.json({ meal: newMeal });
 }
-EOF
