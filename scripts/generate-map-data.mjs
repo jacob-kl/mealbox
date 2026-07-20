@@ -129,13 +129,13 @@ const COUNTRY_GROUPS = {
   Argentina: { group: 'argentinian', cuisines: ['argentinian'] },
   // Central America - distinct enough from Mexican cuisine (and from each
   // other) to get its own cluster rather than folding into 'mexican'.
-  Guatemala: { group: 'central-american', cuisines: ['central-american'] },
-  Belize: { group: 'central-american', cuisines: ['central-american'] },
-  Honduras: { group: 'central-american', cuisines: ['central-american'] },
-  'El Salvador': { group: 'central-american', cuisines: ['central-american'] },
-  Nicaragua: { group: 'central-american', cuisines: ['central-american'] },
-  'Costa Rica': { group: 'central-american', cuisines: ['central-american'] },
-  Panama: { group: 'central-american', cuisines: ['central-american'] },
+  Guatemala: { group: 'guatemalan', cuisines: ['guatemalan'] },
+  Belize: { group: 'belizean', cuisines: ['belizean'] },
+  Honduras: { group: 'honduran', cuisines: ['honduran'] },
+  'El Salvador': { group: 'salvadoran', cuisines: ['salvadoran'] },
+  Nicaragua: { group: 'nicaraguan', cuisines: ['nicaraguan'] },
+  'Costa Rica': { group: 'costa-rican', cuisines: ['costa-rican'] },
+  Panama: { group: 'panamanian', cuisines: ['panamanian'] },
   // More South American countries, each its own dedicated group rather
   // than folded into a neighbor - Peru/Brazil/Argentina already set that
   // precedent, and lumping (e.g. Chile under 'argentinian') was tried and
@@ -215,6 +215,12 @@ const REGIONS = {
     countries: ['Myanmar', 'Laos', 'Cambodia', 'Thailand', 'Malaysia', 'Brunei', 'Indonesia', 'Philippines', 'Papua New Guinea'],
     width: 1000,
     height: 560,
+  },
+  'central-america': {
+    label: 'Central America',
+    countries: ['Guatemala', 'Belize', 'Honduras', 'El Salvador', 'Nicaragua', 'Costa Rica', 'Panama'],
+    width: 700,
+    height: 620,
   },
 };
 

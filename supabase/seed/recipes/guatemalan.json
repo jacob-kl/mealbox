@@ -1,0 +1,1348 @@
+[
+  {
+    "name": "Guatemalan Desayuno Chapin",
+    "cuisine": "guatemalan",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Fry the eggs to your liking.",
+      "Warm the refried beans and plantain.",
+      "Serve together with the queso fresco and warm tortillas."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "qty": 15,
+        "note": "as a crema stand-in"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the eggs in a little oil to your liking.",
+      "Warm the refried beans and the baked plantain.",
+      "Serve everything together with the queso fresco, a dollop of cream (standing in for crema), and warm tortillas - a classic Guatemalan breakfast plate, chapin being a common nickname for Guatemalans."
+    ]
+  },
+  {
+    "name": "Guatemalan Mosh",
+    "cuisine": "guatemalan",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer the oats in the milk with the cinnamon for 6-8 minutes until thick and creamy.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Oats (Includes foods for USDA's Food Distribution Program)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the oats in the milk with the cinnamon over medium-low heat, stirring often, 8-10 minutes until thick and creamy.",
+      "Stir in the sugar and serve warm - mosh, a cinnamon oatmeal, is a common, comforting Guatemalan breakfast, especially for children."
+    ]
+  },
+  {
+    "name": "Guatemalan Atol de Elote",
+    "cuisine": "guatemalan",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Blend the corn with the milk until smooth.",
+      "Simmer with the sugar for 8-10 minutes, stirring, until thickened.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the corn with the milk until very smooth, straining if a finer texture is wanted.",
+      "Simmer with the sugar and cinnamon over medium-low heat, stirring constantly, 10-12 minutes until thick and warming.",
+      "Serve warm - atol de elote, a sweet corn drink, is a beloved Guatemalan breakfast and street-food staple."
+    ]
+  },
+  {
+    "name": "Guatemalan Frijoles Volteados",
+    "cuisine": "guatemalan",
+    "meal_type": "lunch",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Warm the refried beans in the oil, mashing smooth.",
+      "Top with the crumbled queso fresco."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "finely chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion in the oil until soft, then add the beans and mash until smooth and glossy, cooking 5-6 minutes.",
+      "Top with the crumbled queso fresco - volteado means 'flipped,' referring to the traditional technique of cooking the beans until they hold together enough to flip like a pancake."
+    ]
+  },
+  {
+    "name": "Guatemalan Jocon",
+    "cuisine": "guatemalan",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.5,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 50,
+        "note": "as a tomatillo stand-in, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion.",
+      "Blend the cilantro and cabbage with a splash of water into a bright green sauce.",
+      "Add the sauce to the chicken and simmer 20-25 minutes until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.6,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 55,
+        "note": "as a tomatillo stand-in, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
+      "Blend the cilantro, cabbage (standing in for tomatillo), and jalapeno with a splash of water into a smooth, bright green sauce.",
+      "Add the sauce to the chicken and simmer, covered, 22-28 minutes until tender - jocon's vivid green color and herbal brightness make it one of Guatemala's most distinctive stews."
+    ]
+  },
+  {
+    "name": "Guatemalan Caldo de Res",
+    "cuisine": "guatemalan",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": "chunked"
+      }
+    ],
+    "steps": [
+      "Simmer the beef in water until nearly tender, about 45 minutes.",
+      "Add the potato, carrot, and cabbage, and simmer 20 more minutes.",
+      "Serve hot with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 55,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 70,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the beef with the onion in 3 cups water for 45-50 minutes until nearly tender.",
+      "Add the potato and carrot, and simmer 15 minutes.",
+      "Add the cabbage and continue simmering 10-12 minutes until all the vegetables are tender.",
+      "Top with cilantro and serve hot with rice - a hearty, everyday Guatemalan beef soup."
+    ]
+  },
+  {
+    "name": "Guatemalan Hilachas",
+    "cuisine": "guatemalan",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 180,
+        "note": "shredded, cooked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Simmer the beef until very tender, then shred finely.",
+      "Simmer the shredded beef with the tomatoes, potato, and onion for 20-25 minutes until the potato is tender.",
+      "Serve with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 200,
+        "note": "shredded, cooked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 110,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the beef in water until completely tender, 1.5-2 hours, then shred it finely, meaning 'shredded threads.'",
+      "Saute the onion, bell pepper, and garlic until softened, then add the tomatoes, shredded beef, and potato with a splash of the cooking broth.",
+      "Simmer 22-28 minutes until the potato is tender and the sauce has thickened.",
+      "Serve with rice - hilachas is a beloved everyday Guatemalan comfort dish."
+    ]
+  },
+  {
+    "name": "Guatemalan Pepian de Pollo",
+    "cuisine": "guatemalan",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Pumpkin seeds",
+        "qty": 1,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the chicken thigh in water 20 minutes until cooked through; reserve the broth.",
+      "Toast the pumpkin seeds in a dry pan until they pop, then blend with the tomatoes and a splash of broth into a sauce.",
+      "Simmer the sauce with the shredded chicken 10 minutes. Serve over the cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Pumpkin seeds",
+        "qty": 1.2,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 1,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the chicken with the onion in water 22-28 minutes until cooked through; reserve the broth and shred the chicken.",
+      "Toast the pumpkin seeds and sesame seeds in a dry pan until fragrant and the pumpkin seeds pop, then blend with the tomatoes and a splash of the reserved broth into a rich, nutty sauce.",
+      "Simmer the sauce with the shredded chicken 10-12 minutes to meld the flavors.",
+      "Serve over the cooked rice - pepian, thickened with toasted seeds rather than flour, is widely considered Guatemala's national dish."
+    ]
+  },
+  {
+    "name": "Guatemalan Tamales Colorados",
+    "cuisine": "guatemalan",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Masa harina",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Achiote paste",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the masa harina with warm water and the achiote paste into a thick, spreadable dough.",
+      "Simmer the chicken with the diced tomatoes 15 minutes until cooked; shred and stir into the dough.",
+      "Spread the filled dough onto a piece of parchment or a soaked corn husk, fold into a packet, and steam 45 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Masa harina",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Achiote paste",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the masa harina with warm water, the oil, and the achiote paste into a thick, smooth, spreadable dough.",
+      "Simmer the chicken with the diced tomatoes 15-18 minutes until cooked through; shred and mix with a portion of the tomato sauce, folding in the raisins.",
+      "Spread a layer of the masa dough onto parchment or a soaked corn husk, top with the chicken filling, fold into a sealed packet, and steam 45-55 minutes until firm.",
+      "Tamales colorados, named for their red achiote-tinted dough, are a Guatemalan holiday centerpiece, especially at Christmas."
+    ]
+  },
+  {
+    "name": "Guatemalan Chiles Rellenos",
+    "cuisine": "guatemalan",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 150,
+        "note": "whole"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Roast the peppers until softened.",
+      "Brown the beef and stuff into the peppers.",
+      "Dip in the beaten egg and flour, and pan-fry until golden on all sides."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 170,
+        "note": "whole"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Roast the whole peppers at 425F (220C) for 15-18 minutes until softened and lightly charred, then carefully remove the seeds through a slit.",
+      "Brown the beef with the onion, and stuff generously into the peppers.",
+      "Dip each stuffed pepper in the flour, then the beaten egg, and pan-fry in the oil, turning, 4-6 minutes until golden on all sides.",
+      "A festive Guatemalan dish, often part of larger holiday spreads."
+    ]
+  },
+  {
+    "name": "Guatemalan Kak'ik",
+    "cuisine": "guatemalan",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": "as a turkey stand-in"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the paprika.",
+      "Add the tomatoes and a splash of water, and simmer 25-30 minutes until tender.",
+      "Stir in the cilantro before serving with rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 240,
+        "note": "as a turkey stand-in"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.9,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.3,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.375,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the paprika, garlic, and jalapeno over medium-high heat, 8-10 minutes.",
+      "Add the diced tomatoes and 1 cup water, and simmer, covered, 28-35 minutes until tender and the broth is richly flavored.",
+      "Stir in the cilantro just before serving with rice - kak'ik, traditionally made with turkey and rooted in Q'eqchi' Mayan cuisine, is one of Guatemala's most historically significant dishes, recognized by UNESCO."
+    ]
+  },
+  {
+    "name": "Guatemalan Chuchitos",
+    "cuisine": "guatemalan",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Masa harina",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Achiote paste",
+        "qty": 0.75,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the masa harina with warm water and achiote into a thick dough.",
+      "Brown the beef with the tomatoes, then fold a little into the dough.",
+      "Wrap small portions in corn husk or parchment and steam 30-35 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Masa harina",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Achiote paste",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the masa harina with warm water and the achiote paste into a thick, spreadable dough.",
+      "Brown the beef with the onion and tomatoes, 8-10 minutes, then fold a spoonful into each portion of dough.",
+      "Wrap small portions tightly in corn husk or parchment and steam 30-40 minutes until firm.",
+      "Chuchitos are a smaller, simpler cousin of tamales, a beloved everyday Guatemalan snack."
+    ]
+  },
+  {
+    "name": "Guatemalan Enchiladas Guatemaltecas",
+    "cuisine": "guatemalan",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 1,
+        "note": "tortilla, fried flat, as a tostada base"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Fry the tortilla flat and crisp.",
+      "Brown the beef and pile onto the tortilla with the cabbage and queso fresco."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 1.25,
+        "note": "tortilla, fried flat, as a tostada base"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 55,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "hard-boiled, sliced, to top"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 30,
+        "note": "to top"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the tortilla flat in a little oil until crisp, forming a tostada-like base.",
+      "Brown the beef, then pile onto the crisp tortilla with the shredded cabbage, tomatoes, queso fresco, and sliced egg.",
+      "Unlike Mexican enchiladas, Guatemalan enchiladas are open-faced and eaten like a loaded tostada - a popular festive snack."
+    ]
+  },
+  {
+    "name": "Guatemalan Fried Plantains",
+    "cuisine": "guatemalan",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 150,
+        "note": "sliced, pan-fried"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Slice the plantain and fry in the oil until golden, about 3-4 minutes per side.",
+      "Serve warm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 170,
+        "note": "sliced, pan-fried"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "qty": 15,
+        "note": "as a crema stand-in, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Slice the plantain into thick rounds and fry in the oil over medium heat, 4-5 minutes per side, until deeply golden and caramelized.",
+      "Serve warm with a dollop of cream - fried sweet plantains are a beloved Guatemalan side and snack."
+    ]
+  },
+  {
+    "name": "Guatemalan Tostadas",
+    "cuisine": "guatemalan",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 1,
+        "note": "tortilla, fried flat and crisp"
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 40,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz"
+      }
+    ],
+    "steps": [
+      "Fry the tortilla until crisp and flat.",
+      "Spread with the refried beans and top with the cabbage and queso fresco."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 1.25,
+        "note": "tortilla, fried flat and crisp"
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 45,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 25,
+        "note": "to top"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the tortilla in a little oil until crisp and flat, forming a sturdy base.",
+      "Spread generously with the refried beans, then top with the shredded cabbage, diced tomatoes, and crumbled queso fresco.",
+      "Guatemalan tostadas, sold by street vendors everywhere, come with countless topping variations."
+    ]
+  },
+  {
+    "name": "Guatemalan Rellenitos de Platano",
+    "cuisine": "guatemalan",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 150,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 60,
+        "note": "mashed, as a black bean stand-in"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Mash the plantain into a smooth dough.",
+      "Sweeten the mashed beans with the sugar.",
+      "Wrap the bean filling in a portion of plantain dough, shape into an oval, and fry until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 170,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Kidney beans",
+        "qty": 70,
+        "note": "mashed, as a black bean stand-in"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the plantain until smooth and dough-like.",
+      "Mash the beans with the sugar and cinnamon until sweet and paste-like.",
+      "Take a portion of the plantain dough, flatten, spoon the bean filling into the center, and fold closed into a small oval.",
+      "Fry in the oil over medium heat, turning, 4-6 minutes until deeply golden on all sides.",
+      "Rellenitos, sweet plantain fritters filled with sweetened beans, are a treasured Guatemalan dessert."
+    ]
+  },
+  {
+    "name": "Guatemalan Poe",
+    "cuisine": "guatemalan",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 82.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in the coconut milk with the sugar and cinnamon for 20-25 minutes until thick and pudding-like.",
+      "Serve warm or chilled."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 94.6,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 12,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice in the coconut milk with the sugar, cinnamon, and raisins over medium-low heat, stirring often, 22-28 minutes until thick and creamy.",
+      "Serve warm or chilled - poe, a coconut rice pudding from the Garifuna and Caribbean coastal tradition, is enjoyed in Guatemala's Caribbean region as well as its neighbors."
+    ]
+  },
+  {
+    "name": "Guatemalan Torrejas",
+    "cuisine": "guatemalan",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Dip the crackers in the beaten egg.",
+      "Fry until golden on both sides.",
+      "Warm the sugar with a splash of water and the cinnamon into a light syrup, and pour over."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Dip the crackers (standing in for slightly stale bread) in the beaten egg, coating well.",
+      "Fry in the oil over medium heat, 2-3 minutes per side, until golden.",
+      "Warm the sugar with a splash of water and the cinnamon over low heat 3-4 minutes into a light syrup, and pour generously over the fried torrejas.",
+      "Torrejas, a Guatemalan take on French toast, are especially associated with Lent and Holy Week."
+    ]
+  },
+  {
+    "name": "Guatemalan Chirmol",
+    "cuisine": "guatemalan",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Combine the tomatoes, onion, cilantro, and lime juice.",
+      "Season with salt and serve alongside grilled meats."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.15,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the tomatoes, onion, cilantro, lime juice, and jalapeno.",
+      "Season with salt and let sit 10 minutes so the flavors meld - chirmol is a simple, bright Guatemalan table sauce, served with nearly everything grilled."
+    ]
+  },
+  {
+    "name": "Guatemalan Salsa de Ajonjoli",
+    "cuisine": "guatemalan",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 2,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Toast the sesame seeds until golden.",
+      "Blend with the tomatoes and garlic into a smooth sauce.",
+      "Warm gently before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 2.5,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.16666666666666666,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the sesame seeds in a dry pan until golden and fragrant, 2-3 minutes.",
+      "Blend with the tomatoes, garlic, and oil into a smooth, nutty sauce.",
+      "Warm gently before serving over grilled chicken or vegetables - a simpler cousin of pepian's toasted-seed sauce tradition."
+    ]
+  }
+]

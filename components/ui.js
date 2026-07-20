@@ -105,14 +105,15 @@ export function NavBar({ active }) {
 }
 
 export const CUISINES = [
-  'american', 'argentinian', 'australian', 'bolivian', 'brazilian', 'bruneian', 'burmese', 'cambodian',
-  'canadian', 'caribbean', 'central-african', 'central-american', 'chilean', 'chinese', 'colombian',
-  'east-african', 'ecuadorian', 'filipino', 'french', 'french-guianese', 'german', 'guyanese', 'hawaiian', 'indian', 'indonesian',
+  'american', 'argentinian', 'australian', 'belizean', 'bolivian', 'brazilian', 'bruneian', 'burmese', 'cambodian',
+  'canadian', 'caribbean', 'central-african', 'chilean', 'chinese', 'colombian', 'costa-rican',
+  'east-african', 'ecuadorian', 'filipino', 'french', 'french-guianese', 'german', 'guatemalan', 'guyanese',
+  'hawaiian', 'honduran', 'indian', 'indonesian',
   'irish', 'israeli', 'italian', 'japanese', 'jordanian', 'korean', 'laotian', 'lebanese', 'malaysian',
-  'mediterranean', 'mexican', 'mongolian', 'new-mexico', 'new-zealander', 'north-african', 'palestinian',
-  'papua-new-guinean', 'paraguayan', 'peruvian', 'polish', 'portuguese', 'russian', 'saudi', 'south-african',
-  'southern', 'spanish', 'surinamese', 'swedish', 'swiss', 'syrian', 'thai', 'turkish', 'uruguayan',
-  'venezuelan', 'vietnamese', 'west-african',
+  'mediterranean', 'mexican', 'mongolian', 'new-mexico', 'new-zealander', 'nicaraguan', 'north-african', 'palestinian',
+  'panamanian', 'papua-new-guinean', 'paraguayan', 'peruvian', 'polish', 'portuguese', 'russian', 'salvadoran',
+  'saudi', 'south-african', 'southern', 'spanish', 'surinamese', 'swedish', 'swiss', 'syrian', 'thai',
+  'turkish', 'uruguayan', 'venezuelan', 'vietnamese', 'west-african',
 ];
 
 export const CUISINE_LABELS = {
@@ -121,7 +122,6 @@ export const CUISINE_LABELS = {
   brazilian: 'Brazilian',
   caribbean: 'Caribbean',
   'central-african': 'Central African',
-  'central-american': 'Central American',
   chilean: 'Chilean',
   paraguayan: 'Paraguayan',
   uruguayan: 'Uruguayan',
@@ -130,6 +130,13 @@ export const CUISINE_LABELS = {
   ecuadorian: 'Ecuadorian',
   venezuelan: 'Venezuelan',
   guyanese: 'Guyanese',
+  guatemalan: 'Guatemalan',
+  belizean: 'Belizean',
+  honduran: 'Honduran',
+  salvadoran: 'Salvadoran',
+  nicaraguan: 'Nicaraguan',
+  'costa-rican': 'Costa Rican',
+  panamanian: 'Panamanian',
   surinamese: 'Surinamese',
   canadian: 'Canadian',
   australian: 'Australian',
