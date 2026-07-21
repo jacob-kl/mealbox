@@ -104,6 +104,8 @@ const GROUP_COLORS = {
   portuguese: '#2E6B8A',
   irish: '#3F8F4A',
   icelandic: '#5B8FA8',
+  norwegian: '#A8434A',
+  finnish: '#4A7A6B',
   english: '#B8524A',
   scottish: '#4A6B4E',
   welsh: '#8B3D52',
