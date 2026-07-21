@@ -1,0 +1,1297 @@
+[
+  {
+    "name": "Scottish Porridge",
+    "cuisine": "scottish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Simmer the oats in the milk and a pinch of salt for 6-8 minutes, stirring, until thick.",
+      "Serve plain, or with a drizzle of honey on the side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 0.5,
+        "note": "tbsp, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the oats in the milk and a generous pinch of salt over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
+      "Traditionally served plain and unsweetened, stirred with a spurtle - honey can go on the side rather than mixed in, for anyone who wants it."
+    ]
+  },
+  {
+    "name": "Scottish Tattie Scones",
+    "cuisine": "scottish",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 120,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the mashed potato with the flour and melted butter into a soft dough.",
+      "Roll thin, cut into rounds, and cook on a dry, hot griddle 2-3 minutes per side."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 135,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed potato with the flour, melted butter, and pepper into a soft, workable dough.",
+      "Roll out thin on a floured surface, cut into rounds or triangles, and cook on a dry, hot griddle, 2-3 minutes per side, until lightly speckled.",
+      "Tattie scones are a fixture of the Scottish breakfast, usually fried a second time in a little more butter before serving."
+    ]
+  },
+  {
+    "name": "Scottish Oat-Crusted Herring",
+    "cuisine": "scottish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, herring, Atlantic, raw",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 30,
+        "note": "for the coating"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Press the herring into the oats to coat both sides.",
+      "Fry in the oil and butter, 3-4 minutes per side, until the coating is crisp and golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, herring, Atlantic, raw",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 35,
+        "note": "for the coating"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the herring with pepper and press it firmly into the oats to coat both sides.",
+      "Fry in the oil and butter over medium heat, 4-5 minutes per side, until the oat coating is crisp and deeply golden and the fish flakes easily.",
+      "Herring rolled in oatmeal and fried was once an everyday breakfast in Scottish fishing towns, prized for being cheap, filling, and quick before a morning at sea."
+    ]
+  },
+  {
+    "name": "Scottish Cullen Skink",
+    "cuisine": "scottish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, herring, Atlantic, kippered",
+        "qty": 120,
+        "note": "standing in for smoked haddock"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Soften the onion, then add the potato and milk and simmer 15 minutes until the potato is tender.",
+      "Flake in the fish and warm through before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, herring, Atlantic, kippered",
+        "qty": 140,
+        "note": "standing in for smoked haddock"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 115,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the onion in the butter, 5-6 minutes, then add the potato, milk, and pepper and simmer 18-20 minutes until the potato is fully tender, mashing some of it against the pot to thicken the base.",
+      "Flake in the fish and warm through gently for 3-4 minutes without letting it boil hard.",
+      "Cullen skink, named for the fishing town of Cullen, is traditionally made with smoked haddock - kippered herring gives a similar smoky depth."
+    ]
+  },
+  {
+    "name": "Scottish Lamb and Barley-Style Broth",
+    "cuisine": "scottish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 160,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 60,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the onion.",
+      "Add the potato, cabbage, and 2 cups water, and simmer 25-30 minutes until the vegetables are tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 115,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 70,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 15,
+        "note": "for body"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion and pepper over medium-high heat, 8-10 minutes.",
+      "Add the potato, cabbage, oats, and 2.25 cups water, and simmer 28-32 minutes until the vegetables are tender and the broth has thickened slightly from the oats.",
+      "A hearty lamb and vegetable broth like this has warmed Scottish kitchens for centuries, traditionally thickened with barley rather than oats, but the oats do similar work."
+    ]
+  },
+  {
+    "name": "Scottish Stovies",
+    "cuisine": "scottish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion in the butter.",
+      "Layer in the potato with a splash of water, cover, and simmer 25-30 minutes until the potato is very soft, stirring occasionally to break it down."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 165,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and pepper in the butter over medium-high heat, 8-10 minutes.",
+      "Layer in the potato with three-quarters cup water, cover, and simmer 28-32 minutes, stirring occasionally, until the potato has broken down into a thick, soft mash running through the meat.",
+      "Stovies began as a way to stretch Sunday's roast leftovers through the rest of the week, built almost entirely from potato."
+    ]
+  },
+  {
+    "name": "Scottish Cheese and Leek Soup",
+    "cuisine": "scottish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 50,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Soften the leeks in the butter, 8-10 minutes.",
+      "Add the milk and simmer 5 minutes, then stir in the cheese until melted."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
+        "qty": 115,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Soften the leeks in the butter over medium-low heat, 10-12 minutes, until fully tender.",
+      "Stir in the flour and cook 1 minute, then add the milk gradually, simmering 6-8 minutes until slightly thickened.",
+      "Stir in the cheese until fully melted and smooth - a simple, comforting soup that leans on Scotland's dairy farming as much as its produce."
+    ]
+  },
+  {
+    "name": "Scottish Oat-Topped Shepherd's Pie",
+    "cuisine": "scottish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 140,
+        "note": "mashed for the topping"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 15,
+        "note": "mixed into the topping"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the onion.",
+      "Mix the mashed potato with the oats, spread over the lamb, and bake at 400F for 15-20 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 160,
+        "note": "mashed for the topping"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 20,
+        "note": "mixed into the topping"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion and pepper over medium-high heat, 8-10 minutes.",
+      "Mash the potato with the butter, mix in the oats for a rustic, slightly nubby topping, spread over the lamb, and bake at 400F (200C) for 18-22 minutes until golden.",
+      "Working oats into the potato topping is a distinctly Scottish variation on the wider shepherd's pie tradition."
+    ]
+  },
+  {
+    "name": "Scottish Individual Meat Pie",
+    "cuisine": "scottish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "cold, for the pastry"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the pepper.",
+      "Make a simple pastry from the flour, butter, and cold water, line a small dish, fill with the beef, top with more pastry, and bake at 400F for 20-25 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 165,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 22,
+        "note": "cold, for the pastry"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and pepper over medium-high heat, 8-10 minutes.",
+      "Rub the butter into the flour with a pinch of salt and enough cold water to form a firm pastry dough.",
+      "Line a small dish with half the pastry, fill with the beef, top with the remaining pastry, seal the edges, and bake at 400F (200C) for 22-26 minutes until deeply golden.",
+      "The individual Scotch pie, peppery and hand-sized, is a fixture at football grounds across Scotland."
+    ]
+  },
+  {
+    "name": "Scottish Baked Herring with Oats",
+    "cuisine": "scottish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, herring, Atlantic, raw",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 30,
+        "note": "for the topping"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Press the oats over the herring and dot with the butter.",
+      "Bake at 400F for 15-18 minutes until the topping is crisp and the fish is cooked through. Finish with the lime juice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, herring, Atlantic, raw",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 35,
+        "note": "for the topping"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Season the herring with the pepper and press the oats firmly over the top, dotting with the butter.",
+      "Bake at 400F (200C) for 16-20 minutes until the oat topping is crisp and golden and the fish flakes easily.",
+      "Finish with the lime juice just before serving."
+    ]
+  },
+  {
+    "name": "Scottish Haggis (USA-Legal Version)",
+    "cuisine": "scottish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lamb, variety meats and by-products, heart, raw",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Lamb, variety meats and by-products, liver, raw",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 45,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": "standing in for suet"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer the heart and liver in water until tender, about 25-30 minutes, then mince finely.",
+      "Toast the oats in a dry pan, and soften the onion in the butter.",
+      "Combine everything with the black pepper, press into a small loaf, and bake at 350F for 25-30 minutes until firm."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lamb, variety meats and by-products, heart, raw",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Lamb, variety meats and by-products, liver, raw",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 50,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 14,
+        "note": "standing in for suet"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, mace, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp, crushed"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the heart and liver in water over medium-low heat until fully tender, 28-32 minutes, then mince finely by hand or in short pulses in a food processor.",
+      "Toast the oats in a dry pan over medium heat, 3-4 minutes, until fragrant, and soften the onion in the butter, 6-7 minutes.",
+      "Combine the minced organs, oats, onion, black pepper, mace, and coriander thoroughly.",
+      "Press into a small loaf shape, wrap in foil, and bake at 350F (175C) for 28-32 minutes until firm and cooked through.",
+      "Traditional haggis is built on heart, liver, and lung - lung has been prohibited for sale as human food in the US since 1971, so heart and liver carry the dish here, which is also how haggis is legitimately made anywhere that same restriction applies. The heavy black pepper is not a mistake - it's the dish's most defining seasoning."
+    ]
+  },
+  {
+    "name": "Scottish Shortbread",
+    "cuisine": "scottish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 35,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar together, then work in the flour until it forms a smooth dough.",
+      "Press into a small pan, prick with a fork, and bake at 325F for 20-25 minutes until pale gold."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 40,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar together until light, then work in the flour until it just comes together into a smooth, firm dough - do not overwork it.",
+      "Press into a small pan, prick all over with a fork, and bake at 325F (165C) for 22-28 minutes until pale gold at the edges.",
+      "Shortbread, built from just butter, sugar, and flour in fixed proportions, is one of the oldest and most exported of Scottish baked goods."
+    ]
+  },
+  {
+    "name": "Scottish Oatcakes",
+    "cuisine": "scottish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the oats and flour with the melted butter and enough hot water to form a firm dough.",
+      "Roll thin, cut into rounds, and bake at 375F for 15-18 minutes until crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 14,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the oats, flour, and pepper with the melted butter and enough hot water to form a firm, rollable dough.",
+      "Roll out thin, cut into rounds or triangles, and bake at 375F (190C) for 16-20 minutes until crisp and lightly golden.",
+      "Oatcakes are eaten plain, with cheese, or alongside soup - a genuinely everyday Scottish staple, older than the country's wheat-flour baking traditions."
+    ]
+  },
+  {
+    "name": "Scottish Herring Pate",
+    "cuisine": "scottish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, herring, Atlantic, kippered",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mash the kippered herring with the butter and lime juice until smooth.",
+      "Serve with bread or oatcakes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, herring, Atlantic, kippered",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 18,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mash the kippered herring with the butter, lime juice, and pepper until smooth and spreadable.",
+      "Serve with bread or oatcakes - a simple, rich pate that makes good use of smoked or kippered fish beyond the breakfast table."
+    ]
+  },
+  {
+    "name": "Scottish Cabbage and Cheese Fritters",
+    "cuisine": "scottish",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 70,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 30,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the cabbage, cheese, flour, and egg into a thick batter.",
+      "Fry spoonfuls in oil, 2-3 minutes per side, until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 80,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 35,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cabbage, cheese, flour, and egg into a thick, well-combined batter.",
+      "Fry spoonfuls in the oil over medium heat, 3-4 minutes per side, until golden and cooked through."
+    ]
+  },
+  {
+    "name": "Scottish Cranachan",
+    "cuisine": "scottish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 25,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Currants, zante, dried",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Toast the oats in a dry pan until fragrant.",
+      "Layer with the honey, currants, and milk in a small glass, and serve."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 30,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Currants, zante, dried",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the oats in a dry pan over medium heat, 3-4 minutes, stirring, until fragrant and lightly golden.",
+      "Warm the honey and sugar with a splash of the milk into a light syrup, then layer the oats, syrup, currants, and remaining milk in a small glass.",
+      "Cranachan is traditionally built with cream, whisky-soaked oats, and raspberries - this keeps the honeyed, toasted-oat character while working with what's on hand."
+    ]
+  },
+  {
+    "name": "Scottish Tablet",
+    "cuisine": "scottish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 4,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the sugar, milk, and butter together, stirring, until it reaches a thick, grainy stage, about 10-12 minutes.",
+      "Pour into a small dish and let set until firm, then cut into squares."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 4.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the sugar, milk, and butter together over medium heat, stirring constantly, 12-15 minutes, until it thickens and turns pale and grainy when a little is dropped into cold water.",
+      "Pour into a small lined dish and let set at room temperature at least 1-2 hours until firm, then cut into small squares.",
+      "Tablet is firmer and grainier than fudge, a distinction Scottish confectioners take seriously."
+    ]
+  },
+  {
+    "name": "Scottish Dundee-Style Fruit Cake",
+    "cuisine": "scottish",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Currants, zante, dried",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, mix in the flour and currants, and bake at 325F for 30-35 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 30,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Currants, zante, dried",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar until light, then beat in the egg.",
+      "Fold in the flour, baking powder, and currants, and pour into a small lined pan.",
+      "Bake at 325F (165C) for 35-40 minutes until a skewer comes out clean - a dense, currant-studded cake in the spirit of the classic Dundee original."
+    ]
+  },
+  {
+    "name": "Scottish Milk and Butter Sauce",
+    "cuisine": "scottish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Warm the milk and butter together with the honey until it forms a light, glossy sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornstarch into a little of the cold milk, then warm the rest of the milk with the butter and honey.",
+      "Whisk in the cornstarch slurry and simmer 2-3 minutes until lightly thickened and glossy - a simple sweet sauce for tablet, oatcakes, or fruit cake."
+    ]
+  },
+  {
+    "name": "Scottish Oat-Thickened Onion Gravy",
+    "cuisine": "scottish",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 10,
+        "note": "ground, as a thickener"
+      }
+    ],
+    "steps": [
+      "Cook the onion slowly in the butter until deeply softened, about 12-15 minutes.",
+      "Stir in the ground oats and thin with water into a rustic gravy."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yellow onion",
+        "qty": 70,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
+        "qty": 12,
+        "note": "ground, as a thickener"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion slowly in the butter over medium-low heat, 15-18 minutes, until deeply softened and golden.",
+      "Stir in the ground oats and pepper, then thin gradually with water, stirring, into a rustic, slightly textured gravy - using oats instead of flour to thicken is an old, practical habit in oat-growing parts of Scotland."
+    ]
+  }
+]
