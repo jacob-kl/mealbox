@@ -1,0 +1,1311 @@
+[
+  {
+    "name": "Austrian Kaiserschmarrn (Shredded Sweet Pancake)",
+    "cuisine": "austrian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the flour, egg, milk, and sugar into a smooth batter.",
+      "Cook in a hot, buttered pan until set, then tear into pieces with two forks and caramelize briefly."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, egg, milk, and sugar into a smooth, thick batter.",
+      "Cook in the butter over medium heat until the underside is golden and the top is nearly set, 4-5 minutes.",
+      "Tear into rough pieces directly in the pan with two forks and cook 2-3 more minutes to caramelize the edges.",
+      "Top with the honey - kaiserschmarrn, torn and sugared rather than served whole, is one of Austria's most iconic dishes."
+    ]
+  },
+  {
+    "name": "Austrian Bread and Cheese",
+    "cuisine": "austrian",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 30,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Butter the bread and top with the cheese."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
+        "qty": 2.25,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 35,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Butter the bread generously, top with the cheese, and finish with a little black pepper."
+    ]
+  },
+  {
+    "name": "Austrian Apricot Jam Toast",
+    "cuisine": "austrian",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
+        "qty": 1,
+        "note": "slice"
+      },
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 50,
+        "note": "cooked down into a quick jam"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the apricots with the honey and a splash of water until soft and jammy, about 10 minutes.",
+      "Toast the bread in the butter and spread with the apricot jam."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
+        "qty": 1.25,
+        "note": "slice"
+      },
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 60,
+        "note": "cooked down into a quick jam"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the apricots with the honey, cinnamon, and a splash of water over medium-low heat, 11-13 minutes, mashing as it softens, until soft and jammy.",
+      "Toast the bread in the butter and spread generously with the warm apricot jam - apricot preserves are a foundation of Austrian pastry, not just a topping."
+    ]
+  },
+  {
+    "name": "Austrian Wiener Schnitzel",
+    "cuisine": "austrian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Veal, leg, top round, cap off, cutlet, boneless, raw",
+        "qty": 180,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": "for dredging"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Pound the veal cutlet thin.",
+      "Dredge in the flour, then the beaten egg, and fry in the oil, 2-3 minutes per side, until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Veal, leg, top round, cap off, cutlet, boneless, raw",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": "for dredging"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Pound the veal cutlet thin and even, about a quarter-inch thick.",
+      "Dredge in the flour, then the beaten egg, pressing to coat well, and fry in the oil over medium-high heat, 2-3 minutes per side, until deeply golden.",
+      "Finish with the lime juice - a proper schnitzel is traditionally breaded in fine dry breadcrumbs, which aren't a distinct ingredient in this database, so a flour coating carries the crust here instead."
+    ]
+  },
+  {
+    "name": "Austrian Potato Dumplings (Knodel)",
+    "cuisine": "austrian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the mashed potato with the flour and egg into a firm dough.",
+      "Shape into balls and simmer in water 10-12 minutes until they float.",
+      "Toss in the melted butter before serving."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed potato with the flour, egg, and pepper into a firm, workable dough.",
+      "Shape into even balls and simmer in gently boiling water 12-14 minutes until they float and are cooked through.",
+      "Toss in the melted butter before serving - knodel are the standard accompaniment to nearly any Austrian main course with a sauce."
+    ]
+  },
+  {
+    "name": "Austrian Goulash",
+    "cuisine": "austrian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion, paprika, and caraway.",
+      "Add 1.5 cups water and simmer 30-35 minutes until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 55,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, garlic, paprika, and caraway over medium-high heat, 9-11 minutes.",
+      "Add 1.75 cups water and simmer 32-38 minutes until fully tender.",
+      "Austria's own goulash tradition, absorbed from its long history alongside Hungary, tends to use a bit more onion and a touch less liquid than the Hungarian original."
+    ]
+  },
+  {
+    "name": "Austrian Cheese Spaetzle-Style Dumplings",
+    "cuisine": "austrian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 35,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Whisk the flour and egg with a little water into a thick, sticky batter.",
+      "Drop small spoonfuls into simmering water and cook 2-3 minutes until they float.",
+      "Toss with the butter and cheese."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, egg, and pepper with a little water into a thick, sticky batter.",
+      "Drop small spoonfuls into simmering water and cook 3-4 minutes until they float and are cooked through.",
+      "Toss with the butter and cheese, letting it melt through - kasspatzle, soft egg dumplings folded through melted cheese, is an Alpine Austrian classic."
+    ]
+  },
+  {
+    "name": "Austrian Tafelspitz (Boiled Beef)",
+    "cuisine": "austrian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 130,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer the beef with the onion and pepper in water until very tender, about 40-45 minutes.",
+      "Add the potato in the last 20 minutes and simmer until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 240,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 145,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the beef with the onion, garlic, and pepper in enough water to cover, 42-48 minutes, until very tender, skimming occasionally.",
+      "Add the potato in the last 20-22 minutes and simmer until tender.",
+      "Tafelspitz, boiled beef served with its own rich broth, was reportedly a favorite of Emperor Franz Joseph and remains one of Vienna's defining dishes."
+    ]
+  },
+  {
+    "name": "Austrian Veal Goulash",
+    "cuisine": "austrian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Veal, leg, top round, cap off, cutlet, boneless, raw",
+        "qty": 190,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the veal with the onion and paprika.",
+      "Add a splash of water and simmer 15-18 minutes until tender.",
+      "Stir in the sour cream off the heat."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Veal, leg, top round, cap off, cutlet, boneless, raw",
+        "qty": 210,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the veal with the onion, garlic, and paprika over medium-high heat, 9-11 minutes.",
+      "Add three-quarters cup water and simmer 18-22 minutes until tender.",
+      "Remove from heat and stir in the sour cream for a lighter, more delicate goulash than the beef version."
+    ]
+  },
+  {
+    "name": "Austrian Pork Roast with Sauerkraut",
+    "cuisine": "austrian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Pork, fresh, belly, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Sauerkraut, canned, solids and liquids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Season the pork with the caraway and pepper and roast at 400F for 25-30 minutes until browned.",
+      "Warm the sauerkraut in the pan drippings and serve alongside."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork, fresh, belly, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Sauerkraut, canned, solids and liquids",
+        "qty": 115,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Season the pork generously with the caraway and pepper and roast at 400F (200C) for 28-32 minutes until well browned and the fat has rendered.",
+      "Soften the onion in a little of the rendered pork fat, add the sauerkraut, and warm through, 6-8 minutes, and serve alongside."
+    ]
+  },
+  {
+    "name": "Austrian Cheese and Potato Bake",
+    "cuisine": "austrian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 50,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 170,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Layer the potato with the milk in a small dish and bake at 375F, covered, for 30 minutes.",
+      "Uncover, top with the cheese, and bake 10-15 more minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 190,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Layer the potato with the milk, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 32-35 minutes until tender.",
+      "Uncover, top with the cheese, and bake 12-15 more minutes until golden and bubbling."
+    ]
+  },
+  {
+    "name": "Austrian Bread Dumpling Snack",
+    "cuisine": "austrian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "standing in for stale bread"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "finely chopped"
+      }
+    ],
+    "steps": [
+      "Soften the onion in the butter.",
+      "Mix the flour and egg with the onion into a firm dough, shape into a small dumpling, and simmer in water 12-15 minutes until cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": "standing in for stale bread"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the onion in the butter, 5-6 minutes.",
+      "Mix the flour, egg, softened onion, and pepper into a firm dough, shape into a small dumpling, and simmer in gently boiling water 14-16 minutes until cooked through.",
+      "Semmelknodel are traditionally made from stale white rolls rather than flour - this keeps the same soft, savory dumpling in a form this database's ingredients can support."
+    ]
+  },
+  {
+    "name": "Austrian Almond Cookies",
+    "cuisine": "austrian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cream the butter and sugar, mix in the flour and almonds, and shape into small crescents.",
+      "Bake at 350F for 12-15 minutes until lightly golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 30,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 28,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cream the butter and sugar until light, then mix in the flour, almonds, and cinnamon until it forms a soft dough.",
+      "Shape into small crescents and bake at 350F (175C) for 13-16 minutes until lightly golden.",
+      "Almond crescent cookies are a mainstay of Austrian holiday baking."
+    ]
+  },
+  {
+    "name": "Austrian Cheese and Caraway Crackers",
+    "cuisine": "austrian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 30,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": "cold"
+      }
+    ],
+    "steps": [
+      "Rub the butter into the flour, cheese, and caraway.",
+      "Add a little water to form a firm dough, roll thin, cut into shapes, and bake at 375F for 12-15 minutes until crisp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 35,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 18,
+        "note": "cold"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the butter into the flour, cheese, caraway, and pepper until crumbly.",
+      "Add a little cold water to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and golden."
+    ]
+  },
+  {
+    "name": "Austrian Apricot and Almond Snack",
+    "cuisine": "austrian",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 70,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the apricot halves with the almonds and honey."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 80,
+        "note": "halved"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 25,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the apricot halves with the almonds, honey, and cinnamon, letting them sit a few minutes so the flavors meld."
+    ]
+  },
+  {
+    "name": "Austrian Apfelstrudel (Apple Strudel)",
+    "cuisine": "austrian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 150,
+        "note": "peeled and thinly sliced"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the apple with the sugar.",
+      "Make a simple pastry from the flour, butter, and water, roll thin, fill with the apple, roll up, and bake at 375F for 25-30 minutes until golden."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 170,
+        "note": "peeled and thinly sliced"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": "for the pastry"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 24,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the apple with the sugar and cinnamon.",
+      "Make a simple, thin pastry from the flour, half the butter, and a little water, roll it out as thin as possible, and fill with the apple mixture.",
+      "Roll up tightly, brush with the remaining melted butter, and bake at 375F (190C) for 28-32 minutes until deeply golden.",
+      "Apfelstrudel, its pastry traditionally stretched paper-thin by hand, is one of Austria's most recognized dishes worldwide."
+    ]
+  },
+  {
+    "name": "Austrian Apricot Almond Cake",
+    "cuisine": "austrian",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 60,
+        "note": "pitted and pureed"
+      },
+      {
+        "ingredient": "Nuts, almond paste",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Mix the almond paste with the egg until smooth, fold in the pureed apricot and flour.",
+      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 70,
+        "note": "pitted and pureed"
+      },
+      {
+        "ingredient": "Nuts, almond paste",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the almond paste with the egg and melted butter until smooth, then fold in the pureed apricot and flour.",
+      "Pour into a small lined pan and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean.",
+      "Apricot preserves layered with almond flavor recall the filling in a Sachertorte, without the chocolate this database doesn't carry."
+    ]
+  },
+  {
+    "name": "Austrian Rice Pudding (Milchreis)",
+    "cuisine": "austrian",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Milchreis, warm and gently spiced, is a familiar homestyle dessert across Austria."
+    ]
+  },
+  {
+    "name": "Austrian Apricot Sauce (Marillensauce)",
+    "cuisine": "austrian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 70,
+        "note": "pitted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Simmer the apricots with the honey and butter and a splash of water, 10-12 minutes, until it breaks down into a sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Apricots, raw",
+        "qty": 80,
+        "note": "pitted"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the apricots with the honey, butter, cinnamon, and a splash of water over medium-low heat, 12-14 minutes, mashing as it softens, until it breaks down into a thick, glossy sauce.",
+      "The classic accompaniment to Austrian dumplings and pastries alike."
+    ]
+  },
+  {
+    "name": "Austrian Caraway Cream Sauce",
+    "cuisine": "austrian",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Warm the sour cream, caraway, and butter together gently until smooth."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the sour cream, caraway, butter, and pepper together gently over low heat, stirring, until smooth - do not let it boil.",
+      "Good over roasted pork or potato dumplings."
+    ]
+  }
+]
