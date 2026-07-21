@@ -133,6 +133,13 @@ const GROUP_COLORS = {
   omani: '#B8935A',
   iraqi: '#3D8A8A',
   iranian: '#5B4A8A',
+  // Emirati, Qatari, Bahraini, and Kuwaiti are also Middle East region
+  // members on the world map (sharing the cluster color above there), but
+  // each needs its own real color for the zoomed regional view.
+  emirati: '#D9A441',
+  qatari: '#5C8A6E',
+  bahraini: '#4A6B8F',
+  kuwaiti: '#A8433D',
   // Georgia, Armenia, and Azerbaijan are standalone on the world map (not
   // part of the Middle East cluster), so each gets its own real color.
   georgian: '#4A9B5C',
