@@ -92,7 +92,6 @@ export default async function DashboardPage({ searchParams }) {
       .from('ingredients')
       .select('name, cal, protein, carbs, fat, serving_qty, serving_unit, serving_label, sub_group, dietary_tags, allergens')
       .order('name')
-      .order('id')
   );
 
   return (
