@@ -65,7 +65,8 @@
       "Whisk the egg, feta, and yogurt together.",
       "Crumple the phyllo sheets loosely into a small dish, brushing each generously with the melted butter, pouring the cheese mixture between layers, and bake at 375F (190C) for 28-32 minutes until deeply golden and set.",
       "Banitsa, one of Bulgaria's most iconic dishes, is eaten for breakfast almost daily and holds special ceremonial importance at New Year's, when paper-wrapped fortunes are baked inside."
-    ]
+    ],
+    "description": "Banitsa, layered phyllo with cheese and egg, is a Bulgarian breakfast staple, especially for holidays."
   },
   {
     "name": "Bulgarian Eggs with Peppers",
@@ -132,7 +133,8 @@
     "steps_detailed": [
       "Soften the pepper and onion in the oil over medium heat, 6-7 minutes.",
       "Scramble in the eggs, cooking gently, stirring often, until just set, folding in the feta at the very end."
-    ]
+    ],
+    "description": "A simple, everyday egg breakfast."
   },
   {
     "name": "Bulgarian Oat Porridge",
@@ -189,7 +191,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple breakfast porridge."
   },
   {
     "name": "Bulgarian Shopska Salad",
@@ -263,7 +266,8 @@
     "steps_detailed": [
       "Toss the cucumber, tomatoes, pepper, oil, and lime juice together.",
       "Grate the feta generously over the entire top of the salad rather than mixing it in - shopska salad, topped with a heavy dusting of white cheese, is considered Bulgaria's national salad."
-    ]
+    ],
+    "description": "Shopska salad, tomato, cucumber, pepper, and grated cheese, is considered Bulgaria's national salad."
   },
   {
     "name": "Bulgarian Tarator (Cold Yogurt Cucumber Soup)",
@@ -337,7 +341,8 @@
     "steps_detailed": [
       "Mix the yogurt, cucumber, garlic, dill, and oil with a little cold water to thin to a soup-like consistency.",
       "Top with the walnuts and chill at least 30 minutes before serving - tarator is a refreshing, essential dish through Bulgaria's hot summers."
-    ]
+    ],
+    "description": "Tarator, a cold yogurt and cucumber soup, a refreshing Bulgarian summer staple."
   },
   {
     "name": "Bulgarian Kavarma (Meat and Pepper Stew)",
@@ -405,9 +410,9 @@
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, pepper, garlic, and oregano over medium-high heat, 9-11 minutes.",
-      "Add the tomatoes and simmer 16-20 minutes until thickened and rich - kavarma, slow-cooked meat and vegetables, is traditionally baked in individual clay pots."
-    ]
+      "Brown the beef with the onion, pepper, garlic, and oregano over medium-high heat, 9-11 minutes."
+    ],
+    "description": "Add the tomatoes and simmer 16-20 minutes until thickened and rich - kavarma, slow-cooked meat and vegetables, is traditionally baked in individual clay pots."
   },
   {
     "name": "Bulgarian Lentil Soup",
@@ -476,7 +481,8 @@
     "steps_detailed": [
       "Soften the onion, garlic, and paprika in a little oil, 5-6 minutes.",
       "Add the lentils, tomatoes, and 2.25 cups water, and simmer 28-32 minutes until soft and thickened."
-    ]
+    ],
+    "description": "A simple, everyday lentil soup."
   },
   {
     "name": "Bulgarian Baked Beans (Gyuvech-Style)",
@@ -550,7 +556,8 @@
       "Layer the chickpeas, pepper, tomatoes, onion, garlic, and oregano in a small baking dish.",
       "Bake at 375F (190C), covered, for 32-38 minutes until bubbling and the vegetables are tender.",
       "Gyuvech, a baked vegetable and bean dish named for its clay cooking pot, is a hearty vegetarian mainstay across Bulgaria."
-    ]
+    ],
+    "description": "Gyuvech, named for the clay pot it's traditionally baked in, a hearty Bulgarian bean and vegetable dish."
   },
   {
     "name": "Bulgarian Beef and Cabbage Stew",
@@ -615,7 +622,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and paprika over medium-high heat, 9-11 minutes.",
       "Add the cabbage and a generous splash of water, cover, and simmer 32-38 minutes until fully tender."
-    ]
+    ],
+    "description": "A simple beef and cabbage stew."
   },
   {
     "name": "Bulgarian Cheese and Potato Bake",
@@ -682,7 +690,8 @@
     "steps_detailed": [
       "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
       "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ]
+    ],
+    "description": "A simple cheese and potato bake, common Balkan comfort food."
   },
   {
     "name": "Bulgarian Baked Fish with Peppers",
@@ -749,7 +758,8 @@
     "steps_detailed": [
       "Toss the pepper with the oil and garlic and roast alongside the fish at 400F (200C) for 16-20 minutes until the fish flakes easily.",
       "Finish with the lime juice."
-    ]
+    ],
+    "description": "A simple baked fish with peppers, roasted peppers being a defining Balkan flavor."
   },
   {
     "name": "Bulgarian Banitsa Snack (Small Phyllo Rolls)",
@@ -805,7 +815,8 @@
     "steps_detailed": [
       "Mix the feta with a little egg.",
       "Roll small portions in the buttered phyllo, brushing well, and bake at 375F (190C) for 16-20 minutes until deeply golden and crisp."
-    ]
+    ],
+    "description": "A smaller, snack-sized version of banitsa, layered phyllo pastry."
   },
   {
     "name": "Bulgarian Feta and Cucumber Snack",
@@ -862,7 +873,8 @@
     ],
     "steps_detailed": [
       "Arrange the feta and cucumber together, drizzle with the oil, and scatter with the dill."
-    ]
+    ],
+    "description": "A simple feta and cucumber snack."
   },
   {
     "name": "Bulgarian Spiced Chickpea Snack",
@@ -930,7 +942,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "Bulgarian Cabbage Slaw",
@@ -990,7 +1003,8 @@
     "steps_detailed": [
       "Toss the cabbage with the oil, lime juice, and pepper.",
       "Let sit 15 minutes so it softens slightly before serving."
-    ]
+    ],
+    "description": "A simple cabbage slaw."
   },
   {
     "name": "Bulgarian Honey Walnut Cake",
@@ -1057,7 +1071,8 @@
     "steps_detailed": [
       "Beat the egg with the honey and melted butter, then mix in the flour and walnuts.",
       "Pour into a small lined pan and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ]
+    ],
+    "description": "Honey and walnut, a classic Balkan sweet pairing."
   },
   {
     "name": "Bulgarian Rice Pudding",
@@ -1123,7 +1138,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ]
+    ],
+    "description": "A simple rice pudding."
   },
   {
     "name": "Bulgarian Sweet Phyllo with Walnuts",
@@ -1190,7 +1206,8 @@
     "steps_detailed": [
       "Layer the phyllo sheets, brushing each generously with the melted butter, scattering the walnuts and cinnamon between layers, and roll up tightly.",
       "Bake at 375F (190C) for 22-26 minutes until deeply golden, and drizzle with the honey while still warm."
-    ]
+    ],
+    "description": "Phyllo and walnuts soaked in syrup, in the spirit of baklava, found in countless variations across the Balkans."
   },
   {
     "name": "Bulgarian Yogurt Garlic Sauce",
@@ -1246,7 +1263,8 @@
     ],
     "steps_detailed": [
       "Mix the yogurt, garlic, dill, and oil together into a cool, sharp sauce - built on the same yogurt tradition that runs through Bulgarian cooking generally."
-    ]
+    ],
+    "description": "A simple yogurt-garlic sauce."
   },
   {
     "name": "Bulgarian Tomato Pepper Sauce",
@@ -1315,6 +1333,7 @@
     "steps_detailed": [
       "Soften the pepper, garlic, and paprika in the oil, 6-7 minutes.",
       "Add the tomatoes and simmer 14-16 minutes until thickened."
-    ]
+    ],
+    "description": "A simple tomato-pepper sauce, roasted peppers being a defining Balkan flavor."
   }
 ]

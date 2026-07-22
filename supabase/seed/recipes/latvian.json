@@ -53,10 +53,11 @@
     "steps_detailed": [
       "Butter the rye bread generously, top with the cheese, and finish with a little black pepper.",
       "Rupjmaize, dark sour rye bread, is considered close to a national symbol in Latvia."
-    ]
+    ],
+    "description": "Rye bread, Latvia's everyday bread, paired here with butter and cheese."
   },
   {
-    "name": "Latvian Chickpeas with Onion (Pea-Style)",
+    "name": "Latvian Grey Peas with Onion",
     "cuisine": "latvian",
     "meal_type": "breakfast",
     "course": "complete",
@@ -94,9 +95,9 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "Split peas (dry)",
         "qty": 145,
-        "note": "standing in for Latvian grey peas"
+        "note": "soaked overnight and simmered until tender"
       },
       {
         "ingredient": "Yellow onion",
@@ -120,10 +121,11 @@
       }
     ],
     "steps_detailed": [
+      "Soak the split peas in water overnight, then drain and simmer in fresh water 35-40 minutes until fully tender.",
       "Brown the onion in the oil and butter over medium-low heat, 12-15 minutes, until deeply caramelized and sweet.",
-      "Warm the chickpeas through with the onion and pepper, 5-6 minutes.",
-      "Grey peas with fried onion and bacon fat is one of Latvia's most iconic traditional dishes - grey peas aren't in this database, so chickpeas carry the dish here, with the same heavily caramelized onion topping."
-    ]
+      "Toss the drained, cooked peas with the caramelized onion and pepper."
+    ],
+    "description": "Zir\u0146i ar spe\u0137i, grey peas with bacon fat and onion, is a genuine Latvian staple, especially associated with Christmas - split peas are a much closer match to the real dried pea than chickpeas, which are a different legume entirely."
   },
   {
     "name": "Latvian Oat Porridge",
@@ -180,7 +182,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple breakfast porridge."
   },
   {
     "name": "Latvian Cold Beet Soup",
@@ -248,9 +251,9 @@
     ],
     "steps_detailed": [
       "Boil the beets until tender, 20-25 minutes, then cool and dice.",
-      "Mix the beets, sour cream, cucumber, and dill with cold water to thin, and top with the chopped hard-boiled egg.",
-      "Auksta zupa, cold pink beet soup, is a beloved summer dish across Latvia, its bright color a genuine point of visual delight."
-    ]
+      "Mix the beets, sour cream, cucumber, and dill with cold water to thin, and top with the chopped hard-boiled egg."
+    ],
+    "description": "Auksta zupa, cold pink beet soup, is a beloved summer dish across Latvia, its bright color a genuine point of visual delight."
   },
   {
     "name": "Latvian Herring and Potato Salad",
@@ -316,7 +319,8 @@
     "steps_detailed": [
       "Toss the herring, potato, onion, dill, and sour cream together.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "Herring and potato salad, a classic Latvian pairing."
   },
   {
     "name": "Latvian Cabbage and Potato Stew",
@@ -384,7 +388,8 @@
     "steps_detailed": [
       "Soften the onion in the oil, 5-6 minutes.",
       "Add the cabbage, potato, pepper, and 1.75 cups water, and simmer 24-28 minutes until fully tender."
-    ]
+    ],
+    "description": "A simple cabbage and potato stew."
   },
   {
     "name": "Latvian Barley and Beef Soup",
@@ -449,7 +454,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and pepper over medium-high heat, 8-10 minutes.",
       "Add the barley and 2.25 cups water, and simmer 32-38 minutes until fully tender - barley soup is a common warming lunch through Latvia's long winters."
-    ]
+    ],
+    "description": "A simple barley and beef soup, barley being a Latvian pantry staple."
   },
   {
     "name": "Latvian Pork and Cabbage Stew",
@@ -514,7 +520,8 @@
     "steps_detailed": [
       "Brown the pork with the onion, caraway, and pepper over medium-high heat, 9-11 minutes.",
       "Add the cabbage and a generous splash of water, cover, and simmer 26-30 minutes until fully tender."
-    ]
+    ],
+    "description": "A simple pork and cabbage stew."
   },
   {
     "name": "Latvian Baked Salmon with Dill",
@@ -582,7 +589,8 @@
       "Season the salmon with the dill and pepper and dot with the butter.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
       "Finish with the lime juice."
-    ]
+    ],
+    "description": "A simple baked salmon, dill being a defining Baltic herb."
   },
   {
     "name": "Latvian Beef and Potato Stew",
@@ -647,7 +655,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the potato and 1.75 cups water, and simmer 32-38 minutes until fully tender."
-    ]
+    ],
+    "description": "A simple beef and potato stew."
   },
   {
     "name": "Latvian Cheese and Potato Bake",
@@ -714,7 +723,8 @@
     "steps_detailed": [
       "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
       "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ]
+    ],
+    "description": "A simple cheese and potato bake."
   },
   {
     "name": "Latvian Rye Bread with Herring",
@@ -769,7 +779,8 @@
     ],
     "steps_detailed": [
       "Butter the rye bread generously, top with the pickled herring, and finish with a scattering of fresh dill."
-    ]
+    ],
+    "description": "Rye bread and herring, a classic Latvian pairing."
   },
   {
     "name": "Latvian Beet and Dill Snack",
@@ -827,7 +838,8 @@
     "steps_detailed": [
       "Boil the beets until tender, 20-25 minutes, then cool and grate.",
       "Toss with the dill, oil, and garlic."
-    ]
+    ],
+    "description": "A simple beet and dill snack."
   },
   {
     "name": "Latvian Caraway Crackers",
@@ -894,7 +906,8 @@
     "steps_detailed": [
       "Rub the butter into the flour, caraway, and pepper until crumbly.",
       "Add the milk to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and lightly golden."
-    ]
+    ],
+    "description": "A simple caraway cracker, caraway being a common Latvian spice."
   },
   {
     "name": "Latvian Cabbage Slaw",
@@ -954,7 +967,8 @@
     "steps_detailed": [
       "Toss the cabbage with the oil, lime juice, and pepper.",
       "Let sit 15 minutes so it softens slightly before serving."
-    ]
+    ],
+    "description": "A simple cabbage slaw."
   },
   {
     "name": "Latvian Honey Cake",
@@ -1026,7 +1040,8 @@
     "steps_detailed": [
       "Cream the butter and honey together until light, then beat in the egg.",
       "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ]
+    ],
+    "description": "A simple honey cake."
   },
   {
     "name": "Latvian Rye Bread Pudding",
@@ -1097,9 +1112,9 @@
     ],
     "steps_detailed": [
       "Layer the torn rye bread with the currants in a small baking dish.",
-      "Whisk the milk, honey, and egg together and pour over, letting it soak 12-15 minutes.",
-      "Dot with the butter and bake at 350F (175C) for 22-28 minutes until set - rupjmaizes kartojums, layered rye bread dessert, is a genuine Latvian specialty, traditionally layered with whipped cream and berries."
-    ]
+      "Whisk the milk, honey, and egg together and pour over, letting it soak 12-15 minutes."
+    ],
+    "description": "Dot with the butter and bake at 350F (175C) for 22-28 minutes until set - rupjmaizes kartojums, layered rye bread dessert, is a genuine Latvian specialty, traditionally layered with whipped cream and berries."
   },
   {
     "name": "Latvian Rice Pudding",
@@ -1165,7 +1180,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ]
+    ],
+    "description": "A simple rice pudding."
   },
   {
     "name": "Latvian Sour Cream Dill Sauce",
@@ -1221,7 +1237,8 @@
     ],
     "steps_detailed": [
       "Mix the sour cream, dill, garlic, and pepper together into a cool, herby sauce."
-    ]
+    ],
+    "description": "A simple sour cream and dill sauce."
   },
   {
     "name": "Latvian Onion Butter Sauce",
@@ -1277,6 +1294,7 @@
     ],
     "steps_detailed": [
       "Cook the onion slowly in the butter with the garlic and pepper over medium-low heat, 15-18 minutes, until deeply softened and golden - the same caramelized onion topping that defines Latvia's grey peas dish."
-    ]
+    ],
+    "description": "A simple onion-butter sauce."
   }
 ]

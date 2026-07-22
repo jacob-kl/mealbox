@@ -64,7 +64,8 @@
     "steps_detailed": [
       "Soften the onion and green pepper in the butter, 5-6 minutes.",
       "Scramble in the eggs and paprika, cooking gently, stirring often, until just set - paprika-flecked scrambled eggs are a common Hungarian weekend breakfast."
-    ]
+    ],
+    "description": "A simple egg dish, paprika being Hungary's defining spice."
   },
   {
     "name": "Hungarian Cheese and Pepper Toast",
@@ -121,7 +122,8 @@
     "steps_detailed": [
       "Toast the bread in the butter until warmed through.",
       "Top with the cheese and sliced pepper while the toast is still warm."
-    ]
+    ],
+    "description": "A simple cheese and pepper toast."
   },
   {
     "name": "Hungarian Langos (Fried Bread)",
@@ -190,7 +192,8 @@
       "Mix the flour and egg with enough water to form a soft, slightly sticky dough, and rest 20 minutes.",
       "Stretch thin by hand and fry in the oil over medium heat, 3-4 minutes per side, until puffed and deeply golden.",
       "Top with the cheese and a dollop of sour cream while still hot - langos, sold at markets and festivals across Hungary, is usually eaten by hand."
-    ]
+    ],
+    "description": "L\u00e1ngos, deep-fried dough, a beloved Hungarian street food."
   },
   {
     "name": "Hungarian Goulash",
@@ -261,7 +264,8 @@
       "Brown the beef with the onion, paprika, and garlic over medium-high heat, 8-10 minutes.",
       "Add the potato, pepper, and 1.75 cups water, and simmer 28-32 minutes until fully tender.",
       "Real Hungarian goulash is a soup, not a thick stew - paprika, onion, and slow cooking are what define it, not tomato."
-    ]
+    ],
+    "description": "Guly\u00e1s, Hungary's national dish, is paprika-forward and was originally a herders' soup rather than the thicker stew often served abroad."
   },
   {
     "name": "Hungarian Chicken Paprikash",
@@ -326,9 +330,9 @@
     ],
     "steps_detailed": [
       "Brown the chicken with the onion, paprika, and garlic over medium-high heat, 8-10 minutes.",
-      "Add three-quarters cup water and simmer 18-20 minutes until the chicken is cooked through and the sauce has reduced slightly.",
-      "Remove from heat and stir in the sour cream - paprikas, chicken in a rich, paprika-red sauce, is Hungary's most internationally recognized dish."
-    ]
+      "Add three-quarters cup water and simmer 18-20 minutes until the chicken is cooked through and the sauce has reduced slightly."
+    ],
+    "description": "Remove from heat and stir in the sour cream - paprikas, chicken in a rich, paprika-red sauce, is Hungary's most internationally recognized dish."
   },
   {
     "name": "Hungarian Lecso (Pepper and Tomato Stew)",
@@ -401,7 +405,8 @@
       "Soften the onion and pepper in the oil over medium heat, 8-10 minutes.",
       "Add the tomatoes and paprika, and simmer 16-20 minutes until thickened.",
       "Crack in the egg and stir gently until just set - lecso, endlessly adaptable, is often stretched with egg, sausage, or rice into a fuller meal."
-    ]
+    ],
+    "description": "Lecs\u00f3, a pepper and tomato stew, a beloved Hungarian summer staple."
   },
   {
     "name": "Hungarian Stuffed Peppers",
@@ -471,7 +476,8 @@
     "steps_detailed": [
       "Mix the beef, rice, onion, and paprika, and pack firmly into the hollowed pepper.",
       "Arrange in a small baking dish with the tomatoes poured over, cover, and bake at 375F (190C) for 38-42 minutes until the rice is fully cooked and the pepper is tender."
-    ]
+    ],
+    "description": "T\u00f6lt\u00f6tt paprika, stuffed peppers, a Hungarian home-cooking staple."
   },
   {
     "name": "Hungarian Beef Goulash Soup",
@@ -542,7 +548,8 @@
       "Brown the beef with the onion, garlic, paprika, and caraway over medium-high heat, 9-11 minutes.",
       "Add the potato and 2.25 cups water, and simmer 32-38 minutes until fully tender.",
       "Caraway is a quieter but genuine part of traditional goulash, rounding out the paprika without announcing itself."
-    ]
+    ],
+    "description": "Guly\u00e1s, originally a soup rather than the thick stew often served abroad, is genuinely Hungary's national dish in this brothier form."
   },
   {
     "name": "Hungarian Veal Paprikash",
@@ -609,7 +616,8 @@
       "Brown the veal with the onion, garlic, and paprika over medium-high heat, 9-11 minutes.",
       "Add three-quarters cup water and simmer 18-22 minutes until tender.",
       "Remove from heat and stir in the sour cream - veal gives a lighter, more delicate paprikash than the more common chicken version."
-    ]
+    ],
+    "description": "A veal version of paprik\u00e1s, Hungary's iconic paprika-and-sour-cream dish."
   },
   {
     "name": "Hungarian Pork and Sauerkraut Stew",
@@ -676,7 +684,8 @@
       "Brown the pork with the onion and paprika over medium-high heat, 9-11 minutes.",
       "Add the sauerkraut and a generous splash of water, and simmer 28-32 minutes until the pork is tender.",
       "Remove from heat and stir in the sour cream - szekely gulyas, layering pork and sauerkraut in a paprika-sour cream sauce, is a beloved regional classic."
-    ]
+    ],
+    "description": "Pork and sauerkraut, often with paprika, a classic Hungarian pairing."
   },
   {
     "name": "Hungarian Baked Cheese and Potato",
@@ -743,7 +752,8 @@
     "steps_detailed": [
       "Layer the potato with the sour cream, butter, and paprika in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
       "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ]
+    ],
+    "description": "A simple baked cheese and potato dish."
   },
   {
     "name": "Hungarian Langos with Cheese and Sour Cream",
@@ -817,7 +827,8 @@
       "Mix the flour, egg, and a little minced garlic with water into a soft, slightly sticky dough, and rest 15-20 minutes.",
       "Stretch thin and fry in the oil over medium heat, 3-4 minutes per side, until puffed and golden.",
       "Top with the cheese and sour cream while still hot - this is the single most classic langos topping combination in Hungary."
-    ]
+    ],
+    "description": "L\u00e1ngos topped with cheese and sour cream, a classic Hungarian street-food combination."
   },
   {
     "name": "Hungarian Paprika Cheese Spread",
@@ -882,9 +893,9 @@
       }
     ],
     "steps_detailed": [
-      "Mash the cheese with the butter, paprika, onion, and mustard until well combined and spreadable.",
-      "Korozott, a paprika-flecked spreadable cheese, is a staple mezze-style snack across Hungary, traditionally made with turo, a fresh sheep's cheese."
-    ]
+      "Mash the cheese with the butter, paprika, onion, and mustard until well combined and spreadable."
+    ],
+    "description": "Korozott, a paprika-flecked spreadable cheese, is a staple mezze-style snack across Hungary, traditionally made with turo, a fresh sheep's cheese."
   },
   {
     "name": "Hungarian Pepper and Cheese Snack",
@@ -942,7 +953,8 @@
     "steps_detailed": [
       "Slice the pepper into strips and season lightly with black pepper.",
       "Serve with the cheese, or fill the strips with a little softened butter and cheese for a heartier snack."
-    ]
+    ],
+    "description": "A simple pepper and cheese snack."
   },
   {
     "name": "Hungarian Caraway Crackers",
@@ -1009,7 +1021,8 @@
     "steps_detailed": [
       "Rub the butter into the flour, caraway, and pepper until crumbly.",
       "Add the milk to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and lightly golden."
-    ]
+    ],
+    "description": "A simple caraway cracker."
   },
   {
     "name": "Hungarian Apricot Dumplings",
@@ -1078,7 +1091,8 @@
       "Mix the mashed potato with the flour into a soft, workable dough.",
       "Wrap portions of dough around each pitted apricot, sealing well so no fruit shows through, and simmer in gently boiling water 12-14 minutes until they float.",
       "Roll in the melted butter and sugar before serving - barackgomboc, potato dough wrapped around whole apricots, is a beloved summer dessert in Hungary."
-    ]
+    ],
+    "description": "Fruit dumplings, often apricot, a beloved Hungarian dessert."
   },
   {
     "name": "Hungarian Almond Cake",
@@ -1145,7 +1159,8 @@
     "steps_detailed": [
       "Cream the butter and sugar until light, then beat in the egg.",
       "Fold in the flour and almonds, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ]
+    ],
+    "description": "A simple almond cake."
   },
   {
     "name": "Hungarian Sweet Cheese Pastry",
@@ -1213,7 +1228,8 @@
       "Mix the cheese, flour, egg, sugar, and cinnamon into a soft, well-combined batter.",
       "Pour into a small lined dish and bake at 350F (175C) for 24-28 minutes until set and lightly golden on top.",
       "Turos, a soft fresh cheese, is central to Hungarian sweet baking; cheddar carries the shape of the dish here without the same texture."
-    ]
+    ],
+    "description": "A sweet cheese-filled pastry, common Hungarian baking."
   },
   {
     "name": "Hungarian Paprika Cream Sauce",
@@ -1270,7 +1286,8 @@
     "steps_detailed": [
       "Warm the sour cream, paprika, butter, and pepper together gently over low heat, stirring, until smooth - do not let it boil, or the sour cream may separate.",
       "Spoon over chicken, dumplings, or roasted vegetables."
-    ]
+    ],
+    "description": "A paprika cream sauce, in the spirit of paprik\u00e1s."
   },
   {
     "name": "Hungarian Sweet Apricot Sauce",
@@ -1323,6 +1340,7 @@
     "steps_detailed": [
       "Simmer the apricots with the honey, cinnamon, and a splash of water over medium-low heat, 12-14 minutes, mashing as it softens, until it breaks down into a thick, glossy sauce.",
       "Good over dumplings, pancakes, or plain cake."
-    ]
+    ],
+    "description": "A simple sweet apricot sauce, apricots being a common Hungarian fruit."
   }
 ]

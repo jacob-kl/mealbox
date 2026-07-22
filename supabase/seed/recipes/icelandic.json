@@ -45,9 +45,8 @@
         "note": "tbsp"
       }
     ],
-    "steps_detailed": [
-      "Butter the rye bread generously and drizzle with the honey - dense, dark rye bread is an everyday staple in Iceland, traditionally steam-baked slowly until deeply sweet on its own."
-    ]
+    "steps_detailed": [],
+    "description": "Butter the rye bread generously and drizzle with the honey - dense, dark rye bread is an everyday staple in Iceland, traditionally steam-baked slowly until deeply sweet on its own."
   },
   {
     "name": "Icelandic Oat Porridge",
@@ -104,7 +103,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
       "Stir in the currants and top with the honey - porridge is a shared Nordic staple, and Iceland is no exception."
-    ]
+    ],
+    "description": "A simple breakfast porridge."
   },
   {
     "name": "Icelandic Eggs with Dill",
@@ -161,7 +161,8 @@
     "steps_detailed": [
       "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
       "Fold in the dill and pepper just before they finish setting - dill turns up constantly in Icelandic cooking, especially alongside eggs and fish."
-    ]
+    ],
+    "description": "A simple egg breakfast, dill being a defining Icelandic herb."
   },
   {
     "name": "Icelandic Fish Stew",
@@ -227,9 +228,9 @@
     ],
     "steps_detailed": [
       "Boil the potato until fully tender, 12-15 minutes, then mash roughly, leaving some texture.",
-      "Poach the fish gently in the milk, 6-8 minutes, until just cooked, then flake it and fold everything together with the butter and dill.",
-      "Plokkfiskur, a simple mash of fish and potato bound in butter and milk, is one of the most familiar home-cooked meals in Iceland, traditionally made from whatever catch and leftover potato is on hand."
-    ]
+      "Poach the fish gently in the milk, 6-8 minutes, until just cooked, then flake it and fold everything together with the butter and dill."
+    ],
+    "description": "Plokkfiskur, a simple mash of fish and potato bound in butter and milk, is one of the most familiar home-cooked meals in Iceland, traditionally made from whatever catch and leftover potato is on hand."
   },
   {
     "name": "Icelandic Dill and Salmon",
@@ -297,7 +298,8 @@
       "Season the salmon with the dill, lime juice, and pepper.",
       "Pan-fry in the butter over medium heat, 4-5 minutes per side, until just cooked through and flaking easily.",
       "Salmon finished simply with dill and a little acid is close to how it's most often served in Icelandic homes, letting the fish itself do the work."
-    ]
+    ],
+    "description": "A simple salmon and dill dish, reflecting Iceland's strong fishing tradition."
   },
   {
     "name": "Icelandic Herring Salad",
@@ -365,7 +367,8 @@
     "steps_detailed": [
       "Combine the pickled herring, onion, lime juice, dill, and oil.",
       "Let sit 15-20 minutes so the flavors meld - pickled herring in some form appears constantly across Icelandic tables, especially at festive meals."
-    ]
+    ],
+    "description": "A simple herring salad, herring being an Icelandic staple."
   },
   {
     "name": "Icelandic Lamb Soup",
@@ -436,7 +439,8 @@
       "Brown the lamb with the onion and pepper over medium-high heat, 8-10 minutes.",
       "Add the potato, cabbage, and 2.25 cups water, and simmer 28-32 minutes until all the vegetables are tender.",
       "Stir in the dill just before serving. Kjotsupa, Iceland's lamb and root vegetable soup, is one of the country's most enduring dishes, leaning on the lamb that has always outnumbered people on the island."
-    ]
+    ],
+    "description": "Kj\u00f6ts\u00fapa, a hearty lamb soup, one of Iceland's most beloved comfort foods."
   },
   {
     "name": "Icelandic Roast Lamb with Rye Bread",
@@ -503,7 +507,8 @@
       "Season the lamb with the pepper and garlic and shape into a compact, even portion.",
       "Roast at 375F (190C) for 22-28 minutes, turning once, until well browned outside and cooked through.",
       "Serve with the rye bread and butter alongside - lamb has been central to Icelandic cooking since the earliest settlers, with sheep long outnumbering the human population."
-    ]
+    ],
+    "description": "Roast lamb with rye bread, lamb being central to Icelandic cooking given the country's sheep-farming tradition."
   },
   {
     "name": "Icelandic Baked Salmon with Dill",
@@ -571,7 +576,8 @@
       "Season the salmon with the dill and pepper and dot with the butter.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
       "Finish with the lime juice just before serving."
-    ]
+    ],
+    "description": "A simple baked salmon, dill being a defining Icelandic herb."
   },
   {
     "name": "Icelandic Cabbage and Lamb Stew",
@@ -636,7 +642,8 @@
     "steps_detailed": [
       "Brown the lamb with the onion and pepper over medium-high heat, 8-10 minutes.",
       "Add the cabbage, potato, and 1.75 cups water, and simmer 28-32 minutes until all the vegetables are fully tender."
-    ]
+    ],
+    "description": "A simple cabbage and lamb stew."
   },
   {
     "name": "Icelandic Fish and Potato Bake",
@@ -709,7 +716,8 @@
       "Layer the potato with the milk and pepper in a baking dish, cover, and bake at 375F (190C) for 20-22 minutes until nearly tender.",
       "Lay the fish on top, scatter with the cheese and dill, and bake 16-20 more minutes until golden and the fish flakes easily.",
       "A gratin-style spin on plokkfiskur, using the oven instead of the stovetop mash."
-    ]
+    ],
+    "description": "A simple fish and potato bake, reflecting Iceland's strong fishing tradition."
   },
   {
     "name": "Icelandic Rye Bread with Herring",
@@ -764,7 +772,8 @@
     ],
     "steps_detailed": [
       "Butter the rye bread generously, top with the pickled herring, and finish with a scattering of fresh dill - open-faced and simple, this pairing turns up constantly across Icelandic kitchens."
-    ]
+    ],
+    "description": "Rye bread and herring, a common Icelandic pairing."
   },
   {
     "name": "Icelandic Dill and Cheese Toast",
@@ -821,7 +830,8 @@
     "steps_detailed": [
       "Toast the rye bread in the butter until warmed through and lightly crisp.",
       "Top with the cheese and dill while the toast is still warm enough to soften the cheese slightly."
-    ]
+    ],
+    "description": "A simple dill and cheese toast."
   },
   {
     "name": "Icelandic Oatcakes",
@@ -878,7 +888,8 @@
     "steps_detailed": [
       "Mix the oats and flour with the melted butter, honey, and enough hot water to form a firm, rollable dough.",
       "Roll out thin, cut into rounds, and bake at 375F (190C) for 16-20 minutes until crisp and lightly golden."
-    ]
+    ],
+    "description": "Simple oatcakes, oats being a common Icelandic pantry staple."
   },
   {
     "name": "Icelandic Cabbage Slaw with Dill",
@@ -948,7 +959,8 @@
     "steps_detailed": [
       "Toss the cabbage with the dill, lime juice, oil, and pepper.",
       "Let sit 12-15 minutes so it softens slightly before serving - dill turns even a plain cabbage slaw distinctly Icelandic."
-    ]
+    ],
+    "description": "A simple cabbage slaw, dill being a defining Icelandic herb."
   },
   {
     "name": "Icelandic Rye Bread Pudding",
@@ -1021,7 +1033,8 @@
       "Layer the torn rye bread with the currants in a small baking dish.",
       "Whisk the milk, honey, and egg together and pour over, letting it soak 12-15 minutes.",
       "Dot with the butter and bake at 350F (175C) for 22-28 minutes until set - the rye's dense sweetness gives this a deeper, darker character than a plain white-bread version."
-    ]
+    ],
+    "description": "A simple rye bread pudding, rye bread being an Icelandic staple."
   },
   {
     "name": "Icelandic Rice Pudding",
@@ -1088,7 +1101,8 @@
     "steps_detailed": [
       "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Rice pudding served warm with cinnamon is a familiar dessert across the Nordic countries, Iceland included, especially around the holidays."
-    ]
+    ],
+    "description": "A simple rice pudding."
   },
   {
     "name": "Icelandic Honey Cake",
@@ -1160,7 +1174,8 @@
     "steps_detailed": [
       "Cream the butter and honey together until light, then beat in the egg.",
       "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ]
+    ],
+    "description": "A simple honey cake."
   },
   {
     "name": "Icelandic Dill and Butter Sauce",
@@ -1218,7 +1233,8 @@
     "steps_detailed": [
       "Whisk the melted butter with the dill, lime juice, and pepper.",
       "Spoon over fish or potatoes while still warm - a simple, classic pairing that lets dill do most of the work."
-    ]
+    ],
+    "description": "A simple dill-butter sauce, dill being a defining Icelandic herb."
   },
   {
     "name": "Icelandic Honey and Cinnamon Glaze",
@@ -1270,6 +1286,7 @@
     "steps_detailed": [
       "Whisk the melted butter with the honey and cinnamon into a smooth, glossy glaze.",
       "Good over rye bread, oatcakes, or rice pudding - a simple sweet finish built from pantry basics."
-    ]
+    ],
+    "description": "A simple honey-cinnamon glaze."
   }
 ]

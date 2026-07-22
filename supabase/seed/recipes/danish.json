@@ -53,7 +53,8 @@
     "steps_detailed": [
       "Butter the rye bread generously, top with the cheese, and finish with a little black pepper.",
       "Dense rugbrod is eaten constantly in Denmark, plain or topped with cheese, cold cuts, or fish."
-    ]
+    ],
+    "description": "Rugbr\u00f8d, dense rye bread, is the everyday foundation of Danish eating, especially for sm\u00f8rrebr\u00f8d."
   },
   {
     "name": "Danish Oat Porridge",
@@ -110,7 +111,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple breakfast porridge."
   },
   {
     "name": "Danish Eggs with Herring",
@@ -167,7 +169,8 @@
     "steps_detailed": [
       "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
       "Fold in the herring and dill just before they finish setting - fish at breakfast is entirely ordinary in Denmark."
-    ]
+    ],
+    "description": "A simple egg and herring breakfast, herring being a Danish staple."
   },
   {
     "name": "Danish Smorrebrod with Herring",
@@ -232,9 +235,9 @@
       }
     ],
     "steps_detailed": [
-      "Butter the rye bread, then top generously with the herring, onion, and dill.",
-      "Smorrebrod, open-faced and eaten with a knife and fork, is a genuine art form in Denmark - a proper spread can run to dozens of topping combinations."
-    ]
+      "Butter the rye bread, then top generously with the herring, onion, and dill."
+    ],
+    "description": "Smorrebrod, open-faced and eaten with a knife and fork, is a genuine art form in Denmark - a proper spread can run to dozens of topping combinations."
   },
   {
     "name": "Danish Smorrebrod with Egg and Cheese",
@@ -300,7 +303,8 @@
     ],
     "steps_detailed": [
       "Butter the rye bread generously, top with the sliced egg and cheese, and finish with black pepper."
-    ]
+    ],
+    "description": "Sm\u00f8rrebr\u00f8d, open-faced rye bread sandwiches, are a Danish institution with endless topping variations."
   },
   {
     "name": "Danish Frikadeller (Veal Meatballs)",
@@ -369,9 +373,9 @@
     ],
     "steps_detailed": [
       "Mix the veal with the flour, egg, onion, milk, and pepper thoroughly, and form into small oval patties.",
-      "Pan-fry in a little oil over medium heat, 5-6 minutes per side, until deeply browned and cooked through.",
-      "Frikadeller, traditionally a pork-veal blend, are the closest thing Denmark has to a national dish, served at nearly every family dinner."
-    ]
+      "Pan-fry in a little oil over medium heat, 5-6 minutes per side, until deeply browned and cooked through."
+    ],
+    "description": "Frikadeller, traditionally a pork-veal blend, are the closest thing Denmark has to a national dish, served at nearly every family dinner."
   },
   {
     "name": "Danish Pork Belly with Sweet-Sour Cabbage",
@@ -437,7 +441,8 @@
       "Roast the pork belly at 400F (200C) for 28-32 minutes, until well browned and rendered.",
       "Simmer the shredded cabbage with the sugar, lime juice, and butter over medium-low heat, 16-18 minutes, until tender and glossy.",
       "Sweet-sour red cabbage (rodkal) is the standard partner to roast pork across Denmark - plain cabbage stands in for red here, since a distinct red cabbage entry isn't in this database."
-    ]
+    ],
+    "description": "Pork belly with sweet-sour cabbage, a classic Danish home-cooking pairing."
   },
   {
     "name": "Danish Flaeskesteg (Roast Pork)",
@@ -501,13 +506,10 @@
       }
     ],
     "steps_detailed": [
-      "Score the pork skin in a tight crosshatch pattern, cutting through the fat but not into the meat, and rub coarse salt and the pepper deep into every cut - this scoring is what actually produces crackling; without it the fat renders but the skin stays soft rather than shattering crisp.",
-      "Roast skin-side up at 350F (175C) for 60-70 minutes, then increase to 475F (245C) for a final 10-15 minutes specifically to blister and crisp the scored skin into crackling - watch closely in this final stage, since it goes from perfect to burnt quickly.",
       "Roast the potatoes alongside for the last 40 minutes.",
-      "Simmer the cabbage in the butter until tender, 12-15 minutes.",
-      "Rest the pork 10 minutes before slicing through the crackling.",
-      "Fl\u00e6skesteg is defined by its crackling as much as by the meat itself - the two-temperature roast, finishing hot specifically to blister the scored skin, is the technique the whole dish depends on, and skipping it turns this into an ordinary pork roast rather than fl\u00e6skesteg."
-    ]
+      "Simmer the cabbage in the butter until tender, 12-15 minutes."
+    ],
+    "description": "Score the pork skin in a tight crosshatch pattern, cutting through the fat but not into the meat, and rub coarse salt and the pepper deep into every cut - this scoring is what actually produces crackling; without it the fat renders but the skin stays soft rather than shattering crisp. Roast skin-side up at 350F (175C) for 60-70 minutes, then increase to 475F (245C) for a final 10-15 minutes specifically to blister and crisp the scored skin into crackling - watch closely in this final stage, since it goes from perfect to burnt quickly. Rest the pork 10 minutes before slicing through the crackling. Fl\u00e6skesteg is defined by its crackling as much as by the meat itself - the two-temperature roast, finishing hot specifically to blister the scored skin, is the technique the whole dish depends on, and skipping it turns this into an ordinary pork roast rather than fl\u00e6skesteg."
   },
   {
     "name": "Danish Baked Salmon with Dill",
@@ -575,7 +577,8 @@
       "Season the salmon with the dill and pepper and dot with the butter.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
       "Finish with the lime juice - simply prepared salmon and dill is a familiar pairing across Denmark's coastal towns."
-    ]
+    ],
+    "description": "A simple baked salmon, dill being a defining Scandinavian herb."
   },
   {
     "name": "Danish Pork and Cabbage Stew with Caraway",
@@ -641,7 +644,8 @@
       "Brown the pork with the onion, caraway, and pepper over medium-high heat, 10-12 minutes.",
       "Add the cabbage and a generous splash of water, cover, and simmer 22-26 minutes until fully tender.",
       "Caraway is used throughout Danish cooking much as it is elsewhere in Northern Europe, cutting through rich, fatty pork."
-    ]
+    ],
+    "description": "A simple pork and cabbage stew, caraway being a common Danish spice."
   },
   {
     "name": "Danish Cheese and Potato Bake",
@@ -708,7 +712,8 @@
     "steps_detailed": [
       "Layer the potato with the milk, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 32-35 minutes until tender.",
       "Uncover, top with the cheese, and bake 12-15 more minutes until golden and bubbling."
-    ]
+    ],
+    "description": "A simple cheese and potato bake."
   },
   {
     "name": "Danish Liver Pate on Rye",
@@ -772,9 +777,9 @@
     ],
     "steps_detailed": [
       "Simmer the liver and onion in a little water over medium-low heat, 14-16 minutes, until fully cooked through.",
-      "Mash thoroughly with the butter and pepper until smooth and spreadable, and spread generously on the rye bread.",
-      "Leverpostej, traditionally made with pork liver, is one of the most common toppings on a Danish lunch table - veal liver carries the same rich, iron-forward character here."
-    ]
+      "Mash thoroughly with the butter and pepper until smooth and spreadable, and spread generously on the rye bread."
+    ],
+    "description": "Leverpostej, traditionally made with pork liver, is one of the most common toppings on a Danish lunch table - veal liver carries the same rich, iron-forward character here."
   },
   {
     "name": "Danish Almond Cookies",
@@ -841,7 +846,8 @@
     "steps_detailed": [
       "Cream the butter and sugar until light, beat in a little egg, and mix in the flour and almonds until it forms a soft dough.",
       "Shape into small rounds and bake at 350F (175C) for 13-16 minutes until lightly golden at the edges."
-    ]
+    ],
+    "description": "Simple almond cookies, a common Danish Christmas treat."
   },
   {
     "name": "Danish Pickled Herring Plate",
@@ -897,7 +903,8 @@
     ],
     "steps_detailed": [
       "Arrange the pickled herring with the onion and dill, finishing with a small squeeze of lime juice - a simple, familiar cold plate found at nearly any Danish gathering."
-    ]
+    ],
+    "description": "Pickled herring, a Danish sm\u00f8rrebr\u00f8d staple."
   },
   {
     "name": "Danish Oat and Honey Bars",
@@ -955,7 +962,8 @@
       "Mix the oats, chopped almonds, melted butter, and honey together thoroughly.",
       "Press firmly into a small lined pan and bake at 350F (175C) for 20-24 minutes until golden and set.",
       "Cool completely before cutting into bars."
-    ]
+    ],
+    "description": "A simple oat and honey bar."
   },
   {
     "name": "Danish Risalamande (Rice Pudding with Almonds)",
@@ -1021,9 +1029,9 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the sugar and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Stir in the chopped almonds and chill at least 1 hour before serving - risalamande, with a whole almond hidden inside for luck, is Denmark's Christmas Eve dessert."
-    ]
+      "Simmer the rice in the milk with the sugar and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy."
+    ],
+    "description": "Stir in the chopped almonds and chill at least 1 hour before serving - risalamande, with a whole almond hidden inside for luck, is Denmark's Christmas Eve dessert."
   },
   {
     "name": "Danish Almond Pastry Cake",
@@ -1091,7 +1099,8 @@
       "Cream the butter with the almond paste and sugar until well combined, then beat in the egg.",
       "Fold in the flour, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean.",
       "Almond paste turns up throughout Danish baking, giving pastries their distinctive marzipan-like depth."
-    ]
+    ],
+    "description": "A simple almond pastry cake, almonds being a common Danish baking ingredient."
   },
   {
     "name": "Danish Apple Cake (Aeblekage)",
@@ -1157,9 +1166,9 @@
     ],
     "steps_detailed": [
       "Simmer the apple with a splash of water, half the sugar, and the cinnamon over medium heat, 12-15 minutes, until soft, then mash lightly, leaving some texture.",
-      "Toast the flour in the butter over medium heat, 4-5 minutes, until golden and fragrant, standing in for the buttered cake crumbs used traditionally.",
       "Layer the toasted crumbs and apple in a glass, finishing with the remaining sugar - aeblekage is assembled rather than baked, a simple layered dessert built around the apple harvest."
-    ]
+    ],
+    "description": "Toast the flour in the butter over medium heat, 4-5 minutes, until golden and fragrant, standing in for the buttered cake crumbs used traditionally."
   },
   {
     "name": "Danish Mustard Dill Sauce",
@@ -1216,7 +1225,8 @@
     "steps_detailed": [
       "Whisk the mustard, dill, honey, and oil together into a smooth, glossy sauce.",
       "This mustard-dill combination is the classic pairing for gravlax and other cured or smoked fish across Denmark."
-    ]
+    ],
+    "description": "A mustard-dill sauce, the classic pairing for Danish gravlax-style salmon."
   },
   {
     "name": "Danish Sweet-Sour Cabbage",
@@ -1274,6 +1284,7 @@
     "steps_detailed": [
       "Simmer the cabbage with the sugar, lime juice, butter, and a splash of water over medium-low heat, 16-20 minutes, until tender and glossy.",
       "Rodkal, sweet-sour cabbage, is the standard side to roast pork and duck across Danish holiday tables."
-    ]
+    ],
+    "description": "Sweet-sour cabbage, a classic Danish side dish, especially alongside pork."
   }
 ]
