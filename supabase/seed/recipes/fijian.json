@@ -33,7 +33,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       },
@@ -56,7 +56,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk, a little water, and the cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top generously with the honey - coconut milk is worked into breakfast, lunch, and dinner alike across Fiji."
-    ]
+    ],
+    "description": "A simple coconut rice porridge, jasmine rice reflecting Fiji's Indo-Fijian culinary influence."
   },
   {
     "name": "Fijian Eggs with Tomato",
@@ -125,7 +126,8 @@
       "Soften the onion in the oil with the turmeric, 5-6 minutes.",
       "Add the tomatoes and simmer 6-8 minutes until slightly thickened.",
       "Scramble in the eggs, cooking gently, stirring often, until just set - reflecting the strong Indo-Fijian influence on the country's everyday cooking."
-    ]
+    ],
+    "description": "A simple, everyday egg breakfast."
   },
   {
     "name": "Fijian Cassava with Coconut",
@@ -184,7 +186,8 @@
     "steps_detailed": [
       "Boil the cassava until fully tender, 22-28 minutes, then drain.",
       "Toss with the warmed coconut milk, honey, and cinnamon - cassava, a staple root crop across Fiji, is eaten at any meal."
-    ]
+    ],
+    "description": "Cassava, one of Fiji's staple starches alongside taro, paired here simply with coconut milk."
   },
   {
     "name": "Fijian Kokoda (Coconut Fish Ceviche)",
@@ -253,7 +256,8 @@
       "Marinate the fish in the lime juice for 25-30 minutes, until it turns fully opaque and firm, the acid effectively 'cooking' it.",
       "Drain most of the lime juice, then mix in the coconut milk, onion, and jalapeno.",
       "Kokoda, raw fish cured in citrus and finished with coconut milk, is widely considered Fiji's national dish."
-    ]
+    ],
+    "description": "Kokoda, raw fish 'cooked' in citrus and finished with coconut milk, is considered Fiji's national dish."
   },
   {
     "name": "Fijian Taro and Fish Curry",
@@ -325,7 +329,8 @@
     "steps_detailed": [
       "Simmer the taro with the onion and garlic in water over medium heat, 16-20 minutes, until nearly tender.",
       "Add the fish, coconut milk, and turmeric, and simmer 9-11 more minutes until the fish flakes easily and the taro is fully tender."
-    ]
+    ],
+    "description": "Taro, one of Fiji's staple starches, paired here with fish in a coconut curry."
   },
   {
     "name": "Fijian Dal (Lentil Curry)",
@@ -395,7 +400,8 @@
       "Soften the onion, garlic, turmeric, and cumin in a little oil, 5-6 minutes.",
       "Add the lentils and 2.25 cups water, and simmer 28-32 minutes until soft and thickened.",
       "Dal is a genuine everyday dish in Fiji, brought by the large Indo-Fijian community and now firmly part of the national cuisine."
-    ]
+    ],
+    "description": "Dal, a lentil curry, reflects Fiji's significant Indo-Fijian population and their lasting culinary influence."
   },
   {
     "name": "Fijian Chicken Curry",
@@ -460,7 +466,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the coconut milk and turmeric, and simmer 20-22 minutes until the chicken is cooked through."
-    ]
+    ],
+    "description": "A coconut-based chicken curry, reflecting Fiji's Indo-Fijian culinary influence."
   },
   {
     "name": "Fijian Lovo-Style Roasted Chicken",
@@ -523,10 +530,10 @@
       }
     ],
     "steps_detailed": [
-      "Marinate the chicken in the lime juice, garlic, pepper, and coconut milk for at least 25-30 minutes.",
-      "Roast at 400F (200C) for 28-32 minutes until well browned and cooked through.",
-      "Lovo, food wrapped and cooked in an underground pit of hot stones, is Fiji's traditional feast cooking method - a hot oven approximates the char and tenderness without the pit."
-    ]
+      "Marinate the chicken in the lime juice, garlic, black pepper, and coconut milk for at least 20 minutes.",
+      "Roast at 400F (200C) for 35-40 minutes until deeply browned and cooked through."
+    ],
+    "description": "Lovo, food wrapped in banana leaves and slow-cooked in an underground pit oven lined with hot stones, is Fiji's traditional feast-day cooking method - a home oven can only approximate the smoky, earthy result of real lovo, not replicate it."
   },
   {
     "name": "Fijian Cassava and Fish Stew",
@@ -593,7 +600,8 @@
     "steps_detailed": [
       "Simmer the cassava with the onion and garlic in water over medium heat, 20-24 minutes, until nearly tender.",
       "Add the fish and coconut milk, and simmer 9-11 more minutes until the fish flakes easily."
-    ]
+    ],
+    "description": "Cassava and fish, two Fijian staples, simmered together in coconut milk."
   },
   {
     "name": "Fijian Beef Curry",
@@ -658,7 +666,8 @@
     "steps_detailed": [
       "Brown the beef with the onion and garlic over medium-high heat, 9-11 minutes.",
       "Add the coconut milk and turmeric, and simmer 38-42 minutes until very tender."
-    ]
+    ],
+    "description": "A coconut-based beef curry, reflecting Fiji's Indo-Fijian culinary influence."
   },
   {
     "name": "Fijian Baked Fish with Coconut",
@@ -725,7 +734,8 @@
     "steps_detailed": [
       "Pour the coconut milk and lime juice over the fish with the garlic and pepper.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
-    ]
+    ],
+    "description": "A simple baked fish, coconut milk being central to Fijian cooking generally."
   },
   {
     "name": "Fijian Cassava Chips",
@@ -784,7 +794,8 @@
     "steps_detailed": [
       "Fry the cassava slices in the oil over medium heat, 4-5 minutes per side, until deeply golden and crisp.",
       "Season with the pepper and a little minced garlic while still hot."
-    ]
+    ],
+    "description": "Cassava, one of Fiji's staple starches, fried here into simple chips."
   },
   {
     "name": "Fijian Papaya Snack",
@@ -842,7 +853,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the lime juice, honey, and a dusting of cinnamon."
-    ]
+    ],
+    "description": "Papaya, widely grown in Fiji, served here simply."
   },
   {
     "name": "Fijian Spiced Chickpea Snack",
@@ -910,7 +922,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack, reflecting Indo-Fijian influence."
   },
   {
     "name": "Fijian Taro Fritters",
@@ -978,7 +991,8 @@
     "steps_detailed": [
       "Mix the grated taro with the flour, pepper, and garlic into a thick, well-combined batter.",
       "Fry spoonfuls in the oil over medium heat, 4-5 minutes per side, until deeply golden and cooked through."
-    ]
+    ],
+    "description": "Taro, one of Fiji's staple starches, fried here into simple fritters."
   },
   {
     "name": "Fijian Coconut Rice Pudding",
@@ -1018,7 +1032,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1046,7 +1060,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk with the honey and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top with the chopped pineapple."
-    ]
+    ],
+    "description": "A simple coconut rice pudding, jasmine rice reflecting Fiji's Indo-Fijian culinary influence, topped with fresh pineapple."
   },
   {
     "name": "Fijian Pineapple with Honey",
@@ -1103,7 +1118,8 @@
     ],
     "steps_detailed": [
       "Warm the pineapple briefly in the butter, 2-3 minutes, then toss with the honey and cinnamon."
-    ]
+    ],
+    "description": "Pineapple, widely grown in Fiji, served here simply."
   },
   {
     "name": "Fijian Papaya with Honey",
@@ -1159,7 +1175,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the honey, lime juice, and chopped walnuts."
-    ]
+    ],
+    "description": "Papaya, widely grown in Fiji, served here simply."
   },
   {
     "name": "Fijian Coconut Curry Sauce",
@@ -1216,7 +1233,8 @@
     ],
     "steps_detailed": [
       "Simmer the coconut milk with the garlic and turmeric over medium-low heat, 9-12 minutes, until slightly thickened, finishing with the lime juice."
-    ]
+    ],
+    "description": "A base coconut curry sauce, reflecting Fiji's Indo-Fijian culinary influence."
   },
   {
     "name": "Fijian Lime Chili Sauce",
@@ -1274,6 +1292,7 @@
     ],
     "steps_detailed": [
       "Whisk the lime juice, jalapeno, oil, and garlic together into a sharp, bright sauce."
-    ]
+    ],
+    "description": "A simple lime-chili sauce."
   }
 ]

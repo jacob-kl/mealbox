@@ -75,7 +75,8 @@
       "Stir in the fish sauce.",
       "Cook the rice noodles separately according to package directions, drain, and place in a bowl.",
       "Ladle the hot broth and pork over the noodles, top with bean sprouts and cilantro - Cambodia's beloved morning noodle soup, with roots in Teochew Chinese immigrant cooking."
-    ]
+    ],
+    "description": "Kuy teav, a rice noodle soup with Chinese-Teochew roots, a beloved Cambodian breakfast."
   },
   {
     "name": "Cambodian Rice Porridge (Bobor)",
@@ -147,7 +148,8 @@
       "Shred the chicken back into the porridge and season with the fish sauce.",
       "Top with the cilantro and crisp-fried onion.",
       "Bobor, Cambodia's everyday rice porridge, uses ordinary jasmine rice cooked down far past normal doneness - jasmine's soft texture and mild fragrance suit this style of long, gentle simmering better than a firmer grain would."
-    ]
+    ],
+    "description": "Bobor, Cambodia's everyday rice porridge, uses ordinary jasmine rice cooked down far past normal doneness."
   },
   {
     "name": "Cambodian Fried Rice with Egg",
@@ -218,7 +220,8 @@
       "Fry the garlic and onion in the remaining oil until fragrant, 2-3 minutes.",
       "Add the cold, cooked jasmine rice, breaking up any clumps, and stir-fry over high heat 5-6 minutes - day-old rice fries drier and separates far better than fresh rice, which tends to clump and steam instead of frying.",
       "Fold the egg back through, finish with the fish sauce."
-    ]
+    ],
+    "description": "A simple, everyday fried rice."
   },
   {
     "name": "Cambodian Amok Trey",
@@ -264,7 +267,7 @@
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 82.8,
+        "qty": 90,
         "note": ""
       },
       {
@@ -273,14 +276,29 @@
         "note": ""
       },
       {
+        "ingredient": "Lemongrass, raw",
+        "qty": 15,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Galangal, fresh",
+        "qty": 10,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Kaffir lime leaves",
+        "qty": 1,
+        "note": "finely shredded"
+      },
+      {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "qty": 1,
         "note": ""
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.3333333333333333,
-        "note": ""
+        "qty": 0.5,
+        "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
@@ -289,11 +307,12 @@
       }
     ],
     "steps_detailed": [
-      "Cut the fish into large chunks and combine with the coconut milk, egg, turmeric, fish sauce, and garlic in a bowl.",
-      "Pour into a small buttered or oiled dish.",
-      "Steam over simmering water, or bake at 350F (175C) in a water bath, for 28-35 minutes until just set with a light custard-like texture.",
-      "Serve with steamed rice - amok is widely considered Cambodia's national dish, a fragrant steamed fish custard traditionally flavored with kroeung, a pounded herb paste."
-    ]
+      "Pound or blend the lemongrass, galangal, kaffir lime leaf, turmeric, and garlic into a fine, fragrant paste (kroeung) - this paste is the real foundation of amok, not a background note.",
+      "Whisk the coconut milk with the eggs and fish sauce, then stir in the kroeung paste.",
+      "Fold the fish into the custard mixture.",
+      "Pour into a small heatproof dish or banana leaf cup if available, and steam over simmering water 20-25 minutes until just set and the fish is cooked through."
+    ],
+    "description": "Amok trey, fish in a fragrant coconut custard traditionally steamed in a banana leaf cup, is considered Cambodia's national dish - its whole character comes from kroeung, a pounded paste of lemongrass, galangal, turmeric, and kaffir lime leaf."
   },
   {
     "name": "Cambodian Green Mango Salad",
@@ -363,7 +382,8 @@
       "Toss the shredded cabbage (standing in for shredded unripe green mango) with the lime juice, fish sauce, and jalapeno.",
       "Top with the crushed peanuts.",
       "Let sit 10 minutes to let the flavors meld, then serve - a bright, tangy Cambodian salad, often paired with grilled meats or dried fish."
-    ]
+    ],
+    "description": "A tangy, crunchy green mango salad, common across Cambodia."
   },
   {
     "name": "Cambodian Bai Sach Chrouk",
@@ -436,7 +456,8 @@
       "Cook the jasmine rice separately, 15-18 minutes.",
       "Slice the pork thin and serve over the rice with the cucumber alongside.",
       "Bai sach chrouk, grilled pork over rice, is Cambodia's most common breakfast, traditionally sold from morning street carts - the marinade's sweetness and the char it produces on the grill are the whole flavor of the dish."
-    ]
+    ],
+    "description": "Bai sach chrouk, grilled pork over rice, is Cambodia's most common breakfast, traditionally sold from morning street carts."
   },
   {
     "name": "Cambodian Nom Banh Chok",
@@ -520,7 +541,8 @@
       "Poach the fish with the garlic and turmeric until cooked through, 8-10 minutes, then flake it finely, discarding any bones.",
       "Combine the flaked fish with the coconut milk and fish sauce, and simmer 6-8 minutes into a light, fragrant sauce.",
       "Ladle over the rice noodles and top with the shredded cabbage and bean sprouts - often called Cambodia's national breakfast, this fish-based noodle dish is eaten across the country every morning."
-    ]
+    ],
+    "description": "Nom banh chok, fresh rice noodles topped with a fish-based curry sauce, considered close to Cambodia's national breakfast dish."
   },
   {
     "name": "Cambodian Lok Lak",
@@ -593,7 +615,8 @@
       "Sear in the oil over high heat, 3-5 minutes per side, until well browned outside but still tender within.",
       "Toss with the remaining fish sauce and lime juice off the heat.",
       "Serve with rice and a simple lime-pepper dipping sauce - lok lak is one of Cambodia's most popular dishes, showing clear French colonial influence in its steak-like preparation."
-    ]
+    ],
+    "description": "Lok lak, stir-fried marinated beef served over a bed of lettuce with a lime-pepper dipping sauce, a beloved Cambodian dish with French colonial influence."
   },
   {
     "name": "Cambodian Samlor Korko",
@@ -666,7 +689,8 @@
       "Add the eggplant, cabbage, fish sauce, and 2 cups water, and simmer 20-22 minutes until the vegetables are tender.",
       "Stir in the toasted rice powder and simmer 5 more minutes until slightly thickened.",
       "Samlor korko, a thick mixed-vegetable soup, traditionally gets its body and funk from prahok, fermented fish paste, which isn't a distinct product in this database - toasted rice powder alone gives real thickness but a milder, less pungent result than the authentic version."
-    ]
+    ],
+    "description": "Samlor korko, a thick mixed-vegetable soup, traditionally gets its body and funk from prahok, fermented fish paste."
   },
   {
     "name": "Cambodian Grilled Chicken Skewers",
@@ -738,7 +762,8 @@
       "Marinate the cubed chicken with the garlic, coconut milk, turmeric, fish sauce, and sugar for at least 30 minutes, or overnight.",
       "Thread onto skewers and grill over medium-high heat, turning occasionally, 12-15 minutes until well charred and cooked through.",
       "Serve with rice and a peanut or cucumber dipping sauce - a popular Cambodian street food."
-    ]
+    ],
+    "description": "Simple grilled chicken skewers, common Cambodian street food."
   },
   {
     "name": "Cambodian Char Kroeung (Lemongrass Stir-Fry)",
@@ -781,14 +806,19 @@
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 2.5,
+        "ingredient": "Lemongrass, raw",
+        "qty": 20,
         "note": "minced"
       },
       {
-        "ingredient": "Ginger root, raw",
-        "qty": 15,
+        "ingredient": "Garlic clove",
+        "qty": 2,
         "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Fish sauce",
@@ -807,10 +837,12 @@
       }
     ],
     "steps_detailed": [
-      "Brown the beef in the oil with the garlic, ginger, and jalapeno over medium-high heat, breaking it up well, 8-10 minutes.",
-      "Stir in the fish sauce and cook 2-3 more minutes until fragrant.",
-      "Serve over rice - this stands in for the classic kroeung-based stir-fries built on a pounded paste of lemongrass, galangal, and turmeric root, foundational to Khmer cooking."
-    ]
+      "Pound or finely mince the lemongrass, garlic, and ginger together into a coarse, fragrant paste - kroeung.",
+      "Fry the paste in the oil over medium heat, 1-2 minutes, until fragrant.",
+      "Add the beef and jalapeno, and stir-fry over high heat, breaking the beef apart, 6-8 minutes, until browned and cooked through.",
+      "Finish with the fish sauce."
+    ],
+    "description": "Char kroeung, meaning literally 'stir-fried kroeung paste,' is defined entirely by that lemongrass-forward aromatic base - without real lemongrass, this dish loses the ingredient its own name refers to."
   },
   {
     "name": "Cambodian Fried Spring Rolls (Cha Gi\u00f2 Style)",
@@ -882,7 +914,8 @@
       "Brown the ground chicken with the onion, then mix with the shredded cabbage and fish sauce, cooking briefly.",
       "Let cool slightly, then roll tightly in the wrapper, sealing the edge with a flour-water paste.",
       "Fry in the oil over medium heat, 5-7 minutes, turning, until deeply golden and crisp - a popular snack shared across Cambodia and its neighbors."
-    ]
+    ],
+    "description": "Fried spring rolls, shared across the wider region."
   },
   {
     "name": "Cambodian Num Kroch (Fried Banana Balls)",
@@ -951,7 +984,8 @@
       "Mix the glutinous rice flour and rice flour with the mashed plantain and sugar into a soft, slightly sticky dough.",
       "Shape into small balls and fry in the oil over medium heat, turning, 4-5 minutes, until deeply golden and cooked through in the center.",
       "Num kroch's chewy interior comes specifically from glutinous rice flour's high starch content - regular rice flour alone gives a softer, less springy texture."
-    ]
+    ],
+    "description": "Num kroch's chewy interior comes specifically from glutinous rice flour's high starch content."
   },
   {
     "name": "Cambodian Grilled Corn",
@@ -1012,7 +1046,8 @@
       "Toss the drained corn kernels with the oil.",
       "Pan-sear in a hot, dry skillet or cast-iron pan, stirring occasionally, 8-12 minutes until charred in spots and heated through - this stands in for the classic whole grilled corn on the cob sold by street vendors.",
       "Toss with a little fish sauce if using, and finish with a generous squeeze of lime juice - a common, simple roadside snack in Cambodia."
-    ]
+    ],
+    "description": "Simple grilled corn, a common Cambodian street snack."
   },
   {
     "name": "Cambodian Grilled Tofu Skewers",
@@ -1082,7 +1117,8 @@
       "Marinate with the garlic, fish sauce, and sugar for 15-20 minutes.",
       "Thread onto skewers and grill, or pan-fry in the oil, 3-5 minutes per side, until golden and slightly crisp at the edges.",
       "A simple, popular vegetarian-friendly Cambodian snack."
-    ]
+    ],
+    "description": "Simple grilled tofu skewers."
   },
   {
     "name": "Cambodian Sticky Rice with Coconut and Banana",
@@ -1147,7 +1183,8 @@
       "Drain the soaked rice and steam in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender.",
       "Warm the coconut milk with the sugar until dissolved, pour most over the warm rice, and let it absorb 10 minutes.",
       "Serve with the plantain alongside, drizzling the reserved coconut milk over both."
-    ]
+    ],
+    "description": "A simple sweet sticky rice with fruit."
   },
   {
     "name": "Cambodian Num Ansom (Sweet Rice Cake)",
@@ -1218,7 +1255,8 @@
       "Season the pork with the sugar and cardamom.",
       "Traditionally wrapped tightly in banana leaves around the pork filling, which aren't a distinct item here - instead, pack a layer of rice, a portion of the pork, and more rice in a small foil packet, fold to seal tightly, and steam over simmering water 45-50 minutes until the rice is fully cooked and dense.",
       "Num ansom, cylindrical rice cakes with a savory pork center, are made in large batches for Cambodian New Year - the long steam time and tight wrapping compress the rice into a dense, sliceable cake rather than loose grains."
-    ]
+    ],
+    "description": "Num ansom, cylindrical rice cakes with a savory pork center, are made in large batches for Cambodian New Year."
   },
   {
     "name": "Cambodian Sankhya (Pumpkin Custard)",
@@ -1289,7 +1327,8 @@
       "Pour into the hollowed sweet potato (a stand-in for the small pumpkin traditionally used) or a small buttered dish.",
       "Steam over simmering water, or bake in a water bath at 325F (165C), for 32-42 minutes until just set.",
       "Cool before slicing into wedges - sankhya chek is a beloved Cambodian custard dessert, traditionally baked right inside a pumpkin."
-    ]
+    ],
+    "description": "Sankhya, coconut custard steamed inside a whole pumpkin, a beloved Cambodian dessert."
   },
   {
     "name": "Cambodian Kroeung-Style Lime Pepper Dip",
@@ -1348,7 +1387,8 @@
     "steps_detailed": [
       "Whisk the lime juice, black pepper, sugar, and garlic together until the sugar dissolves.",
       "This simple lime-pepper sauce is the classic accompaniment to lok lak, letting the tang and heat balance the richness of the beef."
-    ]
+    ],
+    "description": "A simple lime-pepper dipping sauce, a common Cambodian condiment."
   },
   {
     "name": "Cambodian Prahok-Style Dipping Sauce",
@@ -1407,6 +1447,7 @@
       "Brown the ground pork with the garlic in a dry pan until cooked through, 4-5 minutes.",
       "Mix with the fish sauce and jalapeno.",
       "This offers a milder nod to prahok, Cambodia's intensely pungent fermented fish paste that anchors much of the country's cooking - serve as a bold condiment alongside rice and fresh vegetables."
-    ]
+    ],
+    "description": "Real Cambodian dipping sauces often lean on prahok, a strong fermented fish paste central to Khmer cooking - prahok isn't a distinct item here, so this stays milder than the real, funkier condiment."
   }
 ]

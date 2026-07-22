@@ -70,7 +70,8 @@
       "Fry the garlic from the marinade separately until golden and crisp, then fry the cold, day-old rice in the same garlic-infused oil, 5-6 minutes - this garlic rice, sinangag, is the 'sog' of tapsilog and is not optional; plain rice changes the dish.",
       "Fry the egg sunny-side up.",
       "Serve the beef (tapa), garlic rice (sinangag), and egg (itlog) together - tapsilog's name is literally built from all three components, and any Filipino silog breakfast follows this same three-part structure with a different protein."
-    ]
+    ],
+    "description": "Tapsilog's name is literally built from all three components - tapa (beef), sinangag (garlic rice), itlog (egg) - any Filipino silog breakfast follows this same three-part structure with a different protein."
   },
   {
     "name": "Filipino Garlic Fried Rice (Sinangag)",
@@ -123,7 +124,8 @@
       "Add the cold, day-old rice, breaking up any clumps, and stir-fry over high heat 5-6 minutes, until every grain is coated in garlic oil and lightly toasted.",
       "Top with the reserved crisp garlic.",
       "Sinangag depends entirely on day-old, cold rice - fresh rice's extra moisture makes it clump and steam rather than fry into separate, garlic-coated grains, which is the whole texture the dish is going for."
-    ]
+    ],
+    "description": "Sinangag depends entirely on day-old, cold rice - fresh rice's extra moisture makes it clump and steam rather than fry into separate, garlic-coated grains."
   },
   {
     "name": "Filipino Longganisa with Eggs",
@@ -180,7 +182,8 @@
       "Fry the sausage with the garlic and sugar over medium heat, 5-6 minutes, until browned and slightly caramelized, mimicking the sweet-garlicky character of real longganisa.",
       "Fry the egg separately to your liking.",
       "Serve together with garlic rice - another beloved Filipino silog breakfast combo."
-    ]
+    ],
+    "description": "Longganisa, sweet-garlicky Filipino sausage, a common breakfast pairing with egg and rice."
   },
   {
     "name": "Filipino Adobo",
@@ -253,7 +256,8 @@
       "Bring to a simmer, cover, and cook 25-30 minutes until the chicken is tender.",
       "Uncover and simmer 8-12 more minutes to reduce the sauce until glossy and slightly thickened.",
       "Remove the bay leaf and serve with rice - adobo is widely considered the Philippines' national dish, with countless regional and family variations."
-    ]
+    ],
+    "description": "Adobo, meat braised in vinegar, soy sauce, and garlic, is considered the Philippines' unofficial national dish - real versions vary enormously by region and family, but the vinegar-soy balance is the throughline."
   },
   {
     "name": "Filipino Sinigang",
@@ -326,7 +330,8 @@
       "Add the tomatoes, strained tamarind pulp, and fish sauce, and simmer 10 minutes.",
       "Add the green beans and simmer 8-10 more minutes until tender.",
       "Serve with rice - sinigang's distinctive sour broth, most often built on tamarind, makes it one of the most beloved soups in Filipino cooking."
-    ]
+    ],
+    "description": "Sinigang, a sour tamarind-based soup, is a genuine Filipino comfort food staple."
   },
   {
     "name": "Filipino Pancit",
@@ -404,7 +409,8 @@
       "Add the cabbage and carrot, and cook 4-5 minutes until just tender.",
       "Add the cooked noodles and soy sauce, and toss everything together over high heat 3-4 minutes.",
       "Finish with a squeeze of lime and serve hot - pancit, in its countless regional forms, is a fixture of Filipino celebrations, traditionally eaten for long life."
-    ]
+    ],
+    "description": "Pancit, stir-fried noodles, appears at nearly every Filipino celebration, long noodles symbolizing long life."
   },
   {
     "name": "Filipino Caldereta",
@@ -482,7 +488,8 @@
       "Add the diced tomatoes, tomato paste, carrot, and beef broth.",
       "Cover and simmer over low heat 1.5-2.5 hours until the beef is completely tender and the sauce has thickened.",
       "Serve with rice - caldereta reflects the Philippines' Spanish colonial influence, a rich tomato-based beef stew for special occasions."
-    ]
+    ],
+    "description": "Caldereta, a rich tomato-based beef stew with Spanish colonial roots, a Filipino celebration dish."
   },
   {
     "name": "Filipino Sisig",
@@ -554,7 +561,8 @@
       "Brown the finely chopped pork over medium-high heat, 10-12 minutes, chopping further with the spatula as it cooks until finely textured.",
       "Toss with the onion, jalapeno, lime juice, and soy sauce.",
       "Top with a fried egg and serve sizzling hot with rice - sisig, from Pampanga, is a beloved Filipino dish, traditionally served on a hot plate."
-    ]
+    ],
+    "description": "Sisig, sizzling chopped pork traditionally including the head and liver, is a beloved Filipino bar food, adapted here to more common cuts."
   },
   {
     "name": "Filipino Kare-Kare",
@@ -627,7 +635,8 @@
       "Blend the ground peanuts with the beef broth into a smooth paste, then stir into the pot along with the achiote paste (for its characteristic orange color).",
       "Add the green beans and simmer 10-15 minutes until tender and the sauce has thickened.",
       "Serve with rice and a side of fermented shrimp paste if you have it - kare-kare is a beloved Filipino oxtail-and-peanut stew, traditionally reserved for special occasions."
-    ]
+    ],
+    "description": "Kare-kare, oxtail and vegetables in a rich peanut sauce, gets its distinctive orange color from real achiote (annatto)."
   },
   {
     "name": "Filipino Grilled Milkfish (Bangus)",
@@ -701,7 +710,8 @@
       "Marinate the fish with the garlic, lime juice, soy sauce, and black pepper for 20-30 minutes.",
       "Brush with the oil and grill over medium-high heat, 5-7 minutes per side, until cooked through and lightly charred.",
       "Serve with rice - bangus, the Philippines' national fish, is prepared in countless ways, but simply grilled is among the most beloved."
-    ]
+    ],
+    "description": "Bangus, the Philippines' national fish, grilled simply with citrus."
   },
   {
     "name": "Filipino Lechon Kawali (Crispy Pork Belly)",
@@ -769,7 +779,8 @@
       "Drain thoroughly and pat completely dry - the drier the surface, the crispier the result.",
       "Fry in the oil over medium-high heat, 5-7 minutes per side, until deeply golden and shatteringly crisp on the outside.",
       "Slice and serve with a vinegar dipping sauce - the double-cooking method (boil then fry) is what gives lechon kawali its signature contrast between tender meat and crackling skin."
-    ]
+    ],
+    "description": "Lechon kawali, deep-fried pork belly with a shatteringly crisp skin, a beloved Filipino dish."
   },
   {
     "name": "Filipino Lumpia",
@@ -841,7 +852,8 @@
       "Brown the ground chicken with the garlic and soy sauce, then mix with the shredded cabbage and carrot, cooking briefly until just softened.",
       "Let cool slightly, then roll tightly in the wrapper, sealing the edge with a little water.",
       "Fry in the oil over medium heat, turning, 5-7 minutes until deeply golden and crisp on all sides - lumpia are a beloved Filipino party staple."
-    ]
+    ],
+    "description": "Lumpia, thin-wrapped spring rolls, appear at nearly every Filipino gathering."
   },
   {
     "name": "Filipino Turon",
@@ -904,7 +916,8 @@
       "Roll the banana (with a few slices of jackfruit if using, a traditional addition) in the wrapper along with the brown sugar, sealing the edge tightly with a little water.",
       "Fry in the oil over medium heat, 3-5 minutes per side, until the wrapper is deeply golden and the sugar has caramelized into a sticky glaze.",
       "A beloved Filipino sweet snack, sold at street stalls everywhere."
-    ]
+    ],
+    "description": "Turon, banana wrapped in a thin wrapper and fried until caramelized, a beloved Filipino street snack."
   },
   {
     "name": "Filipino Fish Balls with Sweet Sauce",
@@ -979,7 +992,8 @@
       "Fry in the oil over medium heat, turning occasionally, 5-6 minutes until golden and cooked through.",
       "Simmer the sugar, soy sauce, and jalapeno with a splash of water into a thin, sweet-savory dipping sauce.",
       "A beloved Filipino street food snack, sold on skewers."
-    ]
+    ],
+    "description": "Fish balls with a sweet-savory dipping sauce, an extremely common Filipino street food."
   },
   {
     "name": "Filipino Banana Cue",
@@ -1035,7 +1049,8 @@
       "Heat the oil in a skillet over medium heat.",
       "Fry the whole peeled banana, sprinkling generously with the brown sugar as it cooks, 4-6 minutes per side, until the sugar caramelizes into a deep, sticky, glossy coating.",
       "Serve warm, traditionally threaded onto a bamboo skewer - a classic Filipino street food, especially popular after school."
-    ]
+    ],
+    "description": "Banana cue, bananas fried in caramelized brown sugar on a stick, a common Filipino street snack."
   },
   {
     "name": "Filipino Halo-Halo",
@@ -1110,7 +1125,8 @@
       "Sweeten the beans with a little of the sugar.",
       "Layer the beans, jackfruit, sliced banana, and shredded coconut in a tall glass.",
       "Pour the coconut milk over the top and serve chilled, ideally over crushed ice - halo-halo, meaning 'mix-mix,' is a beloved Filipino cold dessert combining many sweet ingredients."
-    ]
+    ],
+    "description": "Halo-halo, meaning 'mix-mix,' a layered shaved ice dessert with countless toppings, one of the Philippines' most iconic desserts."
   },
   {
     "name": "Filipino Leche Flan",
@@ -1182,7 +1198,8 @@
       "Pour over the caramel.",
       "Steam over simmering water, or bake in a water bath at 325F (165C), for 35-45 minutes until just set with a gentle wobble.",
       "Chill before unmolding onto a plate, letting the caramel run down the sides - leche flan is a treasured Filipino dessert, especially for celebrations."
-    ]
+    ],
+    "description": "Leche flan, a dense caramel custard with Spanish colonial roots, a Filipino celebration dessert."
   },
   {
     "name": "Filipino Bibingka",
@@ -1254,7 +1271,8 @@
       "Whisk the rice flour, coconut milk, egg, sugar, and baking powder into a smooth batter.",
       "Pour into a small greased pan and bake at 375F (190C) for 22-26 minutes until set and lightly golden, brushing the top with the melted butter halfway through.",
       "Bibingka is traditionally baked in a clay pot lined with banana leaves over hot coals both above and below, which gives it a distinctive charred leaf aroma - banana leaves aren't a distinct item here, so a standard pan in the oven keeps the same rice-flour cake but loses that specific smoky perfume."
-    ]
+    ],
+    "description": "Bibingka is traditionally baked in a clay pot lined with banana leaves over hot coals both above and below, giving it a distinctive charred leaf aroma that a standard oven pan can't fully replicate."
   },
   {
     "name": "Filipino Vinegar Dipping Sauce (Sawsawan)",
@@ -1320,7 +1338,8 @@
       "Combine the vinegar, garlic, jalapeno, soy sauce, and black pepper.",
       "Let sit 10 minutes so the flavors meld.",
       "Sawsawan, endlessly varied, is served alongside nearly every fried or grilled Filipino dish for dipping."
-    ]
+    ],
+    "description": "Sawsawan, a broad category of vinegar-based dipping sauces, endlessly varied and central to Filipino eating."
   },
   {
     "name": "Filipino Banana Ketchup Style Glaze",
@@ -1391,6 +1410,7 @@
       "Blend the mashed banana with the tomato paste, vinegar, sugar, and black pepper until smooth.",
       "Simmer over low heat 6-8 minutes until slightly thickened.",
       "Banana ketchup is a beloved, uniquely Filipino condiment, invented during a WWII tomato shortage and never abandoned since."
-    ]
+    ],
+    "description": "Banana ketchup, a genuinely Filipino condiment invented during a wartime tomato shortage, now a pantry staple."
   }
 ]

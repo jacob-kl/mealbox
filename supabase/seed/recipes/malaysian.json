@@ -75,7 +75,8 @@
       "Mash the shrimp paste with the onion and pepper, and fry into a rough sambal-style relish, 5-6 minutes, until fragrant and slightly darkened.",
       "Serve the coconut rice with the crisp fish and sambal alongside.",
       "Nasi lemak's identity is entirely in that coconut-and-lime-leaf-infused rice - dried anchovies (ikan bilis) aren't a distinct product here, so a crisp-fried fish fills the same crunchy, savory role on the plate."
-    ]
+    ],
+    "description": "Nasi lemak's identity is entirely in coconut-and-lime-leaf-infused rice - considered Malaysia's national dish."
   },
   {
     "name": "Malaysian Roti Canai",
@@ -145,7 +146,8 @@
       "Stretch and slap the dough into a very thin sheet, then fold repeatedly to create many thin layers, and coil into a flat round.",
       "Pan-fry in the remaining butter and oil over medium heat, 2-3 minutes per side, until golden and crisp with visibly flaky layers - crack an egg into the center partway through for a roti telur variation.",
       "Serve with a curry or dal for dipping - roti canai is a beloved Malaysian breakfast staple with roots in South Indian flatbread traditions."
-    ]
+    ],
+    "description": "Roti canai, a flaky, layered flatbread, a beloved Malaysian breakfast, likely brought by Indian Muslim immigrants."
   },
   {
     "name": "Malaysian Kaya Toast",
@@ -215,7 +217,8 @@
       "Spread generously with the butter and the preserves (standing in for kaya, a rich coconut-pandan jam).",
       "Soft-boil the eggs, crack them into a small saucer, and season with the soy sauce and black pepper.",
       "Serve the toast alongside the soft egg for dipping - a beloved Malaysian breakfast, especially at kopitiam coffee shops."
-    ]
+    ],
+    "description": "Kaya toast, toasted bread with coconut jam and butter, a Malaysian and Singaporean breakfast staple."
   },
   {
     "name": "Malaysian Char Kway Teow",
@@ -295,7 +298,8 @@
       "Scramble the egg in the cleared space.",
       "Add the cooked noodles, bean sprouts, and soy sauce, and toss everything together vigorously over high heat 3-5 minutes, letting the noodles pick up a slight char.",
       "Serve immediately while hot - a beloved Penang street food classic, best cooked fast over very high heat."
-    ]
+    ],
+    "description": "Char kway teow, stir-fried flat rice noodles, one of Malaysia's most beloved street foods."
   },
   {
     "name": "Malaysian Nasi Kandar Chicken Curry",
@@ -372,7 +376,8 @@
       "Brown the chicken with the onion, garlic, ginger, and turmeric over medium-high heat, 8-10 minutes.",
       "Add the coconut milk and diced tomatoes, and simmer 22-28 minutes until the chicken is tender and the sauce has thickened.",
       "Serve over rice - nasi kandar curries reflect Malaysia's deep South Indian Muslim culinary influence, especially strong in Penang."
-    ]
+    ],
+    "description": "Nasi kandar, rice served with a variety of curries, a Penang specialty."
   },
   {
     "name": "Malaysian Laksa",
@@ -418,7 +423,7 @@
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 94.6,
+        "qty": 100,
         "note": ""
       },
       {
@@ -428,30 +433,38 @@
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.4166666666666667,
-        "note": ""
+        "qty": 0.75,
+        "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
       },
       {
+        "ingredient": "Lemongrass, raw",
+        "qty": 15,
+        "note": "smashed and minced"
+      },
+      {
         "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "minced"
       },
       {
         "ingredient": "Bean sprouts",
-        "qty": 25,
+        "qty": 30,
         "note": "to top"
       }
     ],
     "steps_detailed": [
-      "Simmer the coconut milk with the garlic, jalapeno, and fish sauce along with 1/2 cup water for 5-6 minutes to let the flavors meld.",
-      "Add the shrimp and cook 3-5 minutes until just cooked through.",
-      "Pour the hot coconut broth and shrimp over the cooked noodles, top with bean sprouts, and serve - laksa varies enormously by region across Malaysia, but this rich coconut-based version (curry laksa) is among the most beloved."
-    ]
+      "Pound or mince the garlic, lemongrass, and jalapeno into a rough paste.",
+      "Fry the paste in a little oil over medium heat, 2-3 minutes, until fragrant.",
+      "Add the coconut milk and fish sauce, and simmer 8-10 minutes to let the flavors meld.",
+      "Add the shrimp and simmer 3-4 minutes until just cooked through.",
+      "Ladle over the cooked noodles and top with the bean sprouts."
+    ],
+    "description": "Laksa, a spicy coconut noodle soup, exists in countless regional variations across Malaysia - real laksa broth is built on a lemongrass-and-chili paste simmered into the coconut milk, not just added at the end."
   },
   {
     "name": "Malaysian Mee Goreng",
@@ -529,7 +542,8 @@
       "Scramble the egg in the cleared space.",
       "Add the cooked noodles, bean sprouts, soy sauce, and tomato paste, and stir-fry everything together 3-5 minutes until well combined and heated through.",
       "Serve hot - a popular, spicy-sweet Malaysian fried noodle dish."
-    ]
+    ],
+    "description": "Mee goreng, fried noodles, a common Malaysian street food with Indian-Muslim influence."
   },
   {
     "name": "Malaysian Beef Rendang",
@@ -573,7 +587,7 @@
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 118.3,
+        "qty": 160,
         "note": ""
       },
       {
@@ -583,31 +597,48 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "qty": 1.5,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 2.5,
         "note": "minced"
       },
       {
-        "ingredient": "Ginger root, raw",
-        "qty": 15,
+        "ingredient": "Lemongrass, raw",
+        "qty": 20,
+        "note": "smashed and minced"
+      },
+      {
+        "ingredient": "Galangal, fresh",
+        "qty": 12,
         "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Shredded coconut",
         "qty": 0.0625,
         "note": "cup, toasted"
+      },
+      {
+        "ingredient": "Kaffir lime leaves",
+        "qty": 1,
+        "note": "torn"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, garlic, ginger, and turmeric over medium-high heat, 10-12 minutes.",
-      "Add the coconut milk and toasted shredded coconut (kerisik, a key traditional ingredient that adds nutty depth), and bring to a simmer.",
-      "Cook uncovered over low heat 1.5-2.5 hours, stirring occasionally, until the sauce has reduced dramatically, turned deep brown, and the oil has separated - real rendang is meant to be dry, not soupy.",
-      "Serve with rice - one of the most celebrated dishes across Malaysia and Indonesia, slow-cooked until intensely flavorful."
-    ]
+      "Pound or blend the onion, garlic, lemongrass, galangal, and turmeric into a rough, fragrant paste.",
+      "Fry the paste in a dry pan or with a little of the coconut milk over medium heat, 4-5 minutes, until deeply fragrant.",
+      "Add the beef and brown, 6-8 minutes.",
+      "Add the remaining coconut milk, ginger, and kaffir lime leaf, and simmer uncovered over low heat, stirring occasionally, 1.5-2 hours, until the liquid reduces to a thick, dark, clinging sauce that coats the meat rather than a soupy curry - this long, patient reduction is what genuinely separates rendang from a quicker beef curry.",
+      "Stir in the toasted coconut in the last 10 minutes."
+    ],
+    "description": "Rendang, beef slow-cooked in coconut milk and spice paste until the liquid reduces to a thick, dark, clinging sauce, is one of the world's most famous Malaysian and Indonesian dishes - lemongrass and galangal are essential parts of the spice paste (bumbu) it's built on, alongside the long, patient reduction that concentrates everything into something far deeper than a simple curry."
   },
   {
     "name": "Malaysian Satay",
@@ -656,8 +687,13 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "qty": 1.5,
         "note": ""
+      },
+      {
+        "ingredient": "Lemongrass, raw",
+        "qty": 12,
+        "note": "minced"
       },
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -666,21 +702,22 @@
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.16666666666666666,
-        "note": ""
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 0.3333333333333333,
-        "note": "for the sauce"
+        "qty": 0.5,
+        "note": "tsp, for the sauce"
       }
     ],
     "steps_detailed": [
-      "Marinate the cubed chicken with the coconut milk, turmeric, and fish sauce for at least 30 minutes, or overnight.",
-      "Thread onto skewers and grill over medium-high heat, turning occasionally, 12-15 minutes until well charred and cooked through.",
-      "Blend the crushed peanuts with the sugar and a splash of warm water into a thick, spoonable dipping sauce.",
-      "Serve the skewers with the peanut sauce, plus rice cakes and cucumber if you have them - satay is beloved across Malaysia and much of Southeast Asia."
-    ]
+      "Marinate the chicken in a little of the coconut milk with the turmeric and lemongrass for at least 20 minutes.",
+      "Thread onto skewers and grill or broil, turning, 8-10 minutes, until charred and cooked through.",
+      "Whisk the remaining coconut milk with the crushed peanuts, fish sauce, and sugar, and warm gently into a sauce.",
+      "Serve the skewers with the peanut sauce."
+    ],
+    "description": "Satay, grilled skewered meat with peanut sauce, is built on a marinade that traditionally includes lemongrass alongside the turmeric - lemongrass's citrusy brightness is a real part of what satay marinade is supposed to taste like."
   },
   {
     "name": "Malaysian Sambal Fried Fish",
@@ -760,7 +797,8 @@
       "Fry the jalapeno, onion, and garlic in the remaining oil until softened and fragrant, 5-6 minutes.",
       "Stir in the tomato paste and sugar, cooking 2-3 more minutes until it forms a thick, glossy sambal.",
       "Spoon the sambal over the fried fish and serve with rice - sambal, in countless regional variations, is central to Malaysian cooking."
-    ]
+    ],
+    "description": "Fish fried and topped with sambal, a common Malaysian home dish."
   },
   {
     "name": "Malaysian Ikan Bakar (Grilled Fish)",
@@ -835,7 +873,8 @@
       "Let marinate 15-20 minutes.",
       "Grill over medium-high heat, brushing with the remaining oil, 5-7 minutes per side, until cooked through and lightly charred.",
       "Finish with a generous squeeze of lime juice - a classic Malaysian grilled fish, often wrapped in banana leaf for cooking over charcoal."
-    ]
+    ],
+    "description": "Ikan bakar, grilled fish, a Malaysian coastal staple."
   },
   {
     "name": "Malaysian Curry Puffs",
@@ -908,7 +947,8 @@
       "Make a simple, firm pastry from the flour, a pinch of salt, and water, and roll out thin.",
       "Cut into rounds, fill with the chicken mixture, and fold into half-moons, crimping the edges well.",
       "Fry until deeply golden and crisp on all sides, 4-5 minutes - curry puffs are a beloved teatime snack across Malaysia."
-    ]
+    ],
+    "description": "Curry puffs, fried or baked pastries with a spiced filling, a beloved Malaysian snack."
   },
   {
     "name": "Malaysian Otak-Otak Style Fish Cake",
@@ -983,7 +1023,8 @@
       "Wrap portions tightly in foil (traditionally banana leaf, which contributes its own aroma).",
       "Steam over simmering water, or bake at 350F (175C), for 22-28 minutes until firm and set.",
       "Serve warm, unwrapped at the table - a beloved grilled fish cake found in Malaysia, Singapore, and Indonesia alike."
-    ]
+    ],
+    "description": "Otak-otak, a spiced fish cake traditionally grilled in banana leaf, a Malaysian and Peranakan specialty."
   },
   {
     "name": "Malaysian Pisang Goreng",
@@ -1053,7 +1094,8 @@
       "Mix the flour, sugar, shredded coconut if using, and enough water to form a smooth, coatable batter.",
       "Dip the banana slices in the batter, coating evenly, and fry in the oil over medium heat, 2-4 minutes per side, until golden and crisp.",
       "Serve warm - a beloved Malaysian fried banana snack, sold everywhere from street stalls to night markets."
-    ]
+    ],
+    "description": "Pisang goreng, fried banana fritters, a common Malaysian street snack."
   },
   {
     "name": "Malaysian Popiah (Fresh Spring Rolls)",
@@ -1125,7 +1167,8 @@
       "Brown the ground chicken with the garlic and fish sauce, then mix with the shredded cabbage, cooking briefly until the cabbage just softens. Let cool.",
       "Lay the cooled filling and fresh bean sprouts along the tortilla and roll up tightly into a firm cylinder.",
       "Slice and serve unfried, with a touch of sweet sauce if you'd like - popiah is a fresh, unfried spring roll popular in Malaysia and Singapore, often assembled at the table."
-    ]
+    ],
+    "description": "Popiah, fresh (not fried) spring rolls, a Malaysian and Peranakan specialty."
   },
   {
     "name": "Malaysian Cendol-Style Coconut Dessert",
@@ -1186,7 +1229,8 @@
       "Warm the coconut milk with the brown sugar over low heat until fully dissolved, 2-3 minutes, then chill.",
       "Combine the chilled coconut mixture with the cooked noodles (standing in for the green rice-flour jelly strands traditionally used) and the cooked kidney beans.",
       "Serve well chilled, ideally over crushed ice - cendol is one of Malaysia's most beloved cold desserts, especially refreshing in the tropical heat."
-    ]
+    ],
+    "description": "Cendol, shaved ice with coconut milk and palm sugar syrup, a beloved Malaysian dessert."
   },
   {
     "name": "Malaysian Kuih Bingka (Cassava Cake)",
@@ -1257,7 +1301,8 @@
       "Pour into a small buttered baking dish.",
       "Bake at 350F (175C) for 32-40 minutes until golden on top and just set.",
       "Cool before slicing into squares - a dense, chewy cassava cake found throughout Malaysia and the wider region."
-    ]
+    ],
+    "description": "Kuih bingka, a baked cassava cake, part of the wide world of Malaysian kuih (traditional sweets)."
   },
   {
     "name": "Malaysian Ondeh-Ondeh",
@@ -1313,7 +1358,8 @@
       "Wrap small pieces around a bit of palm sugar, sealing completely, and roll into smooth balls.",
       "Boil until they float, 4-5 minutes, then drain and roll in the grated coconut.",
       "Ondeh-ondeh shares its molten-palm-sugar-center trick with Indonesian klepon - the same technique appears under different names across the region, and the seal has to be complete or the filling leaks out while boiling."
-    ]
+    ],
+    "description": "Ondeh-ondeh shares its molten-palm-sugar-center trick with Indonesian klepon - the same technique across the region under different names."
   },
   {
     "name": "Malaysian Sambal",
@@ -1390,7 +1436,8 @@
       "Fry the paste in the oil over medium heat, stirring frequently, 10-12 minutes until deeply fragrant, darkened, and the oil separates slightly.",
       "Stir in the tomato paste and sugar, cooking 2-3 more minutes.",
       "Cool and store in a sealed jar in the fridge for up to two weeks; sambal is the foundational condiment of Malaysian cooking, with countless regional and household variations."
-    ]
+    ],
+    "description": "Sambal, a broad category of chili-based condiments, a defining part of Malaysian cooking."
   },
   {
     "name": "Malaysian Peanut Satay Sauce",
@@ -1464,6 +1511,7 @@
       "Simmer the crushed peanuts with the coconut milk, sugar, fish sauce, and jalapeno if using, stirring frequently, for 6-8 minutes until thickened to a spoonable consistency.",
       "Stir in the lime juice off the heat.",
       "Serve warm with satay skewers, or as a dip for vegetables - the essential accompaniment to Malaysian satay."
-    ]
+    ],
+    "description": "A standalone peanut sauce, the same sauce that accompanies satay."
   }
 ]

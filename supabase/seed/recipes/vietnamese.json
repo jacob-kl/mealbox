@@ -99,7 +99,8 @@
       "Layer shrimp, noodles, carrot, and mint in the lower third of the wrapper.",
       "Fold the sides in, then roll tightly from the bottom like a burrito. Repeat with remaining wrappers.",
       "Serve with the peanut dipping sauce."
-    ]
+    ],
+    "description": "Fresh (not fried) spring rolls, a light, herb-forward Vietnamese staple."
   },
   {
     "name": "Beef Pho",
@@ -177,23 +178,35 @@
         "note": "tbsp, sliced"
       },
       {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "quartered"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp, or 1 small cinnamon stick"
+      },
+      {
         "ingredient": "Beef broth",
         "qty": 2,
         "note": "cup"
       },
       {
         "ingredient": "Lime juice",
-        "qty": 0.3333,
-        "note": "for serving"
+        "qty": 0.5,
+        "note": "tbsp, for serving"
       }
     ],
     "steps_detailed": [
-      "Simmer the beef broth with ginger and fish sauce for 15-20 minutes to infuse the flavors, then strain out the ginger.",
-      "Cook the rice noodles per package directions.",
-      "Bring the broth to a rolling boil right before serving.",
-      "Divide noodles into bowls, lay the raw sliced beef on top, and ladle the boiling broth directly over it \u2014 the heat cooks the paper-thin beef in seconds.",
-      "Top with bean sprouts, basil, and a squeeze of lime."
-    ]
+      "Char the onion quarters and ginger slices directly over a gas flame or under a hot broiler, turning, until blackened in spots, 4-5 minutes - this charring is what gives real pho broth its deep, slightly smoky backbone, not a step to skip.",
+      "Simmer the beef broth with the charred onion, ginger, cinnamon, and fish sauce for at least 20-30 minutes to let the aromatics infuse - real pho broths simmer for hours with beef bones; this shortcut version leans on store-bought broth for the base instead.",
+      "Strain out the onion and ginger.",
+      "Cook the rice noodles per package directions and divide into bowls.",
+      "Ladle the hot broth directly over the raw, very thinly sliced beef so it cooks in the heat of the broth itself, then top with bean sprouts and basil.",
+      "Serve with lime wedges."
+    ],
+    "description": "Pho's broth is built on charring onion and ginger directly over a flame before they go into the pot, plus whole warm spices simmered for hours - star anise, the single most recognizable pho spice, isn't a distinct item here, so this broth is honestly missing some of that real signature depth even with the other techniques and spices in place."
   },
   {
     "name": "Vietnamese Grilled Pork with Rice Noodles",
@@ -275,7 +288,8 @@
       "Cook the vermicelli per package directions, rinse in cold water, and drain.",
       "Grill or pan-sear the pork over medium-high heat, 2-3 minutes per side, until charred at the edges and cooked through.",
       "Serve the pork over the noodles with carrot."
-    ]
+    ],
+    "description": "Bun cha-style, grilled pork over rice noodles with fresh herbs, a Hanoi specialty."
   },
   {
     "name": "Tofu Banh Mi Bowl",
@@ -366,7 +380,8 @@
       "Heat a splash of oil in a skillet over medium-high heat and sear the tofu 3-4 minutes per side until golden.",
       "Toss the seared tofu with soy sauce and sriracha.",
       "Serve over rice with the pickled carrot and cucumber."
-    ]
+    ],
+    "description": "The flavors of banh mi - pickled vegetables, herbs, chili - built into a bowl rather than a sandwich."
   },
   {
     "name": "Vietnamese Grilled Pork Chops",
@@ -427,7 +442,8 @@
       "Whisk the fish sauce, honey, and garlic together. Marinate the pork at least 20 minutes, or overnight for deeper flavor.",
       "Grill or pan-sear over medium-high heat, 4-5 minutes per side, until charred at the edges and cooked through (145F).",
       "Let rest 5 minutes before slicing."
-    ]
+    ],
+    "description": "Grilled marinated pork chops, a common Vietnamese dish especially over rice (com tam)."
   },
   {
     "name": "Vietnamese Caramel Chicken",
@@ -506,7 +522,8 @@
       "Add the fish sauce and 1/4 cup water, scraping up the caramel from the pan bottom.",
       "Simmer 12-15 minutes, uncovered, until the chicken is cooked through and the sauce has reduced to a sticky glaze.",
       "Serve over rice."
-    ]
+    ],
+    "description": "Ga kho, chicken braised in a caramel-based sauce, a genuine Vietnamese home-cooking technique."
   },
   {
     "name": "Vietnamese Shrimp Spring Rolls",
@@ -580,7 +597,8 @@
       "Dip a rice paper wrapper in warm water for 10-15 seconds until pliable, then lay flat.",
       "Layer shrimp, noodles, mint, and carrot in the lower third.",
       "Fold in the sides and roll tightly from the bottom. Repeat with remaining wrappers."
-    ]
+    ],
+    "description": "Fresh (not fried) spring rolls with shrimp, a light Vietnamese staple."
   },
   {
     "name": "Banh Mi Jar",
@@ -657,7 +675,8 @@
       "Toss the carrot with rice vinegar and a pinch of salt, letting it quick-pickle for 10 minutes.",
       "Layer the pickled carrot, cucumber, pork, and cilantro in a jar.",
       "Pack the bread separately to keep it from getting soggy, and assemble just before eating."
-    ]
+    ],
+    "description": "The flavors of banh mi built into a portable jar."
   },
   {
     "name": "Vietnamese Chicken Noodle Salad",
@@ -736,7 +755,8 @@
       "Whisk the lime juice and fish sauce together.",
       "Toss the noodles, chicken, and carrot with the dressing.",
       "Top with fresh mint before serving."
-    ]
+    ],
+    "description": "A bright, herb-forward noodle salad, common Vietnamese light eating."
   },
   {
     "name": "Vietnamese Tofu & Rice Jar",
@@ -799,7 +819,8 @@
     "steps_detailed": [
       "Toss the tofu with soy sauce.",
       "Layer the rice, cucumber, and tofu in a jar."
-    ]
+    ],
+    "description": "A simple, portable tofu and rice jar."
   },
   {
     "name": "Vietnamese Egg and Herb Omelette",
@@ -852,7 +873,8 @@
       "Whisk the eggs with fish sauce and scallions.",
       "Heat a lightly oiled nonstick pan over medium heat. Pour in the eggs and cook 2-3 minutes until the bottom sets.",
       "Fold in half and cook 1 more minute until fully set."
-    ]
+    ],
+    "description": "A simple herb-flecked omelette, common Vietnamese home cooking."
   },
   {
     "name": "Vietnamese Herb Cucumber Snack",
@@ -902,7 +924,8 @@
     ],
     "steps_detailed": [
       "Toss the cucumber with mint and lime juice. Serve chilled."
-    ]
+    ],
+    "description": "A simple, herb-forward cucumber snack."
   },
   {
     "name": "Vietnamese Roasted Peanuts",
@@ -949,7 +972,8 @@
       "Toss the raw peanuts with sugar and fish sauce \u2014 the sweet-salty combination is the signature of Vietnamese roasted peanuts.",
       "Toast in a dry skillet over medium-low heat, stirring constantly, 5-6 minutes until fragrant and the sugar has caramelized slightly onto the peanuts.",
       "Let cool completely before eating \u2014 they crisp up as they cool."
-    ]
+    ],
+    "description": "A simple roasted peanut snack."
   },
   {
     "name": "Vietnamese Coconut Rice Pudding",
@@ -1006,7 +1030,8 @@
       "Simmer the jasmine rice in the coconut milk and 0.75 cup water over low heat, stirring often, 25-28 minutes, until thick and creamy.",
       "Stir in the sugar.",
       "Top with the nuts - che-style Vietnamese sweet rice puddings are traditionally topped with toasted mung beans or peanuts rather than pistachios, but the crunchy topping plays the same role here."
-    ]
+    ],
+    "description": "Che-style sweet rice pudding, a common Vietnamese dessert category."
   },
   {
     "name": "Vietnamese Iced Coffee Yogurt",
@@ -1052,7 +1077,8 @@
     "steps_detailed": [
       "Stir the dissolved espresso and condensed milk into the yogurt until well combined.",
       "Chill at least 15 minutes before serving."
-    ]
+    ],
+    "description": "Built on the flavor of ca phe sua da, Vietnamese iced coffee with condensed milk."
   },
   {
     "name": "Nuoc Cham Dipping Sauce",
@@ -1110,7 +1136,8 @@
     ],
     "steps_detailed": [
       "Whisk all ingredients with 2-3 tablespoons water until the honey dissolves. Taste and adjust \u2014 nuoc cham should balance salty, sour, and sweet."
-    ]
+    ],
+    "description": "Nuoc cham, a fish-sauce-lime-chili dressing, is the single most essential condiment in Vietnamese cooking, used across countless dishes."
   },
   {
     "name": "Vietnamese Lime Chili Sauce",
@@ -1158,7 +1185,8 @@
     ],
     "steps_detailed": [
       "Whisk all ingredients together with a splash of water to loosen."
-    ]
+    ],
+    "description": "A simple lime-chili sauce, in the spirit of nuoc cham."
   },
   {
     "name": "Vietnamese Grilled Chicken",
@@ -1218,7 +1246,8 @@
     "steps_detailed": [
       "Whisk the fish sauce, honey, and garlic together. Marinate the chicken at least 20 minutes.",
       "Grill or broil 6-7 minutes per side until charred and cooked through (165F)."
-    ]
+    ],
+    "description": "Simple grilled marinated chicken, common Vietnamese home cooking."
   },
   {
     "name": "Vietnamese Shrimp and Rice Jar",
@@ -1281,7 +1310,8 @@
     "steps_detailed": [
       "Toss the shrimp with fish sauce.",
       "Layer the rice, carrot, and shrimp in a jar."
-    ]
+    ],
+    "description": "A simple, portable shrimp and rice jar."
   },
   {
     "name": "Vietnamese Cabbage Chicken Salad",
@@ -1353,7 +1383,8 @@
     "steps_detailed": [
       "Whisk the fish sauce and lime juice together.",
       "Toss with the cabbage, carrot, and chicken."
-    ]
+    ],
+    "description": "A bright, herb-forward chicken and cabbage salad."
   },
   {
     "name": "Vietnamese Sweet Corn Soup",
@@ -1413,6 +1444,7 @@
     "steps_detailed": [
       "Simmer the corn and chicken in the broth for 5-6 minutes.",
       "Drizzle in the beaten egg while stirring the soup gently to form thin ribbons."
-    ]
+    ],
+    "description": "A simple sweet corn soup, a common Vietnamese starter."
   }
 ]

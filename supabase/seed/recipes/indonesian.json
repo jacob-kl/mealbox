@@ -81,7 +81,8 @@
       "Stir in the soy sauce and palm sugar.",
       "Fry the egg separately, sunny-side up, and top the rice with it.",
       "Nasi goreng's dark color and savory depth come specifically from shrimp paste and sweet soy - without them it's simply fried rice with vegetables, missing the ingredient that actually defines the dish across Indonesia."
-    ]
+    ],
+    "description": "Nasi goreng's dark color and savory depth come specifically from shrimp paste and sweet soy - without them it's simply fried rice with vegetables, missing the ingredient that actually defines the dish across Indonesia."
   },
   {
     "name": "Indonesian Bubur Ayam",
@@ -152,7 +153,8 @@
       "Simmer the rice with the chicken, garlic, and turmeric in 3 cups water over low heat, stirring occasionally, 35-40 minutes, until the rice breaks down into a thick, smooth porridge.",
       "Shred the chicken back through and season with the soy sauce.",
       "Top with the crisp-fried onion."
-    ]
+    ],
+    "description": "Bubur ayam, a savory rice porridge topped with shredded chicken, a beloved Indonesian breakfast."
   },
   {
     "name": "Indonesian Fried Rice Noodles (Bihun Goreng)",
@@ -225,7 +227,8 @@
       "Scramble the egg in the oil, then push aside.",
       "Add the garlic, cooked noodles, bean sprouts, and soy sauce, and stir-fry 4-5 minutes over high heat until well combined.",
       "A simple, common Indonesian breakfast noodle dish."
-    ]
+    ],
+    "description": "Bihun goreng, fried thin rice noodles, a common Indonesian dish alongside its cousin nasi goreng."
   },
   {
     "name": "Indonesian Gado-Gado",
@@ -298,7 +301,8 @@
       "Blanch the green beans until just tender, then combine with the shredded cabbage and sliced hard-boiled egg on a plate.",
       "Blend the crushed peanuts with the fish sauce, lime juice, and a splash of warm water into a thick, spoonable sauce.",
       "Spoon generously over the vegetables - gado-gado, meaning roughly 'mix-mix,' is a beloved Indonesian vegetable salad with peanut sauce."
-    ]
+    ],
+    "description": "Gado-gado, a vegetable salad with peanut sauce, considered close to Indonesia's national salad."
   },
   {
     "name": "Indonesian Soto Ayam",
@@ -373,7 +377,8 @@
     "steps_detailed": [
       "Simmer the chicken with the garlic and turmeric in the broth for 22-28 minutes until very tender, then shred and return to the pot.",
       "Ladle over the cooked noodles, top with bean sprouts, and finish with a squeeze of lime - soto ayam, a turmeric-spiced chicken soup, is found across Indonesia in countless regional variations."
-    ]
+    ],
+    "description": "Soto ayam, a turmeric-spiced chicken soup, found in countless regional variations across Indonesia."
   },
   {
     "name": "Indonesian Sate Ayam",
@@ -426,22 +431,28 @@
         "note": "minced"
       },
       {
+        "ingredient": "Lemongrass, raw",
+        "qty": 12,
+        "note": "minced"
+      },
+      {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
         "qty": 25,
         "note": "crushed, for the sauce"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 0.3333333333333333,
-        "note": "for the sauce"
+        "qty": 0.5,
+        "note": "tsp, for the sauce"
       }
     ],
     "steps_detailed": [
-      "Marinate the cubed chicken with the soy sauce and garlic for at least 30 minutes.",
-      "Thread onto skewers and grill over medium-high heat, turning occasionally, 12-15 minutes until well charred and cooked through.",
-      "Blend the crushed peanuts with the sugar and a splash of warm water into a thick dipping sauce.",
-      "Serve with the sauce and rice cakes if you have them - satay is beloved across Indonesia."
-    ]
+      "Marinate the chicken in the soy sauce, garlic, and lemongrass for at least 20 minutes.",
+      "Thread onto skewers and grill or broil, turning, 8-10 minutes, until charred and cooked through.",
+      "Whisk the crushed peanuts with a little water and the sugar into a simple sauce.",
+      "Serve the skewers with the peanut sauce."
+    ],
+    "description": "Sate ayam, grilled skewered chicken with peanut sauce, is one of Indonesia's most iconic dishes - the marinade traditionally includes lemongrass alongside soy sauce for real aromatic brightness."
   },
   {
     "name": "Indonesian Bakso",
@@ -519,7 +530,8 @@
       "Simmer the meatballs in the beef broth for 14-18 minutes until cooked through and firm.",
       "Stir in the soy sauce.",
       "Ladle the broth and meatballs over the cooked noodles, top with bean sprouts and cilantro - bakso, a beloved meatball soup, is sold on street carts throughout Indonesia."
-    ]
+    ],
+    "description": "Bakso, meatballs served in broth, one of Indonesia's most beloved street foods."
   },
   {
     "name": "Indonesian Rendang",
@@ -563,7 +575,7 @@
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 118.3,
+        "qty": 160,
         "note": ""
       },
       {
@@ -573,31 +585,48 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "qty": 1.5,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 2.5,
         "note": "minced"
       },
       {
-        "ingredient": "Ginger root, raw",
-        "qty": 15,
+        "ingredient": "Lemongrass, raw",
+        "qty": 20,
+        "note": "smashed and minced"
+      },
+      {
+        "ingredient": "Galangal, fresh",
+        "qty": 12,
         "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Shredded coconut",
         "qty": 0.0625,
         "note": "cup, toasted"
+      },
+      {
+        "ingredient": "Kaffir lime leaves",
+        "qty": 1,
+        "note": "torn"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, garlic, ginger, and turmeric over medium-high heat, 10-12 minutes.",
-      "Add the coconut milk and toasted shredded coconut, bringing to a simmer.",
-      "Cook uncovered over low heat 1.5-2.5 hours, stirring occasionally, until the sauce has reduced dramatically, turned deep brown, and the oil has separated.",
-      "Serve with rice - rendang originates from West Sumatra's Minangkabau people and is treasured across Indonesia and beyond."
-    ]
+      "Pound or blend the onion, garlic, lemongrass, galangal, and turmeric into a rough, fragrant paste.",
+      "Fry the paste in a dry pan or with a little of the coconut milk over medium heat, 4-5 minutes, until deeply fragrant.",
+      "Add the beef and brown, 6-8 minutes.",
+      "Add the remaining coconut milk, ginger, and kaffir lime leaf, and simmer uncovered over low heat, stirring occasionally, 1.5-2 hours, until the liquid reduces to a thick, dark, clinging sauce.",
+      "Stir in the toasted coconut in the last 10 minutes."
+    ],
+    "description": "Rendang, beef slow-cooked in coconut milk and spice paste until the liquid reduces to a thick, dark, clinging sauce, is widely considered one of the world's great dishes, with genuine Indonesian (specifically Minangkabau) origins - lemongrass and galangal are essential to the spice paste, alongside the long, patient reduction that concentrates everything far beyond a simple curry."
   },
   {
     "name": "Indonesian Ayam Goreng",
@@ -669,7 +698,8 @@
       "Simmer the chicken with the garlic, ginger, turmeric, and fish sauce in a cup of water for 15-18 minutes until nearly cooked through, then drain well and pat dry.",
       "Fry the par-cooked chicken in the oil over medium heat, 6-8 minutes per side, until deeply golden and crisp outside.",
       "Serve with rice and sambal - this double-cooking method, first simmered then fried, gives ayam goreng its distinctive tenderness inside a crisp crust."
-    ]
+    ],
+    "description": "Ayam goreng, fried chicken marinated in spices before frying, a beloved Indonesian dish."
   },
   {
     "name": "Indonesian Grilled Fish (Ikan Bakar)",
@@ -743,7 +773,8 @@
       "Combine the turmeric, garlic, jalapeno, and half the oil into a paste, and rub thoroughly over the fish.",
       "Marinate 15-20 minutes, then grill over medium-high heat, brushing with the remaining oil, 5-7 minutes per side.",
       "Finish with a generous squeeze of lime juice - grilled fish is central to Indonesia's coastal cooking."
-    ]
+    ],
+    "description": "Ikan bakar, grilled fish, an Indonesian coastal staple."
   },
   {
     "name": "Indonesian Semur (Sweet Soy Braised Beef)",
@@ -816,7 +847,8 @@
       "Add the soy sauce, brown sugar, and beef broth.",
       "Cover and simmer over low heat 1.5-2.5 hours until the beef is completely tender and the sauce has reduced to a dark, glossy consistency.",
       "Serve with rice - semur's sweet, dark soy flavor reflects Indonesia's long history with Dutch and Chinese trade influences."
-    ]
+    ],
+    "description": "Semur, beef braised in sweet soy sauce, an Indonesian dish with Dutch colonial influence in its name."
   },
   {
     "name": "Indonesian Tempeh Goreng",
@@ -886,7 +918,8 @@
       "Marinate with the garlic, soy sauce, and turmeric for 10-15 minutes.",
       "Fry in the oil over medium-high heat, 3-5 minutes per side, until deeply golden and crisp.",
       "A simple, popular Indonesian snack and side dish."
-    ]
+    ],
+    "description": "Tempeh, a fermented soybean cake originating in Indonesia, fried here into a simple, crispy snack."
   },
   {
     "name": "Indonesian Pisang Goreng",
@@ -955,7 +988,8 @@
       "Mix the flour, sugar, shredded coconut if using, and enough water to form a smooth, coatable batter.",
       "Dip the banana slices in the batter, coating evenly, and fry in the oil over medium heat, 2-4 minutes per side, until golden and crisp.",
       "A beloved Indonesian fried banana snack."
-    ]
+    ],
+    "description": "Pisang goreng, fried banana fritters, a beloved Indonesian street snack."
   },
   {
     "name": "Indonesian Krupuk-Style Cassava Crackers",
@@ -1010,7 +1044,8 @@
       "Mix the cassava flour with the garlic, a pinch of salt, and enough water to form a very thin, pourable batter.",
       "Fry thin spoonfuls in the hot oil, 1-3 minutes per side, until crisp, puffed, and lightly golden.",
       "Krupuk, in countless forms, is a beloved crunchy accompaniment to nearly every Indonesian meal."
-    ]
+    ],
+    "description": "Krupuk, crackers made from cassava or other starches, a common Indonesian accompaniment to nearly any meal."
   },
   {
     "name": "Indonesian Martabak Telur (Savory Stuffed Pancake)",
@@ -1089,7 +1124,8 @@
       "Spoon the filling onto the center of the dough, fold in the sides to form a sealed package.",
       "Fry in the oil over medium heat, 3-4 minutes per side, until golden and crisp on both sides.",
       "Slice into wedges and serve hot - martabak telur is a beloved Indonesian street food, especially popular at night markets."
-    ]
+    ],
+    "description": "Martabak telur, a stuffed, folded savory pancake, a beloved Indonesian street food."
   },
   {
     "name": "Indonesian Es Cendol",
@@ -1150,7 +1186,8 @@
       "Warm the coconut milk with the brown sugar over low heat until fully dissolved, then chill.",
       "Combine the chilled coconut mixture with the cooked noodles (standing in for the green rice-flour jelly strands) and cooked kidney beans.",
       "Serve well chilled over crushed ice - es cendol is a beloved cold Indonesian dessert."
-    ]
+    ],
+    "description": "Es cendol, shaved ice with coconut milk and palm sugar syrup, a beloved Indonesian dessert."
   },
   {
     "name": "Indonesian Pisang Rai (Coconut Banana)",
@@ -1207,9 +1244,9 @@
     ],
     "steps_detailed": [
       "Dip the plantain slices in a thin batter made from the rice flour and coconut milk.",
-      "Simmer in gently boiling water 5-6 minutes until the coating is cooked through and the plantain is tender.",
-      "Roll the warm pieces in the grated fresh coconut to coat."
-    ]
+      "Simmer in gently boiling water 5-6 minutes until the coating is cooked through and the plantain is tender."
+    ],
+    "description": "Roll the warm pieces in the grated fresh coconut to coat."
   },
   {
     "name": "Indonesian Klepon",
@@ -1264,9 +1301,9 @@
       "Mix the glutinous rice flour with warm water into a soft, pliable dough.",
       "Pinch off small pieces, flatten, and wrap each around a small piece of palm sugar, rolling into a smooth ball and sealing well so none of the sugar leaks out.",
       "Boil in water 4-5 minutes until they float, then drain.",
-      "Roll the warm balls in the grated coconut.",
-      "Klepon's whole appeal is the burst of molten palm sugar when you bite into it - the wrap needs to be sealed completely, or the sugar leaks out into the boiling water instead of staying inside."
-    ]
+      "Roll the warm balls in the grated coconut."
+    ],
+    "description": "Klepon's whole appeal is the burst of molten palm sugar when you bite into it - the wrap needs to be sealed completely, or the sugar leaks out into the boiling water instead of staying inside."
   },
   {
     "name": "Indonesian Sambal Terasi",
@@ -1343,7 +1380,8 @@
       "Fry the paste in the oil over medium heat for 4-5 minutes until fragrant and slightly darkened.",
       "Stir in the fish sauce and lime juice.",
       "This nods to sambal terasi, which traditionally includes fermented shrimp paste - one of the most common sambals across Indonesia."
-    ]
+    ],
+    "description": "Sambal terasi, chili sambal made with fermented shrimp paste, a defining Indonesian condiment."
   },
   {
     "name": "Indonesian Peanut Sauce (Bumbu Kacang)",
@@ -1418,6 +1456,7 @@
       "Simmer the crushed peanuts with the coconut milk, sugar, fish sauce, and jalapeno if using, stirring frequently, for 6-8 minutes until thickened.",
       "Stir in the lime juice off the heat.",
       "The essential sauce behind satay and gado-gado, and endlessly versatile across Indonesian cooking."
-    ]
+    ],
+    "description": "Bumbu kacang, the peanut sauce that accompanies gado-gado and satay across Indonesia."
   }
 ]

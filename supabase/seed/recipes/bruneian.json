@@ -65,7 +65,8 @@
       "Make a simple chili paste by frying the chili powder briefly in a little oil.",
       "Serve the fried chicken over the rice with the chili paste alongside.",
       "Nasi katok, meaning roughly 'knock rice' from the practice of knocking on a seller's door for a wrapped takeaway parcel, is Brunei's most iconic everyday meal - simple fried chicken, plain rice, and chili, sold cheaply everywhere."
-    ]
+    ],
+    "description": "Nasi katok, meaning roughly 'knock rice' from the practice of knocking on a seller's door for a wrapped takeaway parcel, is Brunei's most iconic everyday meal."
   },
   {
     "name": "Bruneian Kaya Bread",
@@ -114,7 +115,8 @@
       "Toast the bread until golden and crisp.",
       "Spread generously with the butter, then the preserves (standing in for kaya, the coconut-egg jam common across this part of Southeast Asia).",
       "A simple, sweet breakfast enjoyed across Brunei, reflecting shared culinary ground with Malaysia and Singapore."
-    ]
+    ],
+    "description": "Kaya bread, bread with coconut jam, a Bruneian breakfast staple shared with Malaysia and Singapore."
   },
   {
     "name": "Bruneian Fried Rice with Egg",
@@ -169,7 +171,8 @@
       "Scramble the egg and set aside.",
       "Fry the garlic briefly, add the cold, day-old rice, breaking up clumps, and stir-fry over high heat 5-6 minutes.",
       "Fold the egg back through, finish with the soy sauce."
-    ]
+    ],
+    "description": "A simple, everyday fried rice."
   },
   {
     "name": "Bruneian Ambuyat",
@@ -235,7 +238,8 @@
       "Gradually whisk in hot water, a little at a time, stirring constantly and vigorously, until the mixture turns thick, sticky, and translucent - this is the closest approximation to real sago starch, the traditional base of this dish.",
       "Whisk the lime juice, fish sauce, jalapeno, and strained tamarind pulp into a tangy, sour dipping sauce called cacah.",
       "Serve the starch warm, twirled around a pair of chopsticks or a fork and dipped in the sauce - ambuyat is Brunei's most distinctive national dish, notable for having almost no flavor of its own, letting the dipping sauce do all the work."
-    ]
+    ],
+    "description": "Ambuyat, a starchy sago-based staple with a distinctive gluey texture, is considered Brunei's national dish, eaten by winding it onto a special forked utensil called a candas."
   },
   {
     "name": "Bruneian Soto Chicken Soup",
@@ -312,7 +316,8 @@
       "Simmer the chicken with the garlic and turmeric in the broth for 22-28 minutes until very tender, then remove, shred, and return it to the pot.",
       "Cook the rice noodles separately according to package directions.",
       "Ladle the turmeric-scented broth and chicken over the noodles, top with bean sprouts and cilantro - soto, found across Brunei, Malaysia, and Indonesia, is a beloved turmeric-spiced chicken soup."
-    ]
+    ],
+    "description": "Soto, a spiced chicken soup, shared across Brunei, Malaysia, and Indonesia."
   },
   {
     "name": "Bruneian Beef Rendang",
@@ -356,7 +361,7 @@
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 118.3,
+        "qty": 160,
         "note": ""
       },
       {
@@ -366,25 +371,37 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "qty": 1.5,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 2.5,
         "note": "minced"
       },
       {
-        "ingredient": "Ginger root, raw",
-        "qty": 15,
+        "ingredient": "Lemongrass, raw",
+        "qty": 20,
+        "note": "smashed and minced"
+      },
+      {
+        "ingredient": "Galangal, fresh",
+        "qty": 12,
         "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, garlic, ginger, and turmeric over medium-high heat, 10-12 minutes.",
-      "Add the coconut milk and simmer uncovered over low heat 1.5-2.5 hours, stirring occasionally, until the sauce has reduced dramatically and turned deep brown.",
-      "Serve with rice - rendang, celebrated across Brunei and its neighbors, is traditionally reserved for special occasions and festivals."
-    ]
+      "Pound or blend the onion, garlic, lemongrass, galangal, and turmeric into a rough, fragrant paste.",
+      "Fry the paste in a dry pan or with a little of the coconut milk over medium heat, 4-5 minutes, until deeply fragrant.",
+      "Add the beef and brown, 6-8 minutes.",
+      "Add the remaining coconut milk and the ginger, and simmer uncovered over low heat, stirring occasionally, 1.5-2 hours, until the liquid reduces to a thick, dark, clinging sauce."
+    ],
+    "description": "Rendang, beef slow-cooked in coconut milk and spice paste until it reduces to a thick, dark, clinging sauce, is shared across Brunei, Malaysia, and Indonesia - lemongrass and galangal are essential to the spice paste, alongside the long reduction that concentrates everything far beyond a simple curry."
   },
   {
     "name": "Bruneian Fish Curry",
@@ -458,7 +475,8 @@
       "Simmer the onion, garlic, and turmeric in the coconut milk over medium-low heat for 5-6 minutes to let the flavors develop.",
       "Add the fish and strained tamarind pulp, and simmer gently 10-14 minutes until the fish is cooked through and flaky.",
       "Serve with rice - a comforting, tangy coconut fish curry found in coastal Bruneian households."
-    ]
+    ],
+    "description": "A simple, coconut-based fish curry."
   },
   {
     "name": "Bruneian Grilled Fish",
@@ -532,7 +550,8 @@
       "Combine the turmeric, garlic, jalapeno, and half the oil into a paste, and rub thoroughly over the fish.",
       "Marinate 15-20 minutes, then grill over medium-high heat, brushing with the remaining oil, 5-7 minutes per side, until cooked through.",
       "Finish with a generous squeeze of lime juice - grilled fish, often fresh from the South China Sea, is a staple across Brunei."
-    ]
+    ],
+    "description": "Simple grilled fish, a Bruneian coastal staple."
   },
   {
     "name": "Bruneian Chicken Curry",
@@ -604,7 +623,8 @@
       "Brown the chicken with the onion, garlic, and turmeric over medium-high heat, 8-10 minutes.",
       "Add the coconut milk and diced tomatoes, and simmer 22-28 minutes until the chicken is tender and the sauce has thickened.",
       "Serve with rice - a homestyle coconut chicken curry found throughout Brunei."
-    ]
+    ],
+    "description": "A simple, everyday Bruneian chicken curry."
   },
   {
     "name": "Bruneian Beef Satay",
@@ -653,8 +673,13 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "qty": 1.5,
         "note": ""
+      },
+      {
+        "ingredient": "Lemongrass, raw",
+        "qty": 12,
+        "note": "minced"
       },
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -663,16 +688,17 @@
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 0.3333333333333333,
-        "note": "for the sauce"
+        "qty": 0.5,
+        "note": "tsp, for the sauce"
       }
     ],
     "steps_detailed": [
-      "Marinate the cubed beef with the coconut milk and turmeric for at least 30 minutes.",
-      "Thread onto skewers and grill over medium-high heat, turning occasionally, 12-15 minutes until well charred and cooked through.",
-      "Blend the crushed peanuts with the sugar and a splash of warm water into a thick dipping sauce.",
-      "Serve the skewers with the peanut sauce and rice - satay is a shared favorite across Brunei and the wider Malay world."
-    ]
+      "Marinate the beef in a little of the coconut milk with the turmeric and lemongrass for at least 20 minutes.",
+      "Thread onto skewers and grill or broil, turning, 8-10 minutes, until charred and cooked through.",
+      "Whisk the remaining coconut milk with the crushed peanuts and sugar into a sauce.",
+      "Serve the skewers with the peanut sauce."
+    ],
+    "description": "Satay, grilled skewered meat with peanut sauce, shared across Brunei and its neighbors - the marinade traditionally includes lemongrass alongside turmeric for real aromatic brightness."
   },
   {
     "name": "Bruneian Beef Stew (Daging Masak Hitam)",
@@ -745,7 +771,8 @@
       "Add the soy sauce, sugar, and beef broth.",
       "Cover and simmer over low heat 1.5-2.5 hours until the beef is completely tender and the sauce has reduced to a dark, glossy consistency.",
       "Serve with rice - a rich, dark braised beef dish reflecting Brunei's Chinese and Malay culinary crossover."
-    ]
+    ],
+    "description": "Daging masak hitam, beef in a dark, sweet soy-based sauce, a Bruneian specialty."
   },
   {
     "name": "Bruneian Kuih Cincin",
@@ -805,7 +832,8 @@
       "Shape into small rings, resembling little donuts.",
       "Fry in the oil over medium heat, 3-5 minutes per side, until deeply golden brown and crisp.",
       "A traditional Bruneian sweet snack, named for its ring shape."
-    ]
+    ],
+    "description": "Kuih cincin, a ring-shaped fried sweet, part of the wide world of Bruneian kuih."
   },
   {
     "name": "Bruneian Curry Puffs",
@@ -873,7 +901,8 @@
       "Make a simple, firm pastry from the flour, a pinch of salt, and water, and roll out thin.",
       "Cut into rounds, fill, and fold into half-moons, crimping the edges well.",
       "Fry until deeply golden and crisp, 4-5 minutes - a popular teatime snack shared across Brunei and Malaysia."
-    ]
+    ],
+    "description": "Curry puffs, a beloved snack shared with Malaysia and the wider region."
   },
   {
     "name": "Bruneian Fried Banana Fritters",
@@ -937,7 +966,8 @@
       "Mix the flour, sugar, and enough water to form a smooth, coatable batter.",
       "Dip the banana slices in the batter and fry in the oil over medium heat, 2-4 minutes per side, until golden and crisp.",
       "A common, well-loved snack throughout Brunei."
-    ]
+    ],
+    "description": "A common Bruneian street snack."
   },
   {
     "name": "Bruneian Fried Tofu with Sambal",
@@ -1001,7 +1031,8 @@
       "Press the tofu briefly to remove excess moisture, then cube it.",
       "Fry in the oil over medium-high heat, 3-4 minutes per side, until golden and crisp on all sides.",
       "Toss with the jalapeno, fish sauce, and lime juice, and serve warm - a simple, savory snack."
-    ]
+    ],
+    "description": "Fried tofu topped with sambal, a common Bruneian home dish."
   },
   {
     "name": "Bruneian Coconut Sticky Rice",
@@ -1054,7 +1085,8 @@
     "steps_detailed": [
       "Drain the soaked rice and steam in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender.",
       "Warm the coconut milk with the sugar until dissolved, pour over the warm rice, and let absorb 10 minutes."
-    ]
+    ],
+    "description": "A simple sweet sticky rice with coconut milk."
   },
   {
     "name": "Bruneian Kuih Bingka",
@@ -1124,7 +1156,8 @@
       "Mix the cassava flour, coconut milk, sugar, egg, and melted butter into a smooth batter.",
       "Pour into a small buttered dish and bake at 350F (175C) for 32-40 minutes until golden and set.",
       "Cool before slicing into squares - a dense, chewy cassava cake shared across Brunei and the wider region."
-    ]
+    ],
+    "description": "Kuih bingka, a baked cassava cake, part of the wide world of Bruneian kuih."
   },
   {
     "name": "Bruneian Pengat (Warm Banana Coconut Dessert)",
@@ -1185,7 +1218,8 @@
       "Warm the coconut milk with the brown sugar over low heat until dissolved, 2-3 minutes.",
       "Add the banana slices and cubed sweet potato (a common addition alongside the traditional taro), and simmer 12-15 minutes until everything is tender and infused with the sweet coconut sauce.",
       "Serve warm - a comforting, simple Bruneian dessert."
-    ]
+    ],
+    "description": "Pengat, banana simmered in sweetened coconut milk, a comforting Bruneian dessert."
   },
   {
     "name": "Bruneian Cacah Dipping Sauce",
@@ -1245,7 +1279,8 @@
     "steps_detailed": [
       "Whisk the lime juice, jalapeno, fish sauce, and strained tamarind pulp together until combined.",
       "Cacah is the essential tangy, spicy dip served with ambuyat - without it, the starch itself has almost no flavor."
-    ]
+    ],
+    "description": "Cacah, a simple dipping sauce, common alongside Bruneian snacks."
   },
   {
     "name": "Bruneian Sambal Belacan",
@@ -1304,6 +1339,7 @@
     "steps_detailed": [
       "Blend the jalapeno, garlic, fish sauce, and lime juice into a rough, fiery paste.",
       "This nods to sambal belacan, which traditionally includes fermented shrimp paste - serve as a bold condiment alongside rice and grilled dishes."
-    ]
+    ],
+    "description": "Sambal belacan, chili sambal made with fermented shrimp paste, a defining Bruneian and wider Malay condiment."
   }
 ]

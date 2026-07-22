@@ -33,7 +33,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       },
@@ -56,7 +56,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk, a little water, and the cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple coconut rice porridge."
   },
   {
     "name": "Ni-Vanuatu Eggs with Tomato",
@@ -125,7 +126,8 @@
       "Soften the onion in the oil over medium heat, 5-6 minutes.",
       "Add the tomatoes and simmer 6-8 minutes until slightly thickened.",
       "Scramble in the eggs and pepper, cooking gently, stirring often, until just set."
-    ]
+    ],
+    "description": "A simple, everyday egg breakfast."
   },
   {
     "name": "Ni-Vanuatu Cassava with Coconut",
@@ -184,7 +186,8 @@
     "steps_detailed": [
       "Boil the cassava until fully tender, 22-28 minutes, then drain.",
       "Toss with the warmed coconut milk, honey, and cinnamon."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, paired here with coconut."
   },
   {
     "name": "Ni-Vanuatu Laplap (Grated Root Vegetable Pudding)",
@@ -255,9 +258,9 @@
     ],
     "steps_detailed": [
       "Mix the grated cassava and taro with the coconut milk and pepper into a thick, evenly moistened batter.",
-      "Layer with the chicken and onion in a small baking dish, cover with foil, and bake at 375F (190C), 42-48 minutes, until firm, set, and cooked through.",
-      "Laplap, grated root vegetables mixed with coconut milk and wrapped with meat or fish in banana leaves before being cooked in an underground earth oven, is widely considered Vanuatu's national dish."
-    ]
+      "Layer with the chicken and onion in a small baking dish, cover with foil, and bake at 375F (190C), 42-48 minutes, until firm, set, and cooked through."
+    ],
+    "description": "Laplap, grated root vegetables mixed with coconut milk and wrapped with meat or fish in banana leaves before being cooked in an underground earth oven, is widely considered Vanuatu's national dish."
   },
   {
     "name": "Ni-Vanuatu Fish and Coconut Stew",
@@ -324,7 +327,8 @@
     "steps_detailed": [
       "Simmer the yam with the onion and garlic in water over medium heat, 16-20 minutes, until nearly tender.",
       "Add the fish and coconut milk, and simmer 9-11 more minutes until the fish flakes easily."
-    ]
+    ],
+    "description": "A simple coconut-based fish stew."
   },
   {
     "name": "Ni-Vanuatu Taro and Chicken Stew",
@@ -389,7 +393,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the taro and coconut milk, and simmer 24-28 minutes until the taro is fully tender."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, paired here with chicken."
   },
   {
     "name": "Ni-Vanuatu Chickpea and Coconut Stew",
@@ -458,7 +463,8 @@
     "steps_detailed": [
       "Soften the onion and garlic in a little oil, 5-6 minutes.",
       "Add the chickpeas, coconut milk, and tomatoes, and simmer 18-22 minutes until thickened."
-    ]
+    ],
+    "description": "A simple chickpea and coconut stew."
   },
   {
     "name": "Ni-Vanuatu Baked Fish with Coconut",
@@ -525,7 +531,8 @@
     "steps_detailed": [
       "Pour the coconut milk and lime juice over the fish with the garlic and pepper.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
-    ]
+    ],
+    "description": "A simple baked fish with coconut milk."
   },
   {
     "name": "Ni-Vanuatu Beef and Yam Stew",
@@ -590,7 +597,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the yam and 1.75 cups water, and simmer 38-42 minutes until very tender."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, paired here with beef."
   },
   {
     "name": "Ni-Vanuatu Chicken and Cassava Bake",
@@ -655,7 +663,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the cassava and coconut milk, transfer to a small baking dish, and bake at 375F (190C) for 28-32 minutes until fully tender."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, baked here with chicken."
   },
   {
     "name": "Ni-Vanuatu Pork and Taro Stew",
@@ -720,7 +729,8 @@
     "steps_detailed": [
       "Brown the pork with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the taro and a generous splash of water, cover, and simmer 27-32 minutes until fully tender."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, paired here with pork."
   },
   {
     "name": "Ni-Vanuatu Cassava Chips",
@@ -779,7 +789,8 @@
     "steps_detailed": [
       "Fry the cassava slices in the oil over medium heat, 4-5 minutes per side, until deeply golden and crisp.",
       "Season with the pepper and a little minced garlic while still hot."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, fried here into simple chips."
   },
   {
     "name": "Ni-Vanuatu Papaya Snack",
@@ -837,7 +848,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the lime juice, honey, and a dusting of cinnamon."
-    ]
+    ],
+    "description": "Papaya, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "Ni-Vanuatu Yam Fritters",
@@ -904,7 +916,8 @@
     "steps_detailed": [
       "Mix the grated yam with the flour, egg, and pepper into a thick batter.",
       "Fry spoonfuls in the oil over medium heat, 4-5 minutes per side, until deeply golden and cooked through."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, fried here into simple fritters."
   },
   {
     "name": "Ni-Vanuatu Spiced Chickpea Snack",
@@ -972,7 +985,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "Ni-Vanuatu Coconut Rice Pudding",
@@ -1012,7 +1026,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1040,7 +1054,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk with the honey and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top with the chopped pineapple."
-    ]
+    ],
+    "description": "A simple coconut rice pudding."
   },
   {
     "name": "Ni-Vanuatu Pineapple with Honey",
@@ -1097,7 +1112,8 @@
     ],
     "steps_detailed": [
       "Warm the pineapple briefly in the butter, 2-3 minutes, then toss with the honey and cinnamon."
-    ]
+    ],
+    "description": "Pineapple, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "Ni-Vanuatu Papaya with Honey",
@@ -1153,7 +1169,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the honey, lime juice, and chopped walnuts."
-    ]
+    ],
+    "description": "Papaya, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "Ni-Vanuatu Coconut Curry Sauce",
@@ -1210,7 +1227,8 @@
     ],
     "steps_detailed": [
       "Simmer the coconut milk with the garlic and turmeric over medium-low heat, 9-12 minutes, until slightly thickened, finishing with the lime juice."
-    ]
+    ],
+    "description": "A simple base coconut curry sauce."
   },
   {
     "name": "Ni-Vanuatu Lime Chili Sauce",
@@ -1268,6 +1286,7 @@
     ],
     "steps_detailed": [
       "Whisk the lime juice, jalapeno, oil, and garlic together into a sharp, bright sauce."
-    ]
+    ],
+    "description": "A simple lime-chili sauce."
   }
 ]

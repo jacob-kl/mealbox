@@ -33,7 +33,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       },
@@ -56,7 +56,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk, a little water, and the cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple coconut rice porridge."
   },
   {
     "name": "Solomon Islander Eggs with Tomato",
@@ -125,7 +126,8 @@
       "Soften the onion in the oil over medium heat, 5-6 minutes.",
       "Add the tomatoes and simmer 6-8 minutes until slightly thickened.",
       "Scramble in the eggs and pepper, cooking gently, stirring often, until just set."
-    ]
+    ],
+    "description": "A simple, everyday egg breakfast."
   },
   {
     "name": "Solomon Islander Cassava with Coconut",
@@ -184,7 +186,8 @@
     "steps_detailed": [
       "Boil the cassava until fully tender, 22-28 minutes, then drain.",
       "Toss with the warmed coconut milk, honey, and cinnamon - cassava and sweet potato are the two most important staple crops across the Solomon Islands."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, paired here with coconut."
   },
   {
     "name": "Solomon Islander Ceviche-Style Fish",
@@ -253,7 +256,8 @@
       "Marinate the fish in the lime juice for 25-30 minutes, until it turns fully opaque and firm.",
       "Drain most of the lime juice, then mix in the coconut milk, onion, and jalapeno.",
       "Citrus-cured raw fish finished with coconut milk appears under different local names throughout the Pacific, the Solomon Islands included, given the region's shared reliance on fresh reef fish and coconut."
-    ]
+    ],
+    "description": "Raw fish 'cooked' in citrus, a preparation style shared across several Pacific Island nations."
   },
   {
     "name": "Solomon Islander Cassava and Chicken Stew",
@@ -318,7 +322,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the cassava and coconut milk, and simmer 24-28 minutes until the cassava is fully tender."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, paired here with chicken."
   },
   {
     "name": "Solomon Islander Taro and Fish Curry",
@@ -390,7 +395,8 @@
     "steps_detailed": [
       "Simmer the taro with the onion and garlic in water over medium heat, 16-20 minutes, until nearly tender.",
       "Add the fish, coconut milk, and turmeric, and simmer 9-11 more minutes until the fish flakes easily and the taro is fully tender."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, paired here with fish in a coconut curry."
   },
   {
     "name": "Solomon Islander Chickpea and Coconut Stew",
@@ -459,7 +465,8 @@
     "steps_detailed": [
       "Soften the onion and garlic in a little oil, 5-6 minutes.",
       "Add the chickpeas, coconut milk, and tomatoes, and simmer 18-22 minutes until thickened."
-    ]
+    ],
+    "description": "A simple chickpea and coconut stew."
   },
   {
     "name": "Solomon Islander Baked Fish with Coconut",
@@ -526,7 +533,8 @@
     "steps_detailed": [
       "Pour the coconut milk and lime juice over the fish with the garlic and pepper.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
-    ]
+    ],
+    "description": "A simple baked fish with coconut milk."
   },
   {
     "name": "Solomon Islander Beef and Cassava Stew",
@@ -591,7 +599,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the cassava and 1.75 cups water, and simmer 38-42 minutes until very tender."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, paired here with beef."
   },
   {
     "name": "Solomon Islander Chicken and Taro Bake",
@@ -656,7 +665,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the taro and coconut milk, transfer to a small baking dish, and bake at 375F (190C) for 28-32 minutes until fully tender."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, baked here with chicken."
   },
   {
     "name": "Solomon Islander Pork and Yam Stew",
@@ -721,7 +731,8 @@
     "steps_detailed": [
       "Brown the pork with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the yam and 1.75 cups water, and simmer 27-32 minutes until fully tender."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, paired here with pork."
   },
   {
     "name": "Solomon Islander Cassava Chips",
@@ -780,7 +791,8 @@
     "steps_detailed": [
       "Fry the cassava slices in the oil over medium heat, 4-5 minutes per side, until deeply golden and crisp.",
       "Season with the pepper and a little minced garlic while still hot."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, fried here into simple chips."
   },
   {
     "name": "Solomon Islander Papaya Snack",
@@ -838,7 +850,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the lime juice, honey, and a dusting of cinnamon."
-    ]
+    ],
+    "description": "Papaya, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "Solomon Islander Taro Fritters",
@@ -906,7 +919,8 @@
     "steps_detailed": [
       "Mix the grated taro with the flour, pepper, and garlic into a thick, well-combined batter.",
       "Fry spoonfuls in the oil over medium heat, 4-5 minutes per side, until deeply golden and cooked through."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, fried here into simple fritters."
   },
   {
     "name": "Solomon Islander Spiced Chickpea Snack",
@@ -974,7 +988,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "Solomon Islander Coconut Rice Pudding",
@@ -1014,7 +1029,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1042,7 +1057,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk with the honey and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top with the chopped pineapple."
-    ]
+    ],
+    "description": "A simple coconut rice pudding."
   },
   {
     "name": "Solomon Islander Pineapple with Honey",
@@ -1099,7 +1115,8 @@
     ],
     "steps_detailed": [
       "Warm the pineapple briefly in the butter, 2-3 minutes, then toss with the honey and cinnamon."
-    ]
+    ],
+    "description": "Pineapple, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "Solomon Islander Papaya with Honey",
@@ -1155,7 +1172,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the honey, lime juice, and chopped walnuts."
-    ]
+    ],
+    "description": "Papaya, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "Solomon Islander Coconut Curry Sauce",
@@ -1212,7 +1230,8 @@
     ],
     "steps_detailed": [
       "Simmer the coconut milk with the garlic and turmeric over medium-low heat, 9-12 minutes, until slightly thickened, finishing with the lime juice."
-    ]
+    ],
+    "description": "A simple base coconut curry sauce."
   },
   {
     "name": "Solomon Islander Lime Chili Sauce",
@@ -1270,6 +1289,7 @@
     ],
     "steps_detailed": [
       "Whisk the lime juice, jalapeno, oil, and garlic together into a sharp, bright sauce."
-    ]
+    ],
+    "description": "A simple lime-chili sauce."
   }
 ]

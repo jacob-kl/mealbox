@@ -55,9 +55,24 @@
         "note": "cup"
       },
       {
-        "ingredient": "Thai curry paste",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Lemongrass, raw",
+        "qty": 15,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Galangal, fresh",
+        "qty": 8,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Kaffir lime leaves",
+        "qty": 1,
+        "note": "torn"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Bell pepper",
@@ -65,7 +80,7 @@
         "note": "sliced"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -86,13 +101,15 @@
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat a splash of the thick coconut cream that rises to the top of the can in a pan over medium heat. Add the curry paste and fry it for 1-2 minutes, stirring constantly, until fragrant \u2014 this step matters, it blooms the paste's flavor rather than leaving it tasting raw and pasty.",
-      "Add the shallot and cook 1 minute, then add the chicken and cook until no longer pink on the outside, about 4-5 minutes.",
-      "Pour in the remaining coconut milk and bring to a gentle simmer.",
-      "Add the bell pepper and fish sauce, and simmer 8-10 minutes until the chicken is cooked through and the peppers are tender-crisp.",
-      "Stir in the basil just before serving, over the rice."
-    ]
+      "Pound or blend the lemongrass, galangal, and half the kaffir lime leaf with the chili powder into a rough paste.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Fry the paste in a little of the coconut milk over medium heat, 2-3 minutes, until fragrant.",
+      "Add the chicken and shallot, and cook 5-6 minutes.",
+      "Add the remaining coconut milk, the pepper, and the remaining kaffir lime leaf, and simmer 8-10 minutes until the chicken is cooked through.",
+      "Stir in the fish sauce and finish with the basil.",
+      "Serve over the rice."
+    ],
+    "description": "Thai green curry gets its color and aromatic depth from a paste of green chilies, lemongrass, galangal, and kaffir lime leaf pounded together - a jarred generic curry paste misses that fresh, bright aromatic hit, and basmati isn't the rice this dish actually wants."
   },
   {
     "name": "Shrimp Pad Thai",
@@ -216,7 +233,8 @@
       "Add the garlic and noodles, then pour the sauce over everything and toss vigorously to coat, 2-3 minutes.",
       "Add the carrot and bean sprouts in the last minute so they stay crisp.",
       "Top with scallions before serving."
-    ]
+    ],
+    "description": "Pad Thai, stir-fried rice noodles with a sweet-sour-savory sauce, is Thailand's most internationally famous dish."
   },
   {
     "name": "Thai Basil Beef",
@@ -316,7 +334,8 @@
       "Add the garlic and bell pepper, stir-frying 2 minutes until the pepper is just tender-crisp.",
       "Pour in the sauce and toss to coat, cooking 1 more minute.",
       "Remove from heat and stir in the basil until just wilted. Serve over rice."
-    ]
+    ],
+    "description": "A beef stir-fry built on Thai basil's distinctive anise-like flavor, sharper than Italian basil."
   },
   {
     "name": "Coconut Shrimp Soup",
@@ -412,7 +431,8 @@
       "Add the shrimp and fish sauce, and simmer 3-4 minutes until the shrimp are pink and cooked through.",
       "Remove from heat and stir in the lime juice \u2014 adding acid at the end keeps it bright rather than muted from prolonged cooking.",
       "Top with cilantro and serve over or alongside rice."
-    ]
+    ],
+    "description": "Tom kha-style, a coconut milk soup - real versions lean on galangal and lemongrass for their aromatic backbone."
   },
   {
     "name": "Thai Peanut Chicken Noodles",
@@ -505,7 +525,8 @@
       "Heat a skillet over medium-high heat. Cook the chicken with garlic and ginger, 5-6 minutes, until cooked through.",
       "Add the noodles and carrot, then pour the peanut sauce over everything.",
       "Toss until evenly coated and heated through, about 2 minutes."
-    ]
+    ],
+    "description": "A simple peanut-sauce noodle dish, common in Thai-American cooking."
   },
   {
     "name": "Thai Basil Chicken (Pad Krapow)",
@@ -595,7 +616,8 @@
       "Add the fish sauce, soy sauce, and sriracha, tossing to coat.",
       "Remove from heat and stir in the basil until just wilted.",
       "Fry an egg separately, sunny-side up, and serve on top of the chicken and rice \u2014 the runny yolk is meant to mix through as you eat."
-    ]
+    ],
+    "description": "Pad krapow, stir-fried meat with Thai holy basil and chilies over rice, one of Thailand's most common everyday dishes."
   },
   {
     "name": "Thai Shrimp Curry",
@@ -682,7 +704,8 @@
       "Add the bell pepper and simmer 5 minutes until starting to soften.",
       "Add the shrimp and cook 3-4 minutes until pink and cooked through \u2014 don't overcook, shrimp go rubbery fast.",
       "Stir in basil at the end and serve over rice."
-    ]
+    ],
+    "description": "A coconut-based shrimp curry, built on the same aromatic curry paste base as green curry."
   },
   {
     "name": "Thai Beef Salad (Larb-style)",
@@ -770,7 +793,8 @@
       "Remove from heat and let cool for a minute or two \u2014 adding the herbs and lime while it's too hot wilts them too aggressively.",
       "Toss the beef with lime juice, fish sauce, sriracha, red onion, mint, and cilantro.",
       "Taste and adjust \u2014 larb should be bright, tangy, and a little spicy. Serve piled into lettuce leaves."
-    ]
+    ],
+    "description": "A Thai take on the wider Southeast Asian larb tradition of meat tossed with lime, fish sauce, and toasted rice powder."
   },
   {
     "name": "Thai Peanut Chicken Skewers",
@@ -842,7 +866,8 @@
       "Toss the chicken cubes in the marinade and let sit at least 20 minutes (or up to a few hours in the fridge).",
       "Thread onto skewers if using.",
       "Grill or broil 10-12 minutes, turning occasionally, until charred in spots and cooked through (165F)."
-    ]
+    ],
+    "description": "Grilled chicken skewers with peanut sauce, a common Thai street food."
   },
   {
     "name": "Thai Chicken Larb Jar",
@@ -924,7 +949,8 @@
     "steps_detailed": [
       "Toss the cooked chicken with lime juice, fish sauce, red onion, and cilantro.",
       "Layer the rice, cucumber, and dressed chicken in a jar."
-    ]
+    ],
+    "description": "A portable version of larb, meat tossed with lime and fish sauce."
   },
   {
     "name": "Thai Peanut Noodle Salad",
@@ -1007,7 +1033,8 @@
     "steps_detailed": [
       "Whisk the peanut butter, lime juice, and soy sauce with 2-3 tablespoons warm water until smooth.",
       "Toss the cooled noodles with the sauce, carrot, cucumber, and scallions."
-    ]
+    ],
+    "description": "A simple peanut-dressed noodle salad."
   },
   {
     "name": "Thai Shrimp Salad Jar",
@@ -1084,7 +1111,8 @@
     "steps_detailed": [
       "Toss the shrimp with lime juice, fish sauce, and mint.",
       "Layer the rice, cucumber, and dressed shrimp in a jar."
-    ]
+    ],
+    "description": "A portable shrimp salad, lime and fish sauce giving it a Thai character."
   },
   {
     "name": "Thai Coconut Rice Porridge",
@@ -1141,7 +1169,8 @@
       "Simmer the jasmine rice in the coconut milk and 0.75 cup water with the torn lime leaf over low heat, stirring often, 30-35 minutes, until thick and creamy.",
       "Remove the lime leaf, stir in the honey.",
       "The lime leaf's floral perfume, even in this small quantity, is a genuinely Thai touch that plain coconut rice porridge elsewhere in the region typically skips."
-    ]
+    ],
+    "description": "A simple coconut rice porridge."
   },
   {
     "name": "Thai Cucumber Salad Snack",
@@ -1197,7 +1226,8 @@
     "steps_detailed": [
       "Whisk the lime juice and honey together.",
       "Toss with the cucumber and red onion. Let sit 5-10 minutes before serving for the flavors to meld."
-    ]
+    ],
+    "description": "A simple, cooling cucumber salad."
   },
   {
     "name": "Thai Roasted Cashews",
@@ -1246,7 +1276,8 @@
       "Toss the cashews with sriracha and honey until coated.",
       "Spread on a lined baking sheet and roast 8-10 minutes, checking at 6, until fragrant and slightly darkened.",
       "Let cool completely before eating \u2014 they'll crisp up as they cool."
-    ]
+    ],
+    "description": "A simple roasted cashew snack."
   },
   {
     "name": "Thai Mango Sticky Rice",
@@ -1304,7 +1335,8 @@
       "Cook the rice per package directions, using half water and half coconut milk instead of all water for extra richness.",
       "While the rice is still warm, stir in the remaining coconut milk and honey.",
       "Let sit 5 minutes to absorb, then serve topped with the mango."
-    ]
+    ],
+    "description": "Khao niew mamuang, sweet sticky rice with ripe mango, one of Thailand's most beloved desserts."
   },
   {
     "name": "Thai Iced Tea Chia Pudding",
@@ -1362,7 +1394,8 @@
       "Whisk the chia seeds into the coconut milk, honey, and cinnamon, making sure there are no clumps.",
       "Let sit 5 minutes, then whisk again to break up any seeds that settled.",
       "Chill at least 2 hours, or overnight, until thickened to a pudding consistency."
-    ]
+    ],
+    "description": "A modern fusion dessert built on the flavor of Thai iced tea."
   },
   {
     "name": "Thai Peanut Dipping Sauce",
@@ -1427,7 +1460,8 @@
     ],
     "steps_detailed": [
       "Whisk all ingredients together with 2-3 tablespoons warm water, adding water gradually until it reaches a smooth, pourable consistency."
-    ]
+    ],
+    "description": "A simple peanut sauce, common alongside grilled meats and noodle dishes."
   },
   {
     "name": "Nam Prik (Thai Chili Dip)",
@@ -1491,7 +1525,8 @@
     "steps_detailed": [
       "Whisk all ingredients together until the honey is fully dissolved.",
       "Taste and adjust \u2014 nam prik should be intensely salty, sour, and spicy all at once. Serve alongside grilled meats or vegetables."
-    ]
+    ],
+    "description": "Nam prik, a broad category of Thai chili-based dips, endlessly varied by region and household."
   },
   {
     "name": "Thai Turkey Basil Lettuce Cups",
@@ -1565,7 +1600,8 @@
       "Cook 6-7 minutes until browned and cooked through.",
       "Stir in fish sauce and sriracha, then remove from heat and fold in the basil until just wilted.",
       "Spoon into lettuce leaves to serve."
-    ]
+    ],
+    "description": "A lighter, ground-turkey take on pad krapow's basil-chili flavor profile."
   },
   {
     "name": "Thai Mango Salad",
@@ -1643,7 +1679,8 @@
     "steps_detailed": [
       "Whisk the lime juice and peanut butter with a splash of warm water for the dressing.",
       "Toss with mango, carrot, red onion, and mint."
-    ]
+    ],
+    "description": "A simple, bright mango salad."
   },
   {
     "name": "Tom Yum Shrimp Soup",
@@ -1697,6 +1734,21 @@
         "note": "cup"
       },
       {
+        "ingredient": "Lemongrass, raw",
+        "qty": 15,
+        "note": "smashed and cut into short pieces"
+      },
+      {
+        "ingredient": "Galangal, fresh",
+        "qty": 10,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Kaffir lime leaves",
+        "qty": 2,
+        "note": "torn"
+      },
+      {
         "ingredient": "Lime juice",
         "qty": 1.5,
         "note": "tbsp"
@@ -1707,25 +1759,23 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sriracha",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
         "note": "sliced"
       },
       {
         "ingredient": "Cilantro",
         "qty": 0.0625,
-        "note": "chopped"
+        "note": "cup, chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the broth with ginger, fish sauce, and sriracha for 5 minutes to infuse the flavors.",
-      "Add the shrimp and cook 3-4 minutes until pink.",
-      "Remove from heat, stir in lime juice, and top with cilantro."
-    ]
+      "Simmer the broth with the lemongrass, galangal, and kaffir lime leaf for 8-10 minutes to infuse.",
+      "Add the shrimp and jalapeno, and simmer 3-4 minutes until the shrimp are just pink.",
+      "Stir in the lime juice and fish sauce off the heat - tom yum's sourness should hit right away, so add these at the very end rather than simmering them.",
+      "Top with the cilantro.",
+      "The lemongrass, galangal, and kaffir lime leaf pieces are meant to be pushed aside at the table, not eaten whole."
+    ],
+    "description": "Tom yum's whole identity comes from lemongrass, galangal, and kaffir lime leaf simmered directly in the broth, with fresh chilies for heat - sriracha and ordinary ginger are a completely different, flatter direction than the sharp, citrusy sourness real tom yum is known for."
   }
 ]

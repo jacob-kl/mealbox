@@ -33,7 +33,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       },
@@ -56,7 +56,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk, a little water, and the cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple coconut rice porridge."
   },
   {
     "name": "New Caledonian Eggs with Tomato",
@@ -125,7 +126,8 @@
       "Soften the onion in the butter over medium heat, 5-6 minutes.",
       "Add the tomatoes and simmer 6-8 minutes until slightly thickened.",
       "Scramble in the eggs and pepper, cooking gently, stirring often, until just set - reflecting the French colonial thread that runs alongside indigenous Kanak cooking in New Caledonia."
-    ]
+    ],
+    "description": "A simple, everyday egg breakfast."
   },
   {
     "name": "New Caledonian Yam with Butter",
@@ -183,7 +185,8 @@
     "steps_detailed": [
       "Boil the yam until fully tender, 22-28 minutes, then drain.",
       "Mash roughly with the butter, honey, and cinnamon - yam holds deep cultural and ceremonial significance for the indigenous Kanak people, well beyond its role as a staple food."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, served here simply with butter."
   },
   {
     "name": "New Caledonian Bougna (Root Vegetable and Coconut Stew)",
@@ -254,9 +257,9 @@
     ],
     "steps_detailed": [
       "Layer the yam, cassava, chicken, and onion in a pot, seasoning with the pepper.",
-      "Pour the coconut milk over, cover, and simmer slowly, 38-42 minutes, until the root vegetables and chicken are fully tender.",
-      "Bougna, root vegetables and meat or fish wrapped in banana leaves and cooked in an underground earth oven, is New Caledonia's defining Kanak dish - this stovetop version keeps the same layered ingredients and coconut milk without the traditional pit."
-    ]
+      "Pour the coconut milk over, cover, and simmer slowly, 38-42 minutes, until the root vegetables and chicken are fully tender."
+    ],
+    "description": "Bougna, root vegetables and meat or fish wrapped in banana leaves and cooked in an underground earth oven, is New Caledonia's defining Kanak dish - this stovetop version keeps the same layered ingredients and coconut milk without the traditional pit."
   },
   {
     "name": "New Caledonian Fish and Coconut Stew",
@@ -323,7 +326,8 @@
     "steps_detailed": [
       "Simmer the yam with the onion and garlic in water over medium heat, 16-20 minutes, until nearly tender.",
       "Add the fish and coconut milk, and simmer 9-11 more minutes until the fish flakes easily."
-    ]
+    ],
+    "description": "A simple coconut-based fish stew."
   },
   {
     "name": "New Caledonian Yam and Chickpea Stew",
@@ -392,7 +396,8 @@
     "steps_detailed": [
       "Simmer the yam with the onion and garlic in water over medium heat, 20-24 minutes, until nearly tender.",
       "Add the chickpeas and tomatoes, and simmer 12-14 more minutes until everything is fully tender."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, paired here with chickpeas."
   },
   {
     "name": "New Caledonian Chicken and Coconut Rice",
@@ -434,7 +439,7 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 60,
         "note": ""
       },
@@ -457,7 +462,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the rice, coconut milk, and 1.1 cups water, cover, and simmer 22-25 minutes until the rice is tender and fragrant - a simple, everyday dish reflecting the coconut-forward cooking common across New Caledonia."
-    ]
+    ],
+    "description": "A simple coconut rice paired with chicken."
   },
   {
     "name": "New Caledonian Baked Fish with Coconut",
@@ -524,7 +530,8 @@
     "steps_detailed": [
       "Pour the coconut milk and lime juice over the fish with the garlic and pepper.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
-    ]
+    ],
+    "description": "A simple baked fish with coconut milk."
   },
   {
     "name": "New Caledonian Beef and Yam Stew",
@@ -589,7 +596,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the yam and 1.75 cups water, and simmer 38-42 minutes until very tender."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, paired here with beef."
   },
   {
     "name": "New Caledonian Cassava and Chicken",
@@ -654,7 +662,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the cassava and coconut milk, and simmer 24-28 minutes until the cassava is fully tender."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, paired here with chicken."
   },
   {
     "name": "New Caledonian Taro and Pork",
@@ -719,7 +728,8 @@
     "steps_detailed": [
       "Brown the pork with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
       "Add the taro and a generous splash of water, cover, and simmer 27-32 minutes until fully tender."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, paired here with pork."
   },
   {
     "name": "New Caledonian Yam Fritters",
@@ -786,7 +796,8 @@
     "steps_detailed": [
       "Mix the grated yam with the flour, egg, and pepper into a thick batter.",
       "Fry spoonfuls in the oil over medium heat, 4-5 minutes per side, until deeply golden and cooked through."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, fried here into simple fritters."
   },
   {
     "name": "New Caledonian Papaya Snack",
@@ -844,7 +855,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the lime juice, honey, and a dusting of cinnamon."
-    ]
+    ],
+    "description": "Papaya, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "New Caledonian Cassava Chips",
@@ -903,7 +915,8 @@
     "steps_detailed": [
       "Fry the cassava slices in the oil over medium heat, 4-5 minutes per side, until deeply golden and crisp.",
       "Season with the pepper and a little minced garlic while still hot."
-    ]
+    ],
+    "description": "Cassava, a staple Pacific Island starch, fried here into simple chips."
   },
   {
     "name": "New Caledonian Spiced Chickpea Snack",
@@ -971,7 +984,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "New Caledonian Coconut Rice Pudding",
@@ -1011,7 +1025,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1039,7 +1053,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk with the honey and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top with the chopped pineapple."
-    ]
+    ],
+    "description": "A simple coconut rice pudding."
   },
   {
     "name": "New Caledonian Pineapple with Honey",
@@ -1097,7 +1112,8 @@
     "steps_detailed": [
       "Warm the pineapple briefly in the butter, 2-3 minutes, then toss with the honey and cinnamon.",
       "New Caledonia's pineapples, grown widely across the archipelago, are prized for their sweetness."
-    ]
+    ],
+    "description": "Pineapple, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "New Caledonian Papaya with Honey",
@@ -1153,7 +1169,8 @@
     ],
     "steps_detailed": [
       "Toss the papaya with the honey, lime juice, and chopped walnuts."
-    ]
+    ],
+    "description": "Papaya, widely grown across the Pacific Islands, served here simply."
   },
   {
     "name": "New Caledonian Coconut Curry Sauce",
@@ -1212,7 +1229,8 @@
     "steps_detailed": [
       "Soften the onion and garlic in a little oil, 4-5 minutes.",
       "Add the coconut milk and simmer 9-12 minutes until slightly thickened, finishing with the lime juice."
-    ]
+    ],
+    "description": "A simple base coconut curry sauce."
   },
   {
     "name": "New Caledonian Lime Sauce",
@@ -1270,6 +1288,7 @@
     ],
     "steps_detailed": [
       "Whisk the lime juice, oil, garlic, and pepper together into a sharp, bright sauce."
-    ]
+    ],
+    "description": "A simple lime sauce."
   }
 ]

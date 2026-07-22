@@ -8318,5 +8318,32 @@
       "gluten_free"
     ],
     "allergens": []
+  },
+  {
+    "name": "Lemongrass, raw",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 99,
+    "protein": 1.82,
+    "carbs": 25.31,
+    "fat": 0.49,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 65.0,
+      "potassium": 723,
+      "iron": 8.2,
+      "magnesium": 60.0,
+      "phosphorus": 101,
+      "sodium": 6.0,
+      "zinc": 2.2
+    },
+    "sub_group": "spices_herbs",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
   }
 ]

@@ -48,7 +48,8 @@
       "Boil the sweet potato until fully tender, 18-22 minutes, then slice.",
       "Warm the coconut milk with the sugar and pour over the sliced sweet potato.",
       "Sweet potato, known locally as kaukau, is the primary staple food across Papua New Guinea's highlands, eaten at nearly every meal."
-    ]
+    ],
+    "description": "Kaukau, the local name for sweet potato, one of the staple starches across Melanesia, paired here with coconut."
   },
   {
     "name": "Papua New Guinean Fried Taro",
@@ -98,7 +99,8 @@
       "Boil the taro until just tender, 14-18 minutes, then drain and slice into rounds.",
       "Fry in the oil over medium heat, 3-5 minutes per side, until golden and slightly crisp at the edges.",
       "A drizzle of fish sauce adds a savory note if you'd like - taro is a foundational root crop across Papua New Guinea, second only to sweet potato in importance."
-    ]
+    ],
+    "description": "Taro, one of the staple starches across the Pacific Islands, fried here simply."
   },
   {
     "name": "Papua New Guinean Egg and Greens",
@@ -157,7 +159,8 @@
       "Saute the onion and sweet potato leaves (a stand-in for aibika, a leafy green staple) in the oil for 4-5 minutes until wilted and tender.",
       "Push aside and scramble the eggs in the cleared space.",
       "Mix everything together and serve - a simple, everyday breakfast reflecting the leafy greens central to Papua New Guinean cooking."
-    ]
+    ],
+    "description": "A simple egg and greens breakfast."
   },
   {
     "name": "Papua New Guinean Kokoda",
@@ -231,7 +234,8 @@
       "Cube the fish and marinate in the lime juice for at least 25-30 minutes, turning occasionally, until the fish turns opaque and firm, effectively 'cooked' by the citrus.",
       "Drain off a little of the excess lime juice, then stir in the coconut milk, onion, tomatoes, and jalapeno if using.",
       "Chill briefly and serve cold - kokoda is Papua New Guinea and Fiji's shared version of ceviche, a coconut-lime raw fish salad."
-    ]
+    ],
+    "description": "Kokoda, raw fish 'cooked' in citrus and finished with coconut milk, a dish shared across several Pacific Island nations."
   },
   {
     "name": "Papua New Guinean Sweet Potato and Greens Stew",
@@ -302,7 +306,8 @@
       "Simmer the sweet potato, onion, and garlic in 1.5 cups water for 15-18 minutes until the sweet potato is nearly tender.",
       "Add the chopped greens and coconut milk, and simmer 10-12 more minutes until everything is tender and the stew has thickened slightly.",
       "This combination of a starchy root, leafy greens, and coconut milk reflects the everyday backbone of Papua New Guinean cooking."
-    ]
+    ],
+    "description": "A simple sweet potato and greens stew."
   },
   {
     "name": "Papua New Guinean Fish and Coconut Rice",
@@ -347,7 +352,7 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": "cooked in coconut milk"
       },
@@ -376,7 +381,8 @@
       "Cook the rice with the coconut milk in place of some of the cooking water, for extra richness.",
       "Season the fish with the garlic and pan-fry in the oil, 4-6 minutes per side, until golden and cooked through.",
       "Finish with a squeeze of lime and serve over the coconut rice - fish and coconut are staples all along Papua New Guinea's extensive coastline."
-    ]
+    ],
+    "description": "A simple coconut rice paired with fish."
   },
   {
     "name": "Papua New Guinean Yam and Fish Stew",
@@ -450,7 +456,8 @@
       "Simmer the yam, onion, and garlic in 1.5 cups water for 15-20 minutes until the yam is nearly tender.",
       "Add the fish and coconut milk, and simmer gently 10-12 more minutes until the fish is cooked through and flaky.",
       "Finish with the lime juice - yam is one of Papua New Guinea's foundational staple crops, particularly important in parts of the country's coastal and island regions."
-    ]
+    ],
+    "description": "Yam, a staple Pacific Island starch, paired here with fish."
   },
   {
     "name": "Papua New Guinean Mumu-Style Pork and Vegetables",
@@ -523,7 +530,8 @@
       "Cook over low heat 1-1.5 hours, checking occasionally and adding a little more water if needed, until the pork and root vegetables are completely tender - this approximates a mumu, the earth-oven method traditionally used for large community feasts across Papua New Guinea, where meat and vegetables are wrapped in leaves and cooked over heated stones in a pit.",
       "Add the cabbage and sweet potato leaves in the last 15-18 minutes.",
       "Serve as a hearty, communal-style meal."
-    ]
+    ],
+    "description": "This approximates a mumu, the earth-oven method traditionally used for large community feasts across Papua New Guinea, where meat and vegetables are wrapped in leaves and cooked over heated stones in a pit."
   },
   {
     "name": "Papua New Guinean Grilled Fish with Greens",
@@ -597,7 +605,8 @@
       "Season the fish and grill or pan-fry in the oil, 5-7 minutes per side, until cooked through, finishing with a squeeze of lime.",
       "Simmer the greens with the garlic in the coconut milk for 8-10 minutes until tender.",
       "Serve together - grilled fish with coconut-simmered greens is a common coastal Papua New Guinean meal."
-    ]
+    ],
+    "description": "Simple grilled fish with local greens."
   },
   {
     "name": "Papua New Guinean Chicken and Sweet Potato",
@@ -669,7 +678,8 @@
       "Brown the chicken with the onion, garlic, and turmeric over medium-high heat, 8-10 minutes.",
       "Add the sweet potato and coconut milk, and simmer, covered, 28-35 minutes until the chicken and sweet potato are tender.",
       "Serve hot - a comforting, everyday combination found across Papua New Guinea's households."
-    ]
+    ],
+    "description": "A simple chicken and sweet potato dish."
   },
   {
     "name": "Papua New Guinean Pork and Greens",
@@ -736,7 +746,8 @@
       "Brown the pork with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the greens and coconut milk, and simmer 14-18 minutes until the greens are tender and the sauce has thickened slightly.",
       "Serve with sweet potato or rice - this simple, everyday combination of pork, leafy greens, and coconut milk is a fixture of home cooking across Papua New Guinea, distinct from mumu's occasion-only earth-oven method."
-    ]
+    ],
+    "description": "A simple pork and greens dish, reflecting the importance of pork in Melanesian feasting traditions."
   },
   {
     "name": "Papua New Guinean Fried Sweet Potato Chips",
@@ -786,7 +797,8 @@
       "Slice the sweet potato as thin and evenly as possible.",
       "Fry in batches in the hot oil, 3-5 minutes per batch, until deeply golden and crisp, draining well between batches.",
       "Finish with a light squeeze of lime - a simple, popular snack made from Papua New Guinea's most essential crop."
-    ]
+    ],
+    "description": "Simple fried sweet potato chips."
   },
   {
     "name": "Papua New Guinean Coconut Bananas",
@@ -847,7 +859,8 @@
       "Warm the coconut milk with the sugar over low heat until dissolved, 2-3 minutes.",
       "Add the banana slices and simmer 5-7 minutes until softened.",
       "Top with shredded coconut and serve warm - bananas and coconut are both abundant across Papua New Guinea."
-    ]
+    ],
+    "description": "A simple banana and coconut milk dessert."
   },
   {
     "name": "Papua New Guinean Roasted Peanuts",
@@ -891,7 +904,8 @@
       "Toss the peanuts with the oil and black pepper.",
       "Warm briefly in a dry skillet over low heat, 2-3 minutes, tossing, if a fresher-roasted flavor is wanted.",
       "Peanuts are widely grown and eaten across the Papua New Guinean highlands, often sold roadside by the roasted handful."
-    ]
+    ],
+    "description": "A simple roasted peanut snack."
   },
   {
     "name": "Papua New Guinean Watercress Salad",
@@ -951,7 +965,8 @@
     "steps_detailed": [
       "Toss the watercress with the lime juice, sliced onion, and oil.",
       "Season lightly with salt and serve fresh - a simple, bright side found in coastal and highland households alike across Papua New Guinea."
-    ]
+    ],
+    "description": "A simple watercress salad."
   },
   {
     "name": "Papua New Guinean Sago Pudding (Saksak)",
@@ -1017,7 +1032,8 @@
       "Simmer the tapioca pearls in water according to package directions, 15-20 minutes, until fully translucent and tender.",
       "Warm the coconut milk with the sugar until dissolved, then combine with the cooked tapioca and sliced banana.",
       "Serve warm or chilled - saksak, made from sago starch extracted from the sago palm, is a beloved sweet found across Papua New Guinea's lowland and coastal regions."
-    ]
+    ],
+    "description": "Saksak, a sago-based pudding, a genuine specialty of Papua New Guinea's coastal and lowland regions where sago palm is a staple."
   },
   {
     "name": "Papua New Guinean Pineapple with Coconut",
@@ -1068,7 +1084,8 @@
       "Arrange the pineapple slices on a plate and finish with a light squeeze of lime.",
       "Scatter generously with the shredded coconut.",
       "Serve chilled - a simple, refreshing way tropical fruit is enjoyed throughout Papua New Guinea."
-    ]
+    ],
+    "description": "A simple pineapple and coconut dessert."
   },
   {
     "name": "Papua New Guinean Baked Taro with Coconut",
@@ -1129,7 +1146,8 @@
       "Boil the taro until fully tender, 16-20 minutes, then drain.",
       "Toss the warm taro with the coconut milk and brown sugar until well coated.",
       "Top with the toasted shredded coconut and serve warm - a simple, comforting sweet treatment of one of Papua New Guinea's essential root crops."
-    ]
+    ],
+    "description": "Taro, a staple Pacific Island starch, baked here with coconut."
   },
   {
     "name": "Papua New Guinean Coconut Lime Sauce",
@@ -1190,7 +1208,8 @@
       "Combine the coconut milk, lime juice, onion, and jalapeno if using.",
       "Let sit 10 minutes so the flavors meld.",
       "This bright, tangy coconut sauce echoes the marinade used for kokoda, and pairs well with grilled fish or root vegetables."
-    ]
+    ],
+    "description": "A simple coconut-lime sauce."
   },
   {
     "name": "Papua New Guinean Ginger Lime Dip",
@@ -1250,6 +1269,7 @@
     "steps_detailed": [
       "Combine the ginger, lime juice, sugar, and oil, whisking until the sugar dissolves.",
       "Let sit 10 minutes before serving alongside grilled meats or fish for a bright, zesty finish."
-    ]
+    ],
+    "description": "A simple ginger-lime dip."
   }
 ]
