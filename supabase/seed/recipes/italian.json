@@ -113,7 +113,8 @@
       "Meanwhile, cook the spaghetti per package directions, reserving a splash of pasta water before draining.",
       "Spoon pasta sauce over the chicken, top with mozzarella, and either broil for 2 minutes until melted and bubbling, or cover the pan and let residual heat melt it.",
       "Toss the drained spaghetti with a little extra sauce and the reserved pasta water if needed to loosen it. Serve alongside the chicken, topped with torn basil."
-    ]
+    ],
+    "description": "Chicken parmigiana is genuinely an Italian-American invention, adapted from Southern Italian eggplant parmigiana by immigrants who had easier access to chicken - it doesn't have a single traditional Italian form to match, so this aims at doing the dish's own real version well."
   },
   {
     "name": "Caprese Stuffed Chicken",
@@ -201,7 +202,7 @@
         "note": "tsp, minced"
       },
       {
-        "ingredient": "Quinoa (dry)",
+        "ingredient": "Orzo (dry)",
         "qty": 45,
         "note": ""
       }
@@ -214,7 +215,8 @@
       "Transfer to a 375F oven and bake 12-15 minutes until cooked through (165F internal temperature).",
       "Meanwhile, cook the quinoa per package directions.",
       "Slice the chicken, drizzle with the balsamic reduction, and serve over the quinoa."
-    ]
+    ],
+    "description": "Quinoa has no place in Italian cooking - orzo, a small rice-shaped pasta, is a far more sensible pairing here."
   },
   {
     "name": "Shrimp Scampi",
@@ -322,7 +324,8 @@
       "Stir in the lemon juice and remaining butter until the sauce comes together and looks glossy.",
       "Return the shrimp to the pan along with the drained spaghetti and a splash of the reserved pasta water. Toss to coat everything in the sauce.",
       "Finish with parsley and a scattering of parmesan."
-    ]
+    ],
+    "description": "Shrimp scampi, garlic and white wine over pasta, is another Italian-American dish - 'scampi' actually refers to a type of langoustine in Italy, not the sauce style itself, which is part of why the name doesn't quite translate back to a real Italian dish."
   },
   {
     "name": "Turkey Bolognese",
@@ -440,7 +443,8 @@
       "Add the pasta sauce, milk, oregano, and bay leaf. The milk is a classic bolognese touch \u2014 it mellows the acidity of the tomatoes.",
       "Reduce heat to low and simmer uncovered for 20-25 minutes, stirring occasionally, until thickened. Remove the bay leaf before serving.",
       "Cook the spaghetti per package directions and toss with the sauce, or serve the sauce spooned over. Top with parmesan."
-    ]
+    ],
+    "description": "Bolognese, a slow-simmered meat sauce named for Bologna, traditionally uses a soffritto of onion, carrot, and celery as its base - all present here, with turkey standing in for the traditional beef and pork mix for a leaner version."
   },
   {
     "name": "Italian Chicken & White Bean Jar",
@@ -532,7 +536,8 @@
       "Whisk the balsamic vinegar, olive oil, and garlic together for the dressing.",
       "In a bowl, combine the beans, tomatoes, red onion, and basil. Toss with about half the dressing.",
       "Layer the dressed bean mixture in the bottom of a jar, top with the chicken, and drizzle the remaining dressing over top before sealing."
-    ]
+    ],
+    "description": "A simple, portable salad built on classic Italian flavors."
   },
   {
     "name": "Baked Ziti with Turkey",
@@ -630,7 +635,8 @@
       "In a baking dish, combine the pasta with the turkey sauce. Dollop the ricotta mixture over top and swirl it partway in with a knife.",
       "Scatter mozzarella and parmesan over everything.",
       "Bake uncovered for 18-20 minutes until bubbling and golden on top. Rest 5 minutes before serving, topped with fresh basil."
-    ]
+    ],
+    "description": "A lighter, ground-turkey take on baked ziti."
   },
   {
     "name": "Chicken Cacciatore",
@@ -761,7 +767,8 @@
       "Nestle the chicken back into the pot, spooning some sauce over the top. Bring to a simmer.",
       "Cover and simmer on low for 30-35 minutes, until the chicken is fork-tender and fully cooked (165F). Uncover for the last 10 minutes if the sauce needs to thicken.",
       "Remove the bay leaf, taste and adjust salt, and finish with a scattering of fresh parsley."
-    ]
+    ],
+    "description": "Cacciatore means 'hunter-style' - a rustic braise with tomatoes, peppers, and herbs, found in countless regional variations across Italy."
   },
   {
     "name": "Baked Ziti",
@@ -853,7 +860,8 @@
       "Layer half the sauced pasta in a baking dish, dollop half the ricotta mixture over it, then repeat with the remaining pasta and ricotta.",
       "Top with mozzarella and parmesan.",
       "Bake uncovered 18-20 minutes until bubbling and golden. Rest 5 minutes, then garnish with fresh basil."
-    ]
+    ],
+    "description": "Baked ziti, layered pasta with ricotta and a simmered tomato sauce, an Italian-American red-sauce staple."
   },
   {
     "name": "Italian Sausage and Peppers",
@@ -946,7 +954,8 @@
       "Add the garlic, oregano, and red pepper flakes, cooking 30 seconds until fragrant.",
       "Return the sausage to the pan and toss everything together, cooking another 2 minutes to heat through.",
       "Finish with a drizzle of balsamic vinegar off heat \u2014 it adds a bright note that cuts through the richness. Serve over or alongside the bread."
-    ]
+    ],
+    "description": "Sausage and peppers, a classic Italian-American combination, especially associated with street fairs and casual gatherings."
   },
   {
     "name": "Caprese Chicken Jar",
@@ -1018,7 +1027,8 @@
       "Whisk the balsamic vinegar and olive oil together.",
       "Layer the tomatoes, mozzarella, and basil in the bottom of a jar, drizzling with a little of the dressing as you go.",
       "Top with the sliced chicken and remaining dressing before sealing."
-    ]
+    ],
+    "description": "A portable version of the classic caprese flavor trio."
   },
   {
     "name": "Italian Tuna Pasta Salad",
@@ -1101,7 +1111,8 @@
       "Combine the pasta, tuna, tomatoes, red onion, olives, and capers in a bowl.",
       "Toss with the Italian dressing until evenly coated.",
       "Finish with fresh parsley. This keeps well chilled for 2-3 days \u2014 the flavor actually improves after a few hours."
-    ]
+    ],
+    "description": "A simple pasta salad built on classic Italian flavors - real kalamata olives and capers giving it genuine brininess."
   },
   {
     "name": "Italian White Bean Salad",
@@ -1184,7 +1195,8 @@
       "Whisk the olive oil, vinegar, and garlic together for the dressing.",
       "Combine the beans, tomatoes, onion, and basil in a bowl. Toss with the dressing.",
       "Let sit 10 minutes if you have time \u2014 this softens the raw onion bite and lets the flavors meld. Top with parmesan before serving."
-    ]
+    ],
+    "description": "A simple white bean salad, common across Italian home cooking."
   },
   {
     "name": "Italian Baked Frittata Cups",
@@ -1260,7 +1272,8 @@
       "Divide the sauteed vegetables among the muffin cups, then pour the egg mixture over, filling each about two-thirds full (they'll puff up).",
       "Sprinkle parmesan over the tops.",
       "Bake 15-18 minutes until puffed and set in the center. Let cool 2 minutes before removing \u2014 they'll deflate slightly, which is normal. Garnish with fresh basil."
-    ]
+    ],
+    "description": "Frittata, an open-faced egg dish, a common Italian breakfast or light meal."
   },
   {
     "name": "Roasted Garlic White Bean Dip",
@@ -1323,7 +1336,8 @@
       "Combine the beans, roasted garlic, olive oil, and lemon juice in a food processor or blender.",
       "Blend until smooth, adding a splash of water if it's too thick.",
       "Stir in the rosemary, or blend it in for a smoother finish. Season with salt to taste."
-    ]
+    ],
+    "description": "A simple white bean dip, roasted garlic giving it real depth."
   },
   {
     "name": "Parmesan Roasted Chickpeas",
@@ -1387,10 +1401,11 @@
       "Toss with olive oil, garlic, and oregano.",
       "Spread in a single layer on a baking sheet and roast 20-25 minutes, shaking the pan halfway, until deeply golden and crunchy.",
       "Toss immediately with the parmesan while still hot, so it melts slightly and clings to the chickpeas."
-    ]
+    ],
+    "description": "A simple roasted snack, real parmesan giving it genuine Italian character."
   },
   {
-    "name": "Tiramisu Yogurt Cup",
+    "name": "Tiramisu",
     "cuisine": "italian",
     "meal_type": "dessert",
     "course": "complete",
@@ -1420,45 +1435,53 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 0.75,
-        "note": "cup"
+        "ingredient": "365 (Whole Foods) Ladyfingers",
+        "qty": 6,
+        "note": ""
       },
       {
         "ingredient": "Cream cheese (reduced fat)",
+        "qty": 4,
+        "note": "tbsp, softened, standing in for mascarpone"
+      },
+      {
+        "ingredient": "Heavy cream",
         "qty": 2,
-        "note": "tbsp, softened, as a mascarpone stand-in"
+        "note": "tbsp"
       },
       {
-        "ingredient": "Unsweetened cocoa powder",
+        "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": "tbsp, plus more for dusting"
+        "note": "yolk only"
       },
       {
-        "ingredient": "Honey",
-        "qty": 1,
+        "ingredient": "Granulated sugar",
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Instant espresso powder",
-        "qty": 0.5,
-        "note": "tsp, dissolved in 1 tsp hot water"
+        "qty": 1.5,
+        "note": "tsp, dissolved in 0.4 cup hot water"
       },
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Unsweetened cocoa powder",
+        "qty": 1,
+        "note": "tbsp, for dusting"
       }
     ],
     "steps_detailed": [
-      "Whisk the cream cheese until smooth, then beat in the yogurt, honey, and vanilla until fully combined.",
-      "Stir the dissolved espresso through \u2014 just enough to give a coffee note without watering down the mixture.",
-      "Sift the cocoa powder into the mixture and fold through, or layer it in between spoonfuls for a marbled look.",
-      "Chill at least 20 minutes. Dust with a little extra cocoa powder just before serving."
-    ]
+      "Whisk the egg yolk and sugar together until pale and slightly thickened.",
+      "Beat in the cream cheese and heavy cream until smooth and airy.",
+      "Quickly dip each ladyfinger in the cooled espresso - just a second or two per side, long enough to soak in some coffee without turning to mush.",
+      "Layer the dipped ladyfingers in a small dish or cup, spread half the mascarpone mixture over, then repeat with a second layer of dipped ladyfingers and the remaining mixture.",
+      "Chill at least 2 hours, ideally overnight, for the flavors to meld and the ladyfingers to soften properly.",
+      "Dust generously with cocoa powder just before serving."
+    ],
+    "description": "Tiramisu, meaning roughly 'pick me up' for its espresso and cocoa, is built on two things this recipe was missing entirely: ladyfingers actually soaked in coffee, and a real egg-enriched mascarpone mixture, not a yogurt substitute standing in for the whole structure. Real mascarpone isn't a distinct item here - cream cheese whipped with a little extra cream gets closer to its rich, faintly tangy texture than yogurt does, though it's still not quite the same thing."
   },
   {
-    "name": "Panna Cotta (Light)",
+    "name": "Panna Cotta",
     "cuisine": "italian",
     "meal_type": "dessert",
     "course": "complete",
@@ -1489,18 +1512,18 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Whole milk (generic)",
+        "ingredient": "Heavy cream",
         "qty": 0.75,
         "note": "cup"
       },
       {
-        "ingredient": "Heavy cream",
-        "qty": 2,
+        "ingredient": "Whole milk (generic)",
+        "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Honey",
-        "qty": 2,
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
         "note": "tbsp"
       },
       {
@@ -1515,12 +1538,13 @@
       }
     ],
     "steps_detailed": [
-      "Sprinkle the gelatin over 2 tablespoons of cold water in a small bowl and let it sit 5 minutes to bloom (soften) \u2014 this step matters, skipping it can leave gritty lumps in the finished panna cotta.",
-      "Warm the milk, cream, and honey in a saucepan over medium-low heat, stirring until the honey dissolves. Don't let it boil.",
+      "Sprinkle the gelatin over 2 tablespoons of cold water in a small bowl and let it sit 5 minutes to bloom.",
+      "Warm the cream, milk, and sugar in a saucepan over medium-low heat, stirring until the sugar dissolves. Don't let it boil.",
       "Remove from heat and whisk in the bloomed gelatin until fully dissolved, then stir in the vanilla.",
-      "Pour into small serving cups or ramekins and chill for at least 3-4 hours, until fully set.",
+      "Pour into small serving cups or ramekins and chill at least 3-4 hours, until fully set.",
       "Run a thin knife around the edge if unmolding onto a plate, or serve directly in the cup."
-    ]
+    ],
+    "description": "Panna cotta means 'cooked cream' - it's meant to be genuinely cream-forward, not a milk-based dessert with a token splash of cream added. This version corrects that balance to something much closer to the real proportions."
   },
   {
     "name": "Marinara Sauce (Homemade)",
@@ -1611,7 +1635,8 @@
       "Add the diced tomatoes, oregano, red pepper flakes, and sugar. Bring to a simmer.",
       "Simmer uncovered 20-25 minutes, stirring occasionally, until thickened to your liking \u2014 mash any large tomato chunks against the side of the pot as it cooks if you want a smoother sauce.",
       "Stir in the fresh basil at the very end, off heat, so it stays bright rather than turning dark and bitter. Taste and adjust salt."
-    ]
+    ],
+    "description": "A real, from-scratch marinara - simmered fresh rather than jarred, with the classic technique points that actually matter: not browning the garlic, and adding basil off the heat at the very end so it stays bright."
   },
   {
     "name": "Italian Chopped Salad",
@@ -1698,7 +1723,8 @@
       "Combine the lettuce, tomatoes, red onion, and chickpeas in a large bowl.",
       "Add the salami, provolone, and olives.",
       "Toss everything with the Italian dressing right before serving so the lettuce doesn't wilt if you're making it ahead \u2014 keep the dressing separate until then."
-    ]
+    ],
+    "description": "A chopped salad built on classic Italian deli ingredients - genoa salami, provolone, and chickpeas."
   },
   {
     "name": "Minestrone Soup",
@@ -1819,7 +1845,8 @@
       "Add the zucchini and simmer 10 minutes.",
       "Add the pasta and beans, and cook another 8-10 minutes until the pasta is tender.",
       "Remove the bay leaf. Taste and adjust salt. Serve topped with fresh basil and parmesan."
-    ]
+    ],
+    "description": "Minestrone, a vegetable soup with countless regional variations, one of Italy's most flexible, ingredient-driven dishes."
   },
   {
     "name": "Muffuletta-Style Sandwich",
@@ -1917,6 +1944,7 @@
       "Spread the olive salad generously on both slices of bread.",
       "Layer the salami, ham, and provolone between the bread.",
       "For the classic effect, wrap the sandwich tightly and let it sit for 10-15 minutes (or press it under a heavy pan) so the olive oil soaks slightly into the bread before serving."
-    ]
+    ],
+    "description": "The muffuletta itself is actually a New Orleans Sicilian-immigrant creation, not a dish from Italy proper, though it draws directly on Sicilian deli ingredients and olive salad traditions."
   }
 ]

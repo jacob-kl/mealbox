@@ -54,7 +54,7 @@
         "note": "sliced"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Bomba rice (dry)",
         "qty": 75,
         "note": ""
       },
@@ -62,6 +62,11 @@
         "ingredient": "Bell pepper",
         "qty": 80,
         "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       },
       {
         "ingredient": "Saffron threads",
@@ -82,16 +87,22 @@
         "ingredient": "Garlic",
         "qty": 1,
         "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Steep the saffron threads in 2 tablespoons of warm broth for 5-10 minutes to release their color and flavor before adding to the pan.",
-      "Heat a wide, shallow pan over medium-high heat. Brown the chicken and chorizo together, 5-6 minutes.",
-      "Add the bell pepper and garlic, cooking 2-3 minutes.",
-      "Stir in the rice, smoked paprika, and saffron broth, then add the remaining broth.",
-      "Bring to a boil, then reduce to a simmer, cover, and cook 18-20 minutes without stirring \u2014 resisting the urge to stir is what lets the bottom develop the prized crispy socarrat layer.",
+      "Steep the saffron threads in 2 tablespoons of warm broth for 5-10 minutes.",
+      "Heat the olive oil in a wide, shallow pan over medium-high heat. Brown the chicken and chorizo together, 5-6 minutes.",
+      "Add the bell pepper and garlic, cooking 2-3 minutes, then stir in the tomatoes and smoked paprika, simmering 3-4 minutes to build a sofrito base.",
+      "Stir in the rice, coating every grain in the sofrito, then add the remaining broth and the saffron broth.",
+      "Bring to a boil, then reduce to a simmer, cover, and cook 18-20 minutes without stirring - resisting the urge to stir is what lets the bottom develop the prized crispy socarrat layer.",
       "Let rest 5 minutes off heat before serving."
-    ]
+    ],
+    "description": "Paella depends on a specific short-to-medium-grain Spanish rice like Bomba, which absorbs liquid without turning mushy - basmati and jasmine are long-grain varieties built for an entirely different texture, and using either one here changes the dish's whole character, not just a minor detail."
   },
   {
     "name": "Garlic Shrimp (Gambas al Ajillo)",
@@ -165,7 +176,8 @@
       "Raise heat to medium-high, add the shrimp, and cook 1-2 minutes per side until pink.",
       "Stir in the paprika off heat.",
       "Serve immediately with bread for soaking up the garlicky oil, the classic tapas way."
-    ]
+    ],
+    "description": "Gambas al ajillo, shrimp sizzled in garlic-infused olive oil, is a classic Spanish tapas staple."
   },
   {
     "name": "Spanish Chicken with Manchego",
@@ -242,7 +254,8 @@
       "Heat olive oil in a skillet over medium-high heat and cook the chicken 5-6 minutes per side until cooked through (165F).",
       "Add the tomatoes and olives in the last 2-3 minutes to warm through and soften slightly.",
       "Top with shaved or crumbled manchego and serve over rice."
-    ]
+    ],
+    "description": "Manchego, Spain's most famous cheese, made from Manchega sheep's milk, paired here with chicken."
   },
   {
     "name": "Spanish Tortilla (Potato & Egg)",
@@ -286,7 +299,7 @@
         "note": ""
       },
       {
-        "ingredient": "Sweet potato",
+        "ingredient": "Yukon gold potato",
         "qty": 200,
         "note": "thin sliced"
       },
@@ -308,10 +321,11 @@
       "Cook 6-8 minutes until the edges set and the bottom is golden.",
       "Place a large plate over the pan, flip the tortilla onto it, then slide it back into the pan to cook the other side, 4-5 more minutes.",
       "Let rest a few minutes before slicing into wedges \u2014 it's traditionally served just warm or at room temperature, not piping hot."
-    ]
+    ],
+    "description": "Tortilla espa\u00f1ola is built on regular potato, not sweet potato - the mild, starchy flavor of a Yukon gold or russet-style potato is what actually belongs here, since sweet potato brings a completely different taste and texture to a dish that's supposed to taste primarily of egg, potato, and olive oil."
   },
   {
-    "name": "Chicken Paella (Simplified)",
+    "name": "Chicken Paella",
     "cuisine": "spanish",
     "meal_type": "dinner",
     "course": "complete",
@@ -355,7 +369,7 @@
         "note": "cubed"
       },
       {
-        "ingredient": "Jasmine rice (dry)",
+        "ingredient": "Bomba rice (dry)",
         "qty": 75,
         "note": ""
       },
@@ -365,12 +379,17 @@
         "note": "sliced"
       },
       {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
         "ingredient": "Saffron threads",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Beef broth",
+        "ingredient": "Chicken broth",
         "qty": 1.5,
         "note": "cup"
       },
@@ -378,16 +397,22 @@
         "ingredient": "Garlic",
         "qty": 1,
         "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Steep the saffron in 2 tablespoons of warm broth.",
-      "Heat a wide pan over medium-high heat and brown the chicken, 5-6 minutes.",
-      "Add the bell pepper and garlic, cooking 2-3 minutes.",
+      "Heat the olive oil in a wide pan over medium-high heat and brown the chicken, 5-6 minutes.",
+      "Add the bell pepper and garlic, cooking 2-3 minutes, then stir in the tomatoes and simmer 3-4 minutes to build a sofrito base.",
       "Stir in the rice and saffron broth, then add the remaining broth.",
       "Bring to a boil, reduce to a simmer, cover, and cook 18-20 minutes without stirring.",
       "Rest 5 minutes before serving."
-    ]
+    ],
+    "description": "Paella depends on Bomba or a similar short-to-medium-grain Spanish rice, not jasmine - jasmine is a long-grain variety built for an entirely different texture, and using it here changes the dish's whole character."
   },
   {
     "name": "Spanish Garlic Shrimp",
@@ -450,7 +475,8 @@
       "Heat the olive oil over medium-low heat and cook the garlic slowly, 2 minutes, until fragrant but not browned.",
       "Raise heat, add the shrimp, and cook 1-2 minutes per side until pink.",
       "Stir in the paprika off heat before serving."
-    ]
+    ],
+    "description": "The same gambas al ajillo technique, garlic sizzled in olive oil with shrimp."
   },
   {
     "name": "Spanish Beef and Potato Stew",
@@ -522,7 +548,8 @@
       "Add the onion and garlic, cooking 3-4 minutes, then add the paprika, cooking 30 seconds until fragrant.",
       "Add the tomatoes, potatoes, and beef back in, along with 1 cup water.",
       "Bring to a simmer, cover, and cook 35-40 minutes until the beef and potatoes are tender."
-    ]
+    ],
+    "description": "A simple, hearty Spanish beef and potato stew."
   },
   {
     "name": "Spanish Baked Cod with Chorizo",
@@ -581,7 +608,8 @@
       "Add the garlic and tomatoes, simmering 8-10 minutes.",
       "Nestle the cod into the sauce, spooning some over the top.",
       "Bake 12-15 minutes until the fish flakes easily."
-    ]
+    ],
+    "description": "Cod and chorizo, a classic Spanish coastal pairing."
   },
   {
     "name": "Spanish Chickpea and Spinach Stew",
@@ -654,7 +682,8 @@
       "Heat a splash of oil in a pot over medium heat. Add garlic, cumin, and paprika, cooking 30 seconds until fragrant.",
       "Add the tomatoes and chickpeas, simmer 12-15 minutes until slightly thickened.",
       "Stir in the spinach in the last 2 minutes until wilted."
-    ]
+    ],
+    "description": "Garbanzos con espinacas, a beloved Spanish tapas dish with roots in Sephardic Jewish and Moorish cooking."
   },
   {
     "name": "Spanish Tuna and White Bean Jar",
@@ -722,7 +751,8 @@
       "Whisk the olive oil and vinegar together.",
       "Toss the beans and red onion with the dressing.",
       "Layer in a jar with the tuna on top."
-    ]
+    ],
+    "description": "A simple, portable Spanish-style salad."
   },
   {
     "name": "Spanish Chicken and Rice Jar",
@@ -784,7 +814,8 @@
     "steps_detailed": [
       "Toss the chicken with smoked paprika.",
       "Layer the rice, bell pepper, and chicken in a jar."
-    ]
+    ],
+    "description": "A portable, paella-adjacent chicken and rice jar."
   },
   {
     "name": "Spanish Egg and Potato Tortilla Wedge",
@@ -843,7 +874,8 @@
       "Heat oil in a nonstick pan over medium-low heat. Cook the potato and onion slowly, 15 minutes, until tender.",
       "Whisk the eggs, fold in the potato mixture, and pour back into the pan.",
       "Cook 5-6 minutes until the edges set, then flip using a plate and cook 4 more minutes."
-    ]
+    ],
+    "description": "A smaller wedge of the classic tortilla espa\u00f1ola."
   },
   {
     "name": "Spanish Baked Eggs (Huevos a la Flamenca)",
@@ -907,7 +939,8 @@
       "Add the tomatoes and paprika, simmer 10 minutes.",
       "Make wells in the sauce and crack the eggs into them.",
       "Transfer to the oven and bake 8-10 minutes until the whites are set but yolks are still soft."
-    ]
+    ],
+    "description": "Huevos a la Flamenca, eggs baked in a spiced tomato and vegetable sauce, an Andalusian specialty."
   },
   {
     "name": "Marcona Almond Snack",
@@ -953,7 +986,8 @@
     "steps_detailed": [
       "Toss the almonds with a light coating of olive oil and smoked paprika.",
       "Toast in a dry skillet over medium-low heat, 3-4 minutes, stirring often, until fragrant."
-    ]
+    ],
+    "description": "Marcona almonds, a specific Spanish variety prized for their sweet, delicate flavor, a classic tapas snack."
   },
   {
     "name": "Spanish Olives and Manchego Snack",
@@ -993,7 +1027,8 @@
     ],
     "steps_detailed": [
       "Serve the manchego and olives together \u2014 a classic simple tapas pairing."
-    ]
+    ],
+    "description": "Olives and manchego, a classic Spanish tapas pairing."
   },
   {
     "name": "Spanish Flan",
@@ -1065,7 +1100,8 @@
       "Pour over the caramel. Place ramekins in a baking dish with hot water halfway up the sides.",
       "Bake 40-45 minutes until just set with a slight jiggle.",
       "Chill at least 3 hours, then run a knife around the edge and invert to unmold."
-    ]
+    ],
+    "description": "Flan, an egg custard with caramelized sugar, one of Spain's most beloved desserts."
   },
   {
     "name": "Membrillo-Style Baked Pear",
@@ -1119,7 +1155,8 @@
       "Drizzle the pear halves with honey and place cut-side up on a baking sheet.",
       "Bake 20-25 minutes until tender and caramelized at the edges.",
       "Top with shaved manchego just before serving, a classic Spanish pairing of fruit and cheese."
-    ]
+    ],
+    "description": "Membrillo, quince paste, is traditionally paired with manchego - this version applies that same sweet-cheese pairing spirit to baked pear."
   },
   {
     "name": "Romesco Sauce",
@@ -1187,7 +1224,8 @@
       "Toast the almonds in a dry skillet over medium heat, 2-3 minutes, until fragrant.",
       "Blend the roasted pepper, almonds, garlic, and vinegar until mostly smooth.",
       "With the blender running, drizzle in the olive oil until the sauce comes together, slightly textured rather than perfectly smooth."
-    ]
+    ],
+    "description": "Romesco, a roasted red pepper and almond sauce from Catalonia, a defining Spanish condiment."
   },
   {
     "name": "Spanish Alioli",
@@ -1237,7 +1275,8 @@
     ],
     "steps_detailed": [
       "Whisk all ingredients together. Let sit 10 minutes for the garlic to mellow slightly before serving."
-    ]
+    ],
+    "description": "Alioli, garlic emulsified into oil (traditionally without egg, unlike French aioli), a classic Spanish condiment."
   },
   {
     "name": "Spanish Lentil Soup",
@@ -1305,7 +1344,8 @@
       "Heat a splash of oil in a pot over medium heat. Cook the onion 4-5 minutes, then add garlic and paprika, cooking 30 seconds.",
       "Add the lentils, tomatoes, and 2 cups water. Bring to a simmer.",
       "Cook 25-30 minutes until the lentils are tender."
-    ]
+    ],
+    "description": "A simple, hearty Spanish lentil soup."
   },
   {
     "name": "Spanish Orange and Olive Salad",
@@ -1368,7 +1408,8 @@
     "steps_detailed": [
       "Arrange the orange segments, olives, and onion on a plate.",
       "Drizzle with olive oil just before serving."
-    ]
+    ],
+    "description": "Orange and olive, a refreshing combination found across southern Spanish cooking."
   },
   {
     "name": "Gazpacho",
@@ -1446,7 +1487,8 @@
     "steps_detailed": [
       "Blend all ingredients together until smooth.",
       "Chill at least 1 hour \u2014 gazpacho is meant to be served very cold, and the flavors deepen as it sits."
-    ]
+    ],
+    "description": "Gazpacho, a cold, blended tomato soup from Andalusia, is meant to be eaten chilled, especially in summer heat."
   },
   {
     "name": "Seafood Paella (Paella de Marisco)",
@@ -1594,6 +1636,7 @@
       "Continue cooking 8-10 more minutes, until the liquid is mostly absorbed, the shrimp are opaque and pink, and the mussels have opened \u2014 discard any mussels that remain closed after cooking.",
       "In the last minute, listen and smell for a faint toasting aroma from the bottom \u2014 that's the socarrat forming. Pull it off heat right as you notice it, before it can actually burn.",
       "Remove from heat, cover loosely with foil, and let rest 5 minutes. Serve directly from the pan with lemon wedges."
-    ]
+    ],
+    "description": "Paella de marisco, built on real Bomba rice, a proper sofrito base, and the patience to let socarrat - the prized crispy bottom layer - form without stirring, is the seafood version of Spain's most famous rice dish."
   }
 ]

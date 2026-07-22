@@ -54,7 +54,8 @@
     "steps_detailed": [
       "Spoon the yogurt into a bowl, drizzle generously with the honey, and top with the walnuts and a dusting of cinnamon.",
       "Thick yogurt with honey and nuts is one of the oldest and simplest Greek breakfasts, largely unchanged in centuries."
-    ]
+    ],
+    "description": "A simple, classic Greek breakfast pairing."
   },
   {
     "name": "Greek Eggs with Feta and Oregano",
@@ -121,7 +122,8 @@
     "steps_detailed": [
       "Scramble the eggs gently in the oil over low heat, stirring often for soft curds.",
       "Fold in the feta, oregano, and pepper just before they finish setting, letting the cheese soften into the eggs."
-    ]
+    ],
+    "description": "A simple egg breakfast, feta and oregano being defining Greek flavors."
   },
   {
     "name": "Greek Cucumber and Feta Wrap",
@@ -188,7 +190,8 @@
     "steps_detailed": [
       "Fill the wrap with the cucumber, feta, and oregano.",
       "Finish with a squeeze of lemon juice and fold - bright and simple, the kind of quick breakfast eaten on the way out the door across Greece."
-    ]
+    ],
+    "description": "A simple wrap built on classic Greek flavors."
   },
   {
     "name": "Greek Salad",
@@ -259,9 +262,9 @@
     ],
     "steps_detailed": [
       "Toss the cucumber, tomatoes, and olives with the oil and oregano.",
-      "Top with a whole slab of feta rather than crumbling it in - a real horiatiki salad serves the cheese as one intact piece on top, which the eater breaks apart themselves.",
-      "Real Greek salad is built on kalamata-style olives specifically, whose brininess is part of the dish's whole balance - without olives, this was really just a chopped vegetable salad with feta, missing the ingredient the dish is named for as much as the cheese is."
-    ]
+      "Top with a whole slab of feta rather than crumbling it in."
+    ],
+    "description": "Horiatiki, a real Greek village salad, is built on kalamata-style olives specifically for their brininess, and serves the feta as one whole, intact slab on top rather than crumbled - the eater breaks it apart themselves."
   },
   {
     "name": "Greek Tzatziki Chicken",
@@ -331,7 +334,8 @@
     "steps_detailed": [
       "Season the chicken with the oregano and pan-fry over medium heat, 11-13 minutes, until cooked through.",
       "Mix the yogurt, grated cucumber, lemon juice, and garlic into a quick tzatziki, and serve alongside."
-    ]
+    ],
+    "description": "Chicken paired with tzatziki, a classic cooling Greek yogurt-cucumber sauce."
   },
   {
     "name": "Greek Lentil Soup (Fakes)",
@@ -405,7 +409,8 @@
       "Soften the onion and garlic in the oil, 5-6 minutes.",
       "Add the lentils, tomatoes, oregano, and 2.25 cups water, and simmer 32-38 minutes until the lentils are fully tender.",
       "Fakes, a humble lentil soup, is one of the most common everyday lunches in Greece, especially during Lent."
-    ]
+    ],
+    "description": "Fakes, a simple lentil soup, a Greek home-cooking staple."
   },
   {
     "name": "Greek Lemon Chicken and Rice",
@@ -470,10 +475,11 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the rice, lemon juice, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender and has absorbed the lemony broth."
-    ]
+    ],
+    "description": "A simple lemon-forward chicken and rice dish, lemon and oregano being central Greek flavors."
   },
   {
-    "name": "Greek Potato Moussaka-Style Bake",
+    "name": "Greek Moussaka",
     "cuisine": "greek",
     "meal_type": "dinner",
     "course": "complete",
@@ -563,9 +569,9 @@
       "Brown the lamb with the onion and cinnamon, 8-10 minutes, then add the tomatoes and simmer 10 minutes into a thick ragu.",
       "Make a bechamel: melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk and simmer, stirring, until thick; off the heat, whisk in the egg and half the feta.",
       "Layer the fried eggplant on the bottom of a small baking dish, the meat ragu over it, and the bechamel poured over the top, finishing with the remaining feta.",
-      "Bake at 375F (190C) for 30-35 minutes until the top is set and deeply golden.",
-      "Moussaka's identity rests on two things this recipe was missing entirely: eggplant, not potato, as the base vegetable, and a proper egg-enriched bechamel on top rather than a sprinkle of cheese - the earlier potato-and-cheese version was closer to a different dish wearing moussaka's name."
-    ]
+      "Bake at 375F (190C) for 30-35 minutes until the top is set and deeply golden."
+    ],
+    "description": "Moussaka's identity rests on two things: eggplant as the base vegetable, layered with a spiced meat ragu, and a proper egg-enriched bechamel poured over the top rather than a sprinkle of cheese."
   },
   {
     "name": "Greek Souvlaki-Style Lamb",
@@ -630,7 +636,8 @@
     "steps_detailed": [
       "Mix the lamb with the lemon juice, oregano, onion, and garlic, and shape into small, even portions.",
       "Grill or pan-fry over medium-high heat, 9-11 minutes, turning, until well browned and cooked through - souvlaki, grilled skewered meat, is Greece's most famous street food."
-    ]
+    ],
+    "description": "Souvlaki, grilled skewered meat, one of Greece's most iconic street foods."
   },
   {
     "name": "Greek Baked Fish with Lemon and Oregano",
@@ -697,7 +704,8 @@
     "steps_detailed": [
       "Season the fish with the lemon juice, oregano, garlic, and oil.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily - lemon and oregano define Greek fish cookery more than almost any other flavor pairing."
-    ]
+    ],
+    "description": "A simple baked fish, lemon and oregano being defining Greek flavors."
   },
   {
     "name": "Greek Beef and Onion Stew (Stifado)",
@@ -763,7 +771,8 @@
       "Brown the beef with the onion and garlic over medium-high heat, 9-11 minutes.",
       "Add the tomatoes, cinnamon, and three-quarters cup water, cover, and simmer 42-48 minutes until very tender.",
       "Stifado leans on a whole head of small onions and a quiet warmth of cinnamon and clove, a distinctly Greek combination for a beef stew."
-    ]
+    ],
+    "description": "Stifado, a slow-cooked stew with a heavy hand of onions or shallots, a classic Greek dish."
   },
   {
     "name": "Greek Tzatziki",
@@ -832,7 +841,8 @@
     "steps_detailed": [
       "Mix the yogurt, grated cucumber, lemon juice, garlic, and oil together thoroughly.",
       "Let sit 15-20 minutes so the flavors meld - tzatziki appears alongside nearly every grilled dish in Greece."
-    ]
+    ],
+    "description": "Tzatziki, a cooling yogurt-cucumber-garlic sauce, one of Greece's most iconic condiments."
   },
   {
     "name": "Greek Feta and Tomato Snack",
@@ -899,7 +909,8 @@
     ],
     "steps_detailed": [
       "Arrange the feta and tomatoes together, drizzle with the oil, and scatter with the oregano and pepper."
-    ]
+    ],
+    "description": "A simple feta and tomato snack, classic Greek flavors."
   },
   {
     "name": "Greek Lemon Hummus",
@@ -967,7 +978,8 @@
     "steps_detailed": [
       "Blend the chickpeas, tahini, lemon juice, garlic, and oil with a splash of water until very smooth.",
       "Lemon rather than lime is what gives this its distinctly Greek character."
-    ]
+    ],
+    "description": "Hummus is more a wider Eastern Mediterranean dish than specifically Greek, but lemon brightens it in a distinctly Greek direction."
   },
   {
     "name": "Greek Walnut and Feta Snack",
@@ -1023,7 +1035,8 @@
     ],
     "steps_detailed": [
       "Drizzle the walnuts and feta with the honey and a light dusting of cinnamon - an unusual but genuinely Greek sweet-savory pairing, walnuts and honey turning up throughout the country's simplest desserts."
-    ]
+    ],
+    "description": "A simple walnut and feta snack."
   },
   {
     "name": "Greek Yogurt and Honey Parfait",
@@ -1079,7 +1092,8 @@
     ],
     "steps_detailed": [
       "Layer the yogurt with the honey, walnuts, and a dusting of cinnamon."
-    ]
+    ],
+    "description": "A simple, classic Greek yogurt and honey pairing."
   },
   {
     "name": "Greek Rice Pudding with Cinnamon",
@@ -1146,7 +1160,8 @@
     "steps_detailed": [
       "Simmer the rice in the milk with the cinnamon and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Top with the chopped walnuts before serving."
-    ]
+    ],
+    "description": "A simple rice pudding, cinnamon being a common Greek dessert spice."
   },
   {
     "name": "Greek Walnut Honey Cake",
@@ -1213,7 +1228,8 @@
     "steps_detailed": [
       "Beat the egg with the honey and cinnamon until well combined, then mix in the flour and walnuts.",
       "Pour into a small lined pan and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean - walnut and honey cakes soaked in syrup are a fixture of Greek celebration tables."
-    ]
+    ],
+    "description": "Walnut and honey cake, in the spirit of Greek desserts like baklava that lean on the same flavor pairing."
   },
   {
     "name": "Greek Lemon Oregano Sauce",
@@ -1282,7 +1298,8 @@
     "steps_detailed": [
       "Whisk the lemon juice, oregano, oil, garlic, and pepper together into a bright, sharp dressing.",
       "This lemon-oregano combination is the base of most Greek marinades and dressings alike."
-    ]
+    ],
+    "description": "A simple lemon-oregano sauce, the base flavor of much Greek grilled and roasted cooking."
   },
   {
     "name": "Greek Yogurt Garlic Sauce",
@@ -1338,6 +1355,7 @@
     ],
     "steps_detailed": [
       "Whisk the yogurt, garlic, lemon juice, and oil together into a smooth, thin sauce - a simpler, quicker cousin of full tzatziki, without the cucumber."
-    ]
+    ],
+    "description": "A simple yogurt-garlic sauce, in the spirit of tzatziki."
   }
 ]

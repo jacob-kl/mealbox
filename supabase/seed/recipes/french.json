@@ -98,7 +98,8 @@
       "Add the tomatoes, olives, and remaining herbes de Provence. Return the chicken to the pan, spooning some sauce over it.",
       "Cover and simmer 12-15 minutes until the chicken is cooked through (165F) and the tomatoes have broken down into a light sauce.",
       "Cook the quinoa per package directions and serve the chicken and sauce over it."
-    ]
+    ],
+    "description": "A rustic chicken dish built on the classic Proven\u00e7al flavors of tomato, olive, and herbes de Provence."
   },
   {
     "name": "Salmon with Dijon Cream Sauce",
@@ -200,7 +201,8 @@
       "Stir in the dill.",
       "Meanwhile, cook the rice per package directions and saute the zucchini in a separate pan with olive oil, 5-6 minutes until tender.",
       "Spoon the sauce over the salmon and serve with rice and zucchini."
-    ]
+    ],
+    "description": "A simple salmon dish built on real dijon mustard, a classic French pairing."
   },
   {
     "name": "French Onion Chicken",
@@ -289,7 +291,8 @@
       "Add the broth and balsamic vinegar, scraping up any browned bits. Spoon the caramelized onions back over the chicken.",
       "Top with gruyere, cover, and let it melt over low heat for 2-3 minutes.",
       "Cook the quinoa per package directions and serve alongside."
-    ]
+    ],
+    "description": "A weeknight dish borrowing French onion soup's deeply caramelized onions and gruy\u00e8re."
   },
   {
     "name": "Herbed White Bean & Chicken Skillet",
@@ -382,7 +385,8 @@
       "Add the shallot to the pan and cook 2 minutes, then add garlic and cook 30 seconds.",
       "Add the beans, broth, oregano, and thyme. Simmer 5-6 minutes, mashing a few of the beans against the pan to naturally thicken the sauce.",
       "Return the chicken to the pan and warm through. Finish with fresh parsley."
-    ]
+    ],
+    "description": "A simple, herb-forward chicken and white bean skillet."
   },
   {
     "name": "French Chicken & White Bean Jar",
@@ -464,10 +468,11 @@
       "Whisk the balsamic vinegar and olive oil together.",
       "Toss the beans, tomatoes, and shallot with half the dressing.",
       "Layer in a jar, top with the chicken and parsley, and drizzle with remaining dressing before sealing."
-    ]
+    ],
+    "description": "A simple, portable chicken and white bean salad."
   },
   {
-    "name": "Coq au Vin (Simplified)",
+    "name": "Coq au Vin",
     "cuisine": "french",
     "meal_type": "dinner",
     "course": "complete",
@@ -511,12 +516,17 @@
         "note": "slices, diced"
       },
       {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.5,
+        "ingredient": "Red wine (cooking)",
+        "qty": 0.6,
         "note": "cup"
       },
       {
         "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Mushrooms, white, raw",
         "qty": 60,
         "note": "sliced"
       },
@@ -532,7 +542,7 @@
       },
       {
         "ingredient": "Tomato paste",
-        "qty": 0.3333,
+        "qty": 0.5,
         "note": ""
       },
       {
@@ -549,11 +559,12 @@
     "steps_detailed": [
       "Cook the bacon in a heavy pot over medium heat until crisp, 3-4 minutes. Remove with a slotted spoon, leaving the fat in the pot.",
       "Season the chicken and sear in the bacon fat, 3-4 minutes per side until browned. Remove.",
-      "Add the onion and carrot to the pot, cooking 5 minutes, then add garlic and tomato paste, cooking 1 minute more.",
-      "Pour in the wine, scraping up the browned bits, and add thyme and bay leaf.",
-      "Return the chicken and bacon to the pot. Bring to a simmer, cover, and cook on low 30-35 minutes until the chicken is fork-tender.",
+      "Add the onion, mushrooms, and carrot to the pot, cooking 5-6 minutes, then add garlic and tomato paste, cooking 1 minute more.",
+      "Pour in the red wine, scraping up the browned bits, and add thyme and bay leaf.",
+      "Return the chicken and bacon to the pot. Bring to a simmer, cover, and cook on low 30-35 minutes until the chicken is fork-tender and the sauce has taken on a deep reddish-brown color.",
       "Remove the bay leaf before serving. If the sauce is thin, uncover for the last 10 minutes to reduce."
-    ]
+    ],
+    "description": "Coq au vin means 'rooster in wine' - specifically red Burgundy wine, which gives the dish its deep reddish-brown color and body. White wine changes the whole character of the sauce; mushrooms and pearl onions are also classic additions that were missing."
   },
   {
     "name": "French Onion Baked Chicken",
@@ -626,7 +637,8 @@
       "Push the onions aside, raise heat, and sear the chicken 3-4 minutes per side.",
       "Pour the broth around the chicken, top with the caramelized onions and gruyere.",
       "Transfer to the oven and bake 15-18 minutes until the chicken reaches 165F and the cheese is bubbling and golden."
-    ]
+    ],
+    "description": "Chicken baked with the same deeply caramelized onion and gruy\u00e8re that defines French onion soup."
   },
   {
     "name": "Salmon en Papillote",
@@ -712,10 +724,11 @@
       "Fold the parchment over and crimp the edges tightly to seal, creating a sealed packet \u2014 this traps steam so the fish cooks gently in its own moisture.",
       "Place on a baking sheet and bake 15-18 minutes. The packet will puff up when done.",
       "Carefully open the packet at the table (watch for escaping steam) and serve directly from the parchment."
-    ]
+    ],
+    "description": "En papillote, cooking sealed in parchment so the fish steams in its own juices, a classic French technique."
   },
   {
-    "name": "French Beef Bourguignon (Simplified)",
+    "name": "Beef Bourguignon",
     "cuisine": "french",
     "meal_type": "dinner",
     "course": "complete",
@@ -759,8 +772,8 @@
         "note": "slices, diced"
       },
       {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.5,
+        "ingredient": "Red wine (cooking)",
+        "qty": 0.6,
         "note": "cup"
       },
       {
@@ -779,13 +792,18 @@
         "note": "sliced"
       },
       {
+        "ingredient": "Mushrooms, white, raw",
+        "qty": 70,
+        "note": "quartered"
+      },
+      {
         "ingredient": "Garlic",
         "qty": 1,
         "note": "tsp, minced"
       },
       {
         "ingredient": "Tomato paste",
-        "qty": 0.3333,
+        "qty": 0.5,
         "note": ""
       },
       {
@@ -806,13 +824,14 @@
     ],
     "steps_detailed": [
       "Cook the bacon in a heavy pot over medium heat until crisp. Remove with a slotted spoon, leaving the fat.",
-      "Pat the beef dry, season generously, and sear in batches in the bacon fat until deeply browned on all sides, 4-5 minutes total. Don't crowd the pot, or it'll steam instead of sear.",
-      "Add the onion and carrot, cooking 5 minutes, then garlic and tomato paste, cooking 1 more minute.",
-      "Pour in the wine and broth, scraping up the browned bits, and add thyme and bay leaf.",
+      "Pat the beef dry, season generously, and sear in batches in the bacon fat until deeply browned on all sides, 4-5 minutes total.",
+      "Add the onion, carrot, and mushrooms, cooking 5-6 minutes, then garlic and tomato paste, cooking 1 more minute.",
+      "Pour in the red wine and broth, scraping up the browned bits, and add thyme and bay leaf.",
       "Return the beef and bacon to the pot along with the potatoes. Bring to a simmer.",
-      "Cover and braise on low (or in a 300F oven) for 1.5-2 hours, until the beef is fork-tender.",
+      "Cover and braise on low (or in a 300F oven) for 1.5-2 hours, until the beef is fork-tender and the sauce is a deep reddish-brown.",
       "Remove the bay leaf. If the sauce needs thickening, simmer uncovered for the last 15 minutes."
-    ]
+    ],
+    "description": "Bourguignon means 'from Burgundy' - the dish is defined by braising in that region's red wine, not white. Mushrooms and pearl onions are also classic additions this version was missing."
   },
   {
     "name": "Ratatouille",
@@ -913,7 +932,8 @@
       "Stir in the tomato paste, then add the diced tomatoes and herbes de Provence.",
       "Simmer uncovered 20-25 minutes, stirring occasionally, until the vegetables are very tender and the sauce has thickened.",
       "Stir in fresh basil at the end. Season with salt and pepper to taste."
-    ]
+    ],
+    "description": "Ratatouille, a stewed vegetable dish from Provence, is built on herbes de Provence and a long, patient simmer that melds the vegetables together."
   },
   {
     "name": "Nicoise Salad Jar",
@@ -997,7 +1017,8 @@
       "Whisk the olive oil and vinegar together.",
       "Layer the potato, green beans, and tomatoes in the bottom of a jar, drizzling with a little dressing.",
       "Top with tuna, egg quarters, and olives. Add remaining dressing before sealing."
-    ]
+    ],
+    "description": "A portable version of salade ni\u00e7oise, built on the classic combination of tuna, olives, and egg."
   },
   {
     "name": "French Ham and Cheese Wrap Jar",
@@ -1064,7 +1085,8 @@
       "Spread mustard evenly over the tortilla.",
       "Layer the turkey, swiss cheese, and lettuce.",
       "Roll tightly and slice in half."
-    ]
+    ],
+    "description": "The flavors of jambon-beurre in portable form."
   },
   {
     "name": "French Lentil Salad",
@@ -1142,7 +1164,8 @@
       "Whisk the vinegar, mustard, and olive oil together for the vinaigrette.",
       "Toss the warm cooked lentils with the shallot and dressing \u2014 dressing lentils while still warm helps them soak up more flavor than dressing them cold.",
       "Stir in the carrot and parsley. Serve warm or chilled."
-    ]
+    ],
+    "description": "French green lentils (lentilles du Puy), which hold their shape well, are the classic base for this salad."
   },
   {
     "name": "French Herb Omelette",
@@ -1206,7 +1229,8 @@
       "Pour in the eggs. As they set at the edges, use a spatula to gently push the cooked egg toward the center, tilting the pan to let uncooked egg flow to the edges.",
       "When mostly set but still slightly glossy on top, sprinkle the cheese and herbs over half the omelette.",
       "Fold the other half over, let it sit 30 seconds to finish setting and melt the cheese, then slide onto a plate."
-    ]
+    ],
+    "description": "A simple herb omelette, a French breakfast staple."
   },
   {
     "name": "Endive with Goat Cheese Snack",
@@ -1257,7 +1281,8 @@
     "steps_detailed": [
       "Spread a small amount of goat cheese onto each leaf.",
       "Top with a few chopped walnuts and a light drizzle of honey."
-    ]
+    ],
+    "description": "Endive and goat cheese, a classic French pairing."
   },
   {
     "name": "French Radish Butter Snack",
@@ -1298,7 +1323,8 @@
     "steps_detailed": [
       "Serve the radish halves with a small dish of softened butter for dipping \u2014 this is a classic French bistro snack, the pepperiness of the radish balanced by the butter's richness.",
       "A light sprinkle of flaky salt on the buttered side takes it further, if you have it."
-    ]
+    ],
+    "description": "Radishes with butter and salt, a simple, classic French snack."
   },
   {
     "name": "Creme Caramel",
@@ -1366,10 +1392,11 @@
       "Strain through a fine mesh sieve for the smoothest texture, then pour over the caramel in the ramekins.",
       "Place the ramekins in a baking dish, add hot water halfway up their sides, and bake 35-40 minutes until just set with a slight jiggle in the center.",
       "Chill at least 3 hours. To unmold, run a knife around the edge and invert onto a plate."
-    ]
+    ],
+    "description": "Cr\u00e8me caramel, an egg custard with a layer of caramelized sugar, found across French and wider European dessert traditions."
   },
   {
-    "name": "Chocolate Mousse (Light)",
+    "name": "Chocolate Mousse",
     "cuisine": "french",
     "meal_type": "dessert",
     "course": "complete",
@@ -1400,37 +1427,41 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 1,
-        "note": "cup"
+        "ingredient": "Dark chocolate chips",
+        "qty": 3,
+        "note": "tbsp, melted"
       },
       {
-        "ingredient": "Unsweetened cocoa powder",
-        "qty": 2.5,
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "separated"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.5,
+        "ingredient": "Heavy cream",
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Vanilla extract",
         "qty": 0.5,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Dark chocolate chips",
-        "qty": 1,
-        "note": "tbsp, melted"
       }
     ],
     "steps_detailed": [
-      "Melt the chocolate chips in the microwave in 15-second bursts, stirring between each, until smooth.",
-      "Whisk the yogurt, cocoa powder, honey, and vanilla together until fully smooth.",
-      "Fold in the melted chocolate.",
-      "Chill at least 30 minutes before serving \u2014 it firms up and the flavors meld as it sits."
-    ]
+      "Melt the chocolate chips gently, either over a double boiler or in the microwave in 15-second bursts, stirring between each, until smooth. Let cool slightly.",
+      "Whisk the egg yolks with half the sugar and the vanilla until pale and thick, then whisk in the melted chocolate.",
+      "Whip the cream to soft peaks and fold into the chocolate-yolk mixture.",
+      "In a separate, completely clean bowl, whip the egg whites with the remaining sugar until they hold stiff, glossy peaks - any trace of grease or yolk in this bowl will stop the whites from whipping properly.",
+      "Fold the whipped whites into the chocolate mixture in two or three additions, folding gently to keep as much air in as possible rather than stirring it out.",
+      "Spoon into cups and chill at least 2 hours until set - real mousse should feel light and airy, not dense, when you eat it.",
+      "Note: this uses raw egg whites and yolks, which carry a small salmonella risk - pasteurized eggs are a safer choice if serving to anyone pregnant, elderly, very young, or immunocompromised."
+    ],
+    "description": "Mousse means 'foam' - real chocolate mousse gets its airy structure from whipped egg whites folded through melted chocolate, not from yogurt standing in for that whole technique. This version builds the real thing."
   },
   {
     "name": "Poached Pears",
@@ -1493,7 +1524,8 @@
       "Add the pear halves cut-side down and simmer 12-15 minutes, turning once, until a knife slides in easily.",
       "Remove the pears and simmer the poaching liquid another 3-4 minutes to reduce slightly into a light syrup.",
       "Serve the pears warm or chilled, drizzled with the syrup."
-    ]
+    ],
+    "description": "Pears poached in a simple syrup, a classic French dessert technique."
   },
   {
     "name": "Classic Vinaigrette",
@@ -1550,7 +1582,8 @@
       "Whisk the mustard, vinegar, and shallot together in a small bowl.",
       "While whisking constantly, slowly drizzle in the olive oil \u2014 adding it gradually is what lets the vinaigrette emulsify into a thick, cohesive dressing instead of separating.",
       "Season with salt and pepper. This keeps in the fridge for about a week \u2014 just re-whisk before using, since it will separate on standing."
-    ]
+    ],
+    "description": "A simple, classic French vinaigrette."
   },
   {
     "name": "Croque Monsieur",
@@ -1628,7 +1661,8 @@
       "Spread mustard on one slice of bread, layer with ham and half the gruyere, and top with the second slice.",
       "Spread a spoonful of bechamel over the top of the sandwich and sprinkle with the remaining gruyere.",
       "Bake on a sheet for 8-10 minutes until the cheese is melted and bubbling and the top is golden."
-    ]
+    ],
+    "description": "Croque monsieur, a ham and gruy\u00e8re sandwich topped with b\u00e9chamel, is a French bistro staple - the b\u00e9chamel on top, not just melted cheese, is what actually separates it from an ordinary grilled ham and cheese."
   },
   {
     "name": "Jambon-Beurre",
@@ -1682,7 +1716,8 @@
       "Spread the softened butter generously and evenly across both cut sides \u2014 this is the whole point of the sandwich, so don't skimp.",
       "Layer in the ham, folding the slices slightly rather than laying them flat, for better texture.",
       "That's it \u2014 no mustard, no lettuce. The simplicity is the point."
-    ]
+    ],
+    "description": "Jambon-beurre, ham and butter on a baguette, is considered France's most iconic, simplest sandwich - the quality of the butter and bread matters more than any other ingredient."
   },
   {
     "name": "French Fruit Salad (Salade de Fruits)",
@@ -1755,7 +1790,8 @@
       "Toss the diced apple and pear with lemon juice right away to prevent browning.",
       "Combine with the grapes and orange segments.",
       "Drizzle with honey and toss gently to coat."
-    ]
+    ],
+    "description": "A simple fresh fruit salad."
   },
   {
     "name": "French Onion Soup",
@@ -1841,6 +1877,7 @@
       "Add the broth, thyme, and bay leaf. Simmer 15-20 minutes to let the flavors meld.",
       "Remove the bay leaf and ladle into an oven-safe bowl.",
       "Top with the toasted bread and gruyere, then broil for 2-3 minutes until the cheese is melted, bubbling, and browned in spots."
-    ]
+    ],
+    "description": "French onion soup depends on deeply, patiently caramelized onions - real dry sherry adding a depth that a simpler broth alone wouldn't have."
   }
 ]
