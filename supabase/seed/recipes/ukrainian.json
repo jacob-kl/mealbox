@@ -54,7 +54,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple breakfast porridge."
   },
   {
     "name": "Ukrainian Cheese and Rye Bread",
@@ -109,7 +110,8 @@
     ],
     "steps_detailed": [
       "Butter the bread generously, top with the cheese, and finish with a little black pepper."
-    ]
+    ],
+    "description": "A simple cheese and rye bread breakfast."
   },
   {
     "name": "Ukrainian Eggs with Dill",
@@ -166,7 +168,8 @@
     "steps_detailed": [
       "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
       "Fold in the dill and pepper just before they finish setting - dill is used as liberally in Ukrainian cooking as almost anywhere in Eastern Europe."
-    ]
+    ],
+    "description": "A simple egg breakfast, dill being a defining Ukrainian herb."
   },
   {
     "name": "Ukrainian Borscht (Beet Soup)",
@@ -236,9 +239,9 @@
     ],
     "steps_detailed": [
       "Simmer the beef with the onion in water to cover, 32-38 minutes, until tender.",
-      "Add the beets, cabbage, and garlic, and simmer 22-26 more minutes until fully tender, the broth turning a deep red.",
-      "Top generously with the sour cream - borscht, beet soup finished with a dollop of sour cream, is Ukraine's most recognized dish, with countless regional and family variations."
-    ]
+      "Add the beets, cabbage, and garlic, and simmer 22-26 more minutes until fully tender, the broth turning a deep red."
+    ],
+    "description": "Top generously with the sour cream - borscht, beet soup finished with a dollop of sour cream, is Ukraine's most recognized dish, with countless regional and family variations."
   },
   {
     "name": "Ukrainian Potato Pancakes (Deruny)",
@@ -312,7 +315,8 @@
       "Mix the grated potato and onion with the flour and egg into a thick batter.",
       "Fry spoonfuls in the oil over medium heat, 4-5 minutes per side, until deeply golden and crisp at the edges.",
       "Top with the sour cream - deruny are a beloved everyday dish across Ukraine, simple and endlessly satisfying."
-    ]
+    ],
+    "description": "Deruny, fried potato pancakes, a beloved Ukrainian comfort food."
   },
   {
     "name": "Ukrainian Holubtsi (Cabbage Rolls)",
@@ -381,9 +385,9 @@
     ],
     "steps_detailed": [
       "Blanch the cabbage leaves in simmering water 2-3 minutes until pliable, then drain.",
-      "Mix the beef, rice, onion, and pepper, roll firmly into the cabbage leaves, arrange in a baking dish with the tomatoes poured over, cover, and bake at 375F (190C) for 38-42 minutes until the rice is fully cooked.",
-      "Holubtsi, stuffed cabbage rolls, appear at nearly every Ukrainian holiday table."
-    ]
+      "Mix the beef, rice, onion, and pepper, roll firmly into the cabbage leaves, arrange in a baking dish with the tomatoes poured over, cover, and bake at 375F (190C) for 38-42 minutes until the rice is fully cooked."
+    ],
+    "description": "Holubtsi, stuffed cabbage rolls, appear at nearly every Ukrainian holiday table."
   },
   {
     "name": "Ukrainian Beet and Potato Salad",
@@ -452,10 +456,11 @@
     "steps_detailed": [
       "Boil the beets and potato separately until fully tender, 20-25 minutes for the beets and 12-15 for the potato, then cool and dice.",
       "Toss with the oil, dill, and onion - a simple, earthy salad found on Ukrainian tables year-round."
-    ]
+    ],
+    "description": "A simple beet and potato salad."
   },
   {
-    "name": "Ukrainian Chicken Kyiv-Style",
+    "name": "Ukrainian Chicken Kyiv",
     "cuisine": "ukrainian",
     "meal_type": "dinner",
     "course": "complete",
@@ -489,9 +494,9 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Chicken breast",
         "qty": 220,
-        "note": ""
+        "note": "pounded very thin"
       },
       {
         "ingredient": "Butter, salted",
@@ -515,15 +520,28 @@
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 0.5,
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Panko Bread Crumbs, Panko",
+        "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Mix the butter thoroughly with the garlic and dill and chill briefly until firm.",
-      "Pound the chicken thin, place the herbed butter in the center, roll up tightly, dredge in the flour and beaten egg, and bake at 375F (190C) for 28-32 minutes until cooked through.",
-      "Chicken Kyiv, a butter-filled cutlet meant to release a rush of garlic butter when cut into, is one of Ukraine's most famous culinary exports."
-    ]
+      "Mix the butter thoroughly with the garlic and dill, shape into a small log, and chill until firm.",
+      "Pound the chicken very thin and even, place the chilled herbed butter in the center, and roll up tightly, tucking in the ends so the butter is completely sealed inside.",
+      "Dredge the roll in flour, dip in the beaten egg, then press firmly into the panko so it's coated in an even, complete layer - any gap in the crust is where the butter will leak out during frying.",
+      "Heat the oil in a deep, heavy pan to 350F and fry, turning occasionally, 8-10 minutes, until deeply golden and cooked through.",
+      "Drain briefly on a rack, and let rest a minute before cutting - the butter inside should still be molten."
+    ],
+    "description": "Chicken Kyiv, a butter-filled cutlet meant to release a rush of garlic butter when cut into, depends on being genuinely fried, not baked - a proper breadcrumb crust holds the shape and seals the butter in while frying, and only deep, hot oil gets it crisp enough to shatter under a fork the way real Chicken Kyiv is known for."
   },
   {
     "name": "Ukrainian Beef and Sour Cream Stew",
@@ -590,7 +608,8 @@
       "Brown the beef with the onion, butter, and pepper over medium-high heat, 9-11 minutes.",
       "Add three-quarters cup water, cover, and simmer 38-42 minutes until very tender.",
       "Remove from heat and stir in the sour cream until smooth."
-    ]
+    ],
+    "description": "A simple beef stew finished with sour cream."
   },
   {
     "name": "Ukrainian Pork and Cabbage Stew",
@@ -655,7 +674,8 @@
     "steps_detailed": [
       "Brown the pork with the onion, caraway, and pepper over medium-high heat, 9-11 minutes.",
       "Add the cabbage and a generous splash of water, cover, and simmer 26-30 minutes until fully tender."
-    ]
+    ],
+    "description": "A simple pork and cabbage stew."
   },
   {
     "name": "Ukrainian Baked Fish with Dill",
@@ -723,7 +743,8 @@
       "Season the fish with the dill and pepper and dot with the butter.",
       "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
       "Finish with the lime juice."
-    ]
+    ],
+    "description": "A simple baked fish, dill being a defining Ukrainian herb."
   },
   {
     "name": "Ukrainian Cheese Varenyky-Style Dumplings",
@@ -792,7 +813,8 @@
       "Mix the flour and egg with a little water into a firm, smooth dough, and roll thin.",
       "Cut into rounds, fill with the cheese, fold into half-moons and seal the edges well, and simmer in gently boiling water 7-9 minutes until they float.",
       "Toss with the melted butter and top with the sour cream - varenyky, filled dumplings similar to pierogi, come with sweet or savory fillings depending on the household and the occasion."
-    ]
+    ],
+    "description": "Varenyky, filled dumplings similar to pierogi, one of Ukraine's most beloved dishes, made in both savory and sweet forms."
   },
   {
     "name": "Ukrainian Beet and Garlic Snack",
@@ -850,7 +872,8 @@
     "steps_detailed": [
       "Boil the beets until tender, 20-25 minutes, then cool and grate.",
       "Toss with the garlic and oil, and top with a small dollop of sour cream."
-    ]
+    ],
+    "description": "A simple beet and garlic snack."
   },
   {
     "name": "Ukrainian Rye Bread with Cheese and Dill",
@@ -905,7 +928,8 @@
     ],
     "steps_detailed": [
       "Butter the rye bread, top with the cheese and dill - a common simple snack across Ukrainian households."
-    ]
+    ],
+    "description": "A simple rye bread, cheese, and dill snack."
   },
   {
     "name": "Ukrainian Cabbage Slaw",
@@ -965,7 +989,8 @@
     "steps_detailed": [
       "Toss the cabbage with the oil, lime juice, and pepper.",
       "Let sit 15 minutes so it softens slightly before serving."
-    ]
+    ],
+    "description": "A simple cabbage slaw."
   },
   {
     "name": "Ukrainian Honey Cake (Medovik-Style)",
@@ -1038,7 +1063,8 @@
       "Cream the butter and honey until light, then beat in the egg.",
       "Fold in the flour and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until golden.",
       "Top or fill with the sour cream once cooled - a simplified take on medovik, Ukraine's classic layered honey cake."
-    ]
+    ],
+    "description": "Medovik, a layered honey cake, a beloved dessert shared across Ukraine and the wider region."
   },
   {
     "name": "Ukrainian Rice Pudding",
@@ -1104,7 +1130,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ]
+    ],
+    "description": "A simple rice pudding."
   },
   {
     "name": "Ukrainian Apple Cake",
@@ -1176,7 +1203,8 @@
     "steps_detailed": [
       "Toss the apple with the sugar and cinnamon.",
       "Mix the flour, butter, and egg with the apple, pour into a small lined pan, and bake at 350F (175C) for 27-32 minutes until golden and a skewer comes out clean - a simple apple sharlotka, one of the most common home-baked cakes across Ukraine."
-    ]
+    ],
+    "description": "A simple apple cake."
   },
   {
     "name": "Ukrainian Sour Cream Dill Sauce",
@@ -1232,7 +1260,8 @@
     ],
     "steps_detailed": [
       "Mix the sour cream, dill, garlic, and pepper together - the standard finishing touch for borscht, varenyky, and potato dishes alike."
-    ]
+    ],
+    "description": "A simple sour cream and dill sauce."
   },
   {
     "name": "Ukrainian Garlic Butter Sauce",
@@ -1288,6 +1317,7 @@
     ],
     "steps_detailed": [
       "Whisk the melted butter with the garlic, dill, and pepper - the same herbed butter that fills Chicken Kyiv, good on its own over potatoes or bread too."
-    ]
+    ],
+    "description": "A simple garlic-butter sauce."
   }
 ]
