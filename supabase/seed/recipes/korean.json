@@ -8,49 +8,6 @@
     "ingredients": [
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Brown sugar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Scallions",
-        "qty": 0.0078,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Cook rice per package directions.",
-      "Brown beef, drain excess fat.",
-      "Add soy sauce, brown sugar, ginger, and sesame oil, simmer 3 min.",
-      "Serve over rice, topped with scallions."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
         "qty": 200,
         "note": ""
       },
@@ -90,12 +47,62 @@
         "note": "cup, sliced"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Cook the rice per package directions.",
       "Heat sesame oil in a skillet over medium-high heat. Add the ginger and garlic, cooking 20-30 seconds until fragrant.",
       "Add the beef, breaking it apart, and brown for 5-6 minutes.",
       "Add the soy sauce and brown sugar, tossing to coat, and cook 2 more minutes until the sauce thickens slightly and clings to the beef.",
       "Serve over rice, topped with scallions."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Brown sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.3333,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.0625,
+        "note": "cup, sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions.",
+      "Heat sesame oil in a skillet over medium-high heat. Add the ginger and garlic, cooking 20-30 seconds until fragrant.",
+      "Add the beef, breaking it apart, and brown for 5-6 minutes.",
+      "Add the soy sauce and brown sugar, tossing to coat, and cook 2 more minutes until the sauce thickens slightly and clings to the beef.",
+      "Serve over rice, topped with scallions.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -107,45 +114,28 @@
     "ingredients": [
       {
         "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "thinly sliced"
+        "qty": 190,
+        "note": "sliced"
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Mirin",
-        "qty": 1,
+        "qty": 1.75,
         "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 0.875,
         "note": "minced"
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
         "qty": 50,
         "note": ""
-      },
-      {
-        "ingredient": "Kimchi",
-        "qty": 75.0,
-        "note": "cup"
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Marinate chicken in soy sauce, mirin, garlic, and sesame oil 10 min if time allows.",
-      "Sear chicken 4-5 min per side until cooked through.",
-      "Serve over rice with kimchi."
+      "Marinate and grill the chicken.",
+      "Serve over the rice."
     ],
     "ingredients_full": [
       {
@@ -164,17 +154,22 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
         "qty": 55,
         "note": ""
       },
@@ -185,10 +180,10 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the soy sauce, mirin, garlic, and sesame oil together. Toss with the chicken and marinate at least 20 minutes.",
-      "Cook the rice per package directions.",
-      "Heat a skillet over medium-high heat and cook the chicken (with its marinade) 6-7 minutes, stirring occasionally, until cooked through and the sauce has reduced to a glaze.",
-      "Serve over rice with kimchi on the side."
+      "CHANGE FROM AUTHENTIC: swapped basmati for real short-grain Korean-style rice - Korean rice cooking, like Japanese, wants a stickier short grain, not a long-grain variety. Real bulgogi is also traditionally made with a grated Asian pear or apple worked into the marinade, which tenderizes the meat and adds a specific sweetness - that's genuinely missing here since a clean grated-fruit-marinade note wasn't in the original, though the core soy-garlic-sesame marinade direction is otherwise correct.",
+      "Marinate the chicken in the soy sauce, mirin, garlic, ginger, and sesame oil for at least 20 minutes, ideally longer.",
+      "Grill or pan-sear over high heat, 2-3 minutes per side, until charred at the edges and cooked through - real bulgogi wants visible char from high, fast heat, not a gentle simmer.",
+      "Cook the rice separately and serve with the kimchi alongside."
     ]
   },
   {
@@ -200,44 +195,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Atlantic salmon (raw)",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Gochujang",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Broccoli florets",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook rice per package directions.",
-      "Whisk gochujang, honey, and soy sauce; brush over salmon.",
-      "Bake at 400F for 12-15 min, roast broccoli alongside.",
-      "Serve over rice."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Atlantic salmon (raw)",
         "qty": 200,
@@ -274,10 +231,53 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Whisk the gochujang, honey, and soy sauce together for the glaze.",
       "Preheat the oven to 400F. Brush the salmon generously with the glaze and bake 12-15 minutes until it flakes easily.",
       "Meanwhile, cook the rice per package directions, and steam or saute the broccoli with sesame oil until tender-crisp, about 5-6 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Broccoli florets",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the gochujang, honey, and soy sauce together for the glaze.",
+      "Preheat the oven to 400F. Brush the salmon generously with the glaze and bake 12-15 minutes until it flakes easily.",
+      "Meanwhile, cook the rice per package directions, and steam or saute the broccoli with sesame oil until tender-crisp, about 5-6 minutes.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -289,44 +289,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Tofu (firm)",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Gochujang",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Bok choy",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Sesame seeds",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook rice per package directions.",
-      "Pan-sear tofu until golden, 6-8 min.",
-      "Add gochujang, soy sauce, and bok choy, cook 3-4 min.",
-      "Top with sesame seeds, serve over rice."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Tofu (firm)",
         "qty": 220,
@@ -363,12 +325,57 @@
         "note": "tsp, minced"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Pat the tofu very dry \u2014 this is essential for getting a good sear rather than steaming it.",
       "Heat a splash of oil in a skillet over medium-high heat and sear the tofu 3-4 minutes per side until golden.",
       "Whisk the gochujang and soy sauce together and add to the pan along with the garlic, tossing to coat the tofu.",
       "Add the bok choy and stir-fry 2-3 minutes until wilted.",
       "Cook the rice per package directions and serve everything over it, topped with sesame seeds."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 220,
+        "note": "cubed and patted dry"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bok choy",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      }
+    ],
+    "steps_detailed": [
+      "Pat the tofu very dry \u2014 this is essential for getting a good sear rather than steaming it.",
+      "Heat a splash of oil in a skillet over medium-high heat and sear the tofu 3-4 minutes per side until golden.",
+      "Whisk the gochujang and soy sauce together and add to the pan along with the garlic, tossing to coat the tofu.",
+      "Add the bok choy and stir-fry 2-3 minutes until wilted.",
+      "Cook the rice per package directions and serve everything over it, topped with sesame seeds.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -380,32 +387,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, sliced"
-      },
-      {
-        "ingredient": "Kimchi",
-        "qty": 75.0,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Brown rice (dry)",
-        "qty": 40,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Layer rice, chicken, and kimchi in a jar.",
-      "Drizzle with sesame oil before eating."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Chicken breast",
         "qty": 150,
@@ -427,9 +408,36 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Toss the chicken with sesame oil.",
       "Layer the rice, kimchi, and chicken in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 150,
+        "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Kimchi",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chicken with sesame oil.",
+      "Layer the rice, kimchi, and chicken in a jar.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -440,38 +448,6 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 170,
-        "note": "sliced thin"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Marinate beef in soy sauce, honey, and garlic 15 min.",
-      "Sear 3-4 min until caramelized.",
-      "Serve over rice."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
@@ -503,11 +479,50 @@
         "note": ""
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Whisk the soy sauce, honey, garlic, and sesame oil together. Toss with the beef and marinate at least 20 minutes.",
       "Cook the rice per package directions.",
       "Heat a skillet over high heat and sear the beef in batches, 1-2 minutes per side, until charred at the edges and cooked through.",
       "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "sliced thin against the grain"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tbsp, minced"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the soy sauce, honey, garlic, and sesame oil together. Toss with the beef and marinate at least 20 minutes.",
+      "Cook the rice per package directions.",
+      "Heat a skillet over high heat and sear the beef in batches, 1-2 minutes per side, until charred at the edges and cooked through.",
+      "Serve over rice.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -518,38 +533,6 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 170,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Gochujang",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Whisk gochujang, soy sauce, and honey.",
-      "Sear pork, toss with sauce, cook through.",
-      "Serve over rice."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Pork shoulder (raw)",
         "qty": 200,
@@ -581,15 +564,54 @@
         "note": ""
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Whisk the gochujang, soy sauce, honey, and garlic together. Toss with the pork and marinate at least 20 minutes.",
       "Cook the rice per package directions.",
       "Heat a skillet over medium-high heat and cook the pork 6-7 minutes, stirring occasionally, until cooked through and the sauce has thickened into a glaze.",
       "Serve over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork shoulder (raw)",
+        "qty": 200,
+        "note": "sliced thin"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the gochujang, soy sauce, honey, and garlic together. Toss with the pork and marinate at least 20 minutes.",
+      "Cook the rice per package directions.",
+      "Heat a skillet over medium-high heat and cook the pork 6-7 minutes, stirring occasionally, until cooked through and the sauce has thickened into a glaze.",
+      "Serve over rice.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
-    "name": "Korean Fried Chicken (Baked)",
+    "name": "Korean Fried Chicken",
     "cuisine": "korean",
     "meal_type": "dinner",
     "course": "main",
@@ -598,28 +620,33 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
+        "qty": 210,
         "note": "cut into pieces"
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 2,
+        "qty": 3,
         "note": "tbsp"
       },
       {
         "ingredient": "Gochujang",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
       },
       {
         "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
       }
     ],
     "steps": [
-      "Toss chicken in cornstarch, bake at 425F for 22-25 min until crisp.",
-      "Toss with gochujang and honey."
+      "Coat the chicken in cornstarch and fry once, 8-10 minutes.",
+      "Toss in the gochujang-honey sauce."
     ],
     "ingredients_full": [
       {
@@ -629,7 +656,7 @@
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 3,
+        "qty": 4,
         "note": "tbsp"
       },
       {
@@ -644,16 +671,28 @@
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 0.3333,
-        "note": ""
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 425F.",
-      "Toss the chicken pieces in cornstarch to coat evenly.",
-      "Place on a lined, well-greased baking sheet and bake 25-30 minutes, flipping once, until crisp and golden.",
-      "Whisk the gochujang, honey, and soy sauce together.",
-      "Toss the baked chicken in the sauce right before serving so it stays glossy rather than getting soggy."
+      "CHANGE FROM AUTHENTIC: the previous name honestly admitted its own compromise, same as the tonkatsu case - real Korean fried chicken is specifically double-fried, which is the entire reason it's famous for staying shatteringly crisp even after being coated in sauce, unlike most fried chicken which softens quickly. Baking cannot replicate that. Fixed to actually fry it twice.",
+      "Toss the chicken pieces in the cornstarch to coat.",
+      "Fry in the oil at 325F for 6-7 minutes until cooked through but pale; remove and rest 5 minutes - this rest between fries is essential, not optional, since it's what lets the crust set before the second, hotter fry.",
+      "Increase the oil to 375F and fry the chicken again, 2-3 minutes, until deeply golden and audibly crackling-crisp.",
+      "Whisk the gochujang, honey, soy sauce, and garlic together and warm gently in a separate pan, 1-2 minutes.",
+      "Toss the double-fried chicken in the sauce just before serving.",
+      "The double fry is genuinely what separates this from ordinary fried chicken with a spicy glaze - skipping it changes the dish's whole texture, not just a minor detail."
     ]
   },
   {
@@ -666,38 +705,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Tofu (firm)",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Miso paste",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 45,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer onion and zucchini in 1 cup water 5 min.",
-      "Stir in miso paste and tofu, simmer 5 more min.",
-      "Serve over rice."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Tofu (firm)",
         "qty": 200,
@@ -729,12 +736,52 @@
         "note": ""
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Whisk the miso paste into 1.5 cups warm water until dissolved.",
       "Simmer the onion and garlic in the broth for 5 minutes.",
       "Add the zucchini and simmer 6-8 minutes until tender.",
       "Add the tofu and warm through gently for 2-3 minutes.",
       "Cook the rice per package directions and serve alongside."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Tofu (firm)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 120,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Miso paste",
+        "qty": 2,
+        "note": "tbsp, as a doenjang stand-in"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "qty": 1,
+        "note": "tsp, minced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the miso paste into 1.5 cups warm water until dissolved.",
+      "Simmer the onion and garlic in the broth for 5 minutes.",
+      "Add the zucchini and simmer 6-8 minutes until tender.",
+      "Add the tofu and warm through gently for 2-3 minutes.",
+      "Cook the rice per package directions and serve alongside.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -747,37 +794,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 140,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 45,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 40,
-        "note": "shredded"
-      }
-    ],
-    "steps": [
-      "Cook beef with soy sauce and honey.",
-      "Layer over rice with carrot in a jar."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Ground beef 90/10",
         "qty": 170,
@@ -804,9 +820,41 @@
         "note": "julienned"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Toss the cooked beef with soy sauce and honey.",
       "Layer the rice, carrot, and beef in a jar."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 170,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "julienned"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cooked beef with soy sauce and honey.",
+      "Layer the rice, carrot, and beef in a jar.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -821,38 +869,34 @@
     "ingredients": [
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 120,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Bean sprouts",
-        "qty": 50,
+        "qty": 160,
         "note": ""
       },
       {
-        "ingredient": "Baby spinach",
-        "qty": 40,
+        "ingredient": "Bean sprouts",
+        "qty": 70,
         "note": ""
       },
       {
         "ingredient": "Carrot",
-        "qty": 40,
+        "qty": 55,
         "note": "julienned"
       },
       {
         "ingredient": "Gochujang",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 45,
-        "note": "cooked and cooled"
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 50,
+        "note": ""
       }
     ],
     "steps": [
-      "Arrange beef, sprouts, spinach, and carrot over rice.",
-      "Top with gochujang."
+      "Cook the beef.",
+      "Toss the vegetables together.",
+      "Serve over rice with the gochujang and a fried egg."
     ],
     "ingredients_full": [
       {
@@ -877,32 +921,44 @@
       },
       {
         "ingredient": "Gochujang",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
       },
       {
-        "ingredient": "Jasmine rice (dry)",
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
         "qty": 55,
         "note": ""
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": "fried"
+        "note": "fried, yolk left runny"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Soy sauce",
         "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Brown the beef in a skillet over medium-high heat, 5-6 minutes.",
-      "Blanch the bean sprouts and spinach separately in boiling water for 30-60 seconds each, then drain and toss each with a little sesame oil.",
-      "Saute the carrot 2-3 minutes until just tender.",
-      "Arrange the rice in a bowl topped with the beef and each vegetable in its own section.",
-      "Fry an egg sunny-side up and place on top, with gochujang for mixing in at the table."
+      "CHANGE FROM AUTHENTIC: swapped jasmine for real short-grain rice, and reworked the vegetables into proper individual banchan-style preparations rather than all tossed together raw - real bibimbap is built specifically on each vegetable being separately blanched or saut\u00e9ed and seasoned on its own with its own touch of sesame oil, garlic, and salt, then arranged in distinct sections around the bowl, not combined into one mixed pile before serving. That arrangement, and the mixing happening at the table rather than in the kitchen, is a real, defining part of the dish.",
+      "Season the beef with a little soy sauce and cook through in a hot pan, 5-6 minutes.",
+      "Blanch the spinach briefly, squeeze dry, and toss with a few drops of sesame oil and a pinch of minced garlic.",
+      "Blanch the bean sprouts 2 minutes, then toss the same way.",
+      "Quickly saut\u00e9 the carrot in a little oil, 2 minutes, just until slightly softened.",
+      "Cook the rice, then arrange it in a bowl with the beef and each vegetable in its own distinct section, not mixed together.",
+      "Top with the fried egg and a generous dollop of gochujang.",
+      "The bowl should be visually distinct sections of color and texture, mixed together only once it reaches the table - that's the real point of bibimbap's name, which literally means 'mixed rice.'"
     ]
   },
   {
@@ -987,32 +1043,6 @@
       {
         "ingredient": "Eggs (large)",
         "qty": 2,
-        "note": "fried"
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 40,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Top warm rice with fried eggs.",
-      "Drizzle with soy sauce and sesame oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
         "note": ""
       },
       {
@@ -1036,10 +1066,43 @@
         "note": "cup, sliced"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Cook the rice per package directions.",
       "Fry the eggs in sesame oil to your preference.",
       "Serve the eggs over the rice, drizzled with soy sauce and topped with scallions."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.3333,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.0625,
+        "note": "cup, sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions.",
+      "Fry the eggs in sesame oil to your preference.",
+      "Serve the eggs over the rice, drizzled with soy sauce and topped with scallions.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -1052,26 +1115,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 30,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Kimchi",
-        "qty": 50,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Stir-fry rice with kimchi and sesame oil 3-4 min."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Jasmine rice (dry)",
         "qty": 45,
@@ -1088,9 +1131,31 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Heat sesame oil in a small pan over medium-high heat.",
       "Add the rice and kimchi, stir-frying 3-4 minutes until heated through and slightly crisp at the edges."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
+        "qty": 45,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Kimchi",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Sesame oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Heat sesame oil in a small pan over medium-high heat.",
+      "Add the rice and kimchi, stir-frying 3-4 minutes until heated through and slightly crisp at the edges.",
+      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
     ]
   },
   {
@@ -1147,45 +1212,61 @@
     "base_servings": 4,
     "ingredients": [
       {
-        "ingredient": "Rice cakes",
-        "qty": 4,
-        "note": ""
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 45,
+        "note": "ground into flour"
       },
       {
-        "ingredient": "Honey",
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      }
+    ],
+    "steps": [
+      "Mix the batter and steam in a dish for 25-30 minutes until set."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "ground into flour, or use store-bought sweet rice flour"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Pan-fry rice cakes 2-3 min per side.",
-      "Drizzle with honey and cinnamon."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Korean rice cake (tteok)",
-        "qty": 100,
-        "note": "sliced"
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.4,
+        "note": "cup"
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps_detailed": [
-      "Pan-fry the rice cake slices in a lightly oiled skillet over medium heat, 2-3 minutes per side, until softened and lightly golden.",
-      "Toss with honey and cinnamon while still warm."
+      "CHANGE FROM AUTHENTIC: check whether this was previously using a wheat flour rather than glutinous rice flour - Korean tteok rice cakes, sweet or savory, are built on glutinous rice flour specifically, the same starch that gives mochi its chew; a wheat-based cake would have a completely different, more cake-like texture rather than tteok's dense, springy bite. Cinnamon and sugar together (sometimes called sujeonggwa-adjacent flavoring) is a genuine, traditional Korean sweet flavor pairing, not an invented one.",
+      "Whisk the glutinous rice flour, cinnamon, sugar, and milk into a smooth, thick batter.",
+      "Pour into a small greased dish and steam over simmering water 25-30 minutes until firm and set all the way through - tteok is steamed, not baked, which keeps it moist and dense rather than dry and crumbly.",
+      "Cool slightly, slice, and top with the pistachios."
     ]
   },
   {
@@ -1520,28 +1601,29 @@
     "ingredients": [
       {
         "ingredient": "Pork shoulder (raw)",
-        "qty": 120,
+        "qty": 170,
         "note": "sliced"
       },
       {
         "ingredient": "Kimchi",
-        "qty": 150,
+        "qty": 140,
         "note": ""
       },
       {
         "ingredient": "Tofu (firm)",
-        "qty": 100,
+        "qty": 140,
         "note": "cubed"
       },
       {
         "ingredient": "Chicken broth",
-        "qty": 1.5,
+        "qty": 1.4,
         "note": "cup"
       }
     ],
     "steps": [
-      "Sear pork, add kimchi and broth, simmer 15 min.",
-      "Add tofu, simmer 5 more min."
+      "Brown the pork.",
+      "Add the kimchi and broth, and simmer 15 minutes.",
+      "Add the tofu."
     ],
     "ingredients_full": [
       {
@@ -1551,8 +1633,8 @@
       },
       {
         "ingredient": "Kimchi",
-        "qty": 150,
-        "note": ""
+        "qty": 160,
+        "note": "well-fermented/sour kimchi specifically"
       },
       {
         "ingredient": "Tofu (firm)",
@@ -1565,16 +1647,22 @@
         "note": "cup"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
+      },
+      {
+        "ingredient": "Gochugaru",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Sear the pork in a pot over medium-high heat, 3-4 minutes, until browned.",
-      "Add the kimchi and garlic, cooking 2-3 minutes to let the kimchi's flavor deepen.",
-      "Add the broth and simmer 15 minutes.",
-      "Add the tofu and simmer 5 more minutes to warm through without breaking it apart."
+      "Added gochugaru (Korean red pepper flakes) for real color and a cleaner, fruitier heat than what kimchi's own spice alone provides - genuine jjigae leans on both together, not kimchi as the only source of heat. Well-fermented, properly sour kimchi (not fresh, mild kimchi) is specifically what this stew wants; the fermented tang is most of the dish's flavor.",
+      "Brown the pork with the garlic, 5-6 minutes.",
+      "Add the kimchi and gochugaru, and cook 3-4 minutes to let the kimchi's flavor deepen and slightly caramelize at the edges.",
+      "Add the broth and simmer 12-15 minutes to let the flavors meld.",
+      "Add the tofu and warm through gently, 3-4 minutes."
     ]
   }
 ]

@@ -7,62 +7,52 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "diced"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 190,
+        "note": "cubed"
       },
       {
-        "ingredient": "Bell pepper",
+        "ingredient": "Peppers, sweet, red, raw",
         "qty": 60,
         "note": "diced"
       },
       {
-        "ingredient": "Almonds",
-        "qty": 15,
-        "note": "g, roughly chopped"
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 20,
+        "note": ""
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 2,
+        "qty": 1.25,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sriracha",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Stir-fry chicken until browned, 4-5 min.",
-      "Add pepper, ginger, soy sauce, and sriracha, cook 3 min more.",
-      "Toss in almonds and serve over rice."
+      "Stir-fry the chicken until browned.",
+      "Add the pepper and soy sauce.",
+      "Fold in the peanuts at the end.",
+      "Serve over rice."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
-        "note": "cubed"
+        "note": "cubed - traditional kung pao uses dark meat, which stays juicier through the high-heat stir-fry than breast"
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 80,
+        "ingredient": "Peppers, sweet, red, raw",
+        "qty": 70,
         "note": "diced"
       },
       {
-        "ingredient": "Almonds",
-        "qty": 0.5,
-        "note": "oz"
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 25,
+        "note": ""
       },
       {
         "ingredient": "Soy sauce",
@@ -70,19 +60,14 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sriracha",
-        "qty": 1,
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
         "note": "minced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
       },
       {
         "ingredient": "Rice vinegar",
@@ -91,11 +76,11 @@
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
+        "qty": 1,
+        "note": "tsp"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -103,15 +88,24 @@
         "ingredient": "Scallions",
         "qty": 0.0625,
         "note": "cup, sliced"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Whisk the soy sauce, sriracha, rice vinegar, and cornstarch together for the sauce.",
-      "Heat a wok or skillet over high heat. Stir-fry the chicken 4-5 minutes until browned and mostly cooked through.",
-      "Add the bell pepper, ginger, and garlic, stir-frying 2 minutes until the pepper is tender-crisp.",
-      "Pour in the sauce and toss until it thickens and coats everything, about 1-2 minutes.",
-      "Stir in the almonds at the end so they stay crunchy. Top with scallions and serve over rice."
+      "CHANGE FROM AUTHENTIC: real kung pao chicken (gong bao ji ding) depends on two ingredients this database doesn't carry - dried whole Sichuan red chilies (fried briefly in the oil to perfume it before anything else goes in) and Sichuan peppercorns (which produce m\u00e1l\u00e0, the tingling-numbing sensation that's the entire signature of Sichuan cuisine and of this dish specifically). Chili powder stands in for the chilies here for heat, but there is no real substitute for Sichuan peppercorn's numbing effect - without it, this is a competent stir-fry, but it will not taste like real kung pao chicken to anyone who has had the genuine dish.",
+      "Marinate the chicken briefly in half the soy sauce and the cornstarch.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Heat oil in a wok over high heat until nearly smoking. Add the chili powder and let it bloom in the oil for 10-15 seconds - this step, blooming the chili in hot oil first, is what gong bao is actually built on, not a garnish added at the end.",
+      "Add the chicken and stir-fry 3-4 minutes until just cooked through and lightly charred at the edges - real wok cooking wants visible char, not a uniformly pale sear.",
+      "Add the ginger and garlic, stir-frying 20-30 seconds until fragrant.",
+      "Add the pepper and stir-fry 1-2 minutes until just tender-crisp.",
+      "Add the remaining soy sauce and the vinegar, tossing to coat and reduce slightly, 30-45 seconds.",
+      "Off the heat, fold in the roasted peanuts - real peanuts, not almonds, are what defines this dish; peanuts are named right in most versions of its Chinese name.",
+      "Top with the scallions and serve over the rice."
     ]
   },
   {
@@ -123,46 +117,36 @@
     "ingredients": [
       {
         "ingredient": "Flank/sirloin steak",
-        "qty": 150,
-        "note": "thinly sliced"
+        "qty": 190,
+        "note": "sliced thin"
       },
       {
         "ingredient": "Broccoli florets",
-        "qty": 130,
+        "qty": 160,
         "note": ""
       },
       {
         "ingredient": "Oyster sauce",
-        "qty": 2,
+        "qty": 1.75,
         "note": "tbsp"
       },
       {
-        "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Brown rice (dry)",
-        "qty": 55,
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 50,
         "note": ""
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Toss beef with cornstarch, sear in a hot pan 2 min.",
-      "Add broccoli, oyster sauce, and soy sauce, stir-fry 4-5 min.",
+      "Sear the beef.",
+      "Stir-fry the broccoli.",
+      "Toss together with the oyster sauce.",
       "Serve over rice."
     ],
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "sliced thin against the grain"
+        "note": "sliced very thin against the grain"
       },
       {
         "ingredient": "Broccoli florets",
@@ -181,32 +165,34 @@
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "tsp"
       },
       {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
+        "ingredient": "Garlic clove",
+        "qty": 1,
         "note": "minced"
       },
       {
-        "ingredient": "Brown rice (dry)",
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
         "qty": 55,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Toss the beef with the cornstarch, coating evenly \u2014 this thin cornstarch coating (a technique called velveting) keeps the beef tender rather than tough.",
-      "Whisk the oyster sauce and soy sauce with 3 tablespoons water.",
-      "Heat a wok over high heat until nearly smoking. Sear the beef in a single layer 30-45 seconds per side, then remove.",
-      "Add the broccoli, garlic, and ginger to the pan, stir-frying 3-4 minutes until the broccoli is bright green and tender-crisp.",
-      "Return the beef to the pan, pour in the sauce, and toss 1-2 minutes until glossy and slightly thickened."
+      "CHANGE FROM AUTHENTIC: swapped brown rice for jasmine, and Shaoxing wine is genuinely missing from this database. Brown rice isn't traditional anywhere in Chinese cooking of this style - white rice, usually a long-grain jasmine variety, is what actually accompanies a dish like this. Shaoxing rice wine, used in the marinade for real depth and to cut the meat's raw edge, isn't a distinct item here; there's no honest one-ingredient substitute for it, so it's simply left out rather than faked with something that tastes wrong.",
+      "Slice the beef as thin as you can manage, against the grain - thickness is the main thing separating tender beef and broccoli from chewy beef and broccoli.",
+      "Marinate the beef briefly in the cornstarch and half the soy sauce.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Heat a wok until nearly smoking. Sear the beef in a single layer, undisturbed, 60-90 seconds per side, until well browned but still pink in the center; remove.",
+      "Add the garlic and ginger to the same wok, 15-20 seconds, then the broccoli, stir-frying 2-3 minutes until bright green and just tender-crisp.",
+      "Return the beef to the wok with the oyster sauce and remaining soy sauce, tossing 30-45 seconds until glossy and everything is coated.",
+      "Serve over the rice."
     ]
   },
   {
@@ -220,40 +206,29 @@
     "ingredients": [
       {
         "ingredient": "Frozen shrimp",
-        "qty": 150,
-        "note": "raw, peeled"
+        "qty": 190,
+        "note": "peeled"
       },
       {
-        "ingredient": "Rice noodles (dry)",
-        "qty": 65,
+        "ingredient": "Egg noodles (dry)",
+        "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Bok choy",
-        "qty": 100,
+        "qty": 90,
         "note": "chopped"
       },
       {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "julienned"
-      },
-      {
         "ingredient": "Soy sauce",
-        "qty": 2,
+        "qty": 1.25,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
       }
     ],
     "steps": [
-      "Cook noodles per package directions.",
-      "Stir-fry shrimp 2-3 min per side, set aside.",
-      "Stir-fry bok choy and carrot 3 min, add noodles, soy sauce, and sesame oil.",
-      "Toss shrimp back in and serve."
+      "Boil the noodles.",
+      "Stir-fry the shrimp and vegetables.",
+      "Toss together with the soy sauce."
     ],
     "ingredients_full": [
       {
@@ -262,7 +237,7 @@
         "note": "peeled"
       },
       {
-        "ingredient": "Rice noodles (dry)",
+        "ingredient": "Egg noodles (dry)",
         "qty": 85,
         "note": ""
       },
@@ -287,23 +262,23 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Soak the noodles in warm water 20 minutes until pliable, then drain.",
-      "Whisk the soy sauce and oyster sauce together.",
-      "Heat sesame oil in a wok over high heat. Cook the shrimp 1-2 minutes per side until pink, then remove.",
-      "Add the garlic, carrot, and bok choy, stir-frying 2-3 minutes until the bok choy wilts.",
-      "Add the noodles and sauce, tossing until evenly coated and heated through, about 2 minutes.",
-      "Return the shrimp to the pan and toss once more to combine."
+      "CHANGE FROM AUTHENTIC: swapped rice noodles for egg noodles. This was a genuine ingredient error worth naming directly - lo mein means 'tossed noodles' and is specifically a wheat-and-egg noodle dish; rice noodles are what you'd use for something like pad thai or pho, and they behave completely differently in the pan (rice noodles turn gluey when stir-fried this way, where egg noodles hold up and stay separate). This isn't a US-availability compromise, it was simply the wrong noodle.",
+      "Boil the egg noodles until just tender, 3-4 minutes, then drain and toss with a little oil to prevent sticking.",
+      "Heat a wok over high heat. Stir-fry the shrimp 2-3 minutes until just pink; remove.",
+      "Add the garlic, carrot, and bok choy, stir-frying 2 minutes until the vegetables are tender-crisp.",
+      "Add the noodles, soy sauce, and oyster sauce, tossing everything together over high heat 1-2 minutes until the noodles are coated and starting to catch slightly at the edges.",
+      "Return the shrimp, toss once more, and finish with the sesame oil off the heat."
     ]
   },
   {
@@ -317,39 +292,35 @@
     "ingredients": [
       {
         "ingredient": "Tofu (firm)",
-        "qty": 200,
+        "qty": 220,
         "note": "cubed"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
-        "note": "minced"
+        "ingredient": "Ground pork (raw)",
+        "qty": 90,
+        "note": ""
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 2,
+        "qty": 1,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sriracha",
-        "qty": 1,
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Saute garlic and ginger 30 sec, add tofu and cook 4-5 min.",
-      "Stir in soy sauce and sriracha, simmer 3 min. Serve over rice."
+      "Brown the pork.",
+      "Add the soy sauce, chili powder, and water.",
+      "Simmer the tofu in gently.",
+      "Serve over rice."
     ],
     "ingredients_full": [
       {
@@ -363,32 +334,37 @@
         "note": ""
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Soy sauce",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Sriracha",
-        "qty": 1.5,
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Miso paste",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Spices, chili powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -399,13 +375,15 @@
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat a wok over medium-high heat. Brown the pork, breaking it apart, 4-5 minutes.",
-      "Add the garlic and ginger, cooking 30 seconds until fragrant.",
-      "Add the soy sauce, sriracha, and 1/2 cup water, bringing to a simmer.",
-      "Gently fold in the tofu cubes, being careful not to break them up too much, and simmer 3-4 minutes.",
-      "Whisk the cornstarch with a tablespoon of water and stir in to thicken the sauce, about 1 minute.",
-      "Top with scallions and serve over rice."
+      "CHANGE FROM AUTHENTIC: real mapo tofu is built on doubanjiang, a fermented broad bean and chili paste, plus a smaller amount of fermented black beans, and finished with Sichuan peppercorn for m\u00e1l\u00e0 numbness - none of these three are distinct items in this database, and there is no substitute that actually replicates them. Miso paste (a Japanese fermented soybean product, not Chinese, used here only because it's the closest available fermented bean paste for savory depth) plus chili powder for heat gets the dish into the right general territory, but it will taste noticeably different from real doubanjiang-based mapo tofu - flatter, less complex, and without any numbing sensation at all. This is the most significant compromise anywhere in this file.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Heat oil in a wok over medium-high heat. Brown the pork, breaking it apart into small crumbles, 4-5 minutes, until the fat renders and the edges crisp slightly.",
+      "Add the garlic and ginger, cooking 20-30 seconds until fragrant.",
+      "Stir in the miso paste and chili powder, cooking 30 seconds to bloom the flavors into the oil.",
+      "Add the soy sauce and 3/4 cup water, bringing to a simmer.",
+      "Gently slide in the tofu cubes and simmer 4-5 minutes, spooning the sauce over rather than stirring hard, so the cubes stay whole.",
+      "Whisk the cornstarch with a tablespoon of water and stir in to thicken the sauce, 1 minute.",
+      "Top with the scallions and serve over the rice."
     ]
   },
   {
@@ -418,51 +396,41 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 150,
-        "note": "diced, cooked"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 160,
+        "note": "diced"
       },
       {
-        "ingredient": "Brown rice (dry)",
-        "qty": 60,
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 65,
         "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Frozen peas",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "diced"
+        "qty": 1.5,
+        "note": "beaten"
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 2,
+        "qty": 1.25,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Scramble egg in a hot wok, set aside.",
-      "Stir-fry rice, peas, and carrot until hot.",
-      "Add chicken, egg, and soy sauce, toss to combine."
+      "Cook the chicken and scramble the eggs.",
+      "Stir-fry the cold rice.",
+      "Toss everything together with the soy sauce."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 170,
-        "note": "diced, cooked"
+        "note": "diced"
       },
       {
-        "ingredient": "Brown rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 75,
-        "note": "cooked and cooled (day-old is best)"
+        "note": "cooked and cooled, ideally a day ahead"
       },
       {
         "ingredient": "Eggs (large)",
@@ -485,7 +453,7 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
@@ -496,11 +464,13 @@
       }
     ],
     "steps_detailed": [
-      "Use rice that's been cooked and refrigerated overnight if possible \u2014 the drier grains fry up separate instead of clumping into mush.",
-      "Heat sesame oil in a wok over high heat. Push the rice to one side, pour the eggs into the cleared space, and scramble quickly, 30-45 seconds, then mix through the rice.",
-      "Add the carrot and peas, stir-frying 2 minutes.",
-      "Add the chicken and soy sauce, tossing everything together and cooking 2-3 more minutes until heated through.",
-      "Top with scallions."
+      "CHANGE FROM AUTHENTIC: swapped brown rice for jasmine. Fried rice in Chinese cooking is built on white rice specifically, cooked and cooled at least several hours or overnight - the cold, slightly dried grains fry into separate, distinct grains, where fresh warm rice (of any variety) turns to mush in the wok. This is genuinely the single most important technique point for fried rice generally, more than any specific seasoning.",
+      "Cook the chicken through in a hot wok, 5-6 minutes; remove.",
+      "Scramble the eggs quickly in the same wok, breaking into small curds; remove.",
+      "Add a little more oil, then the cold rice, breaking up any clumps with the back of the spatula, and stir-fry over high heat 4-5 minutes, letting it sit undisturbed for 20-30 seconds at a time so it actually fries rather than just steams.",
+      "Add the carrot and peas, stir-frying 1-2 minutes.",
+      "Return the chicken and egg, add the soy sauce, and toss everything together 1 minute.",
+      "Finish with the sesame oil off the heat and top with the scallions."
     ]
   },
   {
@@ -511,52 +481,51 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 170,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 190,
         "note": "cubed"
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
         "qty": 2,
         "note": "tbsp"
       },
       {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Soy sauce",
-        "qty": 1.5,
+        "qty": 1.25,
         "note": "tbsp"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 50,
         "note": ""
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Toss chicken with cornstarch, pan-sear until golden and cooked through, 6-7 min.",
-      "Whisk honey, soy sauce, and lime juice; add to pan and toss until glossy.",
+      "Dredge and pan-fry the chicken.",
+      "Toss in the honey-soy glaze.",
       "Serve over rice."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
         "note": "cubed"
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 2,
+        "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten, for the batter"
       },
       {
         "ingredient": "Honey",
@@ -574,28 +543,35 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Orange",
+        "ingredient": "Oranges, raw, all commercial varieties",
         "qty": 0.5,
         "note": "zested and juiced"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Jasmine rice (dry)",
         "qty": 55,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Toss the chicken in half the cornstarch to lightly coat.",
-      "Heat a skillet over medium-high heat and cook the chicken 5-6 minutes, turning occasionally, until browned and cooked through. Remove.",
-      "In the same pan, whisk together the honey, soy sauce, lime juice, orange juice and zest, garlic, and remaining cornstarch.",
-      "Simmer 2-3 minutes, whisking, until thickened and glossy.",
-      "Return the chicken to the pan and toss to coat. Serve over rice."
+      "Orange chicken is genuinely a Chinese-American invention, not a dish from mainland China - it doesn't have a traditional 'authentic' version the way kung pao or mapo tofu do, so this recipe aims at doing the actual Chinese-American restaurant version properly rather than approximating a dish that doesn't exist back in China.",
+      "CHANGE FROM AUTHENTIC (to this dish's own real form): the previous version pan-seared the chicken; real orange chicken is batter-fried until genuinely crisp, which is what actually holds up under the sticky glaze instead of turning soggy immediately.",
+      "Dredge the chicken in the cornstarch, dip in the beaten egg, then dredge in cornstarch again for a thicker, craggier coating.",
+      "Deep-fry or shallow-fry in the oil at 350F, in batches, 4-5 minutes, until deeply golden and crisp; drain on a rack.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Whisk the honey, soy sauce, lime juice, orange zest and juice, and garlic together in a clean pan and simmer 3-4 minutes until reduced and glossy.",
+      "Toss the fried chicken in the glaze just before serving, working quickly so the coating stays crisp rather than soaking through.",
+      "Serve over the rice."
     ]
   },
   {
@@ -608,53 +584,42 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 140,
-        "note": "cooked, shredded"
+        "note": "cooked, sliced"
       },
       {
-        "ingredient": "English cucumber",
-        "qty": 80,
-        "note": "sliced"
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 90,
+        "note": "chunked"
       },
       {
-        "ingredient": "Brown rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 40,
-        "note": "cooked and cooled"
+        "note": "cooked"
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tbsp, keep separate"
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 0.5,
-        "note": "tsp, keep separate"
-      },
-      {
-        "ingredient": "Sesame seeds",
-        "qty": 0.3333,
-        "note": ""
+        "qty": 0.75,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Layer dressing at the bottom of a jar, then rice, cucumber, and chicken.",
-      "Top with sesame seeds. Shake before eating."
+      "Layer the rice, chicken, and cucumber in a jar with the soy sauce."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 150,
         "note": "cooked, sliced"
       },
       {
-        "ingredient": "English cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 100,
-        "note": "sliced"
+        "note": "smashed and cut into chunks"
       },
       {
-        "ingredient": "Brown rice (dry)",
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": "cooked and cooled"
       },
@@ -664,24 +629,30 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Sesame seeds",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the soy sauce and sesame oil together.",
-      "Layer the rice, cucumber, and chicken in a jar, drizzling with the dressing.",
-      "Top with sesame seeds before sealing."
+      "CHANGE FROM AUTHENTIC: swapped brown rice for jasmine, matching how Chinese cooking actually uses white rice.",
+      "Smash the cucumber with the flat of a knife rather than slicing it neatly - smashing breaks the flesh open so it takes on the dressing far better than a clean-cut slice would, which is the real technique behind Chinese smashed cucumber salads generally.",
+      "Toss the cucumber with the soy sauce, sesame oil, garlic, and vinegar.",
+      "Layer the rice, chicken, and dressed cucumber in a jar."
     ]
   },
   {
-    "name": "Chinese Broccoli Beef",
+    "name": "Chinese Beef with Broccoli (Sichuan-Style)",
     "cuisine": "chinese",
     "meal_type": "dinner",
     "course": "complete",
@@ -690,23 +661,18 @@
     "ingredients": [
       {
         "ingredient": "Flank/sirloin steak",
-        "qty": 150,
+        "qty": 190,
         "note": "sliced thin"
       },
       {
         "ingredient": "Broccoli florets",
-        "qty": 120,
+        "qty": 160,
         "note": ""
       },
       {
         "ingredient": "Oyster sauce",
-        "qty": 1.5,
+        "qty": 1.25,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
       },
       {
         "ingredient": "Jasmine rice (dry)",
@@ -715,15 +681,16 @@
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Sear beef, remove.",
-      "Stir-fry broccoli and garlic, return beef, add oyster sauce, toss and serve over rice."
+      "Sear the beef.",
+      "Stir-fry the broccoli.",
+      "Toss together with the oyster sauce.",
+      "Serve over rice."
     ],
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "sliced thin"
+        "note": "sliced very thin against the grain"
       },
       {
         "ingredient": "Broccoli florets",
@@ -732,18 +699,28 @@
       },
       {
         "ingredient": "Oyster sauce",
-        "qty": 2,
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Soy sauce",
         "qty": 1,
-        "note": "tbsp, minced"
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Jasmine rice (dry)",
@@ -752,11 +729,14 @@
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Toss the beef with cornstarch to lightly coat.",
-      "Heat a wok over high heat and sear the beef in a single layer, 30-45 seconds per side, then remove.",
-      "Add the garlic and broccoli, stir-frying 3-4 minutes until tender-crisp.",
-      "Return the beef to the pan, add the oyster sauce and a splash of water, and toss 1-2 minutes until glossy."
+      "This is functionally the same dish structure as the plain beef and broccoli above - real Chinese home cooking has many regional variations on stir-fried beef and broccoli, and this version leans slightly spicier, closer to a Hunan or Sichuan-inflected style, to genuinely differentiate it rather than duplicate the other recipe with a different name.",
+      "CHANGE FROM AUTHENTIC: dried whole chilies, which would normally be fried in the oil first for real depth, aren't a distinct item here - chili powder bloomed in the oil gets some of the same heat without the same complexity.",
+      "Marinate the beef briefly in the cornstarch and soy sauce.",
+      "Heat a wok until nearly smoking. Bloom the chili powder and garlic in the oil for 15 seconds.",
+      "Sear the beef in a single layer, 60-90 seconds per side; remove.",
+      "Stir-fry the broccoli 2-3 minutes until tender-crisp.",
+      "Return the beef with the oyster sauce, tossing 30-45 seconds until glossy.",
+      "Cook the jasmine rice separately and serve the beef and broccoli over it."
     ]
   },
   {
@@ -769,27 +749,22 @@
     "ingredients": [
       {
         "ingredient": "Pork tenderloin",
-        "qty": 170,
+        "qty": 190,
         "note": "cubed"
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 60,
+        "ingredient": "Peppers, sweet, green, raw",
+        "qty": 55,
         "note": "diced"
       },
       {
         "ingredient": "Fresh pineapple",
-        "qty": 80,
-        "note": "chunks"
+        "qty": 90,
+        "note": "cubed"
       },
       {
         "ingredient": "Ketchup",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Rice vinegar",
-        "qty": 1,
+        "qty": 1.75,
         "note": "tbsp"
       },
       {
@@ -799,9 +774,8 @@
       }
     ],
     "steps": [
-      "Cook rice per package directions.",
-      "Sear pork until cooked through.",
-      "Add pepper and pineapple, stir in ketchup and vinegar, simmer 5 min, serve over rice."
+      "Simmer the pork with the pepper, pineapple, ketchup, and vinegar.",
+      "Serve over rice."
     ],
     "ingredients_full": [
       {
@@ -810,8 +784,18 @@
         "note": "cubed"
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 80,
+        "ingredient": "Cornstarch",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "Peppers, sweet, green, raw",
+        "qty": 60,
         "note": "diced"
       },
       {
@@ -826,18 +810,23 @@
       },
       {
         "ingredient": "Rice vinegar",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Brown sugar",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
       },
       {
         "ingredient": "Jasmine rice (dry)",
@@ -846,11 +835,14 @@
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Whisk the ketchup, rice vinegar, brown sugar, and cornstarch together with 2 tablespoons water.",
-      "Heat a skillet over medium-high heat and brown the pork, 5-6 minutes, until cooked through. Remove.",
-      "Add the bell pepper to the pan and cook 3 minutes, then add the pineapple and cook 1-2 more minutes.",
-      "Return the pork to the pan, pour in the sauce, and toss until thickened and glossy, about 2 minutes."
+      "CHANGE FROM AUTHENTIC: the pork here wasn't fried, just simmered in sauce - real sweet and sour pork (gu lao rou in its Cantonese-restaurant form) depends entirely on a crisp, battered, deep-fried exterior standing up against a wet sauce; without frying it first, this is closer to a braise than the actual dish.",
+      "Dredge the pork in cornstarch, dip in egg, then dredge in cornstarch again for a thick, craggy coating.",
+      "Fry in the oil at 350F, in batches, 4-5 minutes, until deeply golden and cooked through; drain on a rack.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Whisk the ketchup, vinegar, brown sugar, and soy sauce together in a separate pan and simmer 2-3 minutes until slightly thickened - real Cantonese versions often lean on tomato paste plus a lot more vinegar than this for a sharper tang than the softer, sweeter American-restaurant version; this keeps a genuinely tart edge rather than pure sweetness.",
+      "Add the pepper and pineapple to the sauce and simmer 2 minutes to soften slightly.",
+      "Toss the fried pork through the sauce just before serving so the coating stays as crisp as possible.",
+      "Serve over the rice."
     ]
   },
   {
@@ -864,38 +856,34 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 120,
-        "note": "cooked, diced"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 140,
+        "note": "diced"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
+        "qty": 1.5,
+        "note": "beaten"
       },
       {
         "ingredient": "Jasmine rice (dry)",
-        "qty": 50,
+        "qty": 60,
         "note": "cooked and cooled"
       },
       {
-        "ingredient": "Frozen peas",
-        "qty": 40,
-        "note": ""
-      },
-      {
         "ingredient": "Soy sauce",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Scramble egg, set aside.",
-      "Stir-fry cooled rice and peas, add chicken and egg back in, toss with soy sauce."
+      "Scramble the eggs and cook the chicken.",
+      "Stir-fry the cold rice with both folded through.",
+      "Finish with the soy sauce."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 150,
         "note": "diced, cooked"
       },
@@ -907,7 +895,7 @@
       {
         "ingredient": "Jasmine rice (dry)",
         "qty": 70,
-        "note": "cooked and cooled"
+        "note": "cooked and cooled, ideally a day ahead"
       },
       {
         "ingredient": "Frozen peas",
@@ -920,15 +908,18 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Heat sesame oil in a wok over high heat. Scramble the eggs quickly in the pan, 30-45 seconds, then set aside.",
-      "Add the rice and peas, stir-frying 2-3 minutes to heat through and separate the grains.",
-      "Add the chicken, soy sauce, and scrambled egg back in, tossing everything together for 2 more minutes."
+      "This is the same real fried-rice technique as the version above - cold, day-old rice fried hard and fast in a very hot wok - applied with chicken and egg together rather than as two separate recipes with the same base.",
+      "Scramble the eggs quickly, breaking into small curds; remove.",
+      "Cook the chicken through in the same wok, 5-6 minutes; remove.",
+      "Stir-fry the cold rice over high heat, breaking up clumps, letting it sit 20-30 seconds at a time so it actually fries.",
+      "Add the peas, then return the chicken and egg, add the soy sauce, and toss together 1 minute.",
+      "Finish with the sesame oil off the heat."
     ]
   },
   {
@@ -943,33 +934,29 @@
     "ingredients": [
       {
         "ingredient": "Frozen shrimp",
-        "qty": 140,
-        "note": "cooked, peeled"
+        "qty": 190,
+        "note": "peeled"
       },
       {
-        "ingredient": "Rice noodles (dry)",
+        "ingredient": "Egg noodles (dry)",
         "qty": 75,
-        "note": "cooked"
+        "note": "boiled"
       },
       {
         "ingredient": "Bean sprouts",
-        "qty": 50,
+        "qty": 70,
         "note": ""
       },
       {
-        "ingredient": "Carrot",
-        "qty": 40,
-        "note": "julienned"
-      },
-      {
         "ingredient": "Soy sauce",
-        "qty": 1.5,
+        "qty": 1.25,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Toss cooked noodles with shrimp, bean sprouts, and carrot.",
-      "Add soy sauce and toss to combine."
+      "Pan-fry the drained noodles until crisp in spots.",
+      "Add the shrimp and vegetables.",
+      "Toss with the soy sauce."
     ],
     "ingredients_full": [
       {
@@ -978,9 +965,9 @@
         "note": "peeled"
       },
       {
-        "ingredient": "Rice noodles (dry)",
+        "ingredient": "Egg noodles (dry)",
         "qty": 85,
-        "note": ""
+        "note": "boiled and drained well"
       },
       {
         "ingredient": "Bean sprouts",
@@ -998,21 +985,27 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Soak the noodles in warm water 20 minutes, then drain.",
-      "Heat sesame oil in a wok over high heat. Cook the shrimp 1-2 minutes per side until pink, then remove.",
-      "Add the garlic and carrot, stir-frying 2 minutes, then add the noodles and soy sauce.",
-      "Toss 2-3 minutes until heated through, then fold in the shrimp and bean sprouts, cooking 1 more minute so the sprouts stay crisp."
+      "CHANGE FROM AUTHENTIC: swapped rice noodles for egg noodles, same reasoning as the lo mein above - chow mein is a wheat noodle dish, and the technique here is actually quite different from lo mein even though both use the same noodle: chow mein noodles get pan-fried until they develop crisp, browned spots, where lo mein noodles stay soft and are just tossed through the sauce.",
+      "Boil the noodles until just tender, then drain very well and pat dry - excess water is the main thing that stops noodles from crisping in the next step.",
+      "Heat the oil in a wide pan or wok until shimmering. Spread the noodles in an even layer and let them sit undisturbed 2-3 minutes to develop a crisp, browned bottom before tossing.",
+      "Push the noodles aside, stir-fry the shrimp 2 minutes until just pink, then the garlic, carrot, and bean sprouts 1-2 minutes.",
+      "Toss everything together with the soy sauce, finishing with the sesame oil off the heat."
     ]
   },
   {
@@ -1027,49 +1020,44 @@
     "ingredients": [
       {
         "ingredient": "Tofu (firm)",
-        "qty": 120,
+        "qty": 160,
         "note": "crumbled"
       },
       {
         "ingredient": "Green cabbage",
-        "qty": 80,
-        "note": "shredded"
+        "qty": 130,
+        "note": "chopped"
       },
       {
         "ingredient": "Carrot",
-        "qty": 40,
-        "note": "shredded"
+        "qty": 50,
+        "note": "grated"
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
       }
     ],
     "steps": [
-      "Pan-fry tofu, cabbage, and carrot 6-8 min until softened.",
-      "Toss with soy sauce and sesame oil."
+      "Mix the tofu, cabbage, and carrot with the soy sauce.",
+      "Serve as a simple stir-fried bowl, without wrapping into dumplings."
     ],
     "ingredients_full": [
       {
         "ingredient": "Tofu (firm)",
-        "qty": 200,
-        "note": "cubed"
+        "qty": 180,
+        "note": "crumbled"
       },
       {
         "ingredient": "Green cabbage",
         "qty": 150,
-        "note": "shredded"
+        "note": "finely chopped"
       },
       {
         "ingredient": "Carrot",
         "qty": 60,
-        "note": "julienned"
+        "note": "grated"
       },
       {
         "ingredient": "Soy sauce",
@@ -1077,26 +1065,34 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
-        "note": "minced"
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": "for wrappers"
       }
     ],
     "steps_detailed": [
-      "Heat sesame oil in a skillet over medium-high heat. Sear the tofu cubes 3-4 minutes per side until golden.",
-      "Add the garlic and ginger, cooking 30 seconds, then add the cabbage and carrot.",
-      "Stir-fry 4-5 minutes until the cabbage wilts and softens.",
-      "Add the soy sauce, tossing to combine, and cook 1 more minute."
+      "CHANGE FROM AUTHENTIC: turned this into an actual dumpling recipe rather than a deconstructed 'bowl' version of the filling - the previous version skipped the dumpling entirely, which is a significant simplification for a dish that's supposed to be dumplings.",
+      "Squeeze as much water as possible out of the chopped cabbage - excess moisture is the main reason homemade dumpling filling turns watery and bursts through the wrapper.",
+      "Mix the crumbled tofu, cabbage, carrot, garlic, ginger, soy sauce, and sesame oil into a cohesive filling.",
+      "Make a simple dough from the flour and hot water, knead until smooth, rest 20 minutes, then roll into small thin rounds.",
+      "Place a spoonful of filling in the center of each round, fold in half, and pleat the edge to seal.",
+      "Steam over simmering water 8-10 minutes, or pan-fry then steam (potsticker-style: sear the bottoms first, then add water and cover to steam through) for a crisp bottom.",
+      "The dough and folding technique are what actually make this a dumpling dish - filling alone in a bowl is closer to a stir-fry than dumplings."
     ]
   },
   {
@@ -1111,40 +1107,40 @@
     "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Scallions",
-        "qty": 0.0078,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Mix flour with water to a thin batter, stir in scallions.",
-      "Cook in a lightly oiled pan 2-3 min per side.",
-      "Top with a fried egg."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
         "qty": 50,
         "note": ""
       },
       {
         "ingredient": "Scallions",
-        "qty": 0.125,
+        "qty": 0.15,
         "note": "cup, sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Mix the flour, scallions, and a little water into a batter.",
+      "Pan-fry until golden.",
+      "Serve with the eggs."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.2,
+        "note": "cup, finely sliced"
       },
       {
         "ingredient": "Eggs (large)",
@@ -1152,22 +1148,30 @@
         "note": ""
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 1.5,
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 2,
         "note": "tsp"
       },
       {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      },
+      {
         "ingredient": "Soy sauce",
-        "qty": 0.3333,
-        "note": "for serving"
+        "qty": 0.5,
+        "note": "tbsp, for serving"
       }
     ],
     "steps_detailed": [
-      "Whisk the flour with 1/3 cup warm water and a pinch of salt into a thin, pourable batter. Stir in the scallions.",
-      "Heat half the sesame oil in a nonstick skillet over medium heat. Pour in the batter, swirling to coat the pan thinly.",
-      "Cook 2-3 minutes until the bottom is golden and the edges lift easily, then flip and cook 1-2 more minutes.",
-      "Push the pancake to the side, add remaining oil, and scramble the eggs in the cleared space.",
-      "Fold the pancake over the eggs or serve alongside. Serve with soy sauce for dipping."
+      "CHANGE FROM AUTHENTIC: the previous version mixed everything into one batter; a real scallion pancake (cong you bing) is a laminated dough - rolled thin, brushed with oil and scattered with scallion, then rolled up like a cinnamon roll and coiled before rolling flat again - which is what actually builds its distinctive flaky, layered interior. Mixing scallion into a single batter gives you a scallion-flecked pancake, not the real thing.",
+      "Make a simple dough from the flour and warm water, knead until smooth, and rest 20 minutes.",
+      "Roll into a thin rectangle, brush generously with the sesame oil, and scatter the scallions evenly across the surface with a pinch of salt.",
+      "Roll the dough up tightly into a log, then coil it into a spiral like a cinnamon bun, tucking the end underneath, and rest 10 minutes.",
+      "Roll the coiled spiral back out flat into a round, keeping the layers intact.",
+      "Pan-fry in the vegetable oil over medium heat, 3-4 minutes per side, until deeply golden and visibly flaky at the edges.",
+      "Fry the eggs separately and serve alongside with the soy sauce for dipping.",
+      "The lamination is what gives real cong you bing its layers - without rolling and coiling the dough, you get a flatbread with scallion in it, which is a different, plainer thing."
     ]
   },
   {
@@ -1182,22 +1186,22 @@
     "ingredients": [
       {
         "ingredient": "Broccoli florets",
-        "qty": 100,
+        "qty": 140,
         "note": "steamed"
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 0.5,
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Sesame seeds",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Soy sauce",
+        "qty": 0.4,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Toss steamed broccoli with sesame oil and sesame seeds."
+      "Toss the steamed broccoli with the sesame oil and soy sauce."
     ],
     "ingredients_full": [
       {
@@ -1206,25 +1210,23 @@
         "note": "steamed"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Sesame seeds",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Soy sauce",
+        "qty": 0.5,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Soy sauce",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Steam the broccoli 4-5 minutes until bright green and just tender.",
-      "Toss with sesame oil and soy sauce while still warm so it absorbs the flavor.",
-      "Top with sesame seeds."
+      "This one was already close to right - a real toasted sesame oil and a little garlic is genuinely how this kind of simple blanched-vegetable side is dressed in Chinese home cooking. Added garlic for real depth."
     ]
   },
   {
@@ -1238,30 +1240,30 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Garbanzo beans",
-        "qty": 150,
-        "note": "drained, patted dry"
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 160,
+        "note": "patted dry"
       },
       {
         "ingredient": "Five spice powder",
-        "qty": 0.5,
+        "qty": 0.875,
         "note": "tsp"
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Toss chickpeas with five spice and sesame oil.",
-      "Roast at 400F for 20-25 min until crisp."
+      "Toss the dried chickpeas with the oil and five spice.",
+      "Roast at 400F until crisp, 25-30 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Garbanzo beans",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 180,
-        "note": "drained and patted dry"
+        "note": "patted very dry"
       },
       {
         "ingredient": "Five spice powder",
@@ -1269,19 +1271,22 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 3.0,
-        "note": ""
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 400F. Pat the chickpeas very dry \u2014 moisture is the enemy of crispness here.",
-      "Toss with sesame oil and five spice powder.",
-      "Roast 20-25 minutes, shaking the pan halfway, until crunchy and deeply golden."
+      "This one was already using real five spice powder correctly - genuinely five-spice is the right, specific ingredient for this style of roasted snack. Patting the chickpeas very dry before roasting is the main technique point that actually determines whether they crisp or steam."
     ]
   },
   {
-    "name": "Almond Cookies",
+    "name": "Chinese Almond Cookies",
     "cuisine": "chinese",
     "meal_type": "dessert",
     "course": "complete",
@@ -1292,34 +1297,29 @@
     "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 1,
-        "note": "cup"
+        "qty": 100,
+        "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 4,
-        "note": "tbsp, softened"
+        "ingredient": "Armour Lard",
+        "qty": 40,
+        "note": "softened"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 5.28,
+        "qty": 35,
         "note": ""
       },
       {
-        "ingredient": "Almonds",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Nuts, almonds",
+        "qty": 12,
+        "note": "chopped"
       }
     ],
     "steps": [
-      "Cream butter and sugar, mix in egg.",
-      "Fold in flour and almonds, form into small cookies.",
-      "Bake at 350F for 12-14 min."
+      "Cream the lard and sugar.",
+      "Work in the flour and almonds.",
+      "Shape, top with an almond, and bake at 325F for 16-18 minutes."
     ],
     "ingredients_full": [
       {
@@ -1328,19 +1328,19 @@
         "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 4.0,
+        "ingredient": "Armour Lard",
+        "qty": 45,
         "note": "softened"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 3.2,
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Almonds",
-        "qty": 0.5,
-        "note": "oz, chopped, plus whole almonds for topping"
+        "ingredient": "Nuts, almonds",
+        "qty": 15,
+        "note": "chopped, plus whole almonds for topping"
       },
       {
         "ingredient": "Eggs (large)",
@@ -1349,12 +1349,12 @@
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 325F.",
-      "Cream the butter and sugar together until light and fluffy.",
-      "Mix in the egg, then gradually fold in the flour and chopped almonds until a soft dough forms.",
-      "Roll into small balls and flatten slightly on a lined baking sheet, pressing a whole almond into the center of each.",
-      "Brush with beaten egg for a shiny finish.",
-      "Bake 15-18 minutes until the edges are lightly golden."
+      "CHANGE FROM AUTHENTIC: the previous version used butter; real Chinese almond cookies (hup toh soh, in their Cantonese bakery form) are traditionally made with lard specifically, which gives them their characteristic short, sandy crumble - butter produces a noticeably different, denser texture. Lard is a real, available ingredient here, so this isn't a compromise, just a correction.",
+      "Cream the lard and sugar together until light.",
+      "Work in the flour and chopped almonds until it just comes together into a soft dough - don't overwork it, the shortness of the crumb depends on handling it minimally.",
+      "Shape into small balls, press a whole almond into the center of each, and brush with the beaten egg for shine.",
+      "Bake at 325F (165C) for 16-18 minutes until golden at the edges.",
+      "The lard is genuinely what separates these from a generic shortbread-style cookie - it's the entire reason for the texture these cookies are known for."
     ]
   },
   {
@@ -1368,39 +1368,35 @@
     "base_servings": 4,
     "ingredients": [
       {
-        "ingredient": "Sriracha",
-        "qty": 6.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Rice vinegar",
-        "qty": 1,
+        "ingredient": "Spices, chili powder",
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Garlic clove",
+        "qty": 3,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Whisk all ingredients together."
+      "Pour hot oil over the garlic and chili powder.",
+      "Stir in a little vinegar."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Sriracha",
-        "qty": 6.0,
-        "note": ""
+        "ingredient": "Spices, chili powder",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 4,
+        "note": "minced"
       },
       {
         "ingredient": "Rice vinegar",
@@ -1408,13 +1404,22 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
         "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk all ingredients together until combined. Keeps in the fridge about 2 weeks."
+      "CHANGE FROM AUTHENTIC: the previous version was built on sriracha, a Thai-derived hot sauce, not a Chinese one - Chinese chili garlic sauces (like the well-known Lao Gan Ma style) are made by pouring hot oil directly over raw chili flakes and garlic, not by mixing in an already-made hot sauce, and that oil-blooming step is what actually builds their flavor.",
+      "Put the garlic and chili powder in a heatproof bowl.",
+      "Heat the oil in a small pan until just beginning to shimmer and lightly smoke, then pour it directly over the garlic and chili - it should sizzle audibly on contact, which is the actual technique this style of sauce depends on.",
+      "Stir in the vinegar and soy sauce once the sizzling settles.",
+      "This is a genuinely different technique from an emulsified hot sauce like sriracha - the oil carries and blooms the chili's flavor, rather than a vinegar-based sauce simply providing heat."
     ]
   },
   {
@@ -1429,22 +1434,22 @@
     "ingredients": [
       {
         "ingredient": "Hoisin sauce",
-        "qty": 3,
+        "qty": 2.5,
         "note": "tbsp"
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 1,
+        "qty": 0.75,
         "note": "tbsp"
       },
       {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
-        "note": "minced"
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.1875,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Whisk all ingredients together."
+      "Whisk everything together."
     ],
     "ingredients_full": [
       {
@@ -1458,13 +1463,23 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Fresh ginger",
-        "qty": 0.3333,
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk all ingredients together. Use as a glaze in the last few minutes of grilling or roasting meat, since hoisin burns easily over direct high heat."
+      "This one was already built on real hoisin sauce, which is a genuine, correct choice - hoisin is a real, specific Chinese condiment (fermented soybean paste sweetened and spiced), not an approximation of something else. Added a little garlic and vinegar for more rounded balance."
     ]
   },
   {
@@ -1478,38 +1493,32 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 140,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 160,
         "note": "cooked, shredded"
       },
       {
         "ingredient": "Mandarin orange segments (canned)",
-        "qty": 80,
+        "qty": 90,
         "note": "drained"
       },
       {
         "ingredient": "Green cabbage",
-        "qty": 100,
+        "qty": 130,
         "note": "shredded"
       },
       {
-        "ingredient": "Sesame oil",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Rice vinegar",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Toss cabbage, chicken, and mandarin oranges.",
-      "Whisk sesame oil and vinegar, toss to combine."
+      "Toss everything together."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 170,
         "note": "cooked, shredded"
       },
@@ -1529,7 +1538,7 @@
         "note": "julienned"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
@@ -1539,15 +1548,20 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame seeds",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 15,
+        "note": "chopped, to top"
       }
     ],
     "steps_detailed": [
-      "Whisk the sesame oil and rice vinegar together.",
-      "Toss the cabbage, carrot, and chicken with the dressing.",
-      "Top with mandarin oranges and sesame seeds."
+      "CHANGE FROM AUTHENTIC: this dish (like orange chicken) is genuinely a Chinese-American restaurant creation rather than a dish native to China - it doesn't have a single traditional form to be more or less faithful to, so the goal here is just making it well on its own terms. Added soy sauce for real savory backbone and swapped the topping to peanuts, which are far more standard on this salad than sesame seeds alone.",
+      "Toss the cabbage, carrot, and mandarin oranges with the sesame oil, vinegar, and soy sauce.",
+      "Top with the shredded chicken and chopped peanuts."
     ]
   },
   {
@@ -1562,33 +1576,34 @@
     "ingredients": [
       {
         "ingredient": "Tofu (firm)",
-        "qty": 100,
+        "qty": 140,
         "note": "cubed"
       },
       {
         "ingredient": "Chicken broth",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "cup"
       },
       {
         "ingredient": "Rice vinegar",
-        "qty": 1,
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sriracha",
-        "qty": 1,
+        "ingredient": "White pepper",
+        "qty": 0.625,
         "note": "tsp"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1,
+        "qty": 0.75,
         "note": "beaten"
       }
     ],
     "steps": [
-      "Simmer broth with vinegar and sriracha.",
-      "Add tofu, drizzle in beaten egg while stirring to form ribbons."
+      "Simmer the broth with the vinegar and white pepper.",
+      "Add the tofu.",
+      "Stir in the egg to form ribbons."
     ],
     "ingredients_full": [
       {
@@ -1602,13 +1617,18 @@
         "note": "cup"
       },
       {
+        "ingredient": "Bamboo shoots, canned, drained solids",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
         "ingredient": "Rice vinegar",
-        "qty": 2,
+        "qty": 2.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sriracha",
-        "qty": 1,
+        "ingredient": "White pepper",
+        "qty": 0.75,
         "note": "tsp"
       },
       {
@@ -1618,20 +1638,27 @@
       },
       {
         "ingredient": "Cornstarch",
-        "qty": 0.3333,
-        "note": ""
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Soy sauce",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Scallions",
+        "qty": 0.0625,
+        "note": "cup, sliced"
       }
     ],
     "steps_detailed": [
-      "Simmer the broth with vinegar, sriracha, and soy sauce for 5 minutes.",
+      "CHANGE FROM AUTHENTIC: the previous version used sriracha for heat, which is genuinely the wrong source of heat for this soup - real hot and sour soup gets its 'hot' specifically from white pepper, not chili, which gives a sharper, more immediate heat that sits differently than chili heat does; this was worth correcting outright rather than treating as a stylistic choice. Wood ear mushroom and dried lily buds, both traditional texture elements, aren't distinct items in this database and are genuinely missing - bamboo shoots alone keep some textural contrast but the soup will be smoother and less varied in texture than the real version.",
+      "Simmer the broth with the bamboo shoots, vinegar, white pepper, and soy sauce for 5 minutes - go generous with the white pepper specifically, real versions are noticeably peppery, not just tangy.",
       "Whisk the cornstarch with a tablespoon of water and stir into the soup to lightly thicken.",
-      "Add the tofu and warm through, about 2 minutes.",
-      "Drizzle in the beaten egg while stirring the soup gently in one direction to form thin ribbons."
+      "Add the tofu and warm through, 2 minutes.",
+      "Drizzle in the beaten egg while stirring the soup gently in one direction to form thin ribbons.",
+      "Top with the scallions."
     ]
   }
 ]
