@@ -81,7 +81,8 @@
       "Melt the butter, stir in the sugar, cardamom, saffron and its water, and rosewater, then toss in the vermicelli until coated and lightly caramelized, 3-4 minutes.",
       "Push the noodles to one side of the pan; scramble the eggs plain on the other side, keeping the two separate.",
       "Serve side by side, scattered with pistachios - the plain egg is meant to be eaten in the same bite as the sweet noodles, not folded together into one mixture."
-    ]
+    ],
+    "description": "Balaleet, sweet saffron vermicelli served alongside plain egg, is a beloved Gulf breakfast - the sweetness of the noodles against the plain egg is the whole point, eaten together in the same bite rather than mixed."
   },
   {
     "name": "Emirati Chebab with Honey",
@@ -136,9 +137,9 @@
         "note": "cup"
       },
       {
-        "ingredient": "Honey",
+        "ingredient": "Date syrup",
         "qty": 2.5,
-        "note": "tbsp, standing in for date syrup (dibs)"
+        "note": ""
       },
       {
         "ingredient": "Saffron threads",
@@ -154,8 +155,9 @@
     "steps_detailed": [
       "Whisk the flour, egg, milk, saffron, and cardamom into a smooth, pourable batter and rest 10 minutes.",
       "Cook small, thick rounds on a hot, lightly oiled griddle, 2-3 minutes per side, until deeply golden on the bottom and set with a slightly spongy, honeycombed top.",
-      "Serve warm, drizzled generously with the honey - chebab, saffron-spiced pancakes, are an everyday Emirati breakfast, often paired with a strong cup of Arabic coffee."
-    ]
+      "Serve warm, drizzled generously with the date syrup - chebab, saffron-spiced pancakes, are an everyday Emirati breakfast, often paired with a strong cup of Arabic coffee."
+    ],
+    "description": "Chebab, a slightly sweet, pancake-like flatbread, a common Emirati breakfast staple."
   },
   {
     "name": "Emirati Khameer Bread with Cheese",
@@ -222,9 +224,9 @@
     ],
     "steps_detailed": [
       "Mix the flour, baking powder, honey, a pinch of salt, the oil, and enough warm water to form a soft, slightly tacky dough. Cover and rest 25-30 minutes until slightly puffed.",
-      "Pat into a round about half an inch thick and cook on a hot, lightly oiled griddle, 3-4 minutes per side, until deeply golden and cooked through.",
-      "Split while still warm and fill with the crumbled cheese so it softens slightly - khameer, semi-sweet leavened bread, is a staple at Emirati breakfast tables, often served alongside honey or cheese."
-    ]
+      "Pat into a round about half an inch thick and cook on a hot, lightly oiled griddle, 3-4 minutes per side, until deeply golden and cooked through."
+    ],
+    "description": "Split while still warm and fill with the crumbled cheese so it softens slightly - khameer, semi-sweet leavened bread, is a staple at Emirati breakfast tables, often served alongside honey or cheese."
   },
   {
     "name": "Emirati Chicken Machboos",
@@ -323,7 +325,8 @@
       "Return the chicken with 1.75 cups water, the pierced dried limes, and saffron, and simmer 20-25 minutes.",
       "Lift out the chicken, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
       "Fluff the rice and top with the chicken."
-    ]
+    ],
+    "description": "Machboos, rice slow-cooked in a spiced stock under whole dried limes, is the Gulf's defining dish - the loomi is what makes it recognizably machboos rather than a generic spiced pilaf."
   },
   {
     "name": "Emirati Fish Machboos",
@@ -424,7 +427,8 @@
       "Add 1.5 cups water, the pierced dried limes, and saffron, and bring to a simmer.",
       "Stir in the rice, cover, and cook over low heat 18-20 minutes until tender.",
       "Fluff the rice, top with the fish, and scatter with cilantro."
-    ]
+    ],
+    "description": "The fish version of machboos, built the same way as the chicken version - rice cooked in a spiced, dried-lime-perfumed stock."
   },
   {
     "name": "Emirati Cinnamon-Topped Harees",
@@ -492,7 +496,8 @@
       "Add the bulgur (standing in for wheat berries) to the broth and simmer 25-30 minutes, mashing frequently, until it forms a thick, smooth porridge.",
       "Stir most of the shredded chicken back in, reserving a little to garnish, and top with the ghee, cinnamon, and a dusting of sugar.",
       "This sweet-and-savory finish is a distinctly Emirati take on harees, especially popular during Ramadan and at weddings."
-    ]
+    ],
+    "description": "Harees, wheat and meat cooked down into a thick, smooth porridge, prepared in enormous communal pots across the Gulf during Ramadan and Ashura."
   },
   {
     "name": "Emirati Margooga",
@@ -563,7 +568,8 @@
       "Simmer the chicken with the potato, tomatoes, onion, and cumin in a splash of water for 25-30 minutes until tender, mashing some of the potato against the side of the pot to thicken the base.",
       "Stir the torn bread directly into the stew and let it simmer a few more minutes, breaking down and thickening the whole dish into a hearty, porridge-like consistency.",
       "Margooga, thicker and heartier than thareed, is a comforting, everyday Emirati dish built to stretch a little meat and bread a long way."
-    ]
+    ],
+    "description": "Margooga, bread torn into a rich broth, a comforting Emirati home-cooking staple."
   },
   {
     "name": "Emirati Ghuzi (Spiced Lamb over Rice)",
@@ -651,7 +657,8 @@
       "Lift out the lamb, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
       "Toast the almonds 2-3 minutes until golden.",
       "Mound the rice, top with the lamb, scatter with almonds and raisins."
-    ]
+    ],
+    "description": "Ghuzi, whole spiced lamb served over rice and topped with nuts and raisins, is a classic Gulf celebration centerpiece - traditionally a whole roasted lamb, this keeps the same rice, spicing, and nut-and-raisin topping at a practical scale."
   },
   {
     "name": "Emirati Lamb Machboos",
@@ -750,7 +757,8 @@
       "Return the lamb with 2 cups water, the pierced dried limes, and saffron, cover, and simmer 40-45 minutes until very tender.",
       "Lift out the lamb, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
       "Fluff the rice and top with the lamb."
-    ]
+    ],
+    "description": "Lamb machboos, richer and slower-cooked than the chicken version, is a centerpiece of Gulf celebration meals."
   },
   {
     "name": "Emirati Chicken Saloona",
@@ -826,7 +834,8 @@
       "Brown the chicken with the onion, garlic, cumin, and turmeric over medium-high heat, 8-10 minutes.",
       "Add the potato, diced tomatoes, and 1.25 cups water, and simmer 28-32 minutes until the potato is fully tender and the broth has thickened slightly.",
       "Saloona, a loose, everyday vegetable-and-meat stew ladled over rice, is a weeknight staple in Emirati homes, endlessly adaptable to whatever vegetables are on hand."
-    ]
+    ],
+    "description": "Saloona, a simple everyday tomato-and-vegetable chicken stew, is common weeknight cooking across the Gulf."
   },
   {
     "name": "Emirati Spiced Grilled Fish with Lime Rice",
@@ -910,7 +919,8 @@
       "Grill or pan-fry over high heat, 3-4 minutes per side, until just cooked through and lightly charred.",
       "Cook the basmati in 1.25 cups water, covered, 15-18 minutes, until tender and fully separate - basmati's dry, distinct grains matter here since the rice is served plain alongside the fish rather than cooked into it.",
       "Fluff the rice, finish with a little more lime juice and the cilantro, and serve alongside the fish."
-    ]
+    ],
+    "description": "Grilled fish with lime-scented rice, reflecting the UAE's coastal cuisine."
   },
   {
     "name": "Emirati Samboosa",
@@ -983,7 +993,8 @@
       "Make a simple, firm dough from the flour, a pinch of salt, and water, and roll out thin.",
       "Cut into strips, fill with the beef mixture, and fold into tight triangles, sealing the edges well.",
       "Fry until deeply golden and crisp, 4-5 minutes - samboosa are a fixture at Emirati gatherings, appearing in enormous batches during Ramadan iftar spreads."
-    ]
+    ],
+    "description": "Samboosa, fried meat-filled pastries, are ubiquitous at Gulf gatherings, especially through Ramadan."
   },
   {
     "name": "Emirati Khubz with Cheese and Za'atar",
@@ -1047,7 +1058,8 @@
       "Warm the bread on a dry pan over medium heat until softened and lightly speckled, 1-2 minutes per side.",
       "Scatter generously with the crumbled cheese and za'atar, and drizzle with the oil.",
       "Fold in half and press briefly on the pan until the cheese just softens - a simple, common everyday snack sold from bakeries and corner shops across the UAE."
-    ]
+    ],
+    "description": "A simple street-food snack, za'atar being a defining Levantine and Gulf spice blend."
   },
   {
     "name": "Emirati Regag-Style Cheese and Egg Crepe",
@@ -1116,7 +1128,8 @@
       "Whisk the flour with enough water to make a very thin, almost lacy batter, similar to a crepe.",
       "Spread thin across a hot, well-oiled pan, crack the egg directly over it, season with black pepper, and scatter with the cheese.",
       "Cook 2-3 minutes until the edges crisp and lift and the egg sets, then fold into quarters and serve warm - regag, paper-thin and often sold from street carts, is one of the UAE's most iconic snack foods."
-    ]
+    ],
+    "description": "Regag, an extremely thin, crepe-like bread, an Emirati breakfast staple."
   },
   {
     "name": "Emirati Za'atar Hummus",
@@ -1190,7 +1203,8 @@
     "steps_detailed": [
       "Blend the chickpeas, tahini, lime juice, and garlic with a splash of water until very smooth.",
       "Spoon into a shallow dish, drizzle with the oil, and top generously with the za'atar - hummus finished this way is a common mezze offering at Emirati gatherings alongside warm bread."
-    ]
+    ],
+    "description": "A simple hummus, za'atar giving it a Levantine-leaning brightness."
   },
   {
     "name": "Emirati Luqaimat",
@@ -1245,9 +1259,9 @@
         "note": "tbsp, for frying"
       },
       {
-        "ingredient": "Honey",
+        "ingredient": "Date syrup",
         "qty": 1.75,
-        "note": "tbsp, standing in for date syrup"
+        "note": ""
       },
       {
         "ingredient": "Saffron threads",
@@ -1258,8 +1272,9 @@
     "steps_detailed": [
       "Mix the flour, baking powder, saffron, and enough warm water to form a thick, smooth, pourable batter. Cover and rest 25-30 minutes.",
       "Drop spoonfuls into hot oil and fry, turning occasionally, 3-5 minutes until puffed, deeply golden, and cooked through.",
-      "Drain briefly and drizzle generously with the honey while still warm - luqaimat are the UAE's most iconic sweet, ubiquitous at Ramadan iftars and family gatherings alike."
-    ]
+      "Drain briefly and drizzle generously with the date syrup while still warm - luqaimat are the UAE's most iconic sweet, ubiquitous at Ramadan iftars and family gatherings alike."
+    ],
+    "description": "Luqaimat, small fried dough balls drizzled with date syrup, are a beloved Ramadan sweet across the UAE."
   },
   {
     "name": "Emirati Khabees (Date and Ghee Pudding)",
@@ -1327,7 +1342,8 @@
       "Toast the flour in the ghee over medium-low heat, stirring constantly, 4-5 minutes until lightly golden and nutty-smelling.",
       "Stir in the mashed dates, sugar, cardamom, and a generous splash of water, and cook 5-7 more minutes, stirring, until it comes together into a thick, dark, spoonable paste.",
       "Khabees, a rich date-and-flour pudding, is a traditional Emirati sweet often prepared for special occasions and shared generously among guests."
-    ]
+    ],
+    "description": "Khabees, a simple date-and-ghee pudding, a genuine Gulf sweet."
   },
   {
     "name": "Emirati Milk-Soaked Bread Pudding with Pistachios",
@@ -1412,7 +1428,8 @@
       "Pour over the torn bread in a small dish and let it soak 10-15 minutes until soft and fully absorbed.",
       "Top generously with the pistachios and serve - milk-soaked bread desserts scented with rosewater and saffron are a gentle, comforting end to an Emirati meal.",
       "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
-    ]
+    ],
+    "description": "A simple milk-soaked bread pudding."
   },
   {
     "name": "Emirati Tomato Lime Dipping Sauce",
@@ -1482,7 +1499,8 @@
     "steps_detailed": [
       "Mash the tomatoes lightly and combine with the lime juice, garlic, cilantro, and jalapeno.",
       "Let sit 10 minutes so the flavors meld - a bright, fresh dip that pairs especially well with grilled fish or the spiced grilled fish machboos-style plates common at Emirati family lunches."
-    ]
+    ],
+    "description": "A simple tomato-lime dipping sauce."
   },
   {
     "name": "Emirati Date and Ghee Drizzle",
@@ -1530,6 +1548,7 @@
     "steps_detailed": [
       "Blend the dates with the melted ghee, rosewater, and a splash of warm water until smooth and pourable.",
       "Drizzle over khameer, chebab, or fresh fruit - rich date-and-ghee condiments like this one are woven through Emirati hospitality, always offered generously to guests."
-    ]
+    ],
+    "description": "Dates and ghee, a classic Gulf sweet pairing."
   }
 ]

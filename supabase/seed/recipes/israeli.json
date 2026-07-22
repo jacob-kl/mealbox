@@ -78,7 +78,8 @@
       "Make small wells in the sauce and crack the eggs into them.",
       "Cover and cook 5-8 minutes until the whites are set but the yolks are still soft, or longer if you prefer them firm.",
       "Shakshuka is one of Israel's most beloved breakfast dishes, eaten with warm bread for scooping."
-    ]
+    ],
+    "description": "Shakshuka, eggs poached in a spiced tomato sauce, shared across the wider Middle East and North Africa, now closely associated with Israeli breakfast."
   },
   {
     "name": "Israeli Salad",
@@ -163,7 +164,8 @@
       "Toss the finely diced cucumber, tomatoes, and onion with the lime juice, oil, and herbs.",
       "Season with salt and serve fresh - Israeli salad, chopped very fine, is a breakfast fixture, often served alongside eggs and bread.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "A finely diced cucumber-tomato salad, a genuine Israeli breakfast staple."
   },
   {
     "name": "Israeli Shakshuka-Style Green Version",
@@ -232,7 +234,8 @@
       "Saute the greens and garlic in the oil until wilted and tender, 5-7 minutes.",
       "Make small wells in the greens and crack in the eggs, scattering the feta over the top.",
       "Cover and cook 5-8 minutes until the eggs are set to your liking - a green take on shakshuka, popular in Israeli home cooking."
-    ]
+    ],
+    "description": "A green variation on shakshuka, built on herbs and greens instead of tomato."
   },
   {
     "name": "Israeli Sabich",
@@ -301,7 +304,8 @@
       "Fry the eggplant slices in the oil over medium heat, 3-5 minutes per side, until deeply golden and soft.",
       "Whisk the tahini with the lime juice and a splash of water into a smooth sauce.",
       "Layer the fried eggplant and sliced hard-boiled egg in the bread, drizzling with the tahini sauce - sabich, brought by Iraqi Jewish immigrants, has become a distinctly Israeli sandwich."
-    ]
+    ],
+    "description": "Sabich, fried eggplant and hard-boiled egg in pita, an Iraqi-Jewish dish that became an Israeli street food staple."
   },
   {
     "name": "Israeli Chicken Schnitzel",
@@ -368,7 +372,8 @@
       "Dredge in flour, then egg, then the cornmeal.",
       "Fry in the oil over medium-high heat, 3-4 minutes per side, until golden and cooked through.",
       "Schnitzel is one of the most popular everyday meals in Israel, a legacy of Central European Jewish immigration."
-    ]
+    ],
+    "description": "Schnitzel, brought by Central European Jewish immigrants, became one of Israel's most common everyday dinners."
   },
   {
     "name": "Israeli Hummus with Pearl Couscous",
@@ -440,9 +445,9 @@
     "steps_detailed": [
       "Blend the chickpeas, tahini, lime juice, and garlic into a smooth hummus, thinning with a little water as needed.",
       "Toast the dry pearl couscous briefly in the oil, then cook in water according to the package until tender, 8-10 minutes.",
-      "Top the hummus with the warm pearl couscous.",
-      "Ptitim, invented in Israel in the 1950s and nicknamed 'Israeli couscous' for its shape, is properly a small toasted pasta pearl - real pearl couscous is a much closer match in both size and toasted flavor than egg noodles, which don't capture either."
-    ]
+      "Top the hummus with the warm pearl couscous."
+    ],
+    "description": "Ptitim, invented in Israel in the 1950s and nicknamed 'Israeli couscous' for its shape, is properly a small toasted pasta pearl - real pearl couscous is a much closer match in both size and toasted flavor than egg noodles, which don't capture either."
   },
   {
     "name": "Israeli Kubbeh Soup",
@@ -515,7 +520,8 @@
       "Brown the remaining beef with the onion, then add the beef broth, diced tomatoes, and lime juice, and simmer 20-28 minutes.",
       "Gently add the dumplings and simmer 8-12 more minutes until they're cooked through.",
       "Kubbeh soup, brought by Iraqi and Kurdish Jewish immigrants, is a beloved Israeli comfort food."
-    ]
+    ],
+    "description": "Kubbeh, semolina or bulgur dumplings in broth, an Iraqi-Jewish dish now common in Israeli cooking."
   },
   {
     "name": "Israeli Chicken Shawarma",
@@ -587,7 +593,8 @@
       "Marinate the thinly sliced chicken with the turmeric, garlic, lime juice, nutmeg, and oil for at least 30 minutes.",
       "Cook over high heat in a wide skillet, 6-8 minutes, stirring occasionally, until deeply browned and crisp at the edges.",
       "Serve with warm flatbread, hummus, and Israeli salad - shawarma is ubiquitous street food across Israel."
-    ]
+    ],
+    "description": "Shawarma, meat traditionally stacked and roasted on a vertical spit, a beloved Israeli street food."
   },
   {
     "name": "Israeli Shakshuka with Merguez-Style Sausage",
@@ -659,7 +666,8 @@
       "Brown the sliced sausage with the onion, garlic, and jalapeno, 6-8 minutes.",
       "Add the diced tomatoes and simmer 12-15 minutes until thickened.",
       "Make wells in the sauce, crack in the eggs, cover, and cook 5-8 minutes until set to your liking - a heartier, spicier shakshuka variation with North African Jewish roots."
-    ]
+    ],
+    "description": "Shakshuka given extra heartiness with spiced sausage."
   },
   {
     "name": "Israeli Beef and Eggplant Stew",
@@ -732,7 +740,8 @@
       "Add the eggplant and diced tomatoes.",
       "Cover and simmer over low heat 1.25-1.75 hours until the beef is completely tender and the eggplant has broken down into the sauce.",
       "Serve with rice - a hearty stew reflecting Israel's blend of Middle Eastern and Mediterranean cooking traditions."
-    ]
+    ],
+    "description": "A simple beef and eggplant stew."
   },
   {
     "name": "Israeli Cholent",
@@ -804,7 +813,8 @@
       "Brown the beef with the onion, then add the beans, potato, barley, and sugar with enough water to cover everything generously.",
       "Bring to a bare simmer, cover tightly, and cook on the lowest possible heat for 3-5 hours (traditionally cholent cooks overnight, since observant Jewish households don't cook on the Sabbath itself), until deeply tender and the flavors have melded completely.",
       "Serve hot - cholent is the classic Sabbath stew, designed to be started before sundown Friday and eaten Saturday."
-    ]
+    ],
+    "description": "Cholent, a slow-cooked Sabbath stew traditionally left to cook overnight since cooking isn't permitted on the Sabbath itself."
   },
   {
     "name": "Israeli Falafel",
@@ -892,7 +902,8 @@
       "Fry in the oil over medium heat, 3-5 minutes per side, until deeply golden and crisp outside, tender within.",
       "Falafel is one of the most iconic and widely eaten street foods in Israel.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "Falafel, fried chickpea patties, one of Israel's most iconic street foods."
   },
   {
     "name": "Israeli Bourekas",
@@ -961,7 +972,8 @@
       "Layer sheets of the phyllo, brushing each with melted butter, then fill with the crumbled feta and fold into small triangular or square packets, sealing well.",
       "Brush the tops with the egg wash and scatter with sesame seeds.",
       "Bake at 375F (190C) for 22-28 minutes until deeply golden and flaky - bourekas are a beloved Israeli bakery staple, filled countless ways."
-    ]
+    ],
+    "description": "Bourekas, filled phyllo pastries, brought by Sephardic and Balkan Jewish communities."
   },
   {
     "name": "Israeli Roasted Eggplant with Tahini",
@@ -1038,7 +1050,8 @@
       "Whisk the tahini with the lime juice and a splash of water into a smooth, pourable sauce.",
       "Drizzle over the roasted eggplant and scatter with herbs - a simple, popular Israeli side or snack.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "Roasted eggplant with tahini, a simple, common Israeli side."
   },
   {
     "name": "Israeli Matbucha",
@@ -1109,7 +1122,8 @@
       "Saute the bell pepper, garlic, and jalapeno in the oil over medium heat, 6-8 minutes, until softened.",
       "Add the tomatoes and simmer 22-30 minutes, stirring occasionally, until thickened into a rich, jammy dip.",
       "Serve warm or at room temperature with bread - matbucha, of North African Jewish origin, is now a fixture of Israeli mezze."
-    ]
+    ],
+    "description": "Matbucha, a cooked tomato and pepper relish, a North African-Jewish dish now common across Israel."
   },
   {
     "name": "Israeli Malabi",
@@ -1180,7 +1194,8 @@
       "Cook over medium heat, whisking constantly, 6-8 minutes until thick and pudding-like.",
       "Stir in the rosewater off the heat, then pour into serving cups.",
       "Chill at least 2 hours, then top with chopped pistachios before serving - malabi, a milk pudding, is a beloved Israeli dessert with roots across the wider Levant and Ottoman world."
-    ]
+    ],
+    "description": "Malabi, a rosewater-scented milk pudding, a beloved Israeli dessert with roots across the wider Middle East."
   },
   {
     "name": "Israeli Date Cookies",
@@ -1249,7 +1264,8 @@
       "Cream the butter and sugar together until light, then beat in the vanilla.",
       "Mix in the flour until a soft dough forms, then fold in the chopped dates.",
       "Shape into small rounds and bake at 350F (175C) for 15-20 minutes until golden - a simple, sweet Israeli cookie."
-    ]
+    ],
+    "description": "Simple date-filled cookies, similar in spirit to ma'amoul."
   },
   {
     "name": "Israeli Sufganiyot",
@@ -1324,7 +1340,8 @@
       "Divide into small balls and fry in the oil, 2-3 minutes per side, until deeply golden and puffed.",
       "Once cool enough to handle, use a small knife or piping tip to inject each with a spoonful of the preserves.",
       "Dust generously with sugar - sufganiyot, jelly-filled donuts, are a beloved Israeli treat especially associated with Hanukkah."
-    ]
+    ],
+    "description": "Sufganiyot, jam-filled doughnuts, are made specifically for Hanukkah, when fried foods are traditionally eaten."
   },
   {
     "name": "Israeli Tahini Sauce",
@@ -1392,7 +1409,8 @@
       "Stir in the chopped herbs.",
       "This tahini sauce is essential to Israeli street food, poured over falafel, sabich, and shawarma alike.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "A simple tahini sauce, the base for many Israeli dips."
   },
   {
     "name": "Israeli Amba (Pickled Mango Sauce)",
@@ -1453,6 +1471,7 @@
       "Mash the mango with the turmeric, lime juice, and garlic until mostly smooth with some texture.",
       "Season with salt and let sit at least 10-15 minutes.",
       "Amba, a tangy pickled mango condiment brought by Iraqi Jewish immigrants, is now inseparable from Israeli sabich and shawarma."
-    ]
+    ],
+    "description": "Amba, a tangy pickled mango sauce, an Iraqi-Jewish condiment now a common Israeli street-food topping."
   }
 ]

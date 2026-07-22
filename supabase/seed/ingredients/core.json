@@ -8294,5 +8294,29 @@
       "gluten_free"
     ],
     "allergens": []
+  },
+  {
+    "name": "Date syrup",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 300,
+    "protein": 0.5,
+    "carbs": 75.0,
+    "fat": 0.0,
+    "fiber": 0.5,
+    "micros": {
+      "calcium": 20.0,
+      "potassium": 250,
+      "iron": 0.5,
+      "magnesium": 15.0
+    },
+    "sub_group": "sweeteners",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
   }
 ]

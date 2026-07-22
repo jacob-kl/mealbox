@@ -63,7 +63,8 @@
       "Mix the za'atar with the oil into a spreadable paste and spread generously over the dough, scattering with feta if using.",
       "Bake at 425F (220C) for 10-14 minutes until the edges are golden and crisp.",
       "Manakish is a beloved Lebanese breakfast flatbread, sold fresh every morning from bakeries across the country."
-    ]
+    ],
+    "description": "Manakish, a flatbread topped with za'atar or cheese, a beloved Lebanese breakfast."
   },
   {
     "name": "Lebanese Foul Medammes",
@@ -149,7 +150,8 @@
       "Mash lightly, leaving some texture, and stir in the lime juice, garlic, and oil.",
       "Top with the diced tomatoes and cilantro, and serve with warm bread - traditionally made with fava beans, foul medammes is a beloved Lebanese breakfast with roots across the wider Levant and Egypt.",
       "Real fava beans are used here now rather than a stand-in - they're a genuinely different bean with their own texture and flavor."
-    ]
+    ],
+    "description": "Ful medames, mashed fava beans, a Levantine breakfast staple."
   },
   {
     "name": "Lebanese Labneh with Olive Oil",
@@ -208,7 +210,8 @@
       "Strain the yogurt in a cheesecloth-lined sieve set over a bowl, refrigerated overnight, until thick and spreadable, resembling labneh.",
       "Spread onto a plate, making a shallow well in the center, and drizzle generously with the oil.",
       "Sprinkle with za'atar and serve with olives and warm bread - labneh is a breakfast fixture across Lebanon."
-    ]
+    ],
+    "description": "Labneh with olive oil, a simple, common Lebanese breakfast."
   },
   {
     "name": "Lebanese Tabbouleh",
@@ -294,7 +297,8 @@
       "Toss with the tomatoes, herbs (traditionally a large amount of finely chopped parsley, with bulgur almost an accent), onion, lime juice, and oil.",
       "Chill at least 20 minutes before serving - tabbouleh is a Lebanese herb salad, often mistakenly thought of as a grain salad when it's truly meant to be herb-forward.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "Tabbouleh, a parsley-forward bulgur salad, is genuinely more herb than grain - real tabbouleh is mostly parsley with just a little bulgur mixed through, not the reverse."
   },
   {
     "name": "Lebanese Fattoush",
@@ -369,7 +373,8 @@
       "Toss the shredded cabbage, cucumber, and tomatoes with the lime juice, sumac, and oil.",
       "Top with crumbled toasted flatbread for the traditional crunch.",
       "Chill briefly and serve - fattoush's tangy sumac dressing and toasted bread pieces make it a distinctly Lebanese salad."
-    ]
+    ],
+    "description": "Fattoush, a bread salad with toasted or fried flatbread pieces, a Levantine staple."
   },
   {
     "name": "Lebanese Kafta",
@@ -454,7 +459,8 @@
       "Grill or pan-fry, 4-6 minutes per side, until well browned and cooked through.",
       "Serve with rice or flatbread and a squeeze of lime - kafta is a Lebanese grilled meat staple, found at nearly every family gathering.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "Kafta, spiced ground meat, a Levantine staple prepared as skewers, patties, or baked."
   },
   {
     "name": "Lebanese Shish Taouk",
@@ -526,7 +532,8 @@
       "Marinate the cubed chicken with the yogurt, garlic, lime juice, turmeric, and oil for at least 30 minutes, or overnight for deeper flavor - the yogurt tenderizes the chicken.",
       "Thread onto skewers and grill over medium-high heat, turning occasionally, 12-15 minutes until well charred and cooked through.",
       "Serve with toum (garlic sauce) and warm flatbread - shish taouk is a beloved Lebanese grilled chicken skewer, found at nearly every Lebanese restaurant and street stall."
-    ]
+    ],
+    "description": "Shish taouk, grilled marinated chicken skewers, a beloved Lebanese dish."
   },
   {
     "name": "Lebanese Kibbeh",
@@ -600,7 +607,8 @@
       "Brown the remaining beef and onion with the chopped peanuts for the filling.",
       "Shape the shell mixture around a spoonful of filling into small torpedo shapes, sealing completely.",
       "Fry in the oil until deeply golden on all sides, or bake at 375F (190C) for 28-35 minutes - kibbeh is widely considered Lebanon's national dish."
-    ]
+    ],
+    "description": "Kibbeh, bulgur and meat shaped and fried, considered close to Lebanon's national dish."
   },
   {
     "name": "Lebanese Chicken Shawarma",
@@ -672,7 +680,8 @@
       "Marinate the thinly sliced chicken with the turmeric, garlic, lime juice, cinnamon, and oil for at least 30 minutes, or overnight.",
       "Cook over high heat in a wide skillet, 6-8 minutes, stirring occasionally, until deeply browned and slightly crisp at the edges, mimicking a shawarma spit's charred exterior.",
       "Serve with warm flatbread, pickles, and garlic sauce - shawarma is a Lebanese street food icon, now beloved worldwide."
-    ]
+    ],
+    "description": "Shawarma, meat traditionally stacked and roasted on a vertical spit, approximated here without the spit."
   },
   {
     "name": "Lebanese Stuffed Eggplant (Sheikh el Mahshi)",
@@ -745,7 +754,8 @@
       "Brown the beef with the onion, garlic, and cinnamon, 8-10 minutes.",
       "Scoop a little of the eggplant flesh into the meat mixture, then spoon everything back into the eggplant shells.",
       "Top with the diced tomatoes and bake 15-18 more minutes - a comforting Lebanese stuffed vegetable dish."
-    ]
+    ],
+    "description": "Sheikh el mahshi, eggplant stuffed with spiced meat, a genuine Lebanese specialty."
   },
   {
     "name": "Lebanese Freekeh with Chicken",
@@ -840,7 +850,8 @@
       "Cover and simmer 18-22 minutes until the grain is tender and the chicken is cooked through, with most of the liquid absorbed.",
       "Top with the chopped walnuts and serve - freekeh is a treasured, distinctly smoky grain in Lebanese cooking, often reserved for special meals.",
       "Real freekeh - roasted young green wheat with a distinctive smoky flavor - is used here now instead of plain bulgur, which doesn't have that same roasted character."
-    ]
+    ],
+    "description": "Freekeh, roasted young green wheat with a distinctive smoky flavor, paired here with chicken."
   },
   {
     "name": "Lebanese Hummus",
@@ -909,7 +920,8 @@
     "steps_detailed": [
       "Blend the chickpeas, tahini, lime juice, garlic, and oil with a splash of water until very smooth and creamy, scraping down the sides as needed.",
       "Spread onto a plate, drizzle with more oil, and serve with warm flatbread - Lebanon and its neighbors have long disputed hummus's exact origins, but it remains central to Lebanese mezze."
-    ]
+    ],
+    "description": "A simple hummus, a Levantine staple."
   },
   {
     "name": "Lebanese Baba Ghanoush",
@@ -980,7 +992,8 @@
       "Roast the whole eggplant at 425F (220C) for 28-35 minutes, turning occasionally, until the skin is charred and the inside is completely soft.",
       "Let cool slightly, then scoop out the flesh and mash with the tahini, lime juice, garlic, and oil until mostly smooth with some texture remaining.",
       "Serve with warm flatbread - baba ghanoush's smoky depth comes from the direct charring of the eggplant skin."
-    ]
+    ],
+    "description": "Baba ghanoush, a smoky eggplant dip, a Levantine staple."
   },
   {
     "name": "Lebanese Za'atar Roasted Chickpeas",
@@ -1035,7 +1048,8 @@
       "Pat the chickpeas very dry with a towel.",
       "Toss with the oil and za'atar.",
       "Roast at 425F (220C) for 22-28 minutes, shaking the pan occasionally, until deeply golden and crisp - a simple, addictive Lebanese snack."
-    ]
+    ],
+    "description": "A simple roasted snack, za'atar being a defining Levantine spice blend."
   },
   {
     "name": "Lebanese Warak Enab (Stuffed Grape Leaves)",
@@ -1114,9 +1128,9 @@
       "If using raw grape leaves, blanch 1-2 minutes; rinse well if using canned.",
       "Mix the raw rice with the tomatoes, garlic, oil, and dried mint.",
       "Lay each leaf vein-side up, place filling near the stem, fold the sides in, and roll into a tight cylinder.",
-      "Pack seam-side down into a pot, pour the lemon juice and 1 cup water over, weigh down with a small plate, and simmer covered 35-40 minutes until the rice is fully cooked.",
-      "This meatless version, built entirely on rice, lemon, and mint, is the everyday and Lenten-season variety of warak enab across Lebanon, distinct from the meat-filled version served for special occasions."
-    ]
+      "Pack seam-side down into a pot, pour the lemon juice and 1 cup water over, weigh down with a small plate, and simmer covered 35-40 minutes until the rice is fully cooked."
+    ],
+    "description": "This meatless version, built entirely on rice, lemon, and mint, is the everyday and Lenten-season variety of warak enab across Lebanon, distinct from the meat-filled version served for special occasions."
   },
   {
     "name": "Lebanese Rosewater Rice Pudding",
@@ -1190,7 +1204,8 @@
       "Whisk the cornstarch with a splash of cold water and stir it in, along with the sugar, and simmer 3-4 more minutes until thickened.",
       "Remove from heat and stir in the rosewater - adding it off the heat keeps its aroma from cooking off.",
       "Chill and top with the pistachios."
-    ]
+    ],
+    "description": "A simple rosewater-scented rice pudding."
   },
   {
     "name": "Lebanese Date and Walnut Bites",
@@ -1241,7 +1256,8 @@
       "Blend the dates, walnuts, and cinnamon together in a food processor until they form a sticky, well-combined mixture.",
       "Roll into small balls, pressing firmly so they hold together.",
       "Chill at least 20 minutes before serving - a simple, naturally sweet Lebanese treat."
-    ]
+    ],
+    "description": "Dates and walnuts, a simple, common Levantine sweet pairing."
   },
   {
     "name": "Lebanese Maamoul",
@@ -1312,7 +1328,8 @@
       "Flatten a portion of dough, place a spoonful of the date paste in the center, and reshape around it, sealing completely, then press gently into a small mold or simply flatten by hand.",
       "Bake at 350F (175C) for 18-24 minutes until just set and very pale - maamoul should not brown.",
       "A beloved Lebanese holiday cookie, especially associated with Eid celebrations."
-    ]
+    ],
+    "description": "Ma'amoul, a filled shortbread-style cookie, traditionally made for Eid across the Levant."
   },
   {
     "name": "Lebanese Toum (Garlic Sauce)",
@@ -1368,7 +1385,8 @@
       "Blend the garlic with a little of the lime juice until very finely pureed.",
       "With the blender running, slowly drizzle in the oil, alternating with the remaining lime juice, until the mixture emulsifies into a thick, fluffy, mayonnaise-like sauce.",
       "This is a simplified version of toum, which traditionally takes real patience to whip into its signature airy texture - serve alongside shawarma, grilled chicken, or vegetables."
-    ]
+    ],
+    "description": "Toum, a garlic sauce whipped to an emulsified, mayonnaise-like consistency, a defining Lebanese condiment."
   },
   {
     "name": "Lebanese Tahini Lemon Sauce",
@@ -1436,6 +1454,7 @@
       "Stir in the chopped herbs.",
       "Serve over grilled vegetables, falafel, or fish - this tahini sauce, called tarator in some regions, is endlessly versatile in Lebanese cooking.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "A simple tahini-lemon sauce, the base for many Lebanese dips."
   }
 ]

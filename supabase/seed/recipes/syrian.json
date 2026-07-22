@@ -83,7 +83,8 @@
       "Mash lightly, leaving some texture, and stir in the lime juice, garlic, and diced tomatoes.",
       "Drizzle with the oil and top with cilantro, serving with warm bread - foul shami, the Damascus-style version, is a Syrian breakfast fixture.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "Ful medames, mashed fava beans, a Levantine breakfast staple."
   },
   {
     "name": "Syrian Manakish with Cheese",
@@ -148,7 +149,8 @@
       "Roll the dough out into a thin round and brush with the oil.",
       "Top generously with the crumbled feta and za'atar if using.",
       "Bake at 425F (220C) for 10-14 minutes until the edges are golden and crisp - a beloved Syrian breakfast flatbread."
-    ]
+    ],
+    "description": "Manakish, a flatbread topped with cheese or za'atar, a beloved Levantine breakfast."
   },
   {
     "name": "Syrian Eggs with Aleppo-Style Peppers",
@@ -217,7 +219,8 @@
       "Saute the bell pepper and garlic in the oil with the paprika over medium heat, 6-8 minutes, until softened and fragrant, echoing the pepper-forward flavors of Aleppo cooking.",
       "Push aside and scramble the eggs in the cleared space.",
       "Mix everything together and serve with warm bread."
-    ]
+    ],
+    "description": "Aleppo pepper, a mild, fruity chili named for the Syrian city, a defining regional flavor."
   },
   {
     "name": "Syrian Fattoush",
@@ -292,7 +295,8 @@
       "Toss the shredded cabbage, cucumber, and tomatoes with the sumac, lime juice, and oil.",
       "Top with crumbled toasted flatbread for crunch.",
       "Chill briefly and serve - a bright, tangy Syrian salad shared across the Levant."
-    ]
+    ],
+    "description": "Fattoush, a bread salad with toasted or fried flatbread pieces, a Levantine staple."
   },
   {
     "name": "Syrian Yabrak",
@@ -371,9 +375,9 @@
       "If using raw grape leaves, blanch 1-2 minutes until pliable; rinse well if using canned.",
       "Mix the raw rice with the lamb, dried mint, and garlic.",
       "Lay each leaf vein-side up, place a small portion of filling near the stem, fold the sides in, and roll into a tight cylinder.",
-      "Pack seam-side down into a pot, pour the tomatoes, lemon juice, and 1 cup water over, weigh down with a small plate, and simmer covered 40-45 minutes until the rice is fully cooked.",
-      "Yabrak, Syria's name for stuffed grape leaves, leans on mint and lemon rather than the cinnamon-forward filling used further east - the lemon should read as a real backbone of the dish, not a garnish stirred in at the end."
-    ]
+      "Pack seam-side down into a pot, pour the tomatoes, lemon juice, and 1 cup water over, weigh down with a small plate, and simmer covered 40-45 minutes until the rice is fully cooked."
+    ],
+    "description": "Yabrak, Syria's name for stuffed grape leaves, leans on mint and lemon rather than the cinnamon-forward filling used further east - the lemon should read as a real backbone of the dish, not a garnish stirred in at the end."
   },
   {
     "name": "Syrian Kibbeh bil Sanieh (Baked Kibbeh)",
@@ -447,7 +451,8 @@
       "Brown the remaining beef and onion with the pistachios for the filling.",
       "Press half the shell mixture into an oiled baking dish, spread the filling evenly over it, then top with the remaining shell mixture, smoothing the surface and scoring a diamond pattern.",
       "Bake at 375F (190C) for 32-40 minutes until deeply golden - kibbeh bil sanieh, baked in a tray rather than shaped into torpedoes, is a common Syrian home-cooking approach."
-    ]
+    ],
+    "description": "Kibbeh, bulgur and meat, here baked in a tray rather than shaped into individual torpedoes."
   },
   {
     "name": "Syrian Makdous",
@@ -521,7 +526,8 @@
       "Stuff the mixture into a slit cut in each eggplant.",
       "Submerge completely in the oil in a sealed container; traditionally this ferments for weeks at room temperature, but a same-day quick version can be eaten fresh, cold, as a starter.",
       "Makdous, tiny pickled stuffed eggplants preserved in olive oil, is one of Syria's most beloved and distinctive specialties, especially from the coastal and mountain regions."
-    ]
+    ],
+    "description": "Makdous, small eggplants stuffed with walnuts and preserved in olive oil, a genuine Syrian delicacy."
   },
   {
     "name": "Syrian Shish Kebab",
@@ -594,7 +600,8 @@
       "Shape into small logs around skewers if you have them.",
       "Grill or pan-fry in the oil, 4-6 minutes per side, until well charred and cooked through.",
       "Serve with rice or flatbread - grilled skewered meats are central to Syrian cooking."
-    ]
+    ],
+    "description": "Shish kebab, grilled skewered meat, a staple across the wider Levant."
   },
   {
     "name": "Syrian Shakriya (Lamb in Yogurt Sauce)",
@@ -669,7 +676,8 @@
       "Cook the basmati separately in 1 cup water, covered, 15-18 minutes.",
       "Serve the lamb and its yogurt sauce over the rice.",
       "Shakriya's whole technique hinges on that tempering step - yogurt added directly to a boiling pot breaks and curdles, which is the single most common way this dish goes wrong."
-    ]
+    ],
+    "description": "Shakriya's whole technique hinges on tempering the yogurt before it hits the hot broth - yogurt added directly to a boiling pot breaks and curdles, which is the single most common way this dish goes wrong."
   },
   {
     "name": "Syrian Stuffed Zucchini (Kousa Mahshi)",
@@ -706,9 +714,9 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Eggplant, raw",
+        "ingredient": "Zucchini",
         "qty": 180,
-        "note": "hollowed, standing in for zucchini/kousa squash"
+        "note": "hollowed"
       },
       {
         "ingredient": "Basmati rice (dry)",
@@ -727,8 +735,8 @@
       },
       {
         "ingredient": "Spearmint, fresh",
-        "qty": 0.375,
-        "note": "chopped"
+        "qty": 1.5,
+        "note": "tbsp, chopped"
       },
       {
         "ingredient": "Garlic clove",
@@ -742,11 +750,11 @@
       }
     ],
     "steps_detailed": [
-      "Halve the eggplant lengthwise and hollow out the center, leaving a shell about 1cm thick.",
-      "Mix the raw rice with the lamb, dried mint, and garlic, and pack loosely into the hollowed shells - loosely, since the rice needs room to expand as it cooks.",
-      "Arrange in a pot, pour the tomatoes, lemon juice, and 1 cup water over, cover, and simmer 35-40 minutes until the shell is tender and the rice inside is fully cooked.",
-      "Kousa mahshi is properly made with kousa, a pale, tender Levantine summer squash that isn't a distinct item in this database - eggplant gives a similar hollowed-and-stuffed structure, though its flesh is denser and its flavor more assertive than the mild squash the dish is built around."
-    ]
+      "Halve the zucchini lengthwise and hollow out the center with a spoon or corer, leaving a shell about 1cm thick.",
+      "Mix the raw rice with the lamb, mint, and garlic, and pack loosely into the hollowed shells, leaving room for the rice to expand as it cooks.",
+      "Arrange in a pot, pour the tomatoes, lemon juice, and 1 cup water over, cover, and simmer 30-35 minutes until the zucchini is tender and the rice inside is fully cooked."
+    ],
+    "description": "Kousa mahshi, zucchini hollowed and stuffed with spiced rice and lamb, is a genuine Levantine staple - kousa is technically its own pale, tender summer squash rather than exactly the same as zucchini, but real zucchini is a much closer match in texture and mildness than eggplant, which reads far denser and more assertive."
   },
   {
     "name": "Syrian Kibbeh Karaz (Cherry Kibbeh)",
@@ -820,7 +828,8 @@
       "Simmer 20-25 minutes until the sauce has thickened into a sweet-tart glaze.",
       "Gently add the kibbeh balls and simmer 12-15 more minutes until cooked through.",
       "Kibbeh karaz, a specialty of Aleppo, is treasured for its unusual, striking sweet-and-savory combination of meat and sour cherries."
-    ]
+    ],
+    "description": "Kibbeh karaz, kibbeh simmered in a sour cherry sauce, is a specifically Aleppan specialty, distinct from more common tomato-based kibbeh preparations."
   },
   {
     "name": "Syrian Muhammara",
@@ -895,7 +904,8 @@
       "Roast the bell pepper at 450F (230C) until charred and completely soft, about 20-25 minutes, then peel off the skin.",
       "Blend the roasted pepper with the walnuts, bulgur, paprika, lime juice, and oil until it forms a thick, rustic dip.",
       "Season with salt and serve with warm bread - muhammara, from Aleppo, is one of Syria's most iconic and beloved dishes, prized for its sweet-smoky-nutty balance."
-    ]
+    ],
+    "description": "Muhammara, a walnut and red pepper dip, an Aleppo specialty now popular across the Levant."
   },
   {
     "name": "Syrian Hummus",
@@ -964,7 +974,8 @@
     "steps_detailed": [
       "Blend the chickpeas, tahini, lime juice, garlic, and oil with a splash of water until very smooth.",
       "Serve with warm bread - hummus is a Syrian mezze fixture."
-    ]
+    ],
+    "description": "A simple hummus, a Levantine staple."
   },
   {
     "name": "Syrian Ka'ak Bread Rings",
@@ -1023,7 +1034,8 @@
       "Make a soft dough from the flour, baking powder, oil, a pinch of salt, and warm water. Knead briefly and rest 20-25 minutes.",
       "Shape into rings and coat generously in the sesame seeds.",
       "Bake at 400F (200C) for 16-20 minutes until deeply golden and crisp - ka'ak, bread rings, are a common Syrian street snack."
-    ]
+    ],
+    "description": "Ka'ak, ring-shaped bread often coated in sesame, a common Levantine street food."
   },
   {
     "name": "Syrian Batata Harra (Spicy Fried Potatoes)",
@@ -1110,7 +1122,8 @@
       "Toss with the garlic and jalapeno in the last 2-3 minutes of frying, letting them turn fragrant without burning.",
       "Finish with the cilantro and a squeeze of lime juice, and serve hot - batata harra is a beloved, addictive Syrian mezze dish.",
       "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
-    ]
+    ],
+    "description": "Batata harra, spicy fried potatoes, a common Levantine side or snack."
   },
   {
     "name": "Syrian Halawet el Jibn",
@@ -1180,7 +1193,8 @@
       "Fold in the cream cheese and rosewater, stirring over low heat until fully melted and combined into a soft, stretchy dough.",
       "Let cool slightly, then roll into small logs or flatten and fill with sweetened cream.",
       "Chill before slicing - halawet el jibn, a cheese-based sweet, is a distinctly Syrian dessert, especially from Homs and Damascus."
-    ]
+    ],
+    "description": "Halawet el jibn, a cheese and semolina roll filled with cream, a distinctive Levantine sweet unlike Western cheese desserts."
   },
   {
     "name": "Syrian Ma'amoul",
@@ -1250,7 +1264,8 @@
       "Mash the dates with the rosewater.",
       "Flatten a portion of dough, fill with the date mixture, and reshape around it, sealing completely.",
       "Bake at 350F (175C) for 18-24 minutes until just set and very pale - a beloved Syrian holiday cookie, especially for Eid."
-    ]
+    ],
+    "description": "Ma'amoul, a filled shortbread-style cookie, traditionally made for Eid across the Levant."
   },
   {
     "name": "Syrian Qatayef",
@@ -1320,7 +1335,8 @@
       "Cook small rounds on a hot, lightly greased griddle on one side only, until bubbles cover the surface and the top looks dry and set, 2-3 minutes - unlike a regular pancake, qatayef is never flipped.",
       "While still warm, fill each with the chopped walnuts and fold in half, pressing the edges to seal like a stuffed taco.",
       "Drizzle generously with the honey before serving - qatayef, little stuffed pancakes, are especially beloved during Ramadan across Syria."
-    ]
+    ],
+    "description": "Qatayef, small stuffed pancakes, a beloved Ramadan dessert across the Levant."
   },
   {
     "name": "Syrian Toum",
@@ -1376,7 +1392,8 @@
       "Blend the garlic with a little of the lime juice until very finely pureed.",
       "With the blender running, slowly drizzle in the oil, alternating with the remaining lime juice, until it emulsifies into a thick, creamy sauce.",
       "Serve alongside grilled chicken, lamb, or vegetables."
-    ]
+    ],
+    "description": "Toum, a garlic sauce whipped to an emulsified, mayonnaise-like consistency, a defining Levantine condiment."
   },
   {
     "name": "Syrian Pomegranate Dressing",
@@ -1438,6 +1455,7 @@
       "Simmer the pomegranate juice over medium-low heat for 10-12 minutes until reduced by half and syrupy, approximating pomegranate molasses. Let cool completely.",
       "Whisk the cooled syrup with the oil, garlic, and lime juice.",
       "Drizzle over salads, grilled vegetables, or roasted meats - the tangy-sweet depth of pomegranate is a hallmark of Syrian cooking, especially in Aleppo."
-    ]
+    ],
+    "description": "A simple pomegranate dressing, pomegranate molasses being a defining Levantine flavor."
   }
 ]

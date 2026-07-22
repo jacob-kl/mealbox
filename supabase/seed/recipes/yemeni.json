@@ -54,7 +54,8 @@
     "steps_detailed": [
       "Tear the crackers (standing in for torn flatbread) into small pieces and toss thoroughly with the melted butter and cinnamon.",
       "Drizzle generously with honey and serve warm - ftoot, torn bread soaked in ghee and honey, is a simple, beloved Yemeni breakfast."
-    ]
+    ],
+    "description": "Ftoot, bread crumbled and mixed with dates and ghee, a genuine Yemeni breakfast."
   },
   {
     "name": "Yemeni Shakshuka",
@@ -129,7 +130,8 @@
       "Add the tomatoes and fenugreek, and simmer 12-15 minutes until thickened into a rich sauce.",
       "Make small wells and crack in the eggs, cover, and cook 5-8 minutes until set to your liking.",
       "Yemeni shakshuka leans on fenugreek for its distinctive, slightly bitter depth."
-    ]
+    ],
+    "description": "Shakshuka, eggs poached in a spiced tomato sauce, shared across the wider Middle East and North Africa."
   },
   {
     "name": "Yemeni Qishr",
@@ -188,7 +190,8 @@
     "steps_detailed": [
       "Simmer the ginger, cinnamon, and fenugreek if using in 1.25 cups water for 10-12 minutes until fragrant.",
       "Sweeten with the honey and serve warm - qishr, brewed traditionally from coffee husks with warm spices, is Yemen's signature morning drink, distinct from Arabic coffee elsewhere in the region."
-    ]
+    ],
+    "description": "Qishr, coffee made from the husks of the coffee cherry rather than the beans themselves, a distinctly Yemeni tradition."
   },
   {
     "name": "Yemeni Fahsa",
@@ -260,7 +263,8 @@
       "Simmer the beef in water until completely tender, 1.5-2 hours, then shred it finely, reserving some broth.",
       "Simmer the shredded beef with the tomatoes, fenugreek, jalapeno, and garlic, along with a splash of the reserved broth, for 18-22 minutes until thick and richly flavored.",
       "Top with cilantro and serve bubbling hot, traditionally in the same clay pot it was cooked in, with flatbread for scooping - fahsa is a beloved Yemeni comfort dish."
-    ]
+    ],
+    "description": "Fahsa, a bubbling, fenugreek-topped meat stew, a Yemeni specialty."
   },
   {
     "name": "Yemeni Shafut",
@@ -329,7 +333,8 @@
       "Mix the yogurt with the garlic until smooth.",
       "Tear the flatbread into small pieces and soak briefly in the yogurt.",
       "Top with the diced cucumber and cilantro, and serve chilled - shafut, a cool yogurt and bread dish, is especially popular in Yemen's hot months."
-    ]
+    ],
+    "description": "Shafut, flatbread soaked in yogurt and topped with vegetables, a genuine Yemeni dish."
   },
   {
     "name": "Yemeni Fasolia",
@@ -404,7 +409,8 @@
       "Saute the onion and garlic with the paprika until softened, 5-6 minutes.",
       "Add the beans and diced tomatoes with a splash of water, and simmer 18-22 minutes until thickened.",
       "Top with cilantro and serve with rice or flatbread - fasolia, a simple bean stew, is a common Yemeni home-cooked meal."
-    ]
+    ],
+    "description": "Fasolia, a simple bean stew, common Yemeni home cooking."
   },
   {
     "name": "Yemeni Mandi",
@@ -485,9 +491,9 @@
       "Season the chicken with half the cardamom and the cinnamon, and roast at 425F (220C), skin-side up on a rack over a pan, 30-35 minutes, until deeply browned, so the fat and juices drip down rather than staying with the meat.",
       "Meanwhile, soften the onion in the oil in a separate pot, then add the remaining cardamom, cloves, saffron, and 1.75 cups water, and bring to a simmer.",
       "Position the pot under the roasting rack for the last 20-25 minutes so the dripping juices fall into the liquid, then stir in the rice, cover, and cook over low heat 18-20 minutes.",
-      "Fluff the rice and serve the chicken on top.",
-      "Yemeni mandi shares the same drip-roasting logic as its Saudi counterpart - meat suspended above, rice cooked in what falls from it, traditionally in an underground pit here approximated with a rack over a pot."
-    ]
+      "Fluff the rice and serve the chicken on top."
+    ],
+    "description": "Yemeni mandi shares the same drip-roasting logic as its Saudi counterpart - meat suspended above, rice cooked in what falls from it, traditionally in an underground pit here approximated with a rack over a pot."
   },
   {
     "name": "Yemeni Saltah",
@@ -560,7 +566,8 @@
       "Soak the fenugreek seeds in warm water 10 minutes, then whisk vigorously until it forms a thick, frothy foam.",
       "Spoon the hot stew into a serving dish and top with the fenugreek foam just before bringing to the table, still bubbling.",
       "Saltah is widely considered Yemen's national dish, its distinctive fenugreek foam topping unmistakable."
-    ]
+    ],
+    "description": "Saltah, considered close to Yemen's national dish, is a stew topped with hilbeh (fenugreek foam) and a spicy relish."
   },
   {
     "name": "Yemeni Zurbian",
@@ -650,11 +657,12 @@
     "steps_detailed": [
       "Brown the chicken in the oil, 8-10 minutes, then set aside.",
       "Deeply caramelize the onion and garlic in the same pot, 10-12 minutes, until a rich golden-brown.",
-      "Add the tomatoes, chili powder, cardamom, and cinnamon, and cook 3-4 minutes - zurbian carries noticeably more heat than Gulf-style machboos, closer to Yemen's spicier culinary character generally.",
+      "Add the tomatoes, chili powder, cardamom, and cinnamon, and cook 3-4 minutes",
       "Return the chicken with 1.75 cups water and saffron, and simmer 20-25 minutes.",
       "Lift out the chicken, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
       "Fluff the rice and top with the chicken."
-    ]
+    ],
+    "description": "Zurbian carries noticeably more heat than Gulf-style machboos, closer to Yemen's spicier culinary character generally."
   },
   {
     "name": "Yemeni Haneeth",
@@ -726,7 +734,8 @@
       "Season the lamb thoroughly with the fenugreek, garlic, paprika, cumin, and oil.",
       "Roast in a covered dish at 325F (165C) for 1.25-1.5 hours until deeply tender, basting occasionally.",
       "Serve with rice - haneeth, slow-roasted meat traditionally cooked in an underground pit, is a Yemeni specialty for gatherings."
-    ]
+    ],
+    "description": "Haneeth, slow-cooked meat, similar in spirit to mandi but its own distinct Yemeni preparation."
   },
   {
     "name": "Yemeni Bamia (Okra Stew)",
@@ -798,7 +807,8 @@
       "Brown the beef with the onion, garlic, and cumin over medium-high heat, 8-10 minutes.",
       "Add the diced tomatoes and 1/2 cup water, and simmer 22-28 minutes until thickened, finishing with the lime juice.",
       "Serve with rice - a comforting, tomato-forward Yemeni stew, traditionally made with okra as its centerpiece vegetable."
-    ]
+    ],
+    "description": "A simple okra stew, common across the Arabian Peninsula."
   },
   {
     "name": "Yemeni Malawah",
@@ -858,7 +868,8 @@
       "Roll the dough very thin, then fold repeatedly to create many thin layers, coiling into a flat round.",
       "Pan-fry in the oil, 2-3 minutes per side, until golden and visibly flaky.",
       "Drizzle with honey - malawah, a flaky layered flatbread, is a beloved Yemeni breakfast and teatime snack."
-    ]
+    ],
+    "description": "Malawah, a layered, flaky flatbread, a Yemeni breakfast staple."
   },
   {
     "name": "Yemeni Hummus",
@@ -927,7 +938,8 @@
     "steps_detailed": [
       "Blend the chickpeas, tahini, lime juice, garlic, and oil with a splash of water until very smooth.",
       "Serve with warm flatbread - hummus is common across Yemen, often served alongside other mezze."
-    ]
+    ],
+    "description": "A simple hummus, widely eaten across Yemen and the wider region."
   },
   {
     "name": "Yemeni Spiced Roasted Nuts",
@@ -987,7 +999,8 @@
       "Toss the nuts with the cinnamon and honey.",
       "Warm in a dry skillet over low heat, 2-4 minutes, tossing frequently, until fragrant and lightly glazed.",
       "Spiced nuts are a common accompaniment to qishr and coffee across Yemen."
-    ]
+    ],
+    "description": "A simple spiced nut snack."
   },
   {
     "name": "Yemeni Sambosa",
@@ -1060,7 +1073,8 @@
       "Make a simple, firm dough from the flour, a pinch of salt, and water, and roll out thin.",
       "Cut into strips, fill with the beef mixture, and fold into triangles, sealing the edges well.",
       "Fry until deeply golden and crisp, 4-5 minutes - sambosa, likely introduced through trade with South Asia, is a beloved Yemeni snack, especially during Ramadan."
-    ]
+    ],
+    "description": "Sambosa, fried meat-filled pastries, a Yemeni gathering staple."
   },
   {
     "name": "Yemeni Bint al-Sahn",
@@ -1130,7 +1144,8 @@
       "Roll each portion thin and layer in a small buttered pan, brushing generously between each layer with melted butter.",
       "Brush the top with the egg wash and bake at 375F (190C) for 22-28 minutes until deeply golden and flaky.",
       "Drizzle warm with the honey and scatter with pistachios - bint al-sahn, a honey-soaked layered pastry, is Yemen's most celebrated dessert, traditionally served at weddings."
-    ]
+    ],
+    "description": "Bint al-sahn, a layered honey cake, considered close to Yemen's national dessert."
   },
   {
     "name": "Yemeni Aseeda",
@@ -1190,7 +1205,8 @@
       "Spread into a serving bowl, smoothing the top, and make a well in the center.",
       "Fill the well with the honey mixed with cinnamon and the melted butter.",
       "Aseeda, a simple wheat dough dessert eaten by dipping into the honey-butter well, is a Yemeni comfort tradition."
-    ]
+    ],
+    "description": "Aseeda, a thick wheat porridge, traditional Yemeni comfort food."
   },
   {
     "name": "Yemeni Sabaya",
@@ -1260,7 +1276,8 @@
       "Brush each layer generously with melted butter and cinnamon, then stack and roll loosely into a coil.",
       "Pan-fry over medium heat, pressing gently, 3-5 minutes per side, until deeply golden and visibly flaky.",
       "Drizzle warm with the honey and serve with a dollop of cream - sabaya, a sweet layered bread, is a treasured Yemeni dessert."
-    ]
+    ],
+    "description": "Sabaya, a sweet layered pastry, a Yemeni specialty."
   },
   {
     "name": "Yemeni Hilbeh",
@@ -1331,7 +1348,8 @@
       "Soak the fenugreek seeds in warm water for 15-20 minutes, then whisk vigorously until frothy and foam-like.",
       "Stir in the cilantro, jalapeno, lime juice, and garlic.",
       "Hilbeh, a foamy fenugreek relish, is a foundational Yemeni condiment, essential alongside saltah and many other dishes."
-    ]
+    ],
+    "description": "Hilbeh, a foamy fenugreek dip, is a defining Yemeni condiment - real hilbeh soaks whole fenugreek seeds until gelatinous, then whips them into a foam."
   },
   {
     "name": "Yemeni Zhoug",
@@ -1406,6 +1424,7 @@
     "steps_detailed": [
       "Blend the jalapeno, cilantro, garlic, oil, cumin, and lime juice into a smooth, vibrant, fiery paste.",
       "Zhoug, a bright herb-and-chili sauce, is a Yemeni staple that has become popular across Israel and the wider region too."
-    ]
+    ],
+    "description": "Zhoug, a spicy herb sauce, a defining Yemeni condiment now popular across Israel and the wider Middle East too."
   }
 ]
