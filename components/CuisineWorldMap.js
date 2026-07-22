@@ -157,6 +157,7 @@ const GROUP_COLORS = {
   'north-korean': '#5C3D8F',
   'turkish-cypriot': '#8F3D8F',
   asia: '#AD7F52',
+  europe: '#4A8A94',
   burmese: '#D4A843',
   laotian: '#4A9B7A',
   cambodian: '#C25B3A',
