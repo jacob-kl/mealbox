@@ -69,7 +69,8 @@
     "steps_detailed": [
       "Soften the onion with the turmeric, jalapeno, and cumin in the oil, 5-6 minutes.",
       "Scramble in the eggs, cooking gently, stirring often, until just set - a spiced take on scrambled eggs eaten across Pakistani breakfast tables."
-    ]
+    ],
+    "description": "A simple spiced scrambled egg breakfast, common across Pakistani households."
   },
   {
     "name": "Pakistani Lentil Dal Breakfast",
@@ -143,7 +144,8 @@
       "Soften the onion and garlic in the oil, 4-5 minutes.",
       "Add the lentils, cumin, turmeric, and 1.75 cups water, and simmer 22-26 minutes until soft and thickened.",
       "A simple dal like this is eaten at any meal in Pakistan, breakfast included, usually with flatbread."
-    ]
+    ],
+    "description": "A simple lentil dal, eaten for breakfast as often as any other meal."
   },
   {
     "name": "Pakistani Yogurt with Honey and Cardamom",
@@ -199,7 +201,8 @@
     ],
     "steps_detailed": [
       "Stir the honey and cardamom into the yogurt and top with the chopped pistachios."
-    ]
+    ],
+    "description": "A simple, real whole-milk yogurt dish, cardamom being one of the most common Pakistani sweet spices."
   },
   {
     "name": "Pakistani Chicken Karahi",
@@ -264,13 +267,19 @@
         "ingredient": "Spices, coriander seed",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Brown the chicken with the garlic over medium-high heat, 8-10 minutes.",
       "Add the tomatoes, jalapeno, ginger, and coriander, and simmer 20-22 minutes until the chicken is cooked through and the sauce has reduced.",
-      "Karahi, named for the wide, heavy pan it's cooked in, is a fast, tomato-forward everyday dish across Pakistan."
-    ]
+      "Stir in the garam masala off the heat."
+    ],
+    "description": "Karahi, named for the wide, heavy pan it's cooked in, is a fast, tomato-forward everyday dish across Pakistan - a pinch of garam masala at the end gives it real aromatic finish."
   },
   {
     "name": "Pakistani Chana Masala (Chickpea Curry)",
@@ -337,12 +346,19 @@
         "ingredient": "Spices, ginger, ground",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Soften the onion with the ginger, turmeric, and cumin in a little oil, 5-6 minutes.",
-      "Add the chickpeas and tomatoes, and simmer 18-22 minutes, mashing some of the chickpeas to thicken - chana masala is a standard lunch across Pakistan, vegetarian or not."
-    ]
+      "Add the chickpeas and tomatoes, and simmer 18-22 minutes, mashing some of the chickpeas to thicken - chana masala is a standard lunch across Pakistan, vegetarian or not.",
+      "Stir in the garam masala off the heat."
+    ],
+    "description": "A chickpea curry, finished with a little garam masala for real depth."
   },
   {
     "name": "Pakistani Dal (Lentil Curry)",
@@ -417,7 +433,8 @@
       "Soften the onion, garlic, cumin, and jalapeno with the turmeric in a little oil, 5-6 minutes.",
       "Add the lentils and 2.25 cups water, and simmer 28-32 minutes until soft and thickened.",
       "Dal, eaten daily across Pakistan, varies enormously by household - this is a plain, everyday version."
-    ]
+    ],
+    "description": "A simple everyday lentil curry, eaten with rice or bread."
   },
   {
     "name": "Pakistani Chicken Biryani",
@@ -521,13 +538,13 @@
     ],
     "steps_detailed": [
       "Marinate the chicken in the yogurt, garlic, ginger, chili powder, and turmeric for at least 30 minutes, or overnight for real depth.",
-      "Fry half the onion in the oil over medium heat, stirring often, 10-12 minutes, until deeply browned and crisp - these fried onions (birista) are a defining biryani garnish and flavor, not a decoration; set aside half for the top.",
+      "Fry half the onion in the oil over medium heat, stirring often, 10-12 minutes, until deeply browned and crisp; set aside half for the top.",
       "Brown the marinated chicken with the remaining onion in the same oil, 8-10 minutes, along with the cardamom and cinnamon.",
       "Parboil the basmati separately in well-salted water 5-6 minutes, until still quite firm in the center, then drain.",
-      "Layer the parboiled rice over the chicken in the pot, drizzle with the saffron milk, scatter with the reserved fried onions and cilantro, cover tightly (a layer of foil under the lid helps seal in the steam), and cook over very low heat 20-25 minutes.",
-      "Rest 5 minutes off the heat before gently folding the layers together to serve.",
-      "This is the actual dum technique biryani is built on - parboiled rice steamed on top of already-cooked meat under a tight seal, letting the two layers finish together while staying distinct, rather than being cooked as one pot of seasoned rice from the start. The marinated yogurt, fried onions, and layered steaming are what separate real biryani from a spiced pilaf; skipping any of them changes what the dish actually is."
-    ]
+      "Layer the parboiled rice over the chicken in the pot, drizzle with the saffron milk, scatter with the reserved fried onions and cilantro, cover tightly, and cook over very low heat 20-25 minutes.",
+      "Rest 5 minutes off the heat before gently folding the layers together to serve."
+    ],
+    "description": "The actual dum technique biryani is built on - parboiled rice steamed on top of already-cooked, marinated chicken under a tight seal, letting the two layers finish together while staying distinct, rather than being cooked as one pot of seasoned rice from the start. Fried onions (birista), marinated yogurt, and layered steaming are what separate real biryani from a spiced pilaf."
   },
   {
     "name": "Pakistani Beef Keema",
@@ -591,12 +608,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, garlic, ginger, and turmeric over medium-high heat, breaking it up well, 11-13 minutes.",
-      "Add the tomatoes and simmer 8-10 more minutes until slightly thickened - keema, spiced minced meat, is endlessly versatile, eaten with rice, bread, or folded into other dishes."
-    ]
+      "Brown the beef with the onion, garlic, ginger, and turmeric, breaking it up well, 11-13 minutes.",
+      "Add the tomatoes and simmer 8-10 more minutes until slightly thickened.",
+      "Stir in the garam masala off the heat."
+    ],
+    "description": "Keema, spiced minced meat, is endlessly versatile, eaten with rice, bread, or folded into other dishes - garam masala stirred in at the end gives real aromatic finish."
   },
   {
     "name": "Pakistani Lamb Karahi",
@@ -661,12 +685,19 @@
         "ingredient": "Spices, coriander seed",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the lamb with the garlic, ginger, and coriander over medium-high heat, 9-11 minutes.",
-      "Add the tomatoes and jalapeno, and simmer 16-20 minutes until thickened and rich."
-    ]
+      "Brown the lamb with the garlic, 8-9 minutes.",
+      "Add the tomatoes, jalapeno, ginger, and coriander, and simmer 18-20 minutes until reduced.",
+      "Stir in the garam masala off the heat."
+    ],
+    "description": "The lamb version of karahi, finished the same way with garam masala for aromatic lift."
   },
   {
     "name": "Pakistani Chicken Tikka-Style Bake",
@@ -737,7 +768,8 @@
       "Marinate the chicken in the yogurt, turmeric, lime juice, ginger, and garlic for at least 25-30 minutes, or overnight.",
       "Bake at 425F (220C) for 22-28 minutes until cooked through and lightly charred at the edges.",
       "Tikka is traditionally cooked in a tandoor, giving it a distinct smoky char that a home oven can only approximate."
-    ]
+    ],
+    "description": "The tikka marinade - yogurt, spice, lime - applied to a baked preparation rather than grilled."
   },
   {
     "name": "Pakistani Beef and Lentil Stew (Haleem-Style)",
@@ -802,13 +834,19 @@
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the garlic, ginger, and turmeric over medium-high heat, 8-10 minutes.",
+      "Brown the beef with the garlic, ginger, and turmeric, 8-10 minutes.",
       "Add the lentils, bulgur, and 2.75 cups water, and simmer 38-42 minutes, mashing occasionally, until it breaks down into a thick, smooth porridge.",
-      "Haleem, a slow-cooked blend of meat, lentils, and wheat, is beloved across Pakistan and especially prominent during Ramadan."
-    ]
+      "Stir in the garam masala off the heat."
+    ],
+    "description": "Haleem, a slow-cooked blend of meat, lentils, and wheat, is beloved across Pakistan and especially prominent during Ramadan - traditionally simmered for hours until completely smooth; this is a faster home version that gets close within a more practical timeframe."
   },
   {
     "name": "Pakistani Samosa-Style Potato Filling",
@@ -882,7 +920,8 @@
     "steps_detailed": [
       "Mix the mashed potato with the cumin, turmeric, jalapeno, and coriander.",
       "Warm through in the oil, 4-5 minutes, before serving - this is the classic samosa filling, served here on its own rather than wrapped in fried pastry."
-    ]
+    ],
+    "description": "The spiced potato filling used inside real samosas, served here on its own."
   },
   {
     "name": "Pakistani Raita (Yogurt and Cucumber)",
@@ -940,7 +979,8 @@
     "steps_detailed": [
       "Mix the yogurt, grated cucumber, cumin, and a light dusting of chili powder together.",
       "Raita is served alongside nearly every spiced Pakistani dish to cool the palate."
-    ]
+    ],
+    "description": "A cooling yogurt side dish, built on real whole-milk yogurt."
   },
   {
     "name": "Pakistani Spiced Chickpea Snack",
@@ -1008,7 +1048,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, chili powder, lime juice, and onion.",
       "Let sit 10 minutes so the flavors meld - a common roadside snack across Pakistan, sold in paper cones."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "Pakistani Yogurt Naan-Style Flatbread",
@@ -1077,7 +1118,8 @@
       "Mix the flour, yogurt, baking powder, and a pinch of salt into a soft, slightly tacky dough, and rest 15-20 minutes.",
       "Roll out thin and cook on a hot, dry griddle, 2-3 minutes per side, until puffed and darkly speckled.",
       "Brush with the butter and a little minced garlic while still warm - yogurt in the dough is what gives naan its characteristic softness and tang."
-    ]
+    ],
+    "description": "A simple yogurt-enriched flatbread, in the style of naan."
   },
   {
     "name": "Pakistani Rice Pudding (Kheer)",
@@ -1145,7 +1187,8 @@
       "Simmer the basmati in the milk with the cardamom over low heat, stirring often, 30-35 minutes, until it breaks down and thickens into a rich, creamy pudding - kheer is cooked longer and reduced further than a Western rice pudding, until the milk itself has visibly thickened, not just the rice.",
       "Stir in the sugar.",
       "Top with the pistachios."
-    ]
+    ],
+    "description": "Kheer, a rice pudding built on basmati and real cardamom."
   },
   {
     "name": "Pakistani Saffron Rice Dessert",
@@ -1219,7 +1262,8 @@
       "Cook the basmati in 1.2 cups water until just tender, 15-18 minutes.",
       "Stir in the sugar, saffron and its milk, and butter while still warm, until the rice turns a deep golden color.",
       "Top generously with the almonds and pistachios."
-    ]
+    ],
+    "description": "A sweet saffron rice, finished with nuts."
   },
   {
     "name": "Pakistani Honey and Cardamom Sweet",
@@ -1288,7 +1332,8 @@
       "Whisk the cornstarch into a little of the cold milk until smooth.",
       "Warm the rest of the milk with the honey and cardamom, whisk in the cornstarch slurry, and simmer over low heat, stirring constantly, 5-6 minutes until thickened.",
       "Top with the chopped pistachios and chill before serving."
-    ]
+    ],
+    "description": "A simple milk-based sweet, cardamom-scented."
   },
   {
     "name": "Pakistani Yogurt Mint Sauce",
@@ -1345,7 +1390,8 @@
     ],
     "steps_detailed": [
       "Mix the yogurt, mint, cumin, and lime juice together into a bright, cooling sauce - good over grilled meats or kebabs."
-    ]
+    ],
+    "description": "A simple yogurt-mint sauce, built on real whole-milk yogurt."
   },
   {
     "name": "Pakistani Tomato Ginger Sauce",
@@ -1414,6 +1460,7 @@
     "steps_detailed": [
       "Soften the garlic, ginger, and turmeric in the oil, 2-3 minutes.",
       "Add the tomatoes and simmer 14-16 minutes until thickened - a base sauce underlying much of everyday Pakistani cooking."
-    ]
+    ],
+    "description": "A simple tomato-ginger sauce base, used across many Pakistani curries."
   }
 ]

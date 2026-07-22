@@ -66,7 +66,8 @@
       "Mix the flour, yogurt, baking powder, and a pinch of salt into a soft, slightly tacky dough, and rest 15-20 minutes.",
       "Roll out and press a pattern into the center (traditionally done with a special stamp called a chekich), and cook on a hot, dry griddle, 2-3 minutes per side, until puffed and darkly speckled.",
       "Brush with the butter and drizzle with the honey - non, round leavened bread, is treated with real reverence in Uzbekistan; it's considered disrespectful to place a loaf upside down or throw any of it away."
-    ]
+    ],
+    "description": "Non, Uzbekistan's traditional round bread, baked in a tandoor-style oven and stamped with a decorative pattern."
   },
   {
     "name": "Uzbek Eggs with Tomato",
@@ -135,7 +136,8 @@
       "Soften the onion and garlic in the oil, 5-6 minutes.",
       "Add the tomatoes and simmer 6-8 minutes until slightly thickened.",
       "Scramble in the eggs, cooking gently, stirring often, until just set."
-    ]
+    ],
+    "description": "A simple, everyday egg breakfast."
   },
   {
     "name": "Uzbek Oat Porridge",
@@ -192,7 +194,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
       "Top generously with the honey."
-    ]
+    ],
+    "description": "A simple breakfast porridge."
   },
   {
     "name": "Uzbek Plov (Osh)",
@@ -285,9 +288,9 @@
       "Brown the lamb with the onion over medium-high heat, 13-16 minutes, until the onion is deeply caramelized and the lamb well browned.",
       "Layer in the carrots and cumin and cook 9-11 more minutes, without stirring too much, until the carrots have softened and taken on color.",
       "Add the rice, raisins, whole garlic cloves, and 2.25 cups water, cover, and simmer 24-28 minutes without stirring until the rice is fully tender and has absorbed the broth.",
-      "Osh, known internationally as plov, is Uzbekistan's most famous dish by far - so central to national identity that it has its own UNESCO cultural heritage recognition, and whole garlic heads are traditionally buried directly into the rice to soften and mellow as it cooks.",
-      "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
-    ]
+      "Osh, known internationally as plov, is Uzbekistan's most famous dish by far - so central to national identity that it has its own UNESCO cultural heritage recognition, and whole garlic heads are traditionally buried directly into the rice to soften and mellow as it cooks."
+    ],
+    "description": "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
   },
   {
     "name": "Uzbek Lagman (Noodle Stir-Fry)",
@@ -358,7 +361,8 @@
       "Cook the noodles until tender, and drain.",
       "Brown the beef with the onion, pepper, and garlic over medium-high heat, 9-11 minutes, then add the tomatoes and simmer 5-6 more minutes.",
       "Toss with the noodles - lagman reached Uzbekistan through its Uyghur and Dungan communities, and remains a beloved everyday dish."
-    ]
+    ],
+    "description": "Lagman, hand-pulled noodles in a stir-fried meat and vegetable sauce, reflects Uzbekistan's Silk Road position between Chinese and Central Asian cooking traditions."
   },
   {
     "name": "Uzbek Manti-Style Dumplings",
@@ -429,7 +433,8 @@
       "Make a simple, firm dough from the flour, a pinch of salt, and water, roll thin, and cut into squares.",
       "Mix the lamb, onion, and pepper, fill the dough, fold and seal well, and steam 16-20 minutes until cooked through.",
       "Top with the melted butter and yogurt - manti, large steamed dumplings, are traditionally cooked in a stacked steamer called a mantovar, one of Uzbekistan's most iconic dishes."
-    ]
+    ],
+    "description": "Manti, steamed dumplings, shares its name and technique with the Turkish version - part of the same dumpling tradition running from China through Central Asia to Turkey."
   },
   {
     "name": "Uzbek Lentil Soup",
@@ -498,7 +503,8 @@
     "steps_detailed": [
       "Soften the onion, garlic, and carrots with the cumin in a little oil, 6-7 minutes.",
       "Add the lentils and 2.25 cups water, and simmer 28-32 minutes until soft and thickened."
-    ]
+    ],
+    "description": "A simple, everyday lentil soup."
   },
   {
     "name": "Uzbek Shashlik-Style Lamb Skewers",
@@ -564,7 +570,8 @@
       "Mix the lamb with the garlic, cumin, grated onion, and pepper thoroughly, and shape into small, even skewer-style portions.",
       "Grill or pan-fry over medium-high heat, 9-11 minutes, turning, until well browned and cooked through.",
       "Shashlik, grilled skewered meat, is ubiquitous street food across Uzbekistan, traditionally marinated in vinegar and onion overnight."
-    ]
+    ],
+    "description": "Shashlik, grilled skewered meat, found across the former Soviet sphere and Central Asia."
   },
   {
     "name": "Uzbek Beef and Carrot Plov",
@@ -645,9 +652,9 @@
     "steps_detailed": [
       "Brown the beef with the onion over medium-high heat, 10-12 minutes, until well caramelized.",
       "Add the carrots, garlic, and cumin, and cook 7-9 more minutes until softened.",
-      "Add the rice and 2 cups water, cover, and simmer 24-28 minutes until the rice is tender - the beef version of plov is more common for everyday cooking, with lamb reserved for special occasions.",
-      "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
-    ]
+      "Add the rice and 2 cups water, cover, and simmer 24-28 minutes until the rice is tender - the beef version of plov is more common for everyday cooking, with lamb reserved for special occasions."
+    ],
+    "description": "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
   },
   {
     "name": "Uzbek Chicken and Pepper Stew",
@@ -712,7 +719,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
       "Add the pepper and tomatoes, and simmer 20-22 minutes until cooked through and the sauce has thickened."
-    ]
+    ],
+    "description": "A simple, everyday stew."
   },
   {
     "name": "Uzbek Eggplant Stew",
@@ -785,7 +793,8 @@
     "steps_detailed": [
       "Brown the eggplant with the garlic, cumin, and pepper in the oil over medium heat, 8-10 minutes.",
       "Add the tomatoes and simmer 16-20 minutes until the eggplant is fully soft and the sauce has thickened."
-    ]
+    ],
+    "description": "A simple eggplant stew."
   },
   {
     "name": "Uzbek Samsa-Style Baked Pastry Filling",
@@ -856,7 +865,8 @@
       "Mix the beef with the onion, pepper, and cumin thoroughly.",
       "Rub the butter into the flour with a pinch of salt and enough cold water to form a firm pastry, roll thin, fill with the beef mixture, seal well, and bake at 400F (200C) for 22-28 minutes until deeply golden.",
       "Samsa, baked pastries usually cooked in a tandoor oven, are one of Uzbekistan's most popular street foods."
-    ]
+    ],
+    "description": "Samsa, a baked (not fried) pastry, distinct from the fried samosa found further south in India."
   },
   {
     "name": "Uzbek Raisin and Walnut Snack",
@@ -914,7 +924,8 @@
     ],
     "steps_detailed": [
       "Toss the raisins and walnuts with the honey and a dusting of cinnamon - Uzbekistan's dried fruit and nut markets, especially in Samarkand and Bukhara, are famous along the old Silk Road trading routes."
-    ]
+    ],
+    "description": "A simple raisin and walnut snack, both staples of Central Asian dried-fruit-and-nut traditions."
   },
   {
     "name": "Uzbek Cheese and Bread Snack",
@@ -969,7 +980,8 @@
     ],
     "steps_detailed": [
       "Butter the bread generously, top with the cheese, and finish with a little black pepper."
-    ]
+    ],
+    "description": "A simple cheese and bread snack."
   },
   {
     "name": "Uzbek Spiced Chickpea Snack",
@@ -1037,7 +1049,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "Uzbek Honey Cake",
@@ -1109,7 +1122,8 @@
     "steps_detailed": [
       "Cream the butter and honey together until light, then beat in the egg.",
       "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ]
+    ],
+    "description": "A simple honey cake."
   },
   {
     "name": "Uzbek Rice Pudding",
@@ -1179,9 +1193,9 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
-    ]
+      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
+    ],
+    "description": "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
   },
   {
     "name": "Uzbek Walnut Honey Sweet",
@@ -1237,7 +1251,8 @@
     ],
     "steps_detailed": [
       "Warm the honey, butter, and cinnamon together over low heat, 2-3 minutes, then toss with the walnuts and let set in a small lined dish until firm."
-    ]
+    ],
+    "description": "Walnuts and honey, a common Central Asian sweet pairing."
   },
   {
     "name": "Uzbek Garlic Onion Sauce",
@@ -1294,7 +1309,8 @@
     ],
     "steps_detailed": [
       "Soften the garlic, onion, and pepper in the oil over medium heat, 6-7 minutes, until softened and fragrant."
-    ]
+    ],
+    "description": "A simple garlic-onion sauce."
   },
   {
     "name": "Uzbek Yogurt Dill Sauce",
@@ -1350,6 +1366,7 @@
     ],
     "steps_detailed": [
       "Mix the yogurt, dill, garlic, and pepper together into a cool, herby sauce - a common accompaniment to manti and samsa."
-    ]
+    ],
+    "description": "A simple yogurt-dill sauce, built on real whole-milk yogurt."
   }
 ]

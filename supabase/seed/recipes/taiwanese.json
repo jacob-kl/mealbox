@@ -63,7 +63,8 @@
     "steps_detailed": [
       "Simmer the hard-boiled eggs in the soy sauce, ginger, cinnamon, garlic, and a splash of water over low heat, 18-22 minutes, turning occasionally, until deeply colored and flavored throughout.",
       "Tea eggs and soy-braised eggs are a common Taiwanese breakfast and snack, sold at nearly every convenience store."
-    ]
+    ],
+    "description": "A simple soy-braised egg, similar to the tea eggs found across Taiwanese convenience stores."
   },
   {
     "name": "Taiwanese Rice Porridge (Congee-Style)",
@@ -133,7 +134,8 @@
       "Simmer the rice with the ginger in 3.25 cups water over medium-low heat, stirring occasionally, 32-38 minutes, until it breaks down into a thick, smooth porridge.",
       "Top with the onion, softened briefly in the oil, and a drizzle of soy sauce.",
       "Rice porridge, plain or topped with savory garnishes, is a common light Taiwanese breakfast."
-    ]
+    ],
+    "description": "A simple rice porridge."
   },
   {
     "name": "Taiwanese Scallion-Style Eggs",
@@ -208,7 +210,8 @@
       "Scramble in the eggs and soy sauce, cooking gently, stirring often, until just set.",
       "Real scallion isn't in this database, so yellow onion carries a similar aromatic role here, though the flavor is milder and less sharp.",
       "Real scallions are used here now, giving the sharper, more specific flavor the dish actually calls for rather than yellow onion's milder substitute."
-    ]
+    ],
+    "description": "A simple scallion egg dish."
   },
   {
     "name": "Taiwanese Beef Noodle Soup",
@@ -279,7 +282,8 @@
       "Simmer the beef with the onion, garlic, ginger, and soy sauce in 2.75 cups water over medium-low heat, 48-55 minutes, until very tender and the broth is deeply flavored.",
       "Cook the noodles separately and serve in the rich broth with the beef.",
       "Beef noodle soup, slow-braised and deeply savory, is considered Taiwan's unofficial national dish, with countless regional and family variations across the island."
-    ]
+    ],
+    "description": "Niu rou mian, considered close to a national dish of Taiwan, despite being a relatively recent creation from the mid-20th century - beef shank slow-braised in a soy-based broth over wheat noodles."
   },
   {
     "name": "Taiwanese Three-Cup Chicken",
@@ -344,13 +348,25 @@
         "ingredient": "Honey",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 2,
+        "note": "tbsp, chopped, standing in for Thai basil"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the garlic and ginger in the oil over medium-high heat, 8-10 minutes.",
-      "Add the soy sauce, honey, and a splash of water, and simmer 20-22 minutes until cooked through and the sauce has reduced to a glossy glaze.",
-      "San bei ji, traditionally built on soy sauce, sesame oil, and rice wine in equal 'cups', is one of Taiwan's most beloved home-style dishes."
-    ]
+      "Brown the chicken in the vegetable oil, 8-10 minutes.",
+      "Add the garlic and ginger, cooking 30 seconds.",
+      "Add the soy sauce, sesame oil, and honey, and simmer 12-15 minutes until the chicken is cooked through and the sauce reduces to a thick glaze.",
+      "Stir in the basil off the heat just before serving."
+    ],
+    "description": "San bei ji, 'three-cup chicken,' is named for its traditional ratio of soy sauce, rice wine, and sesame oil, each measured by the same cup. Rice wine isn't available here, so this leans more on sesame oil and fresh basil for its character than the real three-way balance."
   },
   {
     "name": "Taiwanese Soy-Braised Pork",
@@ -420,7 +436,8 @@
     "steps_detailed": [
       "Brown the pork with the onion, garlic, and ginger over medium-high heat, 9-11 minutes.",
       "Add the soy sauce, honey, and 1.1 cups water, and simmer 32-38 minutes until tender and the sauce has thickened - lu rou, soy-braised pork, is a beloved rice-topping dish across Taiwan."
-    ]
+    ],
+    "description": "Lu rou-adjacent, soy-braised pork being a Taiwanese comfort-food staple."
   },
   {
     "name": "Taiwanese Lentil and Soy Stew",
@@ -488,7 +505,8 @@
     "steps_detailed": [
       "Soften the onion, garlic, and ginger in a little oil, 5-6 minutes.",
       "Add the lentils, soy sauce, and 2.25 cups water, and simmer 28-32 minutes until soft and thickened."
-    ]
+    ],
+    "description": "A simple lentil and soy stew."
   },
   {
     "name": "Taiwanese Soy-Braised Beef",
@@ -553,7 +571,8 @@
     "steps_detailed": [
       "Brown the beef with the onion, garlic, and ginger over medium-high heat, 9-11 minutes.",
       "Add the soy sauce and 1.1 cups water, and simmer 42-48 minutes until very tender and the sauce has thickened."
-    ]
+    ],
+    "description": "A simple soy-braised beef dish."
   },
   {
     "name": "Taiwanese Chicken and Rice",
@@ -623,7 +642,8 @@
     "steps_detailed": [
       "Brown the chicken with the onion, garlic, and ginger over medium-high heat, 8-10 minutes.",
       "Add the rice, soy sauce, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender."
-    ]
+    ],
+    "description": "A simple chicken and rice dish."
   },
   {
     "name": "Taiwanese Fish with Soy and Ginger",
@@ -696,7 +716,8 @@
       "Season the fish with the ginger, onion, and garlic.",
       "Steam or bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
       "Finish with the soy sauce and a drizzle of oil warmed until fragrant."
-    ]
+    ],
+    "description": "A simple soy-ginger fish dish."
   },
   {
     "name": "Taiwanese Cabbage and Pork Stir-Fry",
@@ -761,7 +782,8 @@
     "steps_detailed": [
       "Brown the pork with the garlic and ginger over medium-high heat, 7-9 minutes.",
       "Add the cabbage and soy sauce, and stir-fry 9-11 minutes until the cabbage is tender-crisp."
-    ]
+    ],
+    "description": "A simple cabbage and pork stir-fry."
   },
   {
     "name": "Taiwanese Spiced Chickpea Snack",
@@ -829,7 +851,8 @@
     "steps_detailed": [
       "Toss the chickpeas with the soy sauce, ginger, oil, and garlic.",
       "Let sit 10 minutes so the flavors meld."
-    ]
+    ],
+    "description": "A simple spiced chickpea snack."
   },
   {
     "name": "Taiwanese Cucumber Salad",
@@ -899,7 +922,8 @@
     "steps_detailed": [
       "Toss the cucumber with the soy sauce, garlic, oil, and a light dusting of chili powder.",
       "Let sit 15 minutes so it softens slightly and absorbs the seasoning."
-    ]
+    ],
+    "description": "A simple cucumber salad."
   },
   {
     "name": "Taiwanese Soy Egg Snack",
@@ -955,7 +979,8 @@
     ],
     "steps_detailed": [
       "Simmer the hard-boiled egg in the soy sauce, ginger, cinnamon, and a splash of water over low heat, 14-17 minutes, turning occasionally, until deeply colored."
-    ]
+    ],
+    "description": "A smaller, snack-sized soy egg."
   },
   {
     "name": "Taiwanese Noodle Salad",
@@ -1021,7 +1046,8 @@
     "steps_detailed": [
       "Toss the cooked, cooled noodles with the soy sauce, oil, onion, and garlic.",
       "Let sit 10 minutes so the flavors meld before serving, at room temperature or chilled."
-    ]
+    ],
+    "description": "A simple noodle salad."
   },
   {
     "name": "Taiwanese Rice Pudding",
@@ -1087,7 +1113,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ]
+    ],
+    "description": "A simple rice pudding."
   },
   {
     "name": "Taiwanese Honey Cake",
@@ -1160,7 +1187,8 @@
       "Cream the butter and honey together until light, then beat in the egg.",
       "Fold in the flour, baking powder, and chopped pineapple, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean.",
       "Taiwan's famous pineapple cake is traditionally a shortbread pastry filled with pineapple jam - this keeps the pineapple flavor folded through a simpler honey cake instead."
-    ]
+    ],
+    "description": "A simple honey cake."
   },
   {
     "name": "Taiwanese Pineapple with Honey",
@@ -1217,7 +1245,8 @@
     ],
     "steps_detailed": [
       "Warm the pineapple briefly in the butter, 2-3 minutes, then toss with the honey and cinnamon."
-    ]
+    ],
+    "description": "Pineapple, closely associated with Taiwan and its famous pineapple cakes, served here simply with honey."
   },
   {
     "name": "Taiwanese Soy Ginger Sauce",
@@ -1275,7 +1304,8 @@
     ],
     "steps_detailed": [
       "Whisk the soy sauce, ginger, oil, and garlic together into a sharp, savory sauce - good over noodles, dumplings, or steamed fish."
-    ]
+    ],
+    "description": "A simple soy-ginger sauce."
   },
   {
     "name": "Taiwanese Soy Garlic Sauce",
@@ -1334,6 +1364,7 @@
     "steps_detailed": [
       "Warm the garlic in the oil over low heat, 1-2 minutes, until fragrant but not browned.",
       "Whisk in the soy sauce and honey."
-    ]
+    ],
+    "description": "A simple soy-garlic sauce."
   }
 ]

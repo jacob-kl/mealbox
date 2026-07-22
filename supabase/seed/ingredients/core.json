@@ -8245,5 +8245,54 @@
       "gluten_free"
     ],
     "allergens": []
+  },
+  {
+    "name": "Doenjang",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 175,
+    "protein": 13.0,
+    "carbs": 17.0,
+    "fat": 4.0,
+    "fiber": 3.0,
+    "micros": {
+      "calcium": 60.0,
+      "potassium": 400,
+      "iron": 2.5,
+      "sodium": 2000.0
+    },
+    "sub_group": "condiments_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": [
+      "soy"
+    ]
+  },
+  {
+    "name": "Garam masala",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 400,
+    "protein": 12.0,
+    "carbs": 55.0,
+    "fat": 15.0,
+    "fiber": 25.0,
+    "micros": {
+      "calcium": 400.0,
+      "potassium": 1200,
+      "iron": 25.0,
+      "magnesium": 150.0
+    },
+    "sub_group": "spices_herbs",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
   }
 ]

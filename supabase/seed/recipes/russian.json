@@ -76,7 +76,8 @@
       "Add the broth and mustard, scraping up any browned bits from the pan.",
       "Reduce heat to low, stir in the sour cream, and return the beef to the pan. Warm through gently - don't let it boil, or the sour cream can separate.",
       "Cook the noodles per package directions and serve the stroganoff over them, topped with parsley."
-    ]
+    ],
+    "description": "Beef stroganoff, thin-sliced beef in a sour-cream sauce, named for the Stroganov family and now a genuine global export of Russian cooking."
   },
   {
     "name": "Chicken Kiev-Style",
@@ -149,7 +150,8 @@
       "Dredge in flour, dip in beaten egg, then coat thoroughly in panko.",
       "Bake at 400F for 22-25 minutes until golden and cooked through (165F internal).",
       "Rest a few minutes before cutting - the butter inside will be very hot."
-    ]
+    ],
+    "description": "Chicken Kiev, a butter-filled cutlet meant to release a rush of garlic butter when cut into - despite the name, it's disputed whether the dish originated in Kyiv or was invented later by Russian chefs; either way it became a staple of Soviet-era restaurant menus."
   },
   {
     "name": "Beef and Cabbage Stew (Russian)",
@@ -232,7 +234,8 @@
       "Add the tomatoes, broth, and bay leaf. Bring to a simmer.",
       "Add the cabbage, cover, and simmer 20-25 minutes until fully tender.",
       "Remove the bay leaf and serve with a dollop of sour cream - this is 'shchi's heartier cousin, a filling everyday stew."
-    ]
+    ],
+    "description": "A simple beef and cabbage stew."
   },
   {
     "name": "Beet Soup (Borscht)",
@@ -321,7 +324,8 @@
       "Cover and cook 20-25 minutes until the beets are almost tender.",
       "Add the cabbage and simmer 8-10 more minutes until everything is tender - the soup should be a deep, vivid red from the beets.",
       "Serve with a generous dollop of sour cream and a scatter of fresh dill."
-    ]
+    ],
+    "description": "Borscht, beet soup finished with a dollop of sour cream, is claimed by and beloved across many countries in the region, Russia among them."
   },
   {
     "name": "Pork and Sauerkraut",
@@ -394,7 +398,8 @@
       "Add the caraway seed, sauerkraut, potato, and broth.",
       "Return the pork to the pan, cover, and simmer 20-25 minutes until the potato is tender.",
       "Top with dill before serving - the tang of sauerkraut against rich pork is a defining combination across Russian and Eastern European cooking."
-    ]
+    ],
+    "description": "A simple pork and sauerkraut dish."
   },
   {
     "name": "Chicken and Rice (Plov-Style)",
@@ -472,7 +477,8 @@
       "Add the garlic and cumin, cooking 1 minute.",
       "Stir in the rice, coating it in the fat and aromatics, then add the broth and raisins.",
       "Nestle the chicken back in, bring to a boil, reduce heat, cover, and cook 20-25 minutes until the rice is tender - plov is beloved across Russia and Central Asia, with countless regional variations."
-    ]
+    ],
+    "description": "Plov, rice cooked with meat, found across Russia as well as Central Asia given their shared history."
   },
   {
     "name": "Beef and Potato Pirozhki-Style Bake",
@@ -540,7 +546,8 @@
       "Roll out and cut into rounds, fill each with the beef-potato mixture, fold over, and seal the edges.",
       "Brush with a little more beaten egg.",
       "Bake at 375F for 20-25 minutes until golden - a baked, home-style take on pirozhki, the beloved stuffed pastries found at every Russian bakery."
-    ]
+    ],
+    "description": "Pirozhki, small stuffed pastries, given a baked casserole-style treatment here."
   },
   {
     "name": "Beef Salad (Russian Winter Salad Style)",
@@ -607,7 +614,8 @@
       "Whisk the sour cream and mustard together for the dressing.",
       "Toss the beef, potato, and carrot with the dressing.",
       "Fold in the dill just before serving - a heartier, protein-forward take on the classic diced-vegetable salads that are a fixture of Russian home cooking."
-    ]
+    ],
+    "description": "In the style of Olivier salad, a Russian potato-and-meat salad staple, especially for New Year's."
   },
   {
     "name": "Chicken and Buckwheat Bowl",
@@ -668,7 +676,8 @@
       "Melt the butter in a pan over medium heat and cook the onion 8-10 minutes, stirring often, until deeply golden and sweet.",
       "Cook the rice (or buckwheat groats, if you have them - kasha is the traditional base for this dish) per package directions.",
       "Serve the chicken over the grain, topped with the caramelized onion and dill."
-    ]
+    ],
+    "description": "Buckwheat (grechka), a Russian pantry staple, paired here with chicken."
   },
   {
     "name": "Dumpling Soup (Pelmeni-Style)",
@@ -740,7 +749,8 @@
       "Fill each wrapper with a small spoonful of filling, fold and pinch tightly closed - pelmeni are traditionally smaller and more delicate than many other dumplings.",
       "Bring the broth to a simmer. Drop the dumplings in and cook 8-10 minutes until they float and the filling is cooked through.",
       "Serve in the broth, topped with sour cream and dill."
-    ]
+    ],
+    "description": "Pelmeni, small meat dumplings, a Russian and broader Slavic staple, traditionally made in large batches and frozen."
   },
   {
     "name": "Beet and Potato Salad",
@@ -808,7 +818,8 @@
       "Whisk the sour cream and vinegar together.",
       "Toss the beets, potato, and red onion with the dressing - the beets will tint everything a deep pink, which is part of the dish's charm.",
       "Fold in the dill before serving."
-    ]
+    ],
+    "description": "A simple beet and potato salad."
   },
   {
     "name": "Cabbage and Egg Bowl",
@@ -871,7 +882,8 @@
       "Melt the butter in a pan over medium heat and cook the cabbage 10-12 minutes, stirring occasionally, until tender and lightly golden at the edges.",
       "Toss with the chopped egg and sour cream.",
       "Top with dill before serving - a simple, comforting combination found throughout Russian home cooking."
-    ]
+    ],
+    "description": "A simple cabbage and egg dish."
   },
   {
     "name": "Buckwheat Porridge (Kasha)",
@@ -934,7 +946,8 @@
       "Combine the rice (or buckwheat groats, the traditional base) with the milk in a saucepan.",
       "Bring to a gentle simmer and cook 15-20 minutes, stirring occasionally, until tender and the mixture has thickened.",
       "Stir in the butter, honey, and cinnamon before serving warm - kasha is a foundational breakfast across Russia."
-    ]
+    ],
+    "description": "Kasha, buckwheat porridge, one of Russia's most fundamental staple foods."
   },
   {
     "name": "Cottage Cheese Pancakes (Syrniki)",
@@ -1008,7 +1021,8 @@
       "Shape into small patties, dusting lightly with extra flour if too sticky to handle.",
       "Heat oil in a skillet over medium heat and fry 2-3 minutes per side until golden.",
       "Serve warm with a dollop of sour cream - syrniki are a beloved weekend breakfast across Russia."
-    ]
+    ],
+    "description": "Syrniki, farmer's-cheese pancakes, a beloved Russian breakfast."
   },
   {
     "name": "Spiced Roasted Sunflower Seeds",
@@ -1045,7 +1059,8 @@
       "Toss with oil and a pinch of salt.",
       "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often.",
       "Cool before eating - roasted sunflower seeds ('semechki') are one of Russia's most iconic casual snacks, sold everywhere from train platforms to parks."
-    ]
+    ],
+    "description": "Sunflower seeds, an extremely popular snack across Russia."
   },
   {
     "name": "Rye Bread with Butter and Dill",
@@ -1096,7 +1111,8 @@
     "steps_detailed": [
       "Generously butter the rye bread.",
       "Top with chopped dill and a light sprinkle of salt - a beloved, simple Russian snack, often served alongside soup or tea."
-    ]
+    ],
+    "description": "Rye bread, dense and dark, is Russia's everyday bread."
   },
   {
     "name": "Pickled Vegetable Plate",
@@ -1147,7 +1163,8 @@
     "steps_detailed": [
       "Arrange the sauerkraut and cucumber slices together on a plate.",
       "Drizzle lightly with olive oil and scatter with dill - pickled and fermented vegetables are a constant presence on the Russian table, prized for cutting through richer dishes."
-    ]
+    ],
+    "description": "Pickled vegetables, a staple accompaniment across Russian meals."
   },
   {
     "name": "Honey Cake Bites (Medovik-Style)",
@@ -1217,7 +1234,8 @@
       "Fold in the flour to form a soft batter, spread thin on a lined baking sheet.",
       "Bake 12-15 minutes until golden, then cool completely and cut into small squares.",
       "Layer or top with sour cream - a simplified take on medovik, the classic Russian honey layer cake."
-    ]
+    ],
+    "description": "Medovik, a layered honey cake, a beloved Russian dessert."
   },
   {
     "name": "Chicken Cutlets (Kotleti-Style)",
@@ -1290,7 +1308,8 @@
       "Shape into oval patties, then coat lightly in the remaining breadcrumbs.",
       "Heat oil in a skillet over medium heat and fry 4-5 minutes per side until golden and cooked through.",
       "Mash the potato with butter and serve alongside - kotleti are a nightly staple across Russian households, endlessly variable but always comforting."
-    ]
+    ],
+    "description": "Kotleti, pan-fried ground meat cutlets, a Russian home-cooking staple."
   },
   {
     "name": "Beef and Onion Skewers (Shashlik-Style)",
@@ -1357,6 +1376,7 @@
       "Thread the beef and onion chunks onto skewers, alternating.",
       "Grill over high heat, 3-4 minutes per side, until charred outside and cooked to preference.",
       "Shashlik is a beloved grilling tradition, especially for gatherings at the dacha (country house)."
-    ]
+    ],
+    "description": "Shashlik, grilled skewered meat, found across Russia and the broader former Soviet sphere."
   }
 ]

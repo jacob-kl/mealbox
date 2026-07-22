@@ -35,24 +35,54 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
         "note": "cubed"
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 3,
-        "note": "tbsp, for marinating"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 60,
+        "note": "for marinating"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 2,
+        "ingredient": "Garam masala",
+        "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Tikka masala simmer sauce",
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
         "qty": 0.75,
-        "note": "cup"
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Basmati rice (dry)",
@@ -60,23 +90,26 @@
         "note": ""
       },
       {
-        "ingredient": "Homemade garlic naan",
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, Tandoori Naan, Roasted Garlic",
         "qty": 1,
         "note": ""
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped, for garnish"
+        "qty": 2,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss the chicken with yogurt and half the spice blend. Marinate at least 20 minutes (or overnight in the fridge) \u2014 the yogurt tenderizes the chicken and helps the spices penetrate.",
-      "Cook the rice per package directions.",
-      "Heat a skillet over medium-high heat and sear the marinated chicken, 5-6 minutes, until browned and mostly cooked through.",
-      "Add the simmer sauce and remaining spices, and simmer 8-10 minutes until the chicken is cooked through and the sauce has thickened slightly.",
+      "Toss the chicken with the yogurt, half the garam masala, the turmeric, and cumin. Marinate at least 30 minutes, or overnight for real depth.",
+      "Cook the rice separately, 15-18 minutes.",
+      "Sear the marinated chicken in a hot pan, 5-6 minutes, until well charred in spots; set aside.",
+      "Melt the butter in the same pan, cook the garlic and ginger 30 seconds, then add the tomatoes and simmer 12-15 minutes until thickened and deep red.",
+      "Blend the sauce smooth, return to the pan, add the chicken, and simmer 8-10 minutes.",
+      "Stir in the cream and remaining garam masala off the heat.",
       "Warm the naan and serve alongside the rice, topped with cilantro."
-    ]
+    ],
+    "description": "Chicken marinated in yogurt and spices, char-grilled, then simmered in a rich tomato-cream sauce. Garam masala is a finishing spice as much as a base one - part of the blend goes into the marinade, but a pinch stirred in at the very end is what gives the sauce its final aromatic lift, since garam masala's flavor fades quickly under long cooking."
   },
   {
     "name": "Masala Egg Bhurji with Besan Chilla",
@@ -132,19 +165,24 @@
         "note": ""
       },
       {
-        "ingredient": "Liquid egg whites",
-        "qty": 0.408,
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
+        "ingredient": "Ground cumin",
+        "qty": 0.375,
+        "note": "tsp"
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "diced"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
       },
       {
         "ingredient": "Chickpea flour (besan)",
@@ -152,23 +190,19 @@
         "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1.5,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Whisk the chickpea flour with 1/3 cup water and half the spice blend into a smooth, pourable batter for the chilla.",
-      "Heat a lightly oiled nonstick pan over medium heat. Pour in the batter thinly like a pancake and cook 2-3 minutes per side until golden. Set aside.",
-      "In the same pan, saute the onion and bell pepper 4-5 minutes until softened.",
-      "Whisk the eggs and egg whites with remaining spice blend, pour into the pan, and scramble gently until just set, 2-3 minutes.",
-      "Serve the bhurji alongside the chilla, topped with cilantro."
-    ]
+      "Whisk the besan with water into a thin, pourable batter, and stir in a little cilantro and a pinch of turmeric.",
+      "Pour a thin layer into a hot, lightly oiled pan and cook 2-3 minutes per side until set and lightly browned.",
+      "Soften the onion in a little oil, 4-5 minutes, then add the tomatoes, cumin, and remaining turmeric, cooking 2-3 minutes.",
+      "Scramble in the eggs, cooking gently until just set.",
+      "Serve the eggs alongside the chilla."
+    ],
+    "description": "Egg bhurji, spiced scrambled eggs, alongside besan chilla, a savory chickpea-flour pancake - a common Indian breakfast pairing."
   },
   {
     "name": "Paneer Tikka Masala",
@@ -209,43 +243,59 @@
     "ingredients_full": [
       {
         "ingredient": "Paneer",
-        "qty": 170,
+        "qty": 200,
         "note": "cubed"
       },
       {
-        "ingredient": "Tikka masala simmer sauce",
-        "qty": 0.75,
-        "note": "cup"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
         "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat a lightly oiled skillet over medium-high heat. Sear the paneer cubes 2-3 minutes per side until golden. Remove.",
-      "Add the onion and bell pepper to the pan, cooking 4-5 minutes until softened.",
-      "Add the simmer sauce and bring to a simmer.",
-      "Return the paneer to the pan and simmer 4-5 minutes to warm through and absorb the sauce.",
-      "Serve over rice, topped with cilantro."
-    ]
+      "Toss the paneer with the yogurt and half the garam masala, and let sit 15 minutes.",
+      "Sear the paneer in a hot pan, 3-4 minutes, until lightly golden; set aside.",
+      "Melt the butter, cook the garlic and ginger 30 seconds, add the tomatoes, and simmer 12-15 minutes.",
+      "Blend smooth, return to the pan, add the paneer, and simmer 5 minutes.",
+      "Stir in the cream and remaining garam masala off the heat.",
+      "Serve over the rice."
+    ],
+    "description": "The vegetarian counterpart to chicken tikka masala, built the same way - marinated, seared paneer in a tomato-cream sauce, with garam masala finishing the sauce at the end for real aromatic lift."
   },
   {
     "name": "Coconut Curry Shrimp",
@@ -290,48 +340,49 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Frozen shrimp",
+        "ingredient": "Fish, tilapia, raw",
         "qty": 200,
-        "note": "peeled"
+        "note": "standing in for shrimp"
       },
       {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.75,
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 1.5,
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "note": "chopped"
       },
       {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
         "note": ""
-      },
-      {
-        "ingredient": "Baby spinach",
-        "qty": 80,
-        "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat a splash of oil in a skillet over medium heat. Cook the onion 4-5 minutes, then add garlic and curry powder, cooking 30 seconds until fragrant \u2014 toasting the curry powder briefly deepens its flavor.",
-      "Add the coconut milk and bring to a simmer.",
-      "Add the shrimp and cook 3-4 minutes until pink and cooked through.",
-      "Stir in the spinach in the last minute until just wilted. Serve over rice."
-    ]
+      "Soften the onion and garlic in a little oil, 5-6 minutes.",
+      "Add the turmeric and cumin, cooking 30 seconds.",
+      "Add the coconut milk and simmer 5 minutes.",
+      "Add the fish and simmer 6-8 minutes until just cooked through.",
+      "Cook the rice separately and serve the curry over it."
+    ],
+    "description": "A South Indian coastal-style curry, built on coconut milk rather than the cream-and-tomato base common further north."
   },
   {
     "name": "Chana Masala Bowl",
@@ -380,7 +431,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Garbanzo beans",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 220,
         "note": ""
       },
@@ -391,41 +442,43 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 60,
+        "qty": 50,
         "note": "diced"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1.5,
+        "ingredient": "Garam masala",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
         "note": ""
-      },
-      {
-        "ingredient": "Homemade garlic naan",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat a splash of oil in a pan over medium heat. Cook the onion 4-5 minutes, then add garlic and the spice blend, cooking 30 seconds until fragrant.",
-      "Add the tomatoes and chickpeas, and simmer 15-18 minutes, mashing a few chickpeas against the pan to naturally thicken the sauce.",
-      "Serve over rice with naan on the side, topped with cilantro."
-    ]
+      "Soften the onion and garlic in a little oil, 5-6 minutes.",
+      "Add the turmeric and cumin, cooking 30 seconds until fragrant.",
+      "Add the tomatoes and chickpeas, and simmer 15-18 minutes, mashing a few chickpeas to thicken.",
+      "Stir in the garam masala off the heat.",
+      "Serve over the rice."
+    ],
+    "description": "A chickpea curry, finished with a touch of garam masala for aromatic depth."
   },
   {
     "name": "Tandoori-Style Chicken",
@@ -467,29 +520,39 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 220,
         "note": ""
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 4,
-        "note": "tbsp"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 70,
+        "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 2,
+        "ingredient": "Garam masala",
+        "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Lemon juice",
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
         "ingredient": "Basmati rice (dry)",
@@ -497,20 +560,22 @@
         "note": ""
       },
       {
-        "ingredient": "Homemade garlic naan",
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, Tandoori Naan, Roasted Garlic",
         "qty": 1,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the yogurt, spice blend, lemon juice, and garlic together. Toss with the chicken and marinate at least 30 minutes, or overnight for deeper flavor.",
-      "Cook the rice per package directions.",
-      "Grill or broil the chicken 6-7 minutes per side until charred in spots and cooked through (165F).",
+      "Whisk the yogurt, garam masala, turmeric, cumin, lemon juice, and garlic together.",
+      "Toss with the chicken and marinate at least 1 hour, or overnight for deeper flavor.",
+      "Cook the rice separately.",
+      "Grill or broil the chicken as hot as your setup allows, 6-7 minutes per side, until well charred and cooked through.",
       "Warm the naan and serve alongside the chicken and rice."
-    ]
+    ],
+    "description": "Real tandoori chicken is cooked in a tandoor, a clay oven reaching 900\u00b0F or more - a home oven or grill can't fully replicate that intense, smoky heat, though a hot grill or broiler gets closer than a moderate oven would."
   },
   {
-    "name": "Butter Chicken (Lightened)",
+    "name": "Butter Chicken",
     "cuisine": "indian",
     "meal_type": "dinner",
     "course": "complete",
@@ -550,7 +615,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
         "note": "cubed"
       },
@@ -560,14 +625,19 @@
         "note": ""
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Heavy cream",
         "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -575,13 +645,28 @@
         "note": "diced"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 2,
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
@@ -591,12 +676,15 @@
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Melt the butter in a pan over medium heat. Cook the onion 4-5 minutes, then add garlic and spices, cooking 30 seconds until fragrant.",
-      "Add the tomatoes and simmer 10 minutes, then blend with an immersion blender (or in a countertop blender) until smooth for a classic silky sauce.",
-      "Return to the pan, add the chicken, and simmer 8-10 minutes until cooked through.",
-      "Remove from heat and stir in the yogurt \u2014 adding it off direct heat keeps it from splitting. Serve over rice."
-    ]
+      "Marinate the chicken in the yogurt with half the garam masala for at least 20 minutes.",
+      "Cook the rice separately.",
+      "Melt half the butter and cook the onion 4-5 minutes, then the garlic, ginger, turmeric, and cumin, 30 seconds.",
+      "Add the tomatoes and simmer 12-15 minutes, then blend until smooth.",
+      "Return the sauce to the pan, add the marinated chicken, and simmer 10-12 minutes until cooked through.",
+      "Stir in the cream and remaining butter off the heat, along with the remaining garam masala.",
+      "Serve over the rice."
+    ],
+    "description": "Murgh makhani - butter and cream are what give this its name and its silky, rich character. Real butter chicken leans into that richness rather than away from it."
   },
   {
     "name": "Chicken Tikka Skewers",
@@ -628,36 +716,42 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 220,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 210,
         "note": "cubed"
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 3,
-        "note": "tbsp"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 60,
+        "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 2,
+        "ingredient": "Garam masala",
+        "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Lemon juice",
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Whisk the yogurt, spice blend, lemon juice, and garlic together. Toss with the chicken and marinate at least 20 minutes.",
-      "Thread onto skewers if using.",
-      "Grill or broil 10-12 minutes, turning occasionally, until charred in spots and cooked through (165F)."
-    ]
+      "Whisk the yogurt, garam masala, turmeric, lemon juice, and garlic together.",
+      "Toss with the chicken and marinate at least 30 minutes.",
+      "Thread onto skewers and grill or broil, turning, 10-12 minutes, until charred and cooked through."
+    ],
+    "description": "Boneless chicken pieces marinated in yogurt and spices, threaded and grilled - the base preparation behind chicken tikka masala, served here on its own."
   },
   {
     "name": "Chana Masala",
@@ -697,7 +791,7 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Garbanzo beans",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 220,
         "note": ""
       },
@@ -712,27 +806,33 @@
         "note": "diced"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1.5,
+        "ingredient": "Garam masala",
+        "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
         "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat a splash of oil over medium heat. Cook the onion 4-5 minutes, add garlic and spices, cooking 30 seconds until fragrant.",
-      "Add the tomatoes and chickpeas, simmer 15-18 minutes, mashing a few chickpeas to thicken naturally.",
-      "Serve over rice."
-    ]
+      "Soften the onion and garlic in a little oil, 5-6 minutes.",
+      "Add the turmeric and cumin, cooking 30 seconds.",
+      "Add the tomatoes and chickpeas, and simmer 15-18 minutes, mashing a few chickpeas to thicken.",
+      "Stir in the garam masala off the heat."
+    ],
+    "description": "A chickpea curry, finished with a touch of garam masala for aromatic depth - the same base as the bowl version, without the rice."
   },
   {
     "name": "Lamb Curry",
@@ -776,47 +876,63 @@
     "ingredients_full": [
       {
         "ingredient": "Ground lamb",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 200,
-        "note": ""
+        "qty": 210,
+        "note": "formed into a few large chunks, or use lamb stew meat if available"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 60,
+        "qty": 70,
         "note": "diced"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 1.5,
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 40,
+        "note": ""
       },
       {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
         "note": ""
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Brown the lamb with the onion in a pan over medium-high heat, 6-7 minutes, breaking it apart. Drain excess fat.",
-      "Add the garlic and curry powder, cooking 30 seconds until fragrant.",
-      "Add the tomatoes and simmer 15-18 minutes, until thickened.",
-      "Serve over rice, topped with cilantro."
-    ]
+      "Deeply brown the onion in a little oil, 10-12 minutes, until golden - this base is what gives the curry its real depth.",
+      "Brown the lamb with the garlic and ginger, 8-10 minutes.",
+      "Add the turmeric and cumin, cooking 30 seconds, then the tomatoes and 1 cup water, and simmer 30-35 minutes until tender.",
+      "Stir in the yogurt and garam masala off the heat.",
+      "Cook the rice separately and serve the curry over it."
+    ],
+    "description": "A slow-simmered lamb curry, built the way most Indian home curries are - onion cooked down first for a real base, whole ground spices bloomed in oil, then garam masala finishing the dish at the end."
   },
   {
     "name": "Baked Tandoori Salmon",
@@ -855,30 +971,43 @@
         "note": ""
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 3,
-        "note": "tbsp"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 50,
+        "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1.5,
+        "ingredient": "Garam masala",
+        "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Lemon juice",
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the yogurt, spice blend, lemon juice, and garlic together. Coat the salmon and marinate 15-20 minutes.",
-      "Preheat the oven to 400F. Bake the salmon 12-15 minutes until it flakes easily with a fork."
-    ]
+      "Whisk the yogurt, garam masala, turmeric, lemon juice, and garlic together.",
+      "Coat the salmon and marinate 20-30 minutes.",
+      "Bake at 425F (220C) for 12-15 minutes until just cooked through.",
+      "Cook the rice separately and serve alongside."
+    ],
+    "description": "The tandoori yogurt-spice marinade applied to salmon rather than chicken - baking approximates the tandoor's dry, high heat better on fish than it would on chicken, since salmon cooks through quickly."
   },
   {
     "name": "Chicken Tikka Rice Jar",
@@ -926,25 +1055,26 @@
         "note": "cooked and cooled"
       },
       {
-        "ingredient": "Cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 80,
         "note": "diced"
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 3,
-        "note": "tbsp"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 45,
+        "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
+        "ingredient": "Garam masala",
         "qty": 0.5,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the yogurt with the spice blend.",
-      "Layer the rice, cucumber, and chicken in a jar, with the spiced yogurt on top or in a separate small container."
-    ]
+      "Toss the chicken with the yogurt and garam masala.",
+      "Layer the rice, chicken, and cucumber in a jar."
+    ],
+    "description": "A portable version of chicken tikka, built on real yogurt and garam masala."
   },
   {
     "name": "Lentil and Spinach Dal Jar",
@@ -994,14 +1124,19 @@
         "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1,
+        "ingredient": "Garam masala",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
         "qty": 0.5,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
         "ingredient": "Basmati rice (dry)",
@@ -1010,10 +1145,11 @@
       }
     ],
     "steps_detailed": [
-      "Heat a splash of oil in a pan over medium heat. Add garlic and the spice blend, cooking 30 seconds.",
-      "Add the cooked lentils and spinach, stirring until the spinach wilts, about 2 minutes.",
-      "Let cool, then layer with the rice in a jar."
-    ]
+      "Wilt the spinach with the garlic, turmeric, and garam masala in a little oil, 2-3 minutes.",
+      "Toss with the cooked lentils.",
+      "Layer the rice and lentil-spinach mixture in a jar."
+    ],
+    "description": "A portable version of saag dal, built on real garam masala and turmeric."
   },
   {
     "name": "Chickpea and Cucumber Salad",
@@ -1052,12 +1188,12 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Garbanzo beans",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 120,
         "note": "diced"
       },
@@ -1067,7 +1203,7 @@
         "note": "diced"
       },
       {
-        "ingredient": "Lemon juice",
+        "ingredient": "Lemon juice, raw",
         "qty": 1.5,
         "note": "tbsp"
       },
@@ -1078,14 +1214,14 @@
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Combine the chickpeas, cucumber, and red onion in a bowl.",
-      "Toss with lemon juice, cumin, and cilantro."
-    ]
+      "Toss everything together."
+    ],
+    "description": "A simple, fresh chickpea salad, common as a light side across Indian home cooking."
   },
   {
     "name": "Masala Egg Bhurji",
@@ -1133,21 +1269,28 @@
         "note": "diced"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1,
+        "ingredient": "Garam masala",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Heat a splash of oil in a pan over medium heat. Saute the onion and bell pepper 4-5 minutes until softened.",
-      "Whisk the eggs with the spice blend, pour into the pan, and scramble gently until just set, about 2-3 minutes.",
-      "Top with cilantro."
-    ]
+      "Soften the onion and pepper in a little oil, 4-5 minutes.",
+      "Add the turmeric and garam masala, cooking 30 seconds.",
+      "Scramble in the eggs, cooking gently until just set.",
+      "Top with the cilantro."
+    ],
+    "description": "Spiced scrambled eggs, a common Indian breakfast dish."
   },
   {
     "name": "Besan Chilla (Chickpea Pancake)",
@@ -1191,26 +1334,31 @@
         "note": "finely diced"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1,
+        "ingredient": "Garam masala",
+        "qty": 0.375,
         "note": "tsp"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.1875,
+        "note": ""
       },
       {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the chickpea flour with 1/3 cup water and the spice blend into a smooth, pourable batter. Stir in the onion and cilantro.",
-      "Heat oil in a nonstick pan over medium heat. Pour in the batter, spreading thin.",
-      "Cook 2-3 minutes per side until golden and cooked through."
-    ]
+      "Whisk the besan with water into a thin, pourable batter, and stir in the onion, spices, and cilantro.",
+      "Pour a thin layer into a hot, lightly oiled pan and cook 2-3 minutes per side until set and lightly browned."
+    ],
+    "description": "A savory chickpea-flour pancake, a common Indian breakfast item."
   },
   {
     "name": "Spiced Roasted Chickpea Snack (Indian)",
@@ -1239,26 +1387,26 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Garbanzo beans",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 180,
-        "note": "drained and patted dry"
+        "note": "patted dry"
       },
       {
-        "ingredient": "Curry powder",
+        "ingredient": "Garam masala",
         "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Olive oil",
+        "ingredient": "Vegetable oil",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 400F. Pat the chickpeas very dry.",
-      "Toss with oil and curry powder.",
-      "Roast 20-25 minutes, shaking halfway, until crunchy and golden."
-    ]
+      "Toss the dried chickpeas with the oil and garam masala.",
+      "Roast at 400F for 25-30 minutes until crisp."
+    ],
+    "description": "A simple roasted snack, using real garam masala rather than a generic curry powder blend for a more specifically Indian flavor."
   },
   {
     "name": "Cucumber Raita",
@@ -1291,12 +1439,12 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
+        "ingredient": "Yogurt, plain, whole milk",
         "qty": 0.75,
         "note": "cup"
       },
       {
-        "ingredient": "Cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 100,
         "note": "grated and squeezed dry"
       },
@@ -1307,9 +1455,10 @@
       }
     ],
     "steps_detailed": [
-      "Grate the cucumber and squeeze it in a clean towel to remove excess water \u2014 this keeps the raita from turning watery.",
-      "Mix the drained cucumber with yogurt and cumin. Chill before serving."
-    ]
+      "Mix the yogurt, cucumber, and cumin together.",
+      "Chill at least 10 minutes before serving."
+    ],
+    "description": "A cooling yogurt side dish, built on real whole-milk yogurt for proper richness and thickness - nonfat yogurt is thinner and less able to balance a spicy meal the way raita is meant to."
   },
   {
     "name": "Mango Lassi",
@@ -1347,8 +1496,8 @@
         "note": ""
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 0.75,
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.6,
         "note": "cup"
       },
       {
@@ -1358,13 +1507,14 @@
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
+        "qty": 0.2,
         "note": "cup"
       }
     ],
     "steps_detailed": [
       "Blend all ingredients together until smooth, adding more milk if it's too thick to sip easily."
-    ]
+    ],
+    "description": "A yogurt-based mango drink, built on real whole-milk yogurt for the proper thick, rich texture lassi is known for."
   },
   {
     "name": "Cardamom Rice Pudding",
@@ -1433,7 +1583,8 @@
       "Cook uncovered, stirring often, 20-25 minutes, until the rice is very soft and the mixture has thickened to a pudding consistency.",
       "Stir in the honey and cardamom in the last few minutes.",
       "Dust with cinnamon before serving, warm or chilled."
-    ]
+    ],
+    "description": "Kheer, a rice pudding built on basmati and real cardamom - the aromatic base most Indian rice puddings share."
   },
   {
     "name": "Tikka Masala Simmer Sauce (Homemade)",
@@ -1472,31 +1623,37 @@
         "note": ""
       },
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 3,
-        "note": "tbsp"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 45,
+        "note": ""
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 2,
+        "ingredient": "Garam masala",
+        "qty": 1.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
       },
       {
-        "ingredient": "Butter",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tbsp"
+        "note": "minced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Melt the butter in a saucepan over medium heat. Add the garlic and spices, cooking 30 seconds until fragrant.",
-      "Add the tomatoes and simmer 15 minutes.",
-      "Blend until smooth, then return to low heat and stir in the yogurt off direct heat to avoid splitting."
-    ]
+      "Melt the butter and cook the garlic 30 seconds.",
+      "Add the tomatoes and turmeric, and simmer 12-15 minutes.",
+      "Blend smooth, then stir in the yogurt and garam masala off the heat."
+    ],
+    "description": "A stand-alone tikka masala sauce base, built on real garam masala, whole-milk yogurt, and butter."
   },
   {
     "name": "Kachumber Salad",
@@ -1535,14 +1692,14 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 120,
         "note": "diced"
       },
       {
-        "ingredient": "Cherry tomatoes",
+        "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
-        "note": "diced"
+        "note": ""
       },
       {
         "ingredient": "Red onion",
@@ -1550,19 +1707,20 @@
         "note": "diced"
       },
       {
-        "ingredient": "Lemon juice",
+        "ingredient": "Lemon juice, raw",
         "qty": 1.5,
         "note": "tbsp"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "chopped"
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss all ingredients together. Best served fresh, within an hour or two of making."
-    ]
+      "Toss everything together."
+    ],
+    "description": "A simple, finely diced salad served alongside most Indian meals as a fresh counterpoint to richer dishes."
   },
   {
     "name": "Mulligatawny Lentil Soup",
@@ -1620,16 +1778,21 @@
         "note": "cup"
       },
       {
-        "ingredient": "Spices (garam masala/turmeric/cumin/coriander)",
-        "qty": 1,
+        "ingredient": "Garam masala",
+        "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Heat a splash of oil in a pot over medium heat. Cook the onion and carrot 5-6 minutes until softened.",
-      "Add the spice blend and cook 30 seconds until fragrant.",
-      "Add the lentils and broth, bring to a simmer.",
-      "Cover and cook 20-25 minutes until the lentils are tender. Blend partially for a creamier texture if desired."
-    ]
+      "Soften the onion and carrot in a little oil, 5-6 minutes.",
+      "Add the turmeric and garam masala, cooking 30 seconds.",
+      "Add the lentils and broth, and simmer 25-28 minutes until the lentils are tender."
+    ],
+    "description": "Mulligatawny, an Anglo-Indian soup born under British colonial rule, blending Indian spicing with a more European soup structure - part of why it reads differently from most other dishes here."
   }
 ]

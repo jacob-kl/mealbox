@@ -754,9 +754,9 @@
         "note": "sliced"
       },
       {
-        "ingredient": "Miso paste",
+        "ingredient": "Doenjang",
         "qty": 2,
-        "note": "tbsp, as a doenjang stand-in"
+        "note": "tbsp"
       },
       {
         "ingredient": "Yellow onion",
@@ -764,9 +764,9 @@
         "note": "sliced"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
         "ingredient": "365 (Whole Foods) Short Grain White Sushi Rice",
@@ -775,13 +775,13 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the miso paste into 1.5 cups warm water until dissolved.",
-      "Simmer the onion and garlic in the broth for 5 minutes.",
-      "Add the zucchini and simmer 6-8 minutes until tender.",
-      "Add the tofu and warm through gently for 2-3 minutes.",
-      "Cook the rice per package directions and serve alongside."
+      "Bring 1.5 cups water to a simmer with the onion and garlic, 5 minutes.",
+      "Whisk in the doenjang until dissolved.",
+      "Add the zucchini and simmer 8-10 minutes until tender.",
+      "Add the tofu and warm through, 2-3 minutes.",
+      "Cook the rice separately and serve alongside."
     ],
-    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
+    "description": "Doenjang jjigae, a fermented soybean paste stew - doenjang gives it a deeper, funkier, more savory backbone than miso, which is milder and sweeter by comparison."
   },
   {
     "name": "Korean Beef & Rice Jar",
@@ -1012,21 +1012,32 @@
         "note": "tbsp"
       },
       {
+        "ingredient": "Doenjang",
+        "qty": 0.5,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Romaine lettuce",
         "qty": 120,
         "note": "leaves"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
+      },
+      {
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Sear the well-dried tofu in a lightly oiled skillet, 3-4 minutes per side until golden.",
-      "Whisk the soy sauce, gochujang, and garlic together and toss with the tofu.",
-      "Spoon into lettuce leaves to serve."
-    ]
+      "Pan-fry the tofu until golden on a few sides, 5-6 minutes.",
+      "Whisk the soy sauce, gochujang, doenjang, garlic, and sesame oil into a thick ssamjang-style sauce.",
+      "Serve the tofu wrapped in the lettuce leaves with the sauce."
+    ],
+    "description": "Ssamjang, a thick dipping sauce combining doenjang and gochujang, is the traditional pairing for lettuce wraps - richer and more complex than gochujang alone."
   },
   {
     "name": "Korean Egg Rice Breakfast",
@@ -1188,16 +1199,22 @@
         "note": "cubed"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 0.5,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 425F.",
-      "Toss the sweet potato with sesame oil.",
-      "Roast 20-25 minutes, flipping halfway, until tender and caramelized at the edges."
-    ]
+      "Toss the sweet potato with the sesame oil.",
+      "Roast at 425F (220C) for 25-30 minutes, turning once, until tender and caramelized at the edges.",
+      "Top with the sesame seeds."
+    ],
+    "description": "Goguma, roasted sweet potato, a simple, beloved Korean street food and snack."
   },
   {
     "name": "Korean Cinnamon Rice Cake (Sweet)",
@@ -1324,8 +1341,9 @@
       }
     ],
     "steps_detailed": [
-      "Whisk all ingredients together. Brush onto grilled or roasted meat in the last few minutes of cooking so it caramelizes without burning."
-    ]
+      "Whisk the gochujang, honey, soy sauce, and garlic together."
+    ],
+    "description": "A simple, versatile glaze built on real gochujang."
   },
   {
     "name": "Korean Turkey Lettuce Cups",
@@ -1377,21 +1395,27 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
         "ingredient": "Romaine lettuce",
         "qty": 120,
         "note": "leaves"
+      },
+      {
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the turkey with garlic in a skillet over medium-high heat, 6-7 minutes, breaking it apart.",
-      "Stir in gochujang and soy sauce, cooking 1-2 more minutes until well coated.",
-      "Spoon into lettuce leaves to serve."
-    ]
+      "Brown the turkey with the garlic, 6-7 minutes.",
+      "Stir in the gochujang, soy sauce, and sesame oil.",
+      "Serve wrapped in the lettuce leaves."
+    ],
+    "description": "A lighter, ground-turkey take on Korean lettuce wraps, built on real gochujang and garlic."
   },
   {
     "name": "Korean Cucumber Banchan Salad",
@@ -1431,35 +1455,36 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 150,
         "note": "sliced thin"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
         "qty": 1,
         "note": "tsp"
       },
       {
         "ingredient": "Gochugaru",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Garbanzo beans",
-        "qty": 100,
-        "note": ""
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
+        "ingredient": "Rice vinegar",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cucumber with sesame oil, gochugaru, and garlic.",
-      "Let sit 5-10 minutes to lightly pickle and soften. Serve alongside the chickpeas."
-    ]
+      "Toss the cucumber with the sesame oil, gochugaru, garlic, and vinegar.",
+      "Let sit 10-15 minutes so the cucumber softens slightly and takes on the seasoning."
+    ],
+    "description": "Oi muchim, a quick-pickled cucumber side dish - traditionally just cucumber and seasoning, not combined with beans."
   },
   {
     "name": "Korean BBQ Meatball Snack Cup",
@@ -1497,7 +1522,12 @@
       },
       {
         "ingredient": "Soy sauce",
-        "qty": 1.5,
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Gochujang",
+        "qty": 1,
         "note": "tbsp"
       },
       {
@@ -1506,16 +1536,22 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
+      },
+      {
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the beef with garlic and shape into small meatballs.",
-      "Heat a skillet over medium heat and cook the meatballs 6-8 minutes, turning occasionally, until browned and cooked through.",
-      "Add the soy sauce and honey in the last 2 minutes, tossing to glaze."
-    ]
+      "Mix the beef with the garlic and sesame oil, and shape into small meatballs.",
+      "Pan-fry, turning, 6-8 minutes, until browned and cooked through.",
+      "Whisk the soy sauce, gochujang, and honey, and toss the meatballs through."
+    ],
+    "description": "A quick, gochujang-forward take on Korean BBQ flavor in meatball form."
   },
   {
     "name": "Korean Beef Salad Bowl",
@@ -1569,7 +1605,7 @@
         "note": ""
       },
       {
-        "ingredient": "Cucumber",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 80,
         "note": "sliced"
       },
@@ -1579,15 +1615,27 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Sesame oil",
+        "ingredient": "McCormick Sesame Oil, Aceite De Atonjoli",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Gochugaru",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Rice vinegar",
         "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the soy sauce and sesame oil together.",
-      "Toss the greens and cucumber with the dressing, top with sliced beef."
-    ]
+      "Whisk the soy sauce, sesame oil, gochugaru, and vinegar together.",
+      "Toss the greens and cucumber with the dressing.",
+      "Top with the sliced beef."
+    ],
+    "description": "A simple beef salad given real Korean identity with gochugaru and sesame, rather than a generic soy-sesame dressing."
   },
   {
     "name": "Kimchi Jjigae (Kimchi Stew)",
