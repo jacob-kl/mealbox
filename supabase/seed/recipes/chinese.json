@@ -96,17 +96,17 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real kung pao chicken (gong bao ji ding) depends on two ingredients this database doesn't carry - dried whole Sichuan red chilies (fried briefly in the oil to perfume it before anything else goes in) and Sichuan peppercorns (which produce m\u00e1l\u00e0, the tingling-numbing sensation that's the entire signature of Sichuan cuisine and of this dish specifically). Chili powder stands in for the chilies here for heat, but there is no real substitute for Sichuan peppercorn's numbing effect - without it, this is a competent stir-fry, but it will not taste like real kung pao chicken to anyone who has had the genuine dish.",
       "Marinate the chicken briefly in half the soy sauce and the cornstarch.",
       "Cook the jasmine rice separately, 15-18 minutes.",
-      "Heat oil in a wok over high heat until nearly smoking. Add the chili powder and let it bloom in the oil for 10-15 seconds - this step, blooming the chili in hot oil first, is what gong bao is actually built on, not a garnish added at the end.",
-      "Add the chicken and stir-fry 3-4 minutes until just cooked through and lightly charred at the edges - real wok cooking wants visible char, not a uniformly pale sear.",
+      "Heat oil in a wok over high heat until nearly smoking. Add the chili powder and let it bloom in the oil for 10-15 seconds.",
+      "Add the chicken and stir-fry 3-4 minutes until just cooked through and lightly charred at the edges.",
       "Add the ginger and garlic, stir-frying 20-30 seconds until fragrant.",
       "Add the pepper and stir-fry 1-2 minutes until just tender-crisp.",
       "Add the remaining soy sauce and the vinegar, tossing to coat and reduce slightly, 30-45 seconds.",
-      "Off the heat, fold in the roasted peanuts - real peanuts, not almonds, are what defines this dish; peanuts are named right in most versions of its Chinese name.",
+      "Off the heat, fold in the roasted peanuts.",
       "Top with the scallions and serve over the rice."
-    ]
+    ],
+    "description": "Gong bao ji ding, a Sichuan classic built on chicken, dried chilies, and peanuts. Real Sichuan peppercorn gives it m\u00e1l\u00e0, the tingling-numbing sensation the dish is known for - it isn't a distinct item in this database, so that specific sensation is missing here and can't be faithfully replicated with any substitute. Chili powder stands in for dried chilies, and peanuts (not almonds) are used, since peanuts are what the dish is actually built on."
   },
   {
     "name": "Beef and Broccoli",
@@ -185,15 +185,15 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped brown rice for jasmine, and Shaoxing wine is genuinely missing from this database. Brown rice isn't traditional anywhere in Chinese cooking of this style - white rice, usually a long-grain jasmine variety, is what actually accompanies a dish like this. Shaoxing rice wine, used in the marinade for real depth and to cut the meat's raw edge, isn't a distinct item here; there's no honest one-ingredient substitute for it, so it's simply left out rather than faked with something that tastes wrong.",
-      "Slice the beef as thin as you can manage, against the grain - thickness is the main thing separating tender beef and broccoli from chewy beef and broccoli.",
+      "Slice the beef as thin as you can manage, against the grain.",
       "Marinate the beef briefly in the cornstarch and half the soy sauce.",
       "Cook the jasmine rice separately, 15-18 minutes.",
       "Heat a wok until nearly smoking. Sear the beef in a single layer, undisturbed, 60-90 seconds per side, until well browned but still pink in the center; remove.",
       "Add the garlic and ginger to the same wok, 15-20 seconds, then the broccoli, stir-frying 2-3 minutes until bright green and just tender-crisp.",
       "Return the beef to the wok with the oyster sauce and remaining soy sauce, tossing 30-45 seconds until glossy and everything is coated.",
       "Serve over the rice."
-    ]
+    ],
+    "description": "A home-style stir-fry standard. Swapped brown rice for jasmine, since white rice is what actually accompanies this dish - brown rice isn't traditional here. Shaoxing rice wine, normally used in the marinade for real depth, isn't a distinct item in this database and is left out rather than faked."
   },
   {
     "name": "Shrimp Lo Mein",
@@ -273,13 +273,13 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped rice noodles for egg noodles. This was a genuine ingredient error worth naming directly - lo mein means 'tossed noodles' and is specifically a wheat-and-egg noodle dish; rice noodles are what you'd use for something like pad thai or pho, and they behave completely differently in the pan (rice noodles turn gluey when stir-fried this way, where egg noodles hold up and stay separate). This isn't a US-availability compromise, it was simply the wrong noodle.",
       "Boil the egg noodles until just tender, 3-4 minutes, then drain and toss with a little oil to prevent sticking.",
       "Heat a wok over high heat. Stir-fry the shrimp 2-3 minutes until just pink; remove.",
       "Add the garlic, carrot, and bok choy, stir-frying 2 minutes until the vegetables are tender-crisp.",
       "Add the noodles, soy sauce, and oyster sauce, tossing everything together over high heat 1-2 minutes until the noodles are coated and starting to catch slightly at the edges.",
       "Return the shrimp, toss once more, and finish with the sesame oil off the heat."
-    ]
+    ],
+    "description": "Lo mein means 'tossed noodles' and is a wheat-and-egg noodle dish - rice noodles, which the previous version used, are for something like pad thai, and behave completely differently in the pan. Egg noodles are used here instead, which is the correct noodle for this dish."
   },
   {
     "name": "Mapo Tofu",
@@ -375,7 +375,6 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real mapo tofu is built on doubanjiang, a fermented broad bean and chili paste, plus a smaller amount of fermented black beans, and finished with Sichuan peppercorn for m\u00e1l\u00e0 numbness - none of these three are distinct items in this database, and there is no substitute that actually replicates them. Miso paste (a Japanese fermented soybean product, not Chinese, used here only because it's the closest available fermented bean paste for savory depth) plus chili powder for heat gets the dish into the right general territory, but it will taste noticeably different from real doubanjiang-based mapo tofu - flatter, less complex, and without any numbing sensation at all. This is the most significant compromise anywhere in this file.",
       "Cook the jasmine rice separately, 15-18 minutes.",
       "Heat oil in a wok over medium-high heat. Brown the pork, breaking it apart into small crumbles, 4-5 minutes, until the fat renders and the edges crisp slightly.",
       "Add the garlic and ginger, cooking 20-30 seconds until fragrant.",
@@ -384,7 +383,8 @@
       "Gently slide in the tofu cubes and simmer 4-5 minutes, spooning the sauce over rather than stirring hard, so the cubes stay whole.",
       "Whisk the cornstarch with a tablespoon of water and stir in to thicken the sauce, 1 minute.",
       "Top with the scallions and serve over the rice."
-    ]
+    ],
+    "description": "A Sichuan dish normally built on doubanjiang (fermented broad bean and chili paste) and Sichuan peppercorn for m\u00e1l\u00e0 numbness - neither is a distinct item in this database, and there's no substitute that actually replicates them. Miso paste (Japanese, not Chinese, used only for its fermented depth) plus chili powder gets into the right general territory but will taste noticeably flatter and less complex than real doubanjiang-based mapo tofu, with no numbing sensation at all. This is the most significant compromise in this file."
   },
   {
     "name": "Chicken Fried Rice",
@@ -464,14 +464,14 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped brown rice for jasmine. Fried rice in Chinese cooking is built on white rice specifically, cooked and cooled at least several hours or overnight - the cold, slightly dried grains fry into separate, distinct grains, where fresh warm rice (of any variety) turns to mush in the wok. This is genuinely the single most important technique point for fried rice generally, more than any specific seasoning.",
       "Cook the chicken through in a hot wok, 5-6 minutes; remove.",
       "Scramble the eggs quickly in the same wok, breaking into small curds; remove.",
-      "Add a little more oil, then the cold rice, breaking up any clumps with the back of the spatula, and stir-fry over high heat 4-5 minutes, letting it sit undisturbed for 20-30 seconds at a time so it actually fries rather than just steams.",
+      "Add a little more oil, then the cold rice, breaking up any clumps with the back of the spatula, and stir-fry over high heat 4-5 minutes, letting it sit undisturbed for 20-30 seconds at a time.",
       "Add the carrot and peas, stir-frying 1-2 minutes.",
       "Return the chicken and egg, add the soy sauce, and toss everything together 1 minute.",
       "Finish with the sesame oil off the heat and top with the scallions."
-    ]
+    ],
+    "description": "Swapped brown rice for jasmine - fried rice is built on white rice specifically, cooked and cooled at least several hours or overnight so it fries into separate grains instead of steaming into mush."
   },
   {
     "name": "Orange Chicken",
@@ -564,15 +564,14 @@
       }
     ],
     "steps_detailed": [
-      "Orange chicken is genuinely a Chinese-American invention, not a dish from mainland China - it doesn't have a traditional 'authentic' version the way kung pao or mapo tofu do, so this recipe aims at doing the actual Chinese-American restaurant version properly rather than approximating a dish that doesn't exist back in China.",
-      "CHANGE FROM AUTHENTIC (to this dish's own real form): the previous version pan-seared the chicken; real orange chicken is batter-fried until genuinely crisp, which is what actually holds up under the sticky glaze instead of turning soggy immediately.",
       "Dredge the chicken in the cornstarch, dip in the beaten egg, then dredge in cornstarch again for a thicker, craggier coating.",
       "Deep-fry or shallow-fry in the oil at 350F, in batches, 4-5 minutes, until deeply golden and crisp; drain on a rack.",
       "Cook the jasmine rice separately, 15-18 minutes.",
       "Whisk the honey, soy sauce, lime juice, orange zest and juice, and garlic together in a clean pan and simmer 3-4 minutes until reduced and glossy.",
-      "Toss the fried chicken in the glaze just before serving, working quickly so the coating stays crisp rather than soaking through.",
+      "Toss the fried chicken in the glaze just before serving.",
       "Serve over the rice."
-    ]
+    ],
+    "description": "A genuine Chinese-American invention rather than a dish from mainland China - it doesn't have a traditional form to be faithful to, so this aims at doing the dish's own real version properly: battered and fried until actually crisp, which is what holds up under the sticky glaze."
   },
   {
     "name": "Chinese Chicken & Cucumber Jar",
@@ -645,11 +644,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped brown rice for jasmine, matching how Chinese cooking actually uses white rice.",
-      "Smash the cucumber with the flat of a knife rather than slicing it neatly - smashing breaks the flesh open so it takes on the dressing far better than a clean-cut slice would, which is the real technique behind Chinese smashed cucumber salads generally.",
+      "Smash the cucumber with the flat of a knife rather than slicing it neatly, then cut into chunks.",
       "Toss the cucumber with the soy sauce, sesame oil, garlic, and vinegar.",
       "Layer the rice, chicken, and dressed cucumber in a jar."
-    ]
+    ],
+    "description": "A simple, portable lunch built on smashed cucumber - smashing rather than slicing breaks the flesh open so it takes on the dressing far better. Swapped brown rice for jasmine."
   },
   {
     "name": "Chinese Beef with Broccoli (Sichuan-Style)",
@@ -729,15 +728,14 @@
       }
     ],
     "steps_detailed": [
-      "This is functionally the same dish structure as the plain beef and broccoli above - real Chinese home cooking has many regional variations on stir-fried beef and broccoli, and this version leans slightly spicier, closer to a Hunan or Sichuan-inflected style, to genuinely differentiate it rather than duplicate the other recipe with a different name.",
-      "CHANGE FROM AUTHENTIC: dried whole chilies, which would normally be fried in the oil first for real depth, aren't a distinct item here - chili powder bloomed in the oil gets some of the same heat without the same complexity.",
       "Marinate the beef briefly in the cornstarch and soy sauce.",
       "Heat a wok until nearly smoking. Bloom the chili powder and garlic in the oil for 15 seconds.",
       "Sear the beef in a single layer, 60-90 seconds per side; remove.",
       "Stir-fry the broccoli 2-3 minutes until tender-crisp.",
       "Return the beef with the oyster sauce, tossing 30-45 seconds until glossy.",
       "Cook the jasmine rice separately and serve the beef and broccoli over it."
-    ]
+    ],
+    "description": "A spicier, Sichuan-leaning take on beef and broccoli, genuinely differentiated from the plainer version above rather than a duplicate under a different name. Real Sichuan cooking would fry whole dried chilies in the oil first for real depth; chili powder here gets some of the heat without the same complexity."
   },
   {
     "name": "Sweet and Sour Pork",
@@ -835,15 +833,15 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the pork here wasn't fried, just simmered in sauce - real sweet and sour pork (gu lao rou in its Cantonese-restaurant form) depends entirely on a crisp, battered, deep-fried exterior standing up against a wet sauce; without frying it first, this is closer to a braise than the actual dish.",
       "Dredge the pork in cornstarch, dip in egg, then dredge in cornstarch again for a thick, craggy coating.",
       "Fry in the oil at 350F, in batches, 4-5 minutes, until deeply golden and cooked through; drain on a rack.",
       "Cook the jasmine rice separately, 15-18 minutes.",
-      "Whisk the ketchup, vinegar, brown sugar, and soy sauce together in a separate pan and simmer 2-3 minutes until slightly thickened - real Cantonese versions often lean on tomato paste plus a lot more vinegar than this for a sharper tang than the softer, sweeter American-restaurant version; this keeps a genuinely tart edge rather than pure sweetness.",
+      "Whisk the ketchup, vinegar, brown sugar, and soy sauce together in a separate pan and simmer 2-3 minutes until slightly thickened.",
       "Add the pepper and pineapple to the sauce and simmer 2 minutes to soften slightly.",
-      "Toss the fried pork through the sauce just before serving so the coating stays as crisp as possible.",
+      "Toss the fried pork through the sauce just before serving.",
       "Serve over the rice."
-    ]
+    ],
+    "description": "Gu lao rou in its Cantonese-restaurant form depends on a crisp, battered, deep-fried exterior standing up against a wet sauce - the previous version simmered the pork instead of frying it, which is closer to a braise than the real dish. Real versions also lean on more vinegar for a sharper tang than a purely sweet glaze."
   },
   {
     "name": "Chicken and Egg Fried Rice",
@@ -914,13 +912,13 @@
       }
     ],
     "steps_detailed": [
-      "This is the same real fried-rice technique as the version above - cold, day-old rice fried hard and fast in a very hot wok - applied with chicken and egg together rather than as two separate recipes with the same base.",
       "Scramble the eggs quickly, breaking into small curds; remove.",
       "Cook the chicken through in the same wok, 5-6 minutes; remove.",
-      "Stir-fry the cold rice over high heat, breaking up clumps, letting it sit 20-30 seconds at a time so it actually fries.",
+      "Stir-fry the cold rice over high heat, breaking up clumps, letting it sit 20-30 seconds at a time.",
       "Add the peas, then return the chicken and egg, add the soy sauce, and toss together 1 minute.",
       "Finish with the sesame oil off the heat."
-    ]
+    ],
+    "description": "The same real fried-rice technique as the plain version - cold, day-old rice fried hard and fast - applied with chicken and egg together."
   },
   {
     "name": "Shrimp and Vegetable Chow Mein",
@@ -1001,12 +999,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped rice noodles for egg noodles, same reasoning as the lo mein above - chow mein is a wheat noodle dish, and the technique here is actually quite different from lo mein even though both use the same noodle: chow mein noodles get pan-fried until they develop crisp, browned spots, where lo mein noodles stay soft and are just tossed through the sauce.",
-      "Boil the noodles until just tender, then drain very well and pat dry - excess water is the main thing that stops noodles from crisping in the next step.",
+      "Boil the noodles until just tender, then drain very well and pat dry.",
       "Heat the oil in a wide pan or wok until shimmering. Spread the noodles in an even layer and let them sit undisturbed 2-3 minutes to develop a crisp, browned bottom before tossing.",
       "Push the noodles aside, stir-fry the shrimp 2 minutes until just pink, then the garlic, carrot, and bean sprouts 1-2 minutes.",
       "Toss everything together with the soy sauce, finishing with the sesame oil off the heat."
-    ]
+    ],
+    "description": "Chow mein uses the same wheat egg noodle as lo mein, but a different technique - the noodles are pan-fried until crisp in spots, rather than just tossed through the sauce soft. Swapped rice noodles for egg noodles to match."
   },
   {
     "name": "Vegetable Dumpling Bowl",
@@ -1086,14 +1084,13 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: turned this into an actual dumpling recipe rather than a deconstructed 'bowl' version of the filling - the previous version skipped the dumpling entirely, which is a significant simplification for a dish that's supposed to be dumplings.",
-      "Squeeze as much water as possible out of the chopped cabbage - excess moisture is the main reason homemade dumpling filling turns watery and bursts through the wrapper.",
+      "Squeeze as much water as possible out of the chopped cabbage.",
       "Mix the crumbled tofu, cabbage, carrot, garlic, ginger, soy sauce, and sesame oil into a cohesive filling.",
       "Make a simple dough from the flour and hot water, knead until smooth, rest 20 minutes, then roll into small thin rounds.",
       "Place a spoonful of filling in the center of each round, fold in half, and pleat the edge to seal.",
-      "Steam over simmering water 8-10 minutes, or pan-fry then steam (potsticker-style: sear the bottoms first, then add water and cover to steam through) for a crisp bottom.",
-      "The dough and folding technique are what actually make this a dumpling dish - filling alone in a bowl is closer to a stir-fry than dumplings."
-    ]
+      "Steam over simmering water 8-10 minutes, or pan-fry then steam (potsticker-style: sear the bottoms first, then add water and cover to steam through) for a crisp bottom."
+    ],
+    "description": "Turned this into an actual dumpling recipe rather than a deconstructed 'bowl' version of the filling - the previous version skipped the dumpling entirely, a significant simplification for a dish that's supposed to be dumplings."
   },
   {
     "name": "Chinese Scallion Pancake with Egg",
@@ -1164,15 +1161,14 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous version mixed everything into one batter; a real scallion pancake (cong you bing) is a laminated dough - rolled thin, brushed with oil and scattered with scallion, then rolled up like a cinnamon roll and coiled before rolling flat again - which is what actually builds its distinctive flaky, layered interior. Mixing scallion into a single batter gives you a scallion-flecked pancake, not the real thing.",
       "Make a simple dough from the flour and warm water, knead until smooth, and rest 20 minutes.",
       "Roll into a thin rectangle, brush generously with the sesame oil, and scatter the scallions evenly across the surface with a pinch of salt.",
       "Roll the dough up tightly into a log, then coil it into a spiral like a cinnamon bun, tucking the end underneath, and rest 10 minutes.",
       "Roll the coiled spiral back out flat into a round, keeping the layers intact.",
       "Pan-fry in the vegetable oil over medium heat, 3-4 minutes per side, until deeply golden and visibly flaky at the edges.",
-      "Fry the eggs separately and serve alongside with the soy sauce for dipping.",
-      "The lamination is what gives real cong you bing its layers - without rolling and coiling the dough, you get a flatbread with scallion in it, which is a different, plainer thing."
-    ]
+      "Fry the eggs separately and serve alongside with the soy sauce for dipping."
+    ],
+    "description": "Cong you bing is a laminated dough - rolled thin, brushed with oil and scattered with scallion, then rolled up and coiled before rolling flat again - which builds its flaky, layered interior. The previous version mixed everything into one batter, which gives a scallion-flecked pancake rather than the real, layered thing."
   },
   {
     "name": "Sesame Broccoli Snack Cup",
@@ -1226,8 +1222,9 @@
       }
     ],
     "steps_detailed": [
-      "This one was already close to right - a real toasted sesame oil and a little garlic is genuinely how this kind of simple blanched-vegetable side is dressed in Chinese home cooking. Added garlic for real depth."
-    ]
+      "Toss the steamed broccoli with the sesame oil, soy sauce, and garlic."
+    ],
+    "description": "A simple, correctly-dressed blanched vegetable side, the way it's actually done in Chinese home cooking."
   },
   {
     "name": "Five Spice Roasted Chickpeas",
@@ -1282,8 +1279,10 @@
       }
     ],
     "steps_detailed": [
-      "This one was already using real five spice powder correctly - genuinely five-spice is the right, specific ingredient for this style of roasted snack. Patting the chickpeas very dry before roasting is the main technique point that actually determines whether they crisp or steam."
-    ]
+      "Toss the dried chickpeas with the oil and five spice.",
+      "Roast at 400F for 25-30 minutes until crisp."
+    ],
+    "description": "A simple roasted snack built on real five spice powder."
   },
   {
     "name": "Chinese Almond Cookies",
@@ -1349,13 +1348,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous version used butter; real Chinese almond cookies (hup toh soh, in their Cantonese bakery form) are traditionally made with lard specifically, which gives them their characteristic short, sandy crumble - butter produces a noticeably different, denser texture. Lard is a real, available ingredient here, so this isn't a compromise, just a correction.",
       "Cream the lard and sugar together until light.",
-      "Work in the flour and chopped almonds until it just comes together into a soft dough - don't overwork it, the shortness of the crumb depends on handling it minimally.",
-      "Shape into small balls, press a whole almond into the center of each, and brush with the beaten egg for shine.",
-      "Bake at 325F (165C) for 16-18 minutes until golden at the edges.",
-      "The lard is genuinely what separates these from a generic shortbread-style cookie - it's the entire reason for the texture these cookies are known for."
-    ]
+      "Work in the flour and chopped almonds until it just comes together into a soft dough.",
+      "Shape into small balls, press a whole almond into the center of each, and brush with the beaten egg.",
+      "Bake at 325F (165C) for 16-18 minutes until golden at the edges."
+    ],
+    "description": "Hup toh soh, a Cantonese bakery cookie traditionally made with lard rather than butter, which gives it a distinctive short, sandy crumble that butter can't quite replicate."
   },
   {
     "name": "Chili Garlic Sauce",
@@ -1415,12 +1413,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous version was built on sriracha, a Thai-derived hot sauce, not a Chinese one - Chinese chili garlic sauces (like the well-known Lao Gan Ma style) are made by pouring hot oil directly over raw chili flakes and garlic, not by mixing in an already-made hot sauce, and that oil-blooming step is what actually builds their flavor.",
       "Put the garlic and chili powder in a heatproof bowl.",
-      "Heat the oil in a small pan until just beginning to shimmer and lightly smoke, then pour it directly over the garlic and chili - it should sizzle audibly on contact, which is the actual technique this style of sauce depends on.",
-      "Stir in the vinegar and soy sauce once the sizzling settles.",
-      "This is a genuinely different technique from an emulsified hot sauce like sriracha - the oil carries and blooms the chili's flavor, rather than a vinegar-based sauce simply providing heat."
-    ]
+      "Heat the oil in a small pan until just beginning to shimmer and lightly smoke, then pour it directly over the garlic and chili - it should sizzle audibly on contact.",
+      "Stir in the vinegar and soy sauce once the sizzling settles."
+    ],
+    "description": "Chinese chili garlic sauces (in the style of Lao Gan Ma) are made by pouring hot oil directly over raw chili flakes and garlic, not by mixing in an already-made hot sauce like sriracha, which is Thai-derived rather than Chinese. That oil-blooming step is what builds real flavor here."
   },
   {
     "name": "Hoisin Glaze",
@@ -1479,8 +1476,9 @@
       }
     ],
     "steps_detailed": [
-      "This one was already built on real hoisin sauce, which is a genuine, correct choice - hoisin is a real, specific Chinese condiment (fermented soybean paste sweetened and spiced), not an approximation of something else. Added a little garlic and vinegar for more rounded balance."
-    ]
+      "Whisk the hoisin sauce, soy sauce, garlic, and ginger together."
+    ],
+    "description": "A simple glaze built on real hoisin sauce, a genuine, specific Chinese fermented condiment."
   },
   {
     "name": "Chinese Chicken Salad",
@@ -1559,10 +1557,10 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: this dish (like orange chicken) is genuinely a Chinese-American restaurant creation rather than a dish native to China - it doesn't have a single traditional form to be more or less faithful to, so the goal here is just making it well on its own terms. Added soy sauce for real savory backbone and swapped the topping to peanuts, which are far more standard on this salad than sesame seeds alone.",
       "Toss the cabbage, carrot, and mandarin oranges with the sesame oil, vinegar, and soy sauce.",
       "Top with the shredded chicken and chopped peanuts."
-    ]
+    ],
+    "description": "Genuinely a Chinese-American restaurant creation rather than a dish native to China, so this aims at doing it well on its own terms - peanuts, the standard topping, instead of sesame seeds alone."
   },
   {
     "name": "Hot and Sour Soup",
@@ -1653,12 +1651,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous version used sriracha for heat, which is genuinely the wrong source of heat for this soup - real hot and sour soup gets its 'hot' specifically from white pepper, not chili, which gives a sharper, more immediate heat that sits differently than chili heat does; this was worth correcting outright rather than treating as a stylistic choice. Wood ear mushroom and dried lily buds, both traditional texture elements, aren't distinct items in this database and are genuinely missing - bamboo shoots alone keep some textural contrast but the soup will be smoother and less varied in texture than the real version.",
-      "Simmer the broth with the bamboo shoots, vinegar, white pepper, and soy sauce for 5 minutes - go generous with the white pepper specifically, real versions are noticeably peppery, not just tangy.",
+      "Simmer the broth with the bamboo shoots, vinegar, white pepper, and soy sauce for 5 minutes.",
       "Whisk the cornstarch with a tablespoon of water and stir into the soup to lightly thicken.",
       "Add the tofu and warm through, 2 minutes.",
       "Drizzle in the beaten egg while stirring the soup gently in one direction to form thin ribbons.",
       "Top with the scallions."
-    ]
+    ],
+    "description": "Real hot and sour soup gets its heat specifically from white pepper, not chili - a sharper, more immediate heat than the previous sriracha-based version, which was using the wrong source of heat entirely. Wood ear mushroom and dried lily buds, traditional texture elements, aren't distinct items in this database and are genuinely missing; the soup will be smoother and less varied in texture than the real version."
   }
 ]

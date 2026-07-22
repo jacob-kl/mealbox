@@ -204,6 +204,7 @@ async function seedRecipes(ingredients) {
         steps_detailed: r.steps_detailed || null,
         macros_per_serving: macros,
         macros_per_serving_full: macrosFull,
+        description: r.description || null,
       };
 
       const existingId = existingIdByName.get(r.name);

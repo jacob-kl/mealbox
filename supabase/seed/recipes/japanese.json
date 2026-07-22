@@ -81,12 +81,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real ramen broth is built on dashi (kombu seaweed and katsuobushi bonito flakes) as its base, then layered with a tare (the concentrated seasoning, here soy-based for shoyu ramen) and often a pork or chicken bone stock simmered for hours. Kombu and real bonito flakes aren't distinct items in this database - the canned bonito products here are packed in oil or tomato sauce, a completely different product from the dried, shaved flakes dashi needs. Plain chicken broth gives real savoriness but not dashi's specific oceanic depth; there's no honest substitute for it here, so this is a genuinely simplified broth rather than a faithfully authentic one.",
-      "Simmer the broth with the soy sauce, ginger, and garlic for 15-20 minutes to build what depth it can.",
+      "Simmer the broth with the soy sauce, ginger, and garlic for 15-20 minutes.",
       "Cook the chicken in a separate pan, 6-7 minutes, until cooked through, then slice.",
-      "Cook the ramen noodles per package directions, usually 2-3 minutes in boiling water - fresh ramen noodles specifically, not a substitute noodle, are what you actually want here; their alkaline (kansui) dough is what gives ramen its particular chew and yellow color.",
+      "Cook the ramen noodles per package directions, usually 2-3 minutes in boiling water.",
       "Divide the noodles into bowls, ladle the hot broth over, finish with a few drops of sesame oil, and top with sliced chicken, scallions, and a halved soft-boiled egg."
-    ]
+    ],
+    "description": "Real ramen broth is built on dashi (kombu seaweed and katsuobushi bonito flakes) as its base, layered with a soy-based tare and often a bone stock simmered for hours. Kombu and real bonito flakes aren't distinct items in this database - the canned bonito here is packed in oil or tomato sauce, a different product entirely from the dried, shaved flakes dashi needs. Plain chicken broth gives real savoriness but not dashi's specific depth; there's no honest substitute for it here."
   },
   {
     "name": "Miso Ramen with Pork",
@@ -170,13 +170,13 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real miso ramen, like shoyu ramen, wants a dashi-based broth underneath the miso, not plain chicken broth - dashi's specific ingredients (kombu, katsuobushi bonito flakes) aren't distinct items here, so this misses that particular depth. Added corn, a genuinely traditional Sapporo-style miso ramen topping, which was missing entirely.",
       "Simmer the broth with the ginger and garlic for 10 minutes.",
-      "Whisk in the miso paste off the heat once the broth is hot but not boiling hard - boiling miso hard cooks off its aroma.",
+      "Whisk in the miso paste off the heat once the broth is hot but not boiling hard.",
       "Cook the pork in a separate pan, 5-6 minutes, until browned and cooked through.",
       "Cook the noodles per package directions.",
       "Divide the noodles into bowls, ladle the broth over, and top with the pork, bok choy, corn, and a drizzle of sesame oil."
-    ]
+    ],
+    "description": "Like shoyu ramen, real miso ramen wants a dashi-based broth underneath the miso - dashi's ingredients aren't distinct items here, so this misses that particular depth. Added corn, a genuinely traditional Sapporo-style miso ramen topping that was missing."
   },
   {
     "name": "Chicken Katsu with Rice",
@@ -264,14 +264,14 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped a garlic-herb-flavored breadcrumb blend for plain panko - real katsu wants panko's specific large, airy, neutral crumb, which fries up light and shatteringly crisp; a pre-seasoned breadcrumb changes the flavor profile away from what katsu is supposed to taste like. Also swapped basmati rice for real short-grain sushi rice, and fried instead of implying a baked method.",
       "Dredge the chicken in flour, dip in egg, then press firmly into the panko.",
       "Heat the oil to 340-350F and fry 3-4 minutes per side until deeply golden and cooked through.",
       "Drain on a rack.",
       "Whisk the ketchup, Worcestershire, and sugar for the sauce.",
       "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes.",
       "Slice the chicken and serve over the rice with the sauce."
-    ]
+    ],
+    "description": "Swapped a garlic-herb breadcrumb blend for plain panko, which fries up light and crisp with a neutral flavor - a pre-seasoned crumb changes what katsu is supposed to taste like. Also swapped basmati for real short-grain sushi rice."
   },
   {
     "name": "Salmon Teriyaki Bowl",
@@ -347,12 +347,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped basmati for real short-grain sushi rice, and added mirin, which real teriyaki sauce is built on - teriyaki specifically means a glaze of soy sauce, mirin, and sugar reduced until glossy (\u7167\u308a, teri, refers to that shine); without mirin, this was just a soy-honey glaze wearing teriyaki's name.",
       "Whisk the soy sauce, mirin, honey, ginger, and garlic together.",
       "Pan-sear the salmon skin-side down first if skin-on, 4-5 minutes, then flip and cook 2-3 more minutes.",
       "Pour the sauce into the pan and let it reduce and thicken around the fish, 2-3 minutes, spooning it over as it glazes.",
       "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes, and serve the glazed salmon over it."
-    ]
+    ],
+    "description": "Real teriyaki is a glaze of soy sauce, mirin, and sugar reduced until glossy - the shine (teri) is where the name comes from. Added mirin, which the previous version lacked, and swapped basmati for real sushi rice."
   },
   {
     "name": "Steamed Rice & Nori",
@@ -407,11 +407,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped basmati for real short-grain sushi rice - this is the single rice type that actually belongs under nori and next to soy sauce in Japanese home cooking; a long-grain rice like basmati has an entirely different texture and won't hold together the way this simple dish depends on.",
       "Cook the sushi rice in 1.2 cups water, covered, 16-18 minutes, until tender and slightly sticky.",
       "Toast the nori briefly over a flame or in a dry pan until fragrant and crisp, then cut into strips.",
       "Serve the rice topped with the nori strips, sesame seeds, and a little soy sauce."
-    ]
+    ],
+    "description": "Swapped basmati for real short-grain sushi rice, the type that actually belongs under nori and next to soy sauce."
   },
   {
     "name": "Japanese Curry Chicken",
@@ -500,13 +500,13 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped basmati for real short-grain sushi rice. Real Japanese curry (kare raisu) is also distinctly its own thing, not simply curry powder in gravy - it's built on a roux (butter and flour cooked together until deeply browned, closer to a French technique than an Indian one, reflecting how curry actually entered Japan in the 19th century through the British navy) and typically carries a touch of sweetness from grated apple or a bit of honey, which this was missing.",
-      "Deeply caramelize the onion in the butter, 12-15 minutes, until soft and golden-brown - this long caramelization is part of what gives Japanese curry its characteristic sweetness and depth.",
+      "Deeply caramelize the onion in the butter, 12-15 minutes, until soft and golden-brown.",
       "Brown the chicken with the onion, 6-7 minutes.",
-      "Stir in the flour and curry powder, cooking 2 minutes to form a roux and cook out the raw flour taste.",
-      "Add the carrot, potato, honey, and 2 cups water, and simmer 20-25 minutes until the vegetables are tender and the sauce has thickened into a smooth, clinging gravy.",
+      "Stir in the flour and curry powder, cooking 2 minutes to form a roux.",
+      "Add the carrot, potato, honey, and 2 cups water, and simmer 20-25 minutes until the vegetables are tender and the sauce has thickened.",
       "Cook the sushi rice separately and serve the curry over it."
-    ]
+    ],
+    "description": "Kare raisu is its own distinct dish, not simply curry powder in gravy - it's built on a roux (butter and flour cooked together, reflecting how curry entered Japan through the British navy in the 19th century) and typically carries a touch of sweetness from grated apple or honey. Swapped basmati for real sushi rice."
   },
   {
     "name": "Chicken & Miso Rice Jar",
@@ -570,10 +570,10 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped basmati for real short-grain sushi rice, and worked real miso into the dressing rather than plain soy sauce, matching the jar's own name.",
       "Whisk the miso with the sesame oil and a splash of warm water until smooth.",
       "Layer the rice, chicken, and carrot in a jar, tossed with the miso dressing."
-    ]
+    ],
+    "description": "Swapped basmati for real sushi rice, and worked real miso into the dressing rather than plain soy sauce, matching the jar's own name."
   },
   {
     "name": "Beef Yakisoba",
@@ -657,12 +657,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real yakisoba noodles are a specific pre-steamed wheat noodle, different from ramen noodles, which aren't a distinct item here - ramen noodles are a reasonable stand-in shape-wise, though yakisoba's own noodle has a slightly different texture. More importantly, yakisoba sauce is its own genuinely distinct condiment (closer to a Japanese take on Worcestershire, thickened and sweetened) - this was previously just plain soy sauce, missing the sauce that actually defines the dish; ketchup and Worcestershire together get much closer to real yakisoba sauce's sweet-savory-tangy character than soy sauce alone.",
       "Cook the noodles per package directions, then drain and set aside.",
       "Heat oil in a wok over high heat. Sear the beef 1-2 minutes per side; remove.",
       "Stir-fry the garlic, cabbage, and carrot 2-3 minutes until tender-crisp.",
-      "Add the noodles and beef back in, along with the soy sauce, ketchup, and Worcestershire, tossing everything together over high heat 1-2 minutes until well coated."
-    ]
+      "Add the noodles and beef back in, along with the soy sauce, ketchup, and Worcestershire, tossing everything together over high heat 1-2 minutes."
+    ],
+    "description": "Real yakisoba noodles are a specific pre-steamed wheat noodle, different from ramen noodles, which aren't a distinct item here - ramen noodles are a reasonable stand-in shape-wise, though the texture differs slightly. Yakisoba sauce is also its own distinct condiment, closer to a Japanese take on Worcestershire, sweetened and thickened - ketchup and Worcestershire together get much closer to it than plain soy sauce, which the previous version used alone."
   },
   {
     "name": "Miso Glazed Salmon",
@@ -722,8 +722,10 @@
       }
     ],
     "steps_detailed": [
-      "This one was already built correctly on real miso and mirin, which is genuinely how saikyo-yaki style miso salmon is made. Increased the miso slightly for more real presence."
-    ]
+      "Whisk the miso, honey, mirin, and soy sauce together.",
+      "Broil or pan-sear the salmon, brushing with the glaze, 8-10 minutes, until just cooked through and caramelized at the edges."
+    ],
+    "description": "Saikyo-yaki style miso salmon, built on real miso and mirin."
   },
   {
     "name": "Yakitori Chicken",
@@ -787,12 +789,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped jasmine for real short-grain sushi rice.",
       "Thread the chicken onto skewers if available.",
-      "Simmer the soy sauce, mirin, and honey together in a small pan 3-4 minutes until reduced into a glossy tare glaze - real yakitori tare is often a much older, repeatedly-reused sauce built up over years at a single restaurant, which obviously can't be replicated here, but the basic soy-mirin-sweetener reduction is the same technique.",
+      "Simmer the soy sauce, mirin, and honey together in a small pan 3-4 minutes until reduced into a glossy glaze.",
       "Grill or broil the chicken, basting with the glaze and turning every couple of minutes, 10-12 minutes total, until charred at the edges and cooked through.",
       "Cook the sushi rice separately and serve alongside."
-    ]
+    ],
+    "description": "Grilled skewered chicken basted in a soy-mirin tare glaze. Real yakitori tare is often a much older sauce built up over years at a single restaurant, which obviously can't be replicated - the basic soy-mirin-sweetener reduction here is the same underlying technique. Swapped jasmine for real sushi rice."
   },
   {
     "name": "Tonkatsu",
@@ -880,14 +882,14 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous name honestly flagged its own compromise - real tonkatsu is deep-fried, not baked, and that's not a minor stylistic difference; the crust's shattering crunch, and the way the fat renders through the panko, only happen in actual hot oil. Baking gets you a browned, crumb-coated pork cutlet, but it isn't tonkatsu in any meaningful sense. Fixed to actually fry it. Real tonkatsu sauce (tonkatsu sosu) is also its own distinct bottled product, thicker and more complex than this - it isn't a distinct item here, but Worcestershire sauce plus ketchup and a little sugar is a genuinely common, reasonable home approximation, not an invented one.",
       "Dredge the pork in flour, dip in the beaten egg, then press firmly into the panko so it adheres in a thick, even layer.",
-      "Heat the oil in a heavy pan to 340-350F. Fry the pork 3-4 minutes per side, until deeply golden and cooked through - the oil should be deep enough to come partway up the cutlet's side.",
-      "Drain on a rack, not paper towels, so the underside stays crisp rather than steaming.",
+      "Heat the oil in a heavy pan to 340-350F. Fry the pork 3-4 minutes per side, until deeply golden and cooked through.",
+      "Drain on a rack, not paper towels.",
       "Whisk the ketchup, Worcestershire, and sugar together for the sauce.",
-      "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes, until tender and slightly sticky - short-grain rice, not a long-grain variety, is what actually belongs under tonkatsu.",
+      "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes.",
       "Slice the cutlet into strips and serve over the rice with the sauce."
-    ]
+    ],
+    "description": "Real tonkatsu is deep-fried, not baked - the previous recipe's own name honestly flagged that compromise. The crust's shattering crunch only happens in actual hot oil. Real tonkatsu sauce (tonkatsu sosu) is its own distinct bottled product; Worcestershire sauce plus ketchup and a little sugar is a genuinely common, reasonable home approximation for it."
   },
   {
     "name": "Gyudon (Beef Rice Bowl)",
@@ -963,12 +965,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped jasmine rice for real short-grain sushi rice - Japanese rice cooking specifically wants a shorter, stickier grain than jasmine, which is a long-grain variety suited to entirely different cuisines. This otherwise already had the real technique right (thin-sliced beef, soy and mirin simmering liquid), just the wrong rice.",
       "Simmer the onion in 1/2 cup water with the soy sauce, mirin, and sugar for 5 minutes until softened.",
-      "Add the beef and simmer 3-4 minutes, just until cooked through - thin-sliced beef turns tough fast, so don't walk away.",
+      "Add the beef and simmer 3-4 minutes, just until cooked through.",
       "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes.",
       "Spoon the beef, onion, and sauce over the rice, topped with a soft-boiled egg or raw yolk if using."
-    ]
+    ],
+    "description": "Thin-sliced beef and onion simmered in a soy-mirin liquid over rice. Swapped jasmine rice for real short-grain sushi rice, since Japanese rice cooking wants a shorter, stickier grain."
   },
   {
     "name": "Tofu Poke-Style Bowl",
@@ -1040,10 +1042,10 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped jasmine for real short-grain sushi rice, and 'Cucumber' for the exact confirmed ingredient name. Poke itself is genuinely Hawaiian, not Japanese, though it draws directly on Japanese techniques brought by Japanese immigrants to Hawaii (the soy-sesame dressing here is essentially shoyu poke's base) - it's included here as a tofu-based, Japanese-technique dish rather than a claim that poke itself originated in Japan.",
       "Marinate the tofu in the soy sauce and sesame oil for at least 10 minutes.",
       "Toss with the cucumber and serve over the sushi rice, topped with sesame seeds."
-    ]
+    ],
+    "description": "Poke itself is Hawaiian, not Japanese, though it draws directly on Japanese technique brought by Japanese immigrants to Hawaii - the soy-sesame dressing here is essentially shoyu poke's base. Swapped jasmine for real sushi rice."
   },
   {
     "name": "Onigiri (Rice Balls)",
@@ -1099,12 +1101,12 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous version had no filling at all, which is a real omission - onigiri are usually built around a filling (classically salted salmon, pickled plum/umeboshi, or bonito flakes, tucked into the center of the rice ball), and plain rice pressed into a triangle is closer to a side dish than actual onigiri. Pickled herring is a genuinely imperfect stand-in for the traditional salty, flaked-fish filling, offered honestly rather than as if it were the real thing - real salted salmon or umeboshi aren't distinct items here.",
-      "Cook the sushi rice in 1.3 cups water, covered, 16-18 minutes, and season lightly with the salt while still warm.",
+      "Cook the sushi rice in 1.3 cups water, covered, 16-18 minutes.",
       "Wet your hands to keep the rice from sticking, take a palmful of warm rice, press a small well into the center, tuck in a little of the flaked fish, and fold the rice back over to seal it inside.",
-      "Shape into a triangle by cupping your hands and pressing the corners, rather than rounding it into a ball - the triangular shape is traditional, not just decorative.",
+      "Shape into a triangle by cupping your hands and pressing the corners.",
       "Wrap a strip of nori around the base and finish with a scatter of sesame seeds."
-    ]
+    ],
+    "description": "Onigiri are usually built around a filling - classically salted salmon, pickled plum, or bonito flakes tucked into the center - and the previous version had no filling at all, closer to a plain rice side than actual onigiri. Pickled herring stands in for the traditional salty fish filling; it's an honest, imperfect substitute, since real salted salmon or umeboshi aren't distinct items here."
   },
   {
     "name": "Tamagoyaki (Rolled Omelette)",
@@ -1164,14 +1166,14 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real dashimaki tamago works dashi directly into the egg mixture for savory depth alongside the sweetness - dashi's ingredients aren't distinct items here, so this stays a plainer, sweeter-leaning tamagoyaki without that specific umami note. The rolling technique itself was already correctly described.",
       "Whisk the eggs with the soy sauce, honey, and mirin until smooth and well combined.",
       "Heat a lightly oiled nonstick or tamagoyaki pan over medium-low heat. Pour in a thin layer of egg, just enough to coat the bottom.",
       "As it just barely sets, roll it up from one side to the other with chopsticks or a spatula.",
-      "Push the roll to one side, oil the empty part of the pan, add another thin layer of egg, letting it flow slightly under the existing roll, and roll again, wrapping around the first roll.",
+      "Push the roll to one side, oil the empty part of the pan, add another thin layer of egg, letting it flow slightly under the existing roll, and roll again.",
       "Repeat until all the egg is used, forming a multi-layered log.",
-      "Slice into pieces to serve - the cut cross-section should show distinct, even layers if the rolling was done correctly."
-    ]
+      "Slice into pieces to serve."
+    ],
+    "description": "A rolled, layered sweet-savory omelette. Real dashimaki tamago works dashi directly into the egg for savory depth alongside the sweetness - dashi isn't achievable with what's in this database, so this stays a plainer, sweeter-leaning version."
   },
   {
     "name": "Edamame Hummus with Nori Chips",
@@ -1236,11 +1238,11 @@
       }
     ],
     "steps_detailed": [
-      "Edamame hummus itself is a modern, Western-fusion snack rather than a traditional Japanese dish, though it draws on real Japanese ingredients (edamame, nori, sesame oil) in a genuinely reasonable way. Toasting the nori briefly before serving as chips gives real crispness and flavor rather than serving it straight from the package.",
       "Blend the edamame with the sesame oil, lemon juice, and garlic until smooth.",
       "Toast the nori pieces briefly in a dry pan or over a flame until crisp and fragrant.",
       "Serve the hummus with the nori chips for scooping."
-    ]
+    ],
+    "description": "A modern, Western-fusion snack rather than a traditional Japanese dish, though it draws on real Japanese ingredients - edamame, nori, sesame oil - in a reasonable way."
   },
   {
     "name": "Wasabi Roasted Almonds",
@@ -1290,8 +1292,10 @@
       }
     ],
     "steps_detailed": [
-      "This one was already reasonably built on a real, specific Japanese flavor combination - wasabi and soy together on roasted nuts is a genuine snack style, not an invented pairing. Increased the wasabi slightly for real presence rather than a token amount."
-    ]
+      "Toss the almonds with the wasabi and soy sauce.",
+      "Roast at 350F for 8-10 minutes."
+    ],
+    "description": "A genuine Japanese snack style - wasabi and soy together on roasted nuts is a real, established combination."
   },
   {
     "name": "Matcha Mochi Bites",
@@ -1356,12 +1360,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC (this is the most significant fix in this file): the previous version used coconut flour and sweetened condensed milk, which has nothing to do with real mochi at all - mochi is defined by glutinous rice flour's specific starch, which is what creates its stretchy, chewy texture; coconut flour is a completely different product with none of that quality. This wasn't a values judgment about a fair substitute, it was simply the wrong ingredient for the dish's whole identity.",
       "Whisk the glutinous rice flour, matcha, sugar, and milk together into a smooth batter.",
-      "Microwave in a covered, greased dish in 1-minute bursts, stirring between each, 3-4 minutes total, until it turns from a runny batter into a thick, translucent, sticky mass - this transformation from opaque and liquid to glossy and stretchy is exactly what real mochi does, and is the sign it's ready.",
-      "Let cool just enough to handle, then dust your hands with a little extra rice flour and pinch off small pieces, rolling in the grated coconut to coat.",
-      "The stretchy, chewy pull when you bite into a piece is the actual point of mochi - if it's crumbly or cakey, something went wrong in the ratios or the cooking time."
-    ]
+      "Microwave in a covered, greased dish in 1-minute bursts, stirring between each, 3-4 minutes total, until it turns from a runny batter into a thick, translucent, sticky mass.",
+      "Let cool just enough to handle, then dust your hands with a little extra rice flour and pinch off small pieces, rolling in the grated coconut to coat."
+    ],
+    "description": "Mochi is defined by glutinous rice flour's specific starch, which creates its stretchy, chewy texture. The previous version used coconut flour and sweetened condensed milk, which has nothing to do with real mochi at all - this wasn't a fair-substitute judgment call, it was simply the wrong ingredient for the dish's whole identity. Fixed with real glutinous rice flour."
   },
   {
     "name": "Ponzu Dipping Sauce",
@@ -1410,8 +1413,9 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real ponzu is traditionally made with yuzu, a specific Japanese citrus, not lime - yuzu isn't a distinct item in this database, and lime is a genuinely different flavor (brighter and more purely sour, missing yuzu's particular floral, slightly bitter complexity), so this is honestly a lime-soy dipping sauce in ponzu's style rather than real ponzu."
-    ]
+      "Whisk the soy sauce, lime juice, and rice vinegar together."
+    ],
+    "description": "Real ponzu is traditionally made with yuzu, a specific Japanese citrus, not lime - yuzu isn't a distinct item in this database, and lime is genuinely different (brighter, more purely sour, missing yuzu's floral complexity), so this is a lime-soy sauce in ponzu's style rather than real ponzu."
   },
   {
     "name": "Sesame Miso Dressing",
@@ -1465,8 +1469,9 @@
       }
     ],
     "steps_detailed": [
-      "This one was already correctly built on real miso and sesame oil - a genuine, common Japanese dressing style."
-    ]
+      "Whisk the miso, sesame oil, rice vinegar, and honey together."
+    ],
+    "description": "A genuine, common Japanese dressing style built on real miso and sesame oil."
   },
   {
     "name": "Miso Soup with Tofu",
@@ -1522,11 +1527,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: real miso soup is built on a dashi base (kombu and bonito flakes simmered briefly, then strained) rather than plain water - dashi isn't achievable with what's in this database. A small amount of fish sauce is added here purely to add a little of the savory, oceanic depth dashi would normally provide, but it's a genuinely different flavor (fish sauce is fermented and pungent in its own distinct way) and doesn't replicate dashi's clean, delicate character. This is an honest attempt at a directionally similar depth, not a true substitute.",
       "Bring 1.5 cups water to a bare simmer with the fish sauce.",
-      "Whisk in the miso paste once the water is hot but not boiling hard - hard-boiling miso cooks off its aroma and turns the soup cloudy in an unpleasant way rather than the clear, clean broth it should be.",
+      "Whisk in the miso paste once the water is hot but not boiling hard.",
       "Add the tofu and warm through gently, 2 minutes, without boiling.",
       "Top with the scallions."
-    ]
+    ],
+    "description": "Real miso soup is built on a dashi base - dashi isn't achievable with what's in this database. A small amount of fish sauce adds a little of the savory depth dashi would normally provide, but it's a genuinely different flavor and doesn't replicate dashi's clean, delicate character."
   }
 ]

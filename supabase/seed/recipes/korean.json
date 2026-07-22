@@ -101,9 +101,9 @@
       "Heat sesame oil in a skillet over medium-high heat. Add the ginger and garlic, cooking 20-30 seconds until fragrant.",
       "Add the beef, breaking it apart, and brown for 5-6 minutes.",
       "Add the soy sauce and brown sugar, tossing to coat, and cook 2 more minutes until the sauce thickens slightly and clings to the beef.",
-      "Serve over rice, topped with scallions.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Serve over rice, topped with scallions."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Chicken Bulgogi",
@@ -180,11 +180,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped basmati for real short-grain Korean-style rice - Korean rice cooking, like Japanese, wants a stickier short grain, not a long-grain variety. Real bulgogi is also traditionally made with a grated Asian pear or apple worked into the marinade, which tenderizes the meat and adds a specific sweetness - that's genuinely missing here since a clean grated-fruit-marinade note wasn't in the original, though the core soy-garlic-sesame marinade direction is otherwise correct.",
       "Marinate the chicken in the soy sauce, mirin, garlic, ginger, and sesame oil for at least 20 minutes, ideally longer.",
-      "Grill or pan-sear over high heat, 2-3 minutes per side, until charred at the edges and cooked through - real bulgogi wants visible char from high, fast heat, not a gentle simmer.",
+      "Grill or pan-sear over high heat, 2-3 minutes per side, until charred at the edges and cooked through.",
       "Cook the rice separately and serve with the kimchi alongside."
-    ]
+    ],
+    "description": "Swapped basmati for real short-grain Korean-style rice. Real bulgogi is also traditionally made with grated Asian pear or apple worked into the marinade, which tenderizes the meat and adds a specific sweetness - that's genuinely missing here, though the core soy-garlic-sesame marinade direction is otherwise correct."
   },
   {
     "name": "Gochujang Salmon",
@@ -276,9 +276,9 @@
     "steps_detailed": [
       "Whisk the gochujang, honey, and soy sauce together for the glaze.",
       "Preheat the oven to 400F. Brush the salmon generously with the glaze and bake 12-15 minutes until it flakes easily.",
-      "Meanwhile, cook the rice per package directions, and steam or saute the broccoli with sesame oil until tender-crisp, about 5-6 minutes.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Meanwhile, cook the rice per package directions, and steam or saute the broccoli with sesame oil until tender-crisp, about 5-6 minutes."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Korean Tofu Stir-Fry",
@@ -374,9 +374,9 @@
       "Heat a splash of oil in a skillet over medium-high heat and sear the tofu 3-4 minutes per side until golden.",
       "Whisk the gochujang and soy sauce together and add to the pan along with the garlic, tossing to coat the tofu.",
       "Add the bok choy and stir-fry 2-3 minutes until wilted.",
-      "Cook the rice per package directions and serve everything over it, topped with sesame seeds.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Cook the rice per package directions and serve everything over it, topped with sesame seeds."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Korean Chicken & Kimchi Jar",
@@ -436,9 +436,9 @@
     ],
     "steps_detailed": [
       "Toss the chicken with sesame oil.",
-      "Layer the rice, kimchi, and chicken in a jar.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Layer the rice, kimchi, and chicken in a jar."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Korean Beef Bulgogi Bowl",
@@ -521,9 +521,9 @@
       "Whisk the soy sauce, honey, garlic, and sesame oil together. Toss with the beef and marinate at least 20 minutes.",
       "Cook the rice per package directions.",
       "Heat a skillet over high heat and sear the beef in batches, 1-2 minutes per side, until charred at the edges and cooked through.",
-      "Serve over rice.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Serve over rice."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Spicy Korean Pork Bowl",
@@ -606,9 +606,9 @@
       "Whisk the gochujang, soy sauce, honey, and garlic together. Toss with the pork and marinate at least 20 minutes.",
       "Cook the rice per package directions.",
       "Heat a skillet over medium-high heat and cook the pork 6-7 minutes, stirring occasionally, until cooked through and the sauce has thickened into a glaze.",
-      "Serve over rice.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Serve over rice."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Korean Fried Chicken",
@@ -686,14 +686,13 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: the previous name honestly admitted its own compromise, same as the tonkatsu case - real Korean fried chicken is specifically double-fried, which is the entire reason it's famous for staying shatteringly crisp even after being coated in sauce, unlike most fried chicken which softens quickly. Baking cannot replicate that. Fixed to actually fry it twice.",
       "Toss the chicken pieces in the cornstarch to coat.",
-      "Fry in the oil at 325F for 6-7 minutes until cooked through but pale; remove and rest 5 minutes - this rest between fries is essential, not optional, since it's what lets the crust set before the second, hotter fry.",
+      "Fry in the oil at 325F for 6-7 minutes until cooked through but pale; remove and rest 5 minutes.",
       "Increase the oil to 375F and fry the chicken again, 2-3 minutes, until deeply golden and audibly crackling-crisp.",
       "Whisk the gochujang, honey, soy sauce, and garlic together and warm gently in a separate pan, 1-2 minutes.",
-      "Toss the double-fried chicken in the sauce just before serving.",
-      "The double fry is genuinely what separates this from ordinary fried chicken with a spicy glaze - skipping it changes the dish's whole texture, not just a minor detail."
-    ]
+      "Toss the double-fried chicken in the sauce just before serving."
+    ],
+    "description": "Real Korean fried chicken is specifically double-fried, which is why it stays shatteringly crisp even under sauce, unlike most fried chicken. The previous recipe's own name honestly admitted it was baked instead, which can't replicate that."
   },
   {
     "name": "Doenjang Vegetable Stew",
@@ -780,9 +779,9 @@
       "Simmer the onion and garlic in the broth for 5 minutes.",
       "Add the zucchini and simmer 6-8 minutes until tender.",
       "Add the tofu and warm through gently for 2-3 minutes.",
-      "Cook the rice per package directions and serve alongside.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Cook the rice per package directions and serve alongside."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Korean Beef & Rice Jar",
@@ -853,9 +852,9 @@
     ],
     "steps_detailed": [
       "Toss the cooked beef with soy sauce and honey.",
-      "Layer the rice, carrot, and beef in a jar.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Layer the rice, carrot, and beef in a jar."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Bibimbap Bowl",
@@ -951,15 +950,14 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: swapped jasmine for real short-grain rice, and reworked the vegetables into proper individual banchan-style preparations rather than all tossed together raw - real bibimbap is built specifically on each vegetable being separately blanched or saut\u00e9ed and seasoned on its own with its own touch of sesame oil, garlic, and salt, then arranged in distinct sections around the bowl, not combined into one mixed pile before serving. That arrangement, and the mixing happening at the table rather than in the kitchen, is a real, defining part of the dish.",
       "Season the beef with a little soy sauce and cook through in a hot pan, 5-6 minutes.",
       "Blanch the spinach briefly, squeeze dry, and toss with a few drops of sesame oil and a pinch of minced garlic.",
       "Blanch the bean sprouts 2 minutes, then toss the same way.",
       "Quickly saut\u00e9 the carrot in a little oil, 2 minutes, just until slightly softened.",
-      "Cook the rice, then arrange it in a bowl with the beef and each vegetable in its own distinct section, not mixed together.",
-      "Top with the fried egg and a generous dollop of gochujang.",
-      "The bowl should be visually distinct sections of color and texture, mixed together only once it reaches the table - that's the real point of bibimbap's name, which literally means 'mixed rice.'"
-    ]
+      "Cook the rice, then arrange it in a bowl with the beef and each vegetable in its own distinct section.",
+      "Top with the fried egg and a generous dollop of gochujang."
+    ],
+    "description": "Real bibimbap is built on each vegetable being separately blanched or saut\u00e9ed and seasoned on its own, then arranged in distinct sections around the bowl - not combined into one mixed pile before serving, which the previous version did. The mixing happens at the table, which is what the name literally means ('mixed rice'). Swapped jasmine for real short-grain rice."
   },
   {
     "name": "Korean Tofu Lettuce Wraps",
@@ -1101,9 +1099,9 @@
     "steps_detailed": [
       "Cook the rice per package directions.",
       "Fry the eggs in sesame oil to your preference.",
-      "Serve the eggs over the rice, drizzled with soy sauce and topped with scallions.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Serve the eggs over the rice, drizzled with soy sauce and topped with scallions."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Kimchi Fried Rice Snack Cup",
@@ -1154,9 +1152,9 @@
     ],
     "steps_detailed": [
       "Heat sesame oil in a small pan over medium-high heat.",
-      "Add the rice and kimchi, stir-frying 3-4 minutes until heated through and slightly crisp at the edges.",
-      "CHANGE FROM AUTHENTIC: swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice, all of which behave and taste noticeably different."
-    ]
+      "Add the rice and kimchi, stir-frying 3-4 minutes until heated through and slightly crisp at the edges."
+    ],
+    "description": "Swapped the rice for real short-grain Korean-style rice - Korean cooking wants a stickier, shorter grain than basmati, jasmine, or brown rice."
   },
   {
     "name": "Roasted Korean Sweet Potato",
@@ -1263,11 +1261,11 @@
       }
     ],
     "steps_detailed": [
-      "CHANGE FROM AUTHENTIC: check whether this was previously using a wheat flour rather than glutinous rice flour - Korean tteok rice cakes, sweet or savory, are built on glutinous rice flour specifically, the same starch that gives mochi its chew; a wheat-based cake would have a completely different, more cake-like texture rather than tteok's dense, springy bite. Cinnamon and sugar together (sometimes called sujeonggwa-adjacent flavoring) is a genuine, traditional Korean sweet flavor pairing, not an invented one.",
       "Whisk the glutinous rice flour, cinnamon, sugar, and milk into a smooth, thick batter.",
-      "Pour into a small greased dish and steam over simmering water 25-30 minutes until firm and set all the way through - tteok is steamed, not baked, which keeps it moist and dense rather than dry and crumbly.",
+      "Pour into a small greased dish and steam over simmering water 25-30 minutes until firm and set all the way through.",
       "Cool slightly, slice, and top with the pistachios."
-    ]
+    ],
+    "description": "Korean tteok rice cakes, sweet or savory, are built on glutinous rice flour specifically, the same starch that gives mochi its chew - a wheat-based cake would have a completely different, more cake-like texture. Cinnamon and sugar together is a genuine, traditional Korean sweet flavor pairing."
   },
   {
     "name": "Gochujang Glaze",
@@ -1658,11 +1656,11 @@
       }
     ],
     "steps_detailed": [
-      "Added gochugaru (Korean red pepper flakes) for real color and a cleaner, fruitier heat than what kimchi's own spice alone provides - genuine jjigae leans on both together, not kimchi as the only source of heat. Well-fermented, properly sour kimchi (not fresh, mild kimchi) is specifically what this stew wants; the fermented tang is most of the dish's flavor.",
       "Brown the pork with the garlic, 5-6 minutes.",
       "Add the kimchi and gochugaru, and cook 3-4 minutes to let the kimchi's flavor deepen and slightly caramelize at the edges.",
       "Add the broth and simmer 12-15 minutes to let the flavors meld.",
       "Add the tofu and warm through gently, 3-4 minutes."
-    ]
+    ],
+    "description": "Added gochugaru for real color and a cleaner, fruitier heat than kimchi's own spice alone provides - genuine jjigae leans on both together. Well-fermented, properly sour kimchi, not fresh or mild kimchi, is specifically what this stew wants."
   }
 ]
