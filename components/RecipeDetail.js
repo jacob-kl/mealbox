@@ -205,6 +205,10 @@ export default function RecipeDetail({ recipe, weekPlanMealId, ingredientCatalog
         </p>
       )}
 
+      {recipe.description && (
+        <p className="text-sm text-ink/70 mb-3 leading-relaxed">{recipe.description}</p>
+      )}
+
       {displayIngredients?.length > 0 && (
         <>
           <p className="font-medium mb-1">

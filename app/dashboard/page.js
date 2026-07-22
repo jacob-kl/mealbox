@@ -81,7 +81,7 @@ export default async function DashboardPage({ searchParams }) {
   const recipeCatalog = await fetchAll(() =>
     supabase
       .from('recipes')
-      .select('id, name, meal_type, cuisine, tags, macros_per_serving, ingredients, steps')
+      .select('id, name, meal_type, cuisine, tags, macros_per_serving, ingredients, steps, description')
       .or(`household_id.is.null,household_id.eq.${profile.household_id}`)
       .order('name')
       .order('id')
