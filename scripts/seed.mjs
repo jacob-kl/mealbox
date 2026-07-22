@@ -108,11 +108,43 @@ async function seedIngredients() {
 }
 
 /**
+ * Supabase's REST layer caps any unpaginated select at a default row limit
+ * (commonly 1000), silently - no error, it just quietly hands back a partial
+ * result. seedRecipes() needs the COMPLETE list of existing global recipes
+ * to correctly match by name, or it will treat already-existing recipes
+ * that fell outside that partial window as new and insert duplicates of
+ * them instead of updating them in place. This walks the table a page at a
+ * time with .range() until a short page confirms there's nothing left,
+ * the same pattern lib/fetchAll.js already uses elsewhere in this app for
+ * this identical limit.
+ */
+async function fetchAllExistingRecipes() {
+  const PAGE_SIZE = 1000;
+  let allRows = [];
+  let from = 0;
+
+  while (true) {
+    const { data, error } = await supabase
+      .from('recipes')
+      .select('id, name')
+      .is('household_id', null)
+      .range(from, from + PAGE_SIZE - 1);
+    if (error) throw new Error(`Fetching existing global recipes failed: ${error.message}`);
+    if (!data || data.length === 0) break;
+    allRows = allRows.concat(data);
+    if (data.length < PAGE_SIZE) break; // fewer rows than requested means this was the last page
+    from += PAGE_SIZE;
+  }
+
+  return allRows;
+}
+
+/**
  * Global recipes are fully defined by the seed files, but re-running this
  * script must NEVER give an unchanged recipe a new id — any week plan that
  * already references it (week_plan_meals.recipe_id) would have that
  * reference silently nulled out (ON DELETE SET NULL), which is exactly what
- * "my plan clears out every time I push an update" was. So: update existing
+ * "my week plan keeps clearing out every time I push an update" was. So: update existing
  * recipes in place by name, only INSERT ones that are genuinely new, and
  * only DELETE ones that were actually removed from the seed files.
  */
@@ -121,12 +153,8 @@ async function seedRecipes(ingredients) {
   const recipesDir = path.join(SEED_DIR, 'recipes');
   const files = (await readdir(recipesDir)).filter((f) => f.endsWith('.json'));
 
-  const { data: existing, error: fetchError } = await supabase
-    .from('recipes')
-    .select('id, name')
-    .is('household_id', null);
-  if (fetchError) throw new Error(`Fetching existing global recipes failed: ${fetchError.message}`);
-  const existingIdByName = new Map((existing || []).map((r) => [r.name, r.id]));
+  const existing = await fetchAllExistingRecipes();
+  const existingIdByName = new Map(existing.map((r) => [r.name, r.id]));
   const seenNames = new Set();
 
   let updated = 0;
@@ -197,7 +225,7 @@ async function seedRecipes(ingredients) {
   // Only remove recipes that were actually deleted from the seed files —
   // anything still present, even if edited, keeps its id and every
   // reference to it intact.
-  const toDelete = (existing || []).filter((r) => !seenNames.has(r.name)).map((r) => r.id);
+  const toDelete = existing.filter((r) => !seenNames.has(r.name)).map((r) => r.id);
   if (toDelete.length) {
     const { error } = await supabase.from('recipes').delete().in('id', toDelete);
     if (error) throw new Error(`Removing retired recipes failed: ${error.message}`);
