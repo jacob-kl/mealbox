@@ -106,7 +106,7 @@
       "Off the heat, fold in the roasted peanuts.",
       "Top with the scallions and serve over the rice."
     ],
-    "description": "Gong bao ji ding, a Sichuan classic built on chicken, dried chilies, and peanuts. Real Sichuan peppercorn gives it m\u00e1l\u00e0, the tingling-numbing sensation the dish is known for - it isn't a distinct item in this database, so that specific sensation is missing here and can't be faithfully replicated with any substitute. Chili powder stands in for dried chilies, and peanuts (not almonds) are used, since peanuts are what the dish is actually built on."
+    "description": "Gong bao ji ding, a Sichuan classic built on chicken, dried chilies, and peanuts. Real Sichuan peppercorn gives it m\u00e1l\u00e0, the tingling-numbing sensation the dish is known for, which chili powder alone can't replicate. Peanuts, not almonds, are what the dish is actually built on."
   },
   {
     "name": "Beef and Broccoli",
@@ -193,7 +193,7 @@
       "Return the beef to the wok with the oyster sauce and remaining soy sauce, tossing 30-45 seconds until glossy and everything is coated.",
       "Serve over the rice."
     ],
-    "description": "A home-style stir-fry standard. Swapped brown rice for jasmine, since white rice is what actually accompanies this dish - brown rice isn't traditional here. Shaoxing rice wine, normally used in the marinade for real depth, isn't a distinct item in this database and is left out rather than faked."
+    "description": "A home-style stir-fry standard, served over white rice - brown rice isn't traditional here. Shaoxing rice wine, normally used in the marinade for real depth, is left out rather than faked with something that would taste wrong."
   },
   {
     "name": "Shrimp Lo Mein",
@@ -279,7 +279,7 @@
       "Add the noodles, soy sauce, and oyster sauce, tossing everything together over high heat 1-2 minutes until the noodles are coated and starting to catch slightly at the edges.",
       "Return the shrimp, toss once more, and finish with the sesame oil off the heat."
     ],
-    "description": "Lo mein means 'tossed noodles' and is a wheat-and-egg noodle dish - rice noodles, which the previous version used, are for something like pad thai, and behave completely differently in the pan. Egg noodles are used here instead, which is the correct noodle for this dish."
+    "description": "Lo mein means 'tossed noodles' and is a wheat-and-egg noodle dish. Rice noodles are for something like pad thai, and behave completely differently in the pan - egg noodles are the correct noodle here."
   },
   {
     "name": "Mapo Tofu",
@@ -384,7 +384,7 @@
       "Whisk the cornstarch with a tablespoon of water and stir in to thicken the sauce, 1 minute.",
       "Top with the scallions and serve over the rice."
     ],
-    "description": "A Sichuan dish normally built on doubanjiang (fermented broad bean and chili paste) and Sichuan peppercorn for m\u00e1l\u00e0 numbness - neither is a distinct item in this database, and there's no substitute that actually replicates them. Miso paste (Japanese, not Chinese, used only for its fermented depth) plus chili powder gets into the right general territory but will taste noticeably flatter and less complex than real doubanjiang-based mapo tofu, with no numbing sensation at all. This is the most significant compromise in this file."
+    "description": "A Sichuan dish normally built on doubanjiang (fermented broad bean and chili paste) and Sichuan peppercorn for m\u00e1l\u00e0 numbness. Miso paste (Japanese, not Chinese, used only for its fermented depth) plus chili powder gets into the right general territory but tastes noticeably flatter and less complex than real doubanjiang-based mapo tofu, with no numbing sensation at all."
   },
   {
     "name": "Chicken Fried Rice",
@@ -841,7 +841,7 @@
       "Toss the fried pork through the sauce just before serving.",
       "Serve over the rice."
     ],
-    "description": "Gu lao rou in its Cantonese-restaurant form depends on a crisp, battered, deep-fried exterior standing up against a wet sauce - the previous version simmered the pork instead of frying it, which is closer to a braise than the real dish. Real versions also lean on more vinegar for a sharper tang than a purely sweet glaze."
+    "description": "Gu lao rou in its Cantonese-restaurant form depends on a crisp, battered, deep-fried exterior standing up against a wet sauce, closer to the real dish than simmering the pork in sauce would be. Real versions also lean on more vinegar for a sharper tang than a purely sweet glaze."
   },
   {
     "name": "Chicken and Egg Fried Rice",
@@ -1090,7 +1090,7 @@
       "Place a spoonful of filling in the center of each round, fold in half, and pleat the edge to seal.",
       "Steam over simmering water 8-10 minutes, or pan-fry then steam (potsticker-style: sear the bottoms first, then add water and cover to steam through) for a crisp bottom."
     ],
-    "description": "Turned this into an actual dumpling recipe rather than a deconstructed 'bowl' version of the filling - the previous version skipped the dumpling entirely, a significant simplification for a dish that's supposed to be dumplings."
+    "description": "An actual dumpling recipe, wrapper and all, rather than a deconstructed bowl of the filling - a dish called dumplings should have the dumpling."
   },
   {
     "name": "Chinese Scallion Pancake with Egg",
@@ -1168,7 +1168,7 @@
       "Pan-fry in the vegetable oil over medium heat, 3-4 minutes per side, until deeply golden and visibly flaky at the edges.",
       "Fry the eggs separately and serve alongside with the soy sauce for dipping."
     ],
-    "description": "Cong you bing is a laminated dough - rolled thin, brushed with oil and scattered with scallion, then rolled up and coiled before rolling flat again - which builds its flaky, layered interior. The previous version mixed everything into one batter, which gives a scallion-flecked pancake rather than the real, layered thing."
+    "description": "Cong you bing is a laminated dough - rolled thin, brushed with oil and scattered with scallion, then rolled up and coiled before rolling flat again - which builds its flaky, layered interior, rather than a single mixed batter."
   },
   {
     "name": "Sesame Broccoli Snack Cup",
@@ -1616,8 +1616,18 @@
       },
       {
         "ingredient": "Bamboo shoots, canned, drained solids",
-        "qty": 60,
+        "qty": 50,
         "note": "julienned"
+      },
+      {
+        "ingredient": "Wood ear mushroom, dried",
+        "qty": 8,
+        "note": "soaked in warm water 20 minutes until softened, then sliced"
+      },
+      {
+        "ingredient": "Dried lily buds (golden needles)",
+        "qty": 6,
+        "note": "soaked in warm water 20 minutes until softened, tough ends trimmed, tied in a knot if desired"
       },
       {
         "ingredient": "Rice vinegar",
@@ -1651,12 +1661,13 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the broth with the bamboo shoots, vinegar, white pepper, and soy sauce for 5 minutes.",
+      "Soak the wood ear mushroom and lily buds separately in warm water 20 minutes until softened, then drain, slice the wood ear, and trim the tough ends off the lily buds.",
+      "Simmer the broth with the bamboo shoots, wood ear, lily buds, vinegar, white pepper, and soy sauce for 5 minutes.",
       "Whisk the cornstarch with a tablespoon of water and stir into the soup to lightly thicken.",
       "Add the tofu and warm through, 2 minutes.",
       "Drizzle in the beaten egg while stirring the soup gently in one direction to form thin ribbons.",
       "Top with the scallions."
     ],
-    "description": "Real hot and sour soup gets its heat specifically from white pepper, not chili - a sharper, more immediate heat than the previous sriracha-based version, which was using the wrong source of heat entirely. Wood ear mushroom and dried lily buds, traditional texture elements, aren't distinct items in this database and are genuinely missing; the soup will be smoother and less varied in texture than the real version."
+    "description": "Hot and sour soup gets its heat specifically from white pepper, not chili - a sharper, more immediate heat. Wood ear mushroom and dried lily buds are traditionally used in this soup for their distinctive textures: wood ear stays firm and slightly crunchy even after simmering, while lily buds add a chewy, faintly tangy bite."
   }
 ]

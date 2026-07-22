@@ -8197,5 +8197,53 @@
       "gluten_free"
     ],
     "allergens": []
+  },
+  {
+    "name": "Wood ear mushroom, dried",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g dried",
+    "cal": 300,
+    "protein": 3.0,
+    "carbs": 80.0,
+    "fat": 0.3,
+    "fiber": 45.0,
+    "micros": {
+      "calcium": 150.0,
+      "potassium": 700,
+      "iron": 30.0,
+      "phosphorus": 270
+    },
+    "sub_group": "vegetables",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Dried lily buds (golden needles)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g dried",
+    "cal": 250,
+    "protein": 8.0,
+    "carbs": 55.0,
+    "fat": 0.5,
+    "fiber": 8.0,
+    "micros": {
+      "calcium": 40.0,
+      "potassium": 900,
+      "iron": 4.0,
+      "vitaminC": 5.0
+    },
+    "sub_group": "vegetables",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
   }
 ]

@@ -86,7 +86,7 @@
       "Cook the ramen noodles per package directions, usually 2-3 minutes in boiling water.",
       "Divide the noodles into bowls, ladle the hot broth over, finish with a few drops of sesame oil, and top with sliced chicken, scallions, and a halved soft-boiled egg."
     ],
-    "description": "Real ramen broth is built on dashi (kombu seaweed and katsuobushi bonito flakes) as its base, layered with a soy-based tare and often a bone stock simmered for hours. Kombu and real bonito flakes aren't distinct items in this database - the canned bonito here is packed in oil or tomato sauce, a different product entirely from the dried, shaved flakes dashi needs. Plain chicken broth gives real savoriness but not dashi's specific depth; there's no honest substitute for it here."
+    "description": "Real ramen broth is built on dashi (kombu seaweed and katsuobushi bonito flakes) as its base, layered with a soy-based tare and often a bone stock simmered for hours. Kombu and real bonito flakes (the dried, shaved kind dashi needs, not canned bonito packed in oil) aren't used here, so this broth has real savoriness from the chicken stock but not dashi's specific oceanic depth."
   },
   {
     "name": "Miso Ramen with Pork",
@@ -352,7 +352,7 @@
       "Pour the sauce into the pan and let it reduce and thicken around the fish, 2-3 minutes, spooning it over as it glazes.",
       "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes, and serve the glazed salmon over it."
     ],
-    "description": "Real teriyaki is a glaze of soy sauce, mirin, and sugar reduced until glossy - the shine (teri) is where the name comes from. Added mirin, which the previous version lacked, and swapped basmati for real sushi rice."
+    "description": "Real teriyaki is a glaze of soy sauce, mirin, and sugar reduced until glossy - the shine (teri) is where the name comes from - served over real short-grain sushi rice rather than a long-grain variety."
   },
   {
     "name": "Steamed Rice & Nori",
@@ -662,7 +662,7 @@
       "Stir-fry the garlic, cabbage, and carrot 2-3 minutes until tender-crisp.",
       "Add the noodles and beef back in, along with the soy sauce, ketchup, and Worcestershire, tossing everything together over high heat 1-2 minutes."
     ],
-    "description": "Real yakisoba noodles are a specific pre-steamed wheat noodle, different from ramen noodles, which aren't a distinct item here - ramen noodles are a reasonable stand-in shape-wise, though the texture differs slightly. Yakisoba sauce is also its own distinct condiment, closer to a Japanese take on Worcestershire, sweetened and thickened - ketchup and Worcestershire together get much closer to it than plain soy sauce, which the previous version used alone."
+    "description": "Yakisoba noodles are a specific pre-steamed wheat noodle; ramen noodles are a reasonable stand-in shape-wise, though the texture differs slightly. Yakisoba sauce is its own distinct condiment, closer to a Japanese take on Worcestershire, sweetened and thickened - ketchup and Worcestershire together get much closer to it than plain soy sauce would."
   },
   {
     "name": "Miso Glazed Salmon",
@@ -889,7 +889,7 @@
       "Cook the sushi rice in 0.9 cup water, covered, 16-18 minutes.",
       "Slice the cutlet into strips and serve over the rice with the sauce."
     ],
-    "description": "Real tonkatsu is deep-fried, not baked - the previous recipe's own name honestly flagged that compromise. The crust's shattering crunch only happens in actual hot oil. Real tonkatsu sauce (tonkatsu sosu) is its own distinct bottled product; Worcestershire sauce plus ketchup and a little sugar is a genuinely common, reasonable home approximation for it."
+    "description": "Real tonkatsu is deep-fried, not baked - the crust's shattering crunch only happens in actual hot oil. Real tonkatsu sauce (tonkatsu sosu) is its own distinct bottled product; Worcestershire sauce plus ketchup and a little sugar is a genuinely common, reasonable home approximation for it."
   },
   {
     "name": "Gyudon (Beef Rice Bowl)",
@@ -1106,7 +1106,7 @@
       "Shape into a triangle by cupping your hands and pressing the corners.",
       "Wrap a strip of nori around the base and finish with a scatter of sesame seeds."
     ],
-    "description": "Onigiri are usually built around a filling - classically salted salmon, pickled plum, or bonito flakes tucked into the center - and the previous version had no filling at all, closer to a plain rice side than actual onigiri. Pickled herring stands in for the traditional salty fish filling; it's an honest, imperfect substitute, since real salted salmon or umeboshi aren't distinct items here."
+    "description": "Onigiri are usually built around a filling - classically salted salmon, pickled plum, or bonito flakes tucked into the center. Pickled herring stands in for the traditional salty fish filling; real salted salmon or umeboshi would be closer to the classic version, but this is a reasonable, honest stand-in."
   },
   {
     "name": "Tamagoyaki (Rolled Omelette)",
@@ -1173,7 +1173,7 @@
       "Repeat until all the egg is used, forming a multi-layered log.",
       "Slice into pieces to serve."
     ],
-    "description": "A rolled, layered sweet-savory omelette. Real dashimaki tamago works dashi directly into the egg for savory depth alongside the sweetness - dashi isn't achievable with what's in this database, so this stays a plainer, sweeter-leaning version."
+    "description": "A rolled, layered sweet-savory omelette. Real dashimaki tamago works dashi directly into the egg for savory depth alongside the sweetness; this stays a plainer, sweeter-leaning version without it."
   },
   {
     "name": "Edamame Hummus with Nori Chips",
@@ -1364,7 +1364,7 @@
       "Microwave in a covered, greased dish in 1-minute bursts, stirring between each, 3-4 minutes total, until it turns from a runny batter into a thick, translucent, sticky mass.",
       "Let cool just enough to handle, then dust your hands with a little extra rice flour and pinch off small pieces, rolling in the grated coconut to coat."
     ],
-    "description": "Mochi is defined by glutinous rice flour's specific starch, which creates its stretchy, chewy texture. The previous version used coconut flour and sweetened condensed milk, which has nothing to do with real mochi at all - this wasn't a fair-substitute judgment call, it was simply the wrong ingredient for the dish's whole identity. Fixed with real glutinous rice flour."
+    "description": "Mochi is defined by glutinous rice flour's specific starch, which creates its stretchy, chewy texture - real glutinous rice flour is what actually makes this mochi rather than a cake or candy wearing its name."
   },
   {
     "name": "Ponzu Dipping Sauce",
@@ -1415,7 +1415,7 @@
     "steps_detailed": [
       "Whisk the soy sauce, lime juice, and rice vinegar together."
     ],
-    "description": "Real ponzu is traditionally made with yuzu, a specific Japanese citrus, not lime - yuzu isn't a distinct item in this database, and lime is genuinely different (brighter, more purely sour, missing yuzu's floral complexity), so this is a lime-soy sauce in ponzu's style rather than real ponzu."
+    "description": "Real ponzu is traditionally made with yuzu, a specific Japanese citrus, not lime - lime is genuinely different (brighter, more purely sour, missing yuzu's floral complexity), so this is a lime-soy sauce in ponzu's style rather than real ponzu."
   },
   {
     "name": "Sesame Miso Dressing",
@@ -1532,6 +1532,6 @@
       "Add the tofu and warm through gently, 2 minutes, without boiling.",
       "Top with the scallions."
     ],
-    "description": "Real miso soup is built on a dashi base - dashi isn't achievable with what's in this database. A small amount of fish sauce adds a little of the savory depth dashi would normally provide, but it's a genuinely different flavor and doesn't replicate dashi's clean, delicate character."
+    "description": "Real miso soup is built on a dashi base. A small amount of fish sauce adds a little of the savory depth dashi would normally provide, but it's a genuinely different flavor and doesn't replicate dashi's clean, delicate character."
   }
 ]
