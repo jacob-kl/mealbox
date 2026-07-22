@@ -70,7 +70,8 @@
       "Warm the diced tomatoes in the same pan for 2-3 minutes.",
       "Fry the eggs in the rendered fat to your preferred doneness, seasoning with black pepper.",
       "Serve everything together on one plate with toast - the full Irish breakfast, a weekend institution."
-    ]
+    ],
+    "description": "The Irish full breakfast, eggs, bacon, sausage, and often black and white pudding, is a hearty weekend tradition."
   },
   {
     "name": "Irish Soda Bread",
@@ -141,7 +142,8 @@
       "Shape into a round loaf on a floured surface and cut a deep cross into the top.",
       "Bake at 400F (200C) for 32-38 minutes until deeply golden and it sounds hollow when tapped on the bottom.",
       "Best served warm, sliced thick, with butter - a simple bread with no yeast, leavened entirely by the baking powder reacting with the acidic buttermilk."
-    ]
+    ],
+    "description": "Soda bread, leavened with baking soda rather than yeast, is a genuine Irish staple, quick to make and traditionally eaten fresh."
   },
   {
     "name": "Irish Porridge",
@@ -198,9 +200,9 @@
     ],
     "steps_detailed": [
       "Combine the oats, milk, and cinnamon in a saucepan.",
-      "Simmer over medium-low heat, stirring often, 6-8 minutes until thick and creamy.",
-      "Drizzle with honey and serve hot - a simple, warming Irish breakfast staple, traditionally made with just oats, water, and salt."
-    ]
+      "Simmer over medium-low heat, stirring often, 6-8 minutes until thick and creamy."
+    ],
+    "description": "Drizzle with honey and serve hot - a simple, warming Irish breakfast staple, traditionally made with just oats, water, and salt."
   },
   {
     "name": "Irish Stew",
@@ -276,9 +278,9 @@
     "steps_detailed": [
       "Brown the lamb with the onion over medium-high heat, 6-8 minutes.",
       "Add the potato, carrot, bay leaf, oregano, and beef broth, adding water if needed to just cover.",
-      "Cover and simmer over low heat 1-1.5 hours until the lamb is completely tender and the potato has partially broken down, thickening the stew naturally.",
-      "Remove the bay leaf and serve hot with soda bread - Ireland's most iconic dish, traditionally a simple, humble farmhouse meal."
-    ]
+      "Cover and simmer over low heat 1-1.5 hours until the lamb is completely tender and the potato has partially broken down, thickening the stew naturally."
+    ],
+    "description": "Remove the bay leaf and serve hot with soda bread - Ireland's most iconic dish, traditionally a simple, humble farmhouse meal."
   },
   {
     "name": "Irish Colcannon",
@@ -351,9 +353,9 @@
     "steps_detailed": [
       "Saute the onion in a little of the butter until soft, then cook the cabbage with it until tender.",
       "Mash the boiled potato with the remaining butter and milk until smooth and creamy.",
-      "Fold in the cabbage and onion, and season with black pepper.",
-      "Serve hot, traditionally with a well in the center filled with melted butter - a beloved Irish comfort food, especially popular at Halloween."
-    ]
+      "Fold in the cabbage and onion, and season with black pepper."
+    ],
+    "description": "Serve hot, traditionally with a well in the center filled with melted butter - a beloved Irish comfort food, especially popular at Halloween."
   },
   {
     "name": "Irish Boxty",
@@ -416,9 +418,9 @@
     "steps_detailed": [
       "Squeeze excess liquid from the grated raw potato.",
       "Mix the mashed and grated potato with the flour, baking powder, and milk into a thick, cohesive batter.",
-      "Heat the butter in a skillet over medium heat and fry spoonfuls of the batter, flattened into pancakes, 3-4 minutes per side until golden brown.",
-      "Serve warm, traditionally with butter or alongside a full breakfast - 'boxty on the griddle, boxty in the pan' is a well-known Irish rhyme about this potato pancake."
-    ]
+      "Heat the butter in a skillet over medium heat and fry spoonfuls of the batter, flattened into pancakes, 3-4 minutes per side until golden brown."
+    ],
+    "description": "Serve warm, traditionally with butter or alongside a full breakfast - 'boxty on the griddle, boxty in the pan' is a well-known Irish rhyme about this potato pancake."
   },
   {
     "name": "Irish Dublin Coddle",
@@ -489,9 +491,9 @@
     "steps_detailed": [
       "Layer the sliced sausage, chopped bacon, potato, and onion in a pot, seasoning with black pepper and oregano between layers.",
       "Add water just to cover the layers.",
-      "Cover and simmer over low heat 50-60 minutes until the potatoes are very tender and the broth has taken on flavor from the meats.",
-      "Serve hot in bowls with crusty bread - a humble Dublin classic, traditionally made from whatever was on hand."
-    ]
+      "Cover and simmer over low heat 50-60 minutes until the potatoes are very tender and the broth has taken on flavor from the meats."
+    ],
+    "description": "Serve hot in bowls with crusty bread - a humble Dublin classic, traditionally made from whatever was on hand."
   },
   {
     "name": "Irish Shepherd's Pie",
@@ -573,9 +575,9 @@
       "Brown the lamb with the onion and carrot over medium-high heat, 8-10 minutes.",
       "Add the beef broth and oregano, and simmer 5-6 minutes until slightly thickened, then stir in the peas.",
       "Spread the lamb mixture evenly in a small buttered baking dish.",
-      "Mash the boiled potato with the butter until smooth, then spread evenly over the lamb layer, running a fork over the top for texture.",
-      "Bake at 400F (200C) for 22-28 minutes until the top is golden and the filling is bubbling at the edges - traditionally made with lamb, distinguishing it from cottage pie's beef."
-    ]
+      "Mash the boiled potato with the butter until smooth, then spread evenly over the lamb layer, running a fork over the top for texture."
+    ],
+    "description": "Bake at 400F (200C) for 22-28 minutes until the top is golden and the filling is bubbling at the edges - traditionally made with lamb, distinguishing it from cottage pie's beef."
   },
   {
     "name": "Irish Bacon and Cabbage",
@@ -638,7 +640,8 @@
       "Add the potato and carrot, and simmer 15 minutes.",
       "Add the cabbage and continue simmering 10-12 minutes until all the vegetables are tender.",
       "Slice the bacon and serve with the vegetables and a little of the cooking broth, seasoned with black pepper - a simple, classic Irish Sunday dinner."
-    ]
+    ],
+    "description": "Bacon and cabbage, a simple, classic Irish home-cooking pairing."
   },
   {
     "name": "Irish Beef and Guinness Stew",
@@ -717,7 +720,8 @@
       "Return the beef, add the beef broth, carrot, and bay leaf (a cup of stout beer traditionally goes in here too, for the dish's name and characteristic depth).",
       "Cover and simmer over low heat 1.5-2 hours until the beef is completely tender and the sauce has thickened.",
       "Remove the bay leaf and serve with mashed potato - a hearty pub classic found across Ireland."
-    ]
+    ],
+    "description": "Real Guinness stew is braised in the stout itself, which gives it a distinctive bitter, roasted depth - beer isn't a distinct item in this database, so this stays a plainer beef stew without that particular character, honestly missing the ingredient the dish is named for."
   },
   {
     "name": "Irish Corned Beef and Cabbage",
@@ -796,7 +800,8 @@
       "Add the potato and carrot, and simmer 15 minutes.",
       "Add the cabbage wedges and continue simmering 10-15 minutes until all the vegetables are tender.",
       "Remove the bay leaf, slice the beef against the grain, and serve with the vegetables - beloved in Irish-American tradition especially, and closely associated with St. Patrick's Day."
-    ]
+    ],
+    "description": "Corned beef and cabbage is actually more an Irish-American dish than one eaten widely in Ireland itself, where bacon and cabbage is the more traditional pairing."
   },
   {
     "name": "Irish Cheese and Brown Bread",
@@ -869,7 +874,8 @@
       "Mix the flour, baking powder, sour cream, and milk into a soft dough, then shape into a small loaf.",
       "Bake at 400F (200C) for 25-30 minutes until golden and cooked through.",
       "Let cool slightly, slice, butter, and top with the cheese - a simple, satisfying Irish snack."
-    ]
+    ],
+    "description": "Brown bread and cheese, a simple, classic Irish pairing."
   },
   {
     "name": "Irish Sausage Rolls",
@@ -927,7 +933,8 @@
       "Lay the chopped sausage along the center and wrap the pastry around it, sealing the seam.",
       "Brush with the egg wash and bake at 375F (190C) for 25-32 minutes until the pastry is golden and flaky.",
       "Slice into pieces and serve warm - a beloved party and pub snack across Ireland."
-    ]
+    ],
+    "description": "Simple sausage rolls, a common Irish snack."
   },
   {
     "name": "Irish Potato Farls",
@@ -985,9 +992,9 @@
     "steps_detailed": [
       "Mix the mashed potato with the flour, black pepper, and a good pinch of salt into a firm, workable dough.",
       "Roll out to about 1/2 inch thick and cut into a circle, then cut the circle into four triangular farls.",
-      "Heat the butter in a skillet over medium heat and fry the farls 3-4 minutes per side until golden and slightly crisp.",
-      "Serve warm, traditionally as part of a full Irish breakfast."
-    ]
+      "Heat the butter in a skillet over medium heat and fry the farls 3-4 minutes per side until golden and slightly crisp."
+    ],
+    "description": "Serve warm, traditionally as part of a full Irish breakfast."
   },
   {
     "name": "Irish Champ",
@@ -1059,12 +1066,12 @@
       }
     ],
     "steps_detailed": [
-      "Warm the milk with the chopped onion (traditionally scallions/spring onions) over low heat for 3-4 minutes until fragrant and just simmering.",
       "Mash the boiled potato with half the butter until smooth.",
       "Stir in the warm milk and onion mixture, and season with black pepper.",
       "Serve hot with a well in the center filled with the remaining melted butter - simple, comforting, and deeply traditional.",
       "Real scallions are used here now, giving the sharper, more specific flavor the dish actually calls for rather than yellow onion's milder substitute."
-    ]
+    ],
+    "description": "Warm the milk with the chopped onion (traditionally scallions/spring onions) over low heat for 3-4 minutes until fragrant and just simmering."
   },
   {
     "name": "Irish Apple Cake",
@@ -1143,9 +1150,9 @@
       "Cream the butter and sugar until light and fluffy, then beat in the egg.",
       "Sift together the flour, baking powder, and cinnamon, and fold into the batter until just combined.",
       "Fold in the diced apple.",
-      "Pour into a small buttered baking dish and bake at 350F (175C) for 32-40 minutes until golden and a toothpick comes out clean.",
-      "Serve warm, traditionally with custard or cream - a simple, homey Irish classic."
-    ]
+      "Pour into a small buttered baking dish and bake at 350F (175C) for 32-40 minutes until golden and a toothpick comes out clean."
+    ],
+    "description": "Serve warm, traditionally with custard or cream - a simple, homey Irish classic."
   },
   {
     "name": "Irish Barmbrack",
@@ -1221,7 +1228,8 @@
       "Pour into a small buttered loaf pan.",
       "Bake at 325F (165C) for 45-55 minutes until a toothpick comes out clean.",
       "Traditionally baked for Halloween with small charms hidden inside to predict the future - a beloved Irish tea bread."
-    ]
+    ],
+    "description": "Barmbrack, a fruited yeast bread traditionally baked with hidden charms for Halloween, is a genuine Irish specialty."
   },
   {
     "name": "Irish Bread and Butter Pudding",
@@ -1307,7 +1315,8 @@
       "Let sit 10 minutes so the custard absorbs before baking.",
       "Bake at 350F (175C) for 32-40 minutes until set and golden on top.",
       "Serve warm - simple, humble, and a great way to use up leftover bread, much loved across Ireland and Britain alike."
-    ]
+    ],
+    "description": "Bread and butter pudding, stale bread baked in a custard, a classic way to use up leftover bread across Ireland and Britain."
   },
   {
     "name": "Irish Whiskey Cream Sauce",
@@ -1365,7 +1374,8 @@
       "Whisk the sour cream, brown sugar, milk, and vanilla together until smooth.",
       "Warm gently in a small saucepan over low heat, stirring, until slightly thickened, about 3-4 minutes - don't let it boil.",
       "Serve warm over apple cake, bread pudding, or fresh fruit, echoing the flavor of a whiskey cream liqueur without the alcohol."
-    ]
+    ],
+    "description": "Real Irish whiskey cream sauce gets its distinctive kick from actual whiskey - whiskey isn't a distinct item in this database, so this stays a plain vanilla-brown sugar cream sauce without that real depth, honestly missing the ingredient the dish is named for."
   },
   {
     "name": "Irish Mustard Sauce",
@@ -1424,6 +1434,7 @@
     "steps_detailed": [
       "Whisk the mustard, honey, sour cream, and black pepper together until smooth and well combined.",
       "Chill briefly before serving alongside ham, sausages, or boiled bacon and cabbage."
-    ]
+    ],
+    "description": "A simple mustard sauce."
   }
 ]

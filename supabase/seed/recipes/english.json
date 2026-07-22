@@ -84,9 +84,9 @@
       "Fry the eggs in half the butter over medium heat, seasoning with black pepper.",
       "Warm the tomatoes in a small pan, 4-5 minutes, until heated through and slightly reduced.",
       "Fry the bread in the remaining butter until deeply golden on both sides, and plate everything together.",
-      "Bacon, egg, and fried bread are the three components that appear in essentially every version of a full English, however many extras a given kitchen adds around them.",
-      "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
-    ]
+      "Bacon, egg, and fried bread are the three components that appear in essentially every version of a full English, however many extras a given kitchen adds around them."
+    ],
+    "description": "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
   },
   {
     "name": "English Porridge with Currants",
@@ -153,7 +153,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk with the cinnamon over medium-low heat, stirring often, 6-8 minutes, until thick and creamy.",
       "Stir in most of the currants, reserving a few to scatter on top, and finish with the honey."
-    ]
+    ],
+    "description": "A simple porridge with currants, a common British breakfast."
   },
   {
     "name": "English Kedgeree",
@@ -228,7 +229,8 @@
       "Flake the kippered herring and warm it through in the butter with the turmeric, 3-4 minutes.",
       "Fold the fish gently into the rice, top with the sliced egg and cilantro, and serve warm.",
       "Kedgeree began as an Anglo-Indian breakfast brought home by colonial-era travelers and has stayed a fixture of English breakfast tables ever since."
-    ]
+    ],
+    "description": "Kedgeree, curried rice with smoked fish and egg, has roots in British colonial India and remains a beloved English breakfast dish."
   },
   {
     "name": "English Cottage Pie",
@@ -301,7 +303,8 @@
       "Add the tomatoes and simmer 12-15 minutes until thickened.",
       "Mash the potato with the butter and milk until smooth, spread over the beef, and bake at 400F (200C) for 18-22 minutes until the top is golden.",
       "Cottage pie is made with beef specifically - the lamb version goes by shepherd's pie, a distinction English cooks tend to hold to firmly."
-    ]
+    ],
+    "description": "Cottage pie, ground beef under mashed potato, distinct from shepherd's pie only in using beef rather than lamb."
   },
   {
     "name": "English Cheddar and Leek Bake",
@@ -370,7 +373,8 @@
       "Saute the leeks in the butter over medium-low heat until fully soft and sweet, 10-12 minutes.",
       "Stir in the flour and cook 1 minute, then add the milk gradually, followed by most of the cheese, stirring until melted and thickened.",
       "Transfer to a small baking dish, top with the remaining cheese, and bake at 375F (190C) for 10-12 minutes until bubbling and lightly browned."
-    ]
+    ],
+    "description": "A simple cheddar and leek bake."
   },
   {
     "name": "English Baked Fish and Chips",
@@ -442,9 +446,9 @@
     ],
     "steps_detailed": [
       "Toss the potato wedges with the oil and roast at 425F (220C) for 22-28 minutes, turning once, until crisp and golden.",
-      "Dust the fish lightly with the flour and pepper and bake alongside for the last 12-15 minutes until just cooked through and flaking.",
-      "Serve with a squeeze of lime standing in for the malt vinegar traditionally sprinkled over a proper chip-shop portion."
-    ]
+      "Dust the fish lightly with the flour and pepper and bake alongside for the last 12-15 minutes until just cooked through and flaking."
+    ],
+    "description": "Serve with a squeeze of lime standing in for the malt vinegar traditionally sprinkled over a proper chip-shop portion."
   },
   {
     "name": "English Ploughman's Lunch",
@@ -530,7 +534,8 @@
       "Toss the shredded cabbage with the honey and lime juice and serve alongside as a simple, bright slaw standing in for pickled onion or chutney.",
       "A ploughman's is less a recipe than an assembly - cold cheese, bread, mustard, and something pickled or sweet, built to be eaten with the hands over a pub lunch.",
       "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
-    ]
+    ],
+    "description": "The Ploughman's lunch, bread, cheese, and pickle, is a pub classic - more a modern marketing invention of the 1960s than a genuinely ancient dish, though it draws on real, traditional ingredients."
   },
   {
     "name": "English Sunday Roast Beef with Potatoes and Cabbage",
@@ -603,7 +608,8 @@
       "Toss the potatoes in half the butter and roast alongside, turning once, until deeply golden.",
       "Steam the cabbage in the last 10 minutes, toss with the remaining butter, and serve everything together.",
       "The Sunday roast, built around a large joint of meat and whatever vegetables are in season, remains the week's centerpiece meal in many English households."
-    ]
+    ],
+    "description": "The Sunday roast, a weekly tradition of roasted meat and vegetables, is a cornerstone of English home cooking."
   },
   {
     "name": "English Shepherd's Pie",
@@ -676,7 +682,8 @@
       "Add the tomatoes and simmer 12-15 minutes until thickened.",
       "Mash the potato with the butter until smooth, spread over the lamb, and bake at 400F (200C) for 18-22 minutes until golden.",
       "Shepherd's pie specifically means lamb - the name itself points back to shepherds rather than cattle drovers."
-    ]
+    ],
+    "description": "Shepherd's pie, ground lamb under mashed potato, is named for using lamb specifically - beef versions are properly called cottage pie."
   },
   {
     "name": "English Bangers and Mash",
@@ -748,7 +755,8 @@
       "Form the beef into sausage shapes and pan-fry over medium heat, 10-12 minutes, turning, until well browned through.",
       "Mash the potato with half the butter and the milk until smooth.",
       "Soften the onion in the remaining butter, 8-10 minutes, stir in the flour, and thin with a splash of water into a loose gravy - bangers and mash, built around whatever gravy is on hand, is a weeknight staple across England."
-    ]
+    ],
+    "description": "Bangers and mash, sausages over mashed potato with onion gravy, a beloved English pub classic."
   },
   {
     "name": "English Fish Pie",
@@ -821,7 +829,8 @@
       "Poach the fish gently in the milk over low heat, 6-8 minutes, until just cooked through, then flake it, reserving the milk.",
       "Mash the potato with the butter and a splash of the reserved milk.",
       "Spread the flaked fish in a small baking dish, season with pepper, top with the mashed potato and cheese, and bake at 375F (190C) for 18-22 minutes until golden and bubbling."
-    ]
+    ],
+    "description": "Fish pie, a creamy fish filling under mashed potato, an English comfort food staple."
   },
   {
     "name": "English Cheese Scones",
@@ -889,7 +898,8 @@
       "Rub the butter into the flour and baking powder until the mixture resembles coarse crumbs.",
       "Stir in most of the cheese and enough milk to form a soft, slightly sticky dough.",
       "Pat into rounds about an inch thick, top with the remaining cheese, and bake at 400F (200C) for 13-16 minutes until risen and golden."
-    ]
+    ],
+    "description": "Simple cheese scones, a common English teatime bake."
   },
   {
     "name": "English Herring on Toast",
@@ -950,9 +960,9 @@
     ],
     "steps_detailed": [
       "Warm the kippered herring gently in a dry pan, 2-3 minutes.",
-      "Toast the bread in the butter until golden, season with pepper, and top with the warm fish - kippers on toast are a familiar teatime or light-supper standby.",
-      "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
-    ]
+      "Toast the bread in the butter until golden, season with pepper, and top with the warm fish - kippers on toast are a familiar teatime or light-supper standby."
+    ],
+    "description": "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
   },
   {
     "name": "English Currant Scones",
@@ -1030,7 +1040,8 @@
       "Rub the butter into the flour, baking powder, and sugar until the mixture resembles coarse crumbs.",
       "Stir in the currants and enough milk to form a soft, slightly sticky dough.",
       "Pat into rounds about an inch thick and bake at 400F (200C) for 13-16 minutes until risen and golden - served split with butter, these are a fixture of the English afternoon tea table."
-    ]
+    ],
+    "description": "Simple currant scones, a classic English teatime bake."
   },
   {
     "name": "English Bubble and Squeak",
@@ -1096,9 +1107,9 @@
     ],
     "steps_detailed": [
       "Fry the cabbage and onion in half the butter over medium heat, 8-10 minutes, until soft and lightly browned.",
-      "Mix in the mashed potato and pepper, press the whole mixture into a cake in the remaining butter, and fry 4-5 minutes per side until crisp and deeply golden.",
-      "Bubble and squeak takes its name from the sound it makes in the pan, and was traditionally built from whatever was left over from Sunday's roast."
-    ]
+      "Mix in the mashed potato and pepper, press the whole mixture into a cake in the remaining butter, and fry 4-5 minutes per side until crisp and deeply golden."
+    ],
+    "description": "Bubble and squeak takes its name from the sound it makes in the pan, and was traditionally built from whatever was left over from Sunday's roast."
   },
   {
     "name": "English Sticky Date Pudding",
@@ -1172,7 +1183,8 @@
       "Simmer the dates in a little water until very soft, then mash and mix with the flour, baking powder, egg, and half the butter to form a thick batter.",
       "Pour into a small baking dish and bake at 350F (175C) for 22-26 minutes until set and a skewer comes out clean.",
       "Warm the remaining butter with the honey into a glossy sauce and pour generously over the warm pudding."
-    ]
+    ],
+    "description": "Sticky toffee pudding, a date-based sponge cake with toffee sauce, one of England's most beloved desserts."
   },
   {
     "name": "English Bread and Butter Pudding",
@@ -1257,7 +1269,8 @@
       "Whisk the milk, egg, and sugar together and pour over, letting it soak 12-15 minutes.",
       "Bake at 350F (175C) for 22-28 minutes until set and golden on top.",
       "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
-    ]
+    ],
+    "description": "Bread and butter pudding, stale bread baked in a custard, a classic English way to use up leftover bread."
   },
   {
     "name": "English Rice Pudding",
@@ -1325,7 +1338,8 @@
     "steps_detailed": [
       "Simmer the rice in the milk with the sugar, cinnamon, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
       "Serve warm, with a final dusting of cinnamon - a simple, gently spiced pudding found on English tables for generations."
-    ]
+    ],
+    "description": "A simple, classic English rice pudding."
   },
   {
     "name": "English Onion Gravy",
@@ -1382,7 +1396,8 @@
     "steps_detailed": [
       "Cook the onion slowly in the butter over medium-low heat, stirring occasionally, 15-18 minutes, until deeply softened and golden brown.",
       "Stir in the flour and pepper, cook 1 minute, then thin gradually with water, stirring, into a smooth, glossy gravy - the standard accompaniment to bangers and mash or a Sunday roast."
-    ]
+    ],
+    "description": "A simple onion gravy, the classic pairing for bangers and mash."
   },
   {
     "name": "English Bread Sauce",
@@ -1455,7 +1470,8 @@
       "Simmer the onion in the milk over low heat, 10-12 minutes, until very soft.",
       "Stir in the torn bread, butter, and pepper, and simmer 5-6 more minutes, stirring, until it thickens into a soft, smooth, spoonable sauce - a traditional accompaniment to roast poultry, unusual to outsiders and much loved at home.",
       "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
-    ]
+    ],
+    "description": "Bread sauce, a milk-infused sauce thickened with breadcrumbs, a traditional English accompaniment to roast poultry, especially at Christmas."
   },
   {
     "name": "English Mint Sauce",
@@ -1511,7 +1527,8 @@
       "Finely chop the mint and combine with the sugar and lime juice, mashing lightly to help release the mint's oils.",
       "Let sit 15-20 minutes so the flavors meld before serving.",
       "Mint sauce, sharp and simple, is the traditional accompaniment to roast lamb across England, cutting through the richness of the meat."
-    ]
+    ],
+    "description": "Mint sauce, a sharp vinegar-mint condiment, the classic English pairing for roast lamb."
   },
   {
     "name": "English Apple Crumble",
@@ -1581,6 +1598,7 @@
       "Rub the cold butter into the flour and remaining sugar until it resembles coarse crumbs, and scatter evenly over the apple.",
       "Bake at 375F (190C) for 28-32 minutes until the topping is deeply golden and the apple is tender when pierced.",
       "Crumble is one of the simplest and most enduring English puddings - closer to a rustic home bake than a formal dessert, and just as often made with whatever fruit is in season."
-    ]
+    ],
+    "description": "Apple crumble, stewed apple under a buttery oat topping, a classic English dessert."
   }
 ]
