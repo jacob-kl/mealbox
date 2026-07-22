@@ -416,34 +416,7 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Simmer the chicken with the onion and turmeric until nearly cooked through, reserving the broth.",
-      "Roast the chicken separately at 425F for 15-20 minutes until deeply browned.",
-      "Cook the rice in the reserved broth and serve together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 240,
+        "qty": 200,
         "note": ""
       },
       {
@@ -452,31 +425,68 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
-        "note": ""
-      },
-      {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": "chopped"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Roast the chicken at 400F for 30-35 minutes.",
+      "Simmer the rice with the onion and cardamom in 1.5 cups water, covered, 20-22 minutes, and serve together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": "or lamb if available"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "tsp"
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1.0,
-        "note": ""
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken with the onion, garlic, turmeric, and saffron in 2 cups water for 20-25 minutes until nearly cooked through, reserving the fragrant broth.",
-      "Roast the par-cooked chicken at 425F (220C) for 18-22 minutes until deeply browned and crisp outside.",
-      "Cook the rice in the reserved broth until tender, 18-22 minutes.",
-      "Serve the roasted chicken over the rice - mandi, traditionally cooked in an underground pit, is claimed by Yemen as much as its Gulf neighbors, and remains a centerpiece dish for gatherings."
+      "Season the chicken with half the cardamom and the cinnamon, and roast at 425F (220C), skin-side up on a rack over a pan, 30-35 minutes, until deeply browned, so the fat and juices drip down rather than staying with the meat.",
+      "Meanwhile, soften the onion in the oil in a separate pot, then add the remaining cardamom, cloves, saffron, and 1.75 cups water, and bring to a simmer.",
+      "Position the pot under the roasting rack for the last 20-25 minutes so the dripping juices fall into the liquid, then stir in the rice, cover, and cook over low heat 18-20 minutes.",
+      "Fluff the rice and serve the chicken on top.",
+      "Yemeni mandi shares the same drip-roasting logic as its Saudi counterpart - meat suspended above, rice cooked in what falls from it, traditionally in an underground pit here approximated with a rack over a pot."
     ]
   },
   {
@@ -562,34 +572,7 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Brown the chicken with the onion and turmeric.",
-      "Add the rice and 1.5 cups water, and simmer, covered, 20-25 minutes until the rice is tender.",
-      "Serve hot."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
+        "qty": 190,
         "note": ""
       },
       {
@@ -598,30 +581,79 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion.",
+      "Add the rice, tomatoes, chili powder, and 1.5 cups water, cover, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1.0,
-        "note": ""
+        "qty": 1,
+        "note": "pinch"
       },
       {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 12,
-        "note": ""
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion and turmeric over medium-high heat, 8-10 minutes.",
-      "Add the rice, saffron, and 1.75 cups water, cover, and simmer 22-28 minutes until the rice is tender and fragrant.",
-      "Fold in the raisins before serving - zurbian, richly spiced rice with meat, is a treasured Yemeni dish for celebrations."
+      "Brown the chicken in the oil, 8-10 minutes, then set aside.",
+      "Deeply caramelize the onion and garlic in the same pot, 10-12 minutes, until a rich golden-brown.",
+      "Add the tomatoes, chili powder, cardamom, and cinnamon, and cook 3-4 minutes - zurbian carries noticeably more heat than Gulf-style machboos, closer to Yemen's spicier culinary character generally.",
+      "Return the chicken with 1.75 cups water and saffron, and simmer 20-25 minutes.",
+      "Lift out the chicken, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Fluff the rice and top with the chicken."
     ]
   },
   {

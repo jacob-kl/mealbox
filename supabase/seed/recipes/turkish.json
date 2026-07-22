@@ -125,13 +125,19 @@
         "ingredient": "Honey",
         "qty": 0.3333333333333333,
         "note": "for the glaze, mixed with water"
+      },
+      {
+        "ingredient": "Olives, ripe, canned (small-extra large)",
+        "qty": 25,
+        "note": ""
       }
     ],
     "steps_detailed": [
       "Make a soft, elastic dough from the flour, a pinch of salt, and warm water. Knead well and rest 20-30 minutes.",
       "Shape into a ring and brush with a thin honey-water glaze, then coat generously in the sesame seeds.",
       "Bake at 400F (200C) for 20-25 minutes until deeply golden and crisp on the outside.",
-      "Serve with the feta and tea - simit, a sesame-crusted bread ring, is sold on every street corner in Turkey, especially for breakfast."
+      "Serve with the feta and tea - simit, a sesame-crusted bread ring, is sold on every street corner in Turkey, especially for breakfast.",
+      "A proper Turkish breakfast spread is built around several small plates together - olives alongside the simit and cheese are as standard as the bread itself, not a garnish."
     ]
   },
   {
@@ -636,29 +642,28 @@
     "ingredients": [
       {
         "ingredient": "Bell pepper",
-        "qty": 180,
+        "qty": 190,
         "note": "halved"
       },
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 130,
+        "qty": 140,
         "note": ""
       },
       {
         "ingredient": "White rice (dry)",
-        "qty": 30,
+        "qty": 35,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
+        "qty": 55,
         "note": ""
       }
     ],
     "steps": [
-      "Mix the raw rice with the beef and half the tomatoes.",
-      "Stuff into the pepper halves and place in a baking dish with the remaining tomatoes.",
-      "Bake at 375F, covered, for 40-45 minutes until the rice is tender."
+      "Mix the raw rice with the beef and onion.",
+      "Pack into the peppers and simmer in the tomatoes, covered, 35-40 minutes."
     ],
     "ingredients_full": [
       {
@@ -672,8 +677,8 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
         "note": ""
       },
       {
@@ -690,13 +695,22 @@
         "ingredient": "Ground cinnamon",
         "qty": 0.0625,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 12,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Mix the raw rice with the beef, onion, cinnamon, and half the tomatoes.",
-      "Stuff generously into the pepper halves and arrange in a baking dish, pouring the remaining tomatoes around and over them.",
-      "Cover and bake at 375F (190C) for 42-50 minutes until the rice is tender and the peppers are soft.",
-      "A beloved Turkish stuffed vegetable dish, part of the wider dolma family found across the former Ottoman world."
+      "Mix the raw rice with the beef, onion, cinnamon, pistachios, and raisins - the sweet-savory combination of dried fruit and nuts through the meat filling is characteristic of Turkish dolma specifically, distinct from plainer meat-and-rice fillings elsewhere in the region.",
+      "Pack loosely into the halved peppers, leaving room for the rice to expand.",
+      "Arrange in a pot, pour the tomatoes and a splash of water over, cover, and simmer 35-40 minutes until the peppers are tender and the rice inside is fully cooked."
     ]
   },
   {

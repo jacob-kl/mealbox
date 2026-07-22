@@ -136,26 +136,31 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the honey for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the honey and cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy - rice is the staple grain across most of Bhutan."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -176,7 +181,8 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the honey and cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy - rice is the staple grain across most of Bhutan."
+      "Simmer the rice in the milk with the honey and cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy - rice is the staple grain across most of Bhutan.",
+      "Basmati's fragrance suits Bhutanese rice dishes, which sit within the broader South Asian rice tradition."
     ]
   },
   {
@@ -997,31 +1003,37 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the cardamom and honey for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the cardamom and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Top with the chopped walnuts."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1048,7 +1060,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cardamom and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the chopped walnuts."
+      "Top with the chopped walnuts.",
+      "Basmati's fragrance suits Bhutanese rice dishes, which sit within the broader South Asian rice tradition."
     ]
   },
   {

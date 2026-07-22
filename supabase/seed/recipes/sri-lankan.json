@@ -13,27 +13,32 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 50,
         "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 0.5,
+        "qty": 0.6,
         "note": "cup"
       },
       {
         "ingredient": "Honey",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.0625,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the coconut milk and a little water for 25-28 minutes until thick and creamy.",
-      "Top with the honey."
+      "Simmer the rice in the coconut milk, a little water, and the cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Top generously with the honey - rice cooked in coconut milk is the base of countless Sri Lankan dishes, sweet and savory alike."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 50,
         "note": ""
       },
@@ -55,7 +60,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the coconut milk, a little water, and the cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top generously with the honey - rice cooked in coconut milk is the base of countless Sri Lankan dishes, sweet and savory alike."
+      "Top generously with the honey - rice cooked in coconut milk is the base of countless Sri Lankan dishes, sweet and savory alike.",
+      "Sri Lankan rice cooking, especially anything coconut-based, leans on basmati or a similar long-grain aromatic rice rather than a plain short-grain variety."
     ]
   },
   {
@@ -844,26 +850,32 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 50,
         "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 0.4,
+        "qty": 0.5,
         "note": "cup"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.125,
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the coconut milk and a little water with the cardamom for 20-22 minutes until tender."
+      "Simmer the rice in the coconut milk, a little water, and the cardamom over low heat, 22-25 minutes, until tender and fragrant.",
+      "Finish with a touch of honey."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 50,
         "note": ""
       },
@@ -885,7 +897,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the coconut milk, a little water, and the cardamom over low heat, 22-25 minutes, until tender and fragrant.",
-      "Finish with a touch of honey."
+      "Finish with a touch of honey.",
+      "Sri Lankan rice cooking, especially anything coconut-based, leans on basmati or a similar long-grain aromatic rice rather than a plain short-grain variety."
     ]
   },
   {
@@ -1017,31 +1030,37 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 0.5,
+        "qty": 0.6,
         "note": "cup"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps": [
-      "Simmer the rice in the coconut milk with the honey and cardamom for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the coconut milk with the honey and cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Top with the chopped pistachios."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1068,7 +1087,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the coconut milk with the honey and cardamom over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the chopped pistachios."
+      "Top with the chopped pistachios.",
+      "Sri Lankan rice cooking, especially anything coconut-based, leans on basmati or a similar long-grain aromatic rice rather than a plain short-grain variety."
     ]
   },
   {

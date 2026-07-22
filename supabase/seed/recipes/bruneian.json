@@ -8,56 +8,63 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": "fried"
+        "qty": 190,
+        "note": ""
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "minced, for sambal"
+        "ingredient": "Spices, chili powder",
+        "qty": 0.375,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Fry the chicken until golden and cooked through, about 6-8 minutes per side.",
-      "Serve over the rice with the minced jalapeno for heat."
+      "Fry the chicken.",
+      "Cook the rice and serve together with the chili powder."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 65,
+        "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 170,
-        "note": "fried"
+        "qty": 200,
+        "note": ""
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.75,
-        "note": "minced, for sambal"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Season the chicken with the garlic and fry in the oil over medium heat, 7-9 minutes per side, until deeply golden and cooked through.",
-      "Serve over plain steamed rice with a simple sambal made from the minced jalapeno for heat.",
-      "Nasi katok - literally 'knock rice,' named for the custom of knocking on a seller's door for a cheap late-night meal - is one of Brunei's most iconic, everyday dishes."
+      "Season the chicken with the turmeric and garlic, and fry in the oil over medium heat, 5-6 minutes per side, until deeply golden and cooked through.",
+      "Cook the jasmine rice in 0.9 cup water, covered, 15-18 minutes.",
+      "Make a simple chili paste by frying the chili powder briefly in a little oil.",
+      "Serve the fried chicken over the rice with the chili paste alongside.",
+      "Nasi katok, meaning roughly 'knock rice' from the practice of knocking on a seller's door for a wrapped takeaway parcel, is Brunei's most iconic everyday meal - simple fried chicken, plain rice, and chili, sold cheaply everywhere."
     ]
   },
   {
@@ -119,8 +126,8 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "qty": 55,
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
@@ -128,57 +135,40 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 8,
-        "note": ""
+        "ingredient": "Soy sauce",
+        "qty": 0.75,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Fry the onion, then add the rice and stir-fry 3-4 minutes.",
-      "Push aside, scramble the egg, then mix everything together with the soy sauce."
+      "Stir-fry the cold rice with the scrambled egg and soy sauce."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 10,
+        "qty": 1,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "ingredient": "Soy sauce",
+        "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the onion and garlic in the oil until soft and fragrant, 3-4 minutes.",
-      "Add the cooked rice and stir-fry 4-5 minutes, breaking up clumps.",
-      "Push the rice aside, scramble the egg in the cleared space, then mix everything together with the soy sauce.",
-      "A simple, everyday breakfast found across Brunei."
+      "Scramble the egg and set aside.",
+      "Fry the garlic briefly, add the cold, day-old rice, breaking up clumps, and stir-fry over high heat 5-6 minutes.",
+      "Fold the egg back through, finish with the soy sauce."
     ]
   },
   {
@@ -1027,13 +1017,33 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
+        "qty": 45,
+        "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 71.0,
-        "note": ""
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook the rice, then stir through the sweetened coconut milk."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "soaked at least 4 hours"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.4,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
@@ -1041,37 +1051,9 @@
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Warm the coconut milk with the sugar until dissolved.",
-      "Pour over the cooked rice and let sit 5 minutes.",
-      "Serve warm."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked, glutinous if available"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 82.8,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, toasted, to top"
-      }
-    ],
     "steps_detailed": [
-      "Warm the coconut milk with the sugar over low heat until dissolved, 2-3 minutes.",
-      "Pour over the warm cooked rice and let sit 8-10 minutes to absorb.",
-      "Top with the toasted coconut and serve warm - a simple, sweet finish to a Bruneian meal."
+      "Drain the soaked rice and steam in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender.",
+      "Warm the coconut milk with the sugar until dissolved, pour over the warm rice, and let absorb 10 minutes."
     ]
   },
   {

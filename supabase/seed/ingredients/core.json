@@ -7981,5 +7981,221 @@
     "sub_group": "squash",
     "dietary_tags": [],
     "allergens": []
+  },
+  {
+    "name": "Dried lime (loomi)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 220,
+    "protein": 6.0,
+    "carbs": 55.0,
+    "fat": 2.0,
+    "fiber": 15.0,
+    "micros": {
+      "calcium": 90.0,
+      "potassium": 450,
+      "iron": 3.5,
+      "magnesium": 40.0,
+      "sodium": 15.0
+    },
+    "sub_group": "spices_herbs",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Pomegranate molasses",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 250,
+    "protein": 0.3,
+    "carbs": 62.0,
+    "fat": 0.0,
+    "fiber": 0.2,
+    "micros": {
+      "calcium": 20.0,
+      "potassium": 210,
+      "iron": 0.9
+    },
+    "sub_group": "condiments_sauces",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Kaffir lime leaves",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 10,
+    "protein": 0.0,
+    "carbs": 3.0,
+    "fat": 0.0,
+    "fiber": 1.5,
+    "micros": {},
+    "sub_group": "spices_herbs",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Coconut meat, raw",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 350,
+    "protein": 3.33,
+    "carbs": 15.23,
+    "fat": 33.49,
+    "fiber": 9.0,
+    "micros": {
+      "calcium": 14.0,
+      "potassium": 356,
+      "iron": 2.43,
+      "magnesium": 32.0,
+      "phosphorus": 113,
+      "sodium": 20.0,
+      "folate": 26.0
+    },
+    "sub_group": "fruit",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": [
+      "tree_nut_adjacent"
+    ]
+  },
+  {
+    "name": "Shrimp paste",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 133,
+    "protein": 20.0,
+    "carbs": 6.7,
+    "fat": 3.3,
+    "fiber": 0.0,
+    "micros": {
+      "calcium": 300.0,
+      "potassium": 200,
+      "iron": 3.2,
+      "sodium": 2000.0
+    },
+    "sub_group": "seafood",
+    "dietary_tags": [],
+    "allergens": [
+      "shellfish"
+    ]
+  },
+  {
+    "name": "Palm sugar",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 380,
+    "protein": 0.0,
+    "carbs": 98.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "micros": {
+      "potassium": 1030.0,
+      "iron": 3.0,
+      "magnesium": 70.0,
+      "zinc": 0.2
+    },
+    "sub_group": "sweeteners",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Galangal, fresh",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 80,
+    "protein": 1.8,
+    "carbs": 18.0,
+    "fat": 0.75,
+    "fiber": 2.5,
+    "micros": {
+      "potassium": 415.0,
+      "iron": 0.6,
+      "magnesium": 43.0,
+      "sodium": 13.0
+    },
+    "sub_group": "spices_herbs",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Barberries, dried (zereshk)",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 316,
+    "protein": 3.6,
+    "carbs": 63.9,
+    "fat": 3.5,
+    "fiber": 7.4,
+    "micros": {
+      "calcium": 40.0,
+      "potassium": 380,
+      "iron": 2.0,
+      "vitaminC": 24.0
+    },
+    "sub_group": "fruit",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Glutinous rice (dry)",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 370,
+    "protein": 6.81,
+    "carbs": 82.0,
+    "fat": 0.55,
+    "fiber": 1.2,
+    "micros": {
+      "calcium": 9.0,
+      "potassium": 89,
+      "iron": 0.65,
+      "magnesium": 26.0,
+      "phosphorus": 111,
+      "sodium": 3.0,
+      "zinc": 1.24
+    },
+    "sub_group": "grains_pasta",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
   }
 ]

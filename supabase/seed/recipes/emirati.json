@@ -4,30 +4,83 @@
     "cuisine": "emirati",
     "meal_type": "breakfast",
     "course": "complete",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "White rice (dry)", "qty": 45, "note": "standing in for the traditional vermicelli" },
-      { "ingredient": "Granulated sugar", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Saffron threads", "qty": 1, "note": "pinch" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "" }
+      {
+        "ingredient": "Noodles, egg, dry, enriched",
+        "qty": 50,
+        "note": "standing in for vermicelli"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      }
     ],
     "steps": [
-      "Cook the rice until tender, then toss over low heat with the sugar and a saffron-steeped splash of water until glossy and lightly caramelized.",
-      "Make a thin omelet with the egg and lay it over the top."
+      "Boil the noodles until tender, then toss with the sugar and cardamom.",
+      "Scramble the eggs separately and serve alongside."
     ],
     "ingredients_full": [
-      { "ingredient": "White rice (dry)", "qty": 50, "note": "standing in for the traditional vermicelli" },
-      { "ingredient": "Granulated sugar", "qty": 1.75, "note": "tbsp" },
-      { "ingredient": "Saffron threads", "qty": 1.25, "note": "pinch" },
-      { "ingredient": "Eggs (large)", "qty": 1.25, "note": "" },
-      { "ingredient": "Ground cardamom", "qty": 0.125, "note": "tsp" },
-      { "ingredient": "Rosewater", "qty": 0.25, "note": "tsp" }
+      {
+        "ingredient": "Vermicelli rice noodles (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch, steeped in 1 tbsp hot water"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
+      }
     ],
     "steps_detailed": [
-      "Cook the rice until tender, then toss over low heat with the sugar, cardamom, and a saffron-and-rosewater-steeped splash of water, 5-6 minutes, until glossy, fragrant, and lightly caramelized at the edges.",
-      "Make a thin, well-seasoned omelet with the egg and lay it whole over the top, or dice it and scatter it through.",
-      "Balaleet, sweet spiced rice paired with savory egg, is a beloved Emirati breakfast, traditionally eaten with the hands, sweet and savory in the same bite."
+      "Boil the vermicelli 3-4 minutes until just tender, then drain well.",
+      "Melt the butter, stir in the sugar, cardamom, saffron and its water, and rosewater, then toss in the vermicelli until coated and lightly caramelized, 3-4 minutes.",
+      "Push the noodles to one side of the pan; scramble the eggs plain on the other side, keeping the two separate.",
+      "Serve side by side, scattered with pistachios - the plain egg is meant to be eaten in the same bite as the sweet noodles, not folded together into one mixture."
     ]
   },
   {
@@ -35,13 +88,31 @@
     "cuisine": "emirati",
     "meal_type": "breakfast",
     "course": "complete",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "All-purpose flour", "qty": 55, "note": "" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
-      { "ingredient": "Whole milk (generic)", "qty": 0.33, "note": "cup" },
-      { "ingredient": "Honey", "qty": 2, "note": "tbsp, standing in for date syrup (dibs)" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, standing in for date syrup (dibs)"
+      }
     ],
     "steps": [
       "Whisk the flour, egg, and milk into a smooth, pourable batter.",
@@ -49,12 +120,36 @@
       "Serve warm, drizzled with the honey."
     ],
     "ingredients_full": [
-      { "ingredient": "All-purpose flour", "qty": 65, "note": "" },
-      { "ingredient": "Eggs (large)", "qty": 1.25, "note": "" },
-      { "ingredient": "Whole milk (generic)", "qty": 0.4, "note": "cup" },
-      { "ingredient": "Honey", "qty": 2.5, "note": "tbsp, standing in for date syrup (dibs)" },
-      { "ingredient": "Saffron threads", "qty": 1, "note": "pinch" },
-      { "ingredient": "Ground cardamom", "qty": 0.125, "note": "tsp" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp, standing in for date syrup (dibs)"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Whisk the flour, egg, milk, saffron, and cardamom into a smooth, pourable batter and rest 10 minutes.",
@@ -67,13 +162,31 @@
     "cuisine": "emirati",
     "meal_type": "breakfast",
     "course": "side",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "All-purpose flour", "qty": 65, "note": "" },
-      { "ingredient": "Baking powder", "qty": 0.5, "note": "tsp" },
-      { "ingredient": "Honey", "qty": 1, "note": "tsp, for the dough" },
-      { "ingredient": "Queso fresco", "qty": 1, "note": "oz" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp, for the dough"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz"
+      }
     ],
     "steps": [
       "Mix the flour, baking powder, honey, a pinch of salt, and enough warm water to form a soft dough. Rest 20 minutes.",
@@ -81,11 +194,31 @@
       "Split while warm and fill with the crumbled cheese."
     ],
     "ingredients_full": [
-      { "ingredient": "All-purpose flour", "qty": 75, "note": "" },
-      { "ingredient": "Baking powder", "qty": 0.75, "note": "tsp" },
-      { "ingredient": "Honey", "qty": 1.25, "note": "tsp, for the dough" },
-      { "ingredient": "Queso fresco", "qty": 1.25, "note": "oz" },
-      { "ingredient": "Vegetable oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tsp, for the dough"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Mix the flour, baking powder, honey, a pinch of salt, the oil, and enough warm water to form a soft, slightly tacky dough. Cover and rest 25-30 minutes until slightly puffed.",
@@ -101,30 +234,95 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken thigh (raw)", "qty": 200, "note": "" },
-      { "ingredient": "White rice (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 60, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 35, "note": "chopped" }
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      }
     ],
     "steps": [
       "Brown the chicken with the onion.",
-      "Add the tomatoes and 1.5 cups water, and simmer 15 minutes.",
-      "Add the rice, cover, and simmer 18-20 more minutes until tender."
+      "Add the rice, tomatoes, turmeric, and 1.5 cups water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
-      { "ingredient": "Chicken thigh (raw)", "qty": 220, "note": "" },
-      { "ingredient": "White rice (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 70, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 40, "note": "chopped" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Spices, turmeric, ground", "qty": 2.2, "note": "" },
-      { "ingredient": "Ground cardamom", "qty": 0.25, "note": "tsp" }
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, garlic, turmeric, and cardamom over medium-high heat, 8-10 minutes.",
-      "Add the diced tomatoes and 1.75 cups water and simmer 18-20 minutes to build the base.",
-      "Add the rice, cover, and simmer 20-25 more minutes until the rice is tender and fully colored by the tomato.",
-      "Machboos, the everyday spiced rice and meat dish eaten across the UAE, is traditionally finished with a whole dried lime for a sharp, distinctive tang."
+      "Brown the chicken in the oil, 8-10 minutes, then set aside.",
+      "Soften the onion and garlic in the same pot, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, cinnamon, cardamom, and pepper, and cook 3-4 minutes.",
+      "Return the chicken with 1.75 cups water, the pierced dried limes, and saffron, and simmer 20-25 minutes.",
+      "Lift out the chicken, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Fluff the rice and top with the chicken."
     ]
   },
   {
@@ -132,32 +330,100 @@
     "cuisine": "emirati",
     "meal_type": "lunch",
     "course": "complete",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Fish, tilapia, raw", "qty": 180, "note": "" },
-      { "ingredient": "White rice (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 35, "note": "chopped" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      }
     ],
     "steps": [
-      "Saute the onion until softened.",
-      "Add 1.5 cups water and the rice, cover, and simmer 15 minutes.",
-      "Lay the fish over the rice, cover, and steam 8-10 more minutes until cooked through. Finish with the lime juice."
+      "Simmer the rice with the tomatoes and turmeric in 1.5 cups water, cover, and cook 20-22 minutes.",
+      "Pan-fry the fish separately and serve over the rice."
     ],
     "ingredients_full": [
-      { "ingredient": "Fish, tilapia, raw", "qty": 200, "note": "" },
-      { "ingredient": "White rice (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 40, "note": "chopped" },
-      { "ingredient": "Lime juice", "qty": 1.25, "note": "tbsp" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Spices, turmeric, ground", "qty": 1.8, "note": "" }
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "cup, chopped"
+      }
     ],
     "steps_detailed": [
-      "Saute the onion, garlic, and turmeric until softened and fragrant, 5-6 minutes.",
-      "Add 1.75 cups water and the rice, cover, and simmer 18-20 minutes.",
-      "Lay the fish over the rice, cover, and steam 10-12 more minutes until just cooked through and flaking.",
-      "Finish with the lime juice - fish machboos reflects the UAE's long coastal fishing tradition, especially in cities like Ras Al Khaimah and Umm Al Quwain."
+      "Pan-fry the fish in a little of the oil until just cooked through, 3-4 minutes per side; set aside.",
+      "Soften the onion and garlic in the remaining oil, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, cinnamon, and cardamom, and cook 3-4 minutes.",
+      "Add 1.5 cups water, the pierced dried limes, and saffron, and bring to a simmer.",
+      "Stir in the rice, cover, and cook over low heat 18-20 minutes until tender.",
+      "Fluff the rice, top with the fish, and scatter with cilantro."
     ]
   },
   {
@@ -168,10 +434,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken thigh (raw)", "qty": 180, "note": "" },
-      { "ingredient": "Bulgur, dry", "qty": 40, "note": "" },
-      { "ingredient": "Butter, Clarified butter (ghee)", "qty": 10, "note": "" },
-      { "ingredient": "Ground cinnamon", "qty": 0.25, "note": "tsp, to top" }
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, Clarified butter (ghee)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp, to top"
+      }
     ],
     "steps": [
       "Simmer the chicken in water until very tender, then shred it finely, reserving the broth.",
@@ -179,11 +461,31 @@
       "Stir the chicken back in and top with the ghee and cinnamon."
     ],
     "ingredients_full": [
-      { "ingredient": "Chicken thigh (raw)", "qty": 200, "note": "" },
-      { "ingredient": "Bulgur, dry", "qty": 45, "note": "" },
-      { "ingredient": "Butter, Clarified butter (ghee)", "qty": 12, "note": "" },
-      { "ingredient": "Ground cinnamon", "qty": 0.375, "note": "tsp, to top" },
-      { "ingredient": "Granulated sugar", "qty": 1, "note": "tsp, to top" }
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, Clarified butter (ghee)",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp, to top"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp, to top"
+      }
     ],
     "steps_detailed": [
       "Simmer the chicken in 2.5 cups water for 25-30 minutes until very tender, then shred it finely, reserving the broth.",
@@ -200,22 +502,62 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Whole wheat tortilla (large)", "qty": 1, "note": "torn, as a flatbread stand-in" },
-      { "ingredient": "Chicken thigh (raw)", "qty": 170, "note": "" },
-      { "ingredient": "Yukon gold potato", "qty": 90, "note": "chunked" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 60, "note": "" }
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "torn, as a flatbread stand-in"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 90,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
     ],
     "steps": [
       "Simmer the chicken with the potato and tomatoes until tender, about 20-25 minutes, mashing some of the potato to thicken.",
       "Stir the torn bread through the stew and let it soften and thicken for a few minutes before serving."
     ],
     "ingredients_full": [
-      { "ingredient": "Whole wheat tortilla (large)", "qty": 1.25, "note": "torn, as a flatbread stand-in" },
-      { "ingredient": "Chicken thigh (raw)", "qty": 190, "note": "" },
-      { "ingredient": "Yukon gold potato", "qty": 100, "note": "chunked" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 70, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 30, "note": "chopped" },
-      { "ingredient": "Ground cumin", "qty": 0.5, "note": "tsp" }
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": "torn, as a flatbread stand-in"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Simmer the chicken with the potato, tomatoes, onion, and cumin in a splash of water for 25-30 minutes until tender, mashing some of the potato against the side of the pot to thicken the base.",
@@ -231,30 +573,84 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground lamb", "qty": 180, "note": "formed into small portions" },
-      { "ingredient": "White rice (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Spices, turmeric, ground", "qty": 1.5, "note": "" },
-      { "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)", "qty": 10, "note": "to top" }
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      }
     ],
     "steps": [
-      "Season the lamb with the turmeric and shape into small portions.",
-      "Roast at 375F for 15-18 minutes until well browned and cooked through.",
-      "Serve over the cooked rice, scattered with the raisins."
+      "Brown the lamb with the onion and cardamom.",
+      "Add the rice and 1.5 cups water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
-      { "ingredient": "Ground lamb", "qty": 200, "note": "formed into small portions" },
-      { "ingredient": "White rice (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Spices, turmeric, ground", "qty": 2.2, "note": "" },
-      { "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)", "qty": 12, "note": "to top" },
-      { "ingredient": "Garlic clove", "qty": 1.5, "note": "minced" },
-      { "ingredient": "Ground cardamom", "qty": 0.25, "note": "tsp" },
-      { "ingredient": "Nuts, pistachio nuts, raw", "qty": 10, "note": "chopped, to top" }
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a few large chunks"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
     ],
     "steps_detailed": [
-      "Season the lamb thoroughly with the turmeric, garlic, and cardamom, and shape into small portions.",
-      "Roast at 375F (190C) for 18-22 minutes, turning once, until deeply browned outside and tender within.",
-      "Serve piled over the cooked rice, scattered generously with the raisins and pistachios.",
-      "Ghuzi, traditionally a whole spiced lamb slow-roasted and served over a mountain of rice, is the centerpiece of Emirati weddings and major celebrations."
+      "Brown the lamb with the onion in the oil, 9-11 minutes.",
+      "Add the cardamom, cinnamon, saffron, and 2 cups water, cover, and simmer 35-40 minutes until very tender.",
+      "Lift out the lamb, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Toast the almonds 2-3 minutes until golden.",
+      "Mound the rice, top with the lamb, scatter with almonds and raisins."
     ]
   },
   {
@@ -265,30 +661,95 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground lamb", "qty": 190, "note": "" },
-      { "ingredient": "White rice (dry)", "qty": 55, "note": "" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 65, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 35, "note": "chopped" }
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      }
     ],
     "steps": [
-      "Brown the lamb with the onion, breaking it up as it cooks.",
-      "Add the tomatoes and 1.5 cups water, and simmer 15 minutes.",
-      "Add the rice, cover, and simmer 18-20 more minutes until tender."
+      "Brown the lamb with the onion.",
+      "Add the rice, tomatoes, turmeric, and 1.5 cups water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
-      { "ingredient": "Ground lamb", "qty": 210, "note": "" },
-      { "ingredient": "White rice (dry)", "qty": 60, "note": "" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 75, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 40, "note": "chopped" },
-      { "ingredient": "Garlic clove", "qty": 1.5, "note": "minced" },
-      { "ingredient": "Spices, turmeric, ground", "qty": 2, "note": "" },
-      { "ingredient": "365 (Whole Foods) Paprika", "qty": 0.8, "note": "" }
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a few large chunks"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.0625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
     ],
     "steps_detailed": [
-      "Brown the lamb with the onion, garlic, turmeric, and paprika over medium-high heat, breaking it up well, 8-10 minutes.",
-      "Add the diced tomatoes and 1.75 cups water and simmer 18-20 minutes.",
-      "Add the rice, cover, and simmer 20-25 more minutes until tender and richly colored.",
-      "Lamb machboos, finished traditionally with a whole dried lime tucked in to simmer, is one of the most widely cooked home dishes across the Emirates."
+      "Brown the lamb in the oil, 9-11 minutes, then set aside.",
+      "Soften the onion and garlic, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, cinnamon, cardamom, and nutmeg, and cook 3-4 minutes.",
+      "Return the lamb with 2 cups water, the pierced dried limes, and saffron, cover, and simmer 40-45 minutes until very tender.",
+      "Lift out the lamb, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Fluff the rice and top with the lamb."
     ]
   },
   {
@@ -299,23 +760,67 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chicken thigh (raw)", "qty": 190, "note": "" },
-      { "ingredient": "Yukon gold potato", "qty": 100, "note": "chunked" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 65, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 35, "note": "chopped" }
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
     ],
     "steps": [
       "Brown the chicken with the onion.",
       "Add the potato, tomatoes, and 1 cup water, and simmer 25-30 minutes until the potato is tender."
     ],
     "ingredients_full": [
-      { "ingredient": "Chicken thigh (raw)", "qty": 210, "note": "" },
-      { "ingredient": "Yukon gold potato", "qty": 115, "note": "chunked" },
-      { "ingredient": "Diced tomatoes (canned)", "qty": 75, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 40, "note": "chopped" },
-      { "ingredient": "Garlic clove", "qty": 1.5, "note": "minced" },
-      { "ingredient": "Ground cumin", "qty": 0.5, "note": "tsp" },
-      { "ingredient": "Spices, turmeric, ground", "qty": 1.5, "note": "" }
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 115,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1.5,
+        "note": ""
+      }
     ],
     "steps_detailed": [
       "Brown the chicken with the onion, garlic, cumin, and turmeric over medium-high heat, 8-10 minutes.",
@@ -328,31 +833,83 @@
     "cuisine": "emirati",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": ["fish"],
+    "tags": [
+      "fish"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Fish, tilapia, raw", "qty": 210, "note": "whole or fillet" },
-      { "ingredient": "365 (Whole Foods) Paprika", "qty": 1, "note": "" },
-      { "ingredient": "Garlic clove", "qty": 1.5, "note": "minced" },
-      { "ingredient": "White rice (dry)", "qty": 55, "note": "cooked with lime" }
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
     ],
     "steps": [
-      "Rub the fish with the paprika and garlic, and marinate at least 15 minutes.",
-      "Grill until charred and cooked through.",
-      "Serve over rice cooked with a squeeze of lime."
+      "Marinate the fish in the lime juice and garlic for 15 minutes, then grill or pan-fry, 3-4 minutes per side.",
+      "Serve over the cooked rice."
     ],
     "ingredients_full": [
-      { "ingredient": "Fish, tilapia, raw", "qty": 230, "note": "whole or fillet" },
-      { "ingredient": "365 (Whole Foods) Paprika", "qty": 1.4, "note": "" },
-      { "ingredient": "Garlic clove", "qty": 2, "note": "minced" },
-      { "ingredient": "White rice (dry)", "qty": 60, "note": "cooked with lime" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Vegetable oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "cup, chopped"
+      }
     ],
     "steps_detailed": [
-      "Rub the fish with the paprika, garlic, and oil, and marinate at least 20-25 minutes.",
-      "Grill over medium-high heat, 5-7 minutes per side, until well charred and cooked through.",
-      "Serve over rice cooked with the lime juice - grilled fish rubbed with warm spices is a common way UAE households cook the day's catch along the Gulf and Arabian Sea coasts."
+      "Marinate the fish in the lime juice, garlic, cumin, and paprika for at least 15 minutes.",
+      "Grill or pan-fry over high heat, 3-4 minutes per side, until just cooked through and lightly charred.",
+      "Cook the basmati in 1.25 cups water, covered, 15-18 minutes, until tender and fully separate - basmati's dry, distinct grains matter here since the rice is served plain alongside the fish rather than cooked into it.",
+      "Fluff the rice, finish with a little more lime juice and the cilantro, and serve alongside the fish."
     ]
   },
   {
@@ -363,10 +920,26 @@
     "tags": [],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Ground beef 90/10", "qty": 100, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 25, "note": "finely chopped" },
-      { "ingredient": "All-purpose flour", "qty": 40, "note": "for the dough" },
-      { "ingredient": "Vegetable oil", "qty": 3, "note": "tbsp, for frying" }
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      }
     ],
     "steps": [
       "Brown the beef with the onion.",
@@ -374,12 +947,36 @@
       "Fry until golden and crisp."
     ],
     "ingredients_full": [
-      { "ingredient": "Ground beef 90/10", "qty": 110, "note": "" },
-      { "ingredient": "Yellow onion", "qty": 30, "note": "finely chopped" },
-      { "ingredient": "All-purpose flour", "qty": 45, "note": "for the dough" },
-      { "ingredient": "Vegetable oil", "qty": 3.5, "note": "tbsp, for frying" },
-      { "ingredient": "Ground cumin", "qty": 0.25, "note": "tsp" },
-      { "ingredient": "Cilantro", "qty": 0.0625, "note": "cup, chopped" }
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 110,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": "for the dough"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
     ],
     "steps_detailed": [
       "Brown the beef with the onion, cumin, and cilantro.",
@@ -393,13 +990,31 @@
     "cuisine": "emirati",
     "meal_type": "snack",
     "course": "side",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Whole wheat tortilla (large)", "qty": 1, "note": "standing in for khubz flatbread" },
-      { "ingredient": "Queso fresco", "qty": 1, "note": "oz, crumbled" },
-      { "ingredient": "Za'atar", "qty": 1, "note": "tsp" },
-      { "ingredient": "Vegetable oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "standing in for khubz flatbread"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz, crumbled"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Warm the bread on a dry pan.",
@@ -407,10 +1022,26 @@
       "Fold and serve warm."
     ],
     "ingredients_full": [
-      { "ingredient": "Whole wheat tortilla (large)", "qty": 1.25, "note": "standing in for khubz flatbread" },
-      { "ingredient": "Queso fresco", "qty": 1.25, "note": "oz, crumbled" },
-      { "ingredient": "Za'atar", "qty": 1.25, "note": "tsp" },
-      { "ingredient": "Vegetable oil", "qty": 1.5, "note": "tsp" }
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": "standing in for khubz flatbread"
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz, crumbled"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Warm the bread on a dry pan over medium heat until softened and lightly speckled, 1-2 minutes per side.",
@@ -423,13 +1054,31 @@
     "cuisine": "emirati",
     "meal_type": "snack",
     "course": "side",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "All-purpose flour", "qty": 35, "note": "for a thin batter" },
-      { "ingredient": "Eggs (large)", "qty": 1, "note": "" },
-      { "ingredient": "Queso fresco", "qty": 0.75, "note": "oz" },
-      { "ingredient": "Vegetable oil", "qty": 1, "note": "tsp" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 35,
+        "note": "for a thin batter"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 0.75,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
     "steps": [
       "Whisk the flour with enough water to make a very thin, pourable batter.",
@@ -437,11 +1086,31 @@
       "Cook until set, fold, and serve."
     ],
     "ingredients_full": [
-      { "ingredient": "All-purpose flour", "qty": 40, "note": "for a thin batter" },
-      { "ingredient": "Eggs (large)", "qty": 1.25, "note": "" },
-      { "ingredient": "Queso fresco", "qty": 1, "note": "oz" },
-      { "ingredient": "Vegetable oil", "qty": 1.25, "note": "tsp" },
-      { "ingredient": "Black pepper (ground)", "qty": 0.125, "note": "tsp" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": "for a thin batter"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Whisk the flour with enough water to make a very thin, almost lacy batter, similar to a crepe.",
@@ -454,25 +1123,69 @@
     "cuisine": "emirati",
     "meal_type": "snack",
     "course": "side",
-    "tags": ["vegetarian", "vegan", "gluten-free"],
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids", "qty": 150, "note": "" },
-      { "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)", "qty": 22.5, "note": "" },
-      { "ingredient": "Lime juice", "qty": 1.5, "note": "tbsp" },
-      { "ingredient": "Za'atar", "qty": 0.5, "note": "tsp, to top" }
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 22.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 0.5,
+        "note": "tsp, to top"
+      }
     ],
     "steps": [
       "Blend the chickpeas, tahini, and lime juice with a splash of water until smooth.",
       "Top with the za'atar and serve with flatbread."
     ],
     "ingredients_full": [
-      { "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids", "qty": 170, "note": "" },
-      { "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)", "qty": 30, "note": "" },
-      { "ingredient": "Lime juice", "qty": 1.75, "note": "tbsp" },
-      { "ingredient": "Za'atar", "qty": 0.75, "note": "tsp, to top" },
-      { "ingredient": "Garlic clove", "qty": 1, "note": "minced" },
-      { "ingredient": "Vegetable oil", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Za'atar",
+        "qty": 0.75,
+        "note": "tsp, to top"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps_detailed": [
       "Blend the chickpeas, tahini, lime juice, and garlic with a splash of water until very smooth.",
@@ -484,13 +1197,31 @@
     "cuisine": "emirati",
     "meal_type": "dessert",
     "course": "side",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "All-purpose flour", "qty": 60, "note": "" },
-      { "ingredient": "Baking powder", "qty": 0.75, "note": "tsp" },
-      { "ingredient": "Vegetable oil", "qty": 3, "note": "tbsp, for frying" },
-      { "ingredient": "Honey", "qty": 1.5, "note": "tbsp, standing in for date syrup" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp, standing in for date syrup"
+      }
     ],
     "steps": [
       "Mix the flour, baking powder, and enough water to form a thick, smooth batter. Rest 20 minutes.",
@@ -498,11 +1229,31 @@
       "Drizzle with the honey while still warm."
     ],
     "ingredients_full": [
-      { "ingredient": "All-purpose flour", "qty": 70, "note": "" },
-      { "ingredient": "Baking powder", "qty": 1, "note": "tsp" },
-      { "ingredient": "Vegetable oil", "qty": 4, "note": "tbsp, for frying" },
-      { "ingredient": "Honey", "qty": 1.75, "note": "tbsp, standing in for date syrup" },
-      { "ingredient": "Saffron threads", "qty": 1, "note": "pinch" }
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp, standing in for date syrup"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      }
     ],
     "steps_detailed": [
       "Mix the flour, baking powder, saffron, and enough warm water to form a thick, smooth, pourable batter. Cover and rest 25-30 minutes.",
@@ -515,24 +1266,62 @@
     "cuisine": "emirati",
     "meal_type": "dessert",
     "course": "side",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Dates, medjool", "qty": 70, "note": "pitted and mashed" },
-      { "ingredient": "All-purpose flour", "qty": 25, "note": "" },
-      { "ingredient": "Butter, Clarified butter (ghee)", "qty": 10, "note": "" },
-      { "ingredient": "Granulated sugar", "qty": 1, "note": "tbsp" }
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 70,
+        "note": "pitted and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, Clarified butter (ghee)",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
     ],
     "steps": [
       "Toast the flour in the ghee until lightly golden and fragrant.",
       "Stir in the mashed dates, sugar, and a splash of water, and cook until it comes together into a thick, spoonable paste."
     ],
     "ingredients_full": [
-      { "ingredient": "Dates, medjool", "qty": 80, "note": "pitted and mashed" },
-      { "ingredient": "All-purpose flour", "qty": 30, "note": "" },
-      { "ingredient": "Butter, Clarified butter (ghee)", "qty": 12.5, "note": "" },
-      { "ingredient": "Granulated sugar", "qty": 1.25, "note": "tbsp" },
-      { "ingredient": "Ground cardamom", "qty": 0.125, "note": "tsp" }
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 80,
+        "note": "pitted and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, Clarified butter (ghee)",
+        "qty": 12.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Toast the flour in the ghee over medium-low heat, stirring constantly, 4-5 minutes until lightly golden and nutty-smelling.",
@@ -545,13 +1334,31 @@
     "cuisine": "emirati",
     "meal_type": "dessert",
     "course": "complete",
-    "tags": ["vegetarian"],
+    "tags": [
+      "vegetarian"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Whole wheat tortilla (large)", "qty": 1, "note": "torn, as a bread stand-in" },
-      { "ingredient": "Whole milk (generic)", "qty": 0.75, "note": "cup" },
-      { "ingredient": "Granulated sugar", "qty": 2, "note": "tbsp" },
-      { "ingredient": "Nuts, pistachio nuts, raw", "qty": 12, "note": "chopped, to top" }
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1,
+        "note": "torn, as a bread stand-in"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 12,
+        "note": "chopped, to top"
+      }
     ],
     "steps": [
       "Warm the milk with the sugar until dissolved.",
@@ -559,12 +1366,36 @@
       "Top with the pistachios and serve."
     ],
     "ingredients_full": [
-      { "ingredient": "Whole wheat tortilla (large)", "qty": 1.25, "note": "torn, as a bread stand-in" },
-      { "ingredient": "Whole milk (generic)", "qty": 0.9, "note": "cup" },
-      { "ingredient": "Granulated sugar", "qty": 2.5, "note": "tbsp" },
-      { "ingredient": "Nuts, pistachio nuts, raw", "qty": 15, "note": "chopped, to top" },
-      { "ingredient": "Rosewater", "qty": 0.25, "note": "tsp" },
-      { "ingredient": "Saffron threads", "qty": 1, "note": "pinch" }
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": "torn, as a bread stand-in"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 15,
+        "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      }
     ],
     "steps_detailed": [
       "Warm the milk with the sugar, rosewater, and saffron over low heat until the sugar dissolves and the milk turns a pale gold, 3-4 minutes.",
@@ -577,24 +1408,65 @@
     "cuisine": "emirati",
     "meal_type": "sauce",
     "course": "side",
-    "tags": ["vegetarian", "vegan", "gluten-free", "no-cook"],
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Diced tomatoes (canned)", "qty": 50, "note": "" },
-      { "ingredient": "Lime juice", "qty": 1, "note": "tbsp" },
-      { "ingredient": "Garlic clove", "qty": 0.5, "note": "minced" },
-      { "ingredient": "Cilantro", "qty": 0.0625, "note": "cup, chopped" }
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
     ],
     "steps": [
       "Mash the tomatoes lightly and combine with the lime juice, garlic, and cilantro.",
       "Serve alongside grilled meats or fish."
     ],
     "ingredients_full": [
-      { "ingredient": "Diced tomatoes (canned)", "qty": 60, "note": "" },
-      { "ingredient": "Lime juice", "qty": 1.25, "note": "tbsp" },
-      { "ingredient": "Garlic clove", "qty": 0.75, "note": "minced" },
-      { "ingredient": "Cilantro", "qty": 0.08, "note": "cup, chopped" },
-      { "ingredient": "Jalapeno pepper", "qty": 0.25, "note": "minced" }
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.75,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.08,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.25,
+        "note": "minced"
+      }
     ],
     "steps_detailed": [
       "Mash the tomatoes lightly and combine with the lime juice, garlic, cilantro, and jalapeno.",
@@ -606,20 +1478,43 @@
     "cuisine": "emirati",
     "meal_type": "sauce",
     "course": "side",
-    "tags": ["vegetarian", "gluten-free"],
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
     "base_servings": 1,
     "ingredients": [
-      { "ingredient": "Dates, medjool", "qty": 45, "note": "pitted, mashed" },
-      { "ingredient": "Butter, Clarified butter (ghee)", "qty": 7, "note": "melted" }
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 45,
+        "note": "pitted, mashed"
+      },
+      {
+        "ingredient": "Butter, Clarified butter (ghee)",
+        "qty": 7,
+        "note": "melted"
+      }
     ],
     "steps": [
       "Blend the dates with the melted ghee and a splash of warm water until smooth and pourable.",
       "Drizzle over bread, pancakes, or fresh fruit."
     ],
     "ingredients_full": [
-      { "ingredient": "Dates, medjool", "qty": 55, "note": "pitted, mashed" },
-      { "ingredient": "Butter, Clarified butter (ghee)", "qty": 9, "note": "melted" },
-      { "ingredient": "Rosewater", "qty": 0.125, "note": "tsp" }
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 55,
+        "note": "pitted, mashed"
+      },
+      {
+        "ingredient": "Butter, Clarified butter (ghee)",
+        "qty": 9,
+        "note": "melted"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.125,
+        "note": "tsp"
+      }
     ],
     "steps_detailed": [
       "Blend the dates with the melted ghee, rosewater, and a splash of warm water until smooth and pourable.",

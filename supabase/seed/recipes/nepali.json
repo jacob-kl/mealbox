@@ -205,32 +205,6 @@
     "ingredients": [
       {
         "ingredient": "Lentils, raw",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Simmer the lentils with the turmeric and garlic in 1.5 cups water for 25-28 minutes until soft.",
-      "Cook the rice separately and serve together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, raw",
         "qty": 55,
         "note": ""
       },
@@ -260,10 +234,48 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Soften the onion and garlic with the turmeric and cumin in a little oil, 5-6 minutes.",
       "Add the lentils and 1.75 cups water, and simmer 26-30 minutes until soft and thickened.",
       "Cook the rice separately and serve together - dal bhat, lentils and rice, is eaten daily across Nepal, often twice a day, and is considered a complete meal on its own."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils, raw",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.625,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the onion and garlic with the turmeric and cumin in a little oil, 5-6 minutes.",
+      "Add the lentils and 1.75 cups water, and simmer 26-30 minutes until soft and thickened.",
+      "Cook the rice separately and serve together - dal bhat, lentils and rice, is eaten daily across Nepal, often twice a day, and is considered a complete meal on its own.",
+      "Basmati is the standard rice across Nepali cooking, the same as its South Asian neighbors."
     ]
   },
   {
@@ -1042,31 +1054,37 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the cardamom and honey for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the cardamom and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Top with the chopped walnuts before serving - kheer is a common festival and celebration dessert in Nepal."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1093,7 +1111,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cardamom and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the chopped walnuts before serving - kheer is a common festival and celebration dessert in Nepal."
+      "Top with the chopped walnuts before serving - kheer is a common festival and celebration dessert in Nepal.",
+      "Basmati is the standard rice across Nepali cooking, the same as its South Asian neighbors."
     ]
   },
   {

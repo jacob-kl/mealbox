@@ -149,28 +149,6 @@
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, baked",
-        "qty": 130,
-        "note": "sliced, pan-fried"
-      },
-      {
-        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
-        "qty": 15,
-        "note": "as a crema stand-in"
-      }
-    ],
-    "steps": [
-      "Fry the plantain slices until golden.",
-      "Warm the refried beans.",
-      "Serve together with a dollop of cream."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, baked",
         "qty": 150,
         "note": "sliced, pan-fried"
       },
@@ -190,10 +168,38 @@
         "note": "tbsp, for frying"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Fry the plantain slices in the oil over medium heat, 3-5 minutes per side, until deeply golden.",
       "Warm the refried beans.",
       "Serve everything together with a generous dollop of cream - a classic, comforting Salvadoran breakfast."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 150,
+        "note": "sliced, pan-fried"
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 20,
+        "note": "as a crema stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices in the oil over medium heat, 3-5 minutes per side, until deeply golden.",
+      "Warm the refried beans.",
+      "Serve everything together with a generous dollop of cream - a classic, comforting Salvadoran breakfast.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -405,7 +411,7 @@
     ]
   },
   {
-    "name": "Salvadoran Enchiladas Salvadoreñas",
+    "name": "Salvadoran Enchiladas Salvadore\u00f1as",
     "cuisine": "salvadoran",
     "meal_type": "lunch",
     "course": "side",
@@ -1072,7 +1078,7 @@
     ]
   },
   {
-    "name": "Salvadoran Quesadilla Salvadoreña",
+    "name": "Salvadoran Quesadilla Salvadore\u00f1a",
     "cuisine": "salvadoran",
     "meal_type": "dessert",
     "course": "side",
@@ -1278,7 +1284,7 @@
     ]
   },
   {
-    "name": "Salvadoran Crema Salvadoreña",
+    "name": "Salvadoran Crema Salvadore\u00f1a",
     "cuisine": "salvadoran",
     "meal_type": "sauce",
     "course": "side",

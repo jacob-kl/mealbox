@@ -288,60 +288,65 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
+        "ingredient": "Ground lamb",
+        "qty": 190,
         "note": ""
       },
-      {
-        "ingredient": "Kidney beans",
-        "qty": 80,
-        "note": "as a fava bean stand-in"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 3,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Cook the rice with the beans and dill.",
-      "Toss with the oil before serving."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Kidney beans",
-        "qty": 90,
-        "note": "as a fava bean stand-in"
+        "ingredient": "Broadbeans (fava beans), mature seeds, raw",
+        "qty": 80,
+        "note": ""
       },
       {
         "ingredient": "Dill weed, fresh",
-        "qty": 3.8,
-        "note": "chopped"
+        "qty": 2,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps": [
+      "Brown the lamb.",
+      "Cook the rice with the fava beans and dill in 1.5 cups water, covered, 20 minutes, and serve together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
+        "ingredient": "Broadbeans (fava beans), mature seeds, raw",
+        "qty": 90,
+        "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 0.5,
-        "note": "tbsp"
+        "ingredient": "Dill weed, fresh",
+        "qty": 2.5,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground lamb",
+        "qty": 150,
+        "note": "or use dill-and-fava as a standalone side"
       }
     ],
     "steps_detailed": [
-      "Cook the rice according to package directions, folding in the beans and dill during the last few minutes of cooking.",
-      "Toss with the oil and butter before serving - baghali polo, dill rice with fava beans, is a treasured Persian side, traditionally paired with lamb."
+      "Parboil the basmati in salted water 6-7 minutes until still quite firm in the center, then drain.",
+      "Simmer the fava beans separately until tender, 20-22 minutes, then drain.",
+      "Brown the lamb in a little of the butter, 8-10 minutes, and set aside.",
+      "Melt the remaining butter in a heavy pot, layer in the parboiled rice mixed with the fava beans and dill, poke a few holes down to the bottom with a spoon handle for steam to escape, cover the lid with a clean towel to trap moisture, and steam over very low heat 30-35 minutes.",
+      "The rice on the bottom will form a golden, crisp crust called tahdig - this crust is considered the best part of the dish, not a mistake, and is served alongside the fluffy rice on top, dill, and fava beans.",
+      "Serve with the lamb.",
+      "Baghali polo's parboil-then-steam method, finished with a deliberately crisped bottom layer, is the foundational technique behind most Persian rice dishes - it's a fundamentally different process from simmering rice directly in liquid the way Gulf machboos does."
     ]
   },
   {
@@ -353,68 +358,75 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 170,
+        "note": ""
       },
       {
-        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
+        "ingredient": "White rice (dry)",
         "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 80,
         "note": ""
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 1,
         "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 130,
-        "note": "shredded, cooked"
       }
     ],
     "steps": [
-      "Mix the cooked rice with the yogurt and egg.",
-      "Fold in the shredded chicken and press into a small baking dish.",
-      "Bake at 375F for 30-35 minutes until golden and set."
+      "Cook the chicken and shred it.",
+      "Mix the cooked rice with the yogurt and egg, layer with the chicken in a dish, and bake at 375F for 25-30 minutes until set."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": "cooked"
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
       },
       {
-        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
-        "qty": 70,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "qty": 1,
         "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": "shredded, cooked"
       },
       {
         "ingredient": "Saffron threads",
         "qty": 1,
-        "note": "pinch"
+        "note": "pinch, steeped in 2 tbsp hot water"
       },
       {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp, melted"
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": "melted"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Mix the cooked rice with the yogurt, egg, saffron, and melted butter until well combined.",
-      "Fold in the shredded chicken, reserving some to layer in the middle, and press firmly into a small buttered baking dish.",
-      "Bake at 375F (190C) for 32-40 minutes until the top is golden and the bottom has formed a crisp, golden crust.",
-      "Tahchin, a saffron rice cake with a prized crispy crust, is a beloved and impressive Persian dish."
+      "Brown the chicken with the onion, 8-10 minutes, then simmer in 1 cup water 15-18 minutes until cooked through; shred and set aside, reserving the broth.",
+      "Parboil the basmati in salted water 6-7 minutes until still firm in the center, then drain.",
+      "Whisk the yogurt, egg, and half the saffron water together, then fold through the parboiled rice until every grain is coated a pale gold.",
+      "Spread half the melted butter in a heavy pot, press in half the rice mixture, layer the shredded chicken over it, then press the remaining rice on top, drizzling with the rest of the saffron water and butter.",
+      "Cover with a towel-wrapped lid and cook over very low heat 35-40 minutes, until a deep golden crust forms on the bottom.",
+      "Rest 5 minutes, then invert onto a platter so the crisp golden crust ends up on top.",
+      "Tahchin is essentially a baked rice cake bound with egg and yogurt - the crust here is even more the point than in baghali polo, since the whole dish is built and unmolded specifically to display it."
     ]
   },
   {
@@ -429,61 +441,75 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 190,
+        "note": ""
       },
-      {
-        "ingredient": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
-        "qty": 20,
-        "note": "as a barberry stand-in"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      }
-    ],
-    "steps": [
-      "Dissolve the saffron in a splash of warm water.",
-      "Toss the cooked rice with the butter, saffron water, and dried cranberries."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
         "qty": 60,
-        "note": "cooked"
+        "note": ""
       },
       {
-        "ingredient": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
-        "qty": 25,
-        "note": "as a barberry stand-in"
+        "ingredient": "Barberries, dried (zereshk)",
+        "qty": 15,
+        "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 1.25,
-        "note": "tbsp"
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion.",
+      "Add the rice, barberries, and 1.5 cups water, cover, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 210,
+        "note": ""
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Barberries, dried (zereshk)",
+        "qty": 20,
+        "note": ""
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 0.16666666666666666,
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch, steeped in 2 tbsp hot water"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Dissolve the saffron in a tablespoon of warm water.",
-      "Briefly warm the dried cranberries (standing in for tart barberries) in the butter with the sugar, 2-3 minutes.",
-      "Toss the cooked rice with the saffron water and the buttered cranberries - zereshk polo, jeweled with tart berries, is a treasured Persian dish, traditionally paired with chicken."
+      "Brown the chicken with the onion, 8-10 minutes, then add 1.5 cups water and simmer 20-22 minutes until cooked through.",
+      "Parboil the basmati in salted water 6-7 minutes until still firm in the center, then drain.",
+      "Rinse the barberries well and pick out any stems - they scorch bitter very quickly, so saut\u00e9 them briefly in a little of the butter with the sugar, just 1-2 minutes, until glossy, then set aside off the heat.",
+      "Layer the parboiled rice into a buttered pot, drizzle with half the saffron water, cover with a towel-wrapped lid, and steam over low heat 30-35 minutes until a golden crust forms on the bottom.",
+      "Fluff the top layer of rice, fold most of the barberries through it, and top with the rest plus the remaining saffron water.",
+      "Serve with the chicken.",
+      "Zereshk polo's ruby-red barberries against saffron-gold rice is one of Persian cuisine's most recognizable dishes - genuine dried barberries make the difference here; without their specific tartness this is just saffron rice with chicken, a different, blander thing."
     ]
   },
   {
@@ -495,68 +521,77 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 180,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Kidney beans",
-        "qty": 100,
+        "ingredient": "Ground lamb",
+        "qty": 190,
         "note": ""
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.5,
+        "qty": 0.4,
         "note": "cup, chopped"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef.",
-      "Add the beans, herbs, lime juice, and a splash of water, and simmer 1-1.25 hours until tender.",
-      "Serve with rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Kidney beans",
-        "qty": 110,
+        "ingredient": "Lentils, raw",
+        "qty": 35,
         "note": ""
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.6,
-        "note": "cup, chopped"
       },
       {
         "ingredient": "Lime juice",
         "qty": 1.25,
         "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the lamb.",
+      "Add the cilantro, lentils, lime juice, and 1.5 cups water, and simmer 25-30 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": "or beef stew meat"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.5,
+        "note": "cup, finely chopped"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 2,
+        "note": "tbsp, chopped, standing in for part of the traditional herb blend"
+      },
+      {
+        "ingredient": "Lentils, raw",
+        "qty": 40,
+        "note": "standing in for dried kidney/red beans, which aren't a distinct item here"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp, standing in for dried Persian limes"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 35,
+        "qty": 40,
         "note": "chopped"
       },
       {
-        "ingredient": "Spices, fenugreek seed",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, 8-10 minutes.",
-      "Add the beans, cilantro, fenugreek, lime juice (standing in for dried lime, traditionally used), and 3/4 cup water.",
-      "Simmer, covered, 1.25-1.5 hours until the beef is very tender and the sauce has deepened into a dark green.",
-      "Serve with rice - ghormeh sabzi, a beloved herb stew, is widely considered Iran's national dish."
+      "Brown the lamb with the onion and turmeric in the oil, 9-11 minutes.",
+      "Add the cilantro, mint, and 1.5 cups water, and simmer 15 minutes to soften the herbs into the broth - real ghormeh sabzi builds its dark, deep color from a much larger volume of herbs sauteed down first, along with fenugreek and parsley, neither a distinct item in this database; this is a lighter-colored, milder approximation of that herb base.",
+      "Add the lentils and lime juice, cover, and simmer 25-30 minutes until the lamb is tender and the lentils have broken down slightly into the sauce.",
+      "Ghormeh sabzi, Iran's most iconic stew, gets its name from being 'sabzi' - herb-heavy - and its real depth comes from dried limes and a much bigger, longer-cooked mass of fresh herbs than this database can fully support; this version keeps the same sour-savory direction with what's genuinely available."
     ]
   },
   {
@@ -569,67 +604,68 @@
     "ingredients": [
       {
         "ingredient": "Ground beef 90/10",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix the beef with the onion and pepper, shape, and grill or pan-fry, 3-4 minutes per side.",
+      "Serve over the cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
         "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "grated"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "note": "grated, liquid squeezed out"
       },
       {
         "ingredient": "Saffron threads",
         "qty": 1,
-        "note": "pinch"
-      }
-    ],
-    "steps": [
-      "Mix the beef with the grated onion, and shape into flattened logs.",
-      "Grill or pan-fry until well charred and cooked through.",
-      "Serve over the rice, finished with a pinch of saffron dissolved in warm water."
-    ],
-    "ingredients_full": [
+        "note": "pinch, steeped in 2 tbsp hot water"
+      },
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 220,
+        "ingredient": "Butter, salted",
+        "qty": 15,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "grated"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 30,
-        "note": "grilled, to serve"
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.375,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the beef thoroughly with the grated onion until smooth and slightly sticky, then shape into flattened logs around skewers if you have them.",
-      "Grill or pan-fry, 4-6 minutes per side, until well charred and cooked through.",
-      "Dissolve the saffron in a tablespoon of warm water and drizzle over the cooked rice along with the butter.",
-      "Serve the kabab over the saffron rice with the tomatoes - chelo kabab, grilled meat over saffron rice, is Iran's most iconic dish."
+      "Mix the beef with the grated onion and pepper, and shape into long, flattened kebab-style patties around skewers if available, or as flat ovals if not.",
+      "Grill or pan-fry over high heat, 3-4 minutes per side, until well charred outside and cooked through.",
+      "Parboil the basmati in salted water 6-7 minutes until still firm in the center, then drain.",
+      "Layer the rice into a buttered pot, drizzle with half the saffron water, cover with a towel-wrapped lid, and steam over low heat 30-35 minutes until a golden crust (chelo) forms on the bottom.",
+      "Fluff the rice, finish with the remaining saffron water and butter, and serve with the kebabs.",
+      "Chelo, meaning plain steamed rice with its own crisp bottom crust, is what distinguishes this from a polo, which is rice cooked together with other ingredients mixed through it - chelo kabab is specifically kebabs served over PLAIN rice, not rice studded with anything else."
     ]
   },
   {
@@ -1049,44 +1085,48 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
       },
       {
         "ingredient": "Ground cinnamon",
         "qty": 0.125,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Simmer the rice in 1.5 cups water with the sugar, saffron, and cinnamon for 25-30 minutes until thick and golden.",
-      "Chill or serve warm."
+      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 2.5,
+        "qty": 3,
         "note": "tbsp"
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
+        "qty": 1,
+        "note": "pinch, steeped in 2 tbsp hot water"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
       },
       {
         "ingredient": "Ground cinnamon",
@@ -1094,14 +1134,21 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Nuts, pistachio nuts, raw",
+        "ingredient": "Nuts, almonds",
         "qty": 12,
-        "note": "chopped, to top"
+        "note": "slivered"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in 1.75 cups water with the sugar, saffron, and cinnamon over medium-low heat, stirring occasionally, 28-35 minutes until thick and richly golden.",
-      "Top with chopped pistachios and serve warm or chilled - sholeh zard, saffron rice pudding, is a treasured Persian dessert, often made as a votive offering."
+      "Simmer the basmati in 2.5 cups water over low heat, stirring occasionally, 30-35 minutes, well past normal doneness, until it breaks down into a thick, soft, pudding-like mass.",
+      "Stir in the sugar, saffron water, and butter, and simmer 8-10 more minutes until glossy and a deep saffron gold.",
+      "Spoon into bowls, dust with the cinnamon in a decorative pattern (traditionally a symbol or design is drawn across the top), and top with the almonds and pistachios.",
+      "Sholeh zard, a saffron rice pudding traditionally made as a votive offering, is deliberately cooked down far softer than a Western rice pudding - it should be spoonable and glossy, not grainy."
     ]
   },
   {

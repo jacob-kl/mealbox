@@ -9,66 +9,72 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked in coconut milk"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 47.3,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled"
-      },
-      {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 15,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook the rice with the coconut milk in place of some of the cooking water.",
-      "Serve with the hard-boiled egg and peanuts.",
-      "Add sambal or chili sauce alongside if you have it."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
         "qty": 55,
-        "note": "cooked in coconut milk"
+        "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 59.1,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": "hard-boiled"
-      },
-      {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 18,
-        "note": ""
+        "qty": 0.4,
+        "note": "cup"
       },
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 40,
-        "note": "fried, as an ikan bilis stand-in"
+        "qty": 90,
+        "note": ""
       },
       {
-        "ingredient": "Cucumber",
-        "qty": 40,
+        "ingredient": "Peppers, sweet, red, raw",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Cook the rice in the coconut milk.",
+      "Fry the fish and serve alongside with the sliced pepper."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Kaffir lime leaves",
+        "qty": 1,
+        "note": "leaf, torn"
+      },
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 100,
+        "note": "standing in for dried anchovies (ikan bilis)"
+      },
+      {
+        "ingredient": "Peppers, sweet, red, raw",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Shrimp paste",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": "sliced"
       }
     ],
     "steps_detailed": [
-      "Cook the rice with the coconut milk in place of some of the water, along with a pinch of salt, for extra richness.",
-      "Fry the fish until crisp, standing in for the crispy dried anchovies traditionally served alongside.",
-      "Serve the coconut rice with the hard-boiled egg, peanuts, fried fish, and cucumber slices, plus sambal on the side if available - widely considered Malaysia's national dish."
+      "Cook the jasmine rice in the coconut milk and 0.4 cup water with the torn lime leaf, covered, 15-18 minutes, until tender and fragrant - the coconut milk and lime leaf are what make this rice specifically nasi lemak rather than plain jasmine rice.",
+      "Fry the fish until crisp and golden, a stand-in for the crisp-fried dried anchovies traditionally served alongside.",
+      "Mash the shrimp paste with the onion and pepper, and fry into a rough sambal-style relish, 5-6 minutes, until fragrant and slightly darkened.",
+      "Serve the coconut rice with the crisp fish and sambal alongside.",
+      "Nasi lemak's identity is entirely in that coconut-and-lime-leaf-infused rice - dried anchovies (ikan bilis) aren't a distinct product here, so a crisp-fried fish fills the same crunchy, savory role on the plate."
     ]
   },
   {
@@ -1266,53 +1272,47 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Rice flour, white, unenriched",
         "qty": 40,
-        "note": "as glutinous rice flour, ground"
+        "note": ""
       },
       {
-        "ingredient": "Brown sugar",
-        "qty": 2,
-        "note": "tbsp, chopped small, for the filling"
+        "ingredient": "Palm sugar",
+        "qty": 18,
+        "note": "chopped small"
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.125,
-        "note": "cup, for rolling"
+        "ingredient": "Coconut meat, raw",
+        "qty": 20,
+        "note": "grated"
       }
     ],
     "steps": [
-      "Grind the rice into a fine flour and mix with enough water to form a soft, pliable dough.",
-      "Wrap small portions around a bit of the brown sugar, sealing completely, and shape into balls.",
-      "Boil until they float, about 5-6 minutes, then roll in the shredded coconut."
+      "Wrap the dough around the palm sugar, seal well, and boil until they float.",
+      "Roll in the coconut."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Glutinous rice (dry)",
         "qty": 45,
-        "note": "as glutinous rice flour, ground"
+        "note": "ground into flour, or use rice flour"
       },
       {
-        "ingredient": "Brown sugar",
-        "qty": 2.5,
-        "note": "tbsp, chopped small, for the filling"
+        "ingredient": "Palm sugar",
+        "qty": 20,
+        "note": "chopped small"
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.1875,
-        "note": "cup, for rolling"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.2,
-        "note": "for color, optional"
+        "ingredient": "Coconut meat, raw",
+        "qty": 25,
+        "note": "grated, to coat"
       }
     ],
     "steps_detailed": [
-      "Grind the rice into a fine flour (or use pre-made glutinous rice flour if available) and mix with turmeric if using and enough water to form a soft, pliable dough.",
-      "Take small portions of dough, flatten, wrap around a small piece of chopped brown sugar, and seal completely, rolling into smooth balls - the sugar traditionally melts into a molten center as they cook.",
-      "Boil in water until they float to the surface, about 5-7 minutes, indicating they're cooked through.",
-      "Drain and immediately roll in the shredded coconut while still warm and slightly sticky - a beloved Malaysian sweet with a molten palm sugar center."
+      "Mix the glutinous rice flour with warm water into a soft, pliable dough.",
+      "Wrap small pieces around a bit of palm sugar, sealing completely, and roll into smooth balls.",
+      "Boil until they float, 4-5 minutes, then drain and roll in the grated coconut.",
+      "Ondeh-ondeh shares its molten-palm-sugar-center trick with Indonesian klepon - the same technique appears under different names across the region, and the seal has to be complete or the filling leaks out while boiling."
     ]
   },
   {

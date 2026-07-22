@@ -8,46 +8,50 @@
     "base_servings": 1,
     "ingredients": [
       {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 55,
+        "note": "cooked and cooled"
+      },
+      {
         "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 150,
+        "qty": 180,
         "note": "thinly sliced"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "ingredient": "Soy sauce",
+        "qty": 1.25,
+        "note": "tbsp"
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": "fried"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "note": ""
       }
     ],
     "steps": [
-      "Marinate the beef with the garlic for 15-20 minutes.",
-      "Pan-fry until well browned and cooked through, 3-4 minutes per side.",
-      "Serve with the rice and a fried egg."
+      "Marinate and pan-fry the beef.",
+      "Fry the rice and the egg, and serve all three together."
     ],
     "ingredients_full": [
       {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled, ideally a day ahead"
+      },
+      {
         "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 170,
+        "qty": 190,
         "note": "thinly sliced"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Soy sauce",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": "fried"
+        "ingredient": "Lime juice",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
@@ -55,25 +59,17 @@
         "note": "minced"
       },
       {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 0.3333333333333333,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 0.16666666666666666,
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Marinate the thinly sliced beef with the garlic, soy sauce, vinegar, and lime juice (standing in for calamansi) for at least 20-30 minutes.",
-      "Pan-fry over medium-high heat, 3-5 minutes per side, until well browned and cooked through.",
-      "Serve with garlic fried rice and a fried egg - tapsilog (a portmanteau of tapa, sinangag, and itlog) is a beloved Filipino breakfast combo."
+      "Marinate the beef in the soy sauce, lime juice, and garlic for at least 20 minutes, or overnight.",
+      "Pan-fry the marinated beef over high heat, 2-3 minutes per side, until well browned.",
+      "Fry the garlic from the marinade separately until golden and crisp, then fry the cold, day-old rice in the same garlic-infused oil, 5-6 minutes - this garlic rice, sinangag, is the 'sog' of tapsilog and is not optional; plain rice changes the dish.",
+      "Fry the egg sunny-side up.",
+      "Serve the beef (tapa), garlic rice (sinangag), and egg (itlog) together - tapsilog's name is literally built from all three components, and any Filipino silog breakfast follows this same three-part structure with a different protein."
     ]
   },
   {
@@ -89,7 +85,7 @@
       {
         "ingredient": "White rice (dry)",
         "qty": 55,
-        "note": "cooked, day-old if possible"
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Garlic clove",
@@ -103,35 +99,30 @@
       }
     ],
     "steps": [
-      "Fry the garlic in the oil until golden and fragrant.",
-      "Add the rice and stir-fry 4-5 minutes until heated through and slightly crisp."
+      "Fry the garlic, then stir-fry the cold rice in the garlic oil, 5-6 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": "cooked, day-old if possible"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 65,
+        "note": "cooked and cooled, ideally a day ahead"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 2.5,
+        "qty": 3,
         "note": "minced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the garlic in the oil over medium heat, 2-3 minutes, until golden and fragrant - watch closely, as it burns quickly.",
-      "Add the rice and black pepper, and stir-fry 5-6 minutes, breaking up clumps, until heated through and slightly crisp.",
-      "The garlic component of nearly every Filipino silog breakfast combo."
+      "Fry the garlic in the oil over medium heat until deeply golden and crisp, being careful not to let it burn - reserve a little of the crisp garlic bits to scatter on top at the end.",
+      "Add the cold, day-old rice, breaking up any clumps, and stir-fry over high heat 5-6 minutes, until every grain is coated in garlic oil and lightly toasted.",
+      "Top with the reserved crisp garlic.",
+      "Sinangag depends entirely on day-old, cold rice - fresh rice's extra moisture makes it clump and steam rather than fry into separate, garlic-coated grains, which is the whole texture the dish is going for."
     ]
   },
   {
@@ -1204,14 +1195,39 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": "as rice flour, ground"
+        "ingredient": "Rice flour, white, unenriched",
+        "qty": 45,
+        "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 59.1,
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.75,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the batter and bake at 375F for 20-24 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Rice flour, white, unenriched",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.4,
+        "note": "cup"
       },
       {
         "ingredient": "Eggs (large)",
@@ -1222,50 +1238,22 @@
         "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Grind the rice into a fine flour and mix with the coconut milk, egg, and sugar into a smooth batter.",
-      "Pour into a small buttered dish and bake at 375F for 20-25 minutes until set and golden on top.",
-      "Cool slightly before slicing."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "as rice flour, ground"
       },
       {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 71.0,
-        "note": ""
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp, melted, to top"
-      },
-      {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, to top"
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted"
       }
     ],
     "steps_detailed": [
-      "Grind the rice into a fine flour and whisk with the coconut milk, egg, and sugar into a smooth, pourable batter.",
-      "Pour into a small buttered baking dish.",
-      "Bake at 375F (190C) for 22-28 minutes until set and golden on top.",
-      "Brush with the melted butter and scatter with shredded coconut while still warm - bibingka, traditionally baked in banana leaf over hot coals, is a beloved Filipino rice cake, especially popular during the Christmas season."
+      "Whisk the rice flour, coconut milk, egg, sugar, and baking powder into a smooth batter.",
+      "Pour into a small greased pan and bake at 375F (190C) for 22-26 minutes until set and lightly golden, brushing the top with the melted butter halfway through.",
+      "Bibingka is traditionally baked in a clay pot lined with banana leaves over hot coals both above and below, which gives it a distinctive charred leaf aroma - banana leaves aren't a distinct item here, so a standard pan in the oven keeps the same rice-flour cake but loses that specific smoky perfume."
     ]
   },
   {

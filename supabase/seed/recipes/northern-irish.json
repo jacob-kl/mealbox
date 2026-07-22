@@ -218,33 +218,6 @@
     "ingredients": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 180,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped, standing in for scallion"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Simmer the onion in the milk for 3-4 minutes to soften.",
-      "Mash the potato with the milk-onion mixture and half the butter.",
-      "Top with the remaining butter, letting it melt into a well in the middle."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
         "qty": 200,
         "note": "mashed"
       },
@@ -269,10 +242,43 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Simmer the onion in the milk over low heat, 4-5 minutes, to soften and mellow its bite.",
       "Mash the potato thoroughly with the milk-onion mixture, half the butter, and pepper until smooth.",
       "Spoon into a bowl, make a well in the center, and let the remaining butter melt into it - champ is traditionally eaten by dragging each forkful of potato through the pool of melted butter."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
+        "qty": 35,
+        "note": "finely chopped, standing in for scallion"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the onion in the milk over low heat, 4-5 minutes, to soften and mellow its bite.",
+      "Mash the potato thoroughly with the milk-onion mixture, half the butter, and pepper until smooth.",
+      "Spoon into a bowl, make a well in the center, and let the remaining butter melt into it - champ is traditionally eaten by dragging each forkful of potato through the pool of melted butter.",
+      "Real scallions are used here now, giving the sharper, more specific flavor the dish actually calls for rather than yellow onion's milder substitute."
     ]
   },
   {

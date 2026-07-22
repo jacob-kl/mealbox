@@ -1001,33 +1001,6 @@
     "ingredients": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 200,
-        "note": "boiled, mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped, as a scallion stand-in"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Warm the milk with the chopped onion until just simmering.",
-      "Mash the boiled potato with the butter, then stir in the warm milk and onion.",
-      "Serve hot with a well of melted butter in the center."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
         "qty": 220,
         "note": "boiled, mashed"
       },
@@ -1052,11 +1025,45 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Warm the milk with the chopped onion (traditionally scallions/spring onions) over low heat for 3-4 minutes until fragrant and just simmering.",
       "Mash the boiled potato with half the butter until smooth.",
       "Stir in the warm milk and onion mixture, and season with black pepper.",
       "Serve hot with a well in the center filled with the remaining melted butter - simple, comforting, and deeply traditional."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 220,
+        "note": "boiled, mashed"
+      },
+      {
+        "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
+        "qty": 35,
+        "note": "finely chopped, as a scallion stand-in"
+      },
+      {
+        "ingredient": "Butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.3,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk with the chopped onion (traditionally scallions/spring onions) over low heat for 3-4 minutes until fragrant and just simmering.",
+      "Mash the boiled potato with half the butter until smooth.",
+      "Stir in the warm milk and onion mixture, and season with black pepper.",
+      "Serve hot with a well in the center filled with the remaining melted butter - simple, comforting, and deeply traditional.",
+      "Real scallions are used here now, giving the sharper, more specific flavor the dish actually calls for rather than yellow onion's milder substitute."
     ]
   },
   {

@@ -94,32 +94,6 @@
     "ingredients": [
       {
         "ingredient": "Cucumber",
-        "qty": 100,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 0.3333333333333333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Toss the diced cucumber and tomatoes with the lime juice and oil.",
-      "Season with salt and serve fresh."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cucumber",
         "qty": 110,
         "note": "finely diced"
       },
@@ -149,9 +123,46 @@
         "note": "cup, chopped, as a parsley stand-in"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Toss the finely diced cucumber, tomatoes, and onion with the lime juice, oil, and herbs.",
       "Season with salt and serve fresh - Israeli salad, chopped very fine, is a breakfast fixture, often served alongside eggs and bread."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber",
+        "qty": 110,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 0.4166666666666667,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 15,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the finely diced cucumber, tomatoes, and onion with the lime juice, oil, and herbs.",
+      "Season with salt and serve fresh - Israeli salad, chopped very fine, is a breakfast fixture, often served alongside eggs and bread.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {
@@ -360,7 +371,7 @@
     ]
   },
   {
-    "name": "Israeli Hummus with Ptitim",
+    "name": "Israeli Hummus with Pearl Couscous",
     "cuisine": "israeli",
     "meal_type": "lunch",
     "course": "complete",
@@ -371,18 +382,18 @@
     "ingredients": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 150,
+        "qty": 160,
         "note": ""
       },
       {
         "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
-        "qty": 22.5,
+        "qty": 25,
         "note": ""
       },
       {
-        "ingredient": "Egg noodles (dry)",
-        "qty": 40,
-        "note": "as an Israeli couscous stand-in, cooked"
+        "ingredient": "Bob's Red Mill Traditional Pearl Couscous",
+        "qty": 35,
+        "note": "cooked"
       },
       {
         "ingredient": "Lime juice",
@@ -391,9 +402,8 @@
       }
     ],
     "steps": [
-      "Blend the chickpeas, tahini, and lime juice with a splash of water until smooth.",
-      "Spoon into a bowl and top with the cooked noodles.",
-      "Drizzle with olive oil."
+      "Blend the chickpeas, tahini, and lime juice into hummus.",
+      "Cook the couscous and top the hummus with it."
     ],
     "ingredients_full": [
       {
@@ -407,9 +417,9 @@
         "note": ""
       },
       {
-        "ingredient": "Egg noodles (dry)",
+        "ingredient": "Bob's Red Mill Traditional Pearl Couscous",
         "qty": 45,
-        "note": "as an Israeli couscous stand-in, cooked"
+        "note": "cooked"
       },
       {
         "ingredient": "Lime juice",
@@ -428,9 +438,10 @@
       }
     ],
     "steps_detailed": [
-      "Blend the chickpeas, tahini, garlic, and lime juice with a splash of water until very smooth.",
-      "Spoon into a wide bowl and top with the cooked noodles (standing in for ptitim, toasted pasta pearls invented in Israel in the 1950s).",
-      "Drizzle generously with the oil and serve with warm bread - a hearty, filling Israeli lunch."
+      "Blend the chickpeas, tahini, lime juice, and garlic into a smooth hummus, thinning with a little water as needed.",
+      "Toast the dry pearl couscous briefly in the oil, then cook in water according to the package until tender, 8-10 minutes.",
+      "Top the hummus with the warm pearl couscous.",
+      "Ptitim, invented in Israel in the 1950s and nicknamed 'Israeli couscous' for its shape, is properly a small toasted pasta pearl - real pearl couscous is a much closer match in both size and toasted flavor than egg noodles, which don't capture either."
     ]
   },
   {
@@ -808,32 +819,6 @@
     "ingredients": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.25,
-        "note": "cup, chopped, as a parsley stand-in"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 3,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps": [
-      "Blend the chickpeas, garlic, and herbs into a coarse, moldable paste.",
-      "Shape into small balls and fry until deeply golden, about 3-4 minutes per side."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 170,
         "note": ""
       },
@@ -863,11 +848,50 @@
         "note": ""
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Blend the chickpeas, garlic, herbs, flour, and turmeric in a food processor into a coarse, moldable paste - avoid over-blending into a smooth puree.",
       "Shape into small balls or patties.",
       "Fry in the oil over medium heat, 3-5 minutes per side, until deeply golden and crisp outside, tender within.",
       "Falafel is one of the most iconic and widely eaten street foods in Israel."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.3,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 4,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.8,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, garlic, herbs, flour, and turmeric in a food processor into a coarse, moldable paste - avoid over-blending into a smooth puree.",
+      "Shape into small balls or patties.",
+      "Fry in the oil over medium heat, 3-5 minutes per side, until deeply golden and crisp outside, tender within.",
+      "Falafel is one of the most iconic and widely eaten street foods in Israel.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {
@@ -953,27 +977,6 @@
     "ingredients": [
       {
         "ingredient": "Eggplant",
-        "qty": 200,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Brush the eggplant with the oil and roast at 425F for 20-25 minutes until soft and lightly charred.",
-      "Drizzle with the tahini, thinned with a splash of water."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggplant",
         "qty": 220,
         "note": "sliced"
       },
@@ -998,10 +1001,43 @@
         "note": "cup, chopped, as a parsley stand-in"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Brush the eggplant slices with the oil and roast at 425F (220C) for 22-28 minutes until soft and lightly charred at the edges.",
       "Whisk the tahini with the lime juice and a splash of water into a smooth, pourable sauce.",
       "Drizzle over the roasted eggplant and scatter with herbs - a simple, popular Israeli side or snack."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant",
+        "qty": 220,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 18.8,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Brush the eggplant slices with the oil and roast at 425F (220C) for 22-28 minutes until soft and lightly charred at the edges.",
+      "Whisk the tahini with the lime juice and a splash of water into a smooth, pourable sauce.",
+      "Drizzle over the roasted eggplant and scatter with herbs - a simple, popular Israeli side or snack.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {
@@ -1305,27 +1341,6 @@
     "ingredients": [
       {
         "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Whisk the tahini, lime juice, and garlic with a splash of water until smooth and pourable.",
-      "Serve over falafel, sabich, or roasted vegetables."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
         "qty": 37.5,
         "note": ""
       },
@@ -1345,10 +1360,38 @@
         "note": "cup, chopped, as a parsley stand-in"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Whisk the tahini, lime juice, and garlic together, adding water gradually until smooth and pourable - it will seize before it loosens.",
       "Stir in the chopped herbs.",
       "This tahini sauce is essential to Israeli street food, poured over falafel, sabich, and shawarma alike."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 37.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the tahini, lime juice, and garlic together, adding water gradually until smooth and pourable - it will seize before it loosens.",
+      "Stir in the chopped herbs.",
+      "This tahini sauce is essential to Israeli street food, poured over falafel, sabich, and shawarma alike.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {

@@ -198,24 +198,23 @@
       },
       {
         "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
         "note": ""
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
+        "qty": 0.5,
         "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
       }
     ],
     "steps": [
-      "Brown the chicken with the onion and turmeric.",
-      "Add the rice and 1.5 cups water, and simmer, covered, 18-20 minutes until the rice is tender.",
-      "Serve hot."
+      "Brown the chicken with the onion.",
+      "Add the rice, tomatoes, turmeric, and 1.5 cups water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
       {
@@ -224,40 +223,63 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 2,
         "note": "minced"
       },
       {
-        "ingredient": "Ground cardamom",
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
         "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 12,
-        "note": "to top"
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, garlic, turmeric, and cardamom over medium-high heat, 8-10 minutes.",
-      "Add the rice and 1.75 cups water, cover, and simmer 20-25 minutes until the rice is tender and fragrant.",
-      "Top with the raisins - maqbous, spiced rice with meat, is a beloved Omani everyday dish."
+      "Brown the chicken in the oil, 8-10 minutes, then set aside.",
+      "Soften the onion and garlic, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, cinnamon, cardamom, and cloves, and cook 3-4 minutes.",
+      "Return the chicken with 1.75 cups water, the pierced dried limes, and saffron, and simmer 20-25 minutes.",
+      "Lift out the chicken, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Fluff the rice and top with the chicken - maqbous is Oman's name for the same dried-lime-and-basmati rice tradition shared across the Gulf, distinguished mainly by its own household spice ratios rather than a fundamentally different technique."
     ]
   },
   {
@@ -557,39 +579,43 @@
     "ingredients": [
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 220,
-        "note": "whole or fillet"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "White rice (dry)",
         "qty": 55,
-        "note": "cooked with lime"
-      }
-    ],
-    "steps": [
-      "Marinate the fish with the lime juice and garlic for at least 20 minutes.",
-      "Grill until charred and cooked through.",
-      "Serve over the lime rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 240,
-        "note": "whole or fillet"
+        "note": ""
       },
       {
         "ingredient": "Lime juice",
         "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.375,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Marinate the fish in the lime juice and chili powder for 15 minutes, then grill or pan-fry, 3-4 minutes per side.",
+      "Serve over the cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": "whole small fish traditionally, standing in with fillets"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
@@ -598,25 +624,27 @@
         "note": "minced"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": "cooked with lime"
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 0.8,
+        "qty": 0.375,
         "note": ""
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Marinate the fish with the lime juice, garlic, and turmeric for at least 25-30 minutes.",
-      "Grill over medium-high heat, brushing with the oil, 5-7 minutes per side, until charred and cooked through.",
-      "Serve over rice cooked with a little lime juice - mashuai, traditionally made with kingfish, is a beloved specialty of Oman's coastal Muscat region."
+      "Marinate the fish in the lime juice, garlic, chili powder, and turmeric for at least 20 minutes.",
+      "Grill or roast at 425F (220C), 15-18 minutes, until charred at the edges and cooked through.",
+      "Cook the basmati in 1.1 cups water, covered, 15-18 minutes, until tender and separate.",
+      "Fluff the rice and serve the whole spiced, charred fish over or alongside it.",
+      "Mashuai, a whole fish rubbed with chili and lime and grilled over open coals, is Oman's signature coastal dish - traditionally kingfish, whole, cooked over an open fire; the char and the lime-forward marinade are what carry the dish, not a sauce."
     ]
   },
   {
@@ -629,34 +657,7 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the chicken with the turmeric.",
-      "Add the tomatoes and 1.5 cups water, and simmer 20 minutes.",
-      "Add the rice and simmer, covered, 18-22 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 240,
+        "qty": 200,
         "note": ""
       },
       {
@@ -666,29 +667,78 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion.",
+      "Add the rice, tomatoes, paprika, and 1.5 cups water, cover, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 60,
         "note": "chopped"
       },
       {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
         "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, turmeric, and cardamom over medium-high heat, 8-10 minutes.",
-      "Add the diced tomatoes and 1.75 cups water, and simmer 20-22 minutes.",
-      "Add the rice, cover, and simmer 20-25 more minutes until the rice is tender - a homestyle Omani take on the wider Gulf's beloved spiced rice tradition."
+      "Brown the chicken in the oil, 8-10 minutes, then set aside.",
+      "Soften the onion and garlic, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, paprika, cardamom, and cinnamon, and cook 3-4 minutes.",
+      "Return the chicken with 1.75 cups water and the pierced dried limes, and simmer 20-25 minutes.",
+      "Lift out the chicken, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Fluff the rice and top with the chicken."
     ]
   },
   {
@@ -1174,7 +1224,7 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 40,
         "note": ""
       },
       {
@@ -1183,24 +1233,23 @@
         "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the sugar and saffron for 20-25 minutes until thick and creamy.",
-      "Chill or serve warm."
+      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
         "note": ""
       },
       {
@@ -1209,24 +1258,35 @@
         "note": "cup"
       },
       {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch, steeped in 1 tsp hot water"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Granulated sugar",
-        "qty": 2.5,
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
+        "ingredient": "Rosewater",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 12,
-        "note": "chopped, to top"
+        "qty": 10,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the sugar and saffron over medium-low heat, stirring often, 22-28 minutes until thick and creamy, the saffron lending a golden hue and delicate fragrance.",
-      "Top with the chopped pistachios and serve warm or chilled - a fragrant, beloved Omani dessert."
+      "Simmer the basmati in the milk with the saffron and its water, and cardamom, over low heat, stirring often, 25-28 minutes, until thick and creamy.",
+      "Stir in the sugar and rosewater.",
+      "Top with the pistachios."
     ]
   },
   {

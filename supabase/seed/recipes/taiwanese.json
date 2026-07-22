@@ -147,32 +147,6 @@
     "ingredients": [
       {
         "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped, standing in for scallion"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Soy sauce",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Soften the onion in the oil.",
-      "Scramble in the eggs and soy sauce, cooking gently until just set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
         "qty": 2.25,
         "note": ""
       },
@@ -197,10 +171,43 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Soften the onion and ginger in the oil over medium heat, 5-6 minutes.",
       "Scramble in the eggs and soy sauce, cooking gently, stirring often, until just set.",
       "Real scallion isn't in this database, so yellow onion carries a similar aromatic role here, though the flavor is milder and less sharp."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
+        "qty": 35,
+        "note": "finely chopped, standing in for scallion"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, ginger, ground",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the onion and ginger in the oil over medium heat, 5-6 minutes.",
+      "Scramble in the eggs and soy sauce, cooking gently, stirring often, until just set.",
+      "Real scallion isn't in this database, so yellow onion carries a similar aromatic role here, though the flavor is milder and less sharp.",
+      "Real scallions are used here now, giving the sharper, more specific flavor the dish actually calls for rather than yellow onion's milder substitute."
     ]
   },
   {

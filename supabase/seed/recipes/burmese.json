@@ -165,8 +165,8 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "qty": 55,
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
@@ -174,58 +174,45 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
+        "ingredient": "Fish sauce",
+        "qty": 0.75,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Fry the onion in the oil until soft.",
-      "Add the cooked rice and stir-fry 3-4 minutes.",
-      "Push to one side, scramble the egg in the same pan, then mix everything together."
+      "Stir-fry the cold rice with the scrambled egg and fish sauce."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 8,
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Fry the onion and garlic in the oil over medium heat until soft and fragrant, 3-4 minutes.",
-      "Add the cooked rice and stir-fry 4-5 minutes, breaking up any clumps.",
-      "Push the rice to one side, scramble the egg in the cleared space, then mix everything together with the soy sauce.",
-      "A simple, everyday Burmese breakfast, often made with whatever leftover rice is on hand."
+      "Scramble the egg and set aside.",
+      "Fry the garlic and turmeric briefly, then add the cold, day-old rice, breaking up clumps, and stir-fry over high heat 5-6 minutes.",
+      "Fold the egg back through, finish with the fish sauce."
     ]
   },
   {
@@ -1205,51 +1192,49 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
+        "qty": 45,
+        "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 71.0,
-        "note": ""
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Cook the rice, then stir through the sweetened coconut milk."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "soaked at least 4 hours"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.4,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Warm the coconut milk with the sugar until dissolved.",
-      "Pour over the cooked rice and mix gently.",
-      "Serve warm or at room temperature."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked, glutinous if available"
       },
       {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 82.8,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, toasted, to top"
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps_detailed": [
-      "Warm the coconut milk with the sugar over low heat until the sugar dissolves, about 2-3 minutes.",
-      "Pour over the cooked rice (traditionally glutinous rice) and mix gently to coat.",
-      "Top with the toasted shredded coconut and serve warm or at room temperature - simple, sweet, and found throughout Myanmar."
+      "Drain the soaked rice and steam in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender.",
+      "Warm the coconut milk with the sugar until dissolved, pour over the warm rice, and let absorb 10 minutes.",
+      "Top with the nuts."
     ]
   },
   {

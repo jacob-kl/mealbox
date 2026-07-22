@@ -137,59 +137,66 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "qty": 55,
+        "note": ""
       },
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "Broadbeans (fava beans), mature seeds, raw",
         "qty": 80,
-        "note": "as a fava bean stand-in"
+        "note": ""
       },
       {
         "ingredient": "Dill weed, fresh",
-        "qty": 3,
-        "note": "chopped"
+        "qty": 1.5,
+        "note": "tbsp, chopped"
       },
       {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
       }
     ],
     "steps": [
-      "Toss the rice with the beans, dill, and butter.",
-      "Serve warm."
+      "Cook the rice and simmer the fava beans separately.",
+      "Toss together with the butter and dill."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Basmati rice (dry)",
+        "qty": 70,
+        "note": ""
       },
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "Broadbeans (fava beans), mature seeds, raw",
         "qty": 90,
-        "note": "as a fava bean stand-in"
+        "note": ""
       },
       {
         "ingredient": "Dill weed, fresh",
-        "qty": 3.8,
-        "note": "chopped"
+        "qty": 2,
+        "note": "tbsp, chopped"
       },
       {
-        "ingredient": "Butter",
-        "qty": 1.25,
-        "note": "tbsp"
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
+        "ingredient": "Ground cardamom",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the rice with the beans, dill, garlic, and butter until well combined and fragrant.",
-      "Serve warm - timman bagilla, dill-scented rice with fava beans, is a beloved Iraqi comfort dish, often eaten for breakfast or alongside fish."
+      "Simmer the fava beans in water until tender, 20-22 minutes, then drain.",
+      "Separately, cook the basmati in 1.1 cups water with the cardamom, covered, 15-18 minutes, until tender.",
+      "Melt the butter and toss it through the rice along with the fava beans, dill, and pepper.",
+      "Timman bagilla, rice studded with dill and fava beans, is a genuine Iraqi specialty traditionally served for Nowruz - the dill is essential, not a garnish; it should be present through the whole dish, not scattered on top."
     ]
   },
   {
@@ -201,9 +208,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Bell pepper",
-        "qty": 150,
-        "note": "halved"
+        "ingredient": "Grape leaves, raw",
+        "qty": 120,
+        "note": "or canned"
       },
       {
         "ingredient": "White rice (dry)",
@@ -212,7 +219,7 @@
       },
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 100,
+        "qty": 90,
         "note": ""
       },
       {
@@ -222,47 +229,62 @@
       }
     ],
     "steps": [
-      "Mix the raw rice with the beef and half the tomatoes.",
-      "Stuff into the pepper halves and place in a baking dish with the remaining tomatoes.",
-      "Bake at 375F, covered, for 40-45 minutes until the rice is tender."
+      "Roll the rice and beef mixture in the grape leaves.",
+      "Simmer in the tomatoes and water, covered, 40-45 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Bell pepper",
-        "qty": 170,
-        "note": "halved"
+        "ingredient": "Grape leaves, raw",
+        "qty": 130,
+        "note": "or canned, rinsed if using canned"
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 110,
+        "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "finely chopped"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
-        "ingredient": "Dill weed, fresh",
-        "qty": 3,
-        "note": "chopped"
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 1,
+        "note": "whole, pierced"
       }
     ],
     "steps_detailed": [
-      "Mix the raw rice with the beef, garlic, and dill, and half the tomatoes.",
-      "Stuff generously into the pepper halves and arrange in a baking dish, pouring the remaining tomatoes around and over them.",
-      "Cover and bake at 375F (190C) for 42-50 minutes until the rice is tender and the peppers are soft.",
-      "Dolma, in countless vegetable and leaf variations, is a treasured Iraqi dish, often made as an elaborate mixed-vegetable spread for gatherings."
+      "If using raw grape leaves, blanch them 1-2 minutes until pliable; if using canned, just rinse well to remove excess brine.",
+      "Mix the raw rice with the beef, onion, cinnamon, and cardamom.",
+      "Lay each grape leaf vein-side up, place a small portion of filling near the stem end, fold the sides in, and roll up snugly into a tight cylinder.",
+      "Pack the rolls seam-side down into a pot, pour the tomatoes, lemon juice, and 1 cup water over, tuck in the pierced dried lime, weigh down with a small plate so they don't unravel, and simmer covered 40-45 minutes until the rice inside is fully cooked.",
+      "Dolma, meaning 'stuffed' in Turkish and shared across the whole former Ottoman sphere, is genuinely built on grape leaves in Iraq - vein-side up so the smooth side faces out, rolled tight enough that they hold together but not so tight the rice can't expand as it cooks."
     ]
   },
   {
@@ -422,34 +444,7 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 12,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the chicken with the turmeric.",
-      "Add the rice and 1.5 cups water, and simmer, covered, 18-22 minutes until tender.",
-      "Fold in the raisins before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
+        "qty": 190,
         "note": ""
       },
       {
@@ -458,9 +453,40 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 70,
+        "note": "cubed"
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion and potato.",
+      "Add the rice and 1.5 cups water, cover, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
         "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
         "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
@@ -468,20 +494,39 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
+        "ingredient": "Nuts, almonds",
+        "qty": 15,
+        "note": ""
       },
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 12,
-        "note": "chopped, to top"
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion and turmeric over medium-high heat, 8-10 minutes.",
-      "Add the rice and 1.75 cups water, cover, and simmer 20-25 minutes until the rice is tender and fragrant.",
-      "Fold in the raisins and top with the walnuts - Iraqi biryani, reflecting deep historical trade ties with South Asia, is a beloved festive dish."
+      "Fry the potato cubes in half the oil until golden, 6-8 minutes; set aside.",
+      "Brown the chicken in the remaining oil, 8-10 minutes, then set aside.",
+      "Deeply caramelize the onion in the same pot, 10-12 minutes, until a rich golden-brown - Iraqi biryani leans on this heavily caramelized onion for its color and sweetness more than curry spice.",
+      "Return the chicken and potato with the cinnamon, cardamom, saffron, and 1.75 cups water, cover, and simmer 20-22 minutes.",
+      "Stir in the rice, cover, and cook over low heat 15-18 minutes until tender.",
+      "Fluff the rice, top with the raisins and almonds.",
+      "Iraqi biryani, shaped by Ottoman and Persian influence, is drier and more onion-forward than Indian-style biryani, and typically skips the layered dum-cooking method in favor of everything finishing together in one pot."
     ]
   },
   {
@@ -568,35 +613,8 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 220,
-        "note": "formed into a small roast"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 200,
         "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 12,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Season the lamb with the turmeric and roast at 350F for 40-45 minutes until tender.",
-      "Cook the rice separately and fold in the raisins.",
-      "Serve the lamb over the rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 240,
-        "note": "formed into a small roast"
       },
       {
         "ingredient": "White rice (dry)",
@@ -604,8 +622,39 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the onion and cinnamon.",
+      "Add the rice and 1.5 cups water, cover, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a few large chunks"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 15,
         "note": ""
       },
       {
@@ -614,20 +663,28 @@
         "note": ""
       },
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 12,
-        "note": "chopped, to top"
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.25,
+        "qty": 0.375,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Season the lamb thoroughly with the turmeric and cardamom, and roast at 350F (175C) for 42-50 minutes until deeply tender.",
-      "Cook the rice separately and fold in the raisins.",
-      "Serve the lamb over the spiced rice, topped with the walnuts - quzi, whole roasted lamb over richly spiced rice, is Iraq's festive centerpiece dish for celebrations."
+      "Brown the lamb with the onion in the oil, 9-11 minutes.",
+      "Add the cinnamon, cardamom, and 2 cups water, cover, and simmer 35-40 minutes until very tender.",
+      "Lift out the lamb, stir the rice into the liquid, cover, and cook over low heat 18-20 minutes.",
+      "Toast the almonds, 2-3 minutes, until golden.",
+      "Mound the rice, top with the lamb, scatter with almonds and raisins.",
+      "Quzi, whole lamb over rice with nuts and dried fruit, is Iraq's counterpart to the Gulf's ghuzi - the same celebratory logic of slow-cooked meat over richly spiced rice, under a different name."
     ]
   },
   {
@@ -1151,24 +1208,24 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Nuts, almonds",
+        "qty": 10,
+        "note": "slivered"
       }
     ],
     "steps": [
-      "Simmer the rice in 1.5 cups water with the sugar, saffron, and butter for 20-25 minutes until tender and golden.",
-      "Serve warm."
+      "Cook the rice, then stir in the sugar and cinnamon while warm.",
+      "Top with the almonds."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
         "note": ""
       },
       {
@@ -1178,23 +1235,30 @@
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
+        "qty": 1,
+        "note": "pinch, steeped in 1 tbsp hot water"
       },
       {
-        "ingredient": "Butter",
-        "qty": 1.25,
-        "note": "tbsp"
+        "ingredient": "Nuts, almonds",
+        "qty": 12,
+        "note": "slivered"
       },
       {
         "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 12,
-        "note": "chopped, to top"
+        "qty": 10,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in 1.75 cups water with the sugar, saffron, and butter over medium-low heat, stirring occasionally, 22-28 minutes until tender and richly golden.",
-      "Top with the chopped pistachios and serve warm - zerda, saffron-sweetened rice, is a treasured Iraqi dessert for celebrations."
+      "Cook the basmati in 1.2 cups water until just tender, 15-18 minutes.",
+      "Stir in the sugar, saffron and its soaking water, and butter while still warm, until the rice turns a deep golden color and glistens.",
+      "Top generously with the almonds and pistachios.",
+      "Zerda, sweet saffron rice studded with nuts, is served at celebrations and religious occasions across Iraq - it's a rice dish eaten as a dessert in its own right, not a side, and the color should be a genuine, deep saffron gold, not a pale yellow."
     ]
   },
   {

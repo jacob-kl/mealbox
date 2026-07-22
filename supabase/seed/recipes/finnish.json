@@ -739,7 +739,7 @@
       {
         "ingredient": "White rice (dry)",
         "qty": 40,
-        "note": "cooked into a soft porridge for the filling"
+        "note": "cooked into porridge"
       },
       {
         "ingredient": "Whole milk (generic)",
@@ -747,9 +747,9 @@
         "note": "cup"
       },
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Bob's Red Mill Organic Dark Rye Flour",
         "qty": 35,
-        "note": "for the crust"
+        "note": ""
       },
       {
         "ingredient": "Butter, salted",
@@ -758,8 +758,8 @@
       }
     ],
     "steps": [
-      "Simmer the rice in the milk until it breaks down into a very soft porridge, about 20 minutes.",
-      "Make a simple dough from the flour, butter, and a little water, roll thin into small ovals, fill with the rice porridge, pinch the edges, and bake at 425F for 15-18 minutes."
+      "Simmer the rice in the milk until thick.",
+      "Mix the rye flour into a thin dough, shape into small boats, fill with the porridge, and bake at 450F for 12-15 minutes."
     ],
     "ingredients_full": [
       {
@@ -773,26 +773,28 @@
         "note": "cup"
       },
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Bob's Red Mill Organic Dark Rye Flour",
         "qty": 40,
         "note": "for the crust"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
+        "qty": 15,
+        "note": "melted, plus more for the butter-egg topping"
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 0.5,
-        "note": "hard-boiled and mashed, for a traditional topping"
+        "note": "hard-boiled and mashed, for the traditional munavoi topping"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk over low heat, stirring often, 22-25 minutes, until it breaks down into a very soft, thick porridge.",
-      "Make a simple, firm dough from the flour, butter, and a little water, and roll thin into small oval shapes.",
-      "Fill each with the rice porridge, pinch the edges up into the classic open, crimped shape, and bake at 425F (220C) for 16-20 minutes until the edges are golden.",
-      "Serve topped with the mashed egg, mixed with a little of the remaining butter - karjalanpiirakka, Karelian pasties, are traditionally made with a rye crust; rye flour isn't in this database, so a plain flour crust carries the shape and filling instead."
+      "Simmer the rice in the milk over low heat, stirring often, 25-28 minutes, until it breaks down into a thick, soft porridge; cool slightly.",
+      "Mix the rye flour with a little water and a pinch of the butter into a firm, thin dough - real rye flour, with barely any gluten, makes a dough that's much more fragile and short than wheat flour, and needs to be handled gently.",
+      "Roll the dough very thin and cut into small oval shapes, pinching up the edges to form a shallow boat shape.",
+      "Fill each with the rice porridge and bake at 450F (230C) for 12-15 minutes until the edges are browned and slightly crisp.",
+      "Mash the hard-boiled egg into the melted butter to make munavoi, and spread over the warm pastries before serving.",
+      "Karjalanpiirakka, rice porridge in a thin rye crust, is one of Finland's most iconic foods - the rye crust is the entire identity of the dish; a wheat-flour crust would just be a different, blander pastry wearing the same name."
     ]
   },
   {

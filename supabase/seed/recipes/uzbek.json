@@ -204,38 +204,6 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrots, baby, raw",
-        "qty": 90,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 20,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the lamb with the onion until deeply caramelized, about 12-15 minutes.",
-      "Layer in the carrots and cook 8-10 more minutes until softened.",
-      "Add the rice, raisins, and 2 cups water, cover, and simmer 22-25 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
         "qty": 210,
         "note": ""
       },
@@ -270,11 +238,55 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Brown the lamb with the onion over medium-high heat, 13-16 minutes, until the onion is deeply caramelized and the lamb well browned.",
       "Layer in the carrots and cumin and cook 9-11 more minutes, without stirring too much, until the carrots have softened and taken on color.",
       "Add the rice, raisins, whole garlic cloves, and 2.25 cups water, cover, and simmer 24-28 minutes without stirring until the rice is fully tender and has absorbed the broth.",
       "Osh, known internationally as plov, is Uzbekistan's most famous dish by far - so central to national identity that it has its own UNESCO cultural heritage recognition, and whole garlic heads are traditionally buried directly into the rice to soften and mellow as it cooks."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrots, baby, raw",
+        "qty": 100,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 55,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "whole cloves, left unpeeled"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion over medium-high heat, 13-16 minutes, until the onion is deeply caramelized and the lamb well browned.",
+      "Layer in the carrots and cumin and cook 9-11 more minutes, without stirring too much, until the carrots have softened and taken on color.",
+      "Add the rice, raisins, whole garlic cloves, and 2.25 cups water, cover, and simmer 24-28 minutes without stirring until the rice is fully tender and has absorbed the broth.",
+      "Osh, known internationally as plov, is Uzbekistan's most famous dish by far - so central to national identity that it has its own UNESCO cultural heritage recognition, and whole garlic heads are traditionally buried directly into the rice to soften and mellow as it cooks.",
+      "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
     ]
   },
   {
@@ -564,33 +576,6 @@
     "ingredients": [
       {
         "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrots, baby, raw",
-        "qty": 80,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion until caramelized.",
-      "Add the carrots and cook until softened.",
-      "Add the rice and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
         "qty": 210,
         "note": ""
       },
@@ -620,10 +605,48 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Brown the beef with the onion over medium-high heat, 10-12 minutes, until well caramelized.",
       "Add the carrots, garlic, and cumin, and cook 7-9 more minutes until softened.",
       "Add the rice and 2 cups water, cover, and simmer 24-28 minutes until the rice is tender - the beef version of plov is more common for everyday cooking, with lamb reserved for special occasions."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrots, baby, raw",
+        "qty": 90,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion over medium-high heat, 10-12 minutes, until well caramelized.",
+      "Add the carrots, garlic, and cumin, and cook 7-9 more minutes until softened.",
+      "Add the rice and 2 cups water, cover, and simmer 24-28 minutes until the rice is tender - the beef version of plov is more common for everyday cooking, with lamb reserved for special occasions.",
+      "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
     ]
   },
   {
@@ -1101,31 +1124,36 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 5,
+        "note": ""
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1151,7 +1179,8 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
+      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Osh (Uzbek plov) is traditionally built on devzira rice; basmati is the closest widely-available approximation, keeping the same separate, non-clumping grain structure."
     ]
   },
   {

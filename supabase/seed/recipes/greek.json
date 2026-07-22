@@ -213,18 +213,17 @@
       },
       {
         "ingredient": "Cheese, feta",
-        "qty": 50,
-        "note": ""
+        "qty": 55,
+        "note": "crumbled"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Toss the cucumber and tomatoes with the oil.",
-      "Top with a slab of the feta."
+      "Toss everything together with the oil."
     ],
     "ingredients_full": [
       {
@@ -239,12 +238,17 @@
       },
       {
         "ingredient": "Cheese, feta",
-        "qty": 60,
+        "qty": 70,
+        "note": "left in a single slab, not crumbled"
+      },
+      {
+        "ingredient": "Olives, ripe, canned (small-extra large)",
+        "qty": 40,
         "note": ""
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.75,
+        "qty": 2,
         "note": "tbsp"
       },
       {
@@ -254,8 +258,9 @@
       }
     ],
     "steps_detailed": [
-      "Toss the cucumber and tomatoes with the oil and oregano.",
-      "Top with a full slab of feta rather than crumbling it in, matching how it's traditionally served - a Greek salad, at its simplest, is really about the vegetables and the cheese, not the dressing. Olive oil isn't in this database, so vegetable oil carries the dish here instead."
+      "Toss the cucumber, tomatoes, and olives with the oil and oregano.",
+      "Top with a whole slab of feta rather than crumbling it in - a real horiatiki salad serves the cheese as one intact piece on top, which the eater breaks apart themselves.",
+      "Real Greek salad is built on kalamata-style olives specifically, whose brininess is part of the dish's whole balance - without olives, this was really just a chopped vegetable salad with feta, missing the ingredient the dish is named for as much as the cheese is."
     ]
   },
   {
@@ -477,13 +482,13 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 180,
+        "qty": 190,
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 130,
-        "note": "thinly sliced"
+        "ingredient": "Eggplant, raw",
+        "qty": 140,
+        "note": "sliced"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -493,12 +498,13 @@
       {
         "ingredient": "Cheese, feta",
         "qty": 30,
-        "note": "crumbled, for the topping"
+        "note": "crumbled"
       }
     ],
     "steps": [
+      "Fry the eggplant.",
       "Brown the lamb with the tomatoes.",
-      "Layer with the sliced potato in a small dish, top with the feta, and bake at 375F for 30-35 minutes until the potato is tender."
+      "Layer eggplant, then lamb, top with feta, and bake at 375F for 25-30 minutes."
     ],
     "ingredients_full": [
       {
@@ -507,9 +513,9 @@
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 145,
-        "note": "thinly sliced"
+        "ingredient": "Eggplant, raw",
+        "qty": 160,
+        "note": "sliced"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -517,25 +523,48 @@
         "note": ""
       },
       {
-        "ingredient": "Cheese, feta",
-        "qty": 35,
-        "note": "crumbled, for the topping"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Yellow onion",
         "qty": 30,
         "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 30,
+        "note": "crumbled, standing in for kefalotyri or kasseri"
       }
     ],
     "steps_detailed": [
-      "Brown the lamb with the onion, tomatoes, and cinnamon over medium-high heat, 9-11 minutes.",
-      "Layer with the sliced potato in a small baking dish, top with the feta, and bake at 375F (190C) for 32-38 minutes until the potato is fully tender.",
-      "Traditional moussaka is built on eggplant, which isn't in this database - potato carries the layered structure of the dish here instead, a substitution some regional Greek versions actually make too."
+      "Salt the eggplant slices and let them sit 15 minutes to draw out bitterness, then pat dry and pan-fry in a little oil until golden on both sides; set aside.",
+      "Brown the lamb with the onion and cinnamon, 8-10 minutes, then add the tomatoes and simmer 10 minutes into a thick ragu.",
+      "Make a bechamel: melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk and simmer, stirring, until thick; off the heat, whisk in the egg and half the feta.",
+      "Layer the fried eggplant on the bottom of a small baking dish, the meat ragu over it, and the bechamel poured over the top, finishing with the remaining feta.",
+      "Bake at 375F (190C) for 30-35 minutes until the top is set and deeply golden.",
+      "Moussaka's identity rests on two things this recipe was missing entirely: eggplant, not potato, as the base vegetable, and a proper egg-enriched bechamel on top rather than a sprinkle of cheese - the earlier potato-and-cheese version was closer to a different dish wearing moussaka's name."
     ]
   },
   {

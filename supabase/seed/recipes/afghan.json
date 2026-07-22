@@ -204,33 +204,6 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 180,
-        "note": "formed into a small roast-style portion"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrots, baby, raw",
-        "qty": 50,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 20,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Roast the lamb at 375F for 20-22 minutes until browned.",
-      "Saute the carrots until softened and lightly caramelized, 8-10 minutes.",
-      "Cook the rice, then layer with the carrots and raisins, and serve with the lamb."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
         "qty": 200,
         "note": "formed into a small roast-style portion"
       },
@@ -260,11 +233,50 @@
         "note": "slivered, to top"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Roast the lamb, seasoned with the cardamom, at 375F (190C) for 22-26 minutes until well browned and cooked through.",
       "Saute the carrots until softened and lightly caramelized, 9-11 minutes, with the raisins added in the last 2 minutes to plump.",
       "Cook the rice, layer with the carrot-raisin mixture and slivered almonds, and serve with the lamb.",
       "Kabuli pulao, Afghanistan's national dish, is instantly recognizable by its sweet, jewel-toned topping of caramelized carrot and raisin over rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": "formed into a small roast-style portion"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrots, baby, raw",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 10,
+        "note": "slivered, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Roast the lamb, seasoned with the cardamom, at 375F (190C) for 22-26 minutes until well browned and cooked through.",
+      "Saute the carrots until softened and lightly caramelized, 9-11 minutes, with the raisins added in the last 2 minutes to plump.",
+      "Cook the rice, layer with the carrot-raisin mixture and slivered almonds, and serve with the lamb.",
+      "Kabuli pulao, Afghanistan's national dish, is instantly recognizable by its sweet, jewel-toned topping of caramelized carrot and raisin over rice.",
+      "Afghan pulao is traditionally built on long-grain rice, often a specific variety like sela, which basmati approximates far better than generic rice."
     ]
   },
   {
@@ -1027,31 +1039,37 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
       },
       {
         "ingredient": "Rosewater",
-        "qty": 0.25,
+        "qty": 0.375,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the cardamom and rosewater for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the cardamom and rosewater over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Top with the chopped pistachios - sheer berenj, fragrant with rosewater and cardamom, is a beloved Afghan celebration dessert."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1078,7 +1096,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the cardamom and rosewater over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the chopped pistachios - sheer berenj, fragrant with rosewater and cardamom, is a beloved Afghan celebration dessert."
+      "Top with the chopped pistachios - sheer berenj, fragrant with rosewater and cardamom, is a beloved Afghan celebration dessert.",
+      "Afghan pulao is traditionally built on long-grain rice, often a specific variety like sela, which basmati approximates far better than generic rice."
     ]
   },
   {

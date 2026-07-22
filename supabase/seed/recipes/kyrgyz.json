@@ -325,32 +325,6 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrots, baby, raw",
-        "qty": 50,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Brown the lamb with the onion and carrots.",
-      "Add the rice and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
         "qty": 200,
         "note": ""
       },
@@ -380,9 +354,46 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Brown the lamb with the onion, carrots, garlic, and cumin over medium-high heat, 9-11 minutes.",
       "Add the rice and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrots, baby, raw",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion, carrots, garlic, and cumin over medium-high heat, 9-11 minutes.",
+      "Add the rice and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender.",
+      "Plov's rice needs to stay separate and distinct after cooking, which basmati manages far better than a plain short-grain rice would."
     ]
   },
   {
@@ -1049,31 +1060,36 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 5,
+        "note": ""
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1099,7 +1115,8 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
+      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
+      "Plov's rice needs to stay separate and distinct after cooking, which basmati manages far better than a plain short-grain rice would."
     ]
   },
   {

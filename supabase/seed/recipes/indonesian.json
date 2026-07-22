@@ -9,39 +9,54 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "qty": 55,
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": "fried, to top"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 10,
         "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps": [
-      "Fry the onion, then add the rice and stir-fry 3-4 minutes with the soy sauce.",
-      "Fry the egg separately and place on top."
+      "Stir-fry the cold rice with the garlic and soy sauce.",
+      "Top with a fried egg."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled, ideally a day ahead"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": "fried, to top"
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Shrimp paste",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
         "ingredient": "Yellow onion",
@@ -49,30 +64,23 @@
         "note": "chopped"
       },
       {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
+        "ingredient": "Soy sauce",
         "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Palm sugar",
+        "qty": 5,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Fry the onion, garlic, and jalapeno in the oil until fragrant, 3-4 minutes.",
-      "Add the cooked rice and soy sauce, and stir-fry 4-5 minutes over high heat until well combined and slightly crisp in spots.",
-      "Fry the egg separately and place on top - nasi goreng is often called Indonesia's national dish, eaten any time of day but especially for breakfast."
+      "Mash the shrimp paste with the garlic, onion, and chili into a rough paste - traditionally pounded in a mortar, this is the aromatic base the whole dish is built on and shouldn't be skipped even in small quantity.",
+      "Fry the paste in a little oil until fragrant, 2-3 minutes.",
+      "Add the cold, day-old rice, breaking up clumps, and stir-fry over high heat 5-6 minutes.",
+      "Stir in the soy sauce and palm sugar.",
+      "Fry the egg separately, sunny-side up, and top the rice with it.",
+      "Nasi goreng's dark color and savory depth come specifically from shrimp paste and sweet soy - without them it's simply fried rice with vegetables, missing the ingredient that actually defines the dish across Indonesia."
     ]
   },
   {
@@ -85,65 +93,65 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 0.75,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice and chicken with the turmeric in 2.5 cups water for 30-35 minutes.",
+      "Shred the chicken through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 100,
-        "note": "shredded"
+        "qty": 140,
+        "note": ""
       },
       {
-        "ingredient": "Chicken broth",
+        "ingredient": "Garlic clove",
         "qty": 1.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 8,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the broth with the chicken for 30-35 minutes, stirring occasionally, until thick and porridge-like.",
-      "Shred the chicken back in and season with the soy sauce."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 110,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Soy sauce made from soy (tamari)",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Ginger root, raw",
-        "qty": 8,
         "note": "minced"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped, to top"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Soy sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "thinly sliced, fried until crisp"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice and ginger in the broth with the chicken for 32-40 minutes, stirring occasionally, until the rice has broken down into a thick, creamy porridge.",
-      "Remove the chicken, shred it, and stir back in with the soy sauce.",
-      "Top with cilantro and serve hot - Indonesia's beloved chicken rice porridge, a breakfast staple."
+      "Simmer the rice with the chicken, garlic, and turmeric in 3 cups water over low heat, stirring occasionally, 35-40 minutes, until the rice breaks down into a thick, smooth porridge.",
+      "Shred the chicken back through and season with the soy sauce.",
+      "Top with the crisp-fried onion."
     ]
   },
   {
@@ -1157,51 +1165,50 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Bananas, raw",
-        "qty": 120,
-        "note": "whole, peeled"
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 90,
+        "note": "sliced"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 20,
-        "note": "as sticky rice flour, ground"
+        "ingredient": "Rice flour, white, unenriched",
+        "qty": 25,
+        "note": ""
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.125,
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.2,
         "note": "cup"
       }
     ],
     "steps": [
-      "Mix the ground rice with a little water into a thick batter.",
-      "Coat the banana in the batter, boil for 5-6 minutes, then roll in the shredded coconut."
+      "Dip the plantain in the rice flour batter and simmer 5-6 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Bananas, raw",
-        "qty": 130,
-        "note": "whole, peeled"
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 100,
+        "note": "sliced"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 25,
-        "note": "as sticky rice flour, ground"
+        "ingredient": "Rice flour, white, unenriched",
+        "qty": 30,
+        "note": ""
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.1875,
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.25,
         "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tbsp, mixed with the coconut"
+        "ingredient": "Coconut meat, raw",
+        "qty": 25,
+        "note": "grated, to coat"
       }
     ],
     "steps_detailed": [
-      "Grind the rice into a fine flour and mix with enough water to form a thick, smooth batter.",
-      "Coat the whole peeled banana in the batter and boil for 6-8 minutes until the coating is cooked through.",
-      "Roll immediately in the shredded coconut mixed with sugar - a beloved Balinese sweet snack, coconut-coated boiled banana."
+      "Dip the plantain slices in a thin batter made from the rice flour and coconut milk.",
+      "Simmer in gently boiling water 5-6 minutes until the coating is cooked through and the plantain is tender.",
+      "Roll the warm pieces in the grated fresh coconut to coat."
     ]
   },
   {
@@ -1217,48 +1224,48 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Rice flour, white, unenriched",
         "qty": 40,
-        "note": "as glutinous rice flour, ground"
+        "note": ""
       },
       {
-        "ingredient": "Brown sugar",
-        "qty": 2,
-        "note": "tbsp, chopped small, for the filling"
+        "ingredient": "Palm sugar",
+        "qty": 18,
+        "note": "chopped small"
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.125,
-        "note": "cup, for rolling"
+        "ingredient": "Coconut meat, raw",
+        "qty": 20,
+        "note": "grated"
       }
     ],
     "steps": [
-      "Grind the rice into a fine flour and mix with enough water to form a soft, pliable dough.",
-      "Wrap small portions around a bit of the brown sugar, sealing completely.",
-      "Boil until they float, about 5-6 minutes, then roll in the shredded coconut."
+      "Wrap the dough around the palm sugar, seal well, and boil until they float, 4-5 minutes.",
+      "Roll in the coconut."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Glutinous rice (dry)",
         "qty": 45,
-        "note": "as glutinous rice flour, ground"
+        "note": "ground into flour, or use rice flour"
       },
       {
-        "ingredient": "Brown sugar",
-        "qty": 2.5,
-        "note": "tbsp, chopped small, for the filling"
+        "ingredient": "Palm sugar",
+        "qty": 20,
+        "note": "chopped small, for the filling"
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.1875,
-        "note": "cup, for rolling"
+        "ingredient": "Coconut meat, raw",
+        "qty": 25,
+        "note": "grated, to coat"
       }
     ],
     "steps_detailed": [
-      "Grind the rice into a fine flour (or use pre-made glutinous rice flour if available) and mix with enough water to form a soft, pliable dough.",
-      "Take small portions of dough, flatten, wrap around a small piece of chopped brown sugar, and seal completely, rolling into smooth balls.",
-      "Boil in water until they float to the surface, 5-7 minutes, indicating they're cooked through.",
-      "Drain and immediately roll in the shredded coconut - klepon is a beloved Indonesian sweet, famous for its molten palm sugar center that bursts when bitten."
+      "Mix the glutinous rice flour with warm water into a soft, pliable dough.",
+      "Pinch off small pieces, flatten, and wrap each around a small piece of palm sugar, rolling into a smooth ball and sealing well so none of the sugar leaks out.",
+      "Boil in water 4-5 minutes until they float, then drain.",
+      "Roll the warm balls in the grated coconut.",
+      "Klepon's whole appeal is the burst of molten palm sugar when you bite into it - the wrap needs to be sealed completely, or the sugar leaks out into the boiling water instead of staying inside."
     ]
   },
   {

@@ -76,7 +76,7 @@
     ]
   },
   {
-    "name": "Honduran Tapado Costeño",
+    "name": "Honduran Tapado Coste\u00f1o",
     "cuisine": "honduran",
     "meal_type": "dinner",
     "course": "complete",
@@ -394,27 +394,6 @@
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, baked",
-        "qty": 150,
-        "note": "sliced, pan-fried"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
-        "qty": 20,
-        "note": "as a crema stand-in"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps": [
-      "Fry the plantain slices in the oil until golden.",
-      "Serve with a dollop of cream."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, baked",
         "qty": 170,
         "note": "sliced, pan-fried"
       },
@@ -429,9 +408,31 @@
         "note": "tbsp, for frying"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Fry the plantain slices in the oil over medium heat, 3-5 minutes per side, until deeply golden and caramelized.",
       "Serve warm with a generous dollop of cream - fried plantains with crema are a common, comforting Honduran breakfast."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 170,
+        "note": "sliced, pan-fried"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 25,
+        "note": "as a crema stand-in"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices in the oil over medium heat, 3-5 minutes per side, until deeply golden and caramelized.",
+      "Serve warm with a generous dollop of cream - fried plantains with crema are a common, comforting Honduran breakfast.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -444,27 +445,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
-        "qty": 1,
-        "note": "tortilla, fried flat and crisp"
-      },
-      {
-        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 1,
-        "note": "oz"
-      }
-    ],
-    "steps": [
-      "Fry the tortilla until crisp.",
-      "Spread with the refried beans and top with the queso fresco."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
         "qty": 1.25,
@@ -486,10 +466,38 @@
         "note": "as a crema stand-in, to top"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Fry the tortilla in a little oil until crisp and flat.",
       "Spread generously with the refried beans, then top with the crumbled queso fresco and a drizzle of cream.",
       "Catrachas, named affectionately for Hondurans themselves, are a simple, beloved everyday snack-lunch."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Cassava Flour Grain Free Tortillas, Cassava Flour",
+        "qty": 1.25,
+        "note": "tortilla, fried flat and crisp"
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 10,
+        "note": "as a crema stand-in, to top"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the tortilla in a little oil until crisp and flat.",
+      "Spread generously with the refried beans, then top with the crumbled queso fresco and a drizzle of cream.",
+      "Catrachas, named affectionately for Hondurans themselves, are a simple, beloved everyday snack-lunch.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -699,7 +707,7 @@
     ]
   },
   {
-    "name": "Honduran Carne Asada Hondureña",
+    "name": "Honduran Carne Asada Hondure\u00f1a",
     "cuisine": "honduran",
     "meal_type": "dinner",
     "course": "complete",
@@ -924,27 +932,6 @@
     "ingredients": [
       {
         "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 1,
-        "note": "oz"
-      }
-    ],
-    "steps": [
-      "Warm the tortilla.",
-      "Spread with the refried beans and top with the crumbled queso fresco, folding closed."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
         "qty": 1.25,
         "note": ""
       },
@@ -964,10 +951,38 @@
         "note": "as a crema stand-in"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Warm the tortilla until soft and pliable.",
       "Spread with the refried beans, then the crumbled queso fresco and a drizzle of cream, folding in half.",
       "A simpler version of the classic baleada, eaten any time of day as a quick snack across Honduras."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Frijoles rojos volteados (Refried beans, red, canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.25,
+        "note": "oz"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 10,
+        "note": "as a crema stand-in"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the tortilla until soft and pliable.",
+      "Spread with the refried beans, then the crumbled queso fresco and a drizzle of cream, folding in half.",
+      "A simpler version of the classic baleada, eaten any time of day as a quick snack across Honduras.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -1032,7 +1047,7 @@
     ]
   },
   {
-    "name": "Honduran Torrejas Hondureñas",
+    "name": "Honduran Torrejas Hondure\u00f1as",
     "cuisine": "honduran",
     "meal_type": "dessert",
     "course": "side",
@@ -1309,7 +1324,7 @@
     ]
   },
   {
-    "name": "Honduran Crema Hondureña",
+    "name": "Honduran Crema Hondure\u00f1a",
     "cuisine": "honduran",
     "meal_type": "sauce",
     "course": "side",

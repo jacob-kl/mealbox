@@ -483,7 +483,7 @@
       },
       {
         "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 60,
         "note": ""
       },
       {
@@ -492,15 +492,14 @@
         "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
       }
     ],
     "steps": [
-      "Brown the chicken, then add 1.5 cups water and simmer 15 minutes.",
-      "Add the rice and simmer, covered, 18-20 minutes until tender.",
-      "Fold in the raisins and butter before serving."
+      "Brown the chicken with the onion.",
+      "Add the rice, raisins, and 1.5 cups water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
       {
@@ -509,8 +508,8 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
         "note": ""
       },
       {
@@ -519,25 +518,33 @@
         "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
       },
       {
         "ingredient": "Saffron threads",
         "qty": 1,
-        "note": "pinch"
+        "note": "pinch, steeped in 2 tbsp hot water"
       },
       {
         "ingredient": "Nuts, walnuts, english",
         "qty": 15,
         "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken, then add 1.75 cups water and the saffron, and simmer 15-18 minutes.",
-      "Add the rice, cover, and simmer 20-25 minutes until tender and fragrant.",
-      "Fold in the raisins and butter, and top with the walnuts before serving - plov, saffron rice with meat and dried fruit, is Azerbaijan's most iconic dish, with dozens of regional variations."
+      "Brown the chicken with the onion in half the butter, 8-10 minutes.",
+      "Add 1.75 cups water and the raisins, and simmer 15-18 minutes until the chicken is cooked through.",
+      "Parboil the basmati separately in salted water 6-7 minutes until still firm in the center, then drain.",
+      "Melt the remaining butter in a heavy pot, layer in the parboiled rice, drizzle with the saffron water, cover with a towel-wrapped lid, and steam over low heat 20-22 minutes until a golden crust forms on the bottom.",
+      "Serve the rice with its crust alongside the chicken, topped with the walnuts.",
+      "Azerbaijani plov shares its parboil-then-steam technique and prized golden bottom crust (qazmaq) with Persian chelo - the two rice traditions sit right next to each other geographically and it shows in the method, not just the ingredients."
     ]
   },
   {

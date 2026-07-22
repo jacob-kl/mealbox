@@ -87,70 +87,66 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1.5,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps": [
+      "Simmer the rice and chicken together in 2.5 cups water for 30-35 minutes until thick.",
+      "Shred the chicken through and season with fish sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jasmine rice (dry)",
         "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 100,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the broth with the chicken and onion for 30-35 minutes, stirring occasionally, until thick and porridge-like.",
-      "Shred the chicken back into the porridge before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "qty": 130,
         "note": ""
       },
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 110,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Ginger root, raw",
-        "qty": 8,
+        "ingredient": "Garlic clove",
+        "qty": 1,
         "note": "minced"
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.16666666666666666,
-        "note": ""
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped, to top"
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "thinly sliced, fried until crisp"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice, chicken, onion, and ginger in the broth for 32-40 minutes, stirring occasionally, until the rice has broken down into a thick, creamy porridge.",
-      "Remove the chicken, shred it, and stir back in along with the fish sauce.",
-      "Top with cilantro and serve hot - a comforting, everyday Cambodian breakfast."
+      "Simmer the jasmine rice with the chicken and garlic in 3 cups water over low heat, stirring occasionally, 35-40 minutes, until the rice breaks down into a thick, smooth porridge and the chicken is very tender.",
+      "Shred the chicken back into the porridge and season with the fish sauce.",
+      "Top with the cilantro and crisp-fried onion.",
+      "Bobor, Cambodia's everyday rice porridge, uses ordinary jasmine rice cooked down far past normal doneness - jasmine's soft texture and mild fragrance suit this style of long, gentle simmering better than a firmer grain would."
     ]
   },
   {
@@ -163,54 +159,53 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Fish sauce",
-        "qty": 0.3333333333333333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Fry the onion, then add the rice and stir-fry 3-4 minutes.",
-      "Push aside, scramble the egg, then mix everything together with the fish sauce."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
         "qty": 55,
-        "note": "cooked"
+        "note": "cooked and cooled"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "qty": 2,
         "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.4166666666666667,
-        "note": ""
+        "qty": 0.75,
+        "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      }
+    ],
+    "steps": [
+      "Scramble the eggs, then stir-fry with the cold rice and garlic, finishing with the fish sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 60,
+        "note": "cooked and cooled, ideally a day ahead"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
       },
       {
         "ingredient": "Vegetable oil",
@@ -219,10 +214,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the onion and garlic in the oil until soft and fragrant, 3-4 minutes.",
-      "Add the cooked rice and stir-fry 4-5 minutes, breaking up clumps.",
-      "Push the rice aside, scramble the egg in the cleared space, then mix everything together with the fish sauce.",
-      "A simple, everyday Cambodian breakfast made with leftover rice."
+      "Scramble the eggs in a little of the oil, break into small curds, and set aside.",
+      "Fry the garlic and onion in the remaining oil until fragrant, 2-3 minutes.",
+      "Add the cold, cooked jasmine rice, breaking up any clumps, and stir-fry over high heat 5-6 minutes - day-old rice fries drier and separates far better than fresh rice, which tends to clump and steam instead of frying.",
+      "Fold the egg back through, finish with the fish sauce."
     ]
   },
   {
@@ -379,14 +374,14 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 180,
-        "note": "thinly sliced"
+        "ingredient": "Pork, fresh, belly, raw",
+        "qty": 190,
+        "note": ""
       },
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
+        "qty": 55,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
@@ -394,26 +389,25 @@
         "note": "minced"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 0.3333333333333333,
-        "note": ""
+        "ingredient": "Fish sauce",
+        "qty": 1.25,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Marinate the pork with the garlic and sugar for 15-20 minutes.",
-      "Grill or pan-fry until well caramelized and cooked through, about 4-5 minutes per side.",
-      "Serve sliced over the rice."
+      "Marinate the pork in the garlic and fish sauce, then grill or pan-fry, 5-6 minutes per side.",
+      "Serve over the cooked rice."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Pork shoulder (raw)",
+        "ingredient": "Pork, fresh, belly, raw",
         "qty": 200,
-        "note": "thinly sliced"
+        "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked"
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 65,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
@@ -421,25 +415,27 @@
         "note": "minced"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 0.4166666666666667,
-        "note": ""
-      },
-      {
         "ingredient": "Fish sauce",
-        "qty": 0.3333333333333333,
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Palm sugar",
+        "qty": 15,
         "note": ""
       },
       {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 23.7,
-        "note": ""
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 60,
+        "note": "sliced, to serve"
       }
     ],
     "steps_detailed": [
-      "Marinate the thinly sliced pork with the garlic, sugar, fish sauce, and coconut milk for at least 20-30 minutes.",
-      "Grill over medium-high heat, or pan-fry, 4-6 minutes per side, until well caramelized on the edges and cooked through.",
-      "Slice and serve over the rice, traditionally with pickled vegetables and a light broth on the side - a beloved Cambodian breakfast-lunch dish, grilled pork and rice."
+      "Marinate the pork in the garlic, fish sauce, and palm sugar for at least 20 minutes, or overnight for best flavor.",
+      "Grill or pan-fry over medium-high heat, turning occasionally, 10-12 minutes, until deeply caramelized outside and cooked through - the sugar in the marinade should char slightly at the edges, which is meant to happen, not a sign of burning.",
+      "Cook the jasmine rice separately, 15-18 minutes.",
+      "Slice the pork thin and serve over the rice with the cucumber alongside.",
+      "Bai sach chrouk, grilled pork over rice, is Cambodia's most common breakfast, traditionally sold from morning street carts - the marinade's sweetness and the char it produces on the grill are the whole flavor of the dish."
     ]
   },
   {
@@ -608,69 +604,68 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Green beans",
-        "qty": 80,
-        "note": "trimmed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.25,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Brown the pork with the onion.",
-      "Add the broth and green beans, and simmer 30-35 minutes until everything is tender.",
-      "Serve with rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 170,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Green beans",
-        "qty": 90,
-        "note": "trimmed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Fish sauce",
-        "qty": 0.3333333333333333,
+        "ingredient": "Ground pork (raw)",
+        "qty": 120,
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 10,
-        "note": "toasted and ground, as a thickener"
+        "ingredient": "Eggplant, raw",
+        "qty": 80,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 60,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.25,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the pork.",
+      "Add the eggplant, cabbage, fish sauce, and 2 cups water, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Jasmine rice (dry)",
+        "qty": 15,
+        "note": "toasted and ground, for thickening"
+      },
+      {
+        "ingredient": "Ground pork (raw)",
+        "qty": 130,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 90,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 70,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Toast the raw rice in a dry pan until golden, then grind into a coarse powder to use as a traditional thickener.",
-      "Brown the pork with the onion for 6-8 minutes.",
-      "Add the chicken broth, green beans, and fish sauce, and simmer 30-35 minutes until the pork and vegetables are tender.",
-      "Stir in the toasted rice powder to thicken the stew slightly.",
-      "Serve with rice - considered one of Cambodia's oldest and most treasured dishes, often described as its national soup."
+      "Toast the raw jasmine rice grains in a dry pan, stirring constantly, 4-5 minutes, until golden, then grind to a coarse powder - this toasted rice powder is what thickens the soup, in place of the more traditional prahok fermented fish paste blended in for both body and depth.",
+      "Brown the pork with the garlic, 6-8 minutes.",
+      "Add the eggplant, cabbage, fish sauce, and 2 cups water, and simmer 20-22 minutes until the vegetables are tender.",
+      "Stir in the toasted rice powder and simmer 5 more minutes until slightly thickened.",
+      "Samlor korko, a thick mixed-vegetable soup, traditionally gets its body and funk from prahok, fermented fish paste, which isn't a distinct product in this database - toasted rice powder alone gives real thickness but a milder, less pungent result than the authentic version."
     ]
   },
   {
@@ -818,7 +813,7 @@
     ]
   },
   {
-    "name": "Cambodian Fried Spring Rolls (Cha Giò Style)",
+    "name": "Cambodian Fried Spring Rolls (Cha Gi\u00f2 Style)",
     "cuisine": "cambodian",
     "meal_type": "snack",
     "course": "side",
@@ -901,45 +896,14 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Bananas, raw",
-        "qty": 100,
+        "ingredient": "Rice flour, white, unenriched",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 80,
         "note": "mashed"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 20,
-        "note": "as sticky rice flour, ground"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Mix the mashed banana with the ground rice and sugar into a soft dough.",
-      "Shape into small balls and fry until golden, about 3-4 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 110,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 25,
-        "note": "as sticky rice flour, ground"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 3,
-        "note": "tbsp, for frying"
       },
       {
         "ingredient": "Granulated sugar",
@@ -947,16 +911,46 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, for rolling"
+        "ingredient": "Vegetable oil",
+        "qty": 1.75,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps": [
+      "Mix the flour with the mashed plantain and sugar.",
+      "Shape into balls and fry, turning, 4-5 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 45,
+        "note": "ground into flour, or use rice flour"
+      },
+      {
+        "ingredient": "Rice flour, white, unenriched",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 90,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Grind the rice into a fine flour (or use pre-made sticky rice flour if available).",
-      "Mix the mashed banana with the rice flour and sugar into a soft, cohesive dough.",
-      "Shape into small balls and fry in the oil over medium heat, 3-5 minutes, turning, until golden.",
-      "Roll in shredded coconut while still warm and serve - a simple, sweet Cambodian street snack."
+      "Mix the glutinous rice flour and rice flour with the mashed plantain and sugar into a soft, slightly sticky dough.",
+      "Shape into small balls and fry in the oil over medium heat, turning, 4-5 minutes, until deeply golden and cooked through in the center.",
+      "Num kroch's chewy interior comes specifically from glutinous rice flour's high starch content - regular rice flour alone gives a softer, less springy texture."
     ]
   },
   {
@@ -1104,61 +1098,55 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 71.0,
+        "qty": 45,
         "note": ""
       },
       {
-        "ingredient": "Bananas, raw",
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Plantains, yellow, raw",
         "qty": 80,
         "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Cook the rice, then stir through the sweetened coconut milk.",
+      "Serve with the plantain."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "soaked at least 4 hours"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.4,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Warm the coconut milk with the sugar until dissolved.",
-      "Pour over the cooked rice and top with the sliced banana.",
-      "Serve warm."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked, glutinous if available"
       },
       {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 82.8,
-        "note": ""
-      },
-      {
-        "ingredient": "Bananas, raw",
+        "ingredient": "Plantains, yellow, raw",
         "qty": 90,
         "note": "sliced"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, toasted, to top"
       }
     ],
     "steps_detailed": [
-      "Warm the coconut milk with the sugar over low heat until the sugar dissolves, 2-3 minutes.",
-      "Pour most of the coconut mixture over the warm cooked rice, reserving a little.",
-      "Top with the sliced banana, the reserved coconut sauce, and the toasted coconut - a simple, beloved sweet found throughout Cambodia."
+      "Drain the soaked rice and steam in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender.",
+      "Warm the coconut milk with the sugar until dissolved, pour most over the warm rice, and let it absorb 10 minutes.",
+      "Serve with the plantain alongside, drizzling the reserved coconut milk over both."
     ]
   },
   {
@@ -1174,58 +1162,62 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Glutinous rice (dry)",
         "qty": 45,
-        "note": "cooked, glutinous if available"
+        "note": "soaked"
       },
       {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 47.3,
+        "ingredient": "Ground pork (raw)",
+        "qty": 50,
         "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.2,
+        "note": "cup"
       },
       {
-        "ingredient": "Split peas (dry)",
-        "qty": 15,
-        "note": "cooked"
+        "ingredient": "Granulated sugar",
+        "qty": 0.75,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Mix the cooked rice with the coconut milk, sugar, and cooked split peas.",
-      "Press into a small dish and steam for 20-25 minutes until firm.",
-      "Cool before slicing."
+      "Mix the rice with the coconut milk.",
+      "Layer with the seasoned pork in a foil packet and steam 45-50 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "soaked at least 4 hours"
       },
       {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 59.1,
+        "ingredient": "Ground pork (raw)",
+        "qty": 60,
         "note": ""
       },
       {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
         "ingredient": "Granulated sugar",
-        "qty": 1.75,
+        "qty": 1,
         "note": "tbsp"
       },
       {
-        "ingredient": "Split peas (dry)",
-        "qty": 18,
-        "note": "cooked"
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the cooked sticky rice thoroughly with the coconut milk, sugar, and cooked split peas (a stand-in for mung beans, traditionally used).",
-      "Press firmly into a small buttered dish or wrap in foil in place of banana leaf.",
-      "Steam over simmering water for 22-28 minutes until firm and set.",
-      "Cool before slicing - a traditional Cambodian sweet rice cake, often made for festivals."
+      "Drain the soaked rice and toss with the coconut milk.",
+      "Season the pork with the sugar and cardamom.",
+      "Traditionally wrapped tightly in banana leaves around the pork filling, which aren't a distinct item here - instead, pack a layer of rice, a portion of the pork, and more rice in a small foil packet, fold to seal tightly, and steam over simmering water 45-50 minutes until the rice is fully cooked and dense.",
+      "Num ansom, cylindrical rice cakes with a savory pork center, are made in large batches for Cambodian New Year - the long steam time and tight wrapping compress the rice into a dense, sliceable cake rather than loose grains."
     ]
   },
   {

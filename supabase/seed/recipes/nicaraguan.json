@@ -365,32 +365,6 @@
     "ingredients": [
       {
         "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 1.5,
-        "note": "oz, as a queso quesillo stand-in"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
-        "qty": 20,
-        "note": "as a crema stand-in"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "pickled or sliced"
-      }
-    ],
-    "steps": [
-      "Warm the tortilla.",
-      "Fill with the cheese, cream, and pickled onion, and roll up tightly."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
         "qty": 1.25,
         "note": ""
       },
@@ -415,11 +389,45 @@
         "note": "for the pickled onion"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Warm the tortilla until soft and pliable.",
       "Toss the onion with the vinegar to lightly pickle it, if not already pickled.",
       "Fill the tortilla generously with the cheese, cream, and pickled onion, and roll up tightly, wrapping in a small bag for eating on the go.",
       "Quesillo, a soft cheese wrapped in tortilla with cream and onion, is one of Nicaragua's most beloved street foods, especially associated with the town of La Paz Centro."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Whole wheat tortilla (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Queso fresco",
+        "qty": 1.75,
+        "note": "oz, as a queso quesillo stand-in"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 25,
+        "note": "as a crema stand-in"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "pickled or sliced"
+      },
+      {
+        "ingredient": "White wine vinegar",
+        "qty": 0.16666666666666666,
+        "note": "for the pickled onion"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the tortilla until soft and pliable.",
+      "Toss the onion with the vinegar to lightly pickle it, if not already pickled.",
+      "Fill the tortilla generously with the cheese, cream, and pickled onion, and roll up tightly, wrapping in a small bag for eating on the go.",
+      "Quesillo, a soft cheese wrapped in tortilla with cream and onion, is one of Nicaragua's most beloved street foods, especially associated with the town of La Paz Centro.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -1166,7 +1174,7 @@
     ]
   },
   {
-    "name": "Nicaraguan Buñuelos de Yuca",
+    "name": "Nicaraguan Bu\u00f1uelos de Yuca",
     "cuisine": "nicaraguan",
     "meal_type": "snack",
     "course": "side",
@@ -1231,11 +1239,11 @@
     "steps_detailed": [
       "Mash the boiled cassava until smooth and mix with the crumbled queso fresco and egg into a soft, cohesive dough.",
       "Shape into small balls and fry in the oil over medium heat, turning, 4-6 minutes until deeply golden on all sides.",
-      "Drizzle with honey before serving - buñuelos de yuca are a beloved Nicaraguan holiday treat, especially at Christmas."
+      "Drizzle with honey before serving - bu\u00f1uelos de yuca are a beloved Nicaraguan holiday treat, especially at Christmas."
     ]
   },
   {
-    "name": "Nicaraguan Chimichurri Nicaragüense",
+    "name": "Nicaraguan Chimichurri Nicarag\u00fcense",
     "cuisine": "nicaraguan",
     "meal_type": "sauce",
     "course": "side",

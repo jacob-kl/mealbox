@@ -420,7 +420,7 @@
     ]
   },
   {
-    "name": "Pakistani Chicken Biryani-Style Rice",
+    "name": "Pakistani Chicken Biryani",
     "cuisine": "pakistani",
     "meal_type": "lunch",
     "course": "complete",
@@ -429,33 +429,7 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Brown the chicken with the onion.",
-      "Add the rice, saffron, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 210,
+        "qty": 200,
         "note": ""
       },
       {
@@ -464,30 +438,95 @@
         "note": ""
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
-      },
-      {
         "ingredient": "Yellow onion",
         "qty": 45,
         "note": "sliced"
       },
       {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the chicken with the onion and turmeric.",
+      "Add the rice and 1.75 cups water, cover, and simmer 20-22 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 70,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
       },
       {
         "ingredient": "Spices, ginger, ground",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
         "qty": 0.375,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch, steeped in 2 tbsp hot milk"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, cardamom, and ginger over medium-high heat, 8-10 minutes.",
-      "Add the rice, saffron, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender and fragrant.",
-      "A simplified take on biryani, layered and slow-cooked in its full form - this keeps the same warm spicing and saffron color in a single pot."
+      "Marinate the chicken in the yogurt, garlic, ginger, chili powder, and turmeric for at least 30 minutes, or overnight for real depth.",
+      "Fry half the onion in the oil over medium heat, stirring often, 10-12 minutes, until deeply browned and crisp - these fried onions (birista) are a defining biryani garnish and flavor, not a decoration; set aside half for the top.",
+      "Brown the marinated chicken with the remaining onion in the same oil, 8-10 minutes, along with the cardamom and cinnamon.",
+      "Parboil the basmati separately in well-salted water 5-6 minutes, until still quite firm in the center, then drain.",
+      "Layer the parboiled rice over the chicken in the pot, drizzle with the saffron milk, scatter with the reserved fried onions and cilantro, cover tightly (a layer of foil under the lid helps seal in the steam), and cook over very low heat 20-25 minutes.",
+      "Rest 5 minutes off the heat before gently folding the layers together to serve.",
+      "This is the actual dum technique biryani is built on - parboiled rice steamed on top of already-cooked meat under a tight seal, letting the two layers finish together while staying distinct, rather than being cooked as one pot of seasoned rice from the start. The marinated yogurt, fried onions, and layered steaming are what separate real biryani from a spiced pilaf; skipping any of them changes what the dish actually is."
     ]
   },
   {
@@ -1053,37 +1092,12 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 35,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the cardamom and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
+        "qty": 0.8,
         "note": "cup"
       },
       {
@@ -1093,18 +1107,44 @@
       },
       {
         "ingredient": "Honey",
-        "qty": 1.75,
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in the milk with the cardamom and honey for 25-30 minutes until thick."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Nuts, pistachio nuts, raw",
         "qty": 10,
-        "note": "chopped, to top"
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cardamom and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the chopped pistachios - kheer, fragrant with cardamom, is a fixture of Pakistani celebrations and Eid."
+      "Simmer the basmati in the milk with the cardamom over low heat, stirring often, 30-35 minutes, until it breaks down and thickens into a rich, creamy pudding - kheer is cooked longer and reduced further than a Western rice pudding, until the milk itself has visibly thickened, not just the rice.",
+      "Stir in the sugar.",
+      "Top with the pistachios."
     ]
   },
   {
@@ -1124,53 +1164,61 @@
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the saffron and sugar for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
-      },
-      {
         "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Ground cardamom",
+        "ingredient": "Ground cinnamon",
         "qty": 0.125,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 10,
+        "note": "slivered"
+      }
+    ],
+    "steps": [
+      "Cook the rice, then stir in the sugar and cinnamon.",
+      "Top with the almonds."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch, steeped in 1 tbsp hot milk"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 12,
+        "note": "slivered"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the saffron, sugar, and cardamom over low heat, stirring often, 28-32 minutes, until thick, creamy, and pale gold."
+      "Cook the basmati in 1.2 cups water until just tender, 15-18 minutes.",
+      "Stir in the sugar, saffron and its milk, and butter while still warm, until the rice turns a deep golden color.",
+      "Top generously with the almonds and pistachios."
     ]
   },
   {

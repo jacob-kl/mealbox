@@ -271,40 +271,13 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Kidney beans",
-        "qty": 80,
-        "note": "as a black bean stand-in"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "fried"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
-        "qty": 15,
-        "note": "as a natilla stand-in"
-      }
-    ],
-    "steps": [
-      "Combine the rice and beans and stir-fry until well combined.",
-      "Fry the egg separately.",
-      "Serve together with a dollop of cream."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
         "qty": 55,
         "note": "cooked"
       },
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 90,
-        "note": "as a black bean stand-in"
+        "note": ""
       },
       {
         "ingredient": "Eggs (large)",
@@ -327,10 +300,48 @@
         "note": "cup, chopped"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Saute the onion, then add the rice and beans, stir-frying 5-6 minutes until well combined.",
       "Fry the egg separately to your liking.",
       "Top with cilantro and serve with a generous dollop of natilla (Costa Rican sour cream) - a classic, hearty Costa Rican breakfast."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Black Beans",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": "fried"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 20,
+        "note": "as a natilla stand-in"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Saute the onion, then add the rice and beans, stir-frying 5-6 minutes until well combined.",
+      "Fry the egg separately to your liking.",
+      "Top with cilantro and serve with a generous dollop of natilla (Costa Rican sour cream) - a classic, hearty Costa Rican breakfast.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -343,28 +354,6 @@
     ],
     "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water",
-        "qty": 100,
-        "note": "as fresh corn, ground"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
-        "qty": 15,
-        "note": "as a natilla stand-in, to serve"
-      }
-    ],
-    "steps": [
-      "Blend the corn with the flour into a thick batter.",
-      "Cook spoonfuls on a hot griddle, 3-4 minutes per side, until golden.",
-      "Serve with a dollop of cream."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water",
         "qty": 110,
@@ -386,10 +375,38 @@
         "note": "tbsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Blend the corn with the flour and sugar into a thick, slightly chunky batter.",
       "Cook spoonfuls on a hot, lightly greased griddle, 3-5 minutes per side, until golden with lightly crisp edges.",
       "Serve with a dollop of natilla - chorreadas, fresh corn pancakes, are a beloved Costa Rican breakfast."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water",
+        "qty": 110,
+        "note": "as fresh corn, ground"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 18,
+        "note": ""
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 20,
+        "note": "as a natilla stand-in, to serve"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the corn with the flour and sugar into a thick, slightly chunky batter.",
+      "Cook spoonfuls on a hot, lightly greased griddle, 3-5 minutes per side, until golden with lightly crisp edges.",
+      "Serve with a dollop of natilla - chorreadas, fresh corn pancakes, are a beloved Costa Rican breakfast.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -526,7 +543,7 @@
       "Fry the pork cubes until deeply browned and crisp on the edges, 8-10 minutes.",
       "Layer the rice and beans in a bowl.",
       "Mix the tomatoes, onion, cilantro, and lime juice into a fresh pico de gallo.",
-      "Top the rice and beans with the crispy pork and pico de gallo, and serve with tortilla chips - chifrijo, a beloved bar food, was invented in a San José bar and has become a Costa Rican icon."
+      "Top the rice and beans with the crispy pork and pico de gallo, and serve with tortilla chips - chifrijo, a beloved bar food, was invented in a San Jos\u00e9 bar and has become a Costa Rican icon."
     ]
   },
   {
@@ -540,9 +557,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 200,
-        "note": "as a black bean stand-in"
+        "note": ""
       },
       {
         "ingredient": "Eggs (large)",
@@ -567,9 +584,9 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 220,
-        "note": "as a black bean stand-in"
+        "note": ""
       },
       {
         "ingredient": "Eggs (large)",
@@ -1080,33 +1097,6 @@
     "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.4,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Beat the eggs and sugar until pale, then fold in the flour to make a simple sponge batter.",
-      "Bake at 350F for 18-20 minutes until springy.",
-      "Poke holes in the cake and pour the milk over, letting it soak in."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
         "qty": 60,
         "note": ""
       },
@@ -1136,12 +1126,52 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Beat the eggs and sugar together until pale and thickened, 4-5 minutes.",
       "Fold in the flour and vanilla gently until just combined.",
       "Bake in a small buttered dish at 350F (175C) for 18-22 minutes until springy and golden. Let cool slightly.",
       "Poke holes all over and pour the milk over, letting it soak in fully.",
       "Top with a dollop of natilla before serving - tres leches cake is beloved throughout Costa Rica."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 20,
+        "note": "as a natilla topping"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Beat the eggs and sugar together until pale and thickened, 4-5 minutes.",
+      "Fold in the flour and vanilla gently until just combined.",
+      "Bake in a small buttered dish at 350F (175C) for 18-22 minutes until springy and golden. Let cool slightly.",
+      "Poke holes all over and pour the milk over, letting it soak in fully.",
+      "Top with a dollop of natilla before serving - tres leches cake is beloved throughout Costa Rica.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -1200,7 +1230,7 @@
     "steps_detailed": [
       "Layer plenty of shaved or crushed ice in a tall glass.",
       "Drizzle with the coconut milk and preserves, and top with a generous dollop of cream and a dusting of sugar.",
-      "Churchill, a festive shaved-ice dessert drink, is especially associated with Limón on Costa Rica's Caribbean coast."
+      "Churchill, a festive shaved-ice dessert drink, is especially associated with Lim\u00f3n on Costa Rica's Caribbean coast."
     ]
   },
   {

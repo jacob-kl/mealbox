@@ -29,9 +29,8 @@
       }
     ],
     "steps": [
-      "Fry the eggs to your liking.",
-      "Warm the refried beans and plantain.",
-      "Serve together with the queso fresco and warm tortillas."
+      "Scramble the eggs.",
+      "Serve with the warmed beans, plantain, and cheese."
     ],
     "ingredients_full": [
       {
@@ -55,15 +54,16 @@
         "note": "oz"
       },
       {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
+        "ingredient": "Sour cream, light",
         "qty": 15,
-        "note": "as a crema stand-in"
+        "note": "standing in for Guatemalan crema"
       }
     ],
     "steps_detailed": [
-      "Fry the eggs in a little oil to your liking.",
-      "Warm the refried beans and the baked plantain.",
-      "Serve everything together with the queso fresco, a dollop of cream (standing in for crema), and warm tortillas - a classic Guatemalan breakfast plate, chapin being a common nickname for Guatemalans."
+      "Scramble the eggs.",
+      "Warm the refried beans and fry or bake the plantain.",
+      "Arrange the eggs, beans, and plantain together, topped with the queso fresco and a dollop of the sour cream.",
+      "Guatemalan crema is thinner and tangier than American sour cream but closer to it than to cream cheese, which was too thick and mild for this role - this swap gets the tang closer to right, even if the consistency isn't identical."
     ]
   },
   {
@@ -250,7 +250,7 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
+        "qty": 210,
         "note": ""
       },
       {
@@ -260,19 +260,18 @@
       },
       {
         "ingredient": "Green cabbage",
-        "qty": 50,
-        "note": "as a tomatillo stand-in, chopped"
+        "qty": 45,
+        "note": "chopped"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
       }
     ],
     "steps": [
       "Brown the chicken with the onion.",
-      "Blend the cilantro and cabbage with a splash of water into a bright green sauce.",
-      "Add the sauce to the chicken and simmer 20-25 minutes until tender."
+      "Add the cabbage, cilantro, lime juice, and water, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
       {
@@ -288,7 +287,12 @@
       {
         "ingredient": "Green cabbage",
         "qty": 55,
-        "note": "as a tomatillo stand-in, chopped"
+        "note": "chopped, standing in for tomatillo"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
         "ingredient": "Yellow onion",
@@ -307,9 +311,9 @@
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
-      "Blend the cilantro, cabbage (standing in for tomatillo), and jalapeno with a splash of water into a smooth, bright green sauce.",
-      "Add the sauce to the chicken and simmer, covered, 22-28 minutes until tender - jocon's vivid green color and herbal brightness make it one of Guatemala's most distinctive stews."
+      "Brown the chicken with the onion and garlic, 8-10 minutes.",
+      "Add the cabbage, cilantro, jalapeno, lime juice, and 1.25 cups water, and simmer 20-22 minutes until the chicken is cooked through and the sauce has reduced and thickened slightly.",
+      "Joc\u00f3n's real green color and distinctive tang come from tomatillo, which isn't a clean standalone item in this database - cabbage and extra lime juice approximate the color and a little of the sourness, but genuine tomatillo's specific tartness isn't fully replicated here."
     ]
   },
   {
@@ -468,12 +472,12 @@
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
+        "qty": 210,
         "note": ""
       },
       {
         "ingredient": "Pumpkin seeds",
-        "qty": 1,
+        "qty": 18,
         "note": "toasted"
       },
       {
@@ -484,13 +488,13 @@
       {
         "ingredient": "White rice (dry)",
         "qty": 50,
-        "note": ""
+        "note": "cooked, to serve alongside"
       }
     ],
     "steps": [
-      "Simmer the chicken thigh in water 20 minutes until cooked through; reserve the broth.",
-      "Toast the pumpkin seeds in a dry pan until they pop, then blend with the tomatoes and a splash of broth into a sauce.",
-      "Simmer the sauce with the shredded chicken 10 minutes. Serve over the cooked rice."
+      "Brown the chicken.",
+      "Blend the tomatoes with the toasted pumpkin seeds, add to the chicken, and simmer 20-25 minutes.",
+      "Serve over rice."
     ],
     "ingredients_full": [
       {
@@ -500,7 +504,12 @@
       },
       {
         "ingredient": "Pumpkin seeds",
-        "qty": 1.2,
+        "qty": 20,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 8,
         "note": "toasted"
       },
       {
@@ -509,26 +518,28 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Sesame seeds",
-        "qty": 1,
-        "note": "toasted"
+        "ingredient": "Spices, chili powder",
+        "qty": 0.75,
+        "note": "tsp"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 30,
+        "qty": 40,
         "note": "chopped"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": "cooked, to serve alongside"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken with the onion in water 22-28 minutes until cooked through; reserve the broth and shred the chicken.",
-      "Toast the pumpkin seeds and sesame seeds in a dry pan until fragrant and the pumpkin seeds pop, then blend with the tomatoes and a splash of the reserved broth into a rich, nutty sauce.",
-      "Simmer the sauce with the shredded chicken 10-12 minutes to meld the flavors.",
-      "Serve over the cooked rice - pepian, thickened with toasted seeds rather than flour, is widely considered Guatemala's national dish."
+      "Brown the chicken with the onion, 8-10 minutes.",
+      "Toast the pumpkin and sesame seeds in a dry pan, stirring constantly, 3-4 minutes, until fragrant and lightly browned, then grind to a coarse paste - these ground toasted seeds are what thicken pepi\u00e1n and give it its distinctive nutty depth.",
+      "Blend or mash the tomatoes with the ground seeds and chili powder into a smooth, thick sauce.",
+      "Return the chicken to the pot with the sauce and 1 cup water, and simmer 20-25 minutes until the chicken is cooked through and the sauce has thickened to a heavy, clinging consistency.",
+      "Serve the chicken and sauce over the separately-cooked rice.",
+      "Pepi\u00e1n, one of Guatemala's most iconic stews, is defined by this toasted-seed thickening technique, a genuinely pre-Hispanic Mayan method that predates the tomato and chili additions brought later."
     ]
   },
   {
@@ -902,22 +913,6 @@
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, baked",
-        "qty": 150,
-        "note": "sliced, pan-fried"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps": [
-      "Slice the plantain and fry in the oil until golden, about 3-4 minutes per side.",
-      "Serve warm."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, baked",
         "qty": 170,
         "note": "sliced, pan-fried"
       },
@@ -932,9 +927,31 @@
         "note": "as a crema stand-in, to serve"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Slice the plantain into thick rounds and fry in the oil over medium heat, 4-5 minutes per side, until deeply golden and caramelized.",
       "Serve warm with a dollop of cream - fried sweet plantains are a beloved Guatemalan side and snack."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, baked",
+        "qty": 170,
+        "note": "sliced, pan-fried"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Sour cream, light",
+        "qty": 15,
+        "note": "as a crema stand-in, to serve"
+      }
+    ],
+    "steps_detailed": [
+      "Slice the plantain into thick rounds and fry in the oil over medium heat, 4-5 minutes per side, until deeply golden and caramelized.",
+      "Serve warm with a dollop of cream - fried sweet plantains are a beloved Guatemalan side and snack.",
+      "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
     ]
   },
   {
@@ -1022,9 +1039,9 @@
         "note": "mashed"
       },
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 60,
-        "note": "mashed, as a black bean stand-in"
+        "note": "mashed"
       },
       {
         "ingredient": "Granulated sugar",
@@ -1049,9 +1066,9 @@
         "note": "mashed"
       },
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 70,
-        "note": "mashed, as a black bean stand-in"
+        "note": "mashed"
       },
       {
         "ingredient": "Granulated sugar",
@@ -1156,9 +1173,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
-        "qty": 60,
-        "note": ""
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.75,
+        "note": "slices"
       },
       {
         "ingredient": "Eggs (large)",
@@ -1172,20 +1189,18 @@
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.25,
+        "qty": 0.3,
         "note": "tsp"
       }
     ],
     "steps": [
-      "Dip the crackers in the beaten egg.",
-      "Fry until golden on both sides.",
-      "Warm the sugar with a splash of water and the cinnamon into a light syrup, and pour over."
+      "Dip the bread in the egg and cinnamon mixture, then fry, 2-3 minutes per side."
     ],
     "ingredients_full": [
       {
-        "ingredient": "365 (Whole Foods) Graham Crackers Flavored With Honey, Honey",
-        "qty": 70,
-        "note": ""
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 2,
+        "note": "slices, slightly stale"
       },
       {
         "ingredient": "Eggs (large)",
@@ -1209,10 +1224,11 @@
       }
     ],
     "steps_detailed": [
-      "Dip the crackers (standing in for slightly stale bread) in the beaten egg, coating well.",
+      "Beat the eggs with a little of the sugar and the cinnamon.",
+      "Dip the bread slices in the egg mixture, letting them soak briefly on each side.",
       "Fry in the oil over medium heat, 2-3 minutes per side, until golden.",
-      "Warm the sugar with a splash of water and the cinnamon over low heat 3-4 minutes into a light syrup, and pour generously over the fried torrejas.",
-      "Torrejas, a Guatemalan take on French toast, are especially associated with Lent and Holy Week."
+      "Dust with the remaining sugar.",
+      "Torrejas, Guatemala's version of a syrup-soaked fried bread similar in spirit to French toast, are traditionally made from stale bread specifically, since day-old bread soaks up the egg custard without falling apart the way fresh bread would."
     ]
   },
   {

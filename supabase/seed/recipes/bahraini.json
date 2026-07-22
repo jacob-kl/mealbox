@@ -10,9 +10,14 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "standing in for the traditional vermicelli"
+        "ingredient": "Noodles, egg, dry, enriched",
+        "qty": 50,
+        "note": "standing in for vermicelli"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
       },
       {
         "ingredient": "Granulated sugar",
@@ -20,56 +25,62 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Cook the rice until tender, then toss over low heat with the sugar and a saffron-steeped splash of water until glossy and caramelized.",
-      "Make a thin omelet with the egg and lay it over the top."
+      "Boil the noodles until tender, then toss with the sugar and cardamom.",
+      "Scramble the eggs separately and serve alongside."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "standing in for the traditional vermicelli"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
+        "ingredient": "Vermicelli rice noodles (dry)",
+        "qty": 55,
+        "note": "or thin wheat vermicelli, crushed into short pieces"
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
+        "qty": 1,
+        "note": "pinch, steeped in 1 tbsp hot water"
       },
       {
         "ingredient": "Ground cardamom",
-        "qty": 0.125,
+        "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Rosewater",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps_detailed": [
-      "Cook the rice until tender, then toss over low heat with the sugar, cardamom, and a saffron-and-rosewater-steeped splash of water, 5-6 minutes, until glossy and fragrant.",
-      "Make a thin, well-seasoned omelet with the egg and lay it over the top.",
-      "Balaleet is a fixture of Bahraini breakfast tables, especially on Fridays when families gather before midday prayers."
+      "Boil the vermicelli in water 3-4 minutes until just tender, then drain well.",
+      "Melt the butter in a pan, stir in the sugar, cardamom, saffron with its soaking water, and rosewater, then toss in the drained vermicelli until coated and slightly caramelized, 3-4 minutes.",
+      "Push the sweet vermicelli to one side of the pan; crack the eggs into the other side and scramble gently until just set, keeping the two separate.",
+      "Serve the sweet vermicelli and the plain egg side by side, scattered with the pistachios - the sweetness of the noodles against the plain savory egg is the whole point of balaleet; they're eaten together in the same bite, not mixed into one dish."
     ]
   },
   {
@@ -226,34 +237,7 @@
     "ingredients": [
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Saute the onion until softened.",
-      "Add 1.5 cups water and the rice, cover, and simmer 15 minutes.",
-      "Lay the fish over the rice, cover, and steam 8-10 more minutes until cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 210,
+        "qty": 200,
         "note": ""
       },
       {
@@ -262,31 +246,95 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 1.8,
+        "qty": 0.5,
         "note": ""
       }
     ],
+    "steps": [
+      "Simmer the rice with the tomatoes and turmeric in 1.5 cups water, cover, and cook 20-22 minutes.",
+      "Pan-fry the fish separately, 3-4 minutes per side, and serve over the rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced with a knife"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.25,
+        "note": "tsp, or 1 small cinnamon stick"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "tsp, or 2 whole cloves"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.125,
+        "note": "cup, chopped"
+      }
+    ],
     "steps_detailed": [
-      "Saute the onion, garlic, and turmeric until softened and fragrant, 5-6 minutes.",
-      "Add 1.75 cups water and the rice, cover, and simmer 18-20 minutes.",
-      "Lay the fish over the rice, cover, and steam 10-12 more minutes until just cooked through.",
-      "As an island nation, Bahrain leans especially heavily on fish machboos - it's often the more common version at home, ahead of the chicken or lamb versions."
+      "Season the fish with a little of the cinnamon, cardamom, and pepper, and pan-fry in a little of the oil until just cooked through and lightly browned, 3-4 minutes per side; set aside.",
+      "In the same pot, soften the onion and garlic in the remaining oil over medium heat, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, remaining cinnamon, cardamom, cloves, and pepper, and cook 3-4 minutes until fragrant.",
+      "Add 1.5 cups water, the pierced dried limes, and the saffron, and bring to a simmer.",
+      "Stir in the rice, cover, and cook over low heat 18-20 minutes until the rice is tender and the liquid is absorbed - the whole dried limes stay in the pot, releasing their sour, slightly bitter perfume through the rice as it cooks; they're not eaten, just discarded or pushed aside at the table.",
+      "Fluff the rice, top with the fish, and scatter with the cilantro.",
+      "Machboos, rice slow-cooked in a spiced stock under whole dried limes, is the Gulf's defining dish - the loomi is what makes it recognizably machboos rather than a generic spiced pilaf; without it the dish loses its most characteristic flavor."
     ]
   },
   {
@@ -304,7 +352,7 @@
       },
       {
         "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 60,
         "note": ""
       },
       {
@@ -313,15 +361,14 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "steps": [
       "Brown the chicken with the onion.",
-      "Add the tomatoes and 1.5 cups water, and simmer 15 minutes.",
-      "Add the rice, cover, and simmer 18-20 more minutes until tender."
+      "Add the rice, tomatoes, turmeric, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
     ],
     "ingredients_full": [
       {
@@ -330,40 +377,74 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
+        "qty": 60,
+        "note": "sliced"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Ground cardamom",
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Dried lime (loomi)",
+        "qty": 2,
+        "note": "whole, pierced with a knife"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+        "qty": 15,
+        "note": "to top"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, garlic, turmeric, and cardamom over medium-high heat, 8-10 minutes.",
-      "Add the diced tomatoes and 1.75 cups water and simmer 18-20 minutes.",
-      "Add the rice, cover, and simmer 20-25 more minutes until tender and richly colored - the everyday version of machboos for special weekday lunches."
+      "Brown the chicken in the oil over medium-high heat, 8-10 minutes, then set aside.",
+      "Soften the onion and garlic in the same pot, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, cinnamon, cardamom, cloves, and pepper, and cook 3-4 minutes until fragrant.",
+      "Return the chicken to the pot with 1.75 cups water, the pierced dried limes, and the saffron, and simmer 20-25 minutes until the chicken is cooked through.",
+      "Lift out the chicken, stir the rice into the remaining liquid, cover, and cook over low heat 18-20 minutes until tender.",
+      "Fluff the rice, top with the chicken and raisins.",
+      "This is the most common everyday version of machboos - chicken, dried lime, and whole warm spices, built the same way whether it's a Tuesday dinner or a wedding feast."
     ]
   },
   {
@@ -514,35 +595,8 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 180,
-        "note": "formed into small portions"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 10,
-        "note": "to top"
-      }
-    ],
-    "steps": [
-      "Season the lamb with the turmeric and shape into small portions.",
-      "Roast at 375F for 15-18 minutes until well browned and cooked through.",
-      "Serve over the cooked rice, scattered with the raisins."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
         "qty": 200,
-        "note": "formed into small portions"
+        "note": ""
       },
       {
         "ingredient": "White rice (dry)",
@@ -550,35 +604,74 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 2.2,
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the onion and cardamom.",
+      "Add the rice and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a few large chunks"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Nuts, almonds",
+        "qty": 15,
         "note": ""
       },
       {
         "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 12,
-        "note": "to top"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "qty": 15,
+        "note": ""
       },
       {
         "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cinnamon, ground",
         "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 10,
-        "note": "chopped, to top"
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Season the lamb thoroughly with the turmeric, garlic, and cardamom, and shape into small portions.",
-      "Roast at 375F (190C) for 18-22 minutes, turning once, until deeply browned and tender.",
-      "Serve piled over the rice, scattered generously with raisins and pistachios - a celebratory centerpiece at Bahraini weddings and Eid gatherings."
+      "Brown the lamb with the onion in the oil over medium-high heat, 9-11 minutes.",
+      "Add the cardamom, cinnamon, saffron, and 2 cups water, cover, and simmer 35-40 minutes until very tender.",
+      "Lift out the lamb, stir the rice into the remaining liquid, cover, and cook over low heat 18-20 minutes until tender.",
+      "Toast the almonds in a dry pan, 2-3 minutes, until golden.",
+      "Mound the rice on a platter, top with the lamb, and scatter with the toasted almonds and raisins.",
+      "Ghuzi, whole spiced lamb served over rice and topped with nuts and raisins, is Bahrain's classic celebration centerpiece - traditionally a whole roasted lamb, this home version keeps the same rice, spicing, and nut-and-raisin topping at a practical scale."
     ]
   },
   {
@@ -591,34 +684,7 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Brown the lamb with the onion, breaking it up as it cooks.",
-      "Add the tomatoes and 1.5 cups water, and simmer 15 minutes.",
-      "Add the rice, cover, and simmer 18-20 more minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 210,
+        "qty": 200,
         "note": ""
       },
       {
@@ -628,34 +694,89 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the lamb with the onion.",
+      "Add the rice, tomatoes, turmeric, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into a few large chunks, or use lamb shoulder pieces if available"
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
         "qty": 75,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1.5,
+        "qty": 2,
         "note": "minced"
       },
       {
-        "ingredient": "Spices, turmeric, ground",
+        "ingredient": "Dried lime (loomi)",
         "qty": 2,
-        "note": ""
+        "note": "whole, pierced with a knife"
       },
       {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 0.8,
-        "note": ""
+        "ingredient": "Spices, cinnamon, ground",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.0625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the lamb with the onion, garlic, turmeric, and paprika over medium-high heat, breaking it up well, 8-10 minutes.",
-      "Add the diced tomatoes and 1.75 cups water and simmer 18-20 minutes.",
-      "Add the rice, cover, and simmer 20-25 more minutes until tender and richly colored."
+      "Brown the lamb in the oil over medium-high heat, 9-11 minutes, then set aside.",
+      "Soften the onion and garlic in the same pot, 6-8 minutes, until deeply golden.",
+      "Add the tomatoes, cinnamon, cardamom, nutmeg, and pepper, and cook 3-4 minutes until fragrant.",
+      "Return the lamb to the pot with 2 cups water, the pierced dried limes, and the saffron, cover, and simmer 40-45 minutes until very tender.",
+      "Lift out the lamb, stir the rice into the remaining liquid, cover, and cook over low heat 18-20 minutes until tender.",
+      "Fluff the rice and top with the lamb.",
+      "Lamb machboos, richer and slower-cooked than the chicken version, is the centerpiece of Bahraini celebration meals."
     ]
   },
   {
@@ -1227,7 +1348,7 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 40,
         "note": ""
       },
       {
@@ -1236,24 +1357,23 @@
         "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the sugar and saffron for 20-25 minutes until thick and creamy.",
-      "Chill or serve warm."
+      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
         "note": ""
       },
       {
@@ -1262,14 +1382,19 @@
         "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2.5,
-        "note": "tbsp"
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch, steeped in 1 tsp hot water"
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1.25,
-        "note": "pinch"
+        "ingredient": "Ground cardamom",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Rosewater",
@@ -1283,8 +1408,9 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the sugar, saffron, and rosewater over medium-low heat, stirring often, 22-28 minutes until thick and creamy.",
-      "Top with the pistachios and serve warm or chilled."
+      "Simmer the basmati in the milk with the saffron and its soaking water, and the cardamom, over low heat, stirring often, 25-28 minutes, until thick and creamy.",
+      "Stir in the sugar and rosewater.",
+      "Top with the pistachios before serving - basmati's aroma is part of what makes this taste distinctly Gulf rather than like a generic rice pudding; a plainer short-grain rice would cook down softer but lose that perfume entirely."
     ]
   },
   {

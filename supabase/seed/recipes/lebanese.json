@@ -78,35 +78,45 @@
     "ingredients": [
       {
         "ingredient": "Kidney beans",
-        "qty": 200,
+        "qty": 220,
         "note": "as a fava bean stand-in"
       },
       {
         "ingredient": "Lime juice",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.25,
         "note": "minced"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.0625,
+        "note": "cup, chopped"
       }
     ],
     "steps": [
-      "Warm the beans with a splash of their liquid.",
-      "Mash lightly and stir in the lime juice, garlic, and oil.",
-      "Serve with warm bread."
+      "Warm the beans with a splash of their liquid over medium-low heat, 5-6 minutes.",
+      "Mash lightly, leaving some texture, and stir in the lime juice, garlic, and oil.",
+      "Top with the diced tomatoes and cilantro, and serve with warm bread - traditionally made with fava beans, foul medammes is a beloved Lebanese breakfast with roots across the wider Levant and Egypt."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Kidney beans",
+        "ingredient": "Broadbeans (fava beans), mature seeds, raw",
         "qty": 220,
-        "note": "as a fava bean stand-in"
+        "note": ""
       },
       {
         "ingredient": "Lime juice",
@@ -137,7 +147,8 @@
     "steps_detailed": [
       "Warm the beans with a splash of their liquid over medium-low heat, 5-6 minutes.",
       "Mash lightly, leaving some texture, and stir in the lime juice, garlic, and oil.",
-      "Top with the diced tomatoes and cilantro, and serve with warm bread - traditionally made with fava beans, foul medammes is a beloved Lebanese breakfast with roots across the wider Levant and Egypt."
+      "Top with the diced tomatoes and cilantro, and serve with warm bread - traditionally made with fava beans, foul medammes is a beloved Lebanese breakfast with roots across the wider Levant and Egypt.",
+      "Real fava beans are used here now rather than a stand-in - they're a genuinely different bean with their own texture and flavor."
     ]
   },
   {
@@ -212,33 +223,6 @@
     "ingredients": [
       {
         "ingredient": "Bulgur, dry",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.5,
-        "note": "cup, chopped, as a parsley stand-in"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Soak the bulgur in hot water for 15-20 minutes until softened, then drain well.",
-      "Toss with the tomatoes, chopped herbs, and lime juice.",
-      "Chill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bulgur, dry",
         "qty": 35,
         "note": ""
       },
@@ -268,10 +252,48 @@
         "note": "tbsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Soak the bulgur in hot water for 15-20 minutes until softened, then drain thoroughly and squeeze out excess moisture.",
       "Toss with the tomatoes, herbs (traditionally a large amount of finely chopped parsley, with bulgur almost an accent), onion, lime juice, and oil.",
       "Chill at least 20 minutes before serving - tabbouleh is a Lebanese herb salad, often mistakenly thought of as a grain salad when it's truly meant to be herb-forward."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bulgur, dry",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.6,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soak the bulgur in hot water for 15-20 minutes until softened, then drain thoroughly and squeeze out excess moisture.",
+      "Toss with the tomatoes, herbs (traditionally a large amount of finely chopped parsley, with bulgur almost an accent), onion, lime juice, and oil.",
+      "Chill at least 20 minutes before serving - tabbouleh is a Lebanese herb salad, often mistakenly thought of as a grain salad when it's truly meant to be herb-forward.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {
@@ -359,33 +381,6 @@
     "ingredients": [
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.25,
-        "note": "cup, chopped, as a parsley stand-in"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Mix the beef with the grated onion, herbs, and pepper.",
-      "Shape into small logs and grill or pan-fry, 4-5 minutes per side, until cooked through.",
-      "Serve with rice or flatbread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
         "qty": 220,
         "note": ""
       },
@@ -415,11 +410,50 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Mix the beef thoroughly with the grated onion, herbs, garlic, pepper, and cinnamon (a traditional warm-spice touch).",
       "Shape into small logs around skewers if you have them, or simply as patties.",
       "Grill or pan-fry, 4-6 minutes per side, until well browned and cooked through.",
       "Serve with rice or flatbread and a squeeze of lime - kafta is a Lebanese grilled meat staple, found at nearly every family gathering."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.3,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef thoroughly with the grated onion, herbs, garlic, pepper, and cinnamon (a traditional warm-spice touch).",
+      "Shape into small logs around skewers if you have them, or simply as patties.",
+      "Grill or pan-fry, 4-6 minutes per side, until well browned and cooked through.",
+      "Serve with rice or flatbread and a squeeze of lime - kafta is a Lebanese grilled meat staple, found at nearly every family gathering.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {
@@ -723,35 +757,51 @@
     "ingredients": [
       {
         "ingredient": "Bulgur, dry",
-        "qty": 50,
+        "qty": 55,
         "note": "as a freekeh stand-in"
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
+        "qty": 220,
         "note": ""
       },
       {
         "ingredient": "Chicken broth",
-        "qty": 1.25,
+        "qty": 1.4,
         "note": "cup"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 45,
         "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": "chopped, to top"
       }
     ],
     "steps": [
-      "Brown the chicken with the onion.",
-      "Add the bulgur and broth, and simmer, covered, 18-20 minutes until the grain is tender and the chicken is cooked through.",
-      "Serve hot."
+      "Brown the chicken with the onion, garlic, and cinnamon over medium-high heat, 8-10 minutes.",
+      "Add the bulgur (standing in for freekeh, a smoky roasted green wheat) and chicken broth.",
+      "Cover and simmer 18-22 minutes until the grain is tender and the chicken is cooked through, with most of the liquid absorbed.",
+      "Top with the chopped walnuts and serve - freekeh is a treasured, distinctly smoky grain in Lebanese cooking, often reserved for special meals."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Bulgur, dry",
+        "ingredient": "Bob's Red Mill Organic Whole Grain Cracked Freekeh",
         "qty": 55,
-        "note": "as a freekeh stand-in"
+        "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
@@ -788,7 +838,8 @@
       "Brown the chicken with the onion, garlic, and cinnamon over medium-high heat, 8-10 minutes.",
       "Add the bulgur (standing in for freekeh, a smoky roasted green wheat) and chicken broth.",
       "Cover and simmer 18-22 minutes until the grain is tender and the chicken is cooked through, with most of the liquid absorbed.",
-      "Top with the chopped walnuts and serve - freekeh is a treasured, distinctly smoky grain in Lebanese cooking, often reserved for special meals."
+      "Top with the chopped walnuts and serve - freekeh is a treasured, distinctly smoky grain in Lebanese cooking, often reserved for special meals.",
+      "Real freekeh - roasted young green wheat with a distinctive smoky flavor - is used here now instead of plain bulgur, which doesn't have that same roasted character."
     ]
   },
   {
@@ -998,9 +1049,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Grape leaves, canned",
-        "qty": 100,
-        "note": "rinsed"
+        "ingredient": "Grape leaves, raw",
+        "qty": 120,
+        "note": "or canned"
       },
       {
         "ingredient": "White rice (dry)",
@@ -1009,57 +1060,62 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 30,
+        "qty": 50,
         "note": ""
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Mix the uncooked rice with the tomatoes and a little lime juice for the filling.",
-      "Wrap small portions in the grape leaves, rolling tightly.",
-      "Simmer in water to cover for 35-40 minutes until the rice is tender."
+      "Roll the rice mixture in the grape leaves.",
+      "Simmer in the lemon juice and water, covered, 35-40 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Grape leaves, canned",
-        "qty": 110,
-        "note": "rinsed"
+        "ingredient": "Grape leaves, raw",
+        "qty": 130,
+        "note": "or canned"
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 35,
+        "qty": 50,
         "note": ""
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped, as a parsley stand-in"
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.25,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Mix the uncooked rice with the tomatoes, herbs, lime juice, and oil for the filling.",
-      "Lay each grape leaf flat, place a spoonful of filling near the stem end, fold in the sides, and roll tightly into a small cylinder.",
-      "Arrange the rolls snugly in a pot, cover with water, and simmer 35-45 minutes until the rice is fully tender.",
-      "Serve warm or at room temperature - warak enab, stuffed grape leaves, are a beloved Lebanese mezze staple."
+      "If using raw grape leaves, blanch 1-2 minutes; rinse well if using canned.",
+      "Mix the raw rice with the tomatoes, garlic, oil, and dried mint.",
+      "Lay each leaf vein-side up, place filling near the stem, fold the sides in, and roll into a tight cylinder.",
+      "Pack seam-side down into a pot, pour the lemon juice and 1 cup water over, weigh down with a small plate, and simmer covered 35-40 minutes until the rice is fully cooked.",
+      "This meatless version, built entirely on rice, lemon, and mint, is the everyday and Lenten-season variety of warak enab across Lebanon, distinct from the meat-filled version served for special occasions."
     ]
   },
   {
@@ -1075,7 +1131,7 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 40,
         "note": ""
       },
       {
@@ -1084,25 +1140,23 @@
         "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
-        "ingredient": "Rosewater",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the sugar for 20-25 minutes, stirring often, until thick.",
-      "Stir in the rosewater off the heat.",
-      "Chill before serving."
+      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
         "note": ""
       },
       {
@@ -1111,25 +1165,31 @@
         "note": "cup"
       },
       {
+        "ingredient": "Rosewater",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Granulated sugar",
-        "qty": 2.5,
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Rosewater",
-        "qty": 0.75,
+        "ingredient": "Cornstarch",
+        "qty": 1,
         "note": "tsp"
       },
       {
         "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 15,
-        "note": "chopped, to top"
+        "qty": 10,
+        "note": "chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the sugar over medium-low heat, stirring often, 22-28 minutes, until thick and creamy.",
-      "Stir in the rosewater off the heat, adding gradually and tasting, since it's potent.",
-      "Chill and top with the chopped pistachios before serving - a fragrant, beloved Lebanese dessert."
+      "Simmer the basmati in the milk over low heat, stirring often, 25-28 minutes, until soft.",
+      "Whisk the cornstarch with a splash of cold water and stir it in, along with the sugar, and simmer 3-4 more minutes until thickened.",
+      "Remove from heat and stir in the rosewater - adding it off the heat keeps its aroma from cooking off.",
+      "Chill and top with the pistachios."
     ]
   },
   {
@@ -1325,27 +1385,6 @@
     "ingredients": [
       {
         "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Whisk the tahini, lime juice, and garlic together with a splash of water until smooth and pourable.",
-      "Serve over grilled vegetables, falafel, or fish."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
         "qty": 37.5,
         "note": ""
       },
@@ -1365,10 +1404,38 @@
         "note": "cup, chopped, as a parsley stand-in"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Whisk the tahini, lime juice, and garlic together with a splash of water, adding water gradually until it reaches a smooth, pourable consistency - the mixture will seize up before it loosens, so keep whisking.",
       "Stir in the chopped herbs.",
       "Serve over grilled vegetables, falafel, or fish - this tahini sauce, called tarator in some regions, is endlessly versatile in Lebanese cooking."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "qty": 37.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the tahini, lime juice, and garlic together with a splash of water, adding water gradually until it reaches a smooth, pourable consistency - the mixture will seize up before it loosens, so keep whisking.",
+      "Stir in the chopped herbs.",
+      "Serve over grilled vegetables, falafel, or fish - this tahini sauce, called tarator in some regions, is endlessly versatile in Lebanese cooking.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   }
 ]

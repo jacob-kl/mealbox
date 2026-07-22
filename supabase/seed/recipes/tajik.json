@@ -12,31 +12,36 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1,
+        "qty": 1.25,
         "note": "pinch"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.5,
+        "qty": 1.75,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the saffron and honey for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the saffron, honey, and cardamom over low heat, stirring often, 28-32 minutes, until thick, creamy, and pale gold - saffron and rice together show Tajikistan's deep Persian cultural ties, distinct from its more Turkic neighbors."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -62,7 +67,8 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the saffron, honey, and cardamom over low heat, stirring often, 28-32 minutes, until thick, creamy, and pale gold - saffron and rice together show Tajikistan's deep Persian cultural ties, distinct from its more Turkic neighbors."
+      "Simmer the rice in the milk with the saffron, honey, and cardamom over low heat, stirring often, 28-32 minutes, until thick, creamy, and pale gold - saffron and rice together show Tajikistan's deep Persian cultural ties, distinct from its more Turkic neighbors.",
+      "Tajik plov and its rice-based desserts both lean on basmati's aroma and its ability to stay separate rather than clump."
     ]
   },
   {
@@ -266,32 +272,6 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrots, baby, raw",
-        "qty": 50,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      }
-    ],
-    "steps": [
-      "Brown the lamb with the carrots.",
-      "Add the rice, saffron, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
         "qty": 200,
         "note": ""
       },
@@ -321,9 +301,46 @@
         "note": "minced"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Brown the lamb with the onion, carrots, and garlic over medium-high heat, 9-11 minutes.",
       "Add the rice, saffron, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender and fragrant."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrots, baby, raw",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1.25,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion, carrots, and garlic over medium-high heat, 9-11 minutes.",
+      "Add the rice, saffron, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender and fragrant.",
+      "Tajik plov and its rice-based desserts both lean on basmati's aroma and its ability to stay separate rather than clump."
     ]
   },
   {
@@ -481,32 +498,6 @@
     "ingredients": [
       {
         "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrots, baby, raw",
-        "qty": 70,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the carrots.",
-      "Add the rice, saffron, and 1.5 cups water, cover, and simmer 22-25 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
         "qty": 210,
         "note": ""
       },
@@ -536,9 +527,46 @@
         "note": "minced"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Brown the beef with the onion, carrots, and garlic over medium-high heat, 9-11 minutes.",
       "Add the rice, saffron, and 1.75 cups water, cover, and simmer 24-28 minutes until the rice is tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrots, baby, raw",
+        "qty": 80,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1.25,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, carrots, and garlic over medium-high heat, 9-11 minutes.",
+      "Add the rice, saffron, and 1.75 cups water, cover, and simmer 24-28 minutes until the rice is tender.",
+      "Tajik plov and its rice-based desserts both lean on basmati's aroma and its ability to stay separate rather than clump."
     ]
   },
   {
@@ -1018,31 +1046,37 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 40,
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Saffron threads",
-        "qty": 1,
+        "qty": 1.25,
         "note": "pinch"
       },
       {
         "ingredient": "Rosewater",
-        "qty": 0.25,
+        "qty": 0.375,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Nuts, pistachio nuts, raw",
+        "qty": 10,
+        "note": "chopped, to top"
       }
     ],
     "steps": [
-      "Simmer the rice in the milk with the saffron and rosewater for 25-30 minutes until thick and creamy."
+      "Simmer the rice in the milk with the saffron and rosewater over low heat, stirring often, 28-32 minutes, until thick, creamy, and pale gold.",
+      "Top with the chopped pistachios."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
@@ -1069,7 +1103,8 @@
     ],
     "steps_detailed": [
       "Simmer the rice in the milk with the saffron and rosewater over low heat, stirring often, 28-32 minutes, until thick, creamy, and pale gold.",
-      "Top with the chopped pistachios."
+      "Top with the chopped pistachios.",
+      "Tajik plov and its rice-based desserts both lean on basmati's aroma and its ability to stay separate rather than clump."
     ]
   },
   {

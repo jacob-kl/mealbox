@@ -12,33 +12,6 @@
     "ingredients": [
       {
         "ingredient": "Kidney beans",
-        "qty": 200,
-        "note": "as a fava bean stand-in"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Warm the beans with a splash of their liquid.",
-      "Mash lightly and stir in the lime juice, garlic, and tomatoes.",
-      "Serve with warm bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Kidney beans",
         "qty": 220,
         "note": "as a fava bean stand-in"
       },
@@ -68,10 +41,48 @@
         "note": "cup, chopped, as a parsley stand-in"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Warm the beans with a splash of their liquid over medium-low heat, 5-6 minutes.",
       "Mash lightly, leaving some texture, and stir in the lime juice, garlic, and diced tomatoes.",
       "Drizzle with the oil and top with cilantro, serving with warm bread - foul shami, the Damascus-style version, is a Syrian breakfast fixture."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Kidney beans",
+        "qty": 220,
+        "note": "as a fava bean stand-in"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the beans with a splash of their liquid over medium-low heat, 5-6 minutes.",
+      "Mash lightly, leaving some texture, and stir in the lime juice, garlic, and diced tomatoes.",
+      "Drizzle with the oil and top with cilantro, serving with warm bread - foul shami, the Damascus-style version, is a Syrian breakfast fixture.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {
@@ -295,9 +306,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Grape leaves, canned",
-        "qty": 100,
-        "note": "rinsed"
+        "ingredient": "Grape leaves, raw",
+        "qty": 120,
+        "note": "or canned"
       },
       {
         "ingredient": "White rice (dry)",
@@ -305,58 +316,63 @@
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 30,
+        "ingredient": "Ground lamb",
+        "qty": 90,
         "note": ""
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.25,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Mix the uncooked rice with the tomatoes and lime juice for the filling.",
-      "Wrap small, tight portions in the grape leaves, rolling into thin cylinders.",
-      "Simmer in water to cover for 35-40 minutes until the rice is tender."
+      "Roll the rice and lamb mixture in the grape leaves.",
+      "Simmer in the tomatoes, lemon juice, and water, covered, 40-45 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Grape leaves, canned",
-        "qty": 110,
-        "note": "rinsed"
+        "ingredient": "Grape leaves, raw",
+        "qty": 130,
+        "note": "or canned"
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Basmati rice (dry)",
         "qty": 45,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 35,
+        "ingredient": "Ground lamb",
+        "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.375,
+        "note": "chopped"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "whole, for the pot"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Mix the uncooked rice with the tomatoes, lime juice, and oil for the filling.",
-      "Lay each grape leaf flat, place a small spoonful of filling near the stem end, fold in the sides, and roll tightly into a thin cylinder - Syrian yabrak are traditionally rolled thinner and more delicately than some neighboring versions.",
-      "Layer whole garlic cloves in the bottom of the pot, arrange the rolls snugly on top, cover with water, and simmer 35-45 minutes until the rice is tender.",
-      "Serve warm or at room temperature."
+      "If using raw grape leaves, blanch 1-2 minutes until pliable; rinse well if using canned.",
+      "Mix the raw rice with the lamb, dried mint, and garlic.",
+      "Lay each leaf vein-side up, place a small portion of filling near the stem, fold the sides in, and roll into a tight cylinder.",
+      "Pack seam-side down into a pot, pour the tomatoes, lemon juice, and 1 cup water over, weigh down with a small plate, and simmer covered 40-45 minutes until the rice is fully cooked.",
+      "Yabrak, Syria's name for stuffed grape leaves, leans on mint and lemon rather than the cinnamon-forward filling used further east - the lemon should read as a real backbone of the dish, not a garnish stirred in at the end."
     ]
   },
   {
@@ -590,61 +606,69 @@
     "ingredients": [
       {
         "ingredient": "Ground lamb",
-        "qty": 200,
-        "note": "formed into a small roast, or use lamb pieces"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
-        "qty": 120,
+        "qty": 190,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 180,
+        "note": ""
       },
       {
         "ingredient": "White rice (dry)",
         "qty": 55,
-        "note": "cooked"
-      }
-    ],
-    "steps": [
-      "Simmer the lamb until tender, about 1-1.25 hours, reserving a little of the cooking liquid.",
-      "Warm the yogurt gently with the garlic and a splash of the reserved liquid, stirring so it doesn't split.",
-      "Serve the lamb and yogurt sauce over the rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 220,
-        "note": "formed into a small roast, or use lamb pieces"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Plain Organic Greek Yogurt, Plain",
-        "qty": 130,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1.25,
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Brown the lamb, then simmer in water until tender.",
+      "Stir in the yogurt gently over low heat without boiling.",
+      "Serve over the cooked rice."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": "formed into a few large chunks"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 60,
-        "note": "cooked"
+        "ingredient": "Cornstarch",
+        "qty": 1,
+        "note": "tsp"
       },
       {
-        "ingredient": "Bay leaves",
+        "ingredient": "Vegetable oil",
         "qty": 1,
-        "note": ""
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the lamb with the bay leaf in water to cover for 1-1.5 hours until completely tender, reserving the cooking liquid.",
-      "Warm the yogurt gently over low heat with the garlic and a splash of the reserved liquid, stirring constantly so it doesn't split.",
-      "Serve the lamb and warm yogurt sauce over the rice - shakriya is a beloved Syrian comfort dish, its tangy yogurt sauce distinct from richer, meatier stews."
+      "Brown the lamb in the oil, 9-11 minutes, then add 1.5 cups water and simmer 30-35 minutes until tender.",
+      "Whisk the yogurt with the cornstarch and garlic until smooth - the cornstarch is what keeps the yogurt from splitting once it hits the hot broth.",
+      "Temper the yogurt with a ladle of the lamb's hot cooking liquid, stirring constantly, then stir the tempered yogurt back into the pot and simmer gently 8-10 minutes without boiling, until thickened into a smooth, tangy sauce.",
+      "Cook the basmati separately in 1 cup water, covered, 15-18 minutes.",
+      "Serve the lamb and its yogurt sauce over the rice.",
+      "Shakriya's whole technique hinges on that tempering step - yogurt added directly to a boiling pot breaks and curdles, which is the single most common way this dish goes wrong."
     ]
   },
   {
@@ -656,18 +680,18 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Eggplant",
-        "qty": 180,
-        "note": "as a zucchini stand-in, hollowed"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 130,
-        "note": ""
+        "ingredient": "Eggplant, raw",
+        "qty": 160,
+        "note": "hollowed"
       },
       {
         "ingredient": "White rice (dry)",
-        "qty": 30,
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground lamb",
+        "qty": 100,
         "note": ""
       },
       {
@@ -677,24 +701,23 @@
       }
     ],
     "steps": [
-      "Mix the raw rice with the beef.",
-      "Stuff into the hollowed eggplant and place in a baking dish with the tomatoes.",
-      "Bake at 375F, covered, for 40-45 minutes until the rice is tender."
+      "Hollow the eggplant and pack loosely with the raw rice and lamb mixture.",
+      "Simmer in the tomatoes and water, covered, 35-40 minutes."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Eggplant",
-        "qty": 200,
-        "note": "as a zucchini stand-in, hollowed"
+        "ingredient": "Eggplant, raw",
+        "qty": 180,
+        "note": "hollowed, standing in for zucchini/kousa squash"
       },
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 45,
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
+        "ingredient": "Ground lamb",
+        "qty": 110,
         "note": ""
       },
       {
@@ -703,21 +726,26 @@
         "note": ""
       },
       {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.375,
+        "note": "chopped"
+      },
+      {
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Mix the raw rice with the beef, garlic, and cinnamon.",
-      "Stuff into the hollowed eggplant (standing in for zucchini/kousa) and arrange in a baking dish with the diced tomatoes poured around and over.",
-      "Cover and bake at 375F (190C) for 42-50 minutes until the rice is tender.",
-      "Kousa mahshi is a treasured Syrian stuffed-vegetable dish, part of a wider family of dolma found across the region."
+      "Halve the eggplant lengthwise and hollow out the center, leaving a shell about 1cm thick.",
+      "Mix the raw rice with the lamb, dried mint, and garlic, and pack loosely into the hollowed shells - loosely, since the rice needs room to expand as it cooks.",
+      "Arrange in a pot, pour the tomatoes, lemon juice, and 1 cup water over, cover, and simmer 35-40 minutes until the shell is tender and the rice inside is fully cooked.",
+      "Kousa mahshi is properly made with kousa, a pale, tender Levantine summer squash that isn't a distinct item in this database - eggplant gives a similar hollowed-and-stuffed structure, though its flesh is denser and its flavor more assertive than the mild squash the dish is built around."
     ]
   },
   {
@@ -1011,33 +1039,6 @@
     "ingredients": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Fry the potato cubes in the oil until golden and crisp, about 10-12 minutes.",
-      "Toss with the garlic and jalapeno in the last 2 minutes of frying.",
-      "Finish with a squeeze of lime and serve hot."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
         "qty": 220,
         "note": "cubed"
       },
@@ -1067,10 +1068,48 @@
         "note": ""
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Fry the potato cubes in the oil over medium-high heat, 12-15 minutes, until deeply golden and crisp on the outside, tender within.",
       "Toss with the garlic and jalapeno in the last 2-3 minutes of frying, letting them turn fragrant without burning.",
       "Finish with the cilantro and a squeeze of lime juice, and serve hot - batata harra is a beloved, addictive Syrian mezze dish."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.625,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Parsley, fresh",
+        "qty": 0.0625,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.3333333333333333,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Fry the potato cubes in the oil over medium-high heat, 12-15 minutes, until deeply golden and crisp on the outside, tender within.",
+      "Toss with the garlic and jalapeno in the last 2-3 minutes of frying, letting them turn fragrant without burning.",
+      "Finish with the cilantro and a squeeze of lime juice, and serve hot - batata harra is a beloved, addictive Syrian mezze dish.",
+      "Real fresh parsley is used here now rather than cilantro standing in for it - the two herbs taste meaningfully different, and this dish specifically calls for parsley's flavor."
     ]
   },
   {

@@ -183,13 +183,13 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 100,
-        "note": "standing in for black beans"
+        "ingredient": "365 (Whole Foods) Black Beans",
+        "qty": 130,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -204,18 +204,18 @@
     ],
     "steps": [
       "Soften the onion with the cumin.",
-      "Add the rice, chickpeas, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
+      "Add the beans, rice, and 1 cup water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 115,
-        "note": "standing in for black beans"
+        "ingredient": "365 (Whole Foods) Black Beans",
+        "qty": 140,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -223,20 +223,31 @@
         "note": "chopped"
       },
       {
+        "ingredient": "Peppers, sweet, green, raw",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
         "ingredient": "Ground cumin",
-        "qty": 0.625,
+        "qty": 0.5,
         "note": "tsp"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Soften the onion and garlic with the cumin in a little oil, 5-6 minutes.",
-      "Add the rice, chickpeas, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender.",
-      "Moros y cristianos, rice and beans cooked together, is the standard side to nearly every Cuban main dish - black beans are the traditional bean, and aren't in this database, so chickpeas carry the dish here instead."
+      "Soften the onion, pepper, and garlic in the oil with the cumin, 6-7 minutes.",
+      "Add the black beans with a little of their liquid and simmer 8-10 minutes, mashing a few beans against the pot to thicken and darken the mixture.",
+      "Stir in the rice and 1.1 cups water, cover, and cook over low heat 18-20 minutes until the rice is tender and has taken on a deep grey-brown color from the beans.",
+      "Moros y Cristianos, 'Moors and Christians', gets its name from the visual contrast of black beans against white rice - real black beans, not a lighter-colored legume, are what make that name make sense; the rice should end up genuinely dark, not just rice with beans mixed through it."
     ]
   },
   {
@@ -377,7 +388,7 @@
     ]
   },
   {
-    "name": "Cuban Chickpea Soup",
+    "name": "Cuban Black Bean Soup",
     "cuisine": "cuban",
     "meal_type": "lunch",
     "course": "complete",
@@ -389,9 +400,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 150,
-        "note": "standing in for black beans"
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -415,9 +426,9 @@
     ],
     "ingredients_full": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 170,
-        "note": "standing in for black beans"
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -535,14 +546,14 @@
         "note": ""
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "steps": [
-      "Brown the chicken.",
-      "Add the rice, tomatoes, saffron, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
+      "Brown the chicken with the onion.",
+      "Add the rice, tomatoes, turmeric, and 1.5 cups water, cover, and simmer 20-22 minutes."
     ],
     "ingredients_full": [
       {
@@ -567,19 +578,32 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 35,
+        "qty": 40,
         "note": "chopped"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Peppers, sweet, green, raw",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
-      "Add the rice, tomatoes, saffron, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender and golden.",
-      "Arroz con pollo, traditionally colored with annatto rather than saffron, is a beloved Sunday dinner across Cuban households."
+      "Brown the chicken in the oil, 8-10 minutes, then set aside.",
+      "Build a sofrito by softening the onion, garlic, and pepper in the same pot, 6-7 minutes - this trio, cooked down until soft and fragrant, is the flavor foundation under nearly all Cuban rice and stew cooking.",
+      "Add the tomatoes and saffron, and cook 3-4 minutes.",
+      "Return the chicken with 1.5 cups water, cover, and simmer 15 minutes.",
+      "Stir in the rice, cover, and cook over low heat 18-20 minutes until tender.",
+      "Arroz con pollo's golden color from saffron (or achiote in some regional versions) and its sofrito base are what separate it from a generic chicken-and-rice dish."
     ]
   },
   {
@@ -649,7 +673,7 @@
     ]
   },
   {
-    "name": "Cuban Fried Plantains and Chickpeas",
+    "name": "Cuban Fried Plantains and Black Beans",
     "cuisine": "cuban",
     "meal_type": "dinner",
     "course": "complete",
@@ -665,9 +689,9 @@
         "note": "sliced and fried, tostones-style"
       },
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 100,
-        "note": "standing in for black beans"
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -691,9 +715,9 @@
         "note": "sliced and fried, tostones-style"
       },
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "365 (Whole Foods) Black Beans",
         "qty": 115,
-        "note": "standing in for black beans"
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",

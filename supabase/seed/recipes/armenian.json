@@ -562,9 +562,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 200,
-        "note": "chunked, as a pumpkin stand-in"
+        "ingredient": "Pumpkin, raw",
+        "qty": 220,
+        "note": "chunked"
       },
       {
         "ingredient": "White rice (dry)",
@@ -573,34 +573,33 @@
       },
       {
         "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 15,
+        "qty": 18,
         "note": ""
       },
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 20,
-        "note": "chopped"
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Roast the sweet potato at 400F for 20-25 minutes until tender.",
-      "Cook the rice and toss with the raisins and walnuts.",
-      "Serve the rice alongside or stuffed into the roasted sweet potato."
+      "Toss the pumpkin chunks with the rice, raisins, and honey.",
+      "Bake at 375F for 35-40 minutes until tender."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 220,
-        "note": "chunked, as a pumpkin stand-in"
+        "ingredient": "Pumpkin, raw",
+        "qty": 250,
+        "note": "small pumpkin, top cut off and seeds scooped out, or chunked if a whole small pumpkin isn't practical"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
         "note": ""
       },
       {
         "ingredient": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
-        "qty": 18,
+        "qty": 20,
         "note": ""
       },
       {
@@ -609,20 +608,26 @@
         "note": "chopped"
       },
       {
+        "ingredient": "Dried apricots",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
         "ingredient": "Honey",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.125,
+        "qty": 0.1875,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Roast the sweet potato (standing in for the whole pumpkin traditionally used) at 400F (200C) for 22-28 minutes until tender.",
-      "Cook the rice and toss with the raisins, walnuts, honey, and cinnamon.",
-      "Serve the sweetened rice alongside or stuffed into the roasted sweet potato - ghapama, a whole pumpkin stuffed with sweet rice and dried fruit, is a festive Armenian centerpiece dish, especially for harvest celebrations."
+      "Parboil the basmati 8-9 minutes until still firm, then mix with the raisins, walnuts, apricots, honey, and cinnamon.",
+      "Pack the filling into the hollowed pumpkin, replace the lid, and bake at 375F (190C) for 50-60 minutes, until the pumpkin flesh is fully tender and the filling is cooked through.",
+      "Slice into wedges to serve, with pumpkin and filling together in each piece.",
+      "Ghapama, a whole pumpkin stuffed with sweet spiced rice, is traditionally brought to the table intact and cut open there - real pumpkin is what makes this recognizably ghapama, since the dish's whole presentation depends on using the vegetable as its own serving vessel."
     ]
   },
   {

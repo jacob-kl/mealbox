@@ -87,51 +87,50 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
+        "qty": 55,
+        "note": ""
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "fried"
+        "qty": 2,
+        "note": ""
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.16666666666666666,
-        "note": ""
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "steps": [
-      "Steam or cook the sticky rice according to package directions.",
-      "Fry the egg and drizzle with the fish sauce.",
-      "Serve together."
+      "Cook the rice.",
+      "Scramble the eggs with the fish sauce and serve alongside."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked, glutinous if available"
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 60,
+        "note": "soaked at least 4 hours or overnight"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": "fried"
-      },
-      {
-        "ingredient": "Fish sauce",
-        "qty": 0.20833333333333334,
+        "qty": 2,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 15,
-        "note": "sliced, to top"
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Steam or cook the sticky rice according to package directions, keeping it warm.",
-      "Fry the egg to your liking and top with a few slices of onion.",
-      "Serve the egg over or alongside the rice, drizzled with fish sauce - a simple, common Laotian breakfast, sticky rice being the staple starch of the country."
+      "Drain the soaked rice and steam over simmering water in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender - sticky rice is steamed, never boiled directly in water, or it turns to mush.",
+      "Scramble the eggs in the oil with the fish sauce.",
+      "Serve the steamed sticky rice alongside, eaten by hand, pinched into small balls and dipped into the egg."
     ]
   },
   {
@@ -146,50 +145,43 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
+        "qty": 40,
         "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 94.6,
-        "note": ""
+        "qty": 0.5,
+        "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
+        "ingredient": "Honey",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps": [
-      "Simmer the rice in water and coconut milk for 20-25 minutes, stirring occasionally, until thick and creamy.",
-      "Stir in the sugar and serve warm."
+      "Simmer the rice in the coconut milk and water for 25-30 minutes until thick."
     ],
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 45,
         "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 118.3,
-        "note": ""
+        "qty": 0.6,
+        "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
+        "ingredient": "Honey",
         "qty": 1.25,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, toasted, to top"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in 1.5 cups water with the coconut milk over medium-low heat, stirring occasionally, for 22-28 minutes until thick and porridge-like.",
-      "Stir in the sugar.",
-      "Top with the toasted shredded coconut and serve warm - a comforting, mildly sweet breakfast porridge."
+      "Simmer the glutinous rice in the coconut milk and 0.75 cup water over low heat, stirring often, 30-35 minutes, until it breaks down into a thick, sticky porridge - glutinous rice thickens far more than jasmine or basmati would, giving Lao rice porridge its characteristic dense, clingy texture.",
+      "Stir in the honey."
     ]
   },
   {
@@ -201,68 +193,77 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Ground chicken",
-        "qty": 180,
+        "ingredient": "Ground beef 90/10",
+        "qty": 190,
         "note": ""
       },
       {
         "ingredient": "Lime juice",
-        "qty": 1,
+        "qty": 1.75,
         "note": "tbsp"
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 1,
+        "qty": 1.25,
         "note": "tbsp"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "thinly sliced"
+        "ingredient": "Cilantro",
+        "qty": 0.2,
+        "note": "cup, chopped"
       }
     ],
     "steps": [
-      "Brown the ground chicken in a dry pan until cooked through, breaking it into small crumbles.",
-      "Toss with the lime juice, fish sauce, and onion.",
-      "Serve with sticky rice and fresh lettuce leaves."
+      "Brown the beef, then toss with the lime juice, fish sauce, and cilantro."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Ground chicken",
+        "ingredient": "Ground beef 90/10",
         "qty": 200,
         "note": ""
       },
       {
         "ingredient": "Lime juice",
-        "qty": 1.25,
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 1.25,
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.125,
+        "note": "cup, chopped"
+      },
+      {
         "ingredient": "Yellow onion",
-        "qty": 35,
+        "qty": 40,
         "note": "thinly sliced"
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Glutinous rice (dry)",
         "qty": 15,
-        "note": "toasted and ground, as a khao khua stand-in"
+        "note": "toasted and ground, standing in for khao khua toasted rice powder"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
+        "ingredient": "Spices, chili powder",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toast the raw rice in a dry pan over medium heat, stirring, 4-5 minutes until deeply golden and fragrant, then grind into a coarse powder - this is khao khua, essential to real larb's texture and nutty flavor.",
-      "Brown the ground chicken in a dry pan until cooked through, breaking it into small, even crumbles.",
-      "Toss the cooked chicken with the lime juice, fish sauce, onion, cilantro, and toasted rice powder.",
-      "Serve with sticky rice and fresh lettuce or cabbage leaves for wrapping - Laos's national dish, a bright, herbaceous minced meat salad."
+      "Toast the raw glutinous rice grains in a dry pan over medium heat, stirring constantly, 4-5 minutes, until deeply golden brown and fragrant, then grind to a coarse powder - this toasted rice powder, khao khua, is what gives larb its distinctive nutty crunch and is not optional or decorative.",
+      "Brown the beef in a dry pan, breaking it up, 6-8 minutes, until just cooked through.",
+      "Off the heat, toss the hot beef with the lime juice, fish sauce, and chili powder.",
+      "Fold in the onion, cilantro, and mint, then finish with the toasted rice powder.",
+      "Larb, considered something close to a national dish of Laos, is built on the tension between hot meat and cold raw herbs added at the very last moment - the herbs should still be crisp and bright, not wilted from the meat's heat."
     ]
   },
   {
@@ -426,46 +427,14 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Glutinous rice (dry)",
         "qty": 45,
-        "note": "cooked"
+        "note": "cooked and cooled"
       },
       {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 100,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Fry or bake the cooked rice until crisp and golden.",
-      "Brown the ground pork, then toss with the crispy rice, onion, and lime juice.",
-      "Serve with fresh lettuce leaves for wrapping."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 110,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "thinly sliced"
+        "ingredient": "Ground pork (raw)",
+        "qty": 90,
+        "note": "standing in for fermented pork sausage"
       },
       {
         "ingredient": "Lime juice",
@@ -474,20 +443,56 @@
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.25,
-        "note": ""
+        "qty": 0.75,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Brown the pork.",
+      "Toss with the rice, lime juice, and fish sauce."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "cooked and cooled"
+      },
+      {
+        "ingredient": "Ground pork (raw)",
+        "qty": 100,
+        "note": "standing in for fermented pork sausage (naem)"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fish sauce",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
+        "qty": 0.2,
         "note": "cup, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Peppers, sweet, red, raw",
+        "qty": 30,
+        "note": "sliced"
       }
     ],
     "steps_detailed": [
-      "Spread the cooked rice on a tray and bake at 375F (190C) for 12-15 minutes, or pan-fry, until deeply golden and crisp, then break into small clumps.",
-      "Brown the ground pork over medium-high heat, 6-8 minutes.",
-      "Toss the crispy rice with the pork, onion, cilantro, lime juice, and fish sauce.",
-      "Serve with fresh lettuce leaves for wrapping - a beloved crunchy, tangy Laotian salad, popular as a shared appetizer."
+      "Brown the pork, breaking it up, 6-8 minutes, until cooked through.",
+      "Toss the cooked, cooled sticky rice with the pork, lime juice, and fish sauce, breaking up any rice clumps so the dressing coats every grain.",
+      "Fold in the cilantro, onion, and pepper.",
+      "Naem khao is properly built on naem, a specific fermented raw pork sausage that isn't a distinct product in this database - cooked ground pork carries the dish's texture and heartiness without the fermented tang, an honest but real difference from the traditional version."
     ]
   },
   {
@@ -867,30 +872,9 @@
     "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": "beaten"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Shape the cooked sticky rice into a small flat patty.",
-      "Brush with the beaten egg and grill or pan-fry in the oil until golden and slightly crisp, about 3-4 minutes per side."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked, glutinous if available"
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 45,
+        "note": "cooked"
       },
       {
         "ingredient": "Eggs (large)",
@@ -898,21 +882,41 @@
         "note": "beaten"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Fish sauce",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Form the rice into a ball, brush with the egg and fish sauce, and grill or broil, turning, 8-10 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "cooked"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten, for basting"
       },
       {
         "ingredient": "Fish sauce",
-        "qty": 0.08333333333333333,
-        "note": "mixed into the egg wash"
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Shape the cooked sticky rice into a small, firm flat patty or ball, pressing well so it holds together.",
-      "Mix the beaten egg with the fish sauce.",
-      "Grill or pan-fry the rice in the oil over medium heat, brushing repeatedly with the egg mixture, 3-5 minutes per side, until golden, glossy, and slightly crisp at the edges.",
-      "A simple, beloved Laotian street snack."
+      "Form the cooked sticky rice into a flattened ball around a skewer, if available.",
+      "Brush with the beaten egg mixed with fish sauce and a little oil.",
+      "Grill or toast under a broiler, turning and re-brushing every couple of minutes, 8-10 minutes total, until the outside is crisp and deeply golden.",
+      "Khao jee, grilled sticky rice basted repeatedly with egg, is a common roadside snack across Laos - the repeated basting and turning is what builds the crisp, lacquered crust."
     ]
   },
   {
@@ -1051,13 +1055,39 @@
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
+        "qty": 45,
+        "note": ""
       },
       {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 71.0,
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 100,
         "note": ""
+      }
+    ],
+    "steps": [
+      "Cook the rice, then stir through the sweetened coconut milk.",
+      "Serve with the fruit."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "soaked at least 4 hours"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.4,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
@@ -1065,47 +1095,16 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Mangos, raw",
-        "qty": 100,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Warm the coconut milk with the sugar until dissolved.",
-      "Pour over the cooked sticky rice and let sit 5 minutes to absorb.",
-      "Serve with the sliced mango."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": "cooked, glutinous if available"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 82.8,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Mangos, raw",
-        "qty": 110,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
-        "note": "cup, toasted, to top"
+        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 120,
+        "note": "standing in for ripe mango"
       }
     ],
     "steps_detailed": [
-      "Warm the coconut milk with the sugar over low heat until the sugar dissolves, about 2-3 minutes.",
-      "Pour most of the coconut mixture over the warm cooked sticky rice, reserving a little, and let sit 8-10 minutes to absorb.",
-      "Serve topped with the sliced mango, the reserved coconut sauce drizzled over, and the toasted coconut - shared across the region, but a true staple in Laos as well."
+      "Drain the soaked rice and steam in a cloth-lined steamer basket, 20-25 minutes, until translucent and tender.",
+      "Warm the coconut milk with the sugar until dissolved, then pour most of it over the warm rice and let it absorb 10 minutes.",
+      "Serve the sweetened sticky rice with the fruit alongside, drizzling the reserved coconut milk over both.",
+      "Ripe mango isn't a distinct raw item in this database, so a firmer fruit stands in here - the real dish depends on mango's specific soft, perfumed ripeness, which this substitute doesn't fully replicate."
     ]
   },
   {
@@ -1184,44 +1183,12 @@
       {
         "ingredient": "White rice (dry)",
         "qty": 45,
-        "note": "cooked, glutinous if available"
-      },
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 47.3,
         "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Mix the cooked rice with the coconut milk and sugar.",
-      "Wrap portions around a slice of banana, using foil in place of the traditional banana leaf.",
-      "Steam for 15-20 minutes until firm and set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": "cooked, glutinous if available"
-      },
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 70,
-        "note": "sliced"
-      },
-      {
         "ingredient": "365 (Whole Foods) Coconut Milk",
-        "qty": 59.1,
-        "note": ""
+        "qty": 0.25,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
@@ -1229,16 +1196,41 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Shredded coconut",
-        "qty": 0.0625,
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 50,
+        "note": "sliced"
+      }
+    ],
+    "steps": [
+      "Mix the rice with the coconut milk, sugar, and plantain.",
+      "Steam in a foil packet 30-35 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Glutinous rice (dry)",
+        "qty": 55,
+        "note": "soaked at least 4 hours"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Coconut Milk",
+        "qty": 0.33,
         "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 60,
+        "note": "sliced"
       }
     ],
     "steps_detailed": [
-      "Mix the cooked sticky rice with the coconut milk, sugar, and shredded coconut until well combined.",
-      "Take a portion of the rice mixture, flatten slightly, place a slice of banana in the center, and wrap into a small bundle, using foil in place of the traditional banana leaf.",
-      "Steam the bundles over simmering water for 18-22 minutes until firm and set.",
-      "Let cool slightly before unwrapping - a portable, traditional Laotian sweet, often made for festivals and offerings."
+      "Drain the soaked rice and toss with the coconut milk and sugar.",
+      "Traditionally wrapped and steamed in banana leaves, which aren't a distinct item in this database - instead, spread the rice mixture with the plantain in a small foil packet, fold to seal, and steam over simmering water 30-35 minutes until the rice is fully tender.",
+      "Khao tom, sweet sticky rice bundles with banana or other fruit steamed inside, are made for Lao festivals and merit-making ceremonies - the banana-leaf wrapping is traditional for both flavor and presentation; foil keeps the same steaming method without it."
     ]
   },
   {
