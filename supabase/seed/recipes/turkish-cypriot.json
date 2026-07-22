@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Turkish-Cypriot Cheese and Tomato Eggs",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 30,
+        "note": "crumbled, standing in for halloumi"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Soften the tomatoes in the oil.",
+      "Scramble in the eggs, folding in the cheese just before they finish setting."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 35,
+        "note": "crumbled, standing in for halloumi"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 0.375,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the tomatoes and oregano in the oil over medium heat, 5-6 minutes.",
+      "Scramble in the eggs, folding in the cheese just before they finish setting, letting it soften through - halloumi isn't in this database, so feta carries the salty, tangy role here, though it won't hold its shape when heated the way halloumi does."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Cheese and Bread",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "breakfast",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
+        "qty": 2,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 30,
+        "note": "crumbled, standing in for halloumi"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Butter the bread and top with the cheese."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
+        "qty": 2.25,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 35,
+        "note": "crumbled, standing in for halloumi"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Butter the bread generously, top with the cheese, and finish with a squeeze of lemon juice."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Yogurt with Honey",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Spoon the yogurt into a bowl and top with the honey and walnuts."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Spoon the yogurt into a bowl, drizzle with the honey, and top with the walnuts and a dusting of cinnamon."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Grilled Cheese Plate",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 90,
+        "note": "sliced thick, standing in for halloumi"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Pan-fry the cheese slices in the oil, 2 minutes per side, until golden.",
+      "Finish with the lemon juice and oregano."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 100,
+        "note": "sliced thick, standing in for halloumi"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Pan-fry the cheese slices in the oil over medium-high heat, 2-3 minutes per side, until golden - feta will soften more than true halloumi, which is specifically prized for holding its shape on the grill.",
+      "Finish with the lemon juice, oregano, and mint."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Lentil Soup",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lentils, raw",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Soften the onion with the cumin.",
+      "Add the lentils, tomatoes, and 2 cups water, and simmer 25-30 minutes until soft."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils, raw",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the onion, garlic, and cumin in a little oil, 5-6 minutes.",
+      "Add the lentils, tomatoes, and 2.25 cups water, and simmer 28-32 minutes until soft and thickened."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Chickpea Stew",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Soften the onion and oregano.",
+      "Add the chickpeas and tomatoes, and simmer 15-18 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Soften the onion, garlic, and oregano in a little oil, 5-6 minutes.",
+      "Add the chickpeas and tomatoes, and simmer 18-22 minutes, mashing some of the chickpeas to thicken."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Lemon Chicken",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "lunch",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Marinate the chicken in the lemon juice, oregano, and garlic for at least 15 minutes.",
+      "Pan-fry or grill, 10-12 minutes, until cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.75,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the chicken in the lemon juice, oregano, garlic, and oil for at least 25-30 minutes.",
+      "Pan-fry or grill over medium-high heat, 11-13 minutes, until well browned and cooked through."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Souvlaki-Style Lamb",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 190,
+        "note": "formed into skewer-style portions"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Mix the lamb with the lemon juice, oregano, and onion, and shape into small portions.",
+      "Grill or pan-fry, 8-10 minutes, until cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 210,
+        "note": "formed into skewer-style portions"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the lamb with the lemon juice, oregano, onion, and garlic, and shape into small, even portions.",
+      "Grill or pan-fry over medium-high heat, 9-11 minutes, turning, until well browned and cooked through - grilled skewered lamb is shared across Cyprus's Greek and Turkish culinary traditions alike."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Kofte (Meatballs)",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 35,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix the beef with the onion, garlic, and cumin, and form into small oval patties.",
+      "Pan-fry, 8-10 minutes, turning, until browned through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.75,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with the onion, garlic, cumin, egg, and flour thoroughly, and form into small, even oval patties.",
+      "Pan-fry over medium heat, 9-11 minutes, turning, until well browned and cooked through."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Baked Fish with Lemon",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [
+      "fish"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Season the fish with the lemon juice, oregano, and oil.",
+      "Bake at 400F for 15-18 minutes until just cooked through."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Season the fish with the lemon juice, oregano, garlic, and oil.",
+      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Beef and Pepper Stew",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dinner",
+    "course": "complete",
+    "tags": [],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Peppers, sweet, red, raw",
+        "qty": 90,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Brown the beef with the onion.",
+      "Add the pepper and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 210,
+        "note": ""
+      },
+      {
+        "ingredient": "Peppers, sweet, red, raw",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 70,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and garlic over medium-high heat, 9-11 minutes.",
+      "Add the pepper and tomatoes, and simmer 32-38 minutes until fully tender."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Cheese and Tomato Snack",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 50,
+        "note": "standing in for halloumi"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Arrange the feta and tomatoes together.",
+      "Drizzle with the oil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 60,
+        "note": "standing in for halloumi"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Arrange the feta and tomatoes together, drizzle with the oil, and scatter with the oregano."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Spiced Chickpea Snack",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the chickpeas with the cumin, lemon juice, and oil."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 135,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.625,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chickpeas with the cumin, lemon juice, oil, and garlic.",
+      "Let sit 10 minutes so the flavors meld."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Cucumber Yogurt Snack",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps": [
+      "Mix the yogurt, cucumber, and garlic together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 135,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 70,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.75,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the yogurt, cucumber, garlic, and mint together.",
+      "Let sit 10 minutes so the flavors meld."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Cabbage Slaw",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "snack",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 90,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Toss the cabbage with the oil and lemon juice.",
+      "Let sit 10 minutes so it softens slightly."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 100,
+        "note": "finely shredded"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage with the oil, lemon juice, and pepper.",
+      "Let sit 15 minutes so it softens slightly before serving."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Rice Pudding",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dessert",
+    "course": "complete",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.9,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.1875,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice in the milk with the cinnamon, honey, and rosewater over low heat, stirring often, 28-32 minutes, until thick and creamy."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Honey Walnut Cake",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 25,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Beat the egg with the honey, mix in the flour and walnuts.",
+      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 65,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Beat the egg with the honey and melted butter, then mix in the flour and walnuts.",
+      "Pour into a small lined pan and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Yogurt and Honey Parfait",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "dessert",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 20,
+        "note": "chopped"
+      }
+    ],
+    "steps": [
+      "Layer the yogurt with the honey and walnuts."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 170,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.75,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, walnuts, english",
+        "qty": 25,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Layer the yogurt with the honey, walnuts, and a dusting of cinnamon."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Lemon Oregano Sauce",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "no-cook"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the lemon juice, oregano, and oil together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, oregano, dried",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the lemon juice, oregano, oil, and garlic together into a bright, sharp dressing."
+    ]
+  },
+  {
+    "name": "Turkish-Cypriot Yogurt Garlic Sauce",
+    "cuisine": "turkish-cypriot",
+    "meal_type": "sauce",
+    "course": "side",
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "base_servings": 1,
+    "ingredients": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the yogurt, garlic, and lemon juice together."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 115,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.25,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.25,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the yogurt, garlic, lemon juice, and oil together into a smooth, thin sauce."
+    ]
+  }
+]
