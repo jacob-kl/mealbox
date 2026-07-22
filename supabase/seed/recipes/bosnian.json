@@ -340,33 +340,7 @@
       },
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Blanch the cabbage leaves briefly until pliable.",
-      "Mix the beef and rice, roll into the cabbage leaves, and bake at 375F, covered, with the tomatoes poured over, for 35-40 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 135,
-        "note": "leaves separated"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
+        "qty": 180,
         "note": ""
       },
       {
@@ -376,23 +350,52 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps": [
+      "Blanch the cabbage leaves.",
+      "Roll with the rice and beef mixture inside.",
+      "Simmer in the tomatoes and water, covered, 40-45 minutes."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Sauerkraut, canned, solids and liquids",
+        "qty": 150,
+        "note": "whole leaves if available, standing in for whole sour/pickled cabbage leaves"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 190,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork, fresh, belly, raw",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
         "qty": 30,
         "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Blanch the cabbage leaves in simmering water 2-3 minutes until pliable, then drain.",
-      "Mix the beef, rice, onion, and pepper, roll firmly into the cabbage leaves, arrange in a baking dish with the tomatoes poured over, cover, and bake at 375F (190C) for 38-42 minutes until the rice is fully cooked."
+      "Mix the raw rice with the beef, pork, and onion.",
+      "Wrap portions of the filling in the sauerkraut leaves (or shredded sauerkraut pressed around the filling if whole leaves aren't available), rolling snugly.",
+      "Pack into a pot, pour the tomatoes and a splash of the sauerkraut's own brine over, cover, and simmer 45-50 minutes until the rice is fully cooked and the rolls are tender.",
+      "Real Bosnian sarma is built on sour, fermented cabbage leaves specifically, not fresh cabbage - that tang running through the whole dish, distinct from the sweeter, plainer flavor fresh cabbage gives, is what actually defines sarma against a generic stuffed-cabbage-roll recipe. A mix of beef and pork is also more traditional than beef alone."
     ]
   },
   {

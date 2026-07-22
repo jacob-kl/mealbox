@@ -1341,35 +1341,45 @@
     "ingredients": [
       {
         "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
+        "qty": 1.25,
         "note": "torn, as a bread stand-in"
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.9,
         "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 2,
+        "qty": 2.5,
         "note": "tbsp"
       },
       {
         "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 12,
+        "qty": 15,
         "note": "chopped, to top"
+      },
+      {
+        "ingredient": "Rosewater",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Saffron threads",
+        "qty": 1,
+        "note": "pinch"
       }
     ],
     "steps": [
-      "Warm the milk with the sugar until dissolved.",
-      "Pour over the torn bread in a small dish and let it soak until soft.",
-      "Top with the pistachios and serve."
+      "Warm the milk with the sugar, rosewater, and saffron over low heat until the sugar dissolves and the milk turns a pale gold, 3-4 minutes.",
+      "Pour over the torn bread in a small dish and let it soak 10-15 minutes until soft and fully absorbed.",
+      "Top generously with the pistachios and serve - milk-soaked bread desserts scented with rosewater and saffron are a gentle, comforting end to an Emirati meal."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "torn, as a bread stand-in"
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.62,
+        "note": "slices, torn"
       },
       {
         "ingredient": "Whole milk (generic)",
@@ -1400,7 +1410,8 @@
     "steps_detailed": [
       "Warm the milk with the sugar, rosewater, and saffron over low heat until the sugar dissolves and the milk turns a pale gold, 3-4 minutes.",
       "Pour over the torn bread in a small dish and let it soak 10-15 minutes until soft and fully absorbed.",
-      "Top generously with the pistachios and serve - milk-soaked bread desserts scented with rosewater and saffron are a gentle, comforting end to an Emirati meal."
+      "Top generously with the pistachios and serve - milk-soaked bread desserts scented with rosewater and saffron are a gentle, comforting end to an Emirati meal.",
+      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
     ]
   },
   {

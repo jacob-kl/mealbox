@@ -281,32 +281,6 @@
     "ingredients": [
       {
         "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 8,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for toast"
-      }
-    ],
-    "steps": [
-      "Melt the butter, stir in the flour, then the cheese, cooking until smooth and thick.",
-      "Toast the bread and spoon the cheese mixture over, then grill or broil until bubbling."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
         "qty": 70,
         "note": "grated"
       },
@@ -336,10 +310,48 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Melt the butter, stir in the flour, and cook 1 minute, then add the milk gradually, followed by the cheese and pepper, stirring until smooth, thick, and glossy.",
       "Toast the bread, spoon the cheese mixture generously over the top, and grill or broil 2-3 minutes until bubbling and lightly browned.",
       "Rarebit is a proper cooked cheese sauce, not simply melted cheese on toast - the distinction matters to anyone who grew up on the real thing."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 70,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 12,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.5,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.125,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Melt the butter, stir in the flour, and cook 1 minute, then add the milk gradually, followed by the cheese and pepper, stirring until smooth, thick, and glossy.",
+      "Toast the bread, spoon the cheese mixture generously over the top, and grill or broil 2-3 minutes until bubbling and lightly browned.",
+      "Rarebit is a proper cooked cheese sauce, not simply melted cheese on toast - the distinction matters to anyone who grew up on the real thing.",
+      "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
     ]
   },
   {

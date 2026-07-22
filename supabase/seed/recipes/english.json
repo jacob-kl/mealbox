@@ -11,39 +11,6 @@
     "ingredients": [
       {
         "ingredient": "Pork, cured, bacon, unprepared",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for fried toast"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Fry the bacon until crisp, then set aside.",
-      "Fry the eggs in half the butter.",
-      "Warm the tomatoes in a small pan until heated through.",
-      "Fry the bread in the remaining butter until golden, and plate everything together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, cured, bacon, unprepared",
         "qty": 35,
         "note": ""
       },
@@ -73,12 +40,52 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Fry the bacon over medium heat until crisp, 3-4 minutes per side, then set aside, keeping a little of the rendered fat in the pan if you like.",
       "Fry the eggs in half the butter over medium heat, seasoning with black pepper.",
       "Warm the tomatoes in a small pan, 4-5 minutes, until heated through and slightly reduced.",
       "Fry the bread in the remaining butter until deeply golden on both sides, and plate everything together.",
       "Bacon, egg, and fried bread are the three components that appear in essentially every version of a full English, however many extras a given kitchen adds around them."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Pork, cured, bacon, unprepared",
+        "qty": 35,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.5,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.125,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the bacon over medium heat until crisp, 3-4 minutes per side, then set aside, keeping a little of the rendered fat in the pan if you like.",
+      "Fry the eggs in half the butter over medium heat, seasoning with black pepper.",
+      "Warm the tomatoes in a small pan, 4-5 minutes, until heated through and slightly reduced.",
+      "Fry the bread in the remaining butter until deeply golden on both sides, and plate everything together.",
+      "Bacon, egg, and fried bread are the three components that appear in essentially every version of a full English, however many extras a given kitchen adds around them.",
+      "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
     ]
   },
   {
@@ -452,37 +459,6 @@
     "ingredients": [
       {
         "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for a crusty bread roll"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 40,
-        "note": "finely shredded, as a slaw"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tsp, standing in for chutney"
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Arrange the cheese, bread, and a small dab of mustard together.",
-      "Toss the shredded cabbage with the honey and serve alongside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
         "qty": 70,
         "note": "sliced"
       },
@@ -512,10 +488,48 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Arrange the cheese, bread, and a small dab of mustard together on a board.",
       "Toss the shredded cabbage with the honey and lime juice and serve alongside as a simple, bright slaw standing in for pickled onion or chutney.",
       "A ploughman's is less a recipe than an assembly - cold cheese, bread, mustard, and something pickled or sweet, built to be eaten with the hands over a pub lunch."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 70,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.62,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cabbage, raw",
+        "qty": 50,
+        "note": "finely shredded, as a slaw"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.25,
+        "note": "tsp, standing in for chutney"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Arrange the cheese, bread, and a small dab of mustard together on a board.",
+      "Toss the shredded cabbage with the honey and lime juice and serve alongside as a simple, bright slaw standing in for pickled onion or chutney.",
+      "A ploughman's is less a recipe than an assembly - cold cheese, bread, mustard, and something pickled or sweet, built to be eaten with the hands over a pub lunch.",
+      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
     ]
   },
   {
@@ -889,27 +903,6 @@
     "ingredients": [
       {
         "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for toast"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Warm the kippered herring gently.",
-      "Toast the bread in the butter and top with the fish."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
         "qty": 90,
         "note": ""
       },
@@ -929,9 +922,36 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Warm the kippered herring gently in a dry pan, 2-3 minutes.",
       "Toast the bread in the butter until golden, season with pepper, and top with the warm fish - kippers on toast are a familiar teatime or light-supper standby."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, herring, Atlantic, kippered",
+        "qty": 90,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.5,
+        "note": "toasted"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the kippered herring gently in a dry pan, 2-3 minutes.",
+      "Toast the bread in the butter until golden, season with pepper, and top with the warm fish - kippers on toast are a familiar teatime or light-supper standby.",
+      "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
     ]
   },
   {
@@ -1166,34 +1186,45 @@
     "ingredients": [
       {
         "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
+        "qty": 1.25,
         "note": "torn, standing in for sliced bread"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 10,
+        "qty": 12,
         "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
+        "qty": 0.6,
         "note": "cup"
       },
       {
         "ingredient": "Currants, zante, dried",
-        "qty": 15,
+        "qty": 20,
         "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps": [
-      "Butter the torn bread and layer it with the currants in a small dish.",
-      "Pour the milk over, let it soak 10 minutes, and bake at 350F for 20-25 minutes until set."
+      "Butter the torn bread generously and layer it with the currants in a small baking dish.",
+      "Whisk the milk, egg, and sugar together and pour over, letting it soak 12-15 minutes.",
+      "Bake at 350F (175C) for 22-28 minutes until set and golden on top."
     ],
     "ingredients_full": [
       {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "torn, standing in for sliced bread"
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.62,
+        "note": "slices, torn"
       },
       {
         "ingredient": "Butter, salted",
@@ -1224,7 +1255,8 @@
     "steps_detailed": [
       "Butter the torn bread generously and layer it with the currants in a small baking dish.",
       "Whisk the milk, egg, and sugar together and pour over, letting it soak 12-15 minutes.",
-      "Bake at 350F (175C) for 22-28 minutes until set and golden on top."
+      "Bake at 350F (175C) for 22-28 minutes until set and golden on top.",
+      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
     ]
   },
   {
@@ -1364,32 +1396,6 @@
     "ingredients": [
       {
         "ingredient": "Whole wheat tortilla (large)",
-        "qty": 0.5,
-        "note": "torn, standing in for bread"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 20,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer the onion in the milk for 8-10 minutes.",
-      "Stir in the torn bread and butter, and simmer until thickened into a soft, smooth sauce."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
         "qty": 0.6,
         "note": "torn, standing in for bread"
       },
@@ -1414,9 +1420,41 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Simmer the onion in the milk over low heat, 10-12 minutes, until very soft.",
       "Stir in the torn bread, butter, and pepper, and simmer 5-6 more minutes, stirring, until it thickens into a soft, smooth, spoonable sauce - a traditional accompaniment to roast poultry, unusual to outsiders and much loved at home."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 0.78,
+        "note": "slices, torn"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.6,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 25,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the onion in the milk over low heat, 10-12 minutes, until very soft.",
+      "Stir in the torn bread, butter, and pepper, and simmer 5-6 more minutes, stirring, until it thickens into a soft, smooth, spoonable sauce - a traditional accompaniment to roast poultry, unusual to outsiders and much loved at home.",
+      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
     ]
   },
   {

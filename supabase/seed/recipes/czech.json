@@ -475,14 +475,14 @@
         "note": ""
       },
       {
-        "ingredient": "Sour cream, light",
+        "ingredient": "Yellow onion",
         "qty": 40,
-        "note": ""
+        "note": "chopped"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
+        "ingredient": "Sour cream, light",
+        "qty": 50,
+        "note": ""
       },
       {
         "ingredient": "Yukon gold potato",
@@ -492,8 +492,8 @@
     ],
     "steps": [
       "Brown the beef with the onion.",
-      "Add the potato and 1.5 cups water, and simmer 30-35 minutes until tender.",
-      "Stir in the sour cream off the heat."
+      "Add water and simmer until tender, 40 minutes.",
+      "Stir in the sour cream and serve with boiled potato."
     ],
     "ingredients_full": [
       {
@@ -502,30 +502,48 @@
         "note": ""
       },
       {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Carrots, raw",
+        "qty": 60,
+        "note": "chopped"
       },
       {
-        "ingredient": "Yellow onion",
+        "ingredient": "Celeriac, raw",
         "qty": 50,
         "note": "chopped"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 115,
-        "note": "chunked"
+        "ingredient": "Yellow onion",
+        "qty": 45,
+        "note": "chopped"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
+        "ingredient": "Sour cream, light",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lime juice",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion and pepper over medium-high heat, 9-11 minutes.",
-      "Add the potato and 1.75 cups water, and simmer 32-38 minutes until fully tender.",
-      "Remove from heat and stir in the sour cream until smooth - svickova, beef in a rich, pale cream sauce, is served with bread dumplings and a spoonful of cranberry compote at its most traditional."
+      "Brown the beef with the carrot, celeriac, and onion, 9-11 minutes.",
+      "Add 1.5 cups water, cover, and simmer 40-45 minutes until the beef is very tender and the vegetables have fully softened.",
+      "Lift out the beef, then blend the cooking liquid and vegetables together with the flour until completely smooth - this pureed root vegetable base, not a simple cream sauce, is what actually gives svickova its body and its name (from the way of slicing the beef, but the sauce is the real technical heart of the dish).",
+      "Return the smooth sauce to the pot, whisk in the sour cream, sugar, and lime juice off the heat, and warm through gently without boiling.",
+      "Slice the beef and serve under the sauce.",
+      "The root vegetable puree is what separates real svickova from a generic beef-in-cream-sauce dish - carrots and celeriac cooked down and blended into the sauce itself, not left as chunks, are the actual technique the dish is built on."
     ]
   },
   {

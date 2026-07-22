@@ -205,13 +205,13 @@
     "ingredients": [
       {
         "ingredient": "Veal, leg, top round, cap off, cutlet, boneless, raw",
-        "qty": 180,
+        "qty": 190,
         "note": "pounded thin"
       },
       {
         "ingredient": "All-purpose flour",
-        "qty": 30,
-        "note": "for dredging"
+        "qty": 20,
+        "note": ""
       },
       {
         "ingredient": "Eggs (large)",
@@ -219,24 +219,25 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 35,
+        "note": ""
       }
     ],
     "steps": [
-      "Pound the veal cutlet thin.",
-      "Dredge in the flour, then the beaten egg, and fry in the oil, 2-3 minutes per side, until golden."
+      "Pound the veal thin.",
+      "Dredge in flour, egg, then breadcrumbs.",
+      "Fry in oil, 3-4 minutes per side."
     ],
     "ingredients_full": [
       {
         "ingredient": "Veal, leg, top round, cap off, cutlet, boneless, raw",
         "qty": 200,
-        "note": "pounded thin"
+        "note": "pounded very thin"
       },
       {
         "ingredient": "All-purpose flour",
-        "qty": 35,
+        "qty": 25,
         "note": "for dredging"
       },
       {
@@ -245,8 +246,13 @@
         "note": ""
       },
       {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 40,
+        "note": ""
+      },
+      {
         "ingredient": "Vegetable oil",
-        "qty": 2.5,
+        "qty": 3,
         "note": "tbsp, for frying"
       },
       {
@@ -256,9 +262,11 @@
       }
     ],
     "steps_detailed": [
-      "Pound the veal cutlet thin and even, about a quarter-inch thick.",
-      "Dredge in the flour, then the beaten egg, pressing to coat well, and fry in the oil over medium-high heat, 2-3 minutes per side, until deeply golden.",
-      "Finish with the lime juice - a proper schnitzel is traditionally breaded in fine dry breadcrumbs, which aren't a distinct ingredient in this database, so a flour coating carries the crust here instead."
+      "Pound the veal very thin and even, under 1/4 inch, between sheets of plastic - real Wiener Schnitzel is beaten notably thinner than most cutlet dishes, which is part of why it cooks so quickly and crisps so evenly.",
+      "Dredge in the flour, then the beaten egg, then the breadcrumbs, pressing gently so the coating adheres but stays loose rather than packed tight.",
+      "Fry in plenty of oil, enough to come partway up the side of the cutlet, over medium-high heat, 2-3 minutes per side, shaking the pan gently as it cooks so the coating puffs slightly away from the meat rather than sticking flat to it - that characteristic loose, wavy crust is a real hallmark of an authentic schnitzel, not an accident.",
+      "Finish with a squeeze of lime juice.",
+      "The breadcrumb coating is what actually makes this a schnitzel rather than a plain fried cutlet - without it, this was really just veal piccata missing its own sauce."
     ]
   },
   {

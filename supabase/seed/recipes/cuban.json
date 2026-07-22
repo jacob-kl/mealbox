@@ -126,27 +126,6 @@
     "ingredients": [
       {
         "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for Cuban bread"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the bread and top with the cheese.",
-      "Warm briefly in a dry pan until the cheese softens."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
         "qty": 1.25,
         "note": "standing in for Cuban bread"
       },
@@ -166,8 +145,34 @@
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Butter the bread generously, top with the cheese and pepper, and warm briefly in a dry pan until the cheese softens."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.62,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 35,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 9,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.0625,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Butter the bread generously, top with the cheese and pepper, and warm briefly in a dry pan until the cheese softens.",
+      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
     ]
   },
   {
@@ -331,32 +336,6 @@
     "ingredients": [
       {
         "ingredient": "Cheese, cheddar",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 120,
-        "note": "roasted and sliced"
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for Cuban bread"
-      }
-    ],
-    "steps": [
-      "Roast the pork at 400F for 20-25 minutes until browned, then slice thin.",
-      "Layer the bread with the pork, cheese, and mustard, and warm in a dry pan until the cheese melts."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
         "qty": 50,
         "note": "sliced"
       },
@@ -381,10 +360,43 @@
         "note": ""
       }
     ],
-    "steps_detailed": [
+    "steps": [
       "Roast the pork at 400F (200C) for 22-28 minutes until well browned, then slice thin.",
       "Layer the bread with the pork, cheese, and mustard, butter the outside, and press-warm in a dry pan, 2-3 minutes per side, until the cheese melts and the outside is golden.",
       "A true Cuban sandwich also includes ham and pickles - this keeps the pork, cheese, and mustard core that defines it."
+    ],
+    "ingredients_full": [
+      {
+        "ingredient": "Cheese, cheddar",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Pork, fresh, belly, raw",
+        "qty": 135,
+        "note": "roasted and sliced"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
+        "qty": 1.62,
+        "note": "slices"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 7,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Roast the pork at 400F (200C) for 22-28 minutes until well browned, then slice thin.",
+      "Layer the bread with the pork, cheese, and mustard, butter the outside, and press-warm in a dry pan, 2-3 minutes per side, until the cheese melts and the outside is golden.",
+      "A true Cuban sandwich also includes ham and pickles - this keeps the pork, cheese, and mustard core that defines it.",
+      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
     ]
   },
   {
