@@ -64,7 +64,8 @@
       "Warm the refried beans and fry or bake the plantain.",
       "Arrange the eggs, beans, and plantain together, topped with the queso fresco and a dollop of the sour cream.",
       "Guatemalan crema is thinner and tangier than American sour cream but closer to it than to cream cheese, which was too thick and mild for this role - this swap gets the tang closer to right, even if the consistency isn't identical."
-    ]
+    ],
+    "description": "Desayuno chap\u00edn, a hearty breakfast plate of beans, eggs, plantain, and cheese, a beloved Guatemalan tradition."
   },
   {
     "name": "Guatemalan Mosh",
@@ -121,7 +122,8 @@
     "steps_detailed": [
       "Simmer the oats in the milk with the cinnamon over medium-low heat, stirring often, 8-10 minutes until thick and creamy.",
       "Stir in the sugar and serve warm - mosh, a cinnamon oatmeal, is a common, comforting Guatemalan breakfast, especially for children."
-    ]
+    ],
+    "description": "Mosh, an oatmeal-based drink, a common Guatemalan breakfast."
   },
   {
     "name": "Guatemalan Atol de Elote",
@@ -181,7 +183,8 @@
       "Blend the corn with the milk until very smooth, straining if a finer texture is wanted.",
       "Simmer with the sugar and cinnamon over medium-low heat, stirring constantly, 10-12 minutes until thick and warming.",
       "Serve warm - atol de elote, a sweet corn drink, is a beloved Guatemalan breakfast and street-food staple."
-    ]
+    ],
+    "description": "Atol de elote, a warm sweet corn drink, a beloved Guatemalan comfort food."
   },
   {
     "name": "Guatemalan Frijoles Volteados",
@@ -238,7 +241,8 @@
     "steps_detailed": [
       "Saute the onion in the oil until soft, then add the beans and mash until smooth and glossy, cooking 5-6 minutes.",
       "Top with the crumbled queso fresco - volteado means 'flipped,' referring to the traditional technique of cooking the beans until they hold together enough to flip like a pancake."
-    ]
+    ],
+    "description": "Frijoles volteados, refried black beans mashed smooth, a Guatemalan staple."
   },
   {
     "name": "Guatemalan Jocon",
@@ -312,9 +316,9 @@
     ],
     "steps_detailed": [
       "Brown the chicken with the onion and garlic, 8-10 minutes.",
-      "Add the cabbage, cilantro, jalapeno, lime juice, and 1.25 cups water, and simmer 20-22 minutes until the chicken is cooked through and the sauce has reduced and thickened slightly.",
-      "Joc\u00f3n's real green color and distinctive tang come from tomatillo, which isn't a clean standalone item in this database - cabbage and extra lime juice approximate the color and a little of the sourness, but genuine tomatillo's specific tartness isn't fully replicated here."
-    ]
+      "Add the cabbage, cilantro, jalapeno, lime juice, and 1.25 cups water, and simmer 20-22 minutes until the chicken is cooked through and the sauce has reduced and thickened slightly."
+    ],
+    "description": "Joc\u00f3n's real green color and distinctive tang come from tomatillo, which isn't a distinct standalone item here - cabbage and extra lime juice approximate the color and some sourness, but real tomatillo's specific tartness isn't fully replicated."
   },
   {
     "name": "Guatemalan Caldo de Res",
@@ -387,7 +391,8 @@
       "Add the potato and carrot, and simmer 15 minutes.",
       "Add the cabbage and continue simmering 10-12 minutes until all the vegetables are tender.",
       "Top with cilantro and serve hot with rice - a hearty, everyday Guatemalan beef soup."
-    ]
+    ],
+    "description": "Caldo de res, a hearty beef and vegetable soup, a Guatemalan Sunday tradition."
   },
   {
     "name": "Guatemalan Hilachas",
@@ -460,7 +465,8 @@
       "Saute the onion, bell pepper, and garlic until softened, then add the tomatoes, shredded beef, and potato with a splash of the cooking broth.",
       "Simmer 22-28 minutes until the potato is tender and the sauce has thickened.",
       "Serve with rice - hilachas is a beloved everyday Guatemalan comfort dish."
-    ]
+    ],
+    "description": "Hilachas, meaning 'shreds', shredded beef in a tomato sauce, a genuine Guatemalan home-cooking staple."
   },
   {
     "name": "Guatemalan Pepian de Pollo",
@@ -538,9 +544,9 @@
       "Toast the pumpkin and sesame seeds in a dry pan, stirring constantly, 3-4 minutes, until fragrant and lightly browned, then grind to a coarse paste - these ground toasted seeds are what thicken pepi\u00e1n and give it its distinctive nutty depth.",
       "Blend or mash the tomatoes with the ground seeds and chili powder into a smooth, thick sauce.",
       "Return the chicken to the pot with the sauce and 1 cup water, and simmer 20-25 minutes until the chicken is cooked through and the sauce has thickened to a heavy, clinging consistency.",
-      "Serve the chicken and sauce over the separately-cooked rice.",
-      "Pepi\u00e1n, one of Guatemala's most iconic stews, is defined by this toasted-seed thickening technique, a genuinely pre-Hispanic Mayan method that predates the tomato and chili additions brought later."
-    ]
+      "Serve the chicken and sauce over the separately-cooked rice."
+    ],
+    "description": "Pepi\u00e1n, one of Guatemala's most iconic stews, is defined by a toasted-seed thickening technique, a genuinely pre-Hispanic Mayan method that predates the tomato and chili additions brought later."
   },
   {
     "name": "Guatemalan Tamales Colorados",
@@ -613,7 +619,8 @@
       "Simmer the chicken with the diced tomatoes 15-18 minutes until cooked through; shred and mix with a portion of the tomato sauce, folding in the raisins.",
       "Spread a layer of the masa dough onto parchment or a soaked corn husk, top with the chicken filling, fold into a sealed packet, and steam 45-55 minutes until firm.",
       "Tamales colorados, named for their red achiote-tinted dough, are a Guatemalan holiday centerpiece, especially at Christmas."
-    ]
+    ],
+    "description": "Tamales colorados, red-sauced tamales, a Guatemalan Christmas tradition."
   },
   {
     "name": "Guatemalan Chiles Rellenos",
@@ -686,7 +693,8 @@
       "Brown the beef with the onion, and stuff generously into the peppers.",
       "Dip each stuffed pepper in the flour, then the beaten egg, and pan-fry in the oil, turning, 4-6 minutes until golden on all sides.",
       "A festive Guatemalan dish, often part of larger holiday spreads."
-    ]
+    ],
+    "description": "Stuffed peppers, a Guatemalan take on the wider Latin American dish."
   },
   {
     "name": "Guatemalan Kak'ik",
@@ -729,9 +737,9 @@
         "note": "as a turkey stand-in"
       },
       {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.9,
-        "note": ""
+        "ingredient": "Achiote paste",
+        "qty": 1.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -758,7 +766,8 @@
       "Brown the chicken with the paprika, garlic, and jalapeno over medium-high heat, 8-10 minutes.",
       "Add the diced tomatoes and 1 cup water, and simmer, covered, 28-35 minutes until tender and the broth is richly flavored.",
       "Stir in the cilantro just before serving with rice - kak'ik, traditionally made with turkey and rooted in Q'eqchi' Mayan cuisine, is one of Guatemala's most historically significant dishes, recognized by UNESCO."
-    ]
+    ],
+    "description": "Kak'ik, a Mayan turkey soup deeply colored and flavored by achiote, is a UNESCO-recognized part of Guatemala's intangible cultural heritage - real achiote, not paprika, is what gives it its true color and earthy flavor. Turkey isn't a distinct item here, so chicken stands in."
   },
   {
     "name": "Guatemalan Chuchitos",
@@ -826,7 +835,8 @@
       "Brown the beef with the onion and tomatoes, 8-10 minutes, then fold a spoonful into each portion of dough.",
       "Wrap small portions tightly in corn husk or parchment and steam 30-40 minutes until firm.",
       "Chuchitos are a smaller, simpler cousin of tamales, a beloved everyday Guatemalan snack."
-    ]
+    ],
+    "description": "Chuchitos, small, firm corn tamales, a beloved Guatemalan snack."
   },
   {
     "name": "Guatemalan Enchiladas Guatemaltecas",
@@ -897,7 +907,8 @@
       "Fry the tortilla flat in a little oil until crisp, forming a tostada-like base.",
       "Brown the beef, then pile onto the crisp tortilla with the shredded cabbage, tomatoes, queso fresco, and sliced egg.",
       "Unlike Mexican enchiladas, Guatemalan enchiladas are open-faced and eaten like a loaded tostada - a popular festive snack."
-    ]
+    ],
+    "description": "Guatemalan enchiladas are flat, topped tostadas rather than rolled, distinct from the Mexican dish."
   },
   {
     "name": "Guatemalan Fried Plantains",
@@ -952,7 +963,8 @@
       "Slice the plantain into thick rounds and fry in the oil over medium heat, 4-5 minutes per side, until deeply golden and caramelized.",
       "Serve warm with a dollop of cream - fried sweet plantains are a beloved Guatemalan side and snack.",
       "Sour cream is thinner and tangier than cream cheese, closer to the real consistency of Latin American crema or natilla, which pours rather than spreads."
-    ]
+    ],
+    "description": "Fried plantains, a simple, common Guatemalan side."
   },
   {
     "name": "Guatemalan Tostadas",
@@ -1020,7 +1032,8 @@
       "Fry the tortilla in a little oil until crisp and flat, forming a sturdy base.",
       "Spread generously with the refried beans, then top with the shredded cabbage, diced tomatoes, and crumbled queso fresco.",
       "Guatemalan tostadas, sold by street vendors everywhere, come with countless topping variations."
-    ]
+    ],
+    "description": "Tostadas, crisp fried tortillas topped generously, a common Guatemalan snack."
   },
   {
     "name": "Guatemalan Rellenitos de Platano",
@@ -1092,7 +1105,8 @@
       "Take a portion of the plantain dough, flatten, spoon the bean filling into the center, and fold closed into a small oval.",
       "Fry in the oil over medium heat, turning, 4-6 minutes until deeply golden on all sides.",
       "Rellenitos, sweet plantain fritters filled with sweetened beans, are a treasured Guatemalan dessert."
-    ]
+    ],
+    "description": "Rellenitos, mashed plantain wrapped around sweetened black beans and fried, is a beloved Guatemalan dessert."
   },
   {
     "name": "Guatemalan Poe",
@@ -1160,7 +1174,8 @@
     "steps_detailed": [
       "Simmer the rice in the coconut milk with the sugar, cinnamon, and raisins over medium-low heat, stirring often, 22-28 minutes until thick and creamy.",
       "Serve warm or chilled - poe, a coconut rice pudding from the Garifuna and Caribbean coastal tradition, is enjoyed in Guatemala's Caribbean region as well as its neighbors."
-    ]
+    ],
+    "description": "Poe, a coconut rice pudding, a traditional Guatemalan dessert with Garifuna roots."
   },
   {
     "name": "Guatemalan Torrejas",
@@ -1227,9 +1242,9 @@
       "Beat the eggs with a little of the sugar and the cinnamon.",
       "Dip the bread slices in the egg mixture, letting them soak briefly on each side.",
       "Fry in the oil over medium heat, 2-3 minutes per side, until golden.",
-      "Dust with the remaining sugar.",
-      "Torrejas, Guatemala's version of a syrup-soaked fried bread similar in spirit to French toast, are traditionally made from stale bread specifically, since day-old bread soaks up the egg custard without falling apart the way fresh bread would."
-    ]
+      "Dust with the remaining sugar."
+    ],
+    "description": "Torrejas, Guatemala's version of syrup-soaked fried bread similar in spirit to French toast, are traditionally made from stale bread specifically, since day-old bread soaks up the egg custard without falling apart."
   },
   {
     "name": "Guatemalan Chirmol",
@@ -1299,7 +1314,8 @@
     "steps_detailed": [
       "Combine the tomatoes, onion, cilantro, lime juice, and jalapeno.",
       "Season with salt and let sit 10 minutes so the flavors meld - chirmol is a simple, bright Guatemalan table sauce, served with nearly everything grilled."
-    ]
+    ],
+    "description": "Chirmol, a roasted tomato salsa, a Guatemalan table condiment."
   },
   {
     "name": "Guatemalan Salsa de Ajonjoli",
@@ -1359,6 +1375,7 @@
       "Toast the sesame seeds in a dry pan until golden and fragrant, 2-3 minutes.",
       "Blend with the tomatoes, garlic, and oil into a smooth, nutty sauce.",
       "Warm gently before serving over grilled chicken or vegetables - a simpler cousin of pepian's toasted-seed sauce tradition."
-    ]
+    ],
+    "description": "A sesame-based salsa, ajonjol\u00ed being sesame seed, reflecting real Guatemalan cooking traditions."
   }
 ]

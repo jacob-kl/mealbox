@@ -91,11 +91,6 @@
         "note": "cup"
       },
       {
-        "ingredient": "Spices (cumin/paprika/garlic powder/salt)",
-        "qty": 2,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Bay leaves",
         "qty": 1,
         "note": ""
@@ -104,6 +99,16 @@
         "ingredient": "Cheddar cheese (shredded)",
         "qty": 14,
         "note": "tbsp, for topping"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.75,
+        "note": ""
       }
     ],
     "steps_detailed": [
@@ -114,7 +119,8 @@
       "Add the beans, diced tomatoes, broth, and bay leaf. Bring to a simmer.",
       "Reduce heat to low and simmer uncovered 30-40 minutes, stirring occasionally, until thickened to your liking. Add a splash more broth if it gets too thick.",
       "Remove the bay leaf, taste and adjust salt, and top with cheddar cheese to serve."
-    ]
+    ],
+    "description": "A hearty chili built on real, individually-measured spices rather than a generic blend."
   },
   {
     "name": "Steak & Roasted Vegetables",
@@ -193,7 +199,8 @@
       "Heat a heavy skillet over high heat until very hot. Sear the steak 3-4 minutes per side for medium-rare, or longer to your preference.",
       "Rest the steak on a cutting board for 5 minutes before slicing against the grain \u2014 this keeps it from being tough and lets the juices redistribute instead of running out.",
       "Sprinkle the vegetables with fresh rosemary and serve alongside the sliced steak."
-    ]
+    ],
+    "description": "A simple steak dinner with roasted vegetables."
   },
   {
     "name": "Turkey Meatballs with Whole Wheat Spaghetti",
@@ -294,7 +301,8 @@
       "Meanwhile, cook the spaghetti per package directions.",
       "Warm the pasta sauce in a saucepan, then add the cooked meatballs to the sauce and simmer 3-4 minutes to let them soak up flavor.",
       "Serve over the spaghetti, topped with remaining parmesan and fresh basil."
-    ]
+    ],
+    "description": "A lighter, ground-turkey take on spaghetti and meatballs."
   },
   {
     "name": "Grilled Chicken with Quinoa & Zucchini",
@@ -374,7 +382,8 @@
       "In the same pan, add the remaining oil and cook the zucchini 5-6 minutes until tender with light char marks.",
       "Fluff the quinoa with a fork, stir in the lemon juice and parsley.",
       "Slice the chicken and serve over the quinoa with the zucchini alongside."
-    ]
+    ],
+    "description": "A simple grilled chicken dinner with quinoa, a modern American health-food staple."
   },
   {
     "name": "Cottage Cheese & Fruit Bowl",
@@ -443,7 +452,8 @@
       "Spoon the cottage cheese into a bowl.",
       "Top with the thawed berries and their juices, sliced almonds, and a drizzle of honey.",
       "Finish with a light dusting of cinnamon."
-    ]
+    ],
+    "description": "A simple cottage cheese and fruit bowl, a classic American diet-food staple."
   },
   {
     "name": "Turkey & Cheddar Grain Bowl",
@@ -526,7 +536,8 @@
       "Heat oil in a skillet over medium-high heat. Brown the turkey with garlic powder, 5-6 minutes.",
       "Add the bell pepper and zucchini, cooking another 4-5 minutes until softened.",
       "Serve the turkey and vegetables over the quinoa, topped with cheddar."
-    ]
+    ],
+    "description": "A simple grain bowl."
   },
   {
     "name": "Baked Mac and Cheese with Chicken",
@@ -619,7 +630,8 @@
       "Fold in the pasta and diced chicken.",
       "Transfer to a baking dish, top with panko and a dusting of paprika.",
       "Bake 15-18 minutes until bubbling and golden on top."
-    ]
+    ],
+    "description": "Mac and cheese, one of America's most beloved comfort foods, given extra protein with chicken."
   },
   {
     "name": "Sunday Pot Roast",
@@ -721,7 +733,8 @@
       "Return the meat to the pot along with the potatoes. Bring to a simmer.",
       "Cover and braise on low heat (or in a 300F oven) for 2.5-3 hours, until the meat is fork-tender and shreds easily.",
       "Remove the bay leaf, slice or shred the meat, and serve with the vegetables and pan juices spooned over."
-    ]
+    ],
+    "description": "Pot roast, a slow-braised beef dinner, a classic American Sunday tradition."
   },
   {
     "name": "Chicken Pot Pie Skillet",
@@ -831,7 +844,8 @@
       "Stir in the chicken, peas, and thyme, and season with salt and pepper.",
       "Lay the pie crust over the top of the skillet, tucking the edges in or trimming as needed, and cut a few small slits to vent steam.",
       "Bake 20-25 minutes until the crust is deeply golden and the filling is bubbling around the edges. Let rest 5 minutes before serving \u2014 it's molten straight out of the oven."
-    ]
+    ],
+    "description": "Chicken pot pie, a creamy filling under a pastry or biscuit topping, an American comfort food classic."
   },
   {
     "name": "Classic Meatloaf",
@@ -918,7 +932,8 @@
       "Whisk the remaining ketchup with the brown sugar and brush half over the top of the loaf.",
       "Bake 45 minutes, then brush with the remaining glaze and bake another 15-20 minutes, until the internal temperature reads 160F.",
       "Rest 10 minutes before slicing \u2014 this lets the juices redistribute so it doesn't fall apart when cut."
-    ]
+    ],
+    "description": "Meatloaf, ground beef baked with a ketchup glaze, is a quintessential American home-cooking staple."
   },
   {
     "name": "Mashed Potatoes",
@@ -978,7 +993,8 @@
       "Drain well and return the potatoes to the hot pot for a minute to steam off excess moisture \u2014 this keeps them from turning gluey.",
       "Mash with the butter and garlic powder, then gradually stir in the warm milk until you reach the texture you like. Warm milk incorporates more smoothly than cold, which can make the mash gummy.",
       "Season with salt and pepper to taste."
-    ]
+    ],
+    "description": "Simple mashed potatoes, an American dinner-table staple."
   },
   {
     "name": "Baked Cod",
@@ -1037,7 +1053,8 @@
       "Place on a lined baking sheet, drizzle with olive oil and lemon juice, and season with garlic powder, salt, and pepper.",
       "Bake 12-15 minutes, until the fish flakes easily with a fork and is opaque all the way through.",
       "Finish with a scattering of fresh parsley."
-    ]
+    ],
+    "description": "A simple baked cod."
   },
   {
     "name": "Roasted Sweet Potato & Broccoli",
@@ -1096,7 +1113,8 @@
       "Toss the sweet potato with half the oil and spread on a baking sheet. Roast 10 minutes (sweet potato needs a head start since it takes longer than broccoli).",
       "Add the broccoli, toss with remaining oil and garlic powder, and return to the oven.",
       "Roast another 12-15 minutes, until the sweet potato is tender and the broccoli has crisp, browned edges."
-    ]
+    ],
+    "description": "A simple roasted vegetable side."
   },
   {
     "name": "Grilled Chicken Breast (Plain)",
@@ -1150,7 +1168,8 @@
       "Rub with olive oil and season both sides with garlic powder, paprika, salt, and pepper.",
       "Heat a grill pan or skillet over medium-high heat. Cook 5-6 minutes per side, until it reaches 165F internally and the juices run clear.",
       "Rest 5 minutes before slicing."
-    ]
+    ],
+    "description": "A simple, plain grilled chicken breast."
   },
   {
     "name": "Egg White Power Scramble",
@@ -1209,7 +1228,8 @@
       "Heat a nonstick skillet over medium heat. Add the spinach and cook 1-2 minutes until wilted.",
       "Pour in the egg whites and garlic powder. Let sit 15 seconds, then gently fold as they cook, about 2-3 minutes until just set.",
       "Fold in the cottage cheese off heat \u2014 the residual warmth softens it slightly without turning it watery."
-    ]
+    ],
+    "description": "A simple, protein-forward egg white scramble."
   },
   {
     "name": "Turkey & Egg White Skillet",
@@ -1270,7 +1290,8 @@
       "Heat a nonstick skillet over medium-high heat. Brown the turkey, breaking it apart, 4-5 minutes.",
       "Add the bell pepper and onion, cooking another 4 minutes until softened.",
       "Pour in the egg whites and garlic powder, folding gently as they set, about 2-3 minutes."
-    ]
+    ],
+    "description": "A simple, protein-forward turkey and egg white skillet."
   },
   {
     "name": "Chicken & Cottage Cheese Power Bowl",
@@ -1343,7 +1364,8 @@
       "Arrange the cottage cheese in a bowl.",
       "Top with the chicken, tomatoes, and cucumber.",
       "Drizzle with olive oil and finish with a crack of black pepper."
-    ]
+    ],
+    "description": "A simple, protein-forward bowl."
   },
   {
     "name": "Tuna Protein Bowl",
@@ -1415,7 +1437,8 @@
     "steps_detailed": [
       "Mix the tuna, celery, yogurt, and lemon juice together in a bowl.",
       "Spoon over the cottage cheese and finish with black pepper."
-    ]
+    ],
+    "description": "A simple, protein-forward tuna bowl."
   },
   {
     "name": "Cobb Salad",
@@ -1508,7 +1531,8 @@
       "Arrange the chopped lettuce as the base of a large plate.",
       "Arrange the chicken, bacon, egg, blue cheese, tomatoes, and avocado in neat rows across the top \u2014 this is the classic Cobb presentation, though tossing it together works just as well.",
       "Whisk the vinegar and oil together and drizzle over, or serve on the side."
-    ]
+    ],
+    "description": "Cobb salad, a chopped salad with egg, bacon, and blue cheese, an American restaurant classic invented in Hollywood."
   },
   {
     "name": "Caesar Salad with Grilled Chicken",
@@ -1581,7 +1605,8 @@
       "Toast the panko in a dry skillet over medium heat, stirring often, 2-3 minutes until golden \u2014 this gives a quick crouton-like crunch without needing actual bread cubes.",
       "Toss the romaine with the dressing and half the parmesan.",
       "Top with the sliced chicken, remaining parmesan, toasted panko, and a crack of black pepper."
-    ]
+    ],
+    "description": "Caesar salad, despite its Italian-sounding name, was actually invented in Tijuana, Mexico by an Italian immigrant restaurateur."
   },
   {
     "name": "Waldorf Fruit Salad",
@@ -1659,7 +1684,8 @@
       "Toss the diced apple with lemon juice right away to keep it from browning.",
       "Combine with the grapes, celery, and walnuts.",
       "Whisk the yogurt and honey together, then fold through the fruit mixture until coated."
-    ]
+    ],
+    "description": "Waldorf salad, apple, celery, and walnuts in a creamy dressing, was invented at New York's Waldorf Hotel."
   },
   {
     "name": "Cheddar Broccoli Soup",
@@ -1745,7 +1771,8 @@
       "Add the broccoli and garlic powder. Simmer 12-15 minutes until the broccoli is very tender.",
       "Blend partially with an immersion blender for a chunky-smooth texture, or leave as-is for a chunkier soup.",
       "Stir in the cheddar off heat until melted \u2014 adding cheese off direct heat helps keep the sauce smooth instead of grainy."
-    ]
+    ],
+    "description": "A simple cheddar and broccoli soup, an American comfort food staple."
   },
   {
     "name": "Classic Club Sandwich",
@@ -1819,7 +1846,8 @@
       "Spread mustard on one side of each slice.",
       "Layer turkey and lettuce on the first slice, top with the second slice, then bacon and tomato, and finish with the third slice.",
       "Secure with toothpicks and cut into quarters on a diagonal \u2014 the classic club shape."
-    ]
+    ],
+    "description": "The club sandwich, a triple-decker with turkey, bacon, lettuce, and tomato, an American diner classic."
   },
   {
     "name": "Reuben Sandwich",
@@ -1896,7 +1924,8 @@
       "Layer the corned beef, well-drained sauerkraut, and swiss cheese between the slices \u2014 draining the sauerkraut well matters, or it makes the sandwich soggy.",
       "Butter the outside of both slices.",
       "Grill in a skillet over medium heat, 3-4 minutes per side, pressing down gently, until the bread is golden and the cheese is fully melted."
-    ]
+    ],
+    "description": "The Reuben, corned beef, sauerkraut, Swiss, and Russian or thousand island dressing grilled between rye bread, is an American deli classic."
   },
   {
     "name": "Classic Tomato Soup",
@@ -1976,7 +2005,8 @@
       "Blend until smooth using an immersion blender, or carefully in a stand blender in batches.",
       "Return to low heat and stir in the cream. Warm through gently without boiling, which can cause the cream to separate.",
       "Top with fresh basil before serving."
-    ]
+    ],
+    "description": "A simple, classic tomato soup."
   },
   {
     "name": "Chicken Noodle Soup",
@@ -2064,7 +2094,8 @@
       "Add the egg noodles and cook per package timing, usually 7-9 minutes, until tender.",
       "Stir in the shredded chicken and warm through, 2-3 minutes.",
       "Remove the bay leaf, top with parsley, and serve."
-    ]
+    ],
+    "description": "Chicken noodle soup, a classic American comfort food, especially for cold or flu."
   },
   {
     "name": "Cheesy Crab Rangoon Garlic Bread",
@@ -2196,7 +2227,8 @@
       "Bake 25-30 minutes, until the cheese is melted, bubbly, and lightly golden in spots.",
       "As soon as it comes out of the oven, brush the top with sweet chili sauce and finish with a generous sprinkle of extra chopped green onion.",
       "Slice and serve warm - this is meant to be shared."
-    ]
+    ],
+    "description": "A modern American fusion snack combining two takeout favorites."
   },
   {
     "name": "French Toast (Protein-Boosted)",
@@ -2274,6 +2306,7 @@
       "Whisk the egg, egg whites, milk, cinnamon, and vanilla together in a shallow dish.",
       "Dip each bread slice in the mixture, letting it soak 10-15 seconds per side so the custard penetrates rather than just coating the surface.",
       "Melt butter in a skillet over medium heat. Cook the bread 2-3 minutes per side until golden and cooked through in the center."
-    ]
+    ],
+    "description": "A protein-forward take on classic French toast, itself an American breakfast staple despite the name."
   }
 ]

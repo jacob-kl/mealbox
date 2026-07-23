@@ -85,7 +85,8 @@
       "Add the cassava and simmer 12-15 minutes until it starts to soften.",
       "Add the plantain and corn, and continue simmering 12-15 minutes more until everything is tender and the broth has thickened slightly from the starchy vegetables.",
       "Remove the bay leaf, stir in the cilantro, and serve hot in bowls."
-    ]
+    ],
+    "description": "Sancocho, a hearty chicken and root vegetable soup, is considered Panama's national dish."
   },
   {
     "name": "Panamanian Patacones",
@@ -136,7 +137,8 @@
       "If using, stir the minced garlic into the frying oil for a minute to infuse it.",
       "Return the flattened plantains to the hot oil and fry again, 2-3 minutes per side, until deeply golden and crisp at the edges.",
       "Drain on a paper towel and salt generously while hot."
-    ]
+    ],
+    "description": "Patacones, twice-fried green plantains, a common Panamanian side."
   },
   {
     "name": "Panamanian Hojaldras",
@@ -195,10 +197,11 @@
       "Shape into flat discs, about 4 inches across.",
       "Fry in the oil over medium heat, 2-4 minutes per side, until puffed, golden, and slightly crisp.",
       "Hojaldras, fried flatbread, are a beloved Panamanian breakfast, often dusted with sugar or paired with cheese."
-    ]
+    ],
+    "description": "Hojaldras, fried dough similar to fry bread, a beloved Panamanian breakfast."
   },
   {
-    "name": "Panamanian Tortilla de Maíz",
+    "name": "Panamanian Tortilla de Ma\u00edz",
     "cuisine": "panamanian",
     "meal_type": "breakfast",
     "course": "side",
@@ -256,7 +259,8 @@
       "Shape into thick discs, about 1/2 inch thick, noticeably thicker than a Mexican tortilla.",
       "Fry in the oil over medium heat, 4-6 minutes per side, until golden and crisp outside, soft within.",
       "Panamanian tortillas, thick and hearty, are a beloved breakfast staple, distinct from the thin tortillas found elsewhere in the region."
-    ]
+    ],
+    "description": "Panamanian corn tortillas are thick and fried, quite different from thin Mexican-style tortillas."
   },
   {
     "name": "Panamanian Chicheme",
@@ -326,10 +330,11 @@
       "Blend the corn with the milk until very smooth.",
       "Simmer with the sugar, cinnamon, and vanilla over medium-low heat, stirring constantly, 10-12 minutes until slightly thickened.",
       "Serve warm or chilled - chicheme, a spiced corn drink, is a beloved Panamanian breakfast tradition, especially in the interior provinces."
-    ]
+    ],
+    "description": "Chicheme, a sweet corn and milk drink, a traditional Panamanian beverage."
   },
   {
-    "name": "Panamanian Torrejitas de Maíz",
+    "name": "Panamanian Torrejitas de Ma\u00edz",
     "cuisine": "panamanian",
     "meal_type": "breakfast",
     "course": "side",
@@ -393,11 +398,12 @@
     "steps_detailed": [
       "Mix the corn with the flour, egg, and sugar into a thick, slightly chunky batter.",
       "Fry spoonfuls in the oil over medium heat, 3-5 minutes per side, until golden and crisp at the edges.",
-      "Torrejitas de maíz, sweet corn fritters, are a beloved Panamanian breakfast treat."
-    ]
+      "Torrejitas de ma\u00edz, sweet corn fritters, are a beloved Panamanian breakfast treat."
+    ],
+    "description": "Corn fritters, a common Panamanian snack."
   },
   {
-    "name": "Panamanian Carimañolas",
+    "name": "Panamanian Carima\u00f1olas",
     "cuisine": "panamanian",
     "meal_type": "lunch",
     "course": "side",
@@ -467,8 +473,9 @@
       "Brown the beef with the onion, garlic, and paprika, 8-10 minutes.",
       "Take a portion of the cassava dough, flatten, spoon the beef filling into the center, and fold closed into a small oval or torpedo shape.",
       "Fry in the oil over medium heat, turning, 5-7 minutes until deeply golden on all sides.",
-      "Carimañolas, cassava fritters filled with seasoned beef, are one of Panama's most beloved and distinctive snacks."
-    ]
+      "Carima\u00f1olas, cassava fritters filled with seasoned beef, are one of Panama's most beloved and distinctive snacks."
+    ],
+    "description": "Carima\u00f1olas, yuca dough filled with meat and fried, a beloved Panamanian snack."
   },
   {
     "name": "Panamanian Guacho de Mariscos",
@@ -543,10 +550,11 @@
       "Add the rice, diced tomatoes, and 1.75 cups water, cover, and simmer 15-18 minutes.",
       "Add the shrimp and simmer 6-10 more minutes until the rice is tender and the shrimp is just cooked through, the texture looser and soupier than typical rice dishes.",
       "Top with cilantro - guacho, a risotto-like rice stew, comes in many variations across Panama, seafood being especially popular along the coast."
-    ]
+    ],
+    "description": "Guacho, a rice dish with a soupy consistency between rice and stew, this version built on seafood."
   },
   {
-    "name": "Panamanian Arroz con Guandú",
+    "name": "Panamanian Arroz con Guand\u00fa",
     "cuisine": "panamanian",
     "meal_type": "lunch",
     "course": "side",
@@ -614,13 +622,14 @@
     ],
     "steps_detailed": [
       "Saute the onion and garlic until softened.",
-      "Add the rice, beans (standing in for guandú, pigeon peas), coconut milk, paprika, and 3/4 cup water.",
+      "Add the rice, beans (standing in for guand\u00fa, pigeon peas), coconut milk, paprika, and 3/4 cup water.",
       "Simmer, covered, 22-28 minutes until the rice is tender and the liquid is absorbed.",
-      "Arroz con guandú, rice with pigeon peas and coconut, reflects Panama's Caribbean coastal and Afro-Antillean heritage, especially popular around Christmas."
-    ]
+      "Arroz con guand\u00fa, rice with pigeon peas and coconut, reflects Panama's Caribbean coastal and Afro-Antillean heritage, especially popular around Christmas."
+    ],
+    "description": "Rice with pigeon peas, a Panamanian Christmas staple, often cooked with coconut milk."
   },
   {
-    "name": "Panamanian Ropa Vieja Panameña",
+    "name": "Panamanian Ropa Vieja Paname\u00f1a",
     "cuisine": "panamanian",
     "meal_type": "dinner",
     "course": "complete",
@@ -690,10 +699,11 @@
       "Saute the bell pepper, onion, and garlic with the cumin until softened, 6-8 minutes.",
       "Add the diced tomatoes and shredded beef, and simmer 22-28 minutes until thickened into a rich sauce.",
       "Serve with rice - ropa vieja, meaning 'old clothes' for its shredded texture, is a beloved Panamanian dinner."
-    ]
+    ],
+    "description": "Ropa vieja, shredded beef in tomato sauce, shared across Panama and much of Latin America and the Caribbean."
   },
   {
-    "name": "Panamanian Tamales Panameños",
+    "name": "Panamanian Tamales Paname\u00f1os",
     "cuisine": "panamanian",
     "meal_type": "dinner",
     "course": "complete",
@@ -763,7 +773,8 @@
       "Simmer the chicken with the tomatoes 20-25 minutes until cooked through; shred and fold in the raisins.",
       "Spread a layer of the masa dough onto a soaked plantain leaf, top with the chicken filling, fold into a sealed packet.",
       "Steam 1-1.25 hours until firm - Panamanian tamales, wrapped in plantain leaf, are a treasured holiday tradition."
-    ]
+    ],
+    "description": "Panamanian tamales, wrapped in banana or bijao leaves, a genuine national specialty, especially for celebrations."
   },
   {
     "name": "Panamanian Pescado Frito con Patacones",
@@ -837,10 +848,11 @@
       "Season the fish with the garlic, dredge in the flour, and fry in the oil over medium-high heat, 4-6 minutes per side, until golden and cooked through.",
       "Fry the plantain slices until just golden, flatten each, and fry again until deeply crisp.",
       "Finish the fish with a squeeze of lime and serve with the patacones - fried whole fish with patacones is a beloved Panamanian coastal meal."
-    ]
+    ],
+    "description": "Fried fish with patacones, a classic Panamanian coastal pairing."
   },
   {
-    "name": "Panamanian Empanadas Panameñas",
+    "name": "Panamanian Empanadas Paname\u00f1as",
     "cuisine": "panamanian",
     "meal_type": "snack",
     "course": "side",
@@ -909,10 +921,11 @@
       "Brown the beef with the onion, tomatoes, and paprika, 8-10 minutes.",
       "Flatten portions of dough, fill with the beef mixture, and fold into half-moons, sealing well.",
       "Fry in the oil, turning, 4-6 minutes until deeply golden - Panamanian empanadas, made with corn dough, are a beloved everyday snack."
-    ]
+    ],
+    "description": "Empanadas, filled pastry pockets, a Panamanian staple."
   },
   {
-    "name": "Panamanian Bollos Panameños",
+    "name": "Panamanian Bollos Paname\u00f1os",
     "cuisine": "panamanian",
     "meal_type": "snack",
     "course": "side",
@@ -969,7 +982,8 @@
       "Mix the masa harina with the coconut milk, sugar, and cinnamon into a soft, cohesive dough.",
       "Wrap small portions tightly in foil (traditionally corn husk) and steam 32-40 minutes until firm.",
       "Bollos, simple corn dumplings, are a traditional Panamanian snack, often eaten alongside cheese."
-    ]
+    ],
+    "description": "Bollos, corn dough wrapped and steamed, a genuine Panamanian specialty."
   },
   {
     "name": "Panamanian Raspao",
@@ -1028,7 +1042,8 @@
       "Layer plenty of shaved or crushed ice in a cup.",
       "Drizzle generously with the preserves, coconut milk, and sugar, topping with diced mango if using.",
       "Raspao, Panama's beloved shaved ice treat, is sold from carts on nearly every corner during the hot season."
-    ]
+    ],
+    "description": "Raspao, shaved ice with syrup, a beloved Panamanian street treat."
   },
   {
     "name": "Panamanian Flan de Coco",
@@ -1089,7 +1104,8 @@
       "Whisk the eggs, coconut milk, and vanilla together until smooth, then pour over the caramel.",
       "Bake in a water bath at 325F (165C) for 35-45 minutes until just set with a gentle wobble.",
       "Chill before unmolding - flan de coco is a beloved Panamanian dessert, coconut being abundant along both coasts."
-    ]
+    ],
+    "description": "Coconut flan, a beloved Panamanian dessert."
   },
   {
     "name": "Panamanian Cocadas",
@@ -1149,10 +1165,11 @@
       "Simmer the coconut with the sugar, coconut milk, and cinnamon over medium-low heat, stirring frequently, 10-12 minutes until thick and sticky.",
       "Press firmly into a small lined dish and chill at least 1 hour until firm.",
       "Cut into squares - cocadas, dense coconut candies, are beloved throughout Panama."
-    ]
+    ],
+    "description": "Cocadas, coconut candies, a traditional Panamanian sweet."
   },
   {
-    "name": "Panamanian Ceviche Panameño",
+    "name": "Panamanian Ceviche Paname\u00f1o",
     "cuisine": "panamanian",
     "meal_type": "lunch",
     "course": "complete",
@@ -1224,10 +1241,11 @@
       "Cube the fish and marinate in the lime juice for at least 25-30 minutes, until opaque and firm.",
       "Stir in the onion, jalapeno, cilantro, and celery.",
       "Chill briefly and serve with soda crackers - ceviche is a Panama City icon, especially beloved fresh from the Mercado de Mariscos fish market."
-    ]
+    ],
+    "description": "Ceviche, citrus-cured raw fish, a Panamanian coastal specialty."
   },
   {
-    "name": "Panamanian Salsa Criolla Panameña",
+    "name": "Panamanian Salsa Criolla Paname\u00f1a",
     "cuisine": "panamanian",
     "meal_type": "sauce",
     "course": "side",
@@ -1294,10 +1312,11 @@
     "steps_detailed": [
       "Combine the tomatoes, onion, bell pepper, lime juice, and cilantro.",
       "Season with salt and let sit 10-15 minutes - salsa criolla, a simple fresh relish, tops countless Panamanian dishes."
-    ]
+    ],
+    "description": "Salsa criolla, a fresh tomato-onion relish, a Panamanian table condiment."
   },
   {
-    "name": "Panamanian Mojo Panameño",
+    "name": "Panamanian Mojo Paname\u00f1o",
     "cuisine": "panamanian",
     "meal_type": "sauce",
     "course": "side",
@@ -1327,7 +1346,7 @@
     ],
     "steps": [
       "Combine the garlic, oil, and lime juice.",
-      "Serve alongside carimañolas, yuca, or grilled meats."
+      "Serve alongside carima\u00f1olas, yuca, or grilled meats."
     ],
     "ingredients_full": [
       {
@@ -1353,7 +1372,8 @@
     ],
     "steps_detailed": [
       "Combine the garlic, oil, lime juice, and cilantro.",
-      "Let sit 10 minutes so the flavors meld - this garlicky mojo is the classic accompaniment to carimañolas and fried yuca across Panama."
-    ]
+      "Let sit 10 minutes so the flavors meld - this garlicky mojo is the classic accompaniment to carima\u00f1olas and fried yuca across Panama."
+    ],
+    "description": "Mojo, a garlic-citrus sauce, used across Panama much as it is in Cuba."
   }
 ]

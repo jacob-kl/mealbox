@@ -77,7 +77,8 @@
       "Shred the pork and toss with BBQ sauce.",
       "Toss the slaw mix with a splash of vinegar.",
       "Pile the pork onto the bun and top with slaw."
-    ]
+    ],
+    "description": "Pulled pork, slow-smoked and shredded, a defining Southern barbecue tradition with countless regional sauce styles."
   },
   {
     "name": "Cajun Blackened Catfish",
@@ -146,7 +147,7 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "White rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -167,7 +168,8 @@
       "Sear the catfish 2-3 minutes per side until the spice crust darkens and the fish flakes easily.",
       "Meanwhile, cook the rice per package directions, and saute the collard greens in olive oil 6-8 minutes until tender.",
       "Serve the catfish over rice with the greens alongside."
-    ]
+    ],
+    "description": "Blackened seasoning, a Cajun technique developed by chef Paul Prudhomme, is served with standard rice or grits in the South, not basmati."
   },
   {
     "name": "BBQ Chicken with Cornbread",
@@ -245,7 +247,8 @@
       "Season the chicken and grill or bake at 400F for 18-20 minutes until cooked through (165F), basting with BBQ sauce in the last 5 minutes so it doesn't burn.",
       "Saute the collard greens in olive oil 6-8 minutes until tender.",
       "Serve the chicken with cornbread and greens."
-    ]
+    ],
+    "description": "Cornbread, a Southern staple, paired here with barbecue chicken."
   },
   {
     "name": "Southern Buttermilk Chicken",
@@ -317,7 +320,8 @@
       "Preheat the oven to 400F. Toss the sweet potato with oil and paprika, spread on a baking sheet, and roast 20 minutes.",
       "Remove the chicken from the buttermilk, letting excess drip off, and press into the breadcrumbs to coat.",
       "Add the chicken to the same sheet as the sweet potato and bake 18-20 minutes until the chicken reaches 165F and the crust is golden."
-    ]
+    ],
+    "description": "Buttermilk brining is the real technique behind tender, flavorful Southern fried chicken."
   },
   {
     "name": "Pulled Pork & Slaw Jar",
@@ -383,7 +387,8 @@
       "Toss the shredded pork with BBQ sauce.",
       "Toss the slaw with vinegar.",
       "Layer the rice, pork, and slaw in a jar."
-    ]
+    ],
+    "description": "A portable version of pulled pork and slaw, a classic Southern barbecue pairing."
   },
   {
     "name": "Southern Smothered Pork Chops",
@@ -457,7 +462,8 @@
       "Sprinkle in the remaining flour, stirring to coat the onions, and cook 1 minute.",
       "Slowly whisk in the broth, then return the pork to the pan.",
       "Cover and simmer on low 15-18 minutes until the pork is cooked through and the gravy has thickened."
-    ]
+    ],
+    "description": "Smothered pork chops, braised in a rich gravy, a Southern comfort food staple."
   },
   {
     "name": "Southern Baked Catfish",
@@ -521,7 +527,8 @@
       "Mix the cornmeal with paprika and garlic powder.",
       "Dip the catfish in beaten egg, then press into the cornmeal mixture to coat.",
       "Place on a lined baking sheet and bake 15-18 minutes until golden and the fish flakes easily."
-    ]
+    ],
+    "description": "Catfish, a Southern staple, baked here rather than fried."
   },
   {
     "name": "Southern Turkey Meatloaf",
@@ -600,7 +607,8 @@
       "Whisk the remaining ketchup with brown sugar and brush over the top.",
       "Bake 45-50 minutes until the internal temperature reaches 165F.",
       "Rest 10 minutes before slicing."
-    ]
+    ],
+    "description": "A lighter, ground-turkey take on meatloaf."
   },
   {
     "name": "Southern Shrimp and Grits",
@@ -680,7 +688,8 @@
       "Stir in the cheese and butter until melted and smooth.",
       "Meanwhile, season the shrimp with paprika. Heat a skillet over medium-high heat and cook the shrimp with garlic, 1-2 minutes per side until pink.",
       "Spoon the shrimp over the grits."
-    ]
+    ],
+    "description": "Shrimp and grits, a Lowcountry breakfast turned dinner classic, is built on real stone-ground grits for their coarse, hearty texture."
   },
   {
     "name": "Southern Collard Greens with Turkey",
@@ -751,7 +760,8 @@
       "Add the broth, potato, and collard greens. Bring to a simmer.",
       "Cover and cook 30-35 minutes, stirring occasionally, until the greens are very tender.",
       "Finish with a splash of vinegar off heat \u2014 the acidity balances the richness."
-    ]
+    ],
+    "description": "Collard greens, slow-simmered with smoked meat, a defining Southern side dish."
   },
   {
     "name": "Southern Chicken Salad Jar",
@@ -818,7 +828,8 @@
     "steps_detailed": [
       "Mix the chicken, sour cream, celery, and grapes together.",
       "Layer over lettuce in a jar."
-    ]
+    ],
+    "description": "A simple Southern-style chicken salad."
   },
   {
     "name": "Pimento Cheese & Turkey Wrap Jar",
@@ -885,7 +896,8 @@
     "steps_detailed": [
       "Mix the cheddar, cream cheese, and roasted red peppers together for a quick pimento cheese.",
       "Spread over the tortilla, layer with turkey, and roll tightly."
-    ]
+    ],
+    "description": "Pimento cheese, a beloved Southern spread sometimes called the South's p\u00e2t\u00e9, used here in a wrap."
   },
   {
     "name": "Southern Black-Eyed Pea Salad",
@@ -958,7 +970,8 @@
       "Combine the black-eyed peas, bell pepper, and red onion in a bowl.",
       "Whisk the vinegar and oil, toss through the salad.",
       "Stir in parsley just before serving. Improves after sitting an hour or two."
-    ]
+    ],
+    "description": "Black-eyed peas, traditionally eaten on New Year's Day for good luck, a genuine Southern staple."
   },
   {
     "name": "Southern Egg and Cheese Grits",
@@ -1017,7 +1030,8 @@
       "Cook 12-15 minutes, whisking often, until thick and creamy. Stir in the cheese and butter.",
       "In a separate pan, scramble or fry the eggs to your preference.",
       "Serve the eggs over the grits."
-    ]
+    ],
+    "description": "Grits, stone-ground corn porridge, a defining Southern breakfast staple."
   },
   {
     "name": "Southern Deviled Eggs",
@@ -1075,7 +1089,8 @@
       "Halve the eggs and scoop the yolks into a bowl.",
       "Mash the yolks with mustard and sour cream until smooth.",
       "Spoon back into the whites and dust with paprika."
-    ]
+    ],
+    "description": "Deviled eggs, a Southern potluck and gathering staple."
   },
   {
     "name": "Roasted Okra Bites",
@@ -1133,7 +1148,8 @@
       "Preheat the oven to 425F.",
       "Toss with oil, paprika, and garlic powder.",
       "Spread in a single layer on a baking sheet and roast 15-18 minutes, shaking halfway, until browned and crisp at the edges."
-    ]
+    ],
+    "description": "Okra, a defining Southern vegetable, roasted here simply."
   },
   {
     "name": "Southern Banana Pudding Cup",
@@ -1200,7 +1216,8 @@
       "Mix the yogurt with vanilla and honey.",
       "Layer banana slices, crushed crackers, and yogurt in a cup, repeating for a couple layers.",
       "Chill at least 20 minutes for the crackers to soften slightly, mimicking the texture of classic banana pudding."
-    ]
+    ],
+    "description": "Banana pudding, layered with vanilla wafers, a beloved Southern dessert."
   },
   {
     "name": "Peach Cobbler Bites",
@@ -1269,7 +1286,8 @@
       "Toss the diced peach with half the brown sugar and cinnamon, spread in a small baking dish.",
       "Mix the oats, remaining brown sugar, and melted butter together for the topping, then scatter over the peaches.",
       "Bake 20-22 minutes until the topping is golden and the peaches are bubbling."
-    ]
+    ],
+    "description": "Peach cobbler, built on the South's beloved summer fruit, a classic Southern dessert."
   },
   {
     "name": "Southern Comeback Sauce",
@@ -1334,7 +1352,8 @@
     ],
     "steps_detailed": [
       "Whisk all ingredients together until smooth. Chill at least 15 minutes before serving so the flavors meld."
-    ]
+    ],
+    "description": "Comeback sauce, a tangy, spiced mayonnaise-based dip, a genuine Mississippi specialty."
   },
   {
     "name": "Southern Buttermilk Baked Chicken Tenders",
@@ -1398,7 +1417,8 @@
       "Preheat the oven to 400F. Mix the cornmeal with paprika and garlic powder.",
       "Remove the chicken from the buttermilk and press into the cornmeal mixture to coat.",
       "Place on a lined baking sheet and bake 15-18 minutes, flipping once, until golden and cooked through."
-    ]
+    ],
+    "description": "Buttermilk-marinated chicken tenders, baked rather than fried for a lighter version."
   },
   {
     "name": "Southern Fruit Salad with Pecans",
@@ -1460,7 +1480,8 @@
     "steps_detailed": [
       "Toss the peach and grapes with honey.",
       "Top with pecans just before serving so they stay crunchy."
-    ]
+    ],
+    "description": "Pecans, a defining Southern nut, used here in a simple fruit salad."
   },
   {
     "name": "She-Crab Style Soup",
@@ -1539,7 +1560,8 @@
       "Add the potato and milk, and simmer 12-15 minutes until the potato is tender.",
       "Add the crab meat and paprika, and warm through gently for 3-4 minutes \u2014 don't let it boil hard, or the crab turns rubbery.",
       "Stir in the sherry just before serving, a traditional finishing touch for she-crab soup."
-    ]
+    ],
+    "description": "She-crab soup, a rich, sherry-finished crab bisque, a genuine Lowcountry (South Carolina) specialty."
   },
   {
     "name": "15 Bean Soup",
@@ -1624,7 +1646,8 @@
       "Add the beans, tomatoes, broth, bay leaf, and enough water to cover everything by about 2 inches.",
       "Bring to a boil, then reduce to a low simmer. Cook uncovered 45-60 minutes (longer if beans weren't soaked), stirring occasionally and adding water as needed, until the beans are fully tender.",
       "Remove the bay leaf before serving. Season with salt to taste at the end - beans need quite a bit."
-    ]
+    ],
+    "description": "A hearty, mixed bean soup, common Southern home cooking."
   },
   {
     "name": "Collard Greens and Ham Hocks",
@@ -1697,7 +1720,8 @@
       "Add the collard greens in batches, letting each batch wilt down before adding more.",
       "Cover and simmer 30-40 minutes until the greens are fully tender, not just wilted - Southern-style collards want real time on the stove.",
       "Stir in the vinegar right before serving to brighten the dish. Pull any usable meat off the ham hock and stir it back in if you like."
-    ]
+    ],
+    "description": "Collard greens slow-simmered with smoked ham hocks, a defining Southern side dish."
   },
   {
     "name": "Chicken and Dumplings",
@@ -1791,6 +1815,7 @@
       "Bring the broth back to a gentle simmer. Drop the dumpling dough by the spoonful directly into the simmering liquid.",
       "Cover and simmer 15-18 minutes without lifting the lid - the dumplings steam through this way and can turn gummy if you peek too often.",
       "Top with parsley before serving."
-    ]
+    ],
+    "description": "Chicken and dumplings, a comforting Southern stew topped with soft dough dumplings."
   }
 ]
