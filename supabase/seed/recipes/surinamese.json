@@ -68,7 +68,8 @@
       "Heat half the oil and fry spoonfuls of the pea batter, flattened slightly, 2-3 minutes per side until golden - this is bara.",
       "In the remaining oil, fry the plantain slices 2-3 minutes per side until deeply golden and caramelized - this is bakabana.",
       "Serve both warm together, often with a bit of pepper sauce on the side."
-    ]
+    ],
+    "description": "Bara (fried lentil flatbread) and bakabana (fried battered banana), a beloved Surinamese street food pairing."
   },
   {
     "name": "Surinamese Eggs with Sambal",
@@ -148,7 +149,8 @@
       "Saute the onion, garlic, and jalapeno in the remaining oil for 3-4 minutes, then add the diced tomatoes and simmer 4-5 minutes into a chunky sambal.",
       "Stir in the lime juice.",
       "Serve the fried eggs with the warm sambal spooned generously over the top, reflecting Suriname's strong Indonesian culinary influence."
-    ]
+    ],
+    "description": "Eggs with sambal, reflecting Suriname's genuine Indonesian-Javanese heritage."
   },
   {
     "name": "Surinamese Broodje Ei",
@@ -218,7 +220,8 @@
       "Toss the shredded cabbage with the jalapeno and diced tomatoes for a quick, crunchy slaw.",
       "Warm the bread roll and split it, spread with the sour cream (standing in for mayonnaise).",
       "Build the sandwich with the fried eggs and slaw - a popular Surinamese street food sandwich, often made with additional fried items too."
-    ]
+    ],
+    "description": "Broodje ei, an egg sandwich, reflects Suriname's Dutch colonial culinary influence."
   },
   {
     "name": "Surinamese Moksi Alesi",
@@ -301,7 +304,8 @@
       "Add the diced tomatoes and black pepper, and simmer 5 minutes.",
       "Add the rice, green beans, and 1.25 cups water. Bring to a simmer, then cover and cook over low heat 18-22 minutes until the rice is tender.",
       "Let rest 5 minutes covered, then fluff with a fork - Suriname's everyday 'mixed rice' one-pot meal."
-    ]
+    ],
+    "description": "Moksi alesi, meaning 'mixed rice', a hearty one-pot rice dish, a genuine Surinamese staple."
   },
   {
     "name": "Surinamese Nasi Goreng",
@@ -380,11 +384,14 @@
       }
     ],
     "steps_detailed": [
-      "Heat the oil in a wok or large skillet over high heat and stir-fry the chicken, onion, garlic, and bell pepper for 4-5 minutes until the chicken is cooked through.",
-      "Push everything to the side and scramble one of the eggs directly in the pan, then mix it through.",
-      "Add the cooked rice and soy sauce, and stir-fry over high heat for 4-5 minutes, breaking up any clumps, until everything is well combined and slightly crisp in spots.",
-      "Fry the remaining egg separately and place it on top just before serving - a Surinamese take on the classic Indonesian fried rice."
-    ]
+      "Use rice that's been cooked and refrigerated at least several hours, ideally overnight - fresh warm rice will clump and steam rather than fry.",
+      "Scramble the eggs and set aside.",
+      "Stir-fry the chicken until cooked through, 5-6 minutes.",
+      "Add the onion, garlic, and bell pepper, cooking 2-3 minutes.",
+      "Add the cold rice, breaking up clumps, and stir-fry over high heat 4-5 minutes.",
+      "Fold the egg back through, finish with the soy sauce."
+    ],
+    "description": "Nasi goreng reflects Suriname's significant Javanese-Indonesian population, brought during Dutch colonial-era indentured labor - real nasi goreng depends on cold, day-old rice to fry into separate grains rather than clumping."
   },
   {
     "name": "Surinamese Bami Goreng",
@@ -462,7 +469,8 @@
       "Add the cabbage, carrot, and garlic, and stir-fry 3-4 minutes until just softened.",
       "Add the noodles and soy sauce, tossing everything together for 2-3 minutes until well combined and heated through.",
       "Return the chicken to the pan and toss once more before serving - the noodle counterpart to nasi goreng, equally beloved in Suriname."
-    ]
+    ],
+    "description": "Bami goreng reflects Suriname's significant Javanese-Indonesian population, brought during Dutch colonial-era indentured labor."
   },
   {
     "name": "Surinamese Saoto Soup",
@@ -550,7 +558,8 @@
       "Remove the chicken, shred it, and return it to the pot along with the green beans (or bean sprouts if you have them), simmering 3-4 minutes more.",
       "Season the broth with the lime juice and salt to taste.",
       "Ladle the soup over the cooked rice in bowls, and top with the sliced hard-boiled egg and cilantro - a Javanese-influenced soup that's a Surinamese favorite."
-    ]
+    ],
+    "description": "Saoto soup, a turmeric-spiced chicken broth, reflects Suriname's genuine Indonesian-Javanese heritage."
   },
   {
     "name": "Surinamese Pom",
@@ -626,6 +635,11 @@
         "ingredient": "Orange juice, chilled, includes from concentrate",
         "qty": 30,
         "note": "traditional for pom, adds citrus depth"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.1875,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
@@ -633,8 +647,10 @@
       "Mix the mashed potato (a stand-in for the traditional pomtajer/taro root) with the shredded chicken, diced tomatoes, lime juice, and orange juice.",
       "Spread the mixture in a small buttered baking dish, dot with the butter, and smooth the top.",
       "Bake at 375F (190C) for 30-40 minutes until golden and slightly crisp on top.",
-      "Pom is Suriname's national dish, traditionally made for holidays and gatherings - the citrus and root vegetable combination is distinctive."
-    ]
+      "Pom is Suriname's national dish, traditionally made for holidays and gatherings - the citrus and root vegetable combination is distinctive.",
+      "Stir the nutmeg through the mashed potato and chicken mixture before baking."
+    ],
+    "description": "Pom, a baked chicken and pom tayer (a root vegetable, here approximated with potato) casserole, is Suriname's most iconic dish - real nutmeg, not just citrus, is a defining part of its flavor."
   },
   {
     "name": "Surinamese Chicken Curry",
@@ -717,7 +733,8 @@
       "Add the chicken and brown it in the curry paste, 5-6 minutes.",
       "Add the coconut milk, cover, and simmer over low heat 22-25 minutes until the chicken is tender and the sauce has thickened slightly.",
       "Stir in the cilantro and serve with rice or roti."
-    ]
+    ],
+    "description": "Curry chicken, reflecting Suriname's Indian and Indonesian culinary influences."
   },
   {
     "name": "Surinamese Peanut Soup",
@@ -796,7 +813,8 @@
       "Whisk in the peanut butter a spoonful at a time until fully dissolved into the broth.",
       "Add the potato and jalapeno, and simmer 15-18 minutes until the potato is tender.",
       "Stir in the cilantro and serve hot - Suriname's version of the peanut soup found across formerly Dutch and West African-influenced cuisines."
-    ]
+    ],
+    "description": "Peanut soup (pindasoep), a genuine Surinamese specialty reflecting Dutch and West African culinary threads."
   },
   {
     "name": "Surinamese Fish in Coconut Sauce",
@@ -881,7 +899,8 @@
       "Add the coconut milk and diced tomatoes, and simmer 10-12 minutes until slightly thickened.",
       "Add the fish and simmer gently 6-8 minutes, just until cooked through and flaky - don't let it boil hard.",
       "Stir in the cilantro and serve over rice."
-    ]
+    ],
+    "description": "A simple coconut-based fish dish."
   },
   {
     "name": "Surinamese Bakabana",
@@ -937,7 +956,8 @@
       "Dust lightly with flour if you'd like a slightly crisper coating.",
       "Heat the oil in a skillet over medium heat and fry the plantain strips 2-3 minutes per side until deeply golden and caramelized at the edges.",
       "Drain briefly and serve warm, traditionally with a peanut dipping sauce."
-    ]
+    ],
+    "description": "Bakabana, fried battered banana, a beloved Surinamese street snack."
   },
   {
     "name": "Surinamese Bara",
@@ -1013,7 +1033,8 @@
       "Heat the oil in a skillet over medium heat. Drop spoonfuls of batter into the oil, flattening slightly.",
       "Fry 2-3 minutes per side until golden brown and cooked through.",
       "Serve warm, traditionally with a fiery pepper sauce."
-    ]
+    ],
+    "description": "Bara, fried lentil flatbread, a Surinamese and wider Indo-Caribbean staple."
   },
   {
     "name": "Surinamese Broodje Pom",
@@ -1081,7 +1102,8 @@
       "Toss the shredded cabbage with the diced tomatoes for a quick topping.",
       "Warm the bread roll and split it, then fill generously with the chicken-potato mixture and the cabbage-tomato topping.",
       "A popular handheld version of Suriname's national dish, sold at food stalls and gatherings."
-    ]
+    ],
+    "description": "A sandwich built on pom, Suriname's most iconic dish."
   },
   {
     "name": "Surinamese Fried Cassava",
@@ -1143,7 +1165,8 @@
       "Heat the oil in a skillet over medium-high heat with the garlic, and fry the cassava pieces 3-4 minutes per side until deeply golden and crisp.",
       "Drain briefly and squeeze fresh lime juice over the top.",
       "Serve hot with a fiery sambal or pepper sauce alongside."
-    ]
+    ],
+    "description": "Fried cassava, a common Surinamese side."
   },
   {
     "name": "Surinamese Coconut Rice Pudding",
@@ -1213,7 +1236,8 @@
       "Simmer over low heat, stirring often, for 22-28 minutes until the rice is very tender and the mixture has thickened to a creamy pudding.",
       "Stir in the raisins during the last few minutes so they plump slightly.",
       "Serve warm, or chill for a firmer, cooler dessert."
-    ]
+    ],
+    "description": "A simple coconut rice pudding."
   },
   {
     "name": "Surinamese Cassava Sweet",
@@ -1279,7 +1303,8 @@
       "Pour into a small, buttered baking dish and press down evenly.",
       "Bake at 350F (175C) for 40-45 minutes until firm throughout and lightly golden on top.",
       "Let cool at least 15-20 minutes before slicing into squares."
-    ]
+    ],
+    "description": "A simple cassava-based sweet."
   },
   {
     "name": "Surinamese Pineapple Sweet",
@@ -1338,7 +1363,8 @@
       "Combine the chopped pineapple, brown sugar, cinnamon, and ginger in a small saucepan.",
       "Simmer over medium-low heat, stirring occasionally, for 18-22 minutes until thick, jammy, and most of the liquid has cooked away.",
       "Let cool slightly and serve as a simple, bright sweet, reflecting Suriname's tropical fruit abundance."
-    ]
+    ],
+    "description": "A simple pineapple sweet."
   },
   {
     "name": "Surinamese Pinda Sauce",
@@ -1413,7 +1439,8 @@
       "Whisk in the peanut butter a little at a time until fully smooth and pourable.",
       "Stir in the soy sauce, jalapeno, garlic, and lime juice, and simmer 2-3 minutes to soften the garlic's bite.",
       "Serve warm over grilled meats, bakabana, or bara - the Indonesian-influenced sauce found throughout Surinamese cooking."
-    ]
+    ],
+    "description": "Pindasaus (peanut sauce), reflecting genuine Indonesian-Javanese influence in Surinamese cooking."
   },
   {
     "name": "Surinamese Sambal",
@@ -1486,6 +1513,7 @@
       "Blend to your preferred texture - some like it chunky, others smooth.",
       "Season with salt to taste.",
       "Store in a sealed jar in the fridge and use sparingly - this brings real heat to whatever it's served alongside."
-    ]
+    ],
+    "description": "Sambal, a chili condiment, reflects Suriname's genuine Indonesian-Javanese heritage."
   }
 ]

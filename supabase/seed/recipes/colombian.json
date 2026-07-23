@@ -64,7 +64,8 @@
       "Divide into a ball and flatten into a disc about 1/2 inch thick.",
       "Cook in a lightly oiled heavy skillet over medium heat, 5-7 minutes per side, until golden brown with some dark charred spots and cooked through.",
       "While still hot, split it most of the way open like a pita, butter the inside, and stuff generously with the remaining queso fresco so it melts slightly."
-    ]
+    ],
+    "description": "Arepas, corn cakes, are Colombia's most iconic staple, eaten daily in countless forms."
   },
   {
     "name": "Colombian Changua",
@@ -139,7 +140,8 @@
       "Crack the egg directly into the simmering liquid and poach gently, 3-4 minutes, until the white is fully set but the yolk is still soft.",
       "Ladle the warm milk broth and egg into a bowl.",
       "Top with the chopped cilantro and serve with torn pieces of bread or tortilla for dipping - the classic Bogota breakfast, especially good on a cold morning."
-    ]
+    ],
+    "description": "Changua, a simple milk and egg soup, a traditional Bogot\u00e1 breakfast."
   },
   {
     "name": "Colombian Calentado Paisa",
@@ -212,7 +214,8 @@
       "Add the cooked rice and pinto beans, and fry together over medium-high heat, pressing occasionally, until heated through with some crispy, golden bits.",
       "In a separate pan, fry the egg in the remaining butter to your preferred doneness.",
       "Plate the rice and beans topped with the fried egg, with the sliced avocado alongside - a classic way to use up last night's leftovers."
-    ]
+    ],
+    "description": "Calentado, leftover rice and beans reheated together, often with egg, a beloved Colombian breakfast tradition."
   },
   {
     "name": "Colombian Ajiaco Bogotano",
@@ -301,7 +304,8 @@
       "Add the potato and simmer 18-20 minutes, stirring occasionally and mashing some of the potato against the pot, until the broth thickens naturally.",
       "Add the corn and simmer 5-8 more minutes.",
       "Ladle into bowls and top each with a spoonful of sour cream, a few capers, and sliced avocado - the traditional trio of toppings."
-    ]
+    ],
+    "description": "Ajiaco bogotano, a hearty potato and chicken soup, gets its real, defining flavor from guascas, a specific Andean herb that isn't a distinct item here - without it, this soup is honestly missing the ingredient that separates real ajiaco from a generic chicken-potato soup."
   },
   {
     "name": "Colombian Bandeja Paisa",
@@ -377,14 +381,21 @@
         "ingredient": "Vegetable oil",
         "qty": 1,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Chorizo (fully cooked)",
+        "qty": 40,
+        "note": "sliced"
       }
     ],
     "steps_detailed": [
       "Saute the onion until soft, then brown the ground beef with it, seasoning well with salt.",
       "Warm the pinto beans in a separate pot, and cook the rice according to package directions.",
       "Fry the plantain slices in the oil until golden on both sides, then fry the egg in the same pan.",
-      "Arrange the beef, beans, rice, fried plantain, fried egg, and sliced avocado all together on one large plate - this is meant to be a generous, varied platter."
-    ]
+      "Arrange the beef, beans, rice, fried plantain, fried egg, and sliced avocado all together on one large plate - this is meant to be a generous, varied platter.",
+      "Brown the chorizo alongside the beef."
+    ],
+    "description": "Bandeja paisa, a large platter combining beans, rice, meat, plantain, egg, and avocado, is Colombia's most iconic regional dish, from the Antioquia region - chorizo is traditionally part of the full platter alongside the ground beef."
   },
   {
     "name": "Colombian Sancocho",
@@ -467,7 +478,8 @@
       "Add the cassava and plantain, and simmer 15-18 minutes until tender.",
       "Add the corn and simmer 5-8 more minutes.",
       "Remove the bay leaf, stir in the cilantro, and serve hot in bowls with rice alongside."
-    ]
+    ],
+    "description": "Sancocho, a hearty meat and root vegetable soup, considered one of Colombia's national dishes with regional variations."
   },
   {
     "name": "Colombian Frijoles Antioquenos",
@@ -547,7 +559,8 @@
       "Add the pinto beans and diced tomatoes along with a splash of the bean liquid, and simmer 15-18 minutes.",
       "Mash about a quarter of the beans against the side of the pot to naturally thicken the stew.",
       "Stir in the cilantro and serve with the fried plantain alongside."
-    ]
+    ],
+    "description": "Frijoles antioque\u00f1os, red beans stewed with pork, a staple of Antioquia's regional cooking."
   },
   {
     "name": "Colombian Sobrebarriga",
@@ -626,7 +639,8 @@
       "Remove the beef, shred or slice it thickly against the grain, and set aside. Strain and reserve the braising liquid.",
       "Combine the beef with the diced tomatoes and about 1/2 cup of the reserved braising liquid, and simmer 10-12 minutes to finish and thicken slightly.",
       "Stir in the cilantro and serve with rice, spooning extra braising liquid over the top."
-    ]
+    ],
+    "description": "Sobrebarriga, braised beef flank, a genuine Colombian home-cooking staple."
   },
   {
     "name": "Colombian Pollo Sudado",
@@ -710,7 +724,8 @@
       "Add the diced tomatoes, cumin, and potato, and simmer 5 minutes.",
       "Return the chicken to the pot, add a splash of water if needed, cover, and simmer over low heat 22-25 minutes until the chicken and potato are both tender.",
       "Stir in the cilantro before serving."
-    ]
+    ],
+    "description": "Pollo sudado, meaning 'sweated chicken', chicken slow-braised in its own juices with vegetables."
   },
   {
     "name": "Colombian Lechona-Style Pulled Pork",
@@ -793,7 +808,8 @@
       "Place in a covered baking dish with the onion and remaining garlic, and roast at 325F (165C) for 1.5-2 hours until completely tender and shreds easily with a fork.",
       "Shred the meat, discarding excess fat, and toss with the pan juices to keep it moist.",
       "Serve with rice, the shredded cabbage, and a good squeeze of lime juice - traditionally lechona is a whole roasted stuffed pig, but this captures the same slow-cooked, well-seasoned pork."
-    ]
+    ],
+    "description": "Lechona, a whole roasted, stuffed pig, is a Tolima specialty - this version keeps the same pulled pork and rice filling at a practical scale."
   },
   {
     "name": "Colombian Beef and Vegetable Mondongo-Style Stew",
@@ -875,7 +891,8 @@
       "Combine the beef, onion, garlic, and cumin with 2.5 cups water in a pot. Simmer 35-40 minutes until the beef is tender.",
       "Add the hominy, potato, and carrot, and simmer 15-20 more minutes until the vegetables are tender and the broth has thickened slightly.",
       "Stir in the cilantro and serve hot in wide bowls with rice."
-    ]
+    ],
+    "description": "Mondongo, a hearty tripe and vegetable soup, here approximated with beef."
   },
   {
     "name": "Colombian Empanadas",
@@ -954,7 +971,8 @@
       "Flatten small balls of dough into thin discs, place a spoonful of filling in the center, and fold into a half-moon, pressing the edges to seal well.",
       "Heat the oil in a skillet over medium heat and fry the empanadas 2-3 minutes per side until deep golden and crisp.",
       "Drain on a paper towel and serve hot."
-    ]
+    ],
+    "description": "Colombian empanadas, made with a corn-based dough, are distinct from wheat-based empanadas found elsewhere in Latin America."
   },
   {
     "name": "Colombian Arepas de Choclo",
@@ -1030,7 +1048,8 @@
       "Shape into small discs about 1/2 inch thick.",
       "Cook in a lightly oiled skillet over medium heat, 5-6 minutes per side, until golden brown and cooked through.",
       "Serve warm - these are naturally a bit sweet from the corn and sugar, balanced by the salty cheese."
-    ]
+    ],
+    "description": "Arepas de choclo, sweet corn arepas, a beloved Colombian variation on the national staple."
   },
   {
     "name": "Colombian Bunuelos",
@@ -1100,7 +1119,8 @@
       "Roll into balls about 1.5 inches across.",
       "Heat the oil in a deep skillet over medium heat. Fry the balls, turning frequently so they cook evenly and puff into a round shape, for 5-7 minutes until deep golden and cooked through in the center.",
       "Drain on a paper towel and serve warm."
-    ]
+    ],
+    "description": "Bu\u00f1uelos, fried cheese bread balls, a Colombian Christmas tradition."
   },
   {
     "name": "Colombian Obleas con Arequipe",
@@ -1155,7 +1175,8 @@
       "Sprinkle the crumbled queso fresco over the dulce de leche.",
       "Add a light drizzle of sweetened condensed milk if you'd like extra sweetness, then top with a second wafer, pressing gently.",
       "Serve immediately - obleas are meant to be eaten right after assembling, while the wafer is still crisp."
-    ]
+    ],
+    "description": "Obleas, thin wafers sandwiched with arequipe (dulce de leche), a beloved Colombian street treat."
   },
   {
     "name": "Colombian Brevas con Arequipe",
@@ -1221,7 +1242,8 @@
       "Simmer gently for 20-25 minutes until the figs are very plump and tender and the liquid has reduced to a light syrup.",
       "Let cool slightly, then split each fig open and fill with a spoonful of dulce de leche.",
       "Drizzle any remaining syrup over the top before serving."
-    ]
+    ],
+    "description": "Brevas con arequipe, figs in syrup served with dulce de leche, a traditional Colombian dessert."
   },
   {
     "name": "Colombian Flan de Panela",
@@ -1288,7 +1310,8 @@
       "Pour the custard mixture over the caramel layer in the dish.",
       "Set the dish into a larger pan with hot water reaching halfway up the sides, and bake at 325F (165C) for 35-45 minutes until just set with a gentle wobble.",
       "Chill thoroughly, at least 2 hours, then run a knife around the edge and invert onto a plate to unmold, letting the caramel run down over the top."
-    ]
+    ],
+    "description": "Flan sweetened with panela, unrefined whole cane sugar, a genuinely Colombian variation on the classic custard."
   },
   {
     "name": "Colombian Tres Leches",
@@ -1390,7 +1413,8 @@
       "Let the cake cool completely, then poke holes all over the surface with a fork or skewer.",
       "Whisk together the condensed milk, evaporated milk, and whole milk, and slowly pour over the cake, letting it soak in fully - it should look quite saturated.",
       "Chill at least an hour, then top with the whipped sour cream (standing in for whipped cream) before serving."
-    ]
+    ],
+    "description": "Tres leches, a sponge cake soaked in three milks, beloved across Colombia and the wider region."
   },
   {
     "name": "Colombian Hogao",
@@ -1471,7 +1495,8 @@
       "Add the diced tomatoes and cumin, and simmer 12-15 minutes, stirring occasionally, until thickened into a rich, jammy sauce.",
       "Stir in the cilantro just before using.",
       "This is the flavor base for countless Colombian dishes - stirred into rice, spooned over beans, or served alongside eggs."
-    ]
+    ],
+    "description": "Hogao, a tomato-onion sauce, the foundational base for countless Colombian dishes."
   },
   {
     "name": "Colombian Aji Picante",
@@ -1544,6 +1569,7 @@
       "Stir in the vinegar, lime juice, and a splash of water, and season generously with salt.",
       "Let sit at room temperature at least 20 minutes so the onion softens and the flavors meld.",
       "Serve as the classic table condiment alongside empanadas, arepas, or just about anything."
-    ]
+    ],
+    "description": "Aj\u00ed, Colombia's essential fresh chili table sauce, found on nearly every table."
   }
 ]

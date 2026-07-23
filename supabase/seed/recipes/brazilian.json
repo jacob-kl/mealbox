@@ -75,7 +75,8 @@
       "Add the garlic and bay leaf, cooking 1 minute.",
       "Add the beans and broth. Simmer 20-25 minutes, mashing some of the beans against the side of the pot to thicken the stew - feijoada should be hearty and thick, not soupy.",
       "Remove the bay leaf, top with parsley, and serve - Brazil's national dish, traditionally simmered for hours with a variety of pork cuts."
-    ]
+    ],
+    "description": "Feijoada, black beans stewed with pork, is considered Brazil's national dish, traditionally served as a whole Saturday feast."
   },
   {
     "name": "Moqueca (Brazilian Fish Stew)",
@@ -160,7 +161,8 @@
       "Add the tomatoes and coconut milk, simmer 8 minutes.",
       "Nestle the fish into the sauce, cover, and simmer 10-12 minutes until it flakes easily.",
       "Top with cilantro before serving."
-    ]
+    ],
+    "description": "Moqueca, a coconut and palm-oil fish stew, exists in two distinct regional styles - Bahian (with dend\u00ea palm oil) and Capixaba."
   },
   {
     "name": "Brazilian Grilled Chicken (Frango Grelhado)",
@@ -226,7 +228,8 @@
       "Whisk the lime juice, garlic, oil, and black pepper together. Coat the chicken and marinate at least 20 minutes.",
       "Grill or pan-sear over medium-high heat, 5-6 minutes per side, until cooked through (165F).",
       "Rest 5 minutes, top with parsley, and serve - simple, bright flavors are the everyday backbone of Brazilian home cooking."
-    ]
+    ],
+    "description": "Simple grilled chicken, a Brazilian home-cooking staple."
   },
   {
     "name": "Picadinho (Brazilian Beef Hash)",
@@ -284,7 +287,7 @@
         "note": "diced"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "White rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -299,7 +302,8 @@
       "Add the onion, garlic, and bell pepper, cooking 5-6 minutes until softened.",
       "Add the tomatoes and simmer 12-15 minutes until thickened.",
       "Cook the rice per package directions and serve the beef hash over it, topped with parsley - a comforting everyday Brazilian staple."
-    ]
+    ],
+    "description": "Picadinho, diced beef stewed with vegetables, a comforting Brazilian home-cooking staple."
   },
   {
     "name": "Brazilian Shrimp Stew",
@@ -376,7 +380,8 @@
       "Add the tomatoes and coconut milk, simmer 8-10 minutes until slightly thickened.",
       "Add the shrimp and simmer 5-6 minutes until pink and just cooked through.",
       "Finish with lime juice and top with cilantro - a simpler cousin of moqueca, quick enough for a weeknight."
-    ]
+    ],
+    "description": "A coconut-based shrimp stew, in the spirit of moqueca."
   },
   {
     "name": "Churrasco-Style Steak",
@@ -438,7 +443,8 @@
       "Grill over high heat, 4-5 minutes per side for medium-rare, adjusting for your preferred doneness.",
       "Rest 5 minutes before slicing against the grain.",
       "Top with parsley and serve - the centerpiece of any Brazilian churrascaria."
-    ]
+    ],
+    "description": "Churrasco, grilled meat, is both a dish and a beloved Brazilian barbecue tradition."
   },
   {
     "name": "Frango com Quiabo (Chicken with Okra)",
@@ -505,7 +511,8 @@
       "Add the onion and garlic, cooking 4-5 minutes until softened.",
       "Add the tomatoes and okra, simmer 15-18 minutes until the chicken is cooked through - the okra will naturally thicken the sauce as it cooks, a texture that's central to this dish rather than something to avoid.",
       "Finish with lime juice before serving."
-    ]
+    ],
+    "description": "Chicken with okra, a traditional dish from Minas Gerais."
   },
   {
     "name": "Brazilian Rice and Beans Bowl",
@@ -544,7 +551,7 @@
         "note": ""
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "White rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -573,7 +580,8 @@
       "Heat a splash of oil in a pan over medium heat. Cook the onion and garlic 4-5 minutes.",
       "Add the beans and bay leaf, simmering 10-12 minutes until heated through, mashing a few beans to thicken slightly.",
       "Remove the bay leaf. Cook the rice per package directions and serve the beans over it, topped with parsley - rice and beans (arroz e feij\u00e3o) is the daily foundation of Brazilian meals."
-    ]
+    ],
+    "description": "Rice and beans, eaten daily across Brazil, form the true foundation of Brazilian home cooking."
   },
   {
     "name": "Coxinha-Style Chicken Bites",
@@ -647,7 +655,8 @@
       "Dip each piece in beaten egg, then coat in panko.",
       "Bake at 400F for 20-22 minutes until golden and crisp, or shallow-fry 2-3 minutes per side for the traditional deep-fried result.",
       "Serve warm - one of Brazil's most beloved street foods and party snacks."
-    ]
+    ],
+    "description": "Coxinha, teardrop-shaped fried dough filled with shredded chicken, one of Brazil's most beloved snacks."
   },
   {
     "name": "Vinagrete Salad with Chicken",
@@ -721,7 +730,8 @@
       "Toss the tomato, bell pepper, and onion with the dressing - vinagrete is a bright, chunky relish traditionally served alongside grilled meats.",
       "Fold in the parsley.",
       "Serve alongside the sliced chicken."
-    ]
+    ],
+    "description": "Vinagrete, a finely diced tomato-onion-pepper relish, the classic accompaniment to Brazilian barbecue."
   },
   {
     "name": "Brazilian Fish Soup",
@@ -795,7 +805,8 @@
       "Add the tomatoes, broth, and coconut milk. Simmer 8-10 minutes.",
       "Add the fish, cover, and simmer 10-12 minutes until it flakes easily.",
       "Top with cilantro before serving."
-    ]
+    ],
+    "description": "A simple fish soup, reflecting Brazil's extensive coastline."
   },
   {
     "name": "P\u00e3o de Queijo Sandwich",
@@ -872,7 +883,8 @@
       "Shape into small rolls and place on a lined baking sheet.",
       "Bake 18-20 minutes until puffed and lightly golden, with a chewy, cheesy interior.",
       "Split while warm and fill with ham for a satisfying lunch."
-    ]
+    ],
+    "description": "A sandwich built on p\u00e3o de queijo, Brazil's beloved cheese bread."
   },
   {
     "name": "P\u00e3o de Queijo (Brazilian Cheese Bread)",
@@ -936,7 +948,8 @@
       "Warm the milk and oil together until just simmering, then pour over the tapioca flour and mix well.",
       "Once cooled slightly, mix in the egg and Parmesan until a sticky, stretchy dough forms.",
       "Shape into small rolls and bake 18-20 minutes until puffed and golden - a beloved breakfast staple across Brazil, best eaten warm."
-    ]
+    ],
+    "description": "P\u00e3o de queijo, chewy cheese bread made from tapioca starch, is a genuine Brazilian icon, especially from Minas Gerais."
   },
   {
     "name": "Brazilian Fruit and Yogurt Bowl",
@@ -998,7 +1011,8 @@
       "Spoon the yogurt into a bowl.",
       "Top with sliced banana, chopped cashews, and shredded coconut, reflecting Brazil's abundant tropical fruit and nut tradition.",
       "Drizzle with honey before serving."
-    ]
+    ],
+    "description": "A simple fruit and yogurt bowl, built on Brazil's abundant tropical fruit."
   },
   {
     "name": "Coxinha Bites (Snack Size)",
@@ -1060,7 +1074,8 @@
       "Shape into small bite-sized pieces.",
       "Dip in beaten egg, then coat in panko.",
       "Bake at 400F for 15-18 minutes until golden - a lighter, snack-sized version of the classic teardrop coxinha."
-    ]
+    ],
+    "description": "A smaller, snack-sized version of coxinha, Brazil's beloved chicken-filled fried dough."
   },
   {
     "name": "Spiced Roasted Cashews (Brazilian)",
@@ -1107,7 +1122,8 @@
       "Toss the cashews with lime juice and a pinch of cayenne.",
       "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often, until fragrant.",
       "Cool completely before eating - Brazil is one of the world's largest cashew producers, and roasted, salted cashews are a common snack nationwide."
-    ]
+    ],
+    "description": "Cashews, native to Brazil, roasted here simply."
   },
   {
     "name": "Banana Chips (Brazilian)",
@@ -1155,7 +1171,8 @@
       "Toss with oil and cinnamon.",
       "Spread in a single layer on a lined baking sheet and bake 25-30 minutes, flipping halfway, until dried and crisp.",
       "Cool completely - they crisp further as they cool."
-    ]
+    ],
+    "description": "A simple banana chip snack."
   },
   {
     "name": "Brigadeiro Bites",
@@ -1220,7 +1237,8 @@
       "Stir in the vanilla, then let cool completely - it needs to be fully cool to roll properly.",
       "Roll into small balls and coat in the reserved cocoa powder.",
       "Brazil's most iconic sweet, traditionally served at every birthday party."
-    ]
+    ],
+    "description": "Brigadeiro, a chocolate and condensed milk fudge ball, is Brazil's most iconic party sweet."
   },
   {
     "name": "Beijinho (Coconut Sweets)",
@@ -1279,7 +1297,8 @@
       "Cook, stirring constantly, 8-10 minutes until thickened enough to pull away from the sides of the pan.",
       "Let cool completely, then roll into small balls.",
       "Coat in the reserved shredded coconut - beijinho ('little kiss') is brigadeiro's coconut sibling, equally beloved at Brazilian celebrations."
-    ]
+    ],
+    "description": "Beijinho, a coconut and condensed milk sweet, the classic partner to brigadeiro at Brazilian parties."
   },
   {
     "name": "Bacalhau-Style Baked Cod",
@@ -1355,6 +1374,7 @@
       "Drizzle with the remaining oil.",
       "Bake 25-30 minutes until the potato is tender and the fish flakes easily.",
       "Top with parsley before serving - inspired by Portugal's bacalhau tradition, adapted with Brazil's own coastal seafood."
-    ]
+    ],
+    "description": "Bacalhau, salt cod, was brought by Portuguese colonization and remains deeply woven into Brazilian cooking."
   }
 ]

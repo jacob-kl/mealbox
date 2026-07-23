@@ -44,7 +44,8 @@
       "Grill over high heat, 4-5 minutes per side for medium-rare, adjusting for your preferred doneness.",
       "Rest 5 minutes, then slice against the grain.",
       "Top generously with chimichurri - the bright, herby sauce that's inseparable from Argentine grilling culture."
-    ]
+    ],
+    "description": "Asado, slow-grilled meat over wood or charcoal, is both a dish and a beloved Argentine social tradition."
   },
   {
     "name": "Milanesa (Breaded Beef Cutlet)",
@@ -121,7 +122,8 @@
       "Dredge in flour, dip in the seasoned egg, then coat thoroughly in panko.",
       "Heat oil in a skillet over medium-high heat and fry 3-4 minutes per side until deeply golden.",
       "Serve with a generous squeeze of lemon - milanesa is one of Argentina's most beloved everyday dishes, found on nearly every home table and menu."
-    ]
+    ],
+    "description": "Milanesa, a breaded, fried cutlet brought by Italian immigrants, is one of Argentina's most common everyday meals."
   },
   {
     "name": "Chimichurri Chicken",
@@ -167,7 +169,8 @@
       "Coat the chicken with half the chimichurri and a touch of olive oil. Marinate at least 20 minutes.",
       "Grill or pan-sear over medium-high heat, 6-7 minutes per side, until cooked through (165F).",
       "Top with the remaining fresh chimichurri before serving."
-    ]
+    ],
+    "description": "Chimichurri, a fresh herb and garlic sauce, is Argentina's most iconic condiment for grilled meat."
   },
   {
     "name": "Baked Beef Empanada Pie",
@@ -240,7 +243,8 @@
       "Make a simple dough with the flour, butter, and a splash of water.",
       "Roll out and fill with the beef mixture, fold and crimp the edges (or bake as a single open pie if simpler).",
       "Bake at 375F for 20-25 minutes until golden."
-    ]
+    ],
+    "description": "Empanadas, filled pastries, are an Argentine staple with countless regional fillings - this version bakes the filling as one pie rather than individual pastries."
   },
   {
     "name": "Locro (Argentine Corn and Bean Stew)",
@@ -317,7 +321,8 @@
       "Add the onion and garlic, cooking 5 minutes, then the smoked paprika, cooking 30 seconds.",
       "Add the beans, corn, sweet potato, and broth. Bring to a simmer.",
       "Cover and cook 25-30 minutes until the sweet potato is tender and the stew has thickened - locro is a hearty, slow-cooked dish traditionally served on Argentina's May Revolution holiday."
-    ]
+    ],
+    "description": "Locro, a hearty corn and bean stew, is closely associated with Argentine Independence Day celebrations."
   },
   {
     "name": "Matambre-Style Rolled Beef",
@@ -385,7 +390,8 @@
       "Secure with kitchen twine.",
       "Sear on all sides in a hot pan, 4-5 minutes total, then add the broth, cover, and simmer 20-25 minutes.",
       "Rest, then slice into rounds to reveal the colorful spiral - matambre is a traditional centerpiece for special occasions."
-    ]
+    ],
+    "description": "Matambre, thin beef rolled around a filling, a genuine Argentine specialty, its name literally meaning 'kills hunger'."
   },
   {
     "name": "Grilled Provoleta with Chicken",
@@ -441,7 +447,8 @@
       "Grill or pan-sear the chicken over medium-high heat, 6-7 minutes per side, until cooked through.",
       "In a small oven-safe skillet, melt the provolone under a broiler or in a hot oven for 2-3 minutes until bubbly and lightly browned on top, sprinkled with oregano - provoleta is a beloved asado starter, often eaten straight from the skillet.",
       "Serve the chicken alongside the melted provolone, both topped with chimichurri."
-    ]
+    ],
+    "description": "Provoleta, a thick slice of provolone grilled until soft and slightly charred, a beloved Argentine asado starter."
   },
   {
     "name": "Beef and Rice Bowl (Argentine Style)",
@@ -478,7 +485,7 @@
         "note": "sliced thin"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "White rice (dry)",
         "qty": 55,
         "note": ""
       },
@@ -497,7 +504,8 @@
       "Heat a splash of oil in a skillet over high heat and sear the beef, 3-4 minutes, until browned.",
       "Add the bell pepper and cook 3-4 minutes more.",
       "Cook the rice per package directions and serve the beef over it, topped generously with chimichurri."
-    ]
+    ],
+    "description": "A simple beef and rice bowl."
   },
   {
     "name": "Chorip\u00e1n (Sausage Sandwich)",
@@ -552,7 +560,8 @@
     "steps_detailed": [
       "Grill or pan-sear the sausage over medium heat, 6-7 minutes, turning occasionally, until browned and cooked through.",
       "Split the bread and layer with the sausage, onion, and a generous spoonful of chimichurri - chorip\u00e1n is Argentina's ubiquitous street food, sold at every asado and stadium alike."
-    ]
+    ],
+    "description": "Chorip\u00e1n, grilled chorizo on bread, often topped with chimichurri, a staple of Argentine asados."
   },
   {
     "name": "Beef Empanada Bites",
@@ -618,7 +627,8 @@
       "Brown the beef with onion and cumin, 6-8 minutes, then stir in the chopped olives - a classic empanada criolla touch.",
       "Fill each wrapper with a spoonful of filling, brush the edges with beaten egg, fold, and crimp tightly to seal.",
       "Bake at 400F for 15-18 minutes until golden - a lighter, baked take on Argentina's most iconic snack food."
-    ]
+    ],
+    "description": "Empanadas, filled pastries, an Argentine staple with countless regional fillings."
   },
   {
     "name": "Argentine Salad with Steak",
@@ -686,7 +696,8 @@
       "Whisk the oil and vinegar together.",
       "Toss the lettuce, tomato, and onion with the dressing.",
       "Top with the sliced steak - a simple ensalada criolla pairing, common alongside grilled meats."
-    ]
+    ],
+    "description": "A simple salad paired with grilled steak."
   },
   {
     "name": "Milanesa Sandwich",
@@ -746,7 +757,8 @@
     "steps_detailed": [
       "Prepare the milanesa as in the main recipe.",
       "Spread mayonnaise on the bread, then layer with lettuce, tomato, and the milanesa - a 'sandwich de milanesa' is a lunchtime staple across Argentina."
-    ]
+    ],
+    "description": "A sandwich built on milanesa, Argentina's beloved breaded cutlet."
   },
   {
     "name": "Beef and Sweet Potato Bowl",
@@ -807,7 +819,8 @@
       "Roast the sweet potato cubes at 400F with a little oil for 20-25 minutes until tender.",
       "Heat a splash of oil in a pan over medium-high heat and brown the beef with onion and garlic, 6-7 minutes.",
       "Serve the beef over the roasted sweet potato, topped generously with chimichurri."
-    ]
+    ],
+    "description": "A simple beef and sweet potato bowl."
   },
   {
     "name": "Medialunas-Style Sweet Rolls",
@@ -875,7 +888,8 @@
       "Mix the flour, baking powder, softened butter, honey, and milk into a soft dough.",
       "Shape into small crescents and brush with egg wash.",
       "Bake at 375F for 15-18 minutes until golden - medialunas are the classic Argentine breakfast pastry, always enjoyed alongside coffee or mate."
-    ]
+    ],
+    "description": "Medialunas, sweet, crescent-shaped rolls, a beloved Argentine breakfast pastry."
   },
   {
     "name": "Dulce de Leche Toast",
@@ -920,7 +934,8 @@
     ],
     "steps_detailed": [
       "Lightly butter the toast, then spread generously with dulce de leche - a simple, beloved breakfast across Argentina, where dulce de leche is treated almost like a national treasure."
-    ]
+    ],
+    "description": "Dulce de leche, a caramelized milk spread, is central to Argentine sweets and breakfasts."
   },
   {
     "name": "Provoleta Bites",
@@ -967,7 +982,8 @@
       "Place the provolone in a small oven-safe dish, sprinkle with oregano and red pepper flakes.",
       "Broil 2-3 minutes until melted, bubbly, and lightly browned in spots.",
       "Serve immediately while hot and gooey - provoleta is a beloved starter at any asado."
-    ]
+    ],
+    "description": "Provoleta, grilled provolone, a beloved Argentine asado starter, served here in smaller bites."
   },
   {
     "name": "Roasted Peanuts (Argentine Style)",
@@ -1014,7 +1030,8 @@
       "Toss the peanuts with oil and paprika.",
       "Toast in a dry skillet over medium-low heat, 4-5 minutes, stirring often.",
       "Cool before eating - a common casual snack alongside a glass of Malbec or mate."
-    ]
+    ],
+    "description": "A simple roasted peanut snack."
   },
   {
     "name": "Chocotorta-Style Bites",
@@ -1079,7 +1096,8 @@
       "Layer the soaked crackers with the cream cheese mixture in small cups.",
       "Chill at least 1 hour to let the layers set and the crackers soften further.",
       "Dust with cocoa powder before serving - chocotorta is one of Argentina's most beloved no-bake desserts, especially popular in summer."
-    ]
+    ],
+    "description": "Chocotorta, a no-bake layered cookie and dulce de leche cake, one of Argentina's most beloved desserts."
   },
   {
     "name": "Dulce de Leche Bites",
@@ -1143,7 +1161,8 @@
       "Cream the butter and sugar, mix in the vanilla, then fold in the flour to form a soft dough.",
       "Roll into small rounds, flatten slightly, and bake 10-12 minutes until just set.",
       "Cool completely, then sandwich pairs together with dulce de leche - Argentina's own take on the alfajor, a treat found in every bakery and corner store."
-    ]
+    ],
+    "description": "Dulce de leche, a caramelized milk spread central to Argentine sweets, served here simply."
   },
   {
     "name": "Grilled Chicken and Black Bean Bowl",
@@ -1204,6 +1223,7 @@
       "Grill or pan-sear the chicken over medium-high heat, 6-7 minutes per side, until cooked through.",
       "Warm the black beans and corn together in a small pan, 4-5 minutes.",
       "Serve the sliced chicken over the beans, topped with red onion and a generous spoonful of chimichurri."
-    ]
+    ],
+    "description": "A simple grilled chicken and black bean bowl."
   }
 ]

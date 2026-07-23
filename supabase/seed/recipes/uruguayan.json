@@ -73,7 +73,8 @@
       "Roll the dough thin, cut into triangles, and roll each one up from the wide end into a crescent shape.",
       "Brush with the beaten egg and bake at 375F (190C) for 15-20 minutes until golden and puffed.",
       "Brush with a little warm honey right out of the oven for the traditional glossy, faintly sweet finish."
-    ]
+    ],
+    "description": "Medialunas, sweet, crescent-shaped rolls, a beloved Uruguayan breakfast pastry."
   },
   {
     "name": "Uruguayan Torta Frita",
@@ -143,7 +144,8 @@
       "Rest the dough 10 minutes, then divide into small pieces and flatten each into a thin disc about 1/4 inch thick, cutting a small slit in the center of each.",
       "Heat the oil in a skillet over medium heat and fry the discs 2-3 minutes per side until puffed, golden, and cooked through.",
       "Drain briefly and dust generously with sugar while still warm."
-    ]
+    ],
+    "description": "Torta frita, simple fried dough, a beloved Uruguayan rainy-day treat."
   },
   {
     "name": "Uruguayan Avocado Toast with Egg",
@@ -213,7 +215,8 @@
       "Mash the avocado with the lime juice, a pinch of salt, and black pepper.",
       "Fry the egg in the butter over medium heat to your preferred doneness - a runny yolk is traditional here.",
       "Spread the mashed avocado generously over the toast and top with the fried egg."
-    ]
+    ],
+    "description": "A simple avocado toast breakfast."
   },
   {
     "name": "Uruguayan Chivito al Plato",
@@ -279,6 +282,16 @@
         "ingredient": "Black pepper (ground)",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Ham, sliced, regular (approximately 11% fat)",
+        "qty": 1,
+        "note": "oz, sliced"
+      },
+      {
+        "ingredient": "Bacon",
+        "qty": 2,
+        "note": "slices, cooked"
       }
     ],
     "steps_detailed": [
@@ -286,8 +299,10 @@
       "Sear it in the oil over high heat, 1-2 minutes per side, until well browned but not overcooked.",
       "In the same pan, fry the egg to your preferred doneness.",
       "Plate the beef, lay the cheese slices over it while still hot so they soften, and top with the fried egg.",
-      "Serve with the shredded cabbage and diced tomato alongside."
-    ]
+      "Serve with the shredded cabbage and diced tomato alongside.",
+      "Layer the ham and cooked bacon alongside the steak and egg."
+    ],
+    "description": "Chivito al plato, a loaded plate of steak, ham, bacon, cheese, egg, and vegetables, is considered Uruguay's national dish - real ham and bacon are traditional components, not optional extras."
   },
   {
     "name": "Uruguayan Milanesa Napolitana",
@@ -376,7 +391,8 @@
       "Fry in the oil over medium-high heat, 3-4 minutes per side, until golden and cooked through.",
       "Top the fried cutlet with the diced tomatoes, oregano, and shredded mozzarella.",
       "Broil for 2-3 minutes until the cheese is melted and bubbling."
-    ]
+    ],
+    "description": "Milanesa napolitana, a breaded cutlet topped with tomato sauce, ham, and cheese, a beloved Uruguayan and Argentine dish."
   },
   {
     "name": "Uruguayan Ensalada Rusa",
@@ -452,7 +468,8 @@
       "Combine the diced vegetables with the chopped hard-boiled egg and sliced olives.",
       "Fold in the sour cream, season well with salt, and mix gently until everything is coated.",
       "Chill at least 30 minutes before serving cold."
-    ]
+    ],
+    "description": "Ensalada rusa, a potato and vegetable salad in mayonnaise, a Uruguayan staple with Russian-inspired roots."
   },
   {
     "name": "Uruguayan Puchero",
@@ -530,7 +547,8 @@
       "Add the sweet potato and carrot, and simmer 15 minutes.",
       "Add the cabbage and corn, and simmer 8-10 more minutes until all the vegetables are tender.",
       "Remove the bay leaf and serve hot in wide bowls with the broth and vegetables together."
-    ]
+    ],
+    "description": "Puchero, a boiled meat and vegetable dinner, a Uruguayan tradition with Spanish roots."
   },
   {
     "name": "Uruguayan Asado Mixto",
@@ -593,7 +611,8 @@
       "Brush lightly with the oil and grill over medium-high heat, turning occasionally, 12-15 minutes total for the chicken and 15-20 for the beef depending on thickness, until both are well charred outside and fully cooked through.",
       "Rest the meats 5-8 minutes before slicing.",
       "Serve together, traditionally with a simple green salad and bread."
-    ]
+    ],
+    "description": "Asado, slow-grilled meat, both a dish and a beloved Uruguayan social tradition."
   },
   {
     "name": "Uruguayan Pastel de Carne",
@@ -677,7 +696,8 @@
       "Mash the boiled sweet potato with the butter until smooth, then spread evenly over the beef layer.",
       "Bake at 400F (200C) for 20-25 minutes until the top is lightly golden.",
       "Let rest 5 minutes before serving."
-    ]
+    ],
+    "description": "Pastel de carne, a layered meat pie, a Uruguayan home-cooking staple."
   },
   {
     "name": "Uruguayan Pollo a la Portuguesa",
@@ -760,7 +780,8 @@
       "In the same pan, saute the onion, bell pepper, and garlic for 5-6 minutes until softened.",
       "Add the diced tomatoes, oregano, and chicken broth, and simmer 5 minutes.",
       "Return the chicken to the pan, cover, and simmer over low heat 20-25 minutes until the chicken is cooked through and tender."
-    ]
+    ],
+    "description": "Chicken in a tomato-based sauce, reflecting real Portuguese culinary influence in Uruguay."
   },
   {
     "name": "Uruguayan Guiso de Lentejas",
@@ -845,7 +866,8 @@
       "Add the lentils, diced tomatoes, bay leaf, oregano, and 1 cup water. Bring to a simmer.",
       "Cook 18-20 minutes, stirring occasionally, until thickened to a hearty stew consistency.",
       "Remove the bay leaf before serving."
-    ]
+    ],
+    "description": "A simple lentil stew, common Uruguayan home cooking."
   },
   {
     "name": "Uruguayan Choripan",
@@ -908,7 +930,8 @@
       "Grill or pan-fry in the oil over medium-high heat until well browned outside and cooked through, about 5-6 minutes per side depending on thickness.",
       "Warm the bread and split it.",
       "Slice the meat into the bread, top with the diced tomatoes, and finish with the chopped cilantro."
-    ]
+    ],
+    "description": "Chorip\u00e1n, grilled chorizo on bread, a staple of Uruguayan asados."
   },
   {
     "name": "Uruguayan Empanadas",
@@ -992,7 +1015,8 @@
       "Make a simple dough: rub the butter into the flour with a pinch of salt, then add warm water gradually until smooth. Rest 15 minutes, then roll and cut into rounds.",
       "Fill each round with the beef mixture, fold into a half-moon, and crimp firmly to seal.",
       "Bake at 400F (200C) for 18-22 minutes until golden brown."
-    ]
+    ],
+    "description": "Empanadas, filled pastries, a Uruguayan staple."
   },
   {
     "name": "Uruguayan Faina",
@@ -1055,7 +1079,8 @@
       "Pour the batter into a well-oiled baking dish or oven-safe skillet in a thin, even layer, about 1/4 inch thick.",
       "Drizzle the remaining oil over the top and bake at 450F (230C) for 12-16 minutes until set, golden at the edges, and lightly blistered on top.",
       "Cut into wedges and serve, traditionally alongside a slice of pizza."
-    ]
+    ],
+    "description": "Faina, a chickpea flour flatbread, reflects genuine Italian immigrant influence in Uruguay."
   },
   {
     "name": "Uruguayan Postre Chaja",
@@ -1115,7 +1140,8 @@
       "In a glass or bowl, layer crumbled sponge cake or plain cookies, a spoonful of dulce de leche, a layer of the whipped cream, and a spoonful of the fruit nectar or diced fruit.",
       "Repeat the layers once or twice more, finishing with a generous topping of dulce de leche.",
       "Chill at least 30-45 minutes before serving so the layers meld slightly."
-    ]
+    ],
+    "description": "Postre chaj\u00e1, a layered sponge cake with meringue, cream, and peaches, is considered a genuine Uruguayan invention."
   },
   {
     "name": "Uruguayan Alfajores",
@@ -1197,7 +1223,8 @@
       "Bake at 325F (165C) for 8-10 minutes - they should stay pale, not browned.",
       "Let cool completely, then sandwich pairs together with a generous layer of dulce de leche.",
       "For the classic finish, dust with a little cocoa powder or melt a small amount of chocolate to coat the edges, if you'd like."
-    ]
+    ],
+    "description": "Alfajores, dulce-de-leche-filled cookies, a beloved treat across Uruguay and much of South America."
   },
   {
     "name": "Uruguayan Pasta Frola",
@@ -1285,7 +1312,8 @@
       "Roll the remaining dough and cut into strips, arranging them in a lattice pattern over the filling.",
       "Bake at 350F (175C) for 25-30 minutes until the crust is golden.",
       "Let cool before slicing, as the filling firms up as it cools."
-    ]
+    ],
+    "description": "Pasta frola, a lattice-topped jam tart, reflects real Italian immigrant influence in Uruguay."
   },
   {
     "name": "Uruguayan Chimichurri",
@@ -1362,7 +1390,8 @@
       "Finely chop the cilantro and combine with the minced garlic and jalapeno in a bowl.",
       "Whisk in the oil, vinegar, and oregano, and season generously with salt.",
       "Let sit at room temperature at least 20-30 minutes before serving so the flavors develop."
-    ]
+    ],
+    "description": "Chimichurri, a fresh herb sauce, the classic condiment for Uruguayan grilled meat."
   },
   {
     "name": "Uruguayan Salsa Criolla",
@@ -1440,7 +1469,8 @@
       "Stir in the vinegar, oil, and cilantro, and season well with salt.",
       "Let it sit at room temperature for 15-20 minutes so the vegetables soften slightly and the flavors meld.",
       "Spoon over grilled or fried meats."
-    ]
+    ],
+    "description": "A simple fresh tomato-onion relish, common across Uruguayan and wider Southern Cone cooking."
   },
   {
     "name": "Uruguayan Salsa Golf",
@@ -1501,6 +1531,7 @@
       "Whisk the sour cream, tomato paste, lime juice, and Worcestershire sauce together until completely smooth and a pale orange-pink color.",
       "Season with a small pinch of salt, tasting and adjusting the tartness with a touch more lime juice if you like.",
       "Chill briefly before serving with fries, fried seafood, or as a dip."
-    ]
+    ],
+    "description": "Salsa golf, a ketchup-mayonnaise blend, is a genuine Uruguayan-Argentine invention, said to have been created on a golf course."
   }
 ]
