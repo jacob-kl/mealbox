@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Ugandan Matoke",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Matoke, steamed and mashed green cooking bananas, is widely considered Uganda's national dish - real matoke bananas are a specific starchy variety, and green plantain is a much closer match than sweet yellow bananas, though still not identical.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, green, raw",
+        "qty": 250,
+        "note": "peeled and chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, green, raw",
+        "qty": 250,
+        "note": "peeled and chunked"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Steam the green plantain over simmering water 30-35 minutes until completely soft.",
+      "Mash roughly, then stir through the tomatoes and onion, simmered separately for 5 minutes and folded in."
+    ],
+    "steps": [
+      "Steam the green plantain over simmering water 30-35 minutes until completely soft.",
+      "Mash roughly, then stir through the tomatoes and onion, simmered separately for 5 minutes and folded in."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Luwombo",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Luwombo, meat steamed inside a wrapped banana leaf parcel, is a genuine Buganda specialty traditionally reserved for special occasions - the wrapping seals in real steam and aroma that open cooking can't replicate.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 30-35 minutes to seal in the aroma."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 30-35 minutes to seal in the aroma."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Groundnut Stew",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "A rich stew built on real ground peanuts, a beloved Ugandan dish shared in spirit with groundnut stews found across the wider region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Rolex",
+    "cuisine": "ugandan",
+    "meal_type": "breakfast",
+    "description": "Rolex, a rolled chapati wrapped around an omelet, is one of Uganda's most beloved street foods, its name a playful shortening of 'rolled eggs'.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 30,
+        "note": "shredded"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 30,
+        "note": "shredded"
+      }
+    ],
+    "steps_detailed": [
+      "Make a simple chapati from the flour, water, and a little oil, cooking in a hot, dry pan 2-3 minutes per side.",
+      "Whisk the eggs with the tomatoes and cabbage, and cook into a thin omelet.",
+      "Roll the omelet inside the warm chapati."
+    ],
+    "steps": [
+      "Make a simple chapati from the flour, water, and a little oil, cooking in a hot, dry pan 2-3 minutes per side.",
+      "Whisk the eggs with the tomatoes and cabbage, and cook into a thin omelet.",
+      "Roll the omelet inside the warm chapati."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Posho",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Posho, a stiff maize porridge, is Uganda's most essential staple starch, closely related to Kenyan ugali and eaten daily alongside stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, 12-15 minutes until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, 12-15 minutes until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Chapati",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Chapati, a soft, layered flatbread, reflects genuine Indian culinary influence and is one of Uganda's most beloved breads.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening again to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
+    ],
+    "steps": [
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening again to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Katogo",
+    "cuisine": "ugandan",
+    "meal_type": "breakfast",
+    "description": "Katogo, matoke or cassava cooked together with beans or meat into one pot, a beloved Ugandan breakfast and everyday staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, green, raw",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, green, raw",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the plantain with the tomatoes and enough water to cover, 25-28 minutes.",
+      "Stir in the cowpeas and mash roughly together."
+    ],
+    "steps": [
+      "Simmer the plantain with the tomatoes and enough water to cover, 25-28 minutes.",
+      "Stir in the cowpeas and mash roughly together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Sukuma Wiki",
+    "cuisine": "ugandan",
+    "meal_type": "lunch",
+    "description": "Sukuma wiki, collard greens or kale simmered with onion and tomato, shared across much of East Africa including Uganda.",
+    "ingredients_full": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 5-6 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Add the kale and simmer 10-12 minutes until tender."
+    ],
+    "steps": [
+      "Cook the onion 5-6 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Add the kale and simmer 10-12 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Samosas",
+    "cuisine": "ugandan",
+    "meal_type": "snack",
+    "description": "Samosas, fried triangular pastries with a spiced filling, reflect genuine Indian culinary influence and are a beloved Ugandan street snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and curry powder, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Brown the beef with the onion and curry powder, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Nyama Choma",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Nyama choma, grilled meat, is beloved across Uganda the same way it is throughout East Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the beef with the garlic and lemon juice.",
+      "Grill, turning, 12-15 minutes, until well charred and cooked through."
+    ],
+    "steps": [
+      "Rub the beef with the garlic and lemon juice.",
+      "Grill, turning, 12-15 minutes, until well charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Kachumbari",
+    "cuisine": "ugandan",
+    "meal_type": "lunch",
+    "description": "Kachumbari, a fresh, finely diced tomato and onion salad, a common East African accompaniment.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss everything together."
+    ],
+    "steps": [
+      "Toss everything together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Beans in Groundnut Sauce",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Beans stewed in real ground peanut sauce, a beloved Ugandan everyday dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Add the cowpeas and simmer 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Add the cowpeas and simmer 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Roasted Groundnuts",
+    "cuisine": "ugandan",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, a common Ugandan accompaniment to tea.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Mandazi",
+    "cuisine": "ugandan",
+    "meal_type": "breakfast",
+    "description": "Mandazi, lightly sweet fried dough, a beloved Ugandan breakfast snack shared across East Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, sugar, and baking powder with water into a soft dough.",
+      "Roll out and cut into triangles.",
+      "Fry, turning, 3-4 minutes per batch, until deeply golden."
+    ],
+    "steps": [
+      "Mix the flour, sugar, and baking powder with water into a soft dough.",
+      "Roll out and cut into triangles.",
+      "Fry, turning, 3-4 minutes per batch, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Fish Stew",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "A simple tomato-based fish stew, common Ugandan home cooking near Lake Victoria.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Fried Plantain",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Ugandan side dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Chai",
+    "cuisine": "ugandan",
+    "meal_type": "snack",
+    "description": "Chai, spiced milk tea, a beloved daily ritual across Uganda, reflecting genuine Indian culinary influence.",
+    "ingredients_full": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk with the cinnamon and ginger 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "steps": [
+      "Warm the milk with the cinnamon and ginger 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Beef Stew",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Ugandan home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Groundnut Sauce",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Ugandan stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ugandan Tomato Onion Sauce",
+    "cuisine": "ugandan",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion sauce base, used across many Ugandan stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]

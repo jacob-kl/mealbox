@@ -1,0 +1,996 @@
+[
+  {
+    "name": "Ivorian Attieke",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Atti\u00e9k\u00e9, fermented, granular cassava couscous, is one of C\u00f4te d'Ivoire's most iconic staples, traditionally paired with grilled fish - real atti\u00e9k\u00e9's fermentation takes days, so this quicker version approximates the texture without the real tang.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "grated"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "grated"
+      }
+    ],
+    "steps_detailed": [
+      "Steam the grated cassava over simmering water 20-25 minutes, fluffing occasionally with a fork, until it takes on a light, granular, couscous-like texture."
+    ],
+    "steps": [
+      "Steam the grated cassava over simmering water 20-25 minutes, fluffing occasionally with a fork, until it takes on a light, granular, couscous-like texture."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Kedjenou",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Kedjenou, chicken and vegetables slow-steamed in a sealed pot with almost no added liquid, is a genuine Ivorian specialty, the dish relying on the ingredients' own juices rather than added stock.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Combine everything in a heavy pot with a tight-fitting lid, without adding extra water.",
+      "Cover tightly and cook over low heat, shaking the pot occasionally rather than stirring or lifting the lid, 40-45 minutes, until the chicken is tender - real kedjenou depends on this sealed, undisturbed cooking to build its flavor."
+    ],
+    "steps": [
+      "Combine everything in a heavy pot with a tight-fitting lid, without adding extra water.",
+      "Cover tightly and cook over low heat, shaking the pot occasionally rather than stirring or lifting the lid, 40-45 minutes, until the chicken is tender - real kedjenou depends on this sealed, undisturbed cooking to build its flavor."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Garba",
+    "cuisine": "ivorian",
+    "meal_type": "lunch",
+    "description": "Garba, fried tuna served over atti\u00e9k\u00e9 with a spicy tomato-onion relish, is a beloved Ivorian street food, especially popular as a quick, affordable lunch.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "grated, steamed as atti\u00e9k\u00e9"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "grated, steamed as atti\u00e9k\u00e9"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Steam the grated cassava 20-22 minutes into atti\u00e9k\u00e9.",
+      "Pan-fry the tuna briefly, 2-3 minutes, to warm and lightly crisp.",
+      "Simmer the tomatoes, onion, and jalape\u00f1o 8-10 minutes into a relish.",
+      "Serve the tuna and relish over the atti\u00e9k\u00e9."
+    ],
+    "steps": [
+      "Steam the grated cassava 20-22 minutes into atti\u00e9k\u00e9.",
+      "Pan-fry the tuna briefly, 2-3 minutes, to warm and lightly crisp.",
+      "Simmer the tomatoes, onion, and jalape\u00f1o 8-10 minutes into a relish.",
+      "Serve the tuna and relish over the atti\u00e9k\u00e9."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Alloco",
+    "cuisine": "ivorian",
+    "meal_type": "snack",
+    "description": "Alloco, fried ripe plantain served with a spicy onion-tomato sauce, is one of C\u00f4te d'Ivoire's most beloved street foods.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 200,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 200,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning, 3-4 minutes per side, until deeply caramelized.",
+      "Simmer the tomatoes, onion, and jalape\u00f1o 8-10 minutes into a sauce.",
+      "Serve the fried plantain topped with the sauce."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning, 3-4 minutes per side, until deeply caramelized.",
+      "Simmer the tomatoes, onion, and jalape\u00f1o 8-10 minutes into a sauce.",
+      "Serve the fried plantain topped with the sauce."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Poulet Brais\u00e9 (Grilled Chicken)",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Poulet brais\u00e9, grilled chicken marinated in garlic and pepper, a beloved Ivorian street-food staple, often served with alloco.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the chicken in the garlic, jalape\u00f1o, and lemon juice for at least 20 minutes.",
+      "Grill, turning, 12-15 minutes, until charred and cooked through."
+    ],
+    "steps": [
+      "Marinate the chicken in the garlic, jalape\u00f1o, and lemon juice for at least 20 minutes.",
+      "Grill, turning, 12-15 minutes, until charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Sauce Graine",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Sauce graine, a rich palm-fruit-based stew, is one of C\u00f4te d'Ivoire's most beloved sauces - real palm fruit isn't a distinct item here, so this leans on tomato and peanut for a similarly rich, reddish base.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Foutou",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Foutou, plantain and cassava pounded together into a smooth, stretchy dough, a beloved Ivorian staple, traditionally torn by hand to scoop up sauce.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "boiled"
+      },
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "boiled"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "boiled"
+      },
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "boiled"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the plantain and cassava together until completely soft, 20-25 minutes.",
+      "Pound vigorously until smooth and stretchy."
+    ],
+    "steps": [
+      "Boil the plantain and cassava together until completely soft, 20-25 minutes.",
+      "Pound vigorously until smooth and stretchy."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Placali",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Placali, a smooth, stretchy fermented cassava paste, a genuine Ivorian staple closely related to Ghanaian banku.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "grated"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "grated"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated cassava with water and let ferment at room temperature 24 hours.",
+      "Cook the fermented mixture over medium heat, stirring constantly, 15-18 minutes, until thick and stretchy."
+    ],
+    "steps": [
+      "Mix the grated cassava with water and let ferment at room temperature 24 hours.",
+      "Cook the fermented mixture over medium heat, stirring constantly, 15-18 minutes, until thick and stretchy."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Egusi Soup",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Egusi soup, thickened with real ground melon seeds, is shared with Nigeria and found throughout much of West Africa, including C\u00f4te d'Ivoire.",
+    "ingredients_full": [
+      {
+        "ingredient": "Egusi seeds (ground)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Egusi seeds (ground)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Mix the egusi with water into a paste and fry in spoonfuls, 5-6 minutes.",
+      "Add the tomatoes and beef, and simmer 10-12 minutes.",
+      "Stir in the spinach in the last 3 minutes."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Mix the egusi with water into a paste and fry in spoonfuls, 5-6 minutes.",
+      "Add the tomatoes and beef, and simmer 10-12 minutes.",
+      "Stir in the spinach in the last 3 minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Poisson Brais\u00e9 (Grilled Fish)",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Grilled fish rubbed with garlic and pepper, reflecting C\u00f4te d'Ivoire's coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Aloco with Egg",
+    "cuisine": "ivorian",
+    "meal_type": "breakfast",
+    "description": "Alloco topped with a fried egg, a common heartier version of the classic fried plantain street snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning, 3-4 minutes per side, until caramelized.",
+      "Fry the egg separately and serve on top."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning, 3-4 minutes per side, until caramelized.",
+      "Fry the egg separately and serve on top."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Beignets",
+    "cuisine": "ivorian",
+    "meal_type": "breakfast",
+    "description": "Beignets, sweet fried dough balls, a beloved Ivorian breakfast snack closely related to Nigerian puff puff.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Riz Gras",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "Riz gras, meaning 'fat rice', a rich tomato-and-meat rice dish, a common Ivorian one-pot meal.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and carrot, and simmer 10 minutes.",
+      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and carrot, and simmer 10 minutes.",
+      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Koki-Style Bean Pudding",
+    "cuisine": "ivorian",
+    "meal_type": "lunch",
+    "description": "A steamed black-eyed pea pudding closely related to Cameroonian koki and Nigerian moin moin, all part of the same wider West African tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the cowpeas and bell pepper with water into a smooth batter.",
+      "Whisk in the egg.",
+      "Pour into small heatproof cups and steam over simmering water 35-40 minutes until firm."
+    ],
+    "steps": [
+      "Blend the cowpeas and bell pepper with water into a smooth batter.",
+      "Whisk in the egg.",
+      "Pour into small heatproof cups and steam over simmering water 35-40 minutes until firm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Roasted Peanuts",
+    "cuisine": "ivorian",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across C\u00f4te d'Ivoire.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Cassava Chips",
+    "cuisine": "ivorian",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Ivorian snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Coleslaw",
+    "cuisine": "ivorian",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Ivorian party-food side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Bissap",
+    "cuisine": "ivorian",
+    "meal_type": "snack",
+    "description": "Bissap, a hibiscus drink, is a beloved Ivorian and wider West African beverage.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "steps": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Tomato Pepper Sauce",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "A simple tomato-pepper sauce base, used across many Ivorian stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ivorian Peanut Sauce",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Ivorian stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]
