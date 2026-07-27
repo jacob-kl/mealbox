@@ -1,0 +1,920 @@
+[
+  {
+    "name": "Guinea-Bissauan Caldo de Mancarra",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "Caldo de mancarra, meat stewed in real ground peanut sauce, is widely considered Guinea-Bissau's national dish, reflecting real Portuguese colonial-era naming alongside West African cooking technique.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 80,
+        "note": "cubed"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 80,
+        "note": "cubed"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot along with the sweet potato.",
+      "Simmer 25-28 minutes until the chicken is tender and the sweet potato is soft."
+    ],
+    "steps": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot along with the sweet potato.",
+      "Simmer 25-28 minutes until the chicken is tender and the sweet potato is soft."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Jollof Rice",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "Jollof rice, tomato-and-pepper rice cooked until it takes on real color and depth, is beloved across Guinea-Bissau as it is throughout much of West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the tomatoes, bell pepper, and half the onion into a smooth puree.",
+      "Brown the chicken, 6-7 minutes, then set aside.",
+      "Fry the remaining onion, add the tomato paste, cook 2 minutes, then add the puree and simmer 15-18 minutes.",
+      "Stir in the rice and 1 cup water, add the chicken, cover, and simmer 20-25 minutes until tender."
+    ],
+    "steps": [
+      "Blend the tomatoes, bell pepper, and half the onion into a smooth puree.",
+      "Brown the chicken, 6-7 minutes, then set aside.",
+      "Fry the remaining onion, add the tomato paste, cook 2 minutes, then add the puree and simmer 15-18 minutes.",
+      "Stir in the rice and 1 cup water, add the chicken, cover, and simmer 20-25 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Grilled Fish",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Guinea-Bissau's coastal fishing and river-delta tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Fried Plantain",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Guinea-Bissauan side dish, shared across the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Cachupa-Style Bean Stew",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "A hearty corn and bean stew in the spirit of Cachupa, reflecting shared culinary threads with the wider Lusophone West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 100,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 100,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes.",
+      "Add the corn and cowpeas with a splash of water, and simmer 12-15 minutes until well combined."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes.",
+      "Add the corn and cowpeas with a splash of water, and simmer 12-15 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Rice with Beans",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "A simple rice and bean dish, common Guinea-Bissauan home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+    ],
+    "steps": [
+      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Beignets",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "breakfast",
+    "description": "Beignets, sweet fried dough balls, a beloved Guinea-Bissauan breakfast snack shared across much of West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Groundnut Soup",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "A simple peanut-based soup, built on real ground peanuts, common across Guinea-Bissau.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Roasted Peanuts",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Guinea-Bissau.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Okra Stew",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Guinea-Bissauan home-cooking staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Sweet Potato Fritters",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "snack",
+    "description": "Simple fried sweet potato fritters, a common Guinea-Bissauan snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "steps": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Beef and Vegetable Stew",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Guinea-Bissauan home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Cassava Chips",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Guinea-Bissauan snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Coleslaw",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Guinea-Bissauan party-food side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Tropical Fruit Salad",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "snack",
+    "description": "A simple tropical fruit salad, built on Guinea-Bissau's abundant local fruit.",
+    "ingredients_full": [
+      {
+        "ingredient": "Pineapple chunks (canned in juice)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Papayas, raw",
+        "qty": 100,
+        "note": "diced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Pineapple chunks (canned in juice)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Papayas, raw",
+        "qty": 100,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the pineapple and papaya together."
+    ],
+    "steps": [
+      "Toss the pineapple and papaya together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Grilled Chicken",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "Grilled chicken marinated simply with garlic and lemon, a common Guinea-Bissauan way of preparing meat.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the chicken in the garlic and lemon juice for at least 20 minutes.",
+      "Grill, turning, 12-15 minutes, until charred and cooked through."
+    ],
+    "steps": [
+      "Marinate the chicken in the garlic and lemon juice for at least 20 minutes.",
+      "Grill, turning, 12-15 minutes, until charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Bissap",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "snack",
+    "description": "Bissap, a hibiscus drink, a beloved beverage shared across Guinea-Bissau and the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "steps": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Roasted Cashews",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "snack",
+    "description": "A simple roasted cashew snack, cashews being one of Guinea-Bissau's most significant export crops.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "standing in for cashews"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "standing in for cashews"
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Peanut Sauce",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Guinea-Bissauan stews, echoing the flavor of caldo de mancarra.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinea-Bissauan Tomato Onion Sauce",
+    "cuisine": "guinea-bissauan",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion sauce base, used across many Guinea-Bissauan stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]

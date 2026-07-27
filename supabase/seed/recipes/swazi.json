@@ -1,0 +1,868 @@
+[
+  {
+    "name": "Swazi Sishwala",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "Sishwala, a stiff maize porridge, is Eswatini's most essential staple starch, eaten daily alongside relishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Sidvudvu",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "Sidvudvu, a pumpkin and cornmeal porridge, is a genuine Swazi comfort food - real pumpkin isn't a distinct item here, so winter squash stands in for a similar orange, sweet flesh.",
+    "ingredients_full": [
+      {
+        "ingredient": "Squash, winter, acorn, cooked, baked, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Squash, winter, acorn, cooked, baked, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mash the squash smooth.",
+      "Whisk the cornmeal into 1.25 cups boiling water with the mashed squash.",
+      "Cook, stirring often, 15-18 minutes until thick and smooth."
+    ],
+    "steps": [
+      "Mash the squash smooth.",
+      "Whisk the cornmeal into 1.25 cups boiling water with the mashed squash.",
+      "Cook, stirring often, 15-18 minutes until thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Sincamu",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "Sincamu, cooked dried beans, a genuine Swazi staple side, traditionally served alongside sishwala.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Emasi",
+    "cuisine": "swazi",
+    "meal_type": "breakfast",
+    "description": "Emasi, a thick, tangy fermented milk, is a genuine Swazi staple, traditionally eaten with sishwala - real emasi ferments naturally over several days, so this leans on real yogurt for a similarly thick, tangy dairy product.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Serve the yogurt as-is, alongside sishwala or on its own."
+    ],
+    "steps": [
+      "Serve the yogurt as-is, alongside sishwala or on its own."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Grilled Meat",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "Grilled meat, a beloved Swazi way of preparing beef for gatherings, echoing the wider Southern African braai tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the beef with the garlic and oil.",
+      "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
+    ],
+    "steps": [
+      "Rub the beef with the garlic and oil.",
+      "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Chakalaka",
+    "cuisine": "swazi",
+    "meal_type": "lunch",
+    "description": "Chakalaka, a spicy vegetable relish, is beloved across Eswatini as it is throughout Southern Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Carrot",
+        "qty": 80,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Carrot",
+        "qty": 80,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes."
+    ],
+    "steps": [
+      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Sitfubi",
+    "cuisine": "swazi",
+    "meal_type": "snack",
+    "description": "Sitfubi, a sour, fermented porridge drink, a genuine Swazi beverage - real sitfubi ferments over several days, so this quicker version approximates a milder version of the tang.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal with the vinegar and 2 cups water.",
+      "Let sit at room temperature 6-8 hours to develop a slight tang.",
+      "Strain and serve chilled."
+    ],
+    "steps": [
+      "Whisk the cornmeal with the vinegar and 2 cups water.",
+      "Let sit at room temperature 6-8 hours to develop a slight tang.",
+      "Strain and serve chilled."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Roasted Peanuts",
+    "cuisine": "swazi",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Eswatini.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Fat Cakes",
+    "cuisine": "swazi",
+    "meal_type": "snack",
+    "description": "Fried dough balls similar to South African vetkoek, a beloved Swazi snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour and baking powder with warm water into a soft dough.",
+      "Let rest 15 minutes.",
+      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+    ],
+    "steps": [
+      "Mix the flour and baking powder with warm water into a soft dough.",
+      "Let rest 15 minutes.",
+      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Beef and Vegetable Stew",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Swazi home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Roasted Sweet Potato",
+    "cuisine": "swazi",
+    "meal_type": "lunch",
+    "description": "A simple roasted sweet potato side, a common Swazi staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+    ],
+    "steps": [
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Chicken Stew",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "A simple tomato-based chicken stew, common Swazi home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Coleslaw",
+    "cuisine": "swazi",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Swazi side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Green Bean Stew",
+    "cuisine": "swazi",
+    "meal_type": "lunch",
+    "description": "A simple green bean and tomato stew, common Swazi home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer together 12-15 minutes until the beans are tender."
+    ],
+    "steps": [
+      "Simmer together 12-15 minutes until the beans are tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Rice with Peas",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "A simple rice and pea side dish, common Swazi home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+    ],
+    "steps": [
+      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Milk Tea",
+    "cuisine": "swazi",
+    "meal_type": "snack",
+    "description": "Spiced milk tea, a beloved daily ritual across Eswatini.",
+    "ingredients_full": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "steps": [
+      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Fried Fish",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "Simple fried fish, a common Swazi dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Dredge the fish in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
+    ],
+    "steps": [
+      "Dredge the fish in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Cabbage and Carrot Salad",
+    "cuisine": "swazi",
+    "meal_type": "lunch",
+    "description": "A simple cabbage and carrot salad, a common Swazi side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss everything together."
+    ],
+    "steps": [
+      "Toss everything together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Tomato Onion Relish",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion relish, a common Swazi condiment alongside sishwala.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Swazi Garlic Butter Sauce",
+    "cuisine": "swazi",
+    "meal_type": "dinner",
+    "description": "A simple garlic-butter sauce, a common Swazi condiment for grilled meat.",
+    "ingredients_full": [
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the garlic into the melted butter."
+    ],
+    "steps": [
+      "Mix the garlic into the melted butter."
+    ],
+    "tags": []
+  }
+]
