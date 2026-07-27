@@ -1,0 +1,944 @@
+[
+  {
+    "name": "Guinean Riz Gras",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "Riz gras, meaning 'fat rice', a rich tomato-and-meat rice dish, is widely considered Guinea's national dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes, carrot, and cabbage, and simmer 10 minutes.",
+      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes, carrot, and cabbage, and simmer 10 minutes.",
+      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Poulet Yassa",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "Yassa, chicken marinated and cooked in a mountain of caramelized onions and lemon, is beloved across Guinea as it is throughout the wider Senegambian region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the chicken in the lemon juice and garlic for at least 20 minutes.",
+      "Brown the chicken, 6-7 minutes, then set aside.",
+      "Cook the onion over medium-low heat, stirring often, 20-25 minutes, until deeply softened and sweet.",
+      "Return the chicken with a splash of water and simmer 15 minutes more."
+    ],
+    "steps": [
+      "Marinate the chicken in the lemon juice and garlic for at least 20 minutes.",
+      "Brown the chicken, 6-7 minutes, then set aside.",
+      "Cook the onion over medium-low heat, stirring often, 20-25 minutes, until deeply softened and sweet.",
+      "Return the chicken with a splash of water and simmer 15 minutes more."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Fonio Porridge",
+    "cuisine": "guinean",
+    "meal_type": "breakfast",
+    "description": "Fonio, an ancient grain genuinely native to West Africa including Guinea, used here in a simple breakfast porridge - fonio itself isn't a distinct item here, so this leans on the closest widely available small grain instead.",
+    "ingredients_full": [
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the couscous with the milk and honey 8-10 minutes until soft and creamy."
+    ],
+    "steps": [
+      "Simmer the couscous with the milk and honey 8-10 minutes until soft and creamy."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Groundnut Stew",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "A rich stew built on real ground peanuts, a beloved Guinean dish shared across the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Fufu",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "Fufu, cassava pounded into a smooth, stretchy dough, is a genuine Guinean staple, closely related to fufu found across much of West and Central Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 250,
+        "note": "boiled"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 250,
+        "note": "boiled"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the cassava until completely soft, 20-25 minutes.",
+      "Drain and pound vigorously until smooth and stretchy."
+    ],
+    "steps": [
+      "Boil the cassava until completely soft, 20-25 minutes.",
+      "Drain and pound vigorously until smooth and stretchy."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Bouillie",
+    "cuisine": "guinean",
+    "meal_type": "breakfast",
+    "description": "Bouillie, a simple sweet millet or corn porridge, a common Guinean breakfast.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the cornmeal with the milk and honey, stirring often, 12-15 minutes, until smooth and creamy."
+    ],
+    "steps": [
+      "Simmer the cornmeal with the milk and honey, stirring often, 12-15 minutes, until smooth and creamy."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Grilled Fish",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Guinea's Atlantic coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Beans in Tomato Sauce",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "A simple bean stew, common Guinean home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Fried Plantain",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Guinean side dish, shared across the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Beignets",
+    "cuisine": "guinean",
+    "meal_type": "breakfast",
+    "description": "Beignets, sweet fried dough balls, a beloved Guinean breakfast snack closely related to similar fried treats across West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Okra Stew",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Guinean home-cooking staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Roasted Peanuts",
+    "cuisine": "guinean",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Guinea.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Cassava Chips",
+    "cuisine": "guinean",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Guinean snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Beef and Vegetable Stew",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Guinean home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Bissap",
+    "cuisine": "guinean",
+    "meal_type": "snack",
+    "description": "Bissap, a hibiscus drink, a beloved beverage shared across Guinea and the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "steps": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Coleslaw",
+    "cuisine": "guinean",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Guinean side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Sweet Potato Fritters",
+    "cuisine": "guinean",
+    "meal_type": "snack",
+    "description": "Simple fried sweet potato fritters, a common Guinean snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "steps": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Roasted Chickpea Snack",
+    "cuisine": "guinean",
+    "meal_type": "snack",
+    "description": "A simple roasted chickpea snack, common across Guinea.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 200,
+        "note": "patted dry"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 200,
+        "note": "patted dry"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chickpeas with the oil and paprika.",
+      "Roast at 400F (200C) for 25-30 minutes until crisp."
+    ],
+    "steps": [
+      "Toss the chickpeas with the oil and paprika.",
+      "Roast at 400F (200C) for 25-30 minutes until crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Peanut Sauce",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Guinean stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Guinean Tomato Onion Sauce",
+    "cuisine": "guinean",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion sauce base, used across many Guinean stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]

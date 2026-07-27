@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Rwandan Isombe",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "Isombe, pounded cassava leaves simmered with eggplant and peanuts, is one of Rwanda's most beloved dishes - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion and eggplant 6-7 minutes.",
+      "Whisk in the peanut butter with a little water, then add the spinach.",
+      "Simmer 15-18 minutes until well combined."
+    ],
+    "steps": [
+      "Cook the onion and eggplant 6-7 minutes.",
+      "Whisk in the peanut butter with a little water, then add the spinach.",
+      "Simmer 15-18 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Ugali (Ubugali)",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "Ubugali, a stiff maize or cassava porridge, is Rwanda's most essential staple starch, closely related to ugali found across much of East Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Brochettes",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "Brochettes, grilled skewered meat, is one of Rwanda's most beloved foods, commonly goat but made here with beef, a widely available protein with a similarly hearty character.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed, standing in for goat"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed, standing in for goat"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the beef in the garlic and oil for 15-20 minutes.",
+      "Thread onto skewers and grill, turning, 8-10 minutes, until charred and cooked through."
+    ],
+    "steps": [
+      "Marinate the beef in the garlic and oil for 15-20 minutes.",
+      "Thread onto skewers and grill, turning, 8-10 minutes, until charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Ibirayi n'Imboga (Potatoes and Greens)",
+    "cuisine": "rwandan",
+    "meal_type": "lunch",
+    "description": "Potatoes cooked together with leafy greens, a genuine Rwandan staple reflecting the country's fertile, hilly agricultural land.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Kale",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Kale",
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Boil the potato until just tender, 12-15 minutes.",
+      "Cook the onion 4-5 minutes, then add the kale and simmer 10-12 minutes.",
+      "Combine the potato with the kale mixture."
+    ],
+    "steps": [
+      "Boil the potato until just tender, 12-15 minutes.",
+      "Cook the onion 4-5 minutes, then add the kale and simmer 10-12 minutes.",
+      "Combine the potato with the kale mixture."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Beans in Tomato Sauce",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "A simple bean stew, one of Rwanda's most common everyday dishes, beans being a staple protein source.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Ibihaza (Pumpkin and Beans)",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "Ibihaza, pumpkin cooked together with beans, a genuine Rwandan comfort food.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 100,
+        "note": "standing in for pumpkin, cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Sweet potato",
+        "qty": 100,
+        "note": "standing in for pumpkin, cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the sweet potato and onion in a little water 12-15 minutes.",
+      "Add the cowpeas and simmer 8-10 minutes until well combined."
+    ],
+    "steps": [
+      "Simmer the sweet potato and onion in a little water 12-15 minutes.",
+      "Add the cowpeas and simmer 8-10 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Sombe with Fish",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "A fish-based variation of Rwanda's beloved isombe greens dish, real spinach standing in for cassava leaves.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the fish in a little water 8-10 minutes, then flake.",
+      "Whisk the peanut butter with a little water, add the spinach and flaked fish.",
+      "Simmer 12-15 minutes until well combined."
+    ],
+    "steps": [
+      "Simmer the fish in a little water 8-10 minutes, then flake.",
+      "Whisk the peanut butter with a little water, add the spinach and flaked fish.",
+      "Simmer 12-15 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Fried Plantain",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Rwandan side dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Chapati",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "Chapati, a soft, layered flatbread, reflects genuine East African Indian culinary influence and is a beloved Rwandan bread.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
+    ],
+    "steps": [
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Samosas",
+    "cuisine": "rwandan",
+    "meal_type": "snack",
+    "description": "Samosas, fried triangular pastries with a spiced filling, reflect genuine Indian culinary influence and are a beloved Rwandan snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and curry powder, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Brown the beef with the onion and curry powder, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Kachumbari",
+    "cuisine": "rwandan",
+    "meal_type": "lunch",
+    "description": "Kachumbari, a fresh, finely diced tomato and onion salad, a common East African accompaniment shared with Rwanda's neighbors.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss everything together."
+    ],
+    "steps": [
+      "Toss everything together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Roasted Peanuts",
+    "cuisine": "rwandan",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Rwanda.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Sweet Potato Fritters",
+    "cuisine": "rwandan",
+    "meal_type": "snack",
+    "description": "Simple fried sweet potato fritters, sweet potato being a common Rwandan staple crop.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "steps": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Beef Stew",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Rwandan home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Milk Tea",
+    "cuisine": "rwandan",
+    "meal_type": "snack",
+    "description": "Spiced milk tea, a beloved daily ritual across Rwanda, reflecting East African tea traditions.",
+    "ingredients_full": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "steps": [
+      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Avocado with Lime",
+    "cuisine": "rwandan",
+    "meal_type": "snack",
+    "description": "A simple avocado dish, avocado being an abundant Rwandan crop.",
+    "ingredients_full": [
+      {
+        "ingredient": "Avocado",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Avocado",
+        "qty": 1,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Drizzle the avocado with the lemon juice."
+    ],
+    "steps": [
+      "Drizzle the avocado with the lemon juice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Coleslaw",
+    "cuisine": "rwandan",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Rwandan side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Fish Stew",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "A simple tomato-based fish stew, common Rwandan home cooking near Lake Kivu.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Peanut Sauce",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Rwandan stews, echoing the flavor of isombe.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rwandan Tomato Onion Sauce",
+    "cuisine": "rwandan",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion sauce base, used across many Rwandan stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]

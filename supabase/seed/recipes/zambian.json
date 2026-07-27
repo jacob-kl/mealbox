@@ -1,0 +1,870 @@
+[
+  {
+    "name": "Zambian Nshima",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Nshima, a stiff maize porridge, is Zambia's most essential staple starch, eaten daily by hand alongside relishes, closely related to Zimbabwean sadza and Malawian nsima.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Ifisashi",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Ifisashi, leafy greens cooked in real ground peanut sauce, is one of Zambia's most beloved dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes.",
+      "Whisk in the peanut butter with a little water, then add the kale.",
+      "Simmer 15-18 minutes until well combined."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes.",
+      "Whisk in the peanut butter with a little water, then add the kale.",
+      "Simmer 15-18 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Village Chicken",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Village chicken, slow-simmered free-range-style chicken, is a beloved Zambian dish, prized for its firmer texture and deeper flavor compared to broiler chicken.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and a splash of water, and simmer 30-35 minutes until very tender."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and a splash of water, and simmer 30-35 minutes until very tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Dried Fish Relish (Kapenta)",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Kapenta, small dried fish cooked into a relish, is a beloved Zambian staple, traditionally sun-dried before cooking - fresh tilapia stands in here since dried kapenta isn't a distinct item in this database.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 180,
+        "note": "standing in for dried kapenta"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 180,
+        "note": "standing in for dried kapenta"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Beans in Groundnut Sauce",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Beans stewed in real ground peanut sauce, a beloved Zambian everyday dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Add the cowpeas and simmer 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Add the cowpeas and simmer 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Pumpkin Leaves (Chibwabwa)",
+    "cuisine": "zambian",
+    "meal_type": "lunch",
+    "description": "Chibwabwa, pumpkin leaves cooked with peanut sauce, a genuine Zambian vegetable dish - real pumpkin leaves aren't a distinct item here, so spinach stands in.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for pumpkin leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for pumpkin leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the spinach with a splash of water 8-10 minutes.",
+      "Stir in the peanut butter and simmer 5 more minutes."
+    ],
+    "steps": [
+      "Cook the spinach with a splash of water 8-10 minutes.",
+      "Stir in the peanut butter and simmer 5 more minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Fried Bream Style Fish",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Simple fried fish, a common Zambian dish, especially near Lake Kariba and the Zambezi River.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Dredge the fish in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
+    ],
+    "steps": [
+      "Dredge the fish in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Roasted Groundnuts",
+    "cuisine": "zambian",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, groundnuts being a common Zambian crop.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Bean Leaves Stew",
+    "cuisine": "zambian",
+    "meal_type": "lunch",
+    "description": "A simple leafy green stew, common Zambian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes, add the tomatoes, and simmer 3-4 minutes.",
+      "Add the kale and simmer 10-12 minutes until tender."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes, add the tomatoes, and simmer 3-4 minutes.",
+      "Add the kale and simmer 10-12 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Fried Plantain",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Zambian side dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Beef and Vegetable Stew",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Zambian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Roasted Sweet Potato",
+    "cuisine": "zambian",
+    "meal_type": "lunch",
+    "description": "A simple roasted sweet potato side, a common Zambian staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+    ],
+    "steps": [
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Coleslaw",
+    "cuisine": "zambian",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Zambian side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Chicken Stew",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "A simple tomato-based chicken stew, common Zambian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Rice with Peas",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "A simple rice and pea side dish, common Zambian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+    ],
+    "steps": [
+      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Bota-Style Porridge",
+    "cuisine": "zambian",
+    "meal_type": "breakfast",
+    "description": "A smooth peanut butter porridge, a beloved Zambian breakfast shared in spirit with neighboring Zimbabwe's bota.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1 cup boiling water and cook, stirring, 10-12 minutes until smooth.",
+      "Stir in the peanut butter and milk to thin slightly."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1 cup boiling water and cook, stirring, 10-12 minutes until smooth.",
+      "Stir in the peanut butter and milk to thin slightly."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Green Bean Stew",
+    "cuisine": "zambian",
+    "meal_type": "lunch",
+    "description": "A simple green bean and tomato stew, common Zambian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer together 12-15 minutes until the beans are tender."
+    ],
+    "steps": [
+      "Simmer together 12-15 minutes until the beans are tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Cassava Chips",
+    "cuisine": "zambian",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Zambian snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Groundnut Sauce",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Zambian stews, echoing the flavor of ifisashi.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zambian Tomato Onion Relish",
+    "cuisine": "zambian",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion relish, a common Zambian condiment alongside nshima.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]
