@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "Mahoran Langouste a la Vanille",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Langouste \u00e0 la vanille, seafood in a real vanilla-cream sauce, reflects Mayotte's shared Comorian culinary heritage and the wider region's status as a vanilla-growing area - shrimp stands in here for lobster as a more widely available substitute.",
+    "ingredients_full": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": "peeled, standing in for lobster"
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 200,
+        "note": "peeled, standing in for lobster"
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the garlic in a little butter or oil 1 minute.",
+      "Add the shrimp and cook 2-3 minutes until just turning pink.",
+      "Add the cream and vanilla, and simmer 3-4 minutes until slightly thickened."
+    ],
+    "steps": [
+      "Cook the garlic in a little butter or oil 1 minute.",
+      "Add the shrimp and cook 2-3 minutes until just turning pink.",
+      "Add the cream and vanilla, and simmer 3-4 minutes until slightly thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Mataba",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Mataba, cassava leaves cooked in real coconut milk, a genuine Mahoran staple shared with Comoros - real cassava leaves aren't a distinct item here, so spinach stands in.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.4,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the garlic in a little oil 30 seconds.",
+      "Add the spinach and coconut milk, and simmer 12-15 minutes until well combined."
+    ],
+    "steps": [
+      "Cook the garlic in a little oil 30 seconds.",
+      "Add the spinach and coconut milk, and simmer 12-15 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Riz au Coco",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Riz au coco, rice cooked in real coconut milk, reflects both Mayotte's Comorian heritage and its French administrative ties.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+    ],
+    "steps": [
+      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Grilled Fish",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Mayotte's Indian Ocean coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Coconut Fish Curry",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "A coconut-based fish curry, reflecting Mayotte's shared Swahili and Comorian Indian Ocean culinary tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Pilao",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Pilao, spiced rice cooked with meat, reflects genuine Swahili and Indian Ocean trade influence shared across Mayotte and the wider Comorian archipelago.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Deeply brown the onion, 10-12 minutes, until golden.",
+      "Add the chicken, cumin, and cinnamon, and brown 6-7 minutes.",
+      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
+    ],
+    "steps": [
+      "Deeply brown the onion, 10-12 minutes, until golden.",
+      "Add the chicken, cumin, and cinnamon, and brown 6-7 minutes.",
+      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Beignets de Banane",
+    "cuisine": "mahoran",
+    "meal_type": "snack",
+    "description": "Beignets de banane, fried banana fritters, reflect Mayotte's French culinary influence merged with the island's abundant local fruit.",
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": "mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed banana with the flour and sugar into a thick batter.",
+      "Fry spoonfuls, turning, 3-4 minutes per side, until golden."
+    ],
+    "steps": [
+      "Mix the mashed banana with the flour and sugar into a thick batter.",
+      "Fry spoonfuls, turning, 3-4 minutes per side, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Samosas",
+    "cuisine": "mahoran",
+    "meal_type": "snack",
+    "description": "Samosas, fried triangular pastries with a spiced filling, reflect genuine Indian Ocean culinary influence and are a beloved Mahoran snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and curry powder, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Brown the beef with the onion and curry powder, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Vanilla Rice Pudding",
+    "cuisine": "mahoran",
+    "meal_type": "snack",
+    "description": "A simple rice pudding flavored with real vanilla, reflecting the wider Comorian archipelago's status as a vanilla-growing region.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
+      "Stir in the vanilla off the heat."
+    ],
+    "steps": [
+      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
+      "Stir in the vanilla off the heat."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Kachumbari",
+    "cuisine": "mahoran",
+    "meal_type": "lunch",
+    "description": "Kachumbari, a fresh, finely diced tomato and onion salad, a common Indian Ocean coastal accompaniment shared across the region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss everything together."
+    ],
+    "steps": [
+      "Toss everything together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Roasted Peanuts",
+    "cuisine": "mahoran",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Mayotte.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Fried Plantain",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Mahoran side dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Chicken Curry",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "A coconut-based chicken curry, reflecting Mayotte's Swahili and Indian Ocean trade culinary influence.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the curry powder in a little oil 30 seconds.",
+      "Add the chicken and tomatoes, and cook 8-9 minutes.",
+      "Add the coconut milk and simmer 12-15 minutes until tender."
+    ],
+    "steps": [
+      "Cook the curry powder in a little oil 30 seconds.",
+      "Add the chicken and tomatoes, and cook 8-9 minutes.",
+      "Add the coconut milk and simmer 12-15 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Tropical Fruit Salad",
+    "cuisine": "mahoran",
+    "meal_type": "snack",
+    "description": "A simple tropical fruit salad, built on Mayotte's abundant local fruit.",
+    "ingredients_full": [
+      {
+        "ingredient": "Pineapple chunks (canned in juice)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Papayas, raw",
+        "qty": 100,
+        "note": "diced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Pineapple chunks (canned in juice)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Papayas, raw",
+        "qty": 100,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the pineapple and papaya together."
+    ],
+    "steps": [
+      "Toss the pineapple and papaya together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Beans in Tomato Sauce",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "A simple bean stew, common Mahoran home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Beef Stew",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Mahoran home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Coleslaw",
+    "cuisine": "mahoran",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Mahoran side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Chapati",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "Chapati, a soft, layered flatbread, reflects genuine Indian Ocean culinary influence and is a beloved Mahoran bread.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
+    ],
+    "steps": [
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Vanilla Coconut Drizzle",
+    "cuisine": "mahoran",
+    "meal_type": "snack",
+    "description": "A simple drizzle built on real vanilla and coconut, reflecting the wider Comorian archipelago's vanilla-growing heritage.",
+    "ingredients_full": [
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk everything together.",
+      "Drizzle over fruit or rice pudding."
+    ],
+    "steps": [
+      "Whisk everything together.",
+      "Drizzle over fruit or rice pudding."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mahoran Tomato Coconut Sauce",
+    "cuisine": "mahoran",
+    "meal_type": "dinner",
+    "description": "A simple tomato-coconut sauce base, used across many Mahoran stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]
