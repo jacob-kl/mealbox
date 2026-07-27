@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Malawian Nsima",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Nsima, a stiff maize porridge, is Malawi's most essential staple starch, eaten daily by hand alongside relishes, closely related to Zambian nshima and Zimbabwean sadza.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Chambo",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Chambo, a prized tilapia native to Lake Malawi, is widely considered Malawi's national dish, traditionally grilled or fried simply to let the fish's own flavor shine.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the lemon juice and garlic.",
+      "Grill or pan-fry, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the lemon juice and garlic.",
+      "Grill or pan-fry, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Ndiwo",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Ndiwo, a general term for the relish or side dish eaten with nsima, this version built on leafy greens and real ground peanuts.",
+    "ingredients_full": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Kale",
+        "qty": 200,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 4-5 minutes.",
+      "Whisk in the peanut butter with a little water, then add the kale.",
+      "Simmer 15-18 minutes until well combined."
+    ],
+    "steps": [
+      "Cook the onion 4-5 minutes.",
+      "Whisk in the peanut butter with a little water, then add the kale.",
+      "Simmer 15-18 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Beans in Groundnut Sauce",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Beans stewed in real ground peanut sauce, a beloved Malawian everyday dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Add the cowpeas and simmer 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Add the cowpeas and simmer 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Village Chicken",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Village chicken, slow-simmered free-range-style chicken, is a beloved Malawian dish, prized for its firmer texture and deeper flavor.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and a splash of water, and simmer 30-35 minutes until very tender."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and a splash of water, and simmer 30-35 minutes until very tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Pumpkin Leaves",
+    "cuisine": "malawian",
+    "meal_type": "lunch",
+    "description": "Pumpkin leaves cooked with peanut sauce, a genuine Malawian vegetable dish - real pumpkin leaves aren't a distinct item here, so spinach stands in.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for pumpkin leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for pumpkin leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the spinach with a splash of water 8-10 minutes.",
+      "Stir in the peanut butter and simmer 5 more minutes."
+    ],
+    "steps": [
+      "Cook the spinach with a splash of water 8-10 minutes.",
+      "Stir in the peanut butter and simmer 5 more minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Fried Chambo",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Fried tilapia, dredged simply in flour, a beloved way of preparing Malawi's iconic Lake Malawi fish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Dredge the fish in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
+    ],
+    "steps": [
+      "Dredge the fish in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Roasted Groundnuts",
+    "cuisine": "malawian",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, groundnuts being a common Malawian crop.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Mandasi",
+    "cuisine": "malawian",
+    "meal_type": "breakfast",
+    "description": "Mandasi, lightly sweet fried dough, a beloved Malawian breakfast snack shared across much of East and Southern Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, sugar, and baking powder with water into a soft dough.",
+      "Roll out and cut into triangles.",
+      "Fry, turning, 3-4 minutes per batch, until deeply golden."
+    ],
+    "steps": [
+      "Mix the flour, sugar, and baking powder with water into a soft dough.",
+      "Roll out and cut into triangles.",
+      "Fry, turning, 3-4 minutes per batch, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Beef and Vegetable Stew",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Malawian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Roasted Sweet Potato",
+    "cuisine": "malawian",
+    "meal_type": "lunch",
+    "description": "A simple roasted sweet potato side, a common Malawian staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+    ],
+    "steps": [
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Coleslaw",
+    "cuisine": "malawian",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Malawian side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Chicken Stew",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "A simple tomato-based chicken stew, common Malawian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Rice with Peas",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "A simple rice and pea side dish, common Malawian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+    ],
+    "steps": [
+      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Green Bean Stew",
+    "cuisine": "malawian",
+    "meal_type": "lunch",
+    "description": "A simple green bean and tomato stew, common Malawian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer together 12-15 minutes until the beans are tender."
+    ],
+    "steps": [
+      "Simmer together 12-15 minutes until the beans are tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Cassava Chips",
+    "cuisine": "malawian",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Malawian snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Fried Plantain",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Malawian side dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Groundnut Sauce",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Malawian stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Tomato Onion Relish",
+    "cuisine": "malawian",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion relish, a common Malawian condiment alongside nsima.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Malawian Milk Tea",
+    "cuisine": "malawian",
+    "meal_type": "snack",
+    "description": "Spiced milk tea, a beloved daily ritual across Malawi.",
+    "ingredients_full": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "steps": [
+      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "tags": []
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "name": "Beninese Amiwo",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "Amiwo, a thick tomato-based cornmeal porridge often topped with grilled fish or chicken, is widely considered Benin's national dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes and jalape\u00f1o 10 minutes into a sauce.",
+      "Whisk the cornmeal into the tomato sauce with 1 cup water, cooking, stirring constantly, 12-15 minutes until thick.",
+      "Grill or pan-fry the chicken separately, 6-7 minutes per side, and serve on top."
+    ],
+    "steps": [
+      "Simmer the tomatoes and jalape\u00f1o 10 minutes into a sauce.",
+      "Whisk the cornmeal into the tomato sauce with 1 cup water, cooking, stirring constantly, 12-15 minutes until thick.",
+      "Grill or pan-fry the chicken separately, 6-7 minutes per side, and serve on top."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Akassa",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "Akassa, fermented corn dough steamed into a firm, tangy paste, is a genuine Beninese staple, closely related to Ghanaian kenkey - real akassa's tang comes from real fermentation, not an added ingredient.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cornmeal with water into a stiff dough and let ferment at room temperature 24 hours.",
+      "Shape into balls, wrap tightly, and steam over simmering water 40-45 minutes until firm."
+    ],
+    "steps": [
+      "Mix the cornmeal with water into a stiff dough and let ferment at room temperature 24 hours.",
+      "Shape into balls, wrap tightly, and steam over simmering water 40-45 minutes until firm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Wagashi",
+    "cuisine": "beninese",
+    "meal_type": "lunch",
+    "description": "Wagashi, a firm, mild cheese made from cow's milk and a local plant-based enzyme, is a genuine Beninese specialty, especially from the Fulani community - real wagashi's setting agent isn't a distinct item here, so this leans on a widely available fresh cheese instead.",
+    "ingredients_full": [
+      {
+        "ingredient": "Paneer",
+        "qty": 150,
+        "note": "standing in for wagashi"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Paneer",
+        "qty": 150,
+        "note": "standing in for wagashi"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cube the paneer and pan-fry in the oil until lightly golden, 4-5 minutes.",
+      "Toss with the tomato paste and warm through."
+    ],
+    "steps": [
+      "Cube the paneer and pan-fry in the oil until lightly golden, 4-5 minutes.",
+      "Toss with the tomato paste and warm through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Jollof Rice",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "Jollof rice, tomato-and-pepper rice cooked until it takes on real color and depth, is beloved across Benin as it is throughout much of West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blend the tomatoes, bell pepper, and half the onion into a smooth puree.",
+      "Brown the chicken, 6-7 minutes, then set aside.",
+      "Fry the remaining onion, add the tomato paste, cook 2 minutes, then add the puree and simmer uncovered 15-18 minutes.",
+      "Stir in the rice and 1 cup water, add the chicken, cover, and simmer 20-25 minutes until tender."
+    ],
+    "steps": [
+      "Blend the tomatoes, bell pepper, and half the onion into a smooth puree.",
+      "Brown the chicken, 6-7 minutes, then set aside.",
+      "Fry the remaining onion, add the tomato paste, cook 2 minutes, then add the puree and simmer uncovered 15-18 minutes.",
+      "Stir in the rice and 1 cup water, add the chicken, cover, and simmer 20-25 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Pate Rouge",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "P\u00e2t\u00e9 rouge, a red-tinted cornmeal porridge colored with real tomato and palm-oil-adjacent seasoning, a beloved Beninese staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes and paprika 8-10 minutes.",
+      "Whisk the cornmeal into the tomato mixture with 1 cup water, cooking, stirring, 12-15 minutes until thick."
+    ],
+    "steps": [
+      "Simmer the tomatoes and paprika 8-10 minutes.",
+      "Whisk the cornmeal into the tomato mixture with 1 cup water, cooking, stirring, 12-15 minutes until thick."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Fried Plantain",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Beninese side dish, shared across the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Akara",
+    "cuisine": "beninese",
+    "meal_type": "breakfast",
+    "description": "Akara, fried black-eyed pea fritters, a beloved Beninese breakfast street food closely related to Nigerian akara.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
+      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
+    ],
+    "steps": [
+      "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
+      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Grilled Fish",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "Grilled fish rubbed with garlic and pepper, reflecting Benin's coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Beans in Tomato Sauce",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "A simple bean stew, common Beninese home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Beignets",
+    "cuisine": "beninese",
+    "meal_type": "breakfast",
+    "description": "Beignets, sweet fried dough balls, a beloved Beninese breakfast snack shared across much of West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Groundnut Soup",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "A simple peanut-based soup, built on real ground peanuts, common across Benin and the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Roasted Peanuts",
+    "cuisine": "beninese",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Benin.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Okra Stew",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Beninese home-cooking staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Sweet Potato Fritters",
+    "cuisine": "beninese",
+    "meal_type": "snack",
+    "description": "Simple fried sweet potato fritters, a common Beninese snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "steps": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Beef and Vegetable Stew",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Beninese home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Cassava Chips",
+    "cuisine": "beninese",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Beninese snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Coleslaw",
+    "cuisine": "beninese",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Beninese party-food side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Bissap",
+    "cuisine": "beninese",
+    "meal_type": "snack",
+    "description": "Bissap, a hibiscus drink, a beloved beverage shared across Benin and the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, hibiscus, brewed",
+        "qty": 2,
+        "note": "cups"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "steps": [
+      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Peanut Sauce",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Beninese stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Beninese Tomato Pepper Sauce",
+    "cuisine": "beninese",
+    "meal_type": "dinner",
+    "description": "A simple tomato-pepper sauce base, used across many Beninese stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  }
+]
