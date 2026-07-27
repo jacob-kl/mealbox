@@ -1,0 +1,1241 @@
+[
+  {
+    "name": "Egyptian Ful Medames",
+    "cuisine": "egyptian",
+    "meal_type": "breakfast",
+    "description": "Ful medames, slow-simmered fava beans mashed with garlic, lemon, and olive oil, is widely considered Egypt's national dish, eaten most often for breakfast.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fava beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fava beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the fava beans with a splash of water, 8-10 minutes, until very soft.",
+      "Mash roughly, leaving some texture, and stir in the garlic, lemon juice, cumin, and olive oil."
+    ],
+    "steps": [
+      "Simmer the fava beans with a splash of water, 8-10 minutes, until very soft.",
+      "Mash roughly, leaving some texture, and stir in the garlic, lemon juice, cumin, and olive oil."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Koshari",
+    "cuisine": "egyptian",
+    "meal_type": "dinner",
+    "description": "Koshari, layered rice, lentils, and pasta topped with a tangy tomato sauce and crispy fried onions, is Egypt's most beloved street food, with genuine roots reflecting Indian, Italian, and Middle Eastern culinary influence all in one dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Elbow macaroni (dry)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Elbow macaroni (dry)",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice, lentils, and macaroni separately, each according to their own timing.",
+      "Fry the sliced onion in the oil over medium heat, stirring often, 12-15 minutes, until deeply crisp and browned - this crispy onion topping is essential to real koshari, not a garnish to skip.",
+      "Simmer the tomatoes with the garlic and vinegar, 10-12 minutes, into a tangy sauce.",
+      "Layer the rice, lentils, and macaroni in a bowl, top with the tomato sauce and crispy onions."
+    ],
+    "steps": [
+      "Cook the rice, lentils, and macaroni separately, each according to their own timing.",
+      "Fry the sliced onion in the oil over medium heat, stirring often, 12-15 minutes, until deeply crisp and browned - this crispy onion topping is essential to real koshari, not a garnish to skip.",
+      "Simmer the tomatoes with the garlic and vinegar, 10-12 minutes, into a tangy sauce.",
+      "Layer the rice, lentils, and macaroni in a bowl, top with the tomato sauce and crispy onions."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Molokhia",
+    "cuisine": "egyptian",
+    "meal_type": "dinner",
+    "description": "Molokhia, a garlicky, mucilaginous green soup, is one of Egypt's most beloved comfort foods - real molokhia uses the leaves of a specific jute mallow plant, which isn't a distinct item here, so this uses spinach for a milder, less viscous approximation of the real texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Finely chop the spinach.",
+      "Simmer the broth with the spinach 8-10 minutes.",
+      "Fry the garlic, cumin, and coriander in a little oil until fragrant, 30 seconds, then stir into the soup off the heat - this garlic tempering step is a real, essential part of molokhia's flavor."
+    ],
+    "steps": [
+      "Finely chop the spinach.",
+      "Simmer the broth with the spinach 8-10 minutes.",
+      "Fry the garlic, cumin, and coriander in a little oil until fragrant, 30 seconds, then stir into the soup off the heat - this garlic tempering step is a real, essential part of molokhia's flavor."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Ta'ameya",
+    "cuisine": "egyptian",
+    "meal_type": "lunch",
+    "description": "Ta'ameya, Egypt's fava-bean version of falafel, predates the more familiar chickpea-based falafel found elsewhere in the region and is coated in real sesame seeds before frying.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fava beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fava beans",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the fava beans, garlic, and cilantro into a coarse, thick paste.",
+      "Shape into small patties and press sesame seeds onto both sides.",
+      "Fry in the oil, turning, 3-4 minutes per side, until deeply golden."
+    ],
+    "steps": [
+      "Blend the fava beans, garlic, and cilantro into a coarse, thick paste.",
+      "Shape into small patties and press sesame seeds onto both sides.",
+      "Fry in the oil, turning, 3-4 minutes per side, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Mahshi",
+    "cuisine": "egyptian",
+    "meal_type": "dinner",
+    "description": "Mahshi, vegetables stuffed with spiced rice, is a beloved Egyptian home-cooking dish, made in enormous batches for gatherings.",
+    "ingredients_full": [
+      {
+        "ingredient": "Zucchini",
+        "qty": 200,
+        "note": "hollowed"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Zucchini",
+        "qty": 200,
+        "note": "hollowed"
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the raw rice with the cilantro and garlic.",
+      "Pack loosely into the hollowed zucchini, leaving room for the rice to expand.",
+      "Arrange in a pot, pour the tomatoes and 1 cup water over, cover, and simmer 30-35 minutes until the zucchini is tender."
+    ],
+    "steps": [
+      "Mix the raw rice with the cilantro and garlic.",
+      "Pack loosely into the hollowed zucchini, leaving room for the rice to expand.",
+      "Arrange in a pot, pour the tomatoes and 1 cup water over, cover, and simmer 30-35 minutes until the zucchini is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Fattah",
+    "cuisine": "egyptian",
+    "meal_type": "dinner",
+    "description": "Fattah, layered rice, toasted bread, and meat in a garlicky vinegar-tomato sauce, is a celebratory Egyptian dish, especially for Eid.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "toasted and torn"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "toasted and torn"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice separately.",
+      "Brown the beef, 6-7 minutes.",
+      "Simmer the tomatoes with the garlic and vinegar, 10 minutes, into a tangy sauce.",
+      "Layer the toasted bread, rice, beef, and sauce."
+    ],
+    "steps": [
+      "Cook the rice separately.",
+      "Brown the beef, 6-7 minutes.",
+      "Simmer the tomatoes with the garlic and vinegar, 10 minutes, into a tangy sauce.",
+      "Layer the toasted bread, rice, beef, and sauce."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Shakshuka",
+    "cuisine": "egyptian",
+    "meal_type": "breakfast",
+    "description": "Shakshuka, eggs poached in a spiced tomato sauce, shared across the wider Middle East and North Africa, a common Egyptian breakfast.",
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes, bell pepper, cumin, and garlic 10-12 minutes into a thick sauce.",
+      "Make small wells in the sauce and crack the eggs into them.",
+      "Cover and cook 5-6 minutes until the whites are set and the yolks are still soft."
+    ],
+    "steps": [
+      "Simmer the tomatoes, bell pepper, cumin, and garlic 10-12 minutes into a thick sauce.",
+      "Make small wells in the sauce and crack the eggs into them.",
+      "Cover and cook 5-6 minutes until the whites are set and the yolks are still soft."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Hawawshi",
+    "cuisine": "egyptian",
+    "meal_type": "dinner",
+    "description": "Hawawshi, spiced ground meat baked inside bread until crisp, a beloved Egyptian street food.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 40,
+        "note": "finely diced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with the onion, pepper, and cumin.",
+      "Split the buns and pack the meat mixture inside.",
+      "Bake at 400F (200C) for 20-22 minutes, flipping once, until the bread is crisp and the meat is cooked through."
+    ],
+    "steps": [
+      "Mix the beef with the onion, pepper, and cumin.",
+      "Split the buns and pack the meat mixture inside.",
+      "Bake at 400F (200C) for 20-22 minutes, flipping once, until the bread is crisp and the meat is cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Baba Ghanoush",
+    "cuisine": "egyptian",
+    "meal_type": "lunch",
+    "description": "Baba ghanoush, a smoky eggplant dip built on real tahini, shared across Egypt and the wider Eastern Mediterranean.",
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Roast the whole eggplant at 425F (220C) for 30-35 minutes until completely collapsed and smoky-soft.",
+      "Scoop out the flesh and mash with the tahini, lemon juice, and garlic."
+    ],
+    "steps": [
+      "Roast the whole eggplant at 425F (220C) for 30-35 minutes until completely collapsed and smoky-soft.",
+      "Scoop out the flesh and mash with the tahini, lemon juice, and garlic."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Hummus",
+    "cuisine": "egyptian",
+    "meal_type": "lunch",
+    "description": "A simple hummus, built on real tahini, widely eaten across Egypt and the wider region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Tahini",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water until smooth."
+    ],
+    "steps": [
+      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water until smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Dukkah",
+    "cuisine": "egyptian",
+    "meal_type": "snack",
+    "description": "Dukkah, a toasted nut, seed, and spice blend, is a genuine Egyptian condiment, traditionally scooped up with bread dipped first in olive oil.",
+    "ingredients_full": [
+      {
+        "ingredient": "Nuts, hazelnuts or filberts",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Nuts, hazelnuts or filberts",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the hazelnuts, sesame seeds, coriander seed, and cumin separately in a dry pan until fragrant, watching closely so nothing burns.",
+      "Let cool, then coarsely grind together, keeping some texture rather than grinding to a powder."
+    ],
+    "steps": [
+      "Toast the hazelnuts, sesame seeds, coriander seed, and cumin separately in a dry pan until fragrant, watching closely so nothing burns.",
+      "Let cool, then coarsely grind together, keeping some texture rather than grinding to a powder."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Feteer Meshaltet",
+    "cuisine": "egyptian",
+    "meal_type": "breakfast",
+    "description": "Feteer meshaltet, a flaky, layered pastry, is a genuine Egyptian specialty, sometimes called Egyptian pancakes, served sweet or savory.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Work the flour into a soft dough with water, then roll out very thin, brushing generously with melted butter between folds to build real flaky layers.",
+      "Fold and roll several times, then cook in a hot, dry pan, 3-4 minutes per side.",
+      "Drizzle with honey to serve."
+    ],
+    "steps": [
+      "Work the flour into a soft dough with water, then roll out very thin, brushing generously with melted butter between folds to build real flaky layers.",
+      "Fold and roll several times, then cook in a hot, dry pan, 3-4 minutes per side.",
+      "Drizzle with honey to serve."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Basbousa",
+    "cuisine": "egyptian",
+    "meal_type": "snack",
+    "description": "Basbousa, a syrup-soaked semolina cake, a beloved Egyptian dessert shared across the wider region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Semolina, enriched",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, for the syrup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Semolina, enriched",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, for the syrup"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the semolina, sugar, and melted butter into a thick batter.",
+      "Bake at 350F (175C) for 20-22 minutes until golden.",
+      "Drizzle the honey over while still warm so it soaks in."
+    ],
+    "steps": [
+      "Mix the semolina, sugar, and melted butter into a thick batter.",
+      "Bake at 350F (175C) for 20-22 minutes until golden.",
+      "Drizzle the honey over while still warm so it soaks in."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Om Ali",
+    "cuisine": "egyptian",
+    "meal_type": "snack",
+    "description": "Om Ali, a warm, baked bread pudding with nuts and raisins, is considered Egypt's national dessert.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "torn"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, hazelnuts or filberts",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 20,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "torn"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Nuts, hazelnuts or filberts",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 20,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the torn bread pieces in a dry oven or pan until lightly crisp.",
+      "Layer into a baking dish with the nuts and raisins.",
+      "Warm the milk with the sugar and pour over.",
+      "Bake at 375F (190C) for 20-22 minutes until the top is golden and bubbling."
+    ],
+    "steps": [
+      "Toast the torn bread pieces in a dry oven or pan until lightly crisp.",
+      "Layer into a baking dish with the nuts and raisins.",
+      "Warm the milk with the sugar and pour over.",
+      "Bake at 375F (190C) for 20-22 minutes until the top is golden and bubbling."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Roasted Chickpea Snack",
+    "cuisine": "egyptian",
+    "meal_type": "snack",
+    "description": "A simple roasted chickpea snack, a common Egyptian street food.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 200,
+        "note": "patted dry"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 200,
+        "note": "patted dry"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the chickpeas with the oil and cumin.",
+      "Roast at 400F (200C) for 25-30 minutes until crisp."
+    ],
+    "steps": [
+      "Toss the chickpeas with the oil and cumin.",
+      "Roast at 400F (200C) for 25-30 minutes until crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Cucumber Tomato Salad",
+    "cuisine": "egyptian",
+    "meal_type": "lunch",
+    "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Egyptian meal.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 120,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 120,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss everything together."
+    ],
+    "steps": [
+      "Toss everything together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Rice Pudding",
+    "cuisine": "egyptian",
+    "meal_type": "snack",
+    "description": "Roz bel laban, Egyptian rice pudding, a simple, comforting dessert built on real basmati.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
+      "Dust with cinnamon before serving."
+    ],
+    "steps": [
+      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
+      "Dust with cinnamon before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Tahini Lemon Sauce",
+    "cuisine": "egyptian",
+    "meal_type": "lunch",
+    "description": "A simple tahini-lemon sauce, the base for many Egyptian dips, built on real tahini.",
+    "ingredients_full": [
+      {
+        "ingredient": "Tahini",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Tahini",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the tahini, lemon juice, garlic, and a splash of water into a smooth sauce."
+    ],
+    "steps": [
+      "Whisk the tahini, lemon juice, garlic, and a splash of water into a smooth sauce."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Egyptian Garlic Cumin Sauce",
+    "cuisine": "egyptian",
+    "meal_type": "lunch",
+    "description": "Toum-adjacent, a simple garlic-cumin sauce, common across Egyptian grilled and roasted dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk everything together into a smooth sauce."
+    ],
+    "steps": [
+      "Whisk everything together into a smooth sauce."
+    ],
+    "tags": []
+  }
+]

@@ -8345,5 +8345,64 @@
       "gluten_free"
     ],
     "allergens": []
+  },
+  {
+    "name": "Argan oil",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 884,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "fiber": 0.0,
+    "micros": {
+      "potassium": 0.0
+    },
+    "sub_group": "oils_fats",
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten_free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Biltong",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 260,
+    "protein": 52.0,
+    "carbs": 2.0,
+    "fat": 3.0,
+    "fiber": 0.0,
+    "micros": {
+      "iron": 3.3,
+      "calcium": 33.0,
+      "sodium": 1700.0
+    },
+    "sub_group": "proteins_meat",
+    "dietary_tags": [],
+    "allergens": []
+  },
+  {
+    "name": "Boerewors",
+    "serving_qty": 100,
+    "serving_unit": "g",
+    "serving_label": "per 100g",
+    "cal": 300,
+    "protein": 18.0,
+    "carbs": 2.0,
+    "fat": 26.0,
+    "fiber": 0.0,
+    "micros": {
+      "iron": 1.5,
+      "calcium": 35.0,
+      "sodium": 900.0
+    },
+    "sub_group": "proteins_meat",
+    "dietary_tags": [],
+    "allergens": []
   }
 ]
