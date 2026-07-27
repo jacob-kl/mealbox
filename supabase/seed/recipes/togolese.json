@@ -1,0 +1,924 @@
+[
+  {
+    "name": "Togolese Fufu",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Fufu, cassava and plantain pounded together into a smooth, stretchy dough, is one of Togo's most essential staple starches, traditionally torn by hand to scoop up soup.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "boiled"
+      },
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 100,
+        "note": "boiled"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "boiled"
+      },
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 100,
+        "note": "boiled"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the cassava and plantain together until completely soft, 20-25 minutes.",
+      "Pound vigorously until smooth and stretchy, free of lumps."
+    ],
+    "steps": [
+      "Boil the cassava and plantain together until completely soft, 20-25 minutes.",
+      "Pound vigorously until smooth and stretchy, free of lumps."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Pate",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "P\u00e2te, a smooth cornmeal porridge, is Togo's most essential everyday staple, closely related to similar porridges found throughout West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk the cornmeal into 1.25 cups boiling water.",
+      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Akpan",
+    "cuisine": "togolese",
+    "meal_type": "breakfast",
+    "description": "Akpan, a fermented corn pudding, is a beloved Togolese breakfast, traditionally topped with sweetened yogurt or milk - real akpan ferments for a full day, so this quicker version approximates a milder version of the tang.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the cornmeal with the vinegar and 1.5 cups water.",
+      "Let sit at room temperature 6-8 hours to develop a slight tang.",
+      "Cook over medium-low heat, stirring often, 12-15 minutes until thick and smooth.",
+      "Chill and top with the sweetened yogurt."
+    ],
+    "steps": [
+      "Whisk the cornmeal with the vinegar and 1.5 cups water.",
+      "Let sit at room temperature 6-8 hours to develop a slight tang.",
+      "Cook over medium-low heat, stirring often, 12-15 minutes until thick and smooth.",
+      "Chill and top with the sweetened yogurt."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Gboma Dessi",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Gboma dessi, a spinach and meat stew with real ground peanuts, a beloved Togolese dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Whisk in the peanut butter with the tomatoes and a little water.",
+      "Add the spinach and simmer 12-15 minutes until well combined."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Whisk in the peanut butter with the tomatoes and a little water.",
+      "Add the spinach and simmer 12-15 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Ayimolou",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Ayimolou, rice and beans cooked together, a beloved Togolese one-pot staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+    ],
+    "steps": [
+      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Grilled Chicken",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Grilled chicken marinated with garlic and pepper, a common Togolese way of preparing meat.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the chicken in the garlic and jalape\u00f1o for at least 20 minutes.",
+      "Grill, turning, 12-15 minutes, until charred and cooked through."
+    ],
+    "steps": [
+      "Marinate the chicken in the garlic and jalape\u00f1o for at least 20 minutes.",
+      "Grill, turning, 12-15 minutes, until charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Fried Plantain",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Fried ripe plantain, a common Togolese side dish, shared across the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "steps": [
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Akara",
+    "cuisine": "togolese",
+    "meal_type": "breakfast",
+    "description": "Akara, fried black-eyed pea fritters, a beloved Togolese breakfast street food closely related to Nigerian akara.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
+      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
+    ],
+    "steps": [
+      "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
+      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Groundnut Soup",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "A simple peanut-based soup, built on real ground peanuts, common across Togo and the wider West African region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Roasted Peanuts",
+    "cuisine": "togolese",
+    "meal_type": "snack",
+    "description": "A simple roasted peanut snack, common across Togo.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Grilled Fish",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Grilled fish rubbed with garlic and pepper, reflecting Togo's coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for scotch bonnet"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Beans in Tomato Sauce",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "A simple bean stew, common Togolese home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Beignets",
+    "cuisine": "togolese",
+    "meal_type": "breakfast",
+    "description": "Beignets, sweet fried dough balls, a beloved Togolese breakfast snack shared across much of West Africa.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
+      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Okra Stew",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Togolese home-cooking staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Okra",
+        "qty": 150,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Sweet Potato Fritters",
+    "cuisine": "togolese",
+    "meal_type": "snack",
+    "description": "Simple fried sweet potato fritters, a common Togolese snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 150,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "steps": [
+      "Mix the grated sweet potato with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Beef and Vegetable Stew",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "A simple, hearty beef and vegetable stew, common Togolese home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Cassava Chips",
+    "cuisine": "togolese",
+    "meal_type": "snack",
+    "description": "Simple fried cassava chips, a common Togolese snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "steps": [
+      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Coleslaw",
+    "cuisine": "togolese",
+    "meal_type": "lunch",
+    "description": "A mayonnaise-dressed cabbage salad, a common Togolese party-food side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Peanut Sauce",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "A simple ground-peanut sauce base, used across many Togolese stews, echoing the flavor of gboma dessi.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Togolese Tomato Onion Sauce",
+    "cuisine": "togolese",
+    "meal_type": "dinner",
+    "description": "A simple tomato-onion sauce base, used across many Togolese stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]
