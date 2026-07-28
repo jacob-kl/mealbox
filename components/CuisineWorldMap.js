@@ -308,14 +308,15 @@ export default function CuisineWorldMap({
           {hoveredLabel || '\u00A0'}
         </p>
       </div>
-      <svg
-        viewBox={`0 0 ${width} ${height}`}
-        className="w-full h-auto rounded-card"
-        onMouseLeave={() => {
-          setHoveredGroup(null);
-          setHoveredLabel(null);
-        }}
-      >
+      <div className="w-full flex items-center justify-center overflow-hidden rounded-card">
+        <svg
+          viewBox={`0 0 ${width} ${height}`}
+          className="w-full h-auto max-h-[520px] rounded-card"
+          onMouseLeave={() => {
+            setHoveredGroup(null);
+            setHoveredLabel(null);
+          }}
+        >
         {/* Literal colors throughout below - CSS custom properties (var(--x))
             don't reliably resolve when set directly as SVG fill/stroke
             presentation attributes, so this stays independent of the theme. */}
@@ -380,7 +381,8 @@ export default function CuisineWorldMap({
             />
           );
         })}
-      </svg>
+        </svg>
+      </div>
     </div>
   );
 }
