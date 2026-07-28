@@ -53,6 +53,9 @@ function mostSpecificGroup(shape, groupSizes) {
 // in Europe) stay visually distinct from their neighbors.
 const GROUP_COLORS = {
   usa: '#4A7FB5',
+  american: '#4A7FB5',
+  bermudian: '#7FB5A0',
+  'st-pierre-and-miquelon': '#5B7FA6',
   southern: '#4CA771',
   'new-mexico': '#C0392B',
   mexican: '#E0A028',
@@ -180,6 +183,8 @@ const GROUP_COLORS = {
   'southeast-asia': '#4A8B7A',
   'british-isles': '#6B7F8B',
   africa: '#B8622E',
+  'north-america': '#4A7FB5',
+  'south-america': '#3E8F6B',
   yemeni: '#A85A2E',
   omani: '#B8935A',
   iraqi: '#3D8A8A',
