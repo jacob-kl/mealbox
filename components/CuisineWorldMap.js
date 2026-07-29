@@ -311,6 +311,9 @@ export default function CuisineWorldMap({
       <div className="w-full flex items-center justify-center overflow-hidden rounded-card">
         <svg
           viewBox={`0 0 ${width} ${height}`}
+          width={width}
+          height={height}
+          preserveAspectRatio="xMidYMid meet"
           className="w-full h-auto max-h-[520px] rounded-card"
           onMouseLeave={() => {
             setHoveredGroup(null);
