@@ -3,7 +3,7 @@
     "name": "Nigerian Jollof Rice",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Jollof rice, a tomato-and-pepper rice cooked down until the grains take on real color and a faint smokiness, is one of West Africa's most fiercely defended dishes - real jollof depends on a proper tomato-pepper base blended and fried down before the rice ever goes in, not just rice simmered in tomato sauce. Scotch bonnet isn't a distinct item here, so jalape\u00f1o stands in, though it's far milder and lacks scotch bonnet's specific fruity heat.",
+    "description": "Jollof rice depends on a real fried-down tomato-pepper base and real long-grain parboiled rice - not basmati, which cooks too soft and doesn't hold up to the technique. Maggi or Knorr cubes are the everyday Nigerian seasoning behind the savory depth here, not an optional extra, and ginger belongs in the base alongside the tomato and pepper.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -36,7 +36,12 @@
         "note": "half for the base, half sliced"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 60,
         "note": ""
       },
@@ -54,6 +59,16 @@
         "ingredient": "Bay leaves",
         "qty": 1,
         "note": ""
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -88,7 +103,12 @@
         "note": "half for the base, half sliced"
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 60,
         "note": ""
       },
@@ -106,23 +126,33 @@
         "ingredient": "Bay leaves",
         "qty": 1,
         "note": ""
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Blend the tomatoes, bell pepper, jalape\u00f1o, and half the onion into a smooth puree.",
+      "Blend the tomatoes, bell pepper, jalape\u00f1o, ginger, and half the onion into a smooth puree.",
       "Brown the chicken in the oil, 6-7 minutes, then set aside.",
       "Fry the remaining sliced onion in the same oil, 3-4 minutes, then add the tomato paste and cook 2 minutes to deepen its color.",
       "Add the blended puree and simmer uncovered 15-18 minutes, stirring occasionally, until it reduces and darkens - this step is what gives jollof its real depth, not a shortcut to skip.",
-      "Stir in the rice, coating every grain in the sauce, then add the broth, bay leaf, and chicken.",
+      "Stir in the rice, coating every grain in the sauce, then add the broth, bay leaf, bouillon, thyme, and chicken.",
       "Cover and cook on low heat 20-25 minutes without stirring, until the rice is tender and the bottom develops a faint char - the prized 'party jollof' crust.",
       "Rest 5 minutes before fluffing and serving."
     ],
     "steps": [
-      "Blend the tomatoes, bell pepper, jalape\u00f1o, and half the onion into a smooth puree.",
+      "Blend the tomatoes, bell pepper, jalape\u00f1o, ginger, and half the onion into a smooth puree.",
       "Brown the chicken in the oil, 6-7 minutes, then set aside.",
       "Fry the remaining sliced onion in the same oil, 3-4 minutes, then add the tomato paste and cook 2 minutes to deepen its color.",
       "Add the blended puree and simmer uncovered 15-18 minutes, stirring occasionally, until it reduces and darkens - this step is what gives jollof its real depth, not a shortcut to skip.",
-      "Stir in the rice, coating every grain in the sauce, then add the broth, bay leaf, and chicken.",
+      "Stir in the rice, coating every grain in the sauce, then add the broth, bay leaf, bouillon, thyme, and chicken.",
       "Cover and cook on low heat 20-25 minutes without stirring, until the rice is tender and the bottom develops a faint char - the prized 'party jollof' crust.",
       "Rest 5 minutes before fluffing and serving."
     ],
@@ -132,7 +162,7 @@
     "name": "Nigerian Egusi Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Egusi soup, thickened with ground melon seeds, is a defining Nigerian dish - real egusi seeds, not a generic nut or seed substitute, are what give it its distinctive texture and nutty flavor.",
+    "description": "Egusi soup depends on real palm oil, not a neutral substitute - the oil's own color and flavor are part of the dish. Real ground crayfish is the other backbone ingredient here, adding an umami depth that plain stock can't replicate, and the egusi itself is fried in the hot oil in spoonfuls to build the soup's characteristic lumpy texture.",
     "ingredients_full": [
       {
         "ingredient": "Egusi seeds (ground)",
@@ -147,7 +177,7 @@
       {
         "ingredient": "Baby spinach",
         "qty": 100,
-        "note": ""
+        "note": "standing in for ugu/fluted pumpkin leaves"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -160,7 +190,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2,
         "note": "tbsp"
       },
@@ -168,6 +198,16 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": "chopped"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 30,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -184,7 +224,7 @@
       {
         "ingredient": "Baby spinach",
         "qty": 100,
-        "note": ""
+        "note": "standing in for ugu/fluted pumpkin leaves"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -197,7 +237,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2,
         "note": "tbsp"
       },
@@ -205,21 +245,31 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": "chopped"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 30,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Brown the beef with the onion, 6-7 minutes.",
       "Mix the ground egusi with a few tablespoons of water into a thick paste.",
-      "Heat the oil and fry spoonfuls of the egusi paste, breaking them into small lumps, 5-6 minutes, until they turn slightly golden - this step is what gives real egusi soup its characteristic texture.",
-      "Add the tomatoes and jalape\u00f1o, and simmer 10 minutes.",
+      "Heat the palm oil until it shimmers and fry spoonfuls of the egusi paste, breaking them into small lumps, 5-6 minutes, until they turn slightly golden - this step is what gives real egusi soup its characteristic texture.",
+      "Add the tomatoes, jalape\u00f1o, ground crayfish, and bouillon, and simmer 10 minutes.",
       "Add the beef and 1 cup water, and simmer 12-15 minutes.",
       "Stir in the spinach in the last 3 minutes until just wilted."
     ],
     "steps": [
       "Brown the beef with the onion, 6-7 minutes.",
       "Mix the ground egusi with a few tablespoons of water into a thick paste.",
-      "Heat the oil and fry spoonfuls of the egusi paste, breaking them into small lumps, 5-6 minutes, until they turn slightly golden - this step is what gives real egusi soup its characteristic texture.",
-      "Add the tomatoes and jalape\u00f1o, and simmer 10 minutes.",
+      "Heat the palm oil until it shimmers and fry spoonfuls of the egusi paste, breaking them into small lumps, 5-6 minutes, until they turn slightly golden - this step is what gives real egusi soup its characteristic texture.",
+      "Add the tomatoes, jalape\u00f1o, ground crayfish, and bouillon, and simmer 10 minutes.",
       "Add the beef and 1 cup water, and simmer 12-15 minutes.",
       "Stir in the spinach in the last 3 minutes until just wilted."
     ],
@@ -229,7 +279,7 @@
     "name": "Nigerian Suya Skewers",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Suya, grilled meat coated in a dry peanut-and-spice rub called yaji, is one of Nigeria's most beloved street foods - real ground peanuts are what give the crust its texture, distinct from a simple spice rub alone.",
+    "description": "Suya's real spice blend, yaji, is built on real ground roasted peanuts as its backbone - not a spice rub alone - with garlic powder, onion powder, and a bouillon cube rounding out the savory depth that distinguishes true yaji from a generic pepper rub.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -242,9 +292,9 @@
         "note": "finely ground"
       },
       {
-        "ingredient": "Ground ginger",
+        "ingredient": "Fresh ginger",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, grated"
       },
       {
         "ingredient": "365 (Whole Foods) Paprika",
@@ -254,6 +304,21 @@
       {
         "ingredient": "Spices, chili powder",
         "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Onion powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
@@ -274,9 +339,9 @@
         "note": "finely ground"
       },
       {
-        "ingredient": "Ground ginger",
+        "ingredient": "Fresh ginger",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, grated"
       },
       {
         "ingredient": "365 (Whole Foods) Paprika",
@@ -289,18 +354,33 @@
         "note": "tsp"
       },
       {
+        "ingredient": "Garlic powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Onion powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Vegetable oil",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Mix the ground peanuts with the ginger, paprika, and chili powder into a dry rub (yaji).",
+      "Mix the ground peanuts with the ginger, paprika, chili powder, garlic powder, onion powder, and bouillon into a dry rub (yaji).",
       "Toss the sliced beef in the oil, then coat thoroughly in the yaji rub.",
       "Thread onto skewers and grill over high heat, turning, 6-8 minutes, until charred at the edges."
     ],
     "steps": [
-      "Mix the ground peanuts with the ginger, paprika, and chili powder into a dry rub (yaji).",
+      "Mix the ground peanuts with the ginger, paprika, chili powder, garlic powder, onion powder, and bouillon into a dry rub (yaji).",
       "Toss the sliced beef in the oil, then coat thoroughly in the yaji rub.",
       "Thread onto skewers and grill over high heat, turning, 6-8 minutes, until charred at the edges."
     ],
@@ -310,7 +390,7 @@
     "name": "Nigerian Pounded Yam",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Pounded yam, real yam boiled and pounded until smooth and stretchy, is one of Nigeria's most essential starchy staples, traditionally eaten as a smooth accompaniment to soup - real yam is a distinct tuber from sweet potato, with a starchier, firmer texture.",
+    "description": "Pounded yam, real yam boiled and pounded until smooth and stretchy, is one of Nigeria's most essential starchy staples, traditionally eaten as a smooth accompaniment to soup - real yam is a distinct tuber from sweet potato, with a starchier, firmer texture, and the pounding itself (traditionally by mortar and pestle) is what builds the real elastic, stretchy consistency.",
     "ingredients_full": [
       {
         "ingredient": "Yam, raw",
@@ -326,12 +406,14 @@
       }
     ],
     "steps_detailed": [
-      "Boil the yam in salted water 20-25 minutes until completely fork-tender.",
-      "Drain well, then pound or mash vigorously until smooth, stretchy, and free of lumps - a mortar and pestle gives the real, elastic texture, though a sturdy masher works as a home approximation."
+      "Boil the yam in salted water 20-25 minutes until completely fork-tender - a knife should slide in with no resistance.",
+      "Drain well and return to the hot, dry pot for a minute to steam off excess moisture.",
+      "Pound or mash vigorously and continuously until smooth, stretchy, and completely free of lumps - a mortar and pestle gives the real, elastic texture, since the pounding motion itself develops the starches; a sturdy masher worked with real force is the closest home approximation."
     ],
     "steps": [
-      "Boil the yam in salted water 20-25 minutes until completely fork-tender.",
-      "Drain well, then pound or mash vigorously until smooth, stretchy, and free of lumps - a mortar and pestle gives the real, elastic texture, though a sturdy masher works as a home approximation."
+      "Boil the yam in salted water 20-25 minutes until completely fork-tender - a knife should slide in with no resistance.",
+      "Drain well and return to the hot, dry pot for a minute to steam off excess moisture.",
+      "Pound or mash vigorously and continuously until smooth, stretchy, and completely free of lumps - a mortar and pestle gives the real, elastic texture, since the pounding motion itself develops the starches; a sturdy masher worked with real force is the closest home approximation."
     ],
     "tags": []
   },
@@ -339,7 +421,7 @@
     "name": "Nigerian Moin Moin",
     "cuisine": "nigerian",
     "meal_type": "lunch",
-    "description": "Moin moin, a steamed bean pudding made from real black-eyed peas blended smooth, is a beloved Nigerian side, traditionally steamed in wrapped leaves or small containers.",
+    "description": "Moin moin, a steamed bean pudding, gets its real body from black-eyed peas blended completely smooth with their skins removed - traditionally steamed wrapped in banana leaves or uma leaves, which perfume the pudding as it cooks, though foil or ramekins are the common home approximation. A whole hard-boiled egg or two pressed into the center is a real, traditional addition, not a garnish.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -362,9 +444,19 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, for the center"
       }
     ],
     "ingredients": [
@@ -389,21 +481,31 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, for the center"
       }
     ],
     "steps_detailed": [
-      "Blend the cowpeas, bell pepper, and onion with a little water into a smooth, thick batter.",
-      "Whisk in the egg and oil.",
-      "Pour into small heatproof cups or ramekins.",
+      "Blend the cowpeas, bell pepper, and onion with a little water into a completely smooth, thick batter - real moin moin has no lumps.",
+      "Whisk in the raw egg, palm oil, and bouillon.",
+      "Pour into small heatproof cups or ramekins, and press half a hard-boiled egg into the center of each.",
       "Steam over simmering water 35-40 minutes until firm and set all the way through."
     ],
     "steps": [
-      "Blend the cowpeas, bell pepper, and onion with a little water into a smooth, thick batter.",
-      "Whisk in the egg and oil.",
-      "Pour into small heatproof cups or ramekins.",
+      "Blend the cowpeas, bell pepper, and onion with a little water into a completely smooth, thick batter - real moin moin has no lumps.",
+      "Whisk in the raw egg, palm oil, and bouillon.",
+      "Pour into small heatproof cups or ramekins, and press half a hard-boiled egg into the center of each.",
       "Steam over simmering water 35-40 minutes until firm and set all the way through."
     ],
     "tags": []
@@ -412,7 +514,7 @@
     "name": "Nigerian Akara",
     "cuisine": "nigerian",
     "meal_type": "breakfast",
-    "description": "Akara, fried black-eyed pea fritters, is a beloved Nigerian breakfast street food - whipping air into the batter before frying is what gives real akara its characteristic light, fluffy interior.",
+    "description": "Akara, fried black-eyed pea fritters, depends on real peeled beans blended smooth and then whipped hard by hand before frying - this whipping step works air into the batter, which is what makes real akara light and fluffy inside rather than dense, and it's not optional.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -428,6 +530,11 @@
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
         "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
@@ -452,19 +559,26 @@
         "note": "standing in for scotch bonnet"
       },
       {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Blend the cowpeas with the onion and jalape\u00f1o and a splash of water into a thick batter.",
-      "Whip the batter vigorously by hand for a few minutes to work air into it - this step is what makes real akara light rather than dense.",
+      "Blend the cowpeas with the onion and jalape\u00f1o and a small splash of water into a thick, smooth batter - it should hold peaks, not be runny.",
+      "Whip the batter vigorously by hand or with a whisk for several minutes to work air into it - real akara depends on this step for its light interior.",
+      "Stir in the bouillon just before frying.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes per batch, until deeply golden and cooked through."
     ],
     "steps": [
-      "Blend the cowpeas with the onion and jalape\u00f1o and a splash of water into a thick batter.",
-      "Whip the batter vigorously by hand for a few minutes to work air into it - this step is what makes real akara light rather than dense.",
+      "Blend the cowpeas with the onion and jalape\u00f1o and a small splash of water into a thick, smooth batter - it should hold peaks, not be runny.",
+      "Whip the batter vigorously by hand or with a whisk for several minutes to work air into it - real akara depends on this step for its light interior.",
+      "Stir in the bouillon just before frying.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes per batch, until deeply golden and cooked through."
     ],
     "tags": []
@@ -473,7 +587,7 @@
     "name": "Nigerian Efo Riro",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Efo riro, a rich spinach stew built on a proper tomato-pepper base, a Nigerian staple served alongside rice or a starchy swallow like pounded yam.",
+    "description": "Efo riro depends on the same real fried-down tomato-pepper base as jollof, built in real palm oil, with a generous hand of leafy greens - traditionally a mix of two or more vegetables together, not just one.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -501,7 +615,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2,
         "note": "tbsp"
       },
@@ -509,6 +623,16 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 20,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -538,7 +662,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2,
         "note": "tbsp"
       },
@@ -546,18 +670,28 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 20,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Blend the tomatoes, bell pepper, jalape\u00f1o, and half the onion into a smooth puree.",
-      "Brown the beef with the remaining onion, 6-7 minutes.",
-      "Add the blended puree and simmer 12-15 minutes until it reduces and deepens in color.",
+      "Brown the beef with the remaining onion, 6-7 minutes, in the palm oil.",
+      "Add the blended puree, crayfish, and bouillon, and simmer 12-15 minutes until it reduces and deepens in color.",
       "Stir in the spinach and cook 3-4 minutes until just wilted."
     ],
     "steps": [
       "Blend the tomatoes, bell pepper, jalape\u00f1o, and half the onion into a smooth puree.",
-      "Brown the beef with the remaining onion, 6-7 minutes.",
-      "Add the blended puree and simmer 12-15 minutes until it reduces and deepens in color.",
+      "Brown the beef with the remaining onion, 6-7 minutes, in the palm oil.",
+      "Add the blended puree, crayfish, and bouillon, and simmer 12-15 minutes until it reduces and deepens in color.",
       "Stir in the spinach and cook 3-4 minutes until just wilted."
     ],
     "tags": []
@@ -566,7 +700,7 @@
     "name": "Nigerian Pepper Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Pepper soup, a light, intensely spiced broth, is a Nigerian comfort food often served to those feeling under the weather - real pepper soup spice blends often include uziza and calabash nutmeg, which aren't distinct items here, so this leans on more widely available warming spices instead.",
+    "description": "Pepper soup is defined by a real, distinctive spice blend - traditionally including uziza seed and calabash nutmeg, which aren't distinct items here, so this leans on more widely available warming spices for a reasonable approximation of the real peppery, aromatic broth.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -584,13 +718,23 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Ground ginger",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Black pepper (ground)",
         "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
         "note": "tsp"
       }
     ],
@@ -611,21 +755,31 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Ground ginger",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Black pepper (ground)",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken in the broth with the jalape\u00f1o, ginger, and black pepper for 25-30 minutes until the chicken is very tender and the broth is well infused."
+      "Simmer the chicken in the broth with the jalape\u00f1o, ginger, black pepper, bouillon, and coriander for 25-30 minutes until the chicken is very tender and the broth is well infused."
     ],
     "steps": [
-      "Simmer the chicken in the broth with the jalape\u00f1o, ginger, and black pepper for 25-30 minutes until the chicken is very tender and the broth is well infused."
+      "Simmer the chicken in the broth with the jalape\u00f1o, ginger, black pepper, bouillon, and coriander for 25-30 minutes until the chicken is very tender and the broth is well infused."
     ],
     "tags": []
   },
@@ -633,7 +787,7 @@
     "name": "Nigerian Ofada Rice with Ayamase",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Ayamase, also called designer stew, is a green-pepper stew traditionally paired with ofada rice, a specific local Nigerian rice variety - basmati stands in here for the rice, a reasonable but distinct substitute.",
+    "description": "Ayamase, also called designer stew, is a green-pepper stew whose real character comes from a long, patient fry of the blended peppers in oil until they mellow and darken - rushing this step is the most common way to get it wrong. Ofada rice is a specific local Nigerian variety; basmati stands in here as a reasonable but distinct substitute.",
     "ingredients_full": [
       {
         "ingredient": "Bell pepper",
@@ -651,7 +805,7 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2.5,
         "note": "tbsp"
       },
@@ -659,6 +813,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Basmati rice (dry)",
@@ -683,7 +842,7 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2.5,
         "note": "tbsp"
       },
@@ -693,6 +852,11 @@
         "note": ""
       },
       {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
         "note": ""
@@ -700,14 +864,14 @@
     ],
     "steps_detailed": [
       "Blend the green bell pepper and jalape\u00f1o into a coarse puree.",
-      "Heat the oil until quite hot and fry the pepper puree, stirring often, 12-15 minutes, until it darkens - real ayamase depends on this long fry to mellow the raw pepper bite.",
-      "Add the onion and beef, and cook 8-9 minutes until the beef is browned through.",
+      "Heat the palm oil until quite hot and fry the pepper puree, stirring often, 15-18 minutes, until it darkens and mellows - real ayamase depends on this long fry to tame the raw pepper bite.",
+      "Add the onion, beef, and bouillon, and cook 8-9 minutes until the beef is browned through.",
       "Cook the rice separately and serve the stew over it."
     ],
     "steps": [
       "Blend the green bell pepper and jalape\u00f1o into a coarse puree.",
-      "Heat the oil until quite hot and fry the pepper puree, stirring often, 12-15 minutes, until it darkens - real ayamase depends on this long fry to mellow the raw pepper bite.",
-      "Add the onion and beef, and cook 8-9 minutes until the beef is browned through.",
+      "Heat the palm oil until quite hot and fry the pepper puree, stirring often, 15-18 minutes, until it darkens and mellows - real ayamase depends on this long fry to tame the raw pepper bite.",
+      "Add the onion, beef, and bouillon, and cook 8-9 minutes until the beef is browned through.",
       "Cook the rice separately and serve the stew over it."
     ],
     "tags": []
@@ -716,7 +880,7 @@
     "name": "Nigerian Puff Puff",
     "cuisine": "nigerian",
     "meal_type": "snack",
-    "description": "Puff puff, deep-fried balls of slightly sweet dough, is one of Nigeria's most beloved snacks - real puff puff is yeast-leavened, giving it a light, slightly tangy character; yeast isn't a distinct item here, so baking powder stands in for a faster, less complex rise.",
+    "description": "Real puff puff is yeast-leavened, which is what gives it a light, slightly tangy character and true puffed shape - yeast isn't a distinct item here, so baking powder stands in for a faster, less complex rise, missing the real tang fermentation would add.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -763,12 +927,12 @@
     ],
     "steps_detailed": [
       "Whisk the flour, sugar, and baking powder with warm water into a thick, smooth batter.",
-      "Let sit 10 minutes to hydrate.",
+      "Let sit 10-15 minutes to hydrate.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes per batch, until deeply golden."
     ],
     "steps": [
       "Whisk the flour, sugar, and baking powder with warm water into a thick, smooth batter.",
-      "Let sit 10 minutes to hydrate.",
+      "Let sit 10-15 minutes to hydrate.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes per batch, until deeply golden."
     ],
     "tags": []
@@ -777,7 +941,7 @@
     "name": "Nigerian Chin Chin",
     "cuisine": "nigerian",
     "meal_type": "snack",
-    "description": "Chin chin, small pieces of sweet, crunchy fried dough, a beloved Nigerian snack especially at parties and celebrations.",
+    "description": "Chin chin's real crunch comes from a firm, only lightly sweetened dough rolled and cut before frying - real chin chin is closer to a fried biscuit than a doughnut, dense and crisp rather than airy.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -798,6 +962,11 @@
         "ingredient": "Eggs (large)",
         "qty": 0.25,
         "note": ""
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
@@ -827,19 +996,24 @@
         "note": ""
       },
       {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Mix the flour, sugar, butter, and egg into a firm dough.",
-      "Roll out and cut into small squares or strips.",
+      "Mix the flour, sugar, butter, egg, and nutmeg into a firm dough - it should be stiff, not soft.",
+      "Roll out to about 0.5cm thick and cut into small squares or strips.",
       "Fry in batches, turning, 4-5 minutes, until deeply golden and crunchy all the way through."
     ],
     "steps": [
-      "Mix the flour, sugar, butter, and egg into a firm dough.",
-      "Roll out and cut into small squares or strips.",
+      "Mix the flour, sugar, butter, egg, and nutmeg into a firm dough - it should be stiff, not soft.",
+      "Roll out to about 0.5cm thick and cut into small squares or strips.",
       "Fry in batches, turning, 4-5 minutes, until deeply golden and crunchy all the way through."
     ],
     "tags": []
@@ -848,7 +1022,7 @@
     "name": "Nigerian Meat Pie",
     "cuisine": "nigerian",
     "meal_type": "snack",
-    "description": "The Nigerian meat pie, a flaky pastry filled with spiced ground meat and vegetables, is a beloved bakery staple distinct from other countries' meat pies in its specific curry-forward filling.",
+    "description": "The Nigerian meat pie's filling is real curry-forward, distinguishing it from other countries' meat pies - real curry powder and thyme are what give it its distinct, savory character, alongside diced carrot and potato bound into the filling.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -877,6 +1051,16 @@
       },
       {
         "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
         "qty": 0.5,
         "note": "tsp"
       },
@@ -914,6 +1098,16 @@
       },
       {
         "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
         "qty": 0.5,
         "note": "tsp"
       },
@@ -925,13 +1119,13 @@
     ],
     "steps_detailed": [
       "Cut the butter into the flour with a splash of cold water until it forms a firm dough. Chill 20 minutes.",
-      "Brown the beef with the carrot, potato, and curry powder, 8-9 minutes, until the vegetables are just tender.",
+      "Brown the beef with the carrot, potato, curry powder, thyme, and bouillon, 8-9 minutes, until the vegetables are just tender.",
       "Roll out the dough and cut into rounds, spoon the filling onto one half of each round, fold over, and crimp the edges to seal.",
       "Brush with the egg wash and bake at 375F (190C) for 25-28 minutes until deeply golden."
     ],
     "steps": [
       "Cut the butter into the flour with a splash of cold water until it forms a firm dough. Chill 20 minutes.",
-      "Brown the beef with the carrot, potato, and curry powder, 8-9 minutes, until the vegetables are just tender.",
+      "Brown the beef with the carrot, potato, curry powder, thyme, and bouillon, 8-9 minutes, until the vegetables are just tender.",
       "Roll out the dough and cut into rounds, spoon the filling onto one half of each round, fold over, and crimp the edges to seal.",
       "Brush with the egg wash and bake at 375F (190C) for 25-28 minutes until deeply golden."
     ],
@@ -941,7 +1135,7 @@
     "name": "Nigerian Fried Rice",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Nigerian fried rice, colored and flavored with real curry powder and a mix of chopped vegetables, is distinctly different from Chinese-style fried rice, often served alongside jollof rice at parties.",
+    "description": "Nigerian fried rice is colored and flavored with real curry powder and a real mix of finely diced vegetables - it's distinctly different from Chinese-style fried rice, and is often served alongside jollof rice at the same party table as a matched pair.",
     "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
@@ -954,9 +1148,9 @@
         "note": "diced"
       },
       {
-        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Green beans",
+        "qty": 40,
+        "note": "diced"
       },
       {
         "ingredient": "Bell pepper",
@@ -977,6 +1171,11 @@
         "ingredient": "Chicken breast",
         "qty": 100,
         "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -991,9 +1190,9 @@
         "note": "diced"
       },
       {
-        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Green beans",
+        "qty": 40,
+        "note": "diced"
       },
       {
         "ingredient": "Bell pepper",
@@ -1014,17 +1213,22 @@
         "ingredient": "Chicken breast",
         "qty": 100,
         "note": "cooked, diced"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Heat the oil and stir-fry the carrot, peas, and bell pepper 4-5 minutes.",
+      "Heat the oil and stir-fry the carrot, green beans, and bell pepper 4-5 minutes.",
       "Add the curry powder and cook 30 seconds until fragrant.",
-      "Add the cold rice and chicken, and stir-fry over high heat 5-6 minutes, breaking up clumps, until everything is well coated and heated through."
+      "Add the cold rice, chicken, and bouillon, and stir-fry over high heat 5-6 minutes, breaking up clumps, until everything is well coated and heated through."
     ],
     "steps": [
-      "Heat the oil and stir-fry the carrot, peas, and bell pepper 4-5 minutes.",
+      "Heat the oil and stir-fry the carrot, green beans, and bell pepper 4-5 minutes.",
       "Add the curry powder and cook 30 seconds until fragrant.",
-      "Add the cold rice and chicken, and stir-fry over high heat 5-6 minutes, breaking up clumps, until everything is well coated and heated through."
+      "Add the cold rice, chicken, and bouillon, and stir-fry over high heat 5-6 minutes, breaking up clumps, until everything is well coated and heated through."
     ],
     "tags": []
   },
@@ -1032,7 +1236,7 @@
     "name": "Nigerian Fish Stew",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "A tomato-pepper fish stew, built on the same real base as jollof and efo riro, a common Nigerian home-cooking staple.",
+    "description": "A tomato-pepper fish stew, built on the same real fried-down base as jollof and efo riro, cooked in real palm oil - a common Nigerian home-cooking staple.",
     "ingredients_full": [
       {
         "ingredient": "Atlantic salmon (raw)",
@@ -1055,7 +1259,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2,
         "note": "tbsp"
       },
@@ -1063,6 +1267,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1087,7 +1296,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 2,
         "note": "tbsp"
       },
@@ -1095,16 +1304,21 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Blend the tomatoes, bell pepper, and jalape\u00f1o into a smooth puree.",
-      "Fry the onion in the oil 3-4 minutes, then add the puree and simmer 15 minutes until it deepens in color.",
+      "Fry the onion in the palm oil 3-4 minutes, then add the puree and bouillon and simmer 15 minutes until it deepens in color.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
       "Blend the tomatoes, bell pepper, and jalape\u00f1o into a smooth puree.",
-      "Fry the onion in the oil 3-4 minutes, then add the puree and simmer 15 minutes until it deepens in color.",
+      "Fry the onion in the palm oil 3-4 minutes, then add the puree and bouillon and simmer 15 minutes until it deepens in color.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -1113,12 +1327,12 @@
     "name": "Nigerian Dodo (Fried Plantain)",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Dodo, ripe plantain sliced and fried until caramelized, a beloved Nigerian side dish, especially alongside jollof rice or beans.",
+    "description": "Dodo, ripe plantain sliced and fried until caramelized, a beloved Nigerian side dish, especially alongside jollof rice or beans - the plantain must be genuinely ripe, with a mostly or fully black peel, for the real deep caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
       },
       {
         "ingredient": "Vegetable oil",
@@ -1130,7 +1344,7 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
       },
       {
         "ingredient": "Vegetable oil",
@@ -1139,10 +1353,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in the oil over medium heat, turning once, 3-4 minutes per side, until deeply caramelized."
+      "Fry the plantain slices in the oil over medium heat, turning once, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges."
     ],
     "steps": [
-      "Fry the plantain slices in the oil over medium heat, turning once, 3-4 minutes per side, until deeply caramelized."
+      "Fry the plantain slices in the oil over medium heat, turning once, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges."
     ],
     "tags": []
   },
@@ -1150,7 +1364,7 @@
     "name": "Nigerian Okra Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Okra soup, thickened by okra's natural sliminess rather than a starch, a genuine Nigerian home-cooking staple often paired with a swallow like pounded yam.",
+    "description": "Okra soup is thickened by okra's own natural sliminess rather than a starch - real technique keeps some okra pieces larger for texture rather than mincing everything uniformly fine.",
     "ingredients_full": [
       {
         "ingredient": "Okra",
@@ -1173,9 +1387,19 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1200,19 +1424,29 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef in the oil, 6-7 minutes.",
-      "Add the tomatoes and jalape\u00f1o, and simmer 8-10 minutes.",
+      "Brown the beef in the palm oil, 6-7 minutes.",
+      "Add the tomatoes, jalape\u00f1o, crayfish, and bouillon, and simmer 8-10 minutes.",
       "Add the okra and simmer 6-8 minutes until tender - the soup should thicken naturally from the okra itself."
     ],
     "steps": [
-      "Brown the beef in the oil, 6-7 minutes.",
-      "Add the tomatoes and jalape\u00f1o, and simmer 8-10 minutes.",
+      "Brown the beef in the palm oil, 6-7 minutes.",
+      "Add the tomatoes, jalape\u00f1o, crayfish, and bouillon, and simmer 8-10 minutes.",
       "Add the okra and simmer 6-8 minutes until tender - the soup should thicken naturally from the okra itself."
     ],
     "tags": []
@@ -1221,7 +1455,7 @@
     "name": "Nigerian Coleslaw",
     "cuisine": "nigerian",
     "meal_type": "lunch",
-    "description": "Nigerian coleslaw, a mayonnaise-dressed cabbage and vegetable salad, a common party-food side, often served alongside jollof rice.",
+    "description": "Nigerian coleslaw, a mayonnaise-dressed cabbage and vegetable salad, a common party-food side, often served alongside jollof rice at the same table.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -1241,7 +1475,7 @@
       {
         "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
         "qty": 30,
-        "note": "thawed"
+        "note": ""
       }
     ],
     "ingredients": [
@@ -1263,7 +1497,7 @@
       {
         "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
         "qty": 30,
-        "note": "thawed"
+        "note": ""
       }
     ],
     "steps_detailed": [
@@ -1278,7 +1512,7 @@
     "name": "Nigerian Zobo Drink",
     "cuisine": "nigerian",
     "meal_type": "snack",
-    "description": "Zobo, a hibiscus drink, is a beloved Nigerian non-alcoholic beverage, often flavored with ginger and pineapple.",
+    "description": "Zobo, a hibiscus drink, is a beloved Nigerian non-alcoholic beverage, real versions often flavored with real ginger and pineapple, sometimes cloves - not just plain sweetened hibiscus.",
     "ingredients_full": [
       {
         "ingredient": "Beverages, tea, hibiscus, brewed",
@@ -1324,12 +1558,12 @@
       }
     ],
     "steps_detailed": [
-      "Warm the brewed hibiscus tea with the ginger for 5 minutes to infuse.",
+      "Warm the hibiscus tea with the ginger 5-6 minutes to infuse.",
       "Stir in the sugar until dissolved, then chill.",
       "Serve over ice with pineapple chunks."
     ],
     "steps": [
-      "Warm the brewed hibiscus tea with the ginger for 5 minutes to infuse.",
+      "Warm the hibiscus tea with the ginger 5-6 minutes to infuse.",
       "Stir in the sugar until dissolved, then chill.",
       "Serve over ice with pineapple chunks."
     ],
@@ -1339,7 +1573,7 @@
     "name": "Nigerian Groundnut Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Groundnut soup, built on real ground peanuts, a rich, nutty soup found across Nigeria and the wider West African region.",
+    "description": "Groundnut soup, built on real ground peanuts, a rich, nutty soup found across Nigeria and the wider West African region, real versions often finished with a real palm oil sheen on top.",
     "ingredients_full": [
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -1360,6 +1594,16 @@
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
         "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1382,17 +1626,27 @@
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
         "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Brown the chicken, 6-7 minutes.",
       "Whisk the ground peanuts with 1.5 cups water into a smooth paste.",
-      "Add the peanut paste, tomatoes, and jalape\u00f1o to the chicken, and simmer 20-25 minutes until thickened and the chicken is tender."
+      "Add the peanut paste, tomatoes, jalape\u00f1o, palm oil, and bouillon to the chicken, and simmer 20-25 minutes until thickened and the chicken is tender."
     ],
     "steps": [
       "Brown the chicken, 6-7 minutes.",
       "Whisk the ground peanuts with 1.5 cups water into a smooth paste.",
-      "Add the peanut paste, tomatoes, and jalape\u00f1o to the chicken, and simmer 20-25 minutes until thickened and the chicken is tender."
+      "Add the peanut paste, tomatoes, jalape\u00f1o, palm oil, and bouillon to the chicken, and simmer 20-25 minutes until thickened and the chicken is tender."
     ],
     "tags": []
   },
@@ -1400,7 +1654,7 @@
     "name": "Nigerian Tomato Pepper Base Sauce",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "The foundational tomato-pepper base that underlies jollof rice, efo riro, and many other Nigerian stews, made here on its own for use in other dishes.",
+    "description": "The foundational fried-down tomato-pepper base that underlies jollof rice, efo riro, ayamase, and many other Nigerian stews, made here on its own for use in other dishes - the real, patient fry is what separates this from a quick tomato sauce.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -1423,7 +1677,7 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
       },
@@ -1431,6 +1685,11 @@
         "ingredient": "Tomato paste",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1455,7 +1714,7 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
       },
@@ -1463,17 +1722,22 @@
         "ingredient": "Tomato paste",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Blend the tomatoes, bell pepper, jalape\u00f1o, and half the onion into a smooth puree.",
-      "Fry the remaining onion in the oil, 3-4 minutes, then add the tomato paste and cook 2 minutes.",
-      "Add the puree and simmer uncovered 15-18 minutes until it reduces and deepens in color."
+      "Fry the remaining onion in the palm oil, 3-4 minutes, then add the tomato paste and cook 2 minutes.",
+      "Add the puree and bouillon and simmer uncovered 15-18 minutes until it reduces and deepens in color."
     ],
     "steps": [
       "Blend the tomatoes, bell pepper, jalape\u00f1o, and half the onion into a smooth puree.",
-      "Fry the remaining onion in the oil, 3-4 minutes, then add the tomato paste and cook 2 minutes.",
-      "Add the puree and simmer uncovered 15-18 minutes until it reduces and deepens in color."
+      "Fry the remaining onion in the palm oil, 3-4 minutes, then add the tomato paste and cook 2 minutes.",
+      "Add the puree and bouillon and simmer uncovered 15-18 minutes until it reduces and deepens in color."
     ],
     "tags": []
   }
