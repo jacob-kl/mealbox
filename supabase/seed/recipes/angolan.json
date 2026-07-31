@@ -258,6 +258,11 @@
         "ingredient": "Salt, table",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -275,13 +280,20 @@
         "ingredient": "Salt, table",
         "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Warm the cowpeas with the palm oil and salt, stirring gently, 5-6 minutes, until well coated and heated through."
+      "Cook the onion in the palm oil 3-4 minutes until softened.",
+      "Add the cowpeas and salt, and warm through, stirring gently, 5-6 minutes."
     ],
     "steps": [
-      "Warm the cowpeas with the palm oil and salt, stirring gently, 5-6 minutes, until well coated and heated through."
+      "Cook the onion in the palm oil 3-4 minutes until softened.",
+      "Add the cowpeas and salt, and warm through, stirring gently, 5-6 minutes."
     ],
     "tags": []
   },
@@ -500,12 +512,17 @@
     "cuisine": "angolan",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "P\u00e3ozinho, small Portuguese-style bread rolls, reflect genuine colonial influence found throughout Angolan daily life.",
+    "description": "P\u00e3ozinho, small Portuguese-style bread rolls, reflect genuine colonial influence found throughout Angolan daily life, real versions eaten warm alongside coffee at breakfast.",
     "ingredients_full": [
       {
         "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
         "qty": 1,
         "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "for spreading"
       }
     ],
     "ingredients": [
@@ -513,13 +530,18 @@
         "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
         "qty": 1,
         "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "for spreading"
       }
     ],
     "steps_detailed": [
-      "Serve as-is, a common breakfast bread across Angola."
+      "Warm the bread briefly and spread with the butter before serving."
     ],
     "steps": [
-      "Serve as-is, a common breakfast bread across Angola."
+      "Warm the bread briefly and spread with the butter before serving."
     ],
     "tags": []
   },
@@ -651,6 +673,11 @@
         "ingredient": "Papayas, raw",
         "qty": 100,
         "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -663,13 +690,18 @@
         "ingredient": "Papayas, raw",
         "qty": 100,
         "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the pineapple and papaya together."
+      "Toss the pineapple and papaya with a squeeze of lemon juice."
     ],
     "steps": [
-      "Toss the pineapple and papaya together."
+      "Toss the pineapple and papaya with a squeeze of lemon juice."
     ],
     "tags": []
   },
@@ -678,7 +710,7 @@
     "cuisine": "angolan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Angolan home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Angolan home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -902,10 +934,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve as-is, cashews being a notable Angolan crop."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve as-is, cashews being a notable Angolan crop."
     ],
     "tags": []
   },
@@ -1010,10 +1042,12 @@
       }
     ],
     "steps_detailed": [
-      "Blend everything together into a smooth sauce."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, and lemon juice with the olive oil into a smooth sauce."
     ],
     "steps": [
-      "Blend everything together into a smooth sauce."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, and lemon juice with the olive oil into a smooth sauce."
     ],
     "tags": []
   }

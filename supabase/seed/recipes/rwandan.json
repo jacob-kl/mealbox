@@ -399,21 +399,31 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -600,7 +610,7 @@
     "cuisine": "rwandan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Rwandan home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Rwandan home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -841,6 +851,11 @@
         "ingredient": "Papayas, raw",
         "qty": 100,
         "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -853,13 +868,18 @@
         "ingredient": "Papayas, raw",
         "qty": 100,
         "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the pineapple and papaya together."
+      "Toss the pineapple and papaya with a squeeze of lemon juice."
     ],
     "steps": [
-      "Toss the pineapple and papaya together."
+      "Toss the pineapple and papaya with a squeeze of lemon juice."
     ],
     "tags": []
   },

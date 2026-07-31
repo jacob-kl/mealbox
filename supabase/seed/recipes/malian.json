@@ -428,10 +428,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve as-is, peanuts being a significant Malian crop."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve as-is, peanuts being a significant Malian crop."
     ],
     "tags": []
   },
@@ -664,7 +664,7 @@
     "cuisine": "malian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Malian home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Malian home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -734,26 +734,36 @@
     "cuisine": "malian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Fried ripe plantain, a common side dish across Mali and the wider West African region.",
+    "description": "Fried ripe plantain, a common side dish across Mali and the wider West African region, real versions using genuinely ripe plantain for real caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -908,7 +918,7 @@
     "tags": []
   },
   {
-    "name": "Malian Ginger \u200b\u200bGarlic Sauce",
+    "name": "Malian Ginger Garlic Sauce",
     "cuisine": "malian",
     "meal_type": "sauce",
     "course": "complete",
@@ -948,10 +958,10 @@
       }
     ],
     "steps_detailed": [
-      "Mix everything together."
+      "Mix the ginger, garlic, and oil together thoroughly."
     ],
     "steps": [
-      "Mix everything together."
+      "Mix the ginger, garlic, and oil together thoroughly."
     ],
     "tags": []
   }
