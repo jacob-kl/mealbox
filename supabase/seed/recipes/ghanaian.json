@@ -198,12 +198,17 @@
     "cuisine": "ghanaian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Kenkey, fermented corn dough wrapped in corn husks or banana leaves and steamed, is a genuine Ghanaian staple with a distinctive sour tang from real fermentation.",
+    "description": "Kenkey, fermented corn dough wrapped in corn husks or banana leaves and steamed, is a genuine Ghanaian staple with a distinctive sour tang from real fermentation, real technique dividing the fermented dough into portions and cooking part of it first into a thick porridge before combining, which gives kenkey its characteristic dense, slightly gummy texture.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -211,14 +216,21 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Mix the cornmeal with water into a stiff dough and let ferment at room temperature 24 hours.",
+      "Cook about a third of the fermented dough with a little water into a thick paste, then knead it back into the remaining raw dough along with the salt.",
       "Shape into balls, wrap tightly, and steam over simmering water 45-50 minutes until firm and cooked through."
     ],
     "steps": [
       "Mix the cornmeal with water into a stiff dough and let ferment at room temperature 24 hours.",
+      "Cook about a third of the fermented dough with a little water into a thick paste, then knead it back into the remaining raw dough along with the salt.",
       "Shape into balls, wrap tightly, and steam over simmering water 45-50 minutes until firm and cooked through."
     ],
     "tags": []
@@ -228,7 +240,7 @@
     "cuisine": "ghanaian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Groundnut soup, built on real ground peanuts, is one of Ghana's most beloved soups, traditionally served with fufu or rice.",
+    "description": "Groundnut soup, built on real ground peanuts, is one of Ghana's most beloved soups, traditionally served with fufu or rice, real versions finished with a real pinch of chili for background heat.",
     "ingredients_full": [
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -249,6 +261,11 @@
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
         "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -271,17 +288,22 @@
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
         "note": "standing in for scotch bonnet"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the chicken, 6-7 minutes.",
+      "Brown the chicken with the onion, 6-7 minutes.",
       "Whisk the ground peanuts with 1.5 cups water into a smooth paste.",
-      "Add the peanut paste, tomatoes, and jalape\u00f1o, and simmer 20-25 minutes until thickened."
+      "Add the peanut paste, tomatoes, and jalape\u00f1o, and simmer 20-25 minutes until thickened and the chicken is tender."
     ],
     "steps": [
-      "Brown the chicken, 6-7 minutes.",
+      "Brown the chicken with the onion, 6-7 minutes.",
       "Whisk the ground peanuts with 1.5 cups water into a smooth paste.",
-      "Add the peanut paste, tomatoes, and jalape\u00f1o, and simmer 20-25 minutes until thickened."
+      "Add the peanut paste, tomatoes, and jalape\u00f1o, and simmer 20-25 minutes until thickened and the chicken is tender."
     ],
     "tags": []
   },
@@ -412,7 +434,7 @@
     "cuisine": "ghanaian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Fufu, cassava and plantain pounded together into a smooth, stretchy dough, is one of West Africa's most iconic staple starches, traditionally eaten by tearing off pieces to scoop up soup.",
+    "description": "Fufu, cassava and plantain pounded together into a smooth, stretchy dough, is one of West Africa's most iconic staple starches, traditionally eaten by tearing off pieces to scoop up soup, real technique boiling both starches until genuinely soft before pounding, since underdone starch won't pound smooth.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
@@ -438,12 +460,12 @@
       }
     ],
     "steps_detailed": [
-      "Boil the cassava and plantain together until completely soft, 20-25 minutes.",
-      "Pound or mash vigorously until smooth and stretchy, free of lumps."
+      "Boil the cassava and plantain together until completely soft, 20-25 minutes - a fork should go in with no resistance.",
+      "Drain well and pound vigorously and continuously until smooth and stretchy, free of lumps."
     ],
     "steps": [
-      "Boil the cassava and plantain together until completely soft, 20-25 minutes.",
-      "Pound or mash vigorously until smooth and stretchy, free of lumps."
+      "Boil the cassava and plantain together until completely soft, 20-25 minutes - a fork should go in with no resistance.",
+      "Drain well and pound vigorously and continuously until smooth and stretchy, free of lumps."
     ],
     "tags": []
   },
@@ -452,7 +474,7 @@
     "cuisine": "ghanaian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Light soup, a thin, peppery tomato broth, is a common Ghanaian everyday soup, lighter than groundnut or palm nut soup.",
+    "description": "Light soup, a thin, peppery tomato broth, is a common Ghanaian everyday soup, lighter than groundnut or palm nut soup, real technique letting the tomatoes cook down fully so the broth builds real depth rather than tasting watery.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -473,6 +495,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -495,13 +522,20 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken, tomatoes, jalape\u00f1o, and onion together in 2 cups water 25-30 minutes until the chicken is tender."
+      "Combine the chicken, tomatoes, jalape\u00f1o, onion, and garlic in 2 cups water.",
+      "Bring to a boil, then reduce to a steady simmer and cook 25-30 minutes, uncovered, so the broth reduces slightly and the tomatoes fully break down, until the chicken is tender."
     ],
     "steps": [
-      "Simmer the chicken, tomatoes, jalape\u00f1o, and onion together in 2 cups water 25-30 minutes until the chicken is tender."
+      "Combine the chicken, tomatoes, jalape\u00f1o, onion, and garlic in 2 cups water.",
+      "Bring to a boil, then reduce to a steady simmer and cook 25-30 minutes, uncovered, so the broth reduces slightly and the tomatoes fully break down, until the chicken is tender."
     ],
     "tags": []
   },
@@ -634,7 +668,7 @@
     "cuisine": "ghanaian",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Tatale, sweet, spiced ripe plantain pancakes, a beloved Ghanaian breakfast.",
+    "description": "Tatale, sweet, spiced ripe plantain pancakes, is a beloved Ghanaian breakfast, real technique using genuinely overripe, heavily spotted plantain, since its natural sugars are what make tatale sweet without needing added sugar.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
@@ -680,12 +714,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix the mashed plantain with the flour and ginger into a thick batter.",
-      "Fry spoonfuls, turning, 3-4 minutes per side, until golden."
+      "Mix the mashed plantain with the flour and ginger into a thick batter - it should hold its shape on a spoon.",
+      "Fry spoonfuls, flattening slightly, 3-4 minutes per side, until deeply golden and cooked through in the center."
     ],
     "steps": [
-      "Mix the mashed plantain with the flour and ginger into a thick batter.",
-      "Fry spoonfuls, turning, 3-4 minutes per side, until golden."
+      "Mix the mashed plantain with the flour and ginger into a thick batter - it should hold its shape on a spoon.",
+      "Fry spoonfuls, flattening slightly, 3-4 minutes per side, until deeply golden and cooked through in the center."
     ],
     "tags": []
   },
@@ -770,6 +804,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -787,17 +826,22 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
+      "Brown the beef with the onion, 6-7 minutes.",
       "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender and the stew thickens."
+      "Add the okra and simmer 6-8 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 6-7 minutes.",
+      "Brown the beef with the onion, 6-7 minutes.",
       "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender and the stew thickens."
+      "Add the okra and simmer 6-8 minutes until tender."
     ],
     "tags": []
   },
@@ -806,7 +850,7 @@
     "cuisine": "ghanaian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A mayonnaise-dressed cabbage salad, a common Ghanaian party-food side alongside jollof rice.",
+    "description": "A mayonnaise-dressed cabbage salad, a common Ghanaian party-food side alongside jollof rice, real versions often including a touch of sugar to round out the mayonnaise's tang.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -822,6 +866,11 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -839,13 +888,20 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and sugar together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and sugar together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "tags": []
   },
@@ -870,10 +926,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve the peanuts as-is."
+      "Serve the peanuts as-is, a common Ghanaian snack alongside tea or on their own."
     ],
     "steps": [
-      "Serve the peanuts as-is."
+      "Serve the peanuts as-is, a common Ghanaian snack alongside tea or on their own."
     ],
     "tags": []
   },
@@ -898,6 +954,11 @@
         "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -915,13 +976,18 @@
         "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until soft and creamy."
+      "Simmer the rice with the milk, sugar, and cinnamon, stirring often to prevent scorching, 20-25 minutes, until soft and creamy."
     ],
     "steps": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until soft and creamy."
+      "Simmer the rice with the milk, sugar, and cinnamon, stirring often to prevent scorching, 20-25 minutes, until soft and creamy."
     ],
     "tags": []
   },
@@ -1088,10 +1154,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion and ginger in a little oil 3-4 minutes until fragrant.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion and ginger in a little oil 3-4 minutes until fragrant.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   },

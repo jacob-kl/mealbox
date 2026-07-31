@@ -118,12 +118,17 @@
     "cuisine": "tanzanian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Ugali, a stiff maize porridge, is Tanzania's most essential staple starch, eaten daily alongside stews and greens.",
+    "description": "Ugali, a stiff maize porridge, is Tanzania's most essential staple starch, eaten daily alongside stews and greens, real technique beating the cornmeal in gradually to keep the texture smooth and free of lumps.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -131,15 +136,20 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly over medium-low heat 12-15 minutes, until very thick and smooth."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly over medium-low heat 12-15 minutes, until very thick and smooth."
     ],
     "tags": []
   },
@@ -148,7 +158,7 @@
     "cuisine": "tanzanian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Mchuzi wa samaki, a coconut-based fish curry, reflects genuine Zanzibari coastal spice-trade history.",
+    "description": "Mchuzi wa samaki, a coconut-based fish curry, reflects genuine Zanzibari coastal spice-trade history, real technique cooking the curry powder briefly in oil first so it doesn't taste raw in the final dish.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -169,6 +179,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -191,14 +206,21 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the garlic and curry powder in a little oil 30 seconds until fragrant.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the garlic and curry powder in a little oil 30 seconds until fragrant.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -372,7 +394,7 @@
     "cuisine": "tanzanian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Wali wa nazi, rice cooked in real coconut milk, a genuine Zanzibari and coastal Tanzanian staple.",
+    "description": "Wali wa nazi, rice cooked in real coconut milk, is a genuine Zanzibari and coastal Tanzanian staple, real versions adding a touch of salt to balance the coconut milk's richness.",
     "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
@@ -383,6 +405,11 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -395,13 +422,18 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Cook the rice with the coconut milk in place of some of the water, along with the salt, per package timing, until tender."
     ],
     "steps": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Cook the rice with the coconut milk in place of some of the water, along with the salt, per package timing, until tender."
     ],
     "tags": []
   },
@@ -410,7 +442,7 @@
     "cuisine": "tanzanian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Mchicha, greens simmered with coconut milk and tomato, a genuine Tanzanian staple side.",
+    "description": "Mchicha, greens simmered with coconut milk and tomato, is a genuine Tanzanian staple side, real technique letting the tomatoes break down first before the greens go in, so the sauce has real body.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -425,6 +457,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
@@ -443,13 +480,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the spinach, coconut milk, and tomatoes together 8-10 minutes until wilted and well combined."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 4-5 minutes until they break down.",
+      "Add the coconut milk and spinach, and simmer 8-10 minutes until wilted and well combined."
     ],
     "steps": [
-      "Simmer the spinach, coconut milk, and tomatoes together 8-10 minutes until wilted and well combined."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 4-5 minutes until they break down.",
+      "Add the coconut milk and spinach, and simmer 8-10 minutes until wilted and well combined."
     ],
     "tags": []
   },
@@ -546,6 +590,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -563,13 +612,20 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes to mellow.",
+      "Add the tomatoes and cilantro, and toss together."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes to mellow.",
+      "Add the tomatoes and cilantro, and toss together."
     ],
     "tags": []
   },
@@ -578,7 +634,7 @@
     "cuisine": "tanzanian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Ndizi kaanga, fried ripe plantain, a common Tanzanian side dish.",
+    "description": "Ndizi kaanga, fried ripe plantain, is a common Tanzanian side dish, real versions using genuinely ripe plantain for proper caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
@@ -604,10 +660,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -616,7 +672,7 @@
     "cuisine": "tanzanian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Sukuma wiki, collard greens or kale simmered with onion and tomato, a staple East African side shared across Tanzania and its neighbors.",
+    "description": "Sukuma wiki, collard greens or kale simmered with onion and tomato, is a staple East African side shared across Tanzania and its neighbors, real technique cooking the onion down well first to build a proper sweet base.",
     "ingredients_full": [
       {
         "ingredient": "Kale",
@@ -632,6 +688,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -649,14 +710,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Cook the onion 5-6 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Cook the onion and garlic 5-6 minutes, then add the tomatoes and simmer 3-4 minutes.",
       "Add the kale and simmer 10-12 minutes until tender."
     ],
     "steps": [
-      "Cook the onion 5-6 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Cook the onion and garlic 5-6 minutes, then add the tomatoes and simmer 3-4 minutes.",
       "Add the kale and simmer 10-12 minutes until tender."
     ],
     "tags": []
@@ -794,10 +860,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve as-is, cashews being a significant Tanzanian export crop from the southern coastal regions."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve as-is, cashews being a significant Tanzanian export crop from the southern coastal regions."
     ],
     "tags": []
   },
@@ -866,7 +932,7 @@
     "cuisine": "tanzanian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Tanzanian home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Tanzanian home cooking, real technique browning the beef properly first to build real flavor before adding the rest.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -886,6 +952,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -909,14 +980,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -1002,6 +1078,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -1019,13 +1100,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion 3-4 minutes.",
+      "Add the cowpeas, coconut milk, and tomatoes, and simmer 15-18 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion 3-4 minutes.",
+      "Add the cowpeas, coconut milk, and tomatoes, and simmer 15-18 minutes until thickened."
     ],
     "tags": []
   },
@@ -1070,10 +1158,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

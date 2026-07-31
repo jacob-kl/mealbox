@@ -340,7 +340,7 @@
     "cuisine": "senegalese",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Bissap, a hibiscus drink, is a beloved Senegalese beverage, similar to zobo found elsewhere in West Africa.",
+    "description": "Bissap, a hibiscus drink, is a beloved Senegalese beverage, similar to zobo found elsewhere in West Africa, real versions steeping the mint alongside the hibiscus rather than adding it as a garnish.",
     "ingredients_full": [
       {
         "ingredient": "Beverages, tea, hibiscus, brewed",
@@ -526,7 +526,7 @@
     "cuisine": "senegalese",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Pastels, fried fish-filled dumplings, a beloved Senegalese coastal snack.",
+    "description": "Pastels, fried fish-filled dumplings, are a beloved Senegalese coastal snack, real technique seasoning the fish filling with real aromatics rather than leaving it plain, which is what separates pastels from a bland fish pocket.",
     "ingredients_full": [
       {
         "ingredient": "Phyllo dough",
@@ -537,6 +537,16 @@
         "ingredient": "Fish, tilapia, raw",
         "qty": 100,
         "note": "cooked and flaked"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       },
       {
         "ingredient": "Vegetable oil",
@@ -556,18 +566,30 @@
         "note": "cooked and flaked"
       },
       {
+        "ingredient": "Yellow onion",
+        "qty": 20,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
+      },
+      {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Fill the phyllo with the flaked fish and fold into small parcels.",
-      "Fry, turning, 3-4 minutes, until golden."
+      "Mix the flaked fish with the onion and cilantro.",
+      "Fill the phyllo with the mixture and fold into small sealed parcels.",
+      "Fry, turning, 3-4 minutes, until golden and crisp."
     ],
     "steps": [
-      "Fill the phyllo with the flaked fish and fold into small parcels.",
-      "Fry, turning, 3-4 minutes, until golden."
+      "Mix the flaked fish with the onion and cilantro.",
+      "Fill the phyllo with the mixture and fold into small sealed parcels.",
+      "Fry, turning, 3-4 minutes, until golden and crisp."
     ],
     "tags": []
   },
@@ -576,7 +598,7 @@
     "cuisine": "senegalese",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Ndambe, black-eyed peas stewed with tomato, a common Senegalese breakfast or light meal.",
+    "description": "Ndambe, black-eyed peas stewed with tomato, is a common Senegalese breakfast or light meal, real versions finished with a squeeze of lemon for brightness.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -592,6 +614,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -609,13 +636,20 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until well combined and thickened."
+      "Simmer the cowpeas, tomatoes, and onion together 15-18 minutes until well combined and thickened.",
+      "Stir in the lemon juice just before serving."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until well combined and thickened."
+      "Simmer the cowpeas, tomatoes, and onion together 15-18 minutes until well combined and thickened.",
+      "Stir in the lemon juice just before serving."
     ],
     "tags": []
   },
@@ -690,10 +724,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve the peanuts as-is."
+      "Serve the peanuts as-is, peanuts being one of Senegal's most significant crops."
     ],
     "steps": [
-      "Serve the peanuts as-is."
+      "Serve the peanuts as-is, peanuts being one of Senegal's most significant crops."
     ],
     "tags": []
   },
@@ -702,7 +736,7 @@
     "cuisine": "senegalese",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A simple cabbage and carrot slaw, a common Senegalese side.",
+    "description": "A simple cabbage and carrot slaw, a common Senegalese side, real versions dressed with real lemon rather than vinegar for a brighter, cleaner tang.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -718,6 +752,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -735,13 +774,18 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss the cabbage and carrot with the lemon juice and olive oil until well coated."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss the cabbage and carrot with the lemon juice and olive oil until well coated."
     ],
     "tags": []
   },
@@ -786,10 +830,10 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the couscous with the milk and honey 8-10 minutes until soft and creamy."
+      "Simmer the couscous with the milk and honey, stirring occasionally, 8-10 minutes, until soft and creamy."
     ],
     "steps": [
-      "Simmer the couscous with the milk and honey 8-10 minutes until soft and creamy."
+      "Simmer the couscous with the milk and honey, stirring occasionally, 8-10 minutes, until soft and creamy."
     ],
     "tags": []
   },
@@ -798,7 +842,7 @@
     "cuisine": "senegalese",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Simple fried sweet potato fritters, a common Senegalese snack.",
+    "description": "Simple fried sweet potato fritters, a common Senegalese snack, real technique squeezing excess moisture from the grated sweet potato first so the fritters fry crisp rather than soggy.",
     "ingredients_full": [
       {
         "ingredient": "Sweet potato",
@@ -834,12 +878,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Squeeze the grated sweet potato well to remove excess moisture, then mix with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden and cooked through."
     ],
     "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Squeeze the grated sweet potato well to remove excess moisture, then mix with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden and cooked through."
     ],
     "tags": []
   },
@@ -848,7 +892,7 @@
     "cuisine": "senegalese",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Senegalese home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Senegalese home cooking, real technique browning the beef in a hot pan first to build real flavor before the vegetables and liquid go in.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -868,6 +912,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -891,14 +940,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -944,10 +998,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix the cooked rice with the yogurt and honey, and chill before serving."
+      "Mix the cooked rice with the yogurt and honey until well combined.",
+      "Chill at least 30 minutes before serving so the flavors meld."
     ],
     "steps": [
-      "Mix the cooked rice with the yogurt and honey, and chill before serving."
+      "Mix the cooked rice with the yogurt and honey until well combined.",
+      "Chill at least 30 minutes before serving so the flavors meld."
     ],
     "tags": []
   },
@@ -992,10 +1048,10 @@
       }
     ],
     "steps_detailed": [
-      "Whisk everything together."
+      "Whisk the lemon juice, garlic, and olive oil together until well combined."
     ],
     "steps": [
-      "Whisk everything together."
+      "Whisk the lemon juice, garlic, and olive oil together until well combined."
     ],
     "tags": []
   },
@@ -1040,10 +1096,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until the vegetables are tender and the sauce has thickened."
+      "Cook the onion 3-4 minutes, then add the carrot and tomatoes.",
+      "Simmer 15-18 minutes until the vegetables are tender and the sauce has thickened."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until the vegetables are tender and the sauce has thickened."
+      "Cook the onion 3-4 minutes, then add the carrot and tomatoes.",
+      "Simmer 15-18 minutes until the vegetables are tender and the sauce has thickened."
     ],
     "tags": []
   },
