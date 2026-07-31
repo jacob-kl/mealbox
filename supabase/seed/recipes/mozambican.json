@@ -86,60 +86,88 @@
     "cuisine": "mozambican",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Matapa, cassava leaves simmered in ground peanuts and coconut milk, is widely considered Mozambique's national dish - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation, real technique building the sauce slowly so it doesn't separate.",
+    "description": "Matapa, widely considered Mozambique's national dish, genuinely centers on real shrimp simmered together with cassava leaves, ground peanuts, and coconut milk - this version was missing the shrimp, garlic, and a properly long simmer before. Real technique roasts and grinds raw peanuts fresh, and the whole pot simmers a full hour or more, since that long, slow cook is what melds the greens, peanuts, and coconut milk into matapa's real thick, cohesive texture, not a quick 15-minute stew.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
-        "qty": 200,
+        "qty": 250,
         "note": "standing in for cassava leaves"
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 50,
+        "note": "ground fresh into a coarse peanut butter"
       },
       {
         "ingredient": "Light coconut milk (canned)",
-        "qty": 0.25,
+        "qty": 0.75,
         "note": "cup"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Baby spinach",
-        "qty": 200,
+        "qty": 250,
         "note": "standing in for cassava leaves"
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Frozen shrimp",
+        "qty": 150,
+        "note": "peeled"
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 50,
+        "note": "ground fresh into a coarse peanut butter"
       },
       {
         "ingredient": "Light coconut milk (canned)",
-        "qty": 0.25,
+        "qty": 0.75,
         "note": "cup"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the garlic in a little oil 30 seconds.",
-      "Whisk in the peanut butter gradually, then the coconut milk, keeping the sauce smooth.",
-      "Add the spinach and simmer 15-18 minutes until well combined and thickened."
+      [
+        "Simmer the spinach with the garlic and a pinch of salt in a little water until the greens are very soft and almost sticky, about 15 minutes.",
+        "Grind the roasted peanuts as finely as possible and mix with a little of the coconut milk to form a smooth paste.",
+        "Add the peanut paste and remaining coconut milk to the greens, stirring until fully combined.",
+        "Simmer gently, uncovered, 45-60 minutes, stirring occasionally and adding a splash of water if it gets too thick - this real long simmer is what melds everything into matapa's genuine thick, cohesive texture.",
+        "Add the shrimp in the last 8-10 minutes and simmer until just pink and cooked through."
+      ]
     ],
     "steps": [
-      "Cook the garlic in a little oil 30 seconds.",
-      "Whisk in the peanut butter gradually, then the coconut milk, keeping the sauce smooth.",
-      "Add the spinach and simmer 15-18 minutes until well combined and thickened."
+      [
+        "Simmer the spinach with the garlic and a pinch of salt in a little water until the greens are very soft and almost sticky, about 15 minutes.",
+        "Grind the roasted peanuts as finely as possible and mix with a little of the coconut milk to form a smooth paste.",
+        "Add the peanut paste and remaining coconut milk to the greens, stirring until fully combined.",
+        "Simmer gently, uncovered, 45-60 minutes, stirring occasionally and adding a splash of water if it gets too thick - this real long simmer is what melds everything into matapa's genuine thick, cohesive texture.",
+        "Add the shrimp in the last 8-10 minutes and simmer until just pink and cooked through."
+      ]
     ],
     "tags": []
   },
@@ -188,7 +216,7 @@
     "cuisine": "mozambican",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Camar\u00e3o \u00e0 mo\u00e7ambicana, shrimp simmered in a coconut-piri piri sauce, reflects Mozambique's Indian Ocean coastal tradition and real Portuguese culinary influence.",
+    "description": "Camar\u00e3o \u00e0 mo\u00e7ambicana, shrimp simmered in a garlicky butter and wine sauce spiked with real piri piri, reflects Mozambique's real Portuguese-colonial fusion cooking - real technique is genuinely garlic-forward, built on real butter alongside oil and a splash of white wine, not primarily a coconut sauce.",
     "ingredients_full": [
       {
         "ingredient": "Frozen shrimp",
@@ -196,9 +224,24 @@
         "note": "peeled"
       },
       {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced, generous"
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, white",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Jalapeno pepper",
@@ -206,9 +249,9 @@
         "note": "standing in for African bird's eye chili"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped, standing in for parsley"
       }
     ],
     "ingredients": [
@@ -218,9 +261,24 @@
         "note": "peeled"
       },
       {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced, generous"
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, white",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Jalapeno pepper",
@@ -228,20 +286,26 @@
         "note": "standing in for African bird's eye chili"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped, standing in for parsley"
       }
     ],
     "steps_detailed": [
-      "Cook the garlic and jalape\u00f1o in a little oil 1 minute.",
-      "Add the coconut milk and simmer 5 minutes.",
-      "Add the shrimp and simmer 3-4 minutes until just pink, taking care not to overcook."
+      [
+        "Cook the garlic and jalape\u00f1o in the butter and olive oil over medium heat, 1-2 minutes, being generous with the garlic - this real garlic-forward base defines the dish.",
+        "Add the wine and let it bubble and reduce for 1-2 minutes.",
+        "Add the shrimp and cook, stirring, 3-4 minutes, until just pink and cooked through.",
+        "Stir in the cilantro just before serving."
+      ]
     ],
     "steps": [
-      "Cook the garlic and jalape\u00f1o in a little oil 1 minute.",
-      "Add the coconut milk and simmer 5 minutes.",
-      "Add the shrimp and simmer 3-4 minutes until just pink, taking care not to overcook."
+      [
+        "Cook the garlic and jalape\u00f1o in the butter and olive oil over medium heat, 1-2 minutes, being generous with the garlic - this real garlic-forward base defines the dish.",
+        "Add the wine and let it bubble and reduce for 1-2 minutes.",
+        "Add the shrimp and cook, stirring, 3-4 minutes, until just pink and cooked through.",
+        "Stir in the cilantro just before serving."
+      ]
     ],
     "tags": []
   },

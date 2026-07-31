@@ -4,7 +4,7 @@
     "cuisine": "malagasy",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Romazava, a leafy green and meat broth, is widely considered Madagascar's national dish - real romazava uses several specific local greens together, which aren't distinct items here, so this leans on spinach and kale for a similar leafy character, real technique simmering the meat long enough to build real broth depth before the greens go in.",
+    "description": "Romazava, a clear, gently simmered beef and greens stew, is genuinely Madagascar's national dish - real tomatoes and ginger are core, defining ingredients that were missing here before, not optional extras. Real romazava also depends on br\u00e8des mafana, a real leaf with a distinctive tingling, mouth-numbing sensation similar to Szechuan peppercorn - spinach and kale stand in here for the leafy character, but they're honestly missing that real, defining tingle entirely.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -23,12 +23,17 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Fresh ginger",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "tsp, grated"
       },
       {
@@ -55,12 +60,17 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Fresh ginger",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "tsp, grated"
       },
       {
@@ -70,12 +80,22 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the beef with the onion, ginger, and garlic in 2 cups water 30-35 minutes until tender and the broth has real depth.",
-      "Add the spinach and kale, and simmer 8-10 minutes until wilted."
+      [
+        "Brown the beef, 6-7 minutes, then set aside.",
+        "Cook the onion, garlic, and ginger in the same pot, 4-5 minutes, until fragrant.",
+        "Add the tomatoes and cook until they soften and release their juices, 4-5 minutes.",
+        "Return the beef with enough water to just cover, and simmer 30-35 minutes until tender.",
+        "Add the spinach and kale, and simmer 8-10 minutes until wilted."
+      ]
     ],
     "steps": [
-      "Simmer the beef with the onion, ginger, and garlic in 2 cups water 30-35 minutes until tender and the broth has real depth.",
-      "Add the spinach and kale, and simmer 8-10 minutes until wilted."
+      [
+        "Brown the beef, 6-7 minutes, then set aside.",
+        "Cook the onion, garlic, and ginger in the same pot, 4-5 minutes, until fragrant.",
+        "Add the tomatoes and cook until they soften and release their juices, 4-5 minutes.",
+        "Return the beef with enough water to just cover, and simmer 30-35 minutes until tender.",
+        "Add the spinach and kale, and simmer 8-10 minutes until wilted."
+      ]
     ],
     "tags": []
   },
@@ -84,7 +104,7 @@
     "cuisine": "malagasy",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Vary amin'anana, rice cooked together with greens and meat into a thick, porridge-like dish, is a genuine Malagasy comfort food, real greens simmered directly into the rice rather than served alongside.",
+    "description": "Vary amin'anana, rice cooked together with greens and meat into a thick, porridge-like dish, is a genuine Malagasy comfort food often eaten for breakfast - real tomato, garlic, and ginger form the aromatic base every source builds this dish on, which were missing here before.",
     "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
@@ -105,6 +125,21 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
       }
     ],
     "ingredients": [
@@ -127,17 +162,38 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the rice and 2.5 cups water, and simmer 18-20 minutes, stirring occasionally.",
-      "Stir in the spinach in the last 5 minutes until wilted and the rice is thick and porridge-like."
+      [
+        "Brown the beef with the onion, garlic, and ginger, 6-7 minutes.",
+        "Add the tomatoes and cook until they soften, 3-4 minutes.",
+        "Add the rice and 2.5 cups water, and simmer 18-20 minutes, stirring occasionally.",
+        "Stir in the spinach in the last 5 minutes until wilted and the rice is thick and porridge-like."
+      ]
     ],
     "steps": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the rice and 2.5 cups water, and simmer 18-20 minutes, stirring occasionally.",
-      "Stir in the spinach in the last 5 minutes until wilted and the rice is thick and porridge-like."
+      [
+        "Brown the beef with the onion, garlic, and ginger, 6-7 minutes.",
+        "Add the tomatoes and cook until they soften, 3-4 minutes.",
+        "Add the rice and 2.5 cups water, and simmer 18-20 minutes, stirring occasionally.",
+        "Stir in the spinach in the last 5 minutes until wilted and the rice is thick and porridge-like."
+      ]
     ],
     "tags": []
   },
