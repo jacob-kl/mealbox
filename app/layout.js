@@ -1,4 +1,5 @@
 import './globals.css';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata = {
   title: 'Mealbox — Weekly Meal Planning',
@@ -26,6 +27,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className="font-body min-h-screen text-ink">
         {children}
+        <SpeedInsights />
       </body>
     </html>
   );
