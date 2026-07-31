@@ -1,18 +1,14 @@
 [
   {
-    "name": "Libyan Bazin",
+    "name": "Libyan Sharba Libiya",
     "cuisine": "libyan",
     "meal_type": "dinner",
-    "description": "Bazin, a firm, dome-shaped barley dough served with a well of meat stew poured over the top, is widely considered Libya's national dish, traditionally eaten by hand from the shared dome.",
+    "course": "complete",
+    "description": "Sharba Libiya, Libya's national soup and the centerpiece of every Ramadan table, is genuinely heavily spiced - real recipes describe it as a dish where 'more truly is more' with the spice blend (bzar/hararat), not a place to hold back. Fresh dried mint rubbed between the palms directly into the pot right at the end is a real, essential finishing touch, not a garnish.",
     "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
         "ingredient": "Ground lamb",
-        "qty": 150,
+        "qty": 200,
         "note": ""
       },
       {
@@ -21,20 +17,65 @@
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
+        "ingredient": "Tomato paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.75,
+        "note": "a full, heaping teaspoon - don't hold back, real versions are heavily spiced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
         "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 40,
+        "note": "standing in for lisan asfour/orzo"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 2,
+        "note": "tbsp, chopped, generous - crumbled in at the end, a defining and essential finishing step"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
         "ingredient": "Ground lamb",
-        "qty": 150,
+        "qty": 200,
         "note": ""
       },
       {
@@ -43,83 +84,158 @@
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
+        "ingredient": "Tomato paste",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.75,
+        "note": "a full, heaping teaspoon - don't hold back, real versions are heavily spiced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
         "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 40,
+        "note": "standing in for lisan asfour/orzo"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 2,
+        "note": "tbsp, chopped, generous - crumbled in at the end, a defining and essential finishing step"
       }
     ],
     "steps_detailed": [
-      "Mix the flour with boiling water into a very firm, smooth dough, kneading until it holds a dome shape.",
-      "Brown the lamb with the cumin, 6-7 minutes, then add the tomatoes and simmer 15-18 minutes.",
-      "Shape the dough into a dome on a serving plate and pour the stew into a well at the center."
+      "Brown the lamb with the onion, 6-7 minutes.",
+      "Add the tomato paste and cook 2 minutes, then add the tomatoes, turmeric, pepper, paprika, cinnamon, cardamom, and cloves - be genuinely generous with the spices here, real sharba is boldly seasoned, not lightly touched.",
+      "Add the chickpeas and 3 cups water, and simmer 30-35 minutes until the lamb is tender.",
+      "Add the pasta and simmer 12-15 minutes until tender.",
+      "Turn off the heat and rub the dried mint between your palms directly into the pot - this real finishing step is what defines sharba's aroma."
     ],
     "steps": [
-      "Mix the flour with boiling water into a very firm, smooth dough, kneading until it holds a dome shape.",
-      "Brown the lamb with the cumin, 6-7 minutes, then add the tomatoes and simmer 15-18 minutes.",
-      "Shape the dough into a dome on a serving plate and pour the stew into a well at the center."
+      "Brown the lamb with the onion, 6-7 minutes.",
+      "Add the tomato paste and cook 2 minutes, then add the tomatoes, turmeric, pepper, paprika, cinnamon, cardamom, and cloves - be genuinely generous with the spices here, real sharba is boldly seasoned, not lightly touched.",
+      "Add the chickpeas and 3 cups water, and simmer 30-35 minutes until the lamb is tender.",
+      "Add the pasta and simmer 12-15 minutes until tender.",
+      "Turn off the heat and rub the dried mint between your palms directly into the pot - this real finishing step is what defines sharba's aroma."
     ],
     "tags": []
   },
   {
-    "name": "Libyan Shorba Libiya",
+    "name": "Libyan Bazin",
     "cuisine": "libyan",
     "meal_type": "dinner",
-    "description": "Shorba libiya, a spiced lamb and tomato soup with orzo-like pasta and mint, is a beloved Libyan dish, especially eaten to break the fast during Ramadan.",
+    "course": "complete",
+    "description": "Bazin, a dense, unleavened dough mound served with a spiced meat sauce, is Libya's most traditional communal dish, real technique kneading the dough hard and long to build its dense, real elastic texture.",
     "ingredients_full": [
       {
-        "ingredient": "Ground lamb",
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
         "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Orzo (dry)",
-        "qty": 30,
-        "note": ""
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": "a generous, heaping half-teaspoon"
       },
       {
-        "ingredient": "Spearmint, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp, generous"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Ground lamb",
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
         "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Orzo (dry)",
-        "qty": 30,
-        "note": ""
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": "a generous, heaping half-teaspoon"
       },
       {
-        "ingredient": "Spearmint, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp, generous"
       }
     ],
     "steps_detailed": [
-      "Brown the lamb, 6-7 minutes.",
-      "Add the tomatoes and 2 cups water, and simmer 15 minutes.",
-      "Add the orzo and simmer 8-10 minutes until tender.",
-      "Stir in the mint before serving."
+      "Knead the flour, salt, and water into a very stiff, dense dough, working it hard for several minutes until smooth.",
+      "Steam or boil the dough ball until firm all the way through, 25-30 minutes.",
+      "Brown the beef, then add the tomatoes, turmeric, and cumin, being generous with both spices, and simmer 20-22 minutes.",
+      "Shape the bazin dough into a mound and serve the sauce poured over and around it."
     ],
     "steps": [
-      "Brown the lamb, 6-7 minutes.",
-      "Add the tomatoes and 2 cups water, and simmer 15 minutes.",
-      "Add the orzo and simmer 8-10 minutes until tender.",
-      "Stir in the mint before serving."
+      "Knead the flour, salt, and water into a very stiff, dense dough, working it hard for several minutes until smooth.",
+      "Steam or boil the dough ball until firm all the way through, 25-30 minutes.",
+      "Brown the beef, then add the tomatoes, turmeric, and cumin, being generous with both spices, and simmer 20-22 minutes.",
+      "Shape the bazin dough into a mound and serve the sauce poured over and around it."
     ],
     "tags": []
   },
@@ -127,7 +243,8 @@
     "name": "Libyan Couscous",
     "cuisine": "libyan",
     "meal_type": "dinner",
-    "description": "Couscous, tiny steamed semolina granules topped with a vegetable and meat stew, is a beloved Libyan staple, genuinely distinct from its Maghrebi neighbors through its own regional spicing.",
+    "course": "complete",
+    "description": "Libyan couscous, real technique steaming the grains two or three times with fluffing between each round, is a beloved dish especially for Friday family lunches, real spicing here bold rather than restrained.",
     "ingredients_full": [
       {
         "ingredient": "Couscous, dry",
@@ -145,14 +262,19 @@
         "note": ""
       },
       {
-        "ingredient": "Squash, winter, acorn, cooked, baked, without salt",
-        "qty": 60,
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "a full half-teaspoon"
       }
     ],
     "ingredients": [
@@ -172,48 +294,71 @@
         "note": ""
       },
       {
-        "ingredient": "Squash, winter, acorn, cooked, baked, without salt",
-        "qty": 60,
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "a full half-teaspoon"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken, carrot, squash, and cumin in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and broth over the couscous."
+      "Simmer the chicken, carrot, chickpeas, cumin, and turmeric in 1.5 cups water 25-28 minutes until the chicken is tender - be generous with both spices.",
+      "Toss the dry couscous with a little oil and water.",
+      "Steam over the simmering stew 10 minutes, then fluff and steam again 8-10 minutes for properly light, separate grains.",
+      "Serve the stew and broth over the finished couscous."
     ],
     "steps": [
-      "Simmer the chicken, carrot, squash, and cumin in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and broth over the couscous."
+      "Simmer the chicken, carrot, chickpeas, cumin, and turmeric in 1.5 cups water 25-28 minutes until the chicken is tender - be generous with both spices.",
+      "Toss the dry couscous with a little oil and water.",
+      "Steam over the simmering stew 10 minutes, then fluff and steam again 8-10 minutes for properly light, separate grains.",
+      "Serve the stew and broth over the finished couscous."
     ],
     "tags": []
   },
   {
-    "name": "Libyan Shakshuka",
+    "name": "Libyan Hararat Spice Blend",
     "cuisine": "libyan",
-    "meal_type": "breakfast",
-    "description": "Shakshuka, eggs poached in a spiced tomato sauce, shared across the wider North African region, a common Libyan breakfast.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Hararat (also called bzar), Libya's essential all-purpose spice blend, is genuinely built from equal parts of several warming spices together - real Libyan cooks use this generously throughout their cooking, not sparingly.",
     "ingredients_full": [
       {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
+        "ingredient": "Black pepper (ground)",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Ground ginger",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Ground cumin",
@@ -223,19 +368,34 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
+        "ingredient": "Black pepper (ground)",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Ground ginger",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Ground cumin",
@@ -244,14 +404,10 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the tomatoes, bell pepper, and cumin 10-12 minutes into a thick sauce.",
-      "Make wells and crack the eggs in.",
-      "Cover and cook 5-6 minutes until the whites are set."
+      "Mix all the spices together thoroughly in equal-ish parts - this is a bold blend meant to be used generously, not held back."
     ],
     "steps": [
-      "Simmer the tomatoes, bell pepper, and cumin 10-12 minutes into a thick sauce.",
-      "Make wells and crack the eggs in.",
-      "Cover and cook 5-6 minutes until the whites are set."
+      "Mix all the spices together thoroughly in equal-ish parts - this is a bold blend meant to be used generously, not held back."
     ],
     "tags": []
   },
@@ -259,12 +415,13 @@
     "name": "Libyan Mbatten",
     "cuisine": "libyan",
     "meal_type": "dinner",
-    "description": "Mbatten, a layered eggplant and meat casserole with egg custard on top, a genuine Libyan specialty, similar in spirit to Greek moussaka.",
+    "course": "complete",
+    "description": "Mbatten, a layered fried potato and meat pie, is a beloved Libyan dish, real technique frying the potato layers until fully golden before assembling so the final dish isn't soggy.",
     "ingredients_full": [
       {
-        "ingredient": "Eggplant, raw",
-        "qty": 200,
-        "note": "sliced"
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "thinly sliced"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -277,16 +434,21 @@
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Eggplant, raw",
-        "qty": 200,
-        "note": "sliced"
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "thinly sliced"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -299,116 +461,9 @@
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Salt the eggplant slices and let sit 15 minutes, then pat dry and pan-fry until golden, 6-7 minutes.",
-      "Brown the beef with the tomatoes, 8-9 minutes.",
-      "Layer the eggplant and beef in a baking dish, pour the beaten egg over the top.",
-      "Bake at 375F (190C) for 20-22 minutes until the egg is set and golden."
-    ],
-    "steps": [
-      "Salt the eggplant slices and let sit 15 minutes, then pat dry and pan-fry until golden, 6-7 minutes.",
-      "Brown the beef with the tomatoes, 8-9 minutes.",
-      "Layer the eggplant and beef in a baking dish, pour the beaten egg over the top.",
-      "Bake at 375F (190C) for 20-22 minutes until the egg is set and golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Libyan Asida",
-    "cuisine": "libyan",
-    "meal_type": "snack",
-    "description": "Asida, a smooth wheat porridge served with a well of butter and honey or date syrup, a genuine Libyan celebration dish, especially for childbirth and holidays.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the flour into 1.5 cups boiling water and cook, stirring constantly, 10-12 minutes until thick and smooth.",
-      "Serve with a well of melted butter and honey poured over the top."
-    ],
-    "steps": [
-      "Whisk the flour into 1.5 cups boiling water and cook, stirring constantly, 10-12 minutes until thick and smooth.",
-      "Serve with a well of melted butter and honey poured over the top."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Libyan Batata Mubattana",
-    "cuisine": "libyan",
-    "meal_type": "snack",
-    "description": "Batata mubattana, potato slices sandwiched around spiced meat and fried, a beloved Libyan snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
         "ingredient": "Ground cumin",
         "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, generous"
       },
       {
         "ingredient": "Vegetable oil",
@@ -417,120 +472,226 @@
       }
     ],
     "steps_detailed": [
+      "Fry the potato slices until golden on both sides, 6-8 minutes total, then set aside.",
       "Brown the beef with the cumin, 6-7 minutes.",
-      "Sandwich the filling between two potato slices.",
-      "Fry, turning, 4-5 minutes per side, until the potato is golden and cooked through."
+      "Layer the fried potato and beef in a dish, pour the beaten egg over the top, and bake at 375F (190C) for 15-18 minutes until set."
     ],
     "steps": [
+      "Fry the potato slices until golden on both sides, 6-8 minutes total, then set aside.",
       "Brown the beef with the cumin, 6-7 minutes.",
-      "Sandwich the filling between two potato slices.",
-      "Fry, turning, 4-5 minutes per side, until the potato is golden and cooked through."
+      "Layer the fried potato and beef in a dish, pour the beaten egg over the top, and bake at 375F (190C) for 15-18 minutes until set."
     ],
     "tags": []
   },
   {
-    "name": "Libyan Hummus",
+    "name": "Libyan Brik (Egg Pastry)",
     "cuisine": "libyan",
     "meal_type": "lunch",
-    "description": "A simple hummus, built on real tahini, widely eaten across Libya and the wider region.",
+    "course": "complete",
+    "description": "Brik, a crispy fried pastry with a soft egg center, shared with neighboring Tunisia, a beloved Libyan snack especially during Ramadan.",
     "ingredients_full": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
+        "ingredient": "Phyllo dough",
+        "qty": 2,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Tahini",
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
         "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
+        "ingredient": "Phyllo dough",
+        "qty": 2,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Tahini",
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
         "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Blend everything with a splash of water until smooth."
+      "Spoon the tuna onto a phyllo sheet, make a well, and crack the egg into it.",
+      "Fold into a triangle immediately, sealing carefully so the yolk stays intact.",
+      "Fry, 1-2 minutes per side, until golden - the yolk should stay soft inside."
     ],
     "steps": [
-      "Blend everything with a splash of water until smooth."
+      "Spoon the tuna onto a phyllo sheet, make a well, and crack the egg into it.",
+      "Fold into a triangle immediately, sealing carefully so the yolk stays intact.",
+      "Fry, 1-2 minutes per side, until golden - the yolk should stay soft inside."
     ],
     "tags": []
   },
   {
-    "name": "Libyan Roasted Chickpea Snack",
+    "name": "Libyan Grilled Lamb",
     "cuisine": "libyan",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Libya.",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled lamb seasoned generously with real hararat spice, a beloved Libyan dish for gatherings, real technique not skimping on the spice rub.",
     "ingredients_full": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "Ground lamb",
         "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
+        "note": "formed into patties"
       },
       {
         "ingredient": "Ground cumin",
         "qty": 0.75,
-        "note": "tsp"
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "Ground lamb",
         "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
+        "note": "formed into patties"
       },
       {
         "ingredient": "Ground cumin",
         "qty": 0.75,
-        "note": "tsp"
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Mix the lamb with the cumin, paprika, and garlic, being generous with the spice rather than restrained.",
+      "Grill or pan-sear, 4-5 minutes per side, until well charred and cooked through."
     ],
     "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Mix the lamb with the cumin, paprika, and garlic, being generous with the spice rather than restrained.",
+      "Grill or pan-sear, 4-5 minutes per side, until well charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Libyan Roasted Almonds",
+    "cuisine": "libyan",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Libya.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.0625,
+        "note": "pinch"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.0625,
+        "note": "pinch"
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan, stirring constantly, 4-5 minutes, until fragrant.",
+      "Toss with the salt while still warm."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan, stirring constantly, 4-5 minutes, until fragrant.",
+      "Toss with the salt while still warm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Libyan Mint Tea",
+    "cuisine": "libyan",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Mint tea, sweetened green tea steeped with real fresh mint, is central to Libyan hospitality, shared with the wider Maghreb tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.25,
+        "note": "cup, generously packed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.25,
+        "note": "cup, generously packed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the tea with the mint 5 minutes, packing in a generous amount of mint rather than a token sprig.",
+      "Stir in the sugar until dissolved."
+    ],
+    "steps": [
+      "Warm the tea with the mint 5 minutes, packing in a generous amount of mint rather than a token sprig.",
+      "Stir in the sugar until dissolved."
     ],
     "tags": []
   },
@@ -538,6 +699,7 @@
     "name": "Libyan Cucumber Tomato Salad",
     "cuisine": "libyan",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Libyan meal.",
     "ingredients_full": [
       {
@@ -592,237 +754,52 @@
     "tags": []
   },
   {
-    "name": "Libyan Makroudh",
+    "name": "Libyan Roasted Chickpea Snack",
     "cuisine": "libyan",
     "meal_type": "snack",
-    "description": "Makroudh, semolina pastries filled with dates and soaked in honey, a beloved sweet shared with the wider Maghreb.",
+    "course": "complete",
+    "description": "A simple roasted chickpea snack, real versions generously spiced with cumin rather than lightly dusted.",
     "ingredients_full": [
       {
-        "ingredient": "Semolina, enriched",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 30,
-        "note": "pitted and chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Semolina, enriched",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 30,
-        "note": "pitted and chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the semolina and melted butter with a little water into a firm dough.",
-      "Flatten, place the chopped dates in the center, and fold to seal.",
-      "Bake at 350F (175C) for 20-22 minutes until golden.",
-      "Soak in warm honey while still warm."
-    ],
-    "steps": [
-      "Mix the semolina and melted butter with a little water into a firm dough.",
-      "Flatten, place the chopped dates in the center, and fold to seal.",
-      "Bake at 350F (175C) for 20-22 minutes until golden.",
-      "Soak in warm honey while still warm."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Libyan Roasted Almonds",
-    "cuisine": "libyan",
-    "meal_type": "snack",
-    "description": "A simple roasted almond snack, common across Libya and the wider Maghreb.",
-    "ingredients_full": [
-      {
-        "ingredient": "Almonds",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Almonds",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
-    ],
-    "steps": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Libyan Mint Tea",
-    "cuisine": "libyan",
-    "meal_type": "snack",
-    "description": "Mint tea, sweetened green tea steeped with fresh mint, is central to Libyan hospitality, shared with the wider Maghreb tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Beverages, tea, green, brewed, regular",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Spearmint, fresh",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Beverages, tea, green, brewed, regular",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Spearmint, fresh",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the tea with the mint 5 minutes.",
-      "Stir in the sugar until dissolved."
-    ],
-    "steps": [
-      "Warm the tea with the mint 5 minutes.",
-      "Stir in the sugar until dissolved."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Libyan Grilled Lamb Chops",
-    "cuisine": "libyan",
-    "meal_type": "dinner",
-    "description": "Grilled lamb chops, marinated in garlic and cumin, a beloved Libyan dish, especially for gatherings.",
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
-        "note": "formed into patties"
+        "note": "patted very dry"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "qty": 1,
+        "note": "tsp, generous"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Ground lamb",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
-        "note": "formed into patties"
+        "note": "patted very dry"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "qty": 1,
+        "note": "tsp, generous"
       }
     ],
     "steps_detailed": [
-      "Mix the lamb with the garlic and cumin, and shape into patties.",
-      "Grill or pan-fry, 4-5 minutes per side, until cooked through."
+      "Toss the well-dried chickpeas with the oil and cumin, being generous with the spice.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking halfway, until deeply golden and crisp."
     ],
     "steps": [
-      "Mix the lamb with the garlic and cumin, and shape into patties.",
-      "Grill or pan-fry, 4-5 minutes per side, until cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Libyan Orange Salad",
-    "cuisine": "libyan",
-    "meal_type": "snack",
-    "description": "A simple, fragrant orange and cinnamon salad, a classic Maghrebi dessert or palate cleanser.",
-    "ingredients_full": [
-      {
-        "ingredient": "Orange",
-        "qty": 1,
-        "note": "peeled and sliced"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Orange",
-        "qty": 1,
-        "note": "peeled and sliced"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
-    ],
-    "steps": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Toss the well-dried chickpeas with the oil and cumin, being generous with the spice.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking halfway, until deeply golden and crisp."
     ],
     "tags": []
   },
@@ -830,7 +807,8 @@
     "name": "Libyan Beef and Chickpea Stew",
     "cuisine": "libyan",
     "meal_type": "dinner",
-    "description": "A simple, hearty beef and chickpea stew, common Libyan home cooking.",
+    "course": "complete",
+    "description": "A simple, hearty beef and chickpea stew, common Libyan home cooking, real versions generously spiced with cumin and turmeric.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -845,6 +823,16 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
         "note": ""
       }
     ],
@@ -863,72 +851,232 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
       }
     ],
     "steps_detailed": [
       "Brown the beef, 8-9 minutes.",
-      "Add the chickpeas and tomatoes, and simmer 25-30 minutes until tender."
+      "Add the chickpeas, tomatoes, cumin, and turmeric, being generous with the spice, and simmer 25-30 minutes until tender."
     ],
     "steps": [
       "Brown the beef, 8-9 minutes.",
-      "Add the chickpeas and tomatoes, and simmer 25-30 minutes until tender."
+      "Add the chickpeas, tomatoes, cumin, and turmeric, being generous with the spice, and simmer 25-30 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Libyan Pumpkin Soup",
+    "name": "Libyan Orange Salad",
     "cuisine": "libyan",
-    "meal_type": "lunch",
-    "description": "A simple, spiced squash soup, built on real winter squash standing in for the pumpkin used in real Libyan cooking.",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple, fragrant orange and cinnamon salad, a classic Maghrebi dessert, real versions generously dusted with cinnamon rather than a light sprinkle.",
     "ingredients_full": [
       {
-        "ingredient": "Squash, winter, acorn, cooked, baked, without salt",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken broth",
+        "ingredient": "Orange",
         "qty": 1,
-        "note": "cup"
+        "note": "peeled and sliced"
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Squash, winter, acorn, cooked, baked, without salt",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken broth",
+        "ingredient": "Orange",
         "qty": 1,
-        "note": "cup"
+        "note": "peeled and sliced"
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Blend the squash with the broth and cumin until smooth.",
-      "Warm through in a pot 5-6 minutes."
+      "Arrange the orange slices, dust generously with cinnamon, and drizzle with honey."
     ],
     "steps": [
-      "Blend the squash with the broth and cumin until smooth.",
-      "Warm through in a pot 5-6 minutes."
+      "Arrange the orange slices, dust generously with cinnamon, and drizzle with honey."
     ],
     "tags": []
   },
   {
-    "name": "Libyan Tomato Cumin Sauce",
+    "name": "Libyan Roasted Peanuts",
+    "cuisine": "libyan",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, common across Libya.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Libyan Fish Stew",
     "cuisine": "libyan",
     "meal_type": "dinner",
-    "description": "A simple tomato-cumin sauce base, used across many Libyan stews and couscous dishes.",
+    "course": "complete",
+    "description": "A simple tomato-based fish stew, common Libyan coastal home cooking, real versions generously spiced with cumin and paprika.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes, cumin, and paprika 8-10 minutes, being generous with both spices.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Simmer the tomatoes, cumin, and paprika 8-10 minutes, being generous with both spices.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Libyan Semolina Cake (Basbousa-Style)",
+    "cuisine": "libyan",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A syrup-soaked semolina cake, shared across the wider North African and Eastern Mediterranean region.",
+    "ingredients_full": [
+      {
+        "ingredient": "Semolina, enriched",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, for the syrup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Semolina, enriched",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, for the syrup"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the semolina, sugar, and melted butter into a batter.",
+      "Bake at 350F (175C) for 20-22 minutes until golden.",
+      "Drizzle the honey over while still warm."
+    ],
+    "steps": [
+      "Mix the semolina, sugar, and melted butter into a batter.",
+      "Bake at 350F (175C) for 20-22 minutes until golden.",
+      "Drizzle the honey over while still warm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Libyan Tomato Hararat Sauce",
+    "cuisine": "libyan",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple tomato sauce built with real hararat spice, used across many Libyan dishes, real versions generously spiced.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -938,7 +1086,12 @@
       {
         "ingredient": "Ground cumin",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
       },
       {
         "ingredient": "Olive oil",
@@ -955,7 +1108,12 @@
       {
         "ingredient": "Ground cumin",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
       },
       {
         "ingredient": "Olive oil",
@@ -964,57 +1122,58 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Simmer everything together 12-15 minutes until thickened, being generous with the spices."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Simmer everything together 12-15 minutes until thickened, being generous with the spices."
     ],
     "tags": []
   },
   {
     "name": "Libyan Garlic Cumin Sauce",
     "cuisine": "libyan",
-    "meal_type": "lunch",
-    "description": "A simple garlic-cumin sauce, common across Libyan grilled and roasted dishes.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple garlic-cumin sauce, common across Libyan grilled and roasted dishes, real versions bold with cumin.",
     "ingredients_full": [
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp, generous"
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp, generous"
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Whisk everything together."
+      "Whisk everything together, being generous with the cumin rather than restrained."
     ],
     "steps": [
-      "Whisk everything together."
+      "Whisk everything together, being generous with the cumin rather than restrained."
     ],
     "tags": []
   }
