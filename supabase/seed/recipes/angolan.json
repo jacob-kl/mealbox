@@ -3,7 +3,8 @@
     "name": "Angolan Muamba de Galinha",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "Muamba de galinha, chicken stewed in real palm nut sauce, is widely considered Angola's national dish - real palm nut cream isn't a distinct item here, so peanut butter stands in for a similarly rich, reddish sauce, though the specific palm flavor is honestly different.",
+    "course": "complete",
+    "description": "Muamba de galinha is Angola's national dish, and despite sharing a name with Congolese moambe, real Angolan muamba is built differently - it skips peanuts entirely, getting its nutty depth purely from real red palm oil, with butternut squash and okra as genuine, defining vegetables, not optional additions. Real technique marinates the chicken in lemon and garlic first, then browns it in the palm oil before the vegetables go in.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -11,24 +12,44 @@
         "note": ""
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2.5,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Okra",
-        "qty": 60,
-        "note": "sliced"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for gindungo pepper"
+      },
+      {
+        "ingredient": "Butternut squash",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 100,
+        "note": "sliced"
       }
     ],
     "ingredients": [
@@ -38,35 +59,59 @@
         "note": ""
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2.5,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Okra",
-        "qty": 60,
-        "note": "sliced"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": "standing in for gindungo pepper"
+      },
+      {
+        "ingredient": "Butternut squash",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 100,
+        "note": "sliced"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the garlic, 8-9 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
-      "Add the okra and simmer 20-22 minutes until the chicken is tender and the okra has thickened the sauce."
+      "Marinate the chicken in the lemon juice and garlic for at least 15 minutes.",
+      "Brown the chicken in the palm oil, 6-7 minutes.",
+      "Add the onion, tomatoes, and jalape\u00f1o, and cook 4-5 minutes.",
+      "Add the squash and enough water to just cover, and simmer 20 minutes until the squash is nearly tender.",
+      "Add the okra and simmer 8-10 minutes more, until the chicken and squash are both fully tender and the sauce has thickened from the okra."
     ],
     "steps": [
-      "Brown the chicken with the garlic, 8-9 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
-      "Add the okra and simmer 20-22 minutes until the chicken is tender and the okra has thickened the sauce."
+      "Marinate the chicken in the lemon juice and garlic for at least 15 minutes.",
+      "Brown the chicken in the palm oil, 6-7 minutes.",
+      "Add the onion, tomatoes, and jalape\u00f1o, and cook 4-5 minutes.",
+      "Add the squash and enough water to just cover, and simmer 20 minutes until the squash is nearly tender.",
+      "Add the okra and simmer 8-10 minutes more, until the chicken and squash are both fully tender and the sauce has thickened from the okra."
     ],
     "tags": []
   },
@@ -74,28 +119,39 @@
     "name": "Angolan Funge",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "Funge, a smooth, stretchy cassava porridge, is Angola's most essential staple starch, traditionally eaten by hand alongside stews.",
+    "course": "side",
+    "description": "Funge, a stiff cassava or cornmeal porridge, is Angola's most essential staple starch, traditionally the accompaniment to muamba de galinha, real technique beating it hard while cooking to build a smooth, cohesive dough rather than a lumpy mush.",
     "ingredients_full": [
       {
-        "ingredient": "Cassava",
-        "qty": 200,
-        "note": "grated"
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Cassava",
-        "qty": 200,
-        "note": "grated"
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the grated cassava into 1.5 cups boiling water.",
-      "Cook, stirring constantly, over medium heat 15-18 minutes until thick, smooth, and stretchy."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring vigorously and continuously, over medium-low heat 15-18 minutes, until very thick, smooth, and pulls away from the sides of the pot."
     ],
     "steps": [
-      "Whisk the grated cassava into 1.5 cups boiling water.",
-      "Cook, stirring constantly, over medium heat 15-18 minutes until thick, smooth, and stretchy."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring vigorously and continuously, over medium-low heat 15-18 minutes, until very thick, smooth, and pulls away from the sides of the pot."
     ],
     "tags": []
   },
@@ -103,12 +159,18 @@
     "name": "Angolan Calulu",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "Calulu, dried fish and vegetables stewed with real okra, is one of Angola's most iconic dishes, often made with a mix of fresh and preserved fish.",
+    "course": "complete",
+    "description": "Calulu, dried fish and vegetables stewed in real palm oil, is one of Angola's most beloved traditional dishes, real versions built on a real mix of vegetables (here squash and okra) rather than just one.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Butternut squash",
+        "qty": 100,
+        "note": "cubed"
       },
       {
         "ingredient": "Okra",
@@ -117,20 +179,30 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Sweet potato",
-        "qty": 100,
-        "note": "cubed"
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Butternut squash",
+        "qty": 100,
+        "note": "cubed"
       },
       {
         "ingredient": "Okra",
@@ -139,79 +211,86 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Sweet potato",
-        "qty": 100,
-        "note": "cubed"
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Simmer the sweet potato in the tomatoes and a splash of water 10 minutes.",
-      "Add the fish and okra, and simmer 12-15 minutes until the fish is cooked through and the sauce has thickened."
+      "Cook the garlic in the palm oil 1 minute.",
+      "Add the tomatoes and squash, and simmer 15-18 minutes until the squash is nearly tender.",
+      "Add the fish and okra, and simmer 8-10 minutes more until everything is tender."
     ],
     "steps": [
-      "Simmer the sweet potato in the tomatoes and a splash of water 10 minutes.",
-      "Add the fish and okra, and simmer 12-15 minutes until the fish is cooked through and the sauce has thickened."
+      "Cook the garlic in the palm oil 1 minute.",
+      "Add the tomatoes and squash, and simmer 15-18 minutes until the squash is nearly tender.",
+      "Add the fish and okra, and simmer 8-10 minutes more until everything is tender."
     ],
     "tags": []
   },
   {
-    "name": "Angolan Moamba de Peixe",
+    "name": "Angolan Palm Oil Beans",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "A fish version of Angola's iconic palm-nut moamba, real peanut butter giving it its characteristic rich, reddish sauce.",
+    "course": "side",
+    "description": "Beans seasoned simply with real palm oil and salt, the traditional accompaniment served alongside muamba de galinha and funge.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2,
+        "ingredient": "Palm oil",
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Fish, tilapia, raw",
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2,
+        "ingredient": "Palm oil",
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with the tomatoes and a little water.",
-      "Add the fish and simmer 10-12 minutes until just cooked through."
+      "Warm the cowpeas with the palm oil and salt, stirring gently, 5-6 minutes, until well coated and heated through."
     ],
     "steps": [
-      "Whisk the peanut butter with the tomatoes and a little water.",
-      "Add the fish and simmer 10-12 minutes until just cooked through."
+      "Warm the cowpeas with the palm oil and salt, stirring gently, 5-6 minutes, until well coated and heated through."
     ],
     "tags": []
   },
   {
-    "name": "Angolan Grilled Chicken (Frango Assado)",
+    "name": "Angolan Piri Piri Chicken",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "Frango assado, grilled chicken, reflects genuine Portuguese colonial grilling tradition merged with Angola's own spicing.",
+    "course": "complete",
+    "description": "Frango \u00e0 moda de Angola (piri piri chicken), grilled chicken basted in a fiery chili sauce, reflects real Portuguese colonial influence merged with African chili, real technique basting continuously through grilling rather than just at the start.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -219,8 +298,13 @@
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
+        "ingredient": "Jalapeno pepper",
         "qty": 1.5,
+        "note": "standing in for gindungo pepper"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
         "note": "minced"
       },
       {
@@ -229,9 +313,9 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -241,8 +325,13 @@
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
+        "ingredient": "Jalapeno pepper",
         "qty": 1.5,
+        "note": "standing in for gindungo pepper"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
         "note": "minced"
       },
       {
@@ -251,26 +340,29 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Marinate the chicken in the garlic, lemon juice, and jalape\u00f1o for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
+      "Blend the jalape\u00f1o, garlic, lemon juice, and olive oil into a smooth sauce.",
+      "Marinate the chicken in the sauce at least 30 minutes.",
+      "Grill, turning and basting with more sauce every few minutes, 12-15 minutes, until charred and cooked through."
     ],
     "steps": [
-      "Marinate the chicken in the garlic, lemon juice, and jalape\u00f1o for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
+      "Blend the jalape\u00f1o, garlic, lemon juice, and olive oil into a smooth sauce.",
+      "Marinate the chicken in the sauce at least 30 minutes.",
+      "Grill, turning and basting with more sauce every few minutes, 12-15 minutes, until charred and cooked through."
     ],
     "tags": []
   },
   {
     "name": "Angolan Kizaka",
     "cuisine": "angolan",
-    "meal_type": "dinner",
-    "description": "Kizaka, pounded cassava leaves stewed with peanuts, a genuine Angolan staple - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Kizaka, pounded cassava leaves cooked with palm oil, is a genuine Angolan staple - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -278,252 +370,64 @@
         "note": "standing in for cassava leaves"
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Baby spinach",
-        "qty": 200,
-        "note": "standing in for cassava leaves"
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, then add the spinach.",
-      "Simmer 15-18 minutes until well combined."
-    ],
-    "steps": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, then add the spinach.",
-      "Simmer 15-18 minutes until well combined."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Feij\u00e3o de \u00d3leo de Palma",
-    "cuisine": "angolan",
-    "meal_type": "dinner",
-    "description": "Beans stewed in a rich, reddish sauce in the spirit of Angola's real palm-oil bean dishes - real palm oil isn't a distinct item here, so tomato and paprika stand in for the color and richness.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Pastel de Chamu\u00e7a",
-    "cuisine": "angolan",
-    "meal_type": "snack",
-    "description": "Chamu\u00e7as, fried triangular pastries with a spiced filling, reflect genuine Portuguese-Indian colonial-era influence, a beloved Angolan snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion and curry powder, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
-    ],
-    "steps": [
-      "Brown the beef with the onion and curry powder, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Rice with Beans",
-    "cuisine": "angolan",
-    "meal_type": "dinner",
-    "description": "A simple rice and bean dish, common Angolan home cooking, reflecting real Portuguese-influenced pairing traditions.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice and cowpeas together with enough water, 18-20 minutes, until tender."
-    ],
-    "steps": [
-      "Cook the rice and cowpeas together with enough water, 18-20 minutes, until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Fried Plantain",
-    "cuisine": "angolan",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Angolan side dish, shared across the wider Central and Southern African region.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Piri Piri Shrimp",
-    "cuisine": "angolan",
-    "meal_type": "dinner",
-    "description": "Shrimp marinated and grilled in a fiery chili sauce, reflecting Angola's genuine coastal and Portuguese-colonial piri piri tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "standing in for African bird's eye chili"
+        "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion and garlic in the palm oil 3-4 minutes.",
+      "Add the spinach and a splash of water, and simmer 12-15 minutes until well combined and tender."
+    ],
+    "steps": [
+      "Cook the onion and garlic in the palm oil 3-4 minutes.",
+      "Add the spinach and a splash of water, and simmer 12-15 minutes until well combined and tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Grilled Fish",
+    "cuisine": "angolan",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Angola's coastal Atlantic fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
@@ -532,20 +436,15 @@
       },
       {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Frozen shrimp",
+        "ingredient": "Fish, tilapia, raw",
         "qty": 200,
-        "note": "peeled"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 1,
-        "note": "standing in for African bird's eye chili"
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
@@ -554,17 +453,17 @@
       },
       {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Marinate the shrimp in the jalape\u00f1o, garlic, and lemon juice 15 minutes.",
-      "Grill or saut\u00e9, 3-4 minutes, until just pink."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Marinate the shrimp in the jalape\u00f1o, garlic, and lemon juice 15 minutes.",
-      "Grill or saut\u00e9, 3-4 minutes, until just pink."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
@@ -572,6 +471,7 @@
     "name": "Angolan Roasted Peanuts",
     "cuisine": "angolan",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Angola.",
     "ingredients_full": [
       {
@@ -596,243 +496,142 @@
     "tags": []
   },
   {
-    "name": "Angolan Cassava Chips",
+    "name": "Angolan P\u00e3ozinho",
+    "cuisine": "angolan",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "P\u00e3ozinho, small Portuguese-style bread rolls, reflect genuine colonial influence found throughout Angolan daily life.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is, a common breakfast bread across Angola."
+    ],
+    "steps": [
+      "Serve as-is, a common breakfast bread across Angola."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Fried Cassava",
     "cuisine": "angolan",
     "meal_type": "snack",
-    "description": "Simple fried cassava chips, a common Angolan snack.",
+    "course": "complete",
+    "description": "Simple fried cassava, a common Angolan side dish, real technique parboiling first so the cassava crisps outside while staying tender inside.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "cut into chunks"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "cut into chunks"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Boil the cassava until just tender, 12-15 minutes.",
+      "Fry in the oil, turning, 5-6 minutes, until golden and crisp outside.",
+      "Season with salt while still hot."
     ],
     "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Boil the cassava until just tender, 12-15 minutes.",
+      "Fry in the oil, turning, 5-6 minutes, until golden and crisp outside.",
+      "Season with salt while still hot."
     ],
     "tags": []
   },
   {
-    "name": "Angolan Sweet Potato Fritters",
-    "cuisine": "angolan",
-    "meal_type": "snack",
-    "description": "Simple fried sweet potato fritters, a common Angolan snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Beef Stew",
+    "name": "Angolan Chicken Stew",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "A simple, hearty beef and vegetable stew, common Angolan home cooking.",
+    "course": "complete",
+    "description": "A simple tomato-based chicken stew, common Angolan home cooking outside the palm-oil-forward specialties.",
     "ingredients_full": [
       {
-        "ingredient": "Flank/sirloin steak",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
         "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "cubed"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Flank/sirloin steak",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
         "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "cubed"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Grilled Fish",
-    "cuisine": "angolan",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting Angola's Atlantic coastal fishing tradition.",
-    "ingredients_full": [
+      },
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
         "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
         "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
+      "Brown the chicken with the onion and garlic, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
     ],
     "steps": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Angolan Coleslaw",
-    "cuisine": "angolan",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Angolan side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Brown the chicken with the onion and garlic, 8-9 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
     ],
     "tags": []
   },
@@ -840,6 +639,7 @@
     "name": "Angolan Tropical Fruit Salad",
     "cuisine": "angolan",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple tropical fruit salad, built on Angola's abundant local fruit.",
     "ingredients_full": [
       {
@@ -874,15 +674,179 @@
     "tags": []
   },
   {
-    "name": "Angolan Peanut Sauce",
+    "name": "Angolan Beef and Vegetable Stew",
     "cuisine": "angolan",
     "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many Angolan stews, echoing the flavor of muamba.",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Angolan home cooking.",
     "ingredients_full": [
       {
-        "ingredient": "Peanut butter",
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Fried Plantain",
+    "cuisine": "angolan",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Fried ripe plantain, a common Angolan side dish, real versions using genuinely ripe plantain for real caramelization.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+    ],
+    "steps": [
+      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Coleslaw",
+    "cuisine": "angolan",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Angolan side, real versions with a touch of mustard for depth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
+    ],
+    "steps": [
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Squash and Bean Stew",
+    "cuisine": "angolan",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple squash and bean stew, common Angolan home cooking, real technique cooking the squash until genuinely tender rather than just warmed through.",
+    "ingredients_full": [
+      {
+        "ingredient": "Butternut squash",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -892,9 +856,14 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
+        "ingredient": "Butternut squash",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -903,25 +872,104 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
+      "Simmer the squash and tomatoes together 15-18 minutes until the squash is fork-tender.",
+      "Add the cowpeas and simmer 5 minutes more to warm through."
     ],
     "steps": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
+      "Simmer the squash and tomatoes together 15-18 minutes until the squash is fork-tender.",
+      "Add the cowpeas and simmer 5 minutes more to warm through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Roasted Cashews",
+    "cuisine": "angolan",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted cashew snack, cashews being a notable Angolan crop.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "standing in for cashews"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "standing in for cashews"
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Angolan Palm Oil Sauce",
+    "cuisine": "angolan",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple palm-oil-based sauce, echoing the flavor foundation of muamba de galinha, used across many Angolan dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the garlic in the palm oil 1 minute.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Cook the garlic in the palm oil 1 minute.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   },
   {
     "name": "Angolan Piri Piri Sauce",
     "cuisine": "angolan",
-    "meal_type": "lunch",
-    "description": "A fiery piri piri sauce, reflecting Angola's genuine Portuguese-colonial chili tradition.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Piri piri sauce, a fiery chili condiment shared with Mozambique, reflecting real Portuguese-African culinary fusion across Lusophone Africa.",
     "ingredients_full": [
       {
         "ingredient": "Jalapeno pepper",
         "qty": 2,
-        "note": "standing in for African bird's eye chili"
+        "note": "standing in for gindungo pepper"
       },
       {
         "ingredient": "Garlic clove",
@@ -943,7 +991,7 @@
       {
         "ingredient": "Jalapeno pepper",
         "qty": 2,
-        "note": "standing in for African bird's eye chili"
+        "note": "standing in for gindungo pepper"
       },
       {
         "ingredient": "Garlic clove",
