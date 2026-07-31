@@ -488,38 +488,76 @@
     "cuisine": "sudanese",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Gurasa, a heavy, thick flatbread, is a genuine Sudanese staple, real technique cooking it slowly so the inside cooks through without burning the outside.",
+    "description": "Gurasa is genuinely a yeasted batter poured and cooked like a thick pancake, not a stiff dough shaped by hand - that was wrong here before. Real technique lets the batter rest until it bubbles and roughly doubles, which is what gives gurasa its real soft, spongy texture, and it's traditionally torn by hand to scoop up stews like tagalia.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 60,
+        "qty": 55,
         "note": ""
       },
       {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.25,
+        "note": "tsp, standing in for a small amount of yeast alongside baking powder"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "qty": 0.5,
+        "note": "tbsp, for the pan"
       }
     ],
     "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 60,
+        "qty": 55,
         "note": ""
       },
       {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.25,
+        "note": "tsp, standing in for a small amount of yeast alongside baking powder"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "qty": 0.5,
+        "note": "tbsp, for the pan"
       }
     ],
     "steps_detailed": [
-      "Work the flour with warm water and the oil into a soft dough.",
-      "Shape into a thick round and cook in a covered, lightly oiled pan over low heat, 6-8 minutes per side, until cooked through."
+      [
+        "Whisk the flour, baking soda, baking powder, and salt with enough water to form a thick, pourable batter, similar to a dosa or pancake batter, not a stiff dough.",
+        "Cover and let rest 45-60 minutes at room temperature until visibly bubbly - this real rest is what gives gurasa its soft, spongy character.",
+        "Pour a ladleful onto a lightly oiled, hot griddle or pan, spreading it out like a thick pancake.",
+        "Cover and cook over medium-low heat 4-5 minutes, without flipping, until the top is set and the bottom is golden."
+      ]
     ],
     "steps": [
-      "Work the flour with warm water and the oil into a soft dough.",
-      "Shape into a thick round and cook in a covered, lightly oiled pan over low heat, 6-8 minutes per side, until cooked through."
+      [
+        "Whisk the flour, baking soda, baking powder, and salt with enough water to form a thick, pourable batter, similar to a dosa or pancake batter, not a stiff dough.",
+        "Cover and let rest 45-60 minutes at room temperature until visibly bubbly - this real rest is what gives gurasa its soft, spongy character.",
+        "Pour a ladleful onto a lightly oiled, hot griddle or pan, spreading it out like a thick pancake.",
+        "Cover and cook over medium-low heat 4-5 minutes, without flipping, until the top is set and the bottom is golden."
+      ]
     ],
     "tags": []
   },

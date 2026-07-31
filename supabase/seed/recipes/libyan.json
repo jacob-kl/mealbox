@@ -414,16 +414,16 @@
     "tags": []
   },
   {
-    "name": "Libyan Mbatten",
+    "name": "Libyan M'battan",
     "cuisine": "libyan",
-    "meal_type": "dinner",
+    "meal_type": "snack",
     "course": "complete",
-    "description": "Mbatten, a layered fried potato and meat pie, is a beloved Libyan dish, real technique frying the potato layers until fully golden before assembling so the final dish isn't soggy.",
+    "description": "M'battan, a genuine Ramadan specialty, is real potato wedges cut into pockets, stuffed with spiced minced meat, then battered and deep-fried - not a layered casserole, which was wrong here before. Real technique cooks the meat filling until it dries out and releases its own fat, which is what makes the mince stick together well enough to hold inside the potato pocket.",
     "ingredients_full": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "thinly sliced"
+        "qty": 200,
+        "note": "cut into thick wedges, each sliced most of the way through to form a pocket"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -431,26 +431,51 @@
         "note": ""
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Ground cinnamon",
         "qty": 0.5,
         "note": "tsp, generous"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Cilantro",
         "qty": 2,
+        "note": "tbsp, chopped, standing in for parsley"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": "for the batter"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "for the batter"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
         "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "thinly sliced"
+        "qty": 200,
+        "note": "cut into thick wedges, each sliced most of the way through to form a pocket"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -458,30 +483,65 @@
         "note": ""
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Ground cinnamon",
         "qty": 0.5,
         "note": "tsp, generous"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Cilantro",
         "qty": 2,
+        "note": "tbsp, chopped, standing in for parsley"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": "for the batter"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "for the batter"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
         "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Fry the potato slices until golden on both sides, 6-8 minutes total, then set aside.",
-      "Brown the beef with the cumin, 6-7 minutes.",
-      "Layer the fried potato and beef in a dish, pour the beaten egg over the top, and bake at 375F (190C) for 15-18 minutes until set."
+      [
+        "Cook the onion in a little oil until fragrant, then add the beef, ginger, cinnamon, and black pepper, being generous with both spices.",
+        "Cook, uncovered, stirring occasionally, until the meat dries out and releases its own fat, 10-12 minutes - this real drying-out is what makes the mince cohesive enough to stuff.",
+        "Stir in the cilantro and let cool slightly.",
+        "Stuff the meat mixture firmly into each potato pocket.",
+        "Whisk the flour and egg with a splash of water into a smooth batter, and coat each stuffed potato wedge.",
+        "Deep-fry, turning, 6-8 minutes, until the potato is cooked through and the coating is deeply golden and crisp."
+      ]
     ],
     "steps": [
-      "Fry the potato slices until golden on both sides, 6-8 minutes total, then set aside.",
-      "Brown the beef with the cumin, 6-7 minutes.",
-      "Layer the fried potato and beef in a dish, pour the beaten egg over the top, and bake at 375F (190C) for 15-18 minutes until set."
+      [
+        "Cook the onion in a little oil until fragrant, then add the beef, ginger, cinnamon, and black pepper, being generous with both spices.",
+        "Cook, uncovered, stirring occasionally, until the meat dries out and releases its own fat, 10-12 minutes - this real drying-out is what makes the mince cohesive enough to stuff.",
+        "Stir in the cilantro and let cool slightly.",
+        "Stuff the meat mixture firmly into each potato pocket.",
+        "Whisk the flour and egg with a splash of water into a smooth batter, and coat each stuffed potato wedge.",
+        "Deep-fry, turning, 6-8 minutes, until the potato is cooked through and the coating is deeply golden and crisp."
+      ]
     ],
     "tags": []
   },
@@ -552,7 +612,7 @@
     "cuisine": "libyan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Grilled lamb seasoned generously with real hararat spice, a beloved Libyan dish for gatherings, real technique not skimping on the spice rub.",
+    "description": "Grilled lamb seasoned with real hararat (the full seven-spice blend), not a generic cumin rub, is a beloved Libyan dish for gatherings - real hararat includes black pepper, cinnamon, cloves, nutmeg, coriander, and cumin together, and some home cooks add caraway seed for a sharper, nuttier edge.",
     "ingredients_full": [
       {
         "ingredient": "Ground lamb",
@@ -561,11 +621,31 @@
       },
       {
         "ingredient": "Ground cumin",
-        "qty": 0.75,
+        "qty": 0.5,
         "note": "tsp, generous"
       },
       {
-        "ingredient": "365 (Whole Foods) Paprika",
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.375,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
         "qty": 0.5,
         "note": "tsp, generous"
       },
@@ -583,11 +663,31 @@
       },
       {
         "ingredient": "Ground cumin",
-        "qty": 0.75,
+        "qty": 0.5,
         "note": "tsp, generous"
       },
       {
-        "ingredient": "365 (Whole Foods) Paprika",
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.375,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
         "qty": 0.5,
         "note": "tsp, generous"
       },
@@ -598,11 +698,11 @@
       }
     ],
     "steps_detailed": [
-      "Mix the lamb with the cumin, paprika, and garlic, being generous with the spice rather than restrained.",
+      "Mix the lamb with the cumin, cinnamon, cloves, nutmeg, coriander, black pepper, and garlic, being genuinely generous with all the spices - this real, full hararat blend is what distinguishes Libyan lamb from a simple cumin rub.",
       "Grill or pan-sear, 4-5 minutes per side, until well charred and cooked through."
     ],
     "steps": [
-      "Mix the lamb with the cumin, paprika, and garlic, being generous with the spice rather than restrained.",
+      "Mix the lamb with the cumin, cinnamon, cloves, nutmeg, coriander, black pepper, and garlic, being genuinely generous with all the spices - this real, full hararat blend is what distinguishes Libyan lamb from a simple cumin rub.",
       "Grill or pan-sear, 4-5 minutes per side, until well charred and cooked through."
     ],
     "tags": []

@@ -270,40 +270,74 @@
     "cuisine": "beninese",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Ablo, a soft, slightly sweet steamed rice cake, is a beloved Beninese street food, real technique fermenting the batter for real tang before steaming.",
+    "description": "Ablo, a soft, bouncy steamed rice cake, is beloved across Benin, Togo, and the wider region - real versions combine rice flour with corn starch or cornmeal together, not rice alone, and are genuinely yeasted rather than left to ferment on their own; real yeast isn't a distinct item here, so baking powder stands in for a faster, less complex rise, missing real fermentation's tang. Traditionally steamed wrapped in banana leaf, which lends its own flavor.",
     "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "cooked and blended smooth"
+        "qty": 30,
+        "note": "blended into flour"
+      },
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 20,
+        "note": ""
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "cooked and blended smooth"
+        "qty": 30,
+        "note": "blended into flour"
+      },
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 20,
+        "note": ""
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Blend the cooked rice with a little water and the sugar into a smooth batter.",
-      "Let ferment at room temperature 6-8 hours for real tang.",
-      "Steam in small portions over simmering water 15-18 minutes until set."
+      [
+        "Blend the rice into a fine flour, then whisk with the cornmeal, sugar, baking powder, and salt and enough water to form a thick, smooth batter.",
+        "Let rest 30-45 minutes.",
+        "Spoon into small greased molds or ramekins and steam over simmering water 20-22 minutes until set and springy to the touch."
+      ]
     ],
     "steps": [
-      "Blend the cooked rice with a little water and the sugar into a smooth batter.",
-      "Let ferment at room temperature 6-8 hours for real tang.",
-      "Steam in small portions over simmering water 15-18 minutes until set."
+      [
+        "Blend the rice into a fine flour, then whisk with the cornmeal, sugar, baking powder, and salt and enough water to form a thick, smooth batter.",
+        "Let rest 30-45 minutes.",
+        "Spoon into small greased molds or ramekins and steam over simmering water 20-22 minutes until set and springy to the touch."
+      ]
     ],
     "tags": []
   },
