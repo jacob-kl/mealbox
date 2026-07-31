@@ -1,14 +1,15 @@
 [
   {
-    "name": "Cameroonian Ndole",
+    "name": "Cameroonian Ndol\u00e9",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
-    "description": "Ndol\u00e9, bitter leaf greens stewed with ground peanuts and meat or fish, is widely considered Cameroon's national dish - real ndol\u00e9 leaf isn't a distinct item here, so spinach stands in, though it lacks the genuine bitterness that gives the dish its name.",
+    "course": "complete",
+    "description": "Ndol\u00e9 is Cameroon's national dish, and its name literally comes from the real bitter leaf (Vernonia amygdalina) at its center - traditionally boiled and rinsed two or three times specifically to soften its sharp bitterness while deliberately leaving some behind, since that residual bitter edge against the sweet peanut sauce is the entire point of the dish. Bitter leaf isn't a distinct item here, so spinach stands in for the greenery, but spinach has no bitterness at all to begin with, so this version is honestly missing the exact quality the dish is named for, not just a minor substitution.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
         "qty": 200,
-        "note": "standing in for real bitter leaf (ndol\u00e9)"
+        "note": "standing in for real bitter leaf (ndol\u00e9) - note this loses the deliberate residual bitterness that gives the dish its name"
       },
       {
         "ingredient": "Peanut butter",
@@ -29,13 +30,18 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 20,
+        "note": "ground"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Baby spinach",
         "qty": 200,
-        "note": "standing in for real bitter leaf (ndol\u00e9)"
+        "note": "standing in for real bitter leaf (ndol\u00e9) - note this loses the deliberate residual bitterness that gives the dish its name"
       },
       {
         "ingredient": "Peanut butter",
@@ -56,16 +62,21 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 20,
+        "note": "ground"
       }
     ],
     "steps_detailed": [
       "Brown the beef with the onion, 6-7 minutes.",
-      "Whisk the peanut butter with 1 cup water into a smooth sauce, then add to the pot along with the tomatoes.",
+      "Whisk the peanut butter with 1 cup water into a smooth sauce, then add to the pot along with the tomatoes and ground crayfish.",
       "Add the spinach and simmer 12-15 minutes until well combined and thickened."
     ],
     "steps": [
       "Brown the beef with the onion, 6-7 minutes.",
-      "Whisk the peanut butter with 1 cup water into a smooth sauce, then add to the pot along with the tomatoes.",
+      "Whisk the peanut butter with 1 cup water into a smooth sauce, then add to the pot along with the tomatoes and ground crayfish.",
       "Add the spinach and simmer 12-15 minutes until well combined and thickened."
     ],
     "tags": []
@@ -74,6 +85,7 @@
     "name": "Cameroonian Poulet DG",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Poulet DG, meaning 'director general chicken', is a beloved Cameroonian dish combining fried chicken with plantain and vegetables, its name reflecting its status as a special-occasion favorite.",
     "ingredients_full": [
       {
@@ -147,12 +159,13 @@
     "name": "Cameroonian Achu",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
-    "description": "Achu, cocoyam pounded into a smooth, stretchy mash and served with a distinctive yellow soup, is a genuine specialty of Cameroon's Northwest Region - real cocoyam isn't a distinct item here, so yam stands in for a similar starchy, pounded texture.",
+    "course": "side",
+    "description": "Achu, cocoyam pounded into a smooth, stretchy mash and served with a distinctive yellow soup, is a genuine specialty of Cameroon's Northwest Region - real cocoyam isn't a distinct item here, so yam stands in for a similar starchy, pounded texture, though cocoyam's real flavor is honestly milder and starchier than yam's.",
     "ingredients_full": [
       {
         "ingredient": "Yam, raw",
         "qty": 200,
-        "note": "peeled and cubed"
+        "note": "peeled and cubed, standing in for cocoyam"
       },
       {
         "ingredient": "Spices, turmeric, ground",
@@ -164,7 +177,7 @@
       {
         "ingredient": "Yam, raw",
         "qty": 200,
-        "note": "peeled and cubed"
+        "note": "peeled and cubed, standing in for cocoyam"
       },
       {
         "ingredient": "Spices, turmeric, ground",
@@ -188,6 +201,7 @@
     "name": "Cameroonian Koki",
     "cuisine": "cameroonian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "Koki, steamed black-eyed pea pudding wrapped and cooked in leaves, is a genuine Cameroonian staple, closely related to Nigerian moin moin.",
     "ingredients_full": [
       {
@@ -206,7 +220,7 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
       }
@@ -228,19 +242,19 @@
         "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Blend the cowpeas and bell pepper with a little water into a smooth batter.",
-      "Whisk in the egg and oil.",
+      "Whisk in the egg and palm oil.",
       "Pour into small heatproof cups and steam over simmering water 35-40 minutes until firm."
     ],
     "steps": [
       "Blend the cowpeas and bell pepper with a little water into a smooth batter.",
-      "Whisk in the egg and oil.",
+      "Whisk in the egg and palm oil.",
       "Pour into small heatproof cups and steam over simmering water 35-40 minutes until firm."
     ],
     "tags": []
@@ -249,6 +263,7 @@
     "name": "Cameroonian Suya-Style Grilled Beef",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Grilled beef coated in a ground-peanut spice rub, shared with Nigeria's suya tradition across the wider West and Central African region.",
     "ingredients_full": [
       {
@@ -305,59 +320,11 @@
     "tags": []
   },
   {
-    "name": "Cameroonian Plantain Porridge",
-    "cuisine": "cameroonian",
-    "meal_type": "dinner",
-    "description": "A simple, comforting ripe plantain porridge, a common Cameroonian home-cooking dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 200,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 200,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the plantain, tomatoes, and 1 cup water, and simmer 20-22 minutes until the plantain is soft and the liquid thickens."
-    ],
-    "steps": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the plantain, tomatoes, and 1 cup water, and simmer 20-22 minutes until the plantain is soft and the liquid thickens."
-    ],
-    "tags": []
-  },
-  {
     "name": "Cameroonian Egusi Soup",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
-    "description": "Egusi soup, thickened with real ground melon seeds, is shared with Nigeria and found throughout much of Central and West Africa.",
+    "course": "complete",
+    "description": "Egusi soup, thickened with real ground melon seeds, is shared with Nigeria and found throughout much of Central and West Africa, real technique frying the egusi paste in spoonfuls to build its characteristic lumpy texture.",
     "ingredients_full": [
       {
         "ingredient": "Egusi seeds (ground)",
@@ -378,6 +345,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -400,17 +372,22 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Brown the beef, 6-7 minutes.",
-      "Mix the egusi with water into a paste and fry in spoonfuls until slightly golden, 5-6 minutes.",
+      "Mix the egusi with water into a paste and fry spoonfuls in the palm oil until slightly golden, 5-6 minutes.",
       "Add the tomatoes and beef, and simmer 10-12 minutes.",
       "Stir in the spinach in the last 3 minutes."
     ],
     "steps": [
       "Brown the beef, 6-7 minutes.",
-      "Mix the egusi with water into a paste and fry in spoonfuls until slightly golden, 5-6 minutes.",
+      "Mix the egusi with water into a paste and fry spoonfuls in the palm oil until slightly golden, 5-6 minutes.",
       "Add the tomatoes and beef, and simmer 10-12 minutes.",
       "Stir in the spinach in the last 3 minutes."
     ],
@@ -420,7 +397,8 @@
     "name": "Cameroonian Bongo Tchobi",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
-    "description": "Bongo tchobi, a dark, smoky black soup made with roasted seeds and spices, a genuine specialty of Cameroon's coastal Sawa people.",
+    "course": "complete",
+    "description": "Bongo tchobi, a dark, smoky black soup made with roasted seeds and spices, a genuine specialty of Cameroon's coastal Sawa people, real depth coming from deeply toasting the ground peanuts until nearly black.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -456,12 +434,12 @@
       }
     ],
     "steps_detailed": [
-      "Toast the ground peanuts in a dry pan until deeply darkened, 5-6 minutes, being careful not to burn.",
+      "Toast the ground peanuts in a dry pan until deeply darkened, 5-6 minutes, being careful not to burn - this real, deep toasting is what gives bongo tchobi its dark color and smoky depth.",
       "Whisk with 1.5 cups water and the tomatoes into a sauce.",
       "Add the fish and simmer 10-12 minutes until just cooked through."
     ],
     "steps": [
-      "Toast the ground peanuts in a dry pan until deeply darkened, 5-6 minutes, being careful not to burn.",
+      "Toast the ground peanuts in a dry pan until deeply darkened, 5-6 minutes, being careful not to burn - this real, deep toasting is what gives bongo tchobi its dark color and smoky depth.",
       "Whisk with 1.5 cups water and the tomatoes into a sauce.",
       "Add the fish and simmer 10-12 minutes until just cooked through."
     ],
@@ -471,6 +449,7 @@
     "name": "Cameroonian Beignets",
     "cuisine": "cameroonian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Beignets, sweet fried dough balls, a beloved Cameroonian breakfast snack closely related to Nigerian puff puff.",
     "ingredients_full": [
       {
@@ -530,6 +509,7 @@
     "name": "Cameroonian Kondre",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Kondre, plantain and meat stewed together with palm oil-style seasoning, a genuine Cameroonian home-cooking staple.",
     "ingredients_full": [
       {
@@ -589,6 +569,7 @@
     "name": "Cameroonian Sweet Potato Fritters",
     "cuisine": "cameroonian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Simple fried sweet potato fritters, a common Cameroonian snack.",
     "ingredients_full": [
       {
@@ -638,7 +619,8 @@
     "name": "Cameroonian Roasted Peanuts",
     "cuisine": "cameroonian",
     "meal_type": "snack",
-    "description": "A simple roasted peanut snack, peanuts being a common Cameroonian crop.",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, common Cameroonian crop and staple.",
     "ingredients_full": [
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -665,6 +647,7 @@
     "name": "Cameroonian Cassava Chips",
     "cuisine": "cameroonian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Simple fried cassava chips, a common Cameroonian snack.",
     "ingredients_full": [
       {
@@ -702,6 +685,7 @@
     "name": "Cameroonian Grilled Fish with Pepper",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Grilled fish rubbed with garlic and chili, reflecting Cameroon's strong coastal fishing tradition.",
     "ingredients_full": [
       {
@@ -751,6 +735,7 @@
     "name": "Cameroonian Green Bean and Carrot Stew",
     "cuisine": "cameroonian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple vegetable stew, common Cameroonian home cooking.",
     "ingredients_full": [
       {
@@ -798,6 +783,7 @@
     "name": "Cameroonian Coleslaw",
     "cuisine": "cameroonian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A mayonnaise-dressed cabbage salad, a common Cameroonian side, especially alongside grilled meat.",
     "ingredients_full": [
       {
@@ -845,6 +831,7 @@
     "name": "Cameroonian Fried Plantain",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Fried ripe plantain, a common Cameroonian side dish.",
     "ingredients_full": [
       {
@@ -882,6 +869,7 @@
     "name": "Cameroonian Chicken Pepper Soup",
     "cuisine": "cameroonian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A light, spiced chicken broth, common Cameroonian comfort food.",
     "ingredients_full": [
       {
@@ -938,8 +926,9 @@
   {
     "name": "Cameroonian Peanut Sauce",
     "cuisine": "cameroonian",
-    "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many Cameroonian stews.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple ground-peanut sauce base, used across many Cameroonian stews, echoing the flavor of ndol\u00e9's peanut base.",
     "ingredients_full": [
       {
         "ingredient": "Peanut butter",
@@ -977,7 +966,8 @@
   {
     "name": "Cameroonian Ginger Pepper Sauce",
     "cuisine": "cameroonian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple, spicy ginger sauce, a common Cameroonian condiment.",
     "ingredients_full": [
       {

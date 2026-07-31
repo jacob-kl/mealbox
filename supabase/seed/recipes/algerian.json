@@ -3,7 +3,8 @@
     "name": "Algerian Couscous",
     "cuisine": "algerian",
     "meal_type": "dinner",
-    "description": "Couscous, tiny steamed semolina granules topped with a vegetable and meat stew, is considered Algeria's national dish, traditionally steamed multiple times over the simmering stew itself rather than just soaked in boiling water.",
+    "course": "complete",
+    "description": "Real Algerian couscous is genuinely steamed two or three separate times, not just soaked once in boiling liquid - between each steam the grains are fluffed and rubbed by hand to break up clumps, which is what builds true, light, individually separate grains rather than a dense clump. A real couscoussier (a two-part steamer pot) is traditional; this version approximates the technique with a fine-mesh steamer basket over the simmering stew.",
     "ingredients_full": [
       {
         "ingredient": "Couscous, dry",
@@ -34,6 +35,11 @@
         "ingredient": "Ground cumin",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -66,17 +72,26 @@
         "ingredient": "Ground cumin",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Simmer the chicken, carrot, zucchini, chickpeas, and cumin in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and its broth over the couscous."
+      "Toss the dry couscous with the olive oil and a splash of water, rubbing between your hands to coat every grain.",
+      "Steam the couscous over the simmering stew (in a fine-mesh basket or sieve) for 10 minutes, then tip out, fluff and rub with wet hands to break up clumps.",
+      "Steam a second time for 8-10 minutes, fluffing again after - this real double-steam is what builds properly light, separate grains.",
+      "Serve the stew and its broth over the finished couscous."
     ],
     "steps": [
       "Simmer the chicken, carrot, zucchini, chickpeas, and cumin in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and its broth over the couscous."
+      "Toss the dry couscous with the olive oil and a splash of water, rubbing between your hands to coat every grain.",
+      "Steam the couscous over the simmering stew (in a fine-mesh basket or sieve) for 10 minutes, then tip out, fluff and rub with wet hands to break up clumps.",
+      "Steam a second time for 8-10 minutes, fluffing again after - this real double-steam is what builds properly light, separate grains.",
+      "Serve the stew and its broth over the finished couscous."
     ],
     "tags": []
   },
@@ -84,6 +99,7 @@
     "name": "Algerian Chorba",
     "cuisine": "algerian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Chorba, a tomato-based soup with lamb and vermicelli, is a beloved Algerian dish, especially eaten to break the fast during Ramadan.",
     "ingredients_full": [
       {
@@ -147,6 +163,7 @@
     "name": "Algerian Rechta",
     "cuisine": "algerian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Rechta, hand-rolled soft noodles served under a white chicken sauce, is a genuine Algerian specialty, especially associated with Algiers.",
     "ingredients_full": [
       {
@@ -208,6 +225,7 @@
     "name": "Algerian Chakhchoukha",
     "cuisine": "algerian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Chakhchoukha, torn flatbread pieces soaked in a rich tomato-meat sauce, a genuine Algerian specialty, especially from the eastern regions.",
     "ingredients_full": [
       {
@@ -269,7 +287,8 @@
     "name": "Algerian Merguez-Style Sausage",
     "cuisine": "algerian",
     "meal_type": "dinner",
-    "description": "A spiced beef sausage in the style of merguez, a beloved North African sausage traditionally made from lamb or beef and heavily spiced with harissa and cumin.",
+    "course": "complete",
+    "description": "A spiced beef sausage in the style of merguez, a beloved North African sausage traditionally made from lamb or beef and heavily spiced with real harissa and cumin.",
     "ingredients_full": [
       {
         "ingredient": "Ground beef 90/10",
@@ -328,6 +347,7 @@
     "name": "Algerian Shakshuka",
     "cuisine": "algerian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Shakshuka, eggs poached in a spiced tomato sauce, shared across the wider North African region, a common Algerian breakfast.",
     "ingredients_full": [
       {
@@ -388,7 +408,8 @@
   {
     "name": "Algerian Harissa",
     "cuisine": "algerian",
-    "meal_type": "lunch",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "Harissa, a fiery chili paste, is a defining North African condiment, real Algerian harissa often being especially hot compared to its Tunisian counterpart.",
     "ingredients_full": [
       {
@@ -446,6 +467,7 @@
     "name": "Algerian Bourek",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Bourek, fried or baked pastry rolls with a spiced meat filling, a beloved Algerian snack, especially during Ramadan.",
     "ingredients_full": [
       {
@@ -507,6 +529,7 @@
     "name": "Algerian Hummus",
     "cuisine": "algerian",
     "meal_type": "lunch",
+    "course": "complete",
     "description": "A simple hummus, built on real tahini, widely eaten across Algeria and the wider region.",
     "ingredients_full": [
       {
@@ -564,6 +587,7 @@
     "name": "Algerian Makroudh",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Makroudh, semolina pastries filled with dates and fried or baked, then soaked in honey, a beloved Algerian sweet.",
     "ingredients_full": [
       {
@@ -627,6 +651,7 @@
     "name": "Algerian Roasted Chickpea Snack",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted chickpea snack, common across Algeria.",
     "ingredients_full": [
       {
@@ -676,6 +701,7 @@
     "name": "Algerian Cucumber Tomato Salad",
     "cuisine": "algerian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Algerian meal.",
     "ingredients_full": [
       {
@@ -733,6 +759,7 @@
     "name": "Algerian Lamb Tagine with Prunes",
     "cuisine": "algerian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A sweet-savory tagine, dried fruit and warm spices simmered with lamb, shared with Morocco as a classic Maghrebi flavor pairing.",
     "ingredients_full": [
       {
@@ -802,6 +829,7 @@
     "name": "Algerian Fava Bean Stew (Bissara)",
     "cuisine": "algerian",
     "meal_type": "lunch",
+    "course": "complete",
     "description": "Bissara, a smooth, garlicky fava bean puree, a genuine North African comfort food, especially eaten in cold weather.",
     "ingredients_full": [
       {
@@ -861,6 +889,7 @@
     "name": "Algerian Roasted Almonds",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted almond snack, common across Algeria and the wider Maghreb.",
     "ingredients_full": [
       {
@@ -888,6 +917,7 @@
     "name": "Algerian Mint Tea",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Mint tea, sweetened green tea steeped with fresh mint, is central to Algerian hospitality, shared with the wider Maghreb tradition.",
     "ingredients_full": [
       {
@@ -937,6 +967,7 @@
     "name": "Algerian Orange Salad",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple, fragrant orange and cinnamon salad, a classic Maghrebi dessert or palate cleanser.",
     "ingredients_full": [
       {
@@ -984,6 +1015,7 @@
     "name": "Algerian Semolina Cake (Basbousa-Style)",
     "cuisine": "algerian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A syrup-soaked semolina cake, shared across the wider North African and Eastern Mediterranean region.",
     "ingredients_full": [
       {
@@ -1044,7 +1076,8 @@
   {
     "name": "Algerian Tomato Cumin Sauce",
     "cuisine": "algerian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-cumin sauce base, used across many Algerian stews and couscous dishes.",
     "ingredients_full": [
       {
@@ -1091,7 +1124,8 @@
   {
     "name": "Algerian Harissa Yogurt Sauce",
     "cuisine": "algerian",
-    "meal_type": "lunch",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A cooling yogurt sauce cut with real harissa, balancing its heat.",
     "ingredients_full": [
       {

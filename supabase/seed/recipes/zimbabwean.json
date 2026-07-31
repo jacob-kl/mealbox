@@ -3,7 +3,8 @@
     "name": "Zimbabwean Sadza",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
-    "description": "Sadza, a stiff maize porridge, is Zimbabwe's most essential staple starch, eaten daily by hand alongside stews and greens.",
+    "course": "side",
+    "description": "Sadza is genuinely made differently from its East African cousin ugali, even though both are maize porridges - real sadza starts as a cold maize-meal paste that's brought to a boil, then MORE dry maize meal is beaten in vigorously (a technique with its own name, kumona) until the mixture pulls cleanly away from the pot's sides, a texture ugali's simpler one-step method doesn't produce.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
@@ -19,12 +20,16 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick, smooth, and pulling away from the pot's sides."
+      "Whisk about a third of the cornmeal with 0.5 cup cold water into a smooth paste.",
+      "Bring 0.75 cup water to a boil, stir in the paste, and cook 3-4 minutes.",
+      "Gradually beat in the remaining dry cornmeal, a little at a time, stirring vigorously and continuously (kumona) to avoid lumps, until the mixture is very thick and pulls away from the sides of the pot.",
+      "Cover and cook on the lowest heat 8-10 minutes more, without stirring, to finish."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick, smooth, and pulling away from the pot's sides."
+      "Whisk about a third of the cornmeal with 0.5 cup cold water into a smooth paste.",
+      "Bring 0.75 cup water to a boil, stir in the paste, and cook 3-4 minutes.",
+      "Gradually beat in the remaining dry cornmeal, a little at a time, stirring vigorously and continuously (kumona) to avoid lumps, until the mixture is very thick and pulls away from the sides of the pot.",
+      "Cover and cook on the lowest heat 8-10 minutes more, without stirring, to finish."
     ],
     "tags": []
   },
@@ -32,6 +37,7 @@
     "name": "Zimbabwean Muriwo Une Dovi",
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
+    "course": "side",
     "description": "Muriwo une dovi, leafy greens cooked in real ground peanut sauce, is a beloved Zimbabwean vegetable dish.",
     "ingredients_full": [
       {
@@ -91,6 +97,7 @@
     "name": "Zimbabwean Nyama (Grilled Meat)",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Nyama, grilled or braised meat, is central to Zimbabwean eating, typically served alongside sadza and greens.",
     "ingredients_full": [
       {
@@ -137,59 +144,11 @@
     "tags": []
   },
   {
-    "name": "Zimbabwean Chimodho Bread",
-    "cuisine": "zimbabwean",
-    "meal_type": "dinner",
-    "description": "Chimodho, a simple maize-and-wheat flatbread, a common Zimbabwean everyday bread.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flour, cornmeal, and oil with water into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 3-4 minutes per side, until browned."
-    ],
-    "steps": [
-      "Mix the flour, cornmeal, and oil with water into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 3-4 minutes per side, until browned."
-    ],
-    "tags": []
-  },
-  {
     "name": "Zimbabwean Mazondo (Beef Trotters)",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
-    "description": "Mazondo, slow-simmered beef trotters, a beloved Zimbabwean dish traditionally cooked for hours until the meat falls off the bone - beef shank stands in here for a more widely available cut with a similar rich, gelatinous result from long cooking.",
+    "course": "complete",
+    "description": "Mazondo, slow-simmered beef trotters, is a beloved Zimbabwean dish traditionally cooked for two to three hours until genuinely gelatinous - beef shank stands in here for a more widely available cut with a similar rich, gelatinous result from long cooking, though real trotters have a distinct texture this can't fully match.",
     "ingredients_full": [
       {
         "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
@@ -225,10 +184,10 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the beef with the garlic, onion, and enough water to cover, 1.5-2 hours, until completely fork-tender."
+      "Simmer the beef with the garlic, onion, and enough water to cover, 2-2.5 hours, until completely fork-tender and the broth turns rich and gelatinous."
     ],
     "steps": [
-      "Simmer the beef with the garlic, onion, and enough water to cover, 1.5-2 hours, until completely fork-tender."
+      "Simmer the beef with the garlic, onion, and enough water to cover, 2-2.5 hours, until completely fork-tender and the broth turns rich and gelatinous."
     ],
     "tags": []
   },
@@ -236,6 +195,7 @@
     "name": "Zimbabwean Dovi",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Dovi, meat stewed in real ground peanut sauce, is a beloved Zimbabwean dish shared in spirit with West African groundnut stews.",
     "ingredients_full": [
       {
@@ -287,6 +247,7 @@
     "name": "Zimbabwean Mapopo Salad",
     "cuisine": "zimbabwean",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple fresh papaya salad, papaya being a common Zimbabwean fruit.",
     "ingredients_full": [
       {
@@ -324,6 +285,7 @@
     "name": "Zimbabwean Roasted Peanuts",
     "cuisine": "zimbabwean",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, groundnuts being a common Zimbabwean crop.",
     "ingredients_full": [
       {
@@ -351,6 +313,7 @@
     "name": "Zimbabwean Bota",
     "cuisine": "zimbabwean",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Bota, a smooth peanut butter porridge, a beloved Zimbabwean breakfast.",
     "ingredients_full": [
       {
@@ -400,6 +363,7 @@
     "name": "Zimbabwean Fried Bream Style Fish",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Simple fried fish, a common Zimbabwean dish especially near Lake Kariba.",
     "ingredients_full": [
       {
@@ -449,6 +413,7 @@
     "name": "Zimbabwean Green Beans and Tomato",
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple green bean and tomato side, common Zimbabwean home cooking.",
     "ingredients_full": [
       {
@@ -486,7 +451,8 @@
     "name": "Zimbabwean Pumpkin Leaves (Muboora)",
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
-    "description": "Muboora, pumpkin leaves cooked with peanut sauce, a genuine Zimbabwean vegetable dish.",
+    "course": "side",
+    "description": "Muboora, pumpkin leaves cooked with peanut sauce, a genuine Zimbabwean vegetable dish - real pumpkin leaves aren't a distinct item here, so spinach stands in, missing pumpkin leaves' real slight fuzziness and earthier flavor.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -525,6 +491,7 @@
     "name": "Zimbabwean Roasted Sweet Potato",
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple roasted sweet potato side, a common Zimbabwean staple.",
     "ingredients_full": [
       {
@@ -564,6 +531,7 @@
     "name": "Zimbabwean Beef and Vegetable Stew",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Zimbabwean home cooking.",
     "ingredients_full": [
       {
@@ -623,6 +591,7 @@
     "name": "Zimbabwean Chicken Stew",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple tomato-based chicken stew, common Zimbabwean home cooking.",
     "ingredients_full": [
       {
@@ -672,6 +641,7 @@
     "name": "Zimbabwean Cabbage and Carrot Salad",
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple cabbage and carrot salad, a common Zimbabwean side.",
     "ingredients_full": [
       {
@@ -719,6 +689,7 @@
     "name": "Zimbabwean Rice with Peas",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "side",
     "description": "A simple rice and pea side dish, common Zimbabwean home cooking.",
     "ingredients_full": [
       {
@@ -756,6 +727,7 @@
     "name": "Zimbabwean Groundnut Soup",
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple peanut-based soup, built on real ground peanuts, common across Zimbabwe and the wider Southern African region.",
     "ingredients_full": [
       {
@@ -792,7 +764,8 @@
   {
     "name": "Zimbabwean Peanut Butter Sauce",
     "cuisine": "zimbabwean",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple ground-peanut sauce base, used across many Zimbabwean stews.",
     "ingredients_full": [
       {
@@ -831,7 +804,8 @@
   {
     "name": "Zimbabwean Tomato Onion Relish",
     "cuisine": "zimbabwean",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-onion relish, a common Zimbabwean condiment alongside sadza.",
     "ingredients_full": [
       {
