@@ -630,7 +630,7 @@
     "cuisine": "ugandan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Beans stewed in real ground peanut sauce, a beloved Ugandan everyday dish.",
+    "description": "Beans stewed in real ground peanut sauce, a beloved Ugandan everyday dish, real technique whisking the peanut butter slowly to keep the sauce smooth rather than clumping.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -645,6 +645,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
@@ -663,14 +668,21 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Cook the onion 3-4 minutes.",
+      "Whisk the peanut butter slowly with the tomatoes and a little water, add to the pot.",
       "Add the cowpeas and simmer 15-18 minutes until thickened."
     ],
     "steps": [
-      "Whisk the peanut butter with the tomatoes and a little water.",
+      "Cook the onion 3-4 minutes.",
+      "Whisk the peanut butter slowly with the tomatoes and a little water, add to the pot.",
       "Add the cowpeas and simmer 15-18 minutes until thickened."
     ],
     "tags": []
@@ -770,7 +782,7 @@
     "cuisine": "ugandan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple tomato-based fish stew, common Ugandan home cooking near Lake Victoria.",
+    "description": "A simple tomato-based fish stew, common Ugandan home cooking near Lake Victoria, real technique cooking the onion down well first to build a proper sweet base before the tomatoes go in.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -786,6 +798,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -803,14 +820,21 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Cook the onion and garlic 4-5 minutes until well softened.",
+      "Add the tomatoes and simmer 8-10 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Cook the onion and garlic 4-5 minutes until well softened.",
+      "Add the tomatoes and simmer 8-10 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -820,26 +844,36 @@
     "cuisine": "ugandan",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Fried ripe plantain, a common Ugandan side dish, real versions using genuinely ripe plantain for real caramelization.",
+    "description": "Fried ripe plantain, a common Ugandan side dish, real versions using genuinely ripe plantain, with a mostly black peel, for real caramelization rather than a starchy, bland result.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges."
     ],
     "steps": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges."
     ],
     "tags": []
   },
@@ -908,7 +942,7 @@
     "cuisine": "ugandan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Ugandan home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Ugandan home cooking, real technique browning the beef properly first to build real flavor before the vegetables go in.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -965,11 +999,11 @@
     ],
     "steps_detailed": [
       "Brown the beef with the onion, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until everything is tender."
     ],
     "steps": [
       "Brown the beef with the onion, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until everything is tender."
     ],
     "tags": []
   },
