@@ -3,7 +3,8 @@
     "name": "Malagasy Romazava",
     "cuisine": "malagasy",
     "meal_type": "dinner",
-    "description": "Romazava, a leafy green and meat broth, is widely considered Madagascar's national dish - real romazava uses several specific local greens together, which aren't distinct items here, so this leans on spinach and kale for a similar leafy character.",
+    "course": "complete",
+    "description": "Romazava, a leafy green and meat broth, is widely considered Madagascar's national dish - real romazava uses several specific local greens together, which aren't distinct items here, so this leans on spinach and kale for a similar leafy character, real technique simmering the meat long enough to build real broth depth before the greens go in.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -29,6 +30,11 @@
         "ingredient": "Fresh ginger",
         "qty": 0.5,
         "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -56,14 +62,19 @@
         "ingredient": "Fresh ginger",
         "qty": 0.5,
         "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Simmer the beef with the onion and ginger in 2 cups water 30-35 minutes until tender.",
+      "Simmer the beef with the onion, ginger, and garlic in 2 cups water 30-35 minutes until tender and the broth has real depth.",
       "Add the spinach and kale, and simmer 8-10 minutes until wilted."
     ],
     "steps": [
-      "Simmer the beef with the onion and ginger in 2 cups water 30-35 minutes until tender.",
+      "Simmer the beef with the onion, ginger, and garlic in 2 cups water 30-35 minutes until tender and the broth has real depth.",
       "Add the spinach and kale, and simmer 8-10 minutes until wilted."
     ],
     "tags": []
@@ -72,6 +83,7 @@
     "name": "Malagasy Vary Amin'anana",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Vary amin'anana, rice cooked together with greens and meat into a thick, porridge-like dish, is a genuine Malagasy comfort food, real greens simmered directly into the rice rather than served alongside.",
     "ingredients_full": [
       {
@@ -133,6 +145,7 @@
     "name": "Malagasy Ravitoto",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Ravitoto, pounded cassava leaves stewed with pork, is one of Madagascar's most beloved dishes - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
     "ingredients_full": [
       {
@@ -192,6 +205,7 @@
     "name": "Malagasy Akoho sy Voanio (Chicken with Coconut)",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Akoho sy voanio, chicken simmered in real coconut milk, reflects Madagascar's genuine Southeast Asian ancestral and culinary ties alongside its African influences.",
     "ingredients_full": [
       {
@@ -251,6 +265,7 @@
     "name": "Malagasy Vary sy Laoka (Rice with Side Dish)",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Vary sy laoka, rice paired with any accompanying dish, reflects the true structure of Malagasy eating - rice is eaten at nearly every meal, with the laoka (side) considered secondary.",
     "ingredients_full": [
       {
@@ -302,6 +317,7 @@
     "name": "Malagasy Ranovola (Burnt Rice Water)",
     "cuisine": "malagasy",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Ranovola (or ranon'ampango), water infused with the toasted rice stuck to the bottom of the pot, is a genuine Malagasy daily drink, traditionally served with every meal instead of plain water.",
     "ingredients_full": [
       {
@@ -331,6 +347,7 @@
     "name": "Malagasy Mofo Gasy",
     "cuisine": "malagasy",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Mofo gasy, a small rice-flour cake cooked in a special round-holed pan, is a beloved Malagasy breakfast street food.",
     "ingredients_full": [
       {
@@ -380,6 +397,7 @@
     "name": "Malagasy Zebu Skewers",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Grilled zebu (a local cattle breed) is central to Malagasy meat cooking - beef stands in here as a widely available, similarly hearty substitute.",
     "ingredients_full": [
       {
@@ -428,7 +446,8 @@
   {
     "name": "Malagasy Sakay",
     "cuisine": "malagasy",
-    "meal_type": "lunch",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "Sakay, a fiery chili condiment, is one of Madagascar's most essential table sauces, spooned onto nearly everything.",
     "ingredients_full": [
       {
@@ -476,6 +495,7 @@
     "name": "Malagasy Fish Curry",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A coconut-based fish curry, reflecting Madagascar's Indian Ocean coastal tradition and Indian culinary influence.",
     "ingredients_full": [
       {
@@ -522,11 +542,13 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the curry powder in a little oil 30 seconds to bloom it.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the curry powder in a little oil 30 seconds to bloom it.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -535,6 +557,7 @@
     "name": "Malagasy Green Bean Stew",
     "cuisine": "malagasy",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple green bean and tomato stew, common Malagasy home cooking.",
     "ingredients_full": [
       {
@@ -571,10 +594,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until the beans are tender."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Add the green beans and simmer 12-15 minutes until tender."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until the beans are tender."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Add the green beans and simmer 12-15 minutes until tender."
     ],
     "tags": []
   },
@@ -582,6 +607,7 @@
     "name": "Malagasy Koba (Peanut Cake)",
     "cuisine": "malagasy",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Koba, a dense peanut and rice-flour cake steamed in banana leaf, is a beloved Malagasy sweet, traditionally sold in banana-leaf-wrapped logs.",
     "ingredients_full": [
       {
@@ -631,6 +657,7 @@
     "name": "Malagasy Vanilla Rice Pudding",
     "cuisine": "malagasy",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple rice pudding flavored with real vanilla, honoring Madagascar's status as one of the world's largest vanilla producers.",
     "ingredients_full": [
       {
@@ -690,6 +717,7 @@
     "name": "Malagasy Roasted Peanuts",
     "cuisine": "malagasy",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Madagascar.",
     "ingredients_full": [
       {
@@ -717,7 +745,8 @@
     "name": "Malagasy Tomato Onion Salad",
     "cuisine": "malagasy",
     "meal_type": "lunch",
-    "description": "A simple tomato and onion salad, a common Malagasy side.",
+    "course": "side",
+    "description": "A simple tomato and onion salad, a common Malagasy side, real technique letting the onion sit briefly in lemon juice to mellow first.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -753,10 +782,12 @@
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes.",
+      "Add the tomatoes and toss together."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes.",
+      "Add the tomatoes and toss together."
     ],
     "tags": []
   },
@@ -764,6 +795,7 @@
     "name": "Malagasy Chicken and Rice",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple chicken and rice dish, real Malagasy meals always centering rice as the main component.",
     "ingredients_full": [
       {
@@ -813,6 +845,7 @@
     "name": "Malagasy Coconut Fish",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple coconut-milk-poached fish, reflecting Madagascar's coastal and Southeast Asian-influenced cooking traditions.",
     "ingredients_full": [
       {
@@ -862,6 +895,7 @@
     "name": "Malagasy Beef Stew",
     "cuisine": "malagasy",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Malagasy home cooking.",
     "ingredients_full": [
       {
@@ -882,6 +916,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -905,14 +944,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -920,7 +964,8 @@
   {
     "name": "Malagasy Vanilla and Honey Drizzle",
     "cuisine": "malagasy",
-    "meal_type": "snack",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple drizzle built on real vanilla, honoring Madagascar's status as one of the world's top vanilla producers.",
     "ingredients_full": [
       {
@@ -959,7 +1004,8 @@
   {
     "name": "Malagasy Tomato Ginger Sauce",
     "cuisine": "malagasy",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-ginger sauce base, used across many Malagasy stews.",
     "ingredients_full": [
       {
@@ -996,10 +1042,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion and ginger 3-4 minutes.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion and ginger 3-4 minutes.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

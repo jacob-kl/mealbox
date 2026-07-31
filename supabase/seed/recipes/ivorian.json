@@ -100,6 +100,11 @@
         "ingredient": "Cassava",
         "qty": 200,
         "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -107,13 +112,20 @@
         "ingredient": "Cassava",
         "qty": 200,
         "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Steam the grated cassava over simmering water 20-25 minutes, fluffing occasionally with a fork, until it takes on a light, granular, couscous-like texture."
+      "Toss the grated cassava with the salt.",
+      "Steam over simmering water 20-25 minutes, fluffing occasionally with a fork, until it takes on a light, granular, couscous-like texture."
     ],
     "steps": [
-      "Steam the grated cassava over simmering water 20-25 minutes, fluffing occasionally with a fork, until it takes on a light, granular, couscous-like texture."
+      "Toss the grated cassava with the salt.",
+      "Steam over simmering water 20-25 minutes, fluffing occasionally with a fork, until it takes on a light, granular, couscous-like texture."
     ],
     "tags": []
   },
@@ -436,6 +448,11 @@
         "ingredient": "Cassava",
         "qty": 200,
         "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -443,6 +460,11 @@
         "ingredient": "Cassava",
         "qty": 200,
         "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
@@ -814,10 +836,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve as-is, common across C\u00f4te d'Ivoire as an everyday snack."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve as-is, common across C\u00f4te d'Ivoire as an everyday snack."
     ],
     "tags": []
   },
@@ -826,36 +848,48 @@
     "cuisine": "ivorian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Simple fried cassava chips, a common Ivorian snack.",
+    "description": "Simple fried cassava chips, a common Ivorian snack, real technique slicing evenly so every piece fries crisp at the same rate.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "thinly and evenly sliced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "thinly and evenly sliced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Fry the cassava slices in batches, turning, 4-5 minutes, until golden and crisp.",
+      "Drain briefly and season with salt while still hot."
     ],
     "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Fry the cassava slices in batches, turning, 4-5 minutes, until golden and crisp.",
+      "Drain briefly and season with salt while still hot."
     ],
     "tags": []
   },
@@ -864,7 +898,7 @@
     "cuisine": "ivorian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A mayonnaise-dressed cabbage salad, a common Ivorian party-food side.",
+    "description": "A mayonnaise-dressed cabbage salad, a common Ivorian party-food side, real versions with a touch of mustard for depth.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -880,6 +914,11 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -897,13 +936,20 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "tags": []
   },
@@ -938,10 +984,12 @@
       }
     ],
     "steps_detailed": [
-      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+      "Warm the hibiscus tea and stir in the sugar until fully dissolved.",
+      "Chill completely and serve over ice."
     ],
     "steps": [
-      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+      "Warm the hibiscus tea and stir in the sugar until fully dissolved.",
+      "Chill completely and serve over ice."
     ],
     "tags": []
   },
@@ -986,10 +1034,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the bell pepper and jalape\u00f1o in a little oil 3-4 minutes.",
+      "Add the tomatoes and simmer 15-18 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the bell pepper and jalape\u00f1o in a little oil 3-4 minutes.",
+      "Add the tomatoes and simmer 15-18 minutes until thickened."
     ],
     "tags": []
   },

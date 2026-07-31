@@ -3,7 +3,8 @@
     "name": "Mozambican Piri Piri Chicken",
     "cuisine": "mozambican",
     "meal_type": "dinner",
-    "description": "Frango \u00e0 zambeziana (piri piri chicken), grilled chicken basted in a fiery chili-and-garlic sauce, is Mozambique's most famous culinary export, reflecting real Portuguese colonial influence merged with African bird's-eye chili.",
+    "course": "complete",
+    "description": "Frango \u00e0 zambeziana (piri piri chicken), grilled chicken basted in a fiery chili-and-garlic sauce, is Mozambique's most famous culinary export, reflecting real Portuguese colonial influence merged with African bird's-eye chili - real technique marinates the chicken overnight for the sauce to actually penetrate the meat, not just coat the surface, and basting continues throughout grilling, not just at the start.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -29,6 +30,11 @@
         "ingredient": "Olive oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -56,17 +62,22 @@
         "ingredient": "Olive oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Blend the jalape\u00f1o, garlic, lemon juice, and olive oil into a smooth sauce.",
-      "Marinate the chicken in the sauce for at least 30 minutes, or overnight for real depth.",
-      "Grill, turning and basting with more sauce, 12-15 minutes, until charred and cooked through."
+      "Blend the jalape\u00f1o, garlic, lemon juice, olive oil, and paprika into a smooth sauce.",
+      "Marinate the chicken in the sauce for at least 30 minutes, ideally overnight, so the flavor actually penetrates the meat.",
+      "Grill, turning and basting with more sauce every few minutes, 12-15 minutes, until charred and cooked through."
     ],
     "steps": [
-      "Blend the jalape\u00f1o, garlic, lemon juice, and olive oil into a smooth sauce.",
-      "Marinate the chicken in the sauce for at least 30 minutes, or overnight for real depth.",
-      "Grill, turning and basting with more sauce, 12-15 minutes, until charred and cooked through."
+      "Blend the jalape\u00f1o, garlic, lemon juice, olive oil, and paprika into a smooth sauce.",
+      "Marinate the chicken in the sauce for at least 30 minutes, ideally overnight, so the flavor actually penetrates the meat.",
+      "Grill, turning and basting with more sauce every few minutes, 12-15 minutes, until charred and cooked through."
     ],
     "tags": []
   },
@@ -74,7 +85,8 @@
     "name": "Mozambican Matapa",
     "cuisine": "mozambican",
     "meal_type": "dinner",
-    "description": "Matapa, cassava leaves simmered in ground peanuts and coconut milk, is widely considered Mozambique's national dish - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
+    "course": "complete",
+    "description": "Matapa, cassava leaves simmered in ground peanuts and coconut milk, is widely considered Mozambique's national dish - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation, real technique building the sauce slowly so it doesn't separate.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -121,13 +133,13 @@
     ],
     "steps_detailed": [
       "Cook the garlic in a little oil 30 seconds.",
-      "Whisk in the peanut butter and coconut milk, then add the spinach.",
-      "Simmer 15-18 minutes until well combined and thickened."
+      "Whisk in the peanut butter gradually, then the coconut milk, keeping the sauce smooth.",
+      "Add the spinach and simmer 15-18 minutes until well combined and thickened."
     ],
     "steps": [
       "Cook the garlic in a little oil 30 seconds.",
-      "Whisk in the peanut butter and coconut milk, then add the spinach.",
-      "Simmer 15-18 minutes until well combined and thickened."
+      "Whisk in the peanut butter gradually, then the coconut milk, keeping the sauce smooth.",
+      "Add the spinach and simmer 15-18 minutes until well combined and thickened."
     ],
     "tags": []
   },
@@ -135,12 +147,18 @@
     "name": "Mozambican Xima",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Xima, a stiff maize porridge, is Mozambique's most essential staple starch, closely related to South African pap and Zimbabwean sadza.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -148,15 +166,20 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, 15-18 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and smooth."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, 15-18 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and smooth."
     ],
     "tags": []
   },
@@ -164,6 +187,7 @@
     "name": "Mozambican Camar\u00e3o \u00e0 Mo\u00e7ambicana",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Camar\u00e3o \u00e0 mo\u00e7ambicana, shrimp simmered in a coconut-piri piri sauce, reflects Mozambique's Indian Ocean coastal tradition and real Portuguese culinary influence.",
     "ingredients_full": [
       {
@@ -212,12 +236,12 @@
     "steps_detailed": [
       "Cook the garlic and jalape\u00f1o in a little oil 1 minute.",
       "Add the coconut milk and simmer 5 minutes.",
-      "Add the shrimp and simmer 3-4 minutes until just pink."
+      "Add the shrimp and simmer 3-4 minutes until just pink, taking care not to overcook."
     ],
     "steps": [
       "Cook the garlic and jalape\u00f1o in a little oil 1 minute.",
       "Add the coconut milk and simmer 5 minutes.",
-      "Add the shrimp and simmer 3-4 minutes until just pink."
+      "Add the shrimp and simmer 3-4 minutes until just pink, taking care not to overcook."
     ],
     "tags": []
   },
@@ -225,6 +249,7 @@
     "name": "Mozambican Caril de Caranguejo Style Stew",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A coconut-curry seafood stew in the spirit of Mozambique's real crab curry, reflecting genuine Indian Ocean and Portuguese trade influence.",
     "ingredients_full": [
       {
@@ -271,11 +296,13 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the curry powder in a little oil 30 seconds to bloom its flavor.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the curry powder in a little oil 30 seconds to bloom its flavor.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -283,8 +310,9 @@
   {
     "name": "Mozambican Piri Piri Sauce",
     "cuisine": "mozambican",
-    "meal_type": "lunch",
-    "description": "Piri piri sauce, a fiery chili condiment, is Mozambique's most iconic culinary export - real African bird's eye chili isn't a distinct item here, so jalape\u00f1o stands in, though it's far milder.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Piri piri sauce, a fiery chili condiment, is Mozambique's most iconic culinary export - real African bird's eye chili isn't a distinct item here, so jalape\u00f1o stands in, though it's far milder than the real thing.",
     "ingredients_full": [
       {
         "ingredient": "Jalapeno pepper",
@@ -341,6 +369,7 @@
     "name": "Mozambican Grilled Fish with Piri Piri",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Grilled fish basted in real piri piri sauce, reflecting Mozambique's coastal fishing and Portuguese-influenced grilling tradition.",
     "ingredients_full": [
       {
@@ -400,6 +429,7 @@
     "name": "Mozambican Coconut Rice",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Rice cooked in real coconut milk, reflecting Mozambique's coastal culinary tradition.",
     "ingredients_full": [
       {
@@ -411,6 +441,11 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -423,13 +458,18 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Cook the rice with the coconut milk in place of some of the water, along with the salt, per package timing, until tender."
     ],
     "steps": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Cook the rice with the coconut milk in place of some of the water, along with the salt, per package timing, until tender."
     ],
     "tags": []
   },
@@ -437,6 +477,7 @@
     "name": "Mozambican Cashew Snack",
     "cuisine": "mozambican",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted cashew snack, cashews being a significant Mozambican export crop, especially from the northern regions.",
     "ingredients_full": [
       {
@@ -464,6 +505,7 @@
     "name": "Mozambican P\u00e3ozinho with Piri Piri Butter",
     "cuisine": "mozambican",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "P\u00e3ozinho, small Portuguese-style bread rolls, reflect genuine colonial influence, spread here with a real piri piri butter.",
     "ingredients_full": [
       {
@@ -513,7 +555,8 @@
     "name": "Mozambican Bean Stew",
     "cuisine": "mozambican",
     "meal_type": "dinner",
-    "description": "A simple bean stew, common Mozambican home cooking.",
+    "course": "complete",
+    "description": "A simple bean stew, common Mozambican home cooking, real technique cooking the onion down well first.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -549,10 +592,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion 4-5 minutes, then add the cowpeas and tomatoes.",
+      "Simmer 15-18 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion 4-5 minutes, then add the cowpeas and tomatoes.",
+      "Simmer 15-18 minutes until thickened."
     ],
     "tags": []
   },
@@ -560,7 +605,8 @@
     "name": "Mozambican Fried Cassava",
     "cuisine": "mozambican",
     "meal_type": "snack",
-    "description": "Simple fried cassava, a common Mozambican side dish.",
+    "course": "complete",
+    "description": "Simple fried cassava, a common Mozambican side dish, real technique parboiling first so the cassava crisps outside while staying tender inside.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
@@ -571,6 +617,11 @@
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -583,13 +634,22 @@
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Boil the cassava until just tender, 12-15 minutes, then fry in the oil, turning, 5-6 minutes, until golden."
+      "Boil the cassava until just tender, 12-15 minutes.",
+      "Fry in the oil, turning, 5-6 minutes, until golden and crisp outside.",
+      "Season with salt while still hot."
     ],
     "steps": [
-      "Boil the cassava until just tender, 12-15 minutes, then fry in the oil, turning, 5-6 minutes, until golden."
+      "Boil the cassava until just tender, 12-15 minutes.",
+      "Fry in the oil, turning, 5-6 minutes, until golden and crisp outside.",
+      "Season with salt while still hot."
     ],
     "tags": []
   },
@@ -597,6 +657,7 @@
     "name": "Mozambican Chamussas",
     "cuisine": "mozambican",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Chamussas, fried triangular pastries with a spiced filling, reflect genuine Indian and Portuguese culinary influence, a beloved Mozambican snack.",
     "ingredients_full": [
       {
@@ -668,6 +729,7 @@
     "name": "Mozambican Tropical Fruit Salad",
     "cuisine": "mozambican",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple tropical fruit salad, built on Mozambique's abundant local fruit.",
     "ingredients_full": [
       {
@@ -705,6 +767,7 @@
     "name": "Mozambican Chicken Curry",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A coconut-based chicken curry, reflecting genuine Indian Ocean trade and Portuguese colonial influence.",
     "ingredients_full": [
       {
@@ -751,12 +814,12 @@
       }
     ],
     "steps_detailed": [
-      "Cook the curry powder in a little oil 30 seconds.",
+      "Cook the curry powder in a little oil 30 seconds to bloom it.",
       "Add the chicken and tomatoes, and cook 8-9 minutes.",
       "Add the coconut milk and simmer 12-15 minutes until tender."
     ],
     "steps": [
-      "Cook the curry powder in a little oil 30 seconds.",
+      "Cook the curry powder in a little oil 30 seconds to bloom it.",
       "Add the chicken and tomatoes, and cook 8-9 minutes.",
       "Add the coconut milk and simmer 12-15 minutes until tender."
     ],
@@ -766,6 +829,7 @@
     "name": "Mozambican Kale with Coconut",
     "cuisine": "mozambican",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple coconut-milk-braised kale, common Mozambican home cooking, similar in spirit to matapa.",
     "ingredients_full": [
       {
@@ -815,6 +879,7 @@
     "name": "Mozambican Beef Stew",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Mozambican home cooking.",
     "ingredients_full": [
       {
@@ -836,6 +901,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -858,14 +928,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -874,7 +949,8 @@
     "name": "Mozambican Coleslaw",
     "cuisine": "mozambican",
     "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Mozambican side.",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Mozambican side, real versions with a touch of mustard for depth.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -890,6 +966,11 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -907,13 +988,20 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "tags": []
   },
@@ -921,6 +1009,7 @@
     "name": "Mozambican Peri Peri Prawns",
     "cuisine": "mozambican",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Prawns marinated and grilled in real piri piri, a beloved Mozambican coastal specialty.",
     "ingredients_full": [
       {
@@ -979,7 +1068,8 @@
   {
     "name": "Mozambican Tomato Onion Relish",
     "cuisine": "mozambican",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-onion relish, a common Mozambican condiment.",
     "ingredients_full": [
       {
@@ -1016,10 +1106,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

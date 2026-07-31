@@ -102,6 +102,11 @@
         "ingredient": "Cassava",
         "qty": 250,
         "note": "boiled"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -109,6 +114,11 @@
         "ingredient": "Cassava",
         "qty": 250,
         "note": "boiled"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
@@ -256,6 +266,11 @@
         "ingredient": "Cassava",
         "qty": 200,
         "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -263,6 +278,11 @@
         "ingredient": "Cassava",
         "qty": 200,
         "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
@@ -401,6 +421,11 @@
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -413,13 +438,18 @@
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+      "Cook the rice and cowpeas together with the salt and enough water, 18-20 minutes, until tender."
     ],
     "steps": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+      "Cook the rice and cowpeas together with the salt and enough water, 18-20 minutes, until tender."
     ],
     "tags": []
   },
@@ -428,7 +458,7 @@
     "cuisine": "congolese",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Fried ripe plantain, a common Congolese side dish, shared across the wider Central African region.",
+    "description": "Fried ripe plantain, a common Congolese side dish, shared across the wider Central African region, real versions using genuinely ripe plantain for real caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
@@ -454,10 +484,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -530,7 +560,7 @@
     "cuisine": "congolese",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple peanut-based soup, built on real ground peanuts, common across DR Congo and the wider Central African region.",
+    "description": "A simple peanut-based soup, built on real ground peanuts, common across DR Congo and the wider Central African region, real versions whisked slowly to avoid clumping.",
     "ingredients_full": [
       {
         "ingredient": "Peanut butter",
@@ -541,6 +571,11 @@
         "ingredient": "Chicken broth",
         "qty": 1.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -553,13 +588,20 @@
         "ingredient": "Chicken broth",
         "qty": 1.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Whisk in the peanut butter and broth slowly and simmer 12-15 minutes until smooth and slightly thickened."
     ],
     "steps": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Whisk in the peanut butter and broth slowly and simmer 12-15 minutes until smooth and slightly thickened."
     ],
     "tags": []
   },
@@ -634,10 +676,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve as-is, common across DR Congo as an everyday snack."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve as-is, common across DR Congo as an everyday snack."
     ],
     "tags": []
   },
@@ -696,7 +738,7 @@
     "cuisine": "congolese",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple bean stew, common Congolese home cooking.",
+    "description": "A simple bean stew, common Congolese home cooking, real technique cooking the onion down well first to build a proper sweet base.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -732,10 +774,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion 4-5 minutes, then add the cowpeas and tomatoes.",
+      "Simmer 15-18 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion 4-5 minutes, then add the cowpeas and tomatoes.",
+      "Simmer 15-18 minutes until thickened."
     ],
     "tags": []
   },
@@ -744,36 +788,48 @@
     "cuisine": "congolese",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Simple fried cassava chips, a common Congolese snack.",
+    "description": "Simple fried cassava chips, a common Congolese snack, real technique slicing evenly so every piece fries crisp at the same rate.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "thinly and evenly sliced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "thinly and evenly sliced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Fry the cassava slices in batches, turning, 4-5 minutes, until golden and crisp.",
+      "Drain briefly and season with salt while still hot."
     ],
     "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Fry the cassava slices in batches, turning, 4-5 minutes, until golden and crisp.",
+      "Drain briefly and season with salt while still hot."
     ],
     "tags": []
   },
@@ -842,7 +898,7 @@
     "cuisine": "congolese",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A mayonnaise-dressed cabbage salad, a common Congolese side.",
+    "description": "A mayonnaise-dressed cabbage salad, a common Congolese side, real versions with a touch of mustard for depth.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -858,6 +914,11 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -875,13 +936,20 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "tags": []
   },
@@ -966,10 +1034,10 @@
       }
     ],
     "steps_detailed": [
-      "Mix everything together."
+      "Mix everything together until well combined."
     ],
     "steps": [
-      "Mix everything together."
+      "Mix everything together until well combined."
     ],
     "tags": []
   }

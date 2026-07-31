@@ -322,10 +322,12 @@
       }
     ],
     "steps_detailed": [
-      "Blend the jalape\u00f1o, garlic, cumin, and coriander with the olive oil into a smooth paste."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, cumin, and coriander with the olive oil into a smooth paste."
     ],
     "steps": [
-      "Blend the jalape\u00f1o, garlic, cumin, and coriander with the olive oil into a smooth paste."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, cumin, and coriander with the olive oil into a smooth paste."
     ],
     "tags": []
   },
@@ -576,7 +578,7 @@
     "cuisine": "tunisian",
     "meal_type": "lunch",
     "course": "complete",
-    "description": "A simple hummus, built on real tahini, widely eaten across Tunisia and the wider region.",
+    "description": "A simple hummus, built on real tahini, widely eaten across Tunisia and the wider region, real technique blending long enough for the chickpeas to turn genuinely silky.",
     "ingredients_full": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
@@ -622,10 +624,10 @@
       }
     ],
     "steps_detailed": [
-      "Blend everything with a splash of water until smooth."
+      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water, running the blender a full 2 minutes and scraping down the sides, until smooth and light."
     ],
     "steps": [
-      "Blend everything with a splash of water until smooth."
+      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water, running the blender a full 2 minutes and scraping down the sides, until smooth and light."
     ],
     "tags": []
   },
@@ -634,7 +636,7 @@
     "cuisine": "tunisian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "A simple roasted chickpea snack, common across Tunisia.",
+    "description": "A simple roasted chickpea snack, common across Tunisia, real technique patting the chickpeas completely dry first so they crisp instead of steam.",
     "ingredients_full": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
@@ -670,12 +672,12 @@
       }
     ],
     "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Toss the well-dried chickpeas with the oil and cumin.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking the pan halfway through, until deeply golden and crisp."
     ],
     "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Toss the well-dried chickpeas with the oil and cumin.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking the pan halfway through, until deeply golden and crisp."
     ],
     "tags": []
   },
@@ -705,6 +707,11 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -727,13 +734,18 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss everything together and let sit 5 minutes so the flavors meld."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss everything together and let sit 5 minutes so the flavors meld."
     ],
     "tags": []
   },
@@ -812,6 +824,11 @@
         "ingredient": "Almonds",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -819,13 +836,20 @@
         "ingredient": "Almonds",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+      "Toast the almonds in a dry pan over medium heat, stirring constantly, 4-5 minutes, until fragrant and lightly golden.",
+      "Toss with a pinch of salt while still warm."
     ],
     "steps": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+      "Toast the almonds in a dry pan over medium heat, stirring constantly, 4-5 minutes, until fragrant and lightly golden.",
+      "Toss with a pinch of salt while still warm."
     ],
     "tags": []
   },
@@ -951,7 +975,7 @@
       {
         "ingredient": "Orange",
         "qty": 1,
-        "note": "peeled and sliced"
+        "note": "peeled and sliced into rounds"
       },
       {
         "ingredient": "Ground cinnamon",
@@ -968,7 +992,7 @@
       {
         "ingredient": "Orange",
         "qty": 1,
-        "note": "peeled and sliced"
+        "note": "peeled and sliced into rounds"
       },
       {
         "ingredient": "Ground cinnamon",
@@ -982,10 +1006,12 @@
       }
     ],
     "steps_detailed": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Arrange the orange slices on a plate, overlapping slightly.",
+      "Dust with cinnamon and drizzle with honey."
     ],
     "steps": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Arrange the orange slices on a plate, overlapping slightly.",
+      "Dust with cinnamon and drizzle with honey."
     ],
     "tags": []
   },
@@ -994,7 +1020,7 @@
     "cuisine": "tunisian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and chickpea stew, common Tunisian home cooking.",
+    "description": "A simple, hearty beef and chickpea stew, common Tunisian home cooking, real technique browning the beef well first to build a real flavor base.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -1009,6 +1035,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -1027,14 +1058,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the chickpeas and tomatoes, and simmer 25-30 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the chickpeas and tomatoes, and simmer 25-30 minutes until tender."
     ],
     "tags": []
@@ -1080,10 +1116,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the harissa briefly in the olive oil, 30 seconds, to bloom its flavor.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the harissa briefly in the olive oil, 30 seconds, to bloom its flavor.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   },
@@ -1128,10 +1166,10 @@
       }
     ],
     "steps_detailed": [
-      "Whisk everything together."
+      "Whisk everything together until well combined."
     ],
     "steps": [
-      "Whisk everything together."
+      "Whisk everything together until well combined."
     ],
     "tags": []
   }
