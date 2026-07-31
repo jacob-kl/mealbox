@@ -153,6 +153,11 @@
         "ingredient": "Raisins",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -175,13 +180,20 @@
         "ingredient": "Raisins",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice with the turmeric and sugar per package directions, folding in the raisins once done."
+      "Cook the rice with the turmeric, sugar, and cinnamon per package directions.",
+      "Fold in the raisins once the rice is done and let sit covered 5 minutes so they plump slightly in the residual steam."
     ],
     "steps": [
-      "Cook the rice with the turmeric and sugar per package directions, folding in the raisins once done."
+      "Cook the rice with the turmeric, sugar, and cinnamon per package directions.",
+      "Fold in the raisins once the rice is done and let sit covered 5 minutes so they plump slightly in the residual steam."
     ],
     "tags": []
   },
@@ -190,7 +202,7 @@
     "cuisine": "south-african",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Biltong, air-dried, vinegar-and-spice-cured meat, is a beloved South African staple - real biltong is already fully cured and ready to eat, not a raw ingredient to cook further.",
+    "description": "Biltong, air-dried, vinegar-and-spice-cured meat, is a beloved South African staple with roots going back to preserving meat for long journeys - real biltong is already fully cured and ready to eat, sliced thin against the grain, not a raw ingredient to cook further, and it's traditionally eaten as a standalone snack rather than as part of another dish.",
     "ingredients_full": [
       {
         "ingredient": "Biltong",
@@ -206,10 +218,12 @@
       }
     ],
     "steps_detailed": [
-      "Serve the biltong sliced or torn, as-is."
+      "Slice the biltong thin, against the grain, for the most tender bite.",
+      "Serve as-is, at room temperature - it needs no further preparation."
     ],
     "steps": [
-      "Serve the biltong sliced or torn, as-is."
+      "Slice the biltong thin, against the grain, for the most tender bite.",
+      "Serve as-is, at room temperature - it needs no further preparation."
     ],
     "tags": []
   },
@@ -218,7 +232,7 @@
     "cuisine": "south-african",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Boerewors, a coiled, spiced sausage, is a genuine South African staple, real recipes built on a specific ratio of coriander and other warming spices - traditionally grilled whole in its coil over an open flame.",
+    "description": "Boerewors, a coiled, spiced sausage, is a genuine South African staple, real recipes built on a specific ratio of coriander and other warming spices - traditionally grilled whole in its coil over an open flame rather than cut into individual links first, which helps it hold its shape and stay juicy.",
     "ingredients_full": [
       {
         "ingredient": "Boerewors",
@@ -234,10 +248,14 @@
       }
     ],
     "steps_detailed": [
-      "Grill the boerewors, coiled, over medium-high heat, turning once, 12-15 minutes, until cooked through and well charred."
+      "Keep the boerewors coiled in its traditional spiral shape and thread a skewer through it to hold the coil together on the grill.",
+      "Grill over medium-high heat, turning the whole coil once, 12-15 minutes, until cooked through and well charred on both sides.",
+      "Slice into portions only after grilling, once it's rested a couple minutes."
     ],
     "steps": [
-      "Grill the boerewors, coiled, over medium-high heat, turning once, 12-15 minutes, until cooked through and well charred."
+      "Keep the boerewors coiled in its traditional spiral shape and thread a skewer through it to hold the coil together on the grill.",
+      "Grill over medium-high heat, turning the whole coil once, 12-15 minutes, until cooked through and well charred on both sides.",
+      "Slice into portions only after grilling, once it's rested a couple minutes."
     ],
     "tags": []
   },
@@ -267,6 +285,11 @@
         "ingredient": "Curry powder",
         "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -289,13 +312,20 @@
         "ingredient": "Curry powder",
         "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes until the vegetables are tender but still have some bite."
+      "Cook the onion 3-4 minutes until just softened.",
+      "Add the carrot, bell pepper, tomatoes, and curry powder, and simmer 12-15 minutes until the vegetables are tender but still have real bite."
     ],
     "steps": [
-      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes until the vegetables are tender but still have some bite."
+      "Cook the onion 3-4 minutes until just softened.",
+      "Add the carrot, bell pepper, tomatoes, and curry powder, and simmer 12-15 minutes until the vegetables are tender but still have real bite."
     ],
     "tags": []
   },
@@ -530,12 +560,17 @@
     "cuisine": "south-african",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Pap, a stiff maize porridge, is a South African staple starch, eaten daily alongside grilled meat and chakalaka.",
+    "description": "Pap, a stiff maize porridge, is a South African staple starch shared with Zimbabwean sadza, eaten daily alongside grilled meat and chakalaka, real technique stirring continuously as it thickens to keep it smooth and lump-free.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -543,15 +578,20 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring often, over low heat 15-18 minutes until very thick."
+      "Whisk the cornmeal and salt into 1.25 cups boiling water.",
+      "Cook, stirring constantly to prevent lumps, over low heat 15-18 minutes until very thick and it pulls away from the sides of the pot."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring often, over low heat 15-18 minutes until very thick."
+      "Whisk the cornmeal and salt into 1.25 cups boiling water.",
+      "Cook, stirring constantly to prevent lumps, over low heat 15-18 minutes until very thick and it pulls away from the sides of the pot."
     ],
     "tags": []
   },
@@ -660,7 +700,7 @@
     "cuisine": "south-african",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Vetkoek, fried dough often filled with spiced mince, a beloved South African snack.",
+    "description": "Vetkoek, meaning 'fat cake', is fried dough often filled with spiced mince, a beloved South African snack, real technique letting the dough rest so the leavening has time to work before frying, giving a lighter, less dense interior.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -697,13 +737,13 @@
     ],
     "steps_detailed": [
       "Mix the flour and baking powder with warm water into a soft dough.",
-      "Let rest 15 minutes.",
-      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+      "Let rest 15 minutes so the baking powder has time to activate, giving a lighter texture.",
+      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden and cooked through in the center."
     ],
     "steps": [
       "Mix the flour and baking powder with warm water into a soft dough.",
-      "Let rest 15 minutes.",
-      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+      "Let rest 15 minutes so the baking powder has time to activate, giving a lighter texture.",
+      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden and cooked through in the center."
     ],
     "tags": []
   },
@@ -784,7 +824,7 @@
     "cuisine": "south-african",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Melktert, a real South African custard tart with a distinctive cinnamon-dusted top, a beloved Cape Malay-influenced dessert.",
+    "description": "Melktert, a real South African custard tart with a distinctive cinnamon-dusted top, is a beloved Cape Malay-influenced dessert, real technique baking the crust separately first (blind baking) so it stays crisp under the custard rather than turning soggy.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -884,10 +924,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve the peanuts as-is, a common accompaniment to a cold drink at a South African braai."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve the peanuts as-is, a common accompaniment to a cold drink at a South African braai."
     ],
     "tags": []
   },
@@ -956,7 +996,7 @@
     "cuisine": "south-african",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A mayonnaise-dressed cabbage salad, a common South African braai side.",
+    "description": "A mayonnaise-dressed cabbage salad, a common South African braai side, real versions often sharpened with a splash of vinegar to cut the mayonnaise's richness.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -972,6 +1012,11 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -989,13 +1034,20 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and vinegar together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and vinegar together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "tags": []
   },
@@ -1004,7 +1056,7 @@
     "cuisine": "south-african",
     "meal_type": "sauce",
     "course": "complete",
-    "description": "Smoor, a simple tomato-onion relish, a common South African condiment, often served alongside pap or grilled meat.",
+    "description": "Smoor, a simple tomato-onion relish, is a common South African condiment often served alongside pap or grilled meat, real technique cooking the onion down until genuinely soft and sweet before adding the tomatoes.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -1013,7 +1065,7 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 50,
         "note": ""
       },
       {
@@ -1030,7 +1082,7 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 50,
         "note": ""
       },
       {
@@ -1040,10 +1092,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil, 6-7 minutes, until softened and starting to turn golden.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened and well combined."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil, 6-7 minutes, until softened and starting to turn golden.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened and well combined."
     ],
     "tags": []
   },
@@ -1068,6 +1122,11 @@
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1085,13 +1144,18 @@
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the curry powder, oil, and garlic together."
+      "Whisk the curry powder, oil, garlic, and lemon juice together until well combined."
     ],
     "steps": [
-      "Mix the curry powder, oil, and garlic together."
+      "Whisk the curry powder, oil, garlic, and lemon juice together until well combined."
     ],
     "tags": []
   },
@@ -1111,6 +1175,11 @@
         "ingredient": "Vinegar, distilled",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1123,13 +1192,18 @@
         "ingredient": "Vinegar, distilled",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Warm the apricot jam with the vinegar until smooth and pourable."
+      "Warm the apricot jam with the vinegar and curry powder, stirring, until smooth and pourable."
     ],
     "steps": [
-      "Warm the apricot jam with the vinegar until smooth and pourable."
+      "Warm the apricot jam with the vinegar and curry powder, stirring, until smooth and pourable."
     ],
     "tags": []
   }

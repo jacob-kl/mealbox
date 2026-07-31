@@ -398,7 +398,7 @@
     "cuisine": "ethiopian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Gomen, collard greens simmered simply with garlic and ginger, a genuine Ethiopian staple side, real technique keeping the greens tender but not mushy.",
+    "description": "Gomen, collard greens simmered simply with garlic and ginger, is a genuine Ethiopian staple side shared with Ethiopia's neighbors, real technique keeping the greens tender but not mushy by not over-simmering once they wilt.",
     "ingredients_full": [
       {
         "ingredient": "Collard greens",
@@ -414,6 +414,11 @@
         "ingredient": "Fresh ginger",
         "qty": 0.5,
         "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       },
       {
         "ingredient": "Vegetable oil",
@@ -438,18 +443,23 @@
         "note": "tsp, grated"
       },
       {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
         "ingredient": "Vegetable oil",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Cook the garlic and ginger in the oil 1 minute.",
-      "Add the collard greens and a splash of water, and simmer 15-18 minutes until tender."
+      "Cook the onion, garlic, and ginger in the oil, 3-4 minutes, until fragrant.",
+      "Add the collard greens and a splash of water, and simmer 15-18 minutes until just tender - pull it off the heat as soon as the greens wilt fully, so they don't turn mushy."
     ],
     "steps": [
-      "Cook the garlic and ginger in the oil 1 minute.",
-      "Add the collard greens and a splash of water, and simmer 15-18 minutes until tender."
+      "Cook the onion, garlic, and ginger in the oil, 3-4 minutes, until fragrant.",
+      "Add the collard greens and a splash of water, and simmer 15-18 minutes until just tender - pull it off the heat as soon as the greens wilt fully, so they don't turn mushy."
     ],
     "tags": []
   },
@@ -588,7 +598,7 @@
     "cuisine": "ethiopian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Sega wat, beef stewed in the same real dry-onion, berbere, and niter kibbeh technique as doro wat, a beloved everyday version without the egg.",
+    "description": "Sega wat, beef stewed in the same real dry-onion, berbere, and niter kibbeh technique as doro wat, is a beloved everyday version without the egg, real technique letting the onions cook completely dry and unattended before adding any fat.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -609,6 +619,11 @@
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Berbere spice",
@@ -638,19 +653,24 @@
         "note": "minced"
       },
       {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
         "ingredient": "Berbere spice",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Cook the onion alone in a dry pot 20-22 minutes until deeply caramelized.",
-      "Add the ghee and garlic, cooking 2 minutes, then stir in the berbere and cook 2 minutes more.",
+      "Cook the onion alone in a dry pot, no oil, 20-22 minutes, stirring often, until deeply caramelized.",
+      "Add the ghee, garlic, and ginger, cooking 2 minutes, then stir in the berbere and cook 2 minutes more until fragrant.",
       "Add the beef and a splash of water, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Cook the onion alone in a dry pot 20-22 minutes until deeply caramelized.",
-      "Add the ghee and garlic, cooking 2 minutes, then stir in the berbere and cook 2 minutes more.",
+      "Cook the onion alone in a dry pot, no oil, 20-22 minutes, stirring often, until deeply caramelized.",
+      "Add the ghee, garlic, and ginger, cooking 2 minutes, then stir in the berbere and cook 2 minutes more until fragrant.",
       "Add the beef and a splash of water, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -660,12 +680,17 @@
     "cuisine": "ethiopian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Ayib, a mild, crumbly fresh cheese, a genuine Ethiopian staple often served alongside spicy stews to cool the palate.",
+    "description": "Ayib, a mild, crumbly fresh cheese similar to a dry cottage cheese, is a genuine Ethiopian staple often served alongside spicy stews to cool the palate - real ayib is traditionally made by simply letting soured milk separate, then draining the curds, with no rennet or culture needed.",
     "ingredients_full": [
       {
         "ingredient": "Cottage cheese 2%",
         "qty": 150,
         "note": ""
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -673,13 +698,20 @@
         "ingredient": "Cottage cheese 2%",
         "qty": 150,
         "note": ""
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Drain the cottage cheese well and serve alongside spicy dishes."
+      "Drain the cottage cheese well in a fine sieve for a few minutes, pressing gently to remove excess liquid, until it reaches a dry, crumbly texture.",
+      "Toss with the chopped mint and serve alongside spicy stews to cool the palate between bites."
     ],
     "steps": [
-      "Drain the cottage cheese well and serve alongside spicy dishes."
+      "Drain the cottage cheese well in a fine sieve for a few minutes, pressing gently to remove excess liquid, until it reaches a dry, crumbly texture.",
+      "Toss with the chopped mint and serve alongside spicy stews to cool the palate between bites."
     ],
     "tags": []
   },
@@ -688,7 +720,7 @@
     "cuisine": "ethiopian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Timatim salata, a simple, bright tomato and onion salad, a common Ethiopian accompaniment.",
+    "description": "Timatim salata, a simple, bright tomato and onion salad, is a common Ethiopian accompaniment served alongside injera and richer stews, real versions letting the onion sit briefly in the lemon juice first to mellow its raw bite.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -708,6 +740,11 @@
       {
         "ingredient": "Lemon juice, raw",
         "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.5,
         "note": "tbsp"
       }
     ],
@@ -731,13 +768,20 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 0.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes to mellow its sharpness.",
+      "Add the tomatoes, jalape\u00f1o, and olive oil, and toss together."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes to mellow its sharpness.",
+      "Add the tomatoes, jalape\u00f1o, and olive oil, and toss together."
     ],
     "tags": []
   },
@@ -802,6 +846,11 @@
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -809,12 +858,19 @@
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Spices, chili powder",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
+      "Toss the peanuts with a small pinch of chili powder for a common, simple Ethiopian spiced-nut variation.",
       "Serve as-is."
     ],
     "steps": [
+      "Toss the peanuts with a small pinch of chili powder for a common, simple Ethiopian spiced-nut variation.",
       "Serve as-is."
     ],
     "tags": []
@@ -824,7 +880,7 @@
     "cuisine": "ethiopian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Ethiopian home cooking outside the berbere-forward wats.",
+    "description": "A simple, hearty beef and vegetable stew, common Ethiopian home cooking outside the berbere-forward wats, real technique browning the beef in real batches so it sears properly rather than steaming from overcrowding the pan.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -844,6 +900,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -867,15 +928,22 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+      "Brown the beef in batches if needed, 8-9 minutes total, so each piece sears rather than steams.",
+      "Add the onion and cook 3-4 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until everything is tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+      "Brown the beef in batches if needed, 8-9 minutes total, so each piece sears rather than steams.",
+      "Add the onion and cook 3-4 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until everything is tender."
     ],
     "tags": []
   },
@@ -884,7 +952,7 @@
     "cuisine": "ethiopian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A simple lentil salad, common Ethiopian home cooking.",
+    "description": "A simple lentil salad, common Ethiopian home cooking, real versions finished with a real garlic-lemon dressing rather than lemon juice alone.",
     "ingredients_full": [
       {
         "ingredient": "Lentils, mature seeds, cooked, boiled, without salt",
@@ -900,6 +968,16 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -917,13 +995,25 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Whisk the lemon juice, garlic, and olive oil together.",
+      "Toss with the lentils and tomatoes until well coated."
     ],
     "steps": [
-      "Toss everything together."
+      "Whisk the lemon juice, garlic, and olive oil together.",
+      "Toss with the lentils and tomatoes until well coated."
     ],
     "tags": []
   },
@@ -1058,10 +1148,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix all the spices together thoroughly."
+      "Toast the chili powder and paprika briefly in a dry pan, 30 seconds, just until fragrant, to wake up their flavor.",
+      "Mix in the remaining spices and store in an airtight container."
     ],
     "steps": [
-      "Mix all the spices together thoroughly."
+      "Toast the chili powder and paprika briefly in a dry pan, 30 seconds, just until fragrant, to wake up their flavor.",
+      "Mix in the remaining spices and store in an airtight container."
     ],
     "tags": []
   },
@@ -1070,7 +1162,7 @@
     "cuisine": "ethiopian",
     "meal_type": "sauce",
     "course": "complete",
-    "description": "Awaze, a fiery berbere-based dipping sauce, a common Ethiopian condiment for grilled meat.",
+    "description": "Awaze, a fiery berbere-based dipping sauce, is a common Ethiopian condiment for grilled meat, real versions often loosened with a little of the meat's own cooking liquid or wine rather than oil alone.",
     "ingredients_full": [
       {
         "ingredient": "Berbere spice",
@@ -1086,6 +1178,11 @@
         "ingredient": "Garlic clove",
         "qty": 0.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1103,13 +1200,20 @@
         "ingredient": "Garlic clove",
         "qty": 0.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the berbere with the olive oil and garlic into a thick paste."
+      "Mix the berbere with the olive oil, garlic, and lemon juice into a thick, spoonable paste.",
+      "Let sit 10 minutes before serving so the garlic mellows slightly."
     ],
     "steps": [
-      "Mix the berbere with the olive oil and garlic into a thick paste."
+      "Mix the berbere with the olive oil, garlic, and lemon juice into a thick, spoonable paste.",
+      "Let sit 10 minutes before serving so the garlic mellows slightly."
     ],
     "tags": []
   }

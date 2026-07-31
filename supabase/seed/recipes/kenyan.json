@@ -120,12 +120,17 @@
     "cuisine": "kenyan",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Ugali, a stiff maize porridge, is Kenya's most essential staple starch, eaten daily by hand alongside stews and greens.",
+    "description": "Ugali, a stiff maize porridge, is Kenya's most essential staple starch, eaten daily alongside stews and greens, real technique adding the cornmeal gradually while beating vigorously, which is what builds the dense, sliceable texture real ugali is known for.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -133,15 +138,20 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, a little at a time, stirring vigorously to avoid lumps, over medium-low heat 12-15 minutes, until very thick and it pulls cleanly away from the sides of the pot."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, a little at a time, stirring vigorously to avoid lumps, over medium-low heat 12-15 minutes, until very thick and it pulls cleanly away from the sides of the pot."
     ],
     "tags": []
   },
@@ -364,7 +374,7 @@
     "cuisine": "kenyan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Mchuzi wa samaki, a coconut-based fish curry, reflects genuine Swahili coastal spice-trade history along the Kenyan coast.",
+    "description": "Mchuzi wa samaki, a coconut-based fish curry, reflects genuine Zanzibari coastal spice-trade history, real technique letting the curry powder cook briefly in the coconut milk before the fish goes in, so it doesn't taste raw.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -385,6 +395,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -407,14 +422,21 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the garlic and curry powder in a little oil 30 seconds until fragrant.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
+      "Cook the garlic and curry powder in a little oil 30 seconds until fragrant.",
+      "Add the coconut milk and tomatoes, and simmer 5-6 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -440,6 +462,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -457,13 +484,20 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes to mellow its sharpness.",
+      "Add the tomatoes and cilantro, and toss together."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss the onion with the lemon juice and let sit 5 minutes to mellow its sharpness.",
+      "Add the tomatoes and cilantro, and toss together."
     ],
     "tags": []
   },
@@ -604,7 +638,7 @@
     "cuisine": "kenyan",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Wali wa nazi, rice cooked in real coconut milk, a genuine coastal Kenyan Swahili staple.",
+    "description": "Wali wa nazi, rice cooked in real coconut milk, is a genuine Zanzibari and coastal Kenyan Swahili staple, real versions adding a little sugar and salt to balance the coconut milk's richness.",
     "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
@@ -615,6 +649,16 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -627,13 +671,25 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Cook the rice with the coconut milk in place of some of the water, along with the sugar and salt, per package timing, until tender.",
+      "Fluff with a fork before serving."
     ],
     "steps": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Cook the rice with the coconut milk in place of some of the water, along with the sugar and salt, per package timing, until tender.",
+      "Fluff with a fork before serving."
     ],
     "tags": []
   },
@@ -780,10 +836,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve the peanuts as-is, a common accompaniment to tea across Kenya."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve the peanuts as-is, a common accompaniment to tea across Kenya."
     ],
     "tags": []
   },
@@ -792,7 +848,7 @@
     "cuisine": "kenyan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple tomato-based fish stew, common Kenyan home cooking near Lake Victoria.",
+    "description": "A simple tomato-based fish stew, common Kenyan home cooking near Lake Victoria, real versions cooking the onion down well before the tomatoes go in, to build a proper sweet base.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -808,6 +864,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -825,14 +886,21 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Cook the onion and garlic 5-6 minutes until well softened.",
+      "Add the tomatoes and simmer 8-10 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
+      "Cook the onion and garlic 5-6 minutes until well softened.",
+      "Add the tomatoes and simmer 8-10 minutes.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
@@ -842,12 +910,12 @@
     "cuisine": "kenyan",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Fried ripe plantain, a common Kenyan side dish, especially in the country's coastal regions.",
+    "description": "Fried ripe plantain, a common Kenyan side dish, especially in the country's coastal regions, real versions using genuinely ripe plantain for real caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
       },
       {
         "ingredient": "Vegetable oil",
@@ -859,7 +927,7 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
       },
       {
         "ingredient": "Vegetable oil",
@@ -868,10 +936,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -880,7 +948,7 @@
     "cuisine": "kenyan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Kenyan home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Kenyan home cooking, real technique browning the beef properly first to build a real flavor base before the vegetables go in.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -900,6 +968,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -923,15 +996,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until everything is tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until everything is tender."
     ],
     "tags": []
   },
@@ -951,6 +1029,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -963,13 +1046,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer together 12-15 minutes until the beans are tender."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 4-5 minutes.",
+      "Add the green beans and simmer 12-15 minutes until tender."
     ],
     "steps": [
-      "Simmer together 12-15 minutes until the beans are tender."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 4-5 minutes.",
+      "Add the green beans and simmer 12-15 minutes until tender."
     ],
     "tags": []
   },
@@ -1024,10 +1114,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix the spices together thoroughly."
+      "Toast each spice briefly in a dry pan, 30 seconds, until fragrant.",
+      "Mix together and store in an airtight container."
     ],
     "steps": [
-      "Mix the spices together thoroughly."
+      "Toast each spice briefly in a dry pan, 30 seconds, until fragrant.",
+      "Mix together and store in an airtight container."
     ],
     "tags": []
   },
@@ -1072,10 +1164,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }
