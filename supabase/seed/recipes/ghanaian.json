@@ -1,8 +1,59 @@
 [
   {
+    "name": "Ghanaian Waakye",
+    "cuisine": "ghanaian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Waakye, rice and beans cooked together until they take on a real reddish-brown color, depends on that color to genuinely be waakye - without it, it's just rice and beans, as Ghanaian cooks are fond of saying. Real preparation uses dried millet or sorghum leaves; baking soda is the honest, widely-used traditional substitute when those leaves aren't available, working through the same alkaline reaction to shift the color and help soften the beans.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.25,
+        "note": "tsp, standing in for dried millet/sorghum leaves"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.25,
+        "note": "tsp, standing in for dried millet/sorghum leaves"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the cowpeas with the baking soda and a splash of water 10-12 minutes.",
+      "Add the rice and enough water to cook it through, 18-20 minutes, until the rice and beans are tender and take on a real reddish-brown tint from the baking soda's reaction."
+    ],
+    "steps": [
+      "Cook the cowpeas with the baking soda and a splash of water 10-12 minutes.",
+      "Add the rice and enough water to cook it through, 18-20 minutes, until the rice and beans are tender and take on a real reddish-brown tint from the baking soda's reaction."
+    ],
+    "tags": []
+  },
+  {
     "name": "Ghanaian Jollof Rice",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Jollof rice, tomato-and-pepper rice cooked until it takes on real color and depth, is fiercely championed in Ghana as the true original in West Africa's long-running jollof rivalry - the real base is a fried, reduced tomato-pepper puree, not just rice simmered in canned sauce.",
     "ingredients_full": [
       {
@@ -36,7 +87,7 @@
         "note": ""
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 60,
         "note": ""
       },
@@ -78,7 +129,7 @@
         "note": ""
       },
       {
-        "ingredient": "Basmati rice (dry)",
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 60,
         "note": ""
       },
@@ -103,46 +154,10 @@
     "tags": []
   },
   {
-    "name": "Ghanaian Waakye",
-    "cuisine": "ghanaian",
-    "meal_type": "dinner",
-    "description": "Waakye, rice and beans cooked together with dried millet leaves or sorghum stalks that dye it a distinctive reddish-brown, is one of Ghana's most beloved everyday dishes - the coloring leaves aren't a distinct item here, so this stays its natural color.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice and cowpeas together in the same pot with enough water to cover, 18-20 minutes, until the rice is tender."
-    ],
-    "steps": [
-      "Cook the rice and cowpeas together in the same pot with enough water to cover, 18-20 minutes, until the rice is tender."
-    ],
-    "tags": []
-  },
-  {
     "name": "Ghanaian Banku",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Banku, fermented corn and cassava dough cooked into a smooth, stretchy paste, is a genuine Ghanaian staple, traditionally eaten by hand alongside soup or grilled fish.",
     "ingredients_full": [
       {
@@ -182,6 +197,7 @@
     "name": "Ghanaian Kenkey",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Kenkey, fermented corn dough wrapped in corn husks or banana leaves and steamed, is a genuine Ghanaian staple with a distinctive sour tang from real fermentation.",
     "ingredients_full": [
       {
@@ -211,6 +227,7 @@
     "name": "Ghanaian Groundnut Soup",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Groundnut soup, built on real ground peanuts, is one of Ghana's most beloved soups, traditionally served with fufu or rice.",
     "ingredients_full": [
       {
@@ -272,17 +289,18 @@
     "name": "Ghanaian Kelewele",
     "cuisine": "ghanaian",
     "meal_type": "snack",
-    "description": "Kelewele, spiced fried ripe plantain, is a beloved Ghanaian street food, real ground ginger being the defining flavor.",
+    "course": "complete",
+    "description": "Kelewele, spiced fried ripe plantain, is a beloved Ghanaian street food, real ground ginger being the defining flavor, traditionally cut into irregular chunks rather than neat slices.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "cubed"
+        "note": "cubed, very ripe"
       },
       {
-        "ingredient": "Ground ginger",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Spices, chili powder",
@@ -299,12 +317,12 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "cubed"
+        "note": "cubed, very ripe"
       },
       {
-        "ingredient": "Ground ginger",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Spices, chili powder",
@@ -318,11 +336,11 @@
       }
     ],
     "steps_detailed": [
-      "Toss the plantain with the ginger and chili powder.",
+      "Toss the plantain with the fresh ginger and chili powder.",
       "Fry, turning, 4-5 minutes, until deeply caramelized."
     ],
     "steps": [
-      "Toss the plantain with the ginger and chili powder.",
+      "Toss the plantain with the fresh ginger and chili powder.",
       "Fry, turning, 4-5 minutes, until deeply caramelized."
     ],
     "tags": []
@@ -331,6 +349,7 @@
     "name": "Ghanaian Red Red",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Red red, black-eyed peas stewed in palm-oil-red tomato sauce and served with fried plantain, gets its name from the color of both the beans' sauce and the plantain.",
     "ingredients_full": [
       {
@@ -344,14 +363,14 @@
         "note": ""
       },
       {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Plantains, yellow, raw",
         "qty": 100,
         "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -366,24 +385,24 @@
         "note": ""
       },
       {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Plantains, yellow, raw",
         "qty": 100,
         "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the cowpeas with the tomatoes 12-15 minutes.",
-      "Fry the plantain slices in the remaining oil, 3-4 minutes per side, until caramelized.",
+      "Simmer the cowpeas with the tomatoes and palm oil 12-15 minutes.",
+      "Fry the plantain slices in a separate pan, 3-4 minutes per side, until caramelized.",
       "Serve the beans with the fried plantain alongside."
     ],
     "steps": [
-      "Simmer the cowpeas with the tomatoes 12-15 minutes.",
-      "Fry the plantain slices in the remaining oil, 3-4 minutes per side, until caramelized.",
+      "Simmer the cowpeas with the tomatoes and palm oil 12-15 minutes.",
+      "Fry the plantain slices in a separate pan, 3-4 minutes per side, until caramelized.",
       "Serve the beans with the fried plantain alongside."
     ],
     "tags": []
@@ -392,6 +411,7 @@
     "name": "Ghanaian Fufu",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Fufu, cassava and plantain pounded together into a smooth, stretchy dough, is one of West Africa's most iconic staple starches, traditionally eaten by tearing off pieces to scoop up soup.",
     "ingredients_full": [
       {
@@ -431,6 +451,7 @@
     "name": "Ghanaian Light Soup",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Light soup, a thin, peppery tomato broth, is a common Ghanaian everyday soup, lighter than groundnut or palm nut soup.",
     "ingredients_full": [
       {
@@ -487,8 +508,9 @@
   {
     "name": "Ghanaian Shito",
     "cuisine": "ghanaian",
-    "meal_type": "lunch",
-    "description": "Shito, a fiery, dark pepper and dried fish sauce, is one of Ghana's most essential condiments, spooned onto nearly anything.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Shito, a fiery, dark pepper and dried fish sauce, is one of Ghana's most essential condiments, spooned onto nearly anything, real depth coming from a real, patient fry.",
     "ingredients_full": [
       {
         "ingredient": "Jalapeno pepper",
@@ -549,6 +571,7 @@
     "name": "Ghanaian Chichinga (Suya-Style Skewers)",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Chichinga, spiced grilled meat skewers coated in a ground peanut rub, closely related to Nigerian suya and shared across the wider West African region.",
     "ingredients_full": [
       {
@@ -610,12 +633,13 @@
     "name": "Ghanaian Tatale",
     "cuisine": "ghanaian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Tatale, sweet, spiced ripe plantain pancakes, a beloved Ghanaian breakfast.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "mashed"
+        "note": "mashed, very ripe"
       },
       {
         "ingredient": "All-purpose flour",
@@ -623,9 +647,9 @@
         "note": ""
       },
       {
-        "ingredient": "Ground ginger",
+        "ingredient": "Fresh ginger",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Vegetable oil",
@@ -637,7 +661,7 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "mashed"
+        "note": "mashed, very ripe"
       },
       {
         "ingredient": "All-purpose flour",
@@ -645,9 +669,9 @@
         "note": ""
       },
       {
-        "ingredient": "Ground ginger",
+        "ingredient": "Fresh ginger",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Vegetable oil",
@@ -669,7 +693,8 @@
     "name": "Ghanaian Koose",
     "cuisine": "ghanaian",
     "meal_type": "breakfast",
-    "description": "Koose, fried black-eyed pea fritters, a Ghanaian breakfast staple closely related to Nigerian akara.",
+    "course": "complete",
+    "description": "Koose, fried black-eyed pea fritters, a Ghanaian breakfast staple closely related to Nigerian akara, real technique whipping the batter to work in air before frying.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -716,11 +741,11 @@
     ],
     "steps_detailed": [
       "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
-      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
+      "Whip vigorously by hand for several minutes to work air into it, then fry spoonfuls, turning, 4-5 minutes, until golden."
     ],
     "steps": [
       "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
-      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
+      "Whip vigorously by hand for several minutes to work air into it, then fry spoonfuls, turning, 4-5 minutes, until golden."
     ],
     "tags": []
   },
@@ -728,6 +753,7 @@
     "name": "Ghanaian Okra Stew",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Ghanaian home-cooking staple.",
     "ingredients_full": [
       {
@@ -779,6 +805,7 @@
     "name": "Ghanaian Coleslaw",
     "cuisine": "ghanaian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A mayonnaise-dressed cabbage salad, a common Ghanaian party-food side alongside jollof rice.",
     "ingredients_full": [
       {
@@ -826,6 +853,7 @@
     "name": "Ghanaian Roasted Groundnuts",
     "cuisine": "ghanaian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, a common Ghanaian accompaniment to tea or a snack on its own.",
     "ingredients_full": [
       {
@@ -853,6 +881,7 @@
     "name": "Ghanaian Rice Water (Rice Porridge)",
     "cuisine": "ghanaian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "A simple sweet rice porridge, a common Ghanaian breakfast, especially for children.",
     "ingredients_full": [
       {
@@ -900,7 +929,8 @@
     "name": "Ghanaian Bofrot",
     "cuisine": "ghanaian",
     "meal_type": "snack",
-    "description": "Bofrot, sweet fried dough balls, a beloved Ghanaian snack closely related to Nigerian puff puff.",
+    "course": "complete",
+    "description": "Bofrot, sweet fried dough balls, a beloved Ghanaian snack closely related to Nigerian puff puff, real leavening coming from a genuine rest to let the batter rise.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -947,12 +977,12 @@
     ],
     "steps_detailed": [
       "Whisk the flour, sugar, and baking powder with warm water into a thick batter.",
-      "Let sit 15 minutes.",
+      "Let sit 15 minutes to rise slightly.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
     ],
     "steps": [
       "Whisk the flour, sugar, and baking powder with warm water into a thick batter.",
-      "Let sit 15 minutes.",
+      "Let sit 15 minutes to rise slightly.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
     ],
     "tags": []
@@ -961,7 +991,8 @@
     "name": "Ghanaian Palm Nut Soup Style Stew",
     "cuisine": "ghanaian",
     "meal_type": "dinner",
-    "description": "A tomato-forward stew in the spirit of Ghana's real palm nut soup, which traditionally uses palm fruit itself rather than the extracted oil - palm fruit isn't a distinct item here, so this leans on tomato and pepper for the base flavor instead.",
+    "course": "complete",
+    "description": "A tomato-forward stew in the spirit of Ghana's real palm nut soup, which traditionally uses palm fruit itself rather than the extracted oil - palm fruit isn't a distinct item here, so this leans on real palm oil and tomato for the closest available approximation.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -979,7 +1010,7 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
       }
@@ -1001,25 +1032,26 @@
         "note": "standing in for scotch bonnet"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Palm oil",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Brown the chicken, 6-7 minutes.",
-      "Add the tomatoes and jalape\u00f1o, and simmer 20-22 minutes until the chicken is tender."
+      "Add the tomatoes, jalape\u00f1o, and palm oil, and simmer 20-22 minutes until the chicken is tender."
     ],
     "steps": [
       "Brown the chicken, 6-7 minutes.",
-      "Add the tomatoes and jalape\u00f1o, and simmer 20-22 minutes until the chicken is tender."
+      "Add the tomatoes, jalape\u00f1o, and palm oil, and simmer 20-22 minutes until the chicken is tender."
     ],
     "tags": []
   },
   {
     "name": "Ghanaian Ginger Tomato Sauce",
     "cuisine": "ghanaian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple ginger-forward tomato sauce, real ginger being a common Ghanaian flavor throughout many dishes.",
     "ingredients_full": [
       {
@@ -1060,6 +1092,46 @@
     ],
     "steps": [
       "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ghanaian Peanut Sauce",
+    "cuisine": "ghanaian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple ground-peanut sauce base, used across many Ghanaian stews, echoing the flavor of groundnut soup.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the ground peanuts with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the ground peanuts with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

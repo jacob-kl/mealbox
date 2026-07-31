@@ -3,15 +3,31 @@
     "name": "Senegalese Thieboudienne",
     "cuisine": "senegalese",
     "meal_type": "dinner",
-    "description": "Thieboudienne, fish and rice cooked in a tomato-vegetable sauce, is Senegal's national dish and one of West Africa's most celebrated one-pot meals, the rice traditionally cooked in the same broth as the fish so it absorbs all its flavor.",
+    "course": "complete",
+    "description": "Thieboudienne, Senegal's national dish, depends on real technique from the very first step: the fish is cut with deep slits and stuffed with a real garlic-parsley-chili paste called the roof, not just seasoned on the surface. The rice then cooks directly in the fish-and-vegetable broth, absorbing everything, and is meant to form a light crust at the bottom of the pot, a genuine sign it's done right.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "qty": 220,
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, standing in for parsley, chopped, for the roof"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced, divided"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "standing in for the roof's chili"
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 55,
         "note": ""
       },
@@ -44,11 +60,26 @@
     "ingredients": [
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "qty": 220,
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, standing in for parsley, chopped, for the roof"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced, divided"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "standing in for the roof's chili"
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 55,
         "note": ""
       },
@@ -79,17 +110,21 @@
       }
     ],
     "steps_detailed": [
-      "Brown the fish briefly, 3-4 minutes per side, then set aside.",
-      "Fry the onion, add the tomato paste, cook 2 minutes, then add the tomatoes and 2 cups water and simmer 10 minutes.",
+      "Mix the cilantro, half the garlic, and half the jalape\u00f1o into a coarse paste (the roof).",
+      "Cut deep diagonal slits into the fish and stuff the roof paste directly into the cuts.",
+      "Pan-fry the stuffed fish briefly, 3-4 minutes per side, then set aside.",
+      "Fry the onion and remaining garlic, add the tomato paste, cook 2 minutes, then add the diced tomatoes and 2 cups water and simmer 10 minutes.",
       "Add the carrot and cabbage, and simmer 12-15 minutes until tender.",
-      "Stir in the rice and simmer 18-20 minutes until tender, absorbing the broth.",
+      "Stir in the rice and simmer 18-20 minutes, undisturbed toward the end, until tender and a light crust forms at the bottom of the pot.",
       "Return the fish to warm through before serving."
     ],
     "steps": [
-      "Brown the fish briefly, 3-4 minutes per side, then set aside.",
-      "Fry the onion, add the tomato paste, cook 2 minutes, then add the tomatoes and 2 cups water and simmer 10 minutes.",
+      "Mix the cilantro, half the garlic, and half the jalape\u00f1o into a coarse paste (the roof).",
+      "Cut deep diagonal slits into the fish and stuff the roof paste directly into the cuts.",
+      "Pan-fry the stuffed fish briefly, 3-4 minutes per side, then set aside.",
+      "Fry the onion and remaining garlic, add the tomato paste, cook 2 minutes, then add the diced tomatoes and 2 cups water and simmer 10 minutes.",
       "Add the carrot and cabbage, and simmer 12-15 minutes until tender.",
-      "Stir in the rice and simmer 18-20 minutes until tender, absorbing the broth.",
+      "Stir in the rice and simmer 18-20 minutes, undisturbed toward the end, until tender and a light crust forms at the bottom of the pot.",
       "Return the fish to warm through before serving."
     ],
     "tags": []
@@ -98,6 +133,7 @@
     "name": "Senegalese Yassa Poulet",
     "cuisine": "senegalese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Yassa, chicken marinated and slow-cooked in a mountain of caramelized onions and lemon, is one of Senegal's most beloved dishes, the onions cooked down until sweet being the whole point, not a garnish.",
     "ingredients_full": [
       {
@@ -171,6 +207,7 @@
     "name": "Senegalese Mafe",
     "cuisine": "senegalese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Mafe, meat stewed in a rich peanut sauce, is a beloved Senegalese dish built on real ground peanuts, shared across the wider West African region.",
     "ingredients_full": [
       {
@@ -242,6 +279,7 @@
     "name": "Senegalese Accara",
     "cuisine": "senegalese",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Accara, fried black-eyed pea fritters, a beloved Senegalese street food closely related to Nigerian akara and Ghanaian koose.",
     "ingredients_full": [
       {
@@ -298,74 +336,10 @@
     "tags": []
   },
   {
-    "name": "Senegalese Chicken Yassa Rice Bowl",
-    "cuisine": "senegalese",
-    "meal_type": "dinner",
-    "description": "A rice-bowl version of Senegal's caramelized-onion yassa chicken, real lemon and slow-cooked onion carrying the flavor.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the chicken in the lemon juice 20 minutes.",
-      "Brown the chicken, 6-7 minutes, then set aside.",
-      "Cook the onion 15-18 minutes until deeply softened.",
-      "Return the chicken and simmer 10 minutes.",
-      "Cook the rice separately and serve the chicken and onions over it."
-    ],
-    "steps": [
-      "Marinate the chicken in the lemon juice 20 minutes.",
-      "Brown the chicken, 6-7 minutes, then set aside.",
-      "Cook the onion 15-18 minutes until deeply softened.",
-      "Return the chicken and simmer 10 minutes.",
-      "Cook the rice separately and serve the chicken and onions over it."
-    ],
-    "tags": []
-  },
-  {
     "name": "Senegalese Bissap",
     "cuisine": "senegalese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Bissap, a hibiscus drink, is a beloved Senegalese beverage, similar to zobo found elsewhere in West Africa.",
     "ingredients_full": [
       {
@@ -415,6 +389,7 @@
     "name": "Senegalese Fataya",
     "cuisine": "senegalese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Fataya, fried half-moon pastries filled with spiced fish or meat, a beloved Senegalese snack.",
     "ingredients_full": [
       {
@@ -476,6 +451,7 @@
     "name": "Senegalese Ceebu Yapp",
     "cuisine": "senegalese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Ceebu yapp, the meat version of thieboudienne, rice and vegetables cooked in a rich meat-tomato broth.",
     "ingredients_full": [
       {
@@ -484,7 +460,7 @@
         "note": "cubed"
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 55,
         "note": ""
       },
@@ -511,7 +487,7 @@
         "note": "cubed"
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 55,
         "note": ""
       },
@@ -549,6 +525,7 @@
     "name": "Senegalese Pastels",
     "cuisine": "senegalese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Pastels, fried fish-filled dumplings, a beloved Senegalese coastal snack.",
     "ingredients_full": [
       {
@@ -598,6 +575,7 @@
     "name": "Senegalese Ndambe",
     "cuisine": "senegalese",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Ndambe, black-eyed peas stewed with tomato, a common Senegalese breakfast or light meal.",
     "ingredients_full": [
       {
@@ -645,6 +623,7 @@
     "name": "Senegalese Grilled Fish",
     "cuisine": "senegalese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Grilled fish rubbed with garlic and lemon, reflecting Senegal's deep coastal fishing tradition.",
     "ingredients_full": [
       {
@@ -691,48 +670,10 @@
     "tags": []
   },
   {
-    "name": "Senegalese Peanut Sauce",
-    "cuisine": "senegalese",
-    "meal_type": "dinner",
-    "description": "The real ground-peanut sauce that defines mafe, made here on its own for use in other dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 60,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 60,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the ground peanuts with 1.5 cups water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Whisk the ground peanuts with 1.5 cups water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
     "name": "Senegalese Roasted Peanuts",
     "cuisine": "senegalese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, peanuts being one of Senegal's most significant crops and culinary staples.",
     "ingredients_full": [
       {
@@ -760,6 +701,7 @@
     "name": "Senegalese Cabbage Slaw",
     "cuisine": "senegalese",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple cabbage and carrot slaw, a common Senegalese side.",
     "ingredients_full": [
       {
@@ -807,6 +749,7 @@
     "name": "Senegalese Fonio Porridge",
     "cuisine": "senegalese",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Fonio, an ancient West African grain, is genuinely Senegalese in origin, used here in a simple breakfast porridge - fonio itself isn't a distinct item here, so this leans on the closest widely available small grain instead.",
     "ingredients_full": [
       {
@@ -854,6 +797,7 @@
     "name": "Senegalese Sweet Potato Fritters",
     "cuisine": "senegalese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Simple fried sweet potato fritters, a common Senegalese snack.",
     "ingredients_full": [
       {
@@ -903,6 +847,7 @@
     "name": "Senegalese Beef and Vegetable Stew",
     "cuisine": "senegalese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Senegalese home cooking.",
     "ingredients_full": [
       {
@@ -959,10 +904,11 @@
     "tags": []
   },
   {
-    "name": "Senegalese Rice Pudding",
+    "name": "Senegalese Rice Pudding (Thiakry-Adjacent)",
     "cuisine": "senegalese",
     "meal_type": "snack",
-    "description": "Thiakry-adjacent, a simple sweet rice-based pudding, a common Senegalese dessert.",
+    "course": "complete",
+    "description": "A simple sweet rice-based pudding, similar in spirit to thiakry, a common Senegalese dessert.",
     "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
@@ -1008,7 +954,8 @@
   {
     "name": "Senegalese Lemon Garlic Sauce",
     "cuisine": "senegalese",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple lemon-garlic sauce, in the spirit of yassa's marinade base.",
     "ingredients_full": [
       {
@@ -1055,7 +1002,8 @@
   {
     "name": "Senegalese Tomato Vegetable Sauce",
     "cuisine": "senegalese",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "The tomato-vegetable base used in thieboudienne, made here on its own for use in other dishes.",
     "ingredients_full": [
       {
@@ -1096,6 +1044,46 @@
     ],
     "steps": [
       "Simmer everything together 15-18 minutes until the vegetables are tender and the sauce has thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Senegalese Peanut Sauce",
+    "cuisine": "senegalese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "The real ground-peanut sauce that defines mafe, made here on its own for use in other dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 60,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 60,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the ground peanuts with 1.5 cups water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the ground peanuts with 1.5 cups water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

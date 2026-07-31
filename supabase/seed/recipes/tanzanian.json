@@ -1,8 +1,123 @@
 [
   {
+    "name": "Tanzanian Zanzibar Pilau",
+    "cuisine": "tanzanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Zanzibar pilau reflects real Persian and Arab trade history along the Swahili coast - real technique fries a full range of whole spices (cumin, cardamom, cloves, cinnamon) in oil first to bloom them, then builds the rice and meat around that base, letting the rice absorb the real, deeply spiced broth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Deeply brown the onion, 10-12 minutes, until golden.",
+      "Add the cumin, cinnamon, and cardamom to the oil and fry 1 minute to bloom the spices.",
+      "Add the ginger, garlic, and chicken, and brown 6-7 minutes.",
+      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
+    ],
+    "steps": [
+      "Deeply brown the onion, 10-12 minutes, until golden.",
+      "Add the cumin, cinnamon, and cardamom to the oil and fry 1 minute to bloom the spices.",
+      "Add the ginger, garlic, and chicken, and brown 6-7 minutes.",
+      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
     "name": "Tanzanian Ugali",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Ugali, a stiff maize porridge, is Tanzania's most essential staple starch, eaten daily alongside stews and greens.",
     "ingredients_full": [
       {
@@ -29,90 +144,10 @@
     "tags": []
   },
   {
-    "name": "Tanzanian Pilau",
+    "name": "Tanzanian Mchuzi wa Samaki",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
-    "description": "Pilau, whole-spice-infused rice, reflects genuine Zanzibari and Swahili coastal trade history, distinct from plain rice through its layered use of whole warming spices.",
-    "ingredients_full": [
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 0.75,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 0.75,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Deeply brown the onion, 10-12 minutes, until golden.",
-      "Add the chicken, cumin, and cinnamon, and brown 6-7 minutes.",
-      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
-    ],
-    "steps": [
-      "Deeply brown the onion, 10-12 minutes, until golden.",
-      "Add the chicken, cumin, and cinnamon, and brown 6-7 minutes.",
-      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Tanzanian Zanzibar Mchuzi wa Samaki",
-    "cuisine": "tanzanian",
-    "meal_type": "dinner",
+    "course": "complete",
     "description": "Mchuzi wa samaki, a coconut-based fish curry, reflects genuine Zanzibari coastal spice-trade history.",
     "ingredients_full": [
       {
@@ -172,6 +207,7 @@
     "name": "Tanzanian Nyama Choma",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Nyama choma, grilled meat, is beloved across Tanzania the same way it is in neighboring Kenya, traditionally cooked slowly over charcoal.",
     "ingredients_full": [
       {
@@ -221,6 +257,7 @@
     "name": "Tanzanian Chapati",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Chapati, a soft, layered flatbread, reflects genuine Indian culinary influence and is one of Tanzania's most beloved breads.",
     "ingredients_full": [
       {
@@ -262,6 +299,7 @@
     "name": "Tanzanian Mandazi",
     "cuisine": "tanzanian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Mandazi, lightly sweet fried coconut-milk dough, a beloved Tanzanian breakfast alongside chai.",
     "ingredients_full": [
       {
@@ -333,6 +371,7 @@
     "name": "Tanzanian Wali wa Nazi (Coconut Rice)",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Wali wa nazi, rice cooked in real coconut milk, a genuine Zanzibari and coastal Tanzanian staple.",
     "ingredients_full": [
       {
@@ -370,6 +409,7 @@
     "name": "Tanzanian Mchicha",
     "cuisine": "tanzanian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "Mchicha, greens simmered with coconut milk and tomato, a genuine Tanzanian staple side.",
     "ingredients_full": [
       {
@@ -417,6 +457,7 @@
     "name": "Tanzanian Samosas",
     "cuisine": "tanzanian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Samosas, fried triangular pastries with a spiced filling, reflect genuine Indian culinary influence and are a beloved Tanzanian street snack.",
     "ingredients_full": [
       {
@@ -488,7 +529,8 @@
     "name": "Tanzanian Kachumbari",
     "cuisine": "tanzanian",
     "meal_type": "lunch",
-    "description": "Kachumbari, a fresh, finely diced tomato and onion salad, a common East African accompaniment to nyama choma and pilau.",
+    "course": "side",
+    "description": "Kachumbari, a fresh, finely diced tomato and onion salad, the real, traditional accompaniment to pilau and nyama choma across East Africa.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -535,6 +577,7 @@
     "name": "Tanzanian Ndizi Kaanga (Fried Plantain)",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Ndizi kaanga, fried ripe plantain, a common Tanzanian side dish.",
     "ingredients_full": [
       {
@@ -572,6 +615,7 @@
     "name": "Tanzanian Sukuma Wiki",
     "cuisine": "tanzanian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "Sukuma wiki, collard greens or kale simmered with onion and tomato, a staple East African side shared across Tanzania and its neighbors.",
     "ingredients_full": [
       {
@@ -621,6 +665,7 @@
     "name": "Tanzanian Chicken Curry",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A coconut-based chicken curry, reflecting genuine Zanzibari and coastal Indian Ocean trade influence.",
     "ingredients_full": [
       {
@@ -682,6 +727,7 @@
     "name": "Tanzanian Urojo (Zanzibar Mix)",
     "cuisine": "tanzanian",
     "meal_type": "lunch",
+    "course": "complete",
     "description": "Urojo, a tangy soup with mango powder and fried snacks mixed in, is a beloved Zanzibari street food.",
     "ingredients_full": [
       {
@@ -731,6 +777,7 @@
     "name": "Tanzanian Roasted Cashews",
     "cuisine": "tanzanian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted cashew snack, cashews being a significant Tanzanian export crop, especially from the southern coastal regions.",
     "ingredients_full": [
       {
@@ -758,6 +805,7 @@
     "name": "Tanzanian Spiced Chai",
     "cuisine": "tanzanian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Chai, spiced milk tea, a beloved daily ritual across Tanzania, reflecting genuine Indian culinary influence.",
     "ingredients_full": [
       {
@@ -817,6 +865,7 @@
     "name": "Tanzanian Beef Stew",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Tanzanian home cooking.",
     "ingredients_full": [
       {
@@ -876,6 +925,7 @@
     "name": "Tanzanian Vitumbua",
     "cuisine": "tanzanian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Vitumbua, small rice-and-coconut fried cakes, a beloved Tanzanian and Zanzibari breakfast snack.",
     "ingredients_full": [
       {
@@ -935,6 +985,7 @@
     "name": "Tanzanian Coconut Bean Stew",
     "cuisine": "tanzanian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Maharage ya nazi, beans stewed in real coconut milk, a genuine Tanzanian staple.",
     "ingredients_full": [
       {
@@ -981,7 +1032,8 @@
   {
     "name": "Tanzanian Tomato Onion Sauce",
     "cuisine": "tanzanian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-onion sauce base, used across many Tanzanian stews.",
     "ingredients_full": [
       {
