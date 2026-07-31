@@ -10,6 +10,11 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -17,6 +22,11 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
@@ -164,6 +174,11 @@
         "ingredient": "Yellow onion",
         "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -181,13 +196,22 @@
         "ingredient": "Yellow onion",
         "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the beef with the garlic, onion, and enough water to cover, 2-2.5 hours, until completely fork-tender and the broth turns rich and gelatinous."
+      "Combine the beef, garlic, onion, salt, and enough water to cover generously in a heavy pot.",
+      "Bring to a boil, then reduce to a gentle simmer, cover, and cook 2-2.5 hours, checking occasionally to top up water as needed, until completely fork-tender and the broth turns rich and gelatinous.",
+      "Skim any excess fat from the surface before serving."
     ],
     "steps": [
-      "Simmer the beef with the garlic, onion, and enough water to cover, 2-2.5 hours, until completely fork-tender and the broth turns rich and gelatinous."
+      "Combine the beef, garlic, onion, salt, and enough water to cover generously in a heavy pot.",
+      "Bring to a boil, then reduce to a gentle simmer, cover, and cook 2-2.5 hours, checking occasionally to top up water as needed, until completely fork-tender and the broth turns rich and gelatinous.",
+      "Skim any excess fat from the surface before serving."
     ],
     "tags": []
   },
@@ -248,12 +272,12 @@
     "cuisine": "zimbabwean",
     "meal_type": "snack",
     "course": "complete",
-    "description": "A simple fresh papaya salad, papaya being a common Zimbabwean fruit.",
+    "description": "A simple fresh papaya salad, papaya being a common Zimbabwean fruit, real versions using genuinely ripe papaya for real sweetness.",
     "ingredients_full": [
       {
         "ingredient": "Papayas, raw",
         "qty": 150,
-        "note": "diced"
+        "note": "ripe, diced"
       },
       {
         "ingredient": "Lemon juice, raw",
@@ -265,7 +289,7 @@
       {
         "ingredient": "Papayas, raw",
         "qty": 150,
-        "note": "diced"
+        "note": "ripe, diced"
       },
       {
         "ingredient": "Lemon juice, raw",
@@ -274,10 +298,10 @@
       }
     ],
     "steps_detailed": [
-      "Toss the papaya with the lemon juice."
+      "Toss the papaya with the lemon juice just before serving so it doesn't sit and turn watery."
     ],
     "steps": [
-      "Toss the papaya with the lemon juice."
+      "Toss the papaya with the lemon juice just before serving so it doesn't sit and turn watery."
     ],
     "tags": []
   },
@@ -302,10 +326,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve the peanuts as-is, groundnuts being a common Zimbabwean crop."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve the peanuts as-is, groundnuts being a common Zimbabwean crop."
     ],
     "tags": []
   },
@@ -314,7 +338,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Bota, a smooth peanut butter porridge, a beloved Zimbabwean breakfast.",
+    "description": "Bota, a smooth peanut butter porridge, is a beloved Zimbabwean breakfast, real versions whisking the peanut butter in gradually so it doesn't clump against the hot porridge.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
@@ -351,11 +375,11 @@
     ],
     "steps_detailed": [
       "Whisk the cornmeal into 1 cup boiling water and cook, stirring, 10-12 minutes until smooth.",
-      "Stir in the peanut butter and milk to thin slightly."
+      "Stir in the peanut butter gradually, then the milk, whisking to keep it lump-free and thin to a pourable consistency."
     ],
     "steps": [
       "Whisk the cornmeal into 1 cup boiling water and cook, stirring, 10-12 minutes until smooth.",
-      "Stir in the peanut butter and milk to thin slightly."
+      "Stir in the peanut butter gradually, then the milk, whisking to keep it lump-free and thin to a pourable consistency."
     ],
     "tags": []
   },
@@ -364,7 +388,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Simple fried fish, a common Zimbabwean dish especially near Lake Kariba.",
+    "description": "Simple fried fish, a common Zimbabwean dish especially near Lake Kariba, real technique patting the fish dry first so the flour coating actually sticks and crisps.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -400,11 +424,11 @@
       }
     ],
     "steps_detailed": [
-      "Dredge the fish in the flour.",
+      "Pat the fish dry, then dredge in the flour.",
       "Fry, 3-4 minutes per side, until golden and cooked through."
     ],
     "steps": [
-      "Dredge the fish in the flour.",
+      "Pat the fish dry, then dredge in the flour.",
       "Fry, 3-4 minutes per side, until golden and cooked through."
     ],
     "tags": []
@@ -414,7 +438,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A simple green bean and tomato side, common Zimbabwean home cooking.",
+    "description": "A simple green bean and tomato side, common Zimbabwean home cooking, real technique cooking the beans just until tender-crisp rather than fully soft.",
     "ingredients_full": [
       {
         "ingredient": "Green beans",
@@ -424,6 +448,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
@@ -437,13 +466,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer together 12-15 minutes until the beans are tender."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Add the green beans and simmer 10-12 minutes until just tender."
     ],
     "steps": [
-      "Simmer together 12-15 minutes until the beans are tender."
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 3-4 minutes.",
+      "Add the green beans and simmer 10-12 minutes until just tender."
     ],
     "tags": []
   },
@@ -492,7 +528,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A simple roasted sweet potato side, a common Zimbabwean staple.",
+    "description": "A simple roasted sweet potato side, a common Zimbabwean staple, real technique cutting the pieces evenly so they roast at the same rate.",
     "ingredients_full": [
       {
         "ingredient": "Sweet potato",
@@ -518,12 +554,12 @@
       }
     ],
     "steps_detailed": [
-      "Toss the sweet potato with the oil.",
-      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+      "Toss the evenly-cubed sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes, turning once, until tender and caramelized at the edges."
     ],
     "steps": [
-      "Toss the sweet potato with the oil.",
-      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
+      "Toss the evenly-cubed sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes, turning once, until tender and caramelized at the edges."
     ],
     "tags": []
   },
@@ -532,7 +568,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Zimbabwean home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Zimbabwean home cooking, real technique browning the beef properly first before the vegetables go in.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -592,7 +628,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple tomato-based chicken stew, common Zimbabwean home cooking.",
+    "description": "A simple tomato-based chicken stew, common Zimbabwean home cooking, real technique browning the chicken well first to build a real flavor base.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -608,6 +644,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -625,14 +666,19 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, 8-9 minutes.",
+      "Brown the chicken with the onion and garlic, 8-9 minutes.",
       "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
     ],
     "steps": [
-      "Brown the chicken with the onion, 8-9 minutes.",
+      "Brown the chicken with the onion and garlic, 8-9 minutes.",
       "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
     ],
     "tags": []
@@ -651,12 +697,12 @@
       },
       {
         "ingredient": "Carrot",
-        "qty": 50,
+        "qty": 60,
         "note": "shredded"
       },
       {
-        "ingredient": "Mayonnaise",
-        "qty": 2,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
         "note": "tbsp"
       }
     ],
@@ -668,20 +714,20 @@
       },
       {
         "ingredient": "Carrot",
-        "qty": 50,
+        "qty": 60,
         "note": "shredded"
       },
       {
-        "ingredient": "Mayonnaise",
-        "qty": 2,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Toss everything together until well combined."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Toss everything together until well combined."
     ],
     "tags": []
   },
@@ -701,6 +747,11 @@
         "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -713,13 +764,18 @@
         "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
         "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+      "Cook the rice with the salt per package directions, folding in the peas in the last 5 minutes so they warm through without overcooking."
     ],
     "steps": [
-      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
+      "Cook the rice with the salt per package directions, folding in the peas in the last 5 minutes so they warm through without overcooking."
     ],
     "tags": []
   },
@@ -728,7 +784,7 @@
     "cuisine": "zimbabwean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple peanut-based soup, built on real ground peanuts, common across Zimbabwe and the wider Southern African region.",
+    "description": "A simple peanut-based soup, built on real ground peanuts, common across Zimbabwe and the wider Southern African region, real versions whisked slowly to avoid clumping.",
     "ingredients_full": [
       {
         "ingredient": "Peanut butter",
@@ -739,6 +795,11 @@
         "ingredient": "Chicken broth",
         "qty": 1.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -751,13 +812,20 @@
         "ingredient": "Chicken broth",
         "qty": 1.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Whisk in the peanut butter and broth slowly, to avoid clumps, and simmer 12-15 minutes until smooth and slightly thickened."
     ],
     "steps": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Whisk in the peanut butter and broth slowly, to avoid clumps, and simmer 12-15 minutes until smooth and slightly thickened."
     ],
     "tags": []
   },
@@ -842,10 +910,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

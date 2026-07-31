@@ -570,7 +570,7 @@
     "cuisine": "cameroonian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Simple fried sweet potato fritters, a common Cameroonian snack.",
+    "description": "Simple fried sweet potato fritters, a common Cameroonian snack, real technique squeezing excess moisture from the grated sweet potato first so they fry crisp rather than soggy.",
     "ingredients_full": [
       {
         "ingredient": "Sweet potato",
@@ -606,12 +606,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Squeeze the grated sweet potato well to remove excess moisture, then mix with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden and cooked through."
     ],
     "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Squeeze the grated sweet potato well to remove excess moisture, then mix with the flour.",
+      "Fry spoonfuls, turning, 3-4 minutes, until golden and cooked through."
     ],
     "tags": []
   },
@@ -636,10 +636,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve the peanuts as-is, a common Cameroonian crop and everyday snack."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve the peanuts as-is, a common Cameroonian crop and everyday snack."
     ],
     "tags": []
   },
@@ -648,36 +648,48 @@
     "cuisine": "cameroonian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Simple fried cassava chips, a common Cameroonian snack.",
+    "description": "Simple fried cassava chips, a common Cameroonian snack, real technique slicing the cassava thin and even so the pieces fry crisp all the way through at the same rate.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "very thinly and evenly sliced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Cassava",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "very thinly and evenly sliced"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 2,
         "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Fry the cassava slices in batches, turning, 4-5 minutes, until golden and crisp.",
+      "Drain briefly and season with salt while still hot."
     ],
     "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Fry the cassava slices in batches, turning, 4-5 minutes, until golden and crisp.",
+      "Drain briefly and season with salt while still hot."
     ],
     "tags": []
   },
@@ -686,7 +698,7 @@
     "cuisine": "cameroonian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Grilled fish rubbed with garlic and chili, reflecting Cameroon's strong coastal fishing tradition.",
+    "description": "Grilled fish rubbed with garlic and chili, reflecting Cameroon's strong coastal fishing tradition, real technique letting the rub sit on the fish briefly before grilling so the flavor actually penetrates.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -722,11 +734,11 @@
       }
     ],
     "steps_detailed": [
-      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Rub the fish with the garlic and jalape\u00f1o, and let sit 10 minutes.",
       "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Rub the fish with the garlic and jalape\u00f1o.",
+      "Rub the fish with the garlic and jalape\u00f1o, and let sit 10 minutes.",
       "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
@@ -736,7 +748,7 @@
     "cuisine": "cameroonian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A simple vegetable stew, common Cameroonian home cooking.",
+    "description": "A simple vegetable stew, common Cameroonian home cooking, real versions built on a real onion-and-garlic base rather than just simmered plain vegetables.",
     "ingredients_full": [
       {
         "ingredient": "Green beans",
@@ -751,6 +763,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
@@ -769,13 +786,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until the vegetables are tender."
+      "Cook the onion 3-4 minutes until softened.",
+      "Add the carrot, green beans, and tomatoes, and simmer 15-18 minutes until the vegetables are tender."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until the vegetables are tender."
+      "Cook the onion 3-4 minutes until softened.",
+      "Add the carrot, green beans, and tomatoes, and simmer 15-18 minutes until the vegetables are tender."
     ],
     "tags": []
   },
@@ -784,7 +808,7 @@
     "cuisine": "cameroonian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A mayonnaise-dressed cabbage salad, a common Cameroonian side, especially alongside grilled meat.",
+    "description": "A mayonnaise-dressed cabbage salad, a common Cameroonian side, especially alongside grilled meat, real versions including a touch of mustard for real depth against the mayonnaise.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -800,6 +824,11 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -817,13 +846,20 @@
         "ingredient": "Mayonnaise",
         "qty": 3,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
     ],
     "tags": []
   },
@@ -832,7 +868,7 @@
     "cuisine": "cameroonian",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Fried ripe plantain, a common Cameroonian side dish.",
+    "description": "Fried ripe plantain, a common Cameroonian side dish, real versions using genuinely ripe plantain, with a mostly black peel, for proper caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
@@ -858,10 +894,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -870,7 +906,7 @@
     "cuisine": "cameroonian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A light, spiced chicken broth, common Cameroonian comfort food.",
+    "description": "A light, spiced chicken broth, common Cameroonian comfort food, real technique simmering low and slow so the broth stays clear rather than boiling cloudy.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -891,6 +927,11 @@
         "ingredient": "Ground ginger",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -913,13 +954,20 @@
         "ingredient": "Ground ginger",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken in the broth with the jalape\u00f1o and ginger 25-30 minutes until tender."
+      "Combine the chicken, broth, jalape\u00f1o, ginger, and garlic in a pot.",
+      "Bring to a gentle simmer (not a hard boil, which clouds the broth) and cook 25-30 minutes until the chicken is tender."
     ],
     "steps": [
-      "Simmer the chicken in the broth with the jalape\u00f1o and ginger 25-30 minutes until tender."
+      "Combine the chicken, broth, jalape\u00f1o, ginger, and garlic in a pot.",
+      "Bring to a gentle simmer (not a hard boil, which clouds the broth) and cook 25-30 minutes until the chicken is tender."
     ],
     "tags": []
   },
@@ -984,6 +1032,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1001,6 +1054,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [

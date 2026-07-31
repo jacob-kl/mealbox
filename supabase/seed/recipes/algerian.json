@@ -100,7 +100,7 @@
     "cuisine": "algerian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Chorba, a tomato-based soup with lamb and vermicelli, is a beloved Algerian dish, especially eaten to break the fast during Ramadan.",
+    "description": "Chorba, a tomato-based soup with lamb and vermicelli, is a beloved Algerian dish, especially eaten to break the fast during Ramadan, real technique adding the pasta only in the last few minutes so it doesn't turn mushy from overcooking.",
     "ingredients_full": [
       {
         "ingredient": "Ground lamb",
@@ -456,10 +456,12 @@
       }
     ],
     "steps_detailed": [
-      "Blend the jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
     ],
     "steps": [
-      "Blend the jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
     ],
     "tags": []
   },
@@ -530,7 +532,7 @@
     "cuisine": "algerian",
     "meal_type": "lunch",
     "course": "complete",
-    "description": "A simple hummus, built on real tahini, widely eaten across Algeria and the wider region.",
+    "description": "A simple hummus, built on real tahini, widely eaten across Algeria and the wider region, real technique blending long enough that the chickpeas turn genuinely silky rather than just coarsely mashed.",
     "ingredients_full": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
@@ -576,10 +578,10 @@
       }
     ],
     "steps_detailed": [
-      "Blend everything with a splash of water until smooth."
+      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water, running the blender a full 2 minutes and scraping down the sides, until smooth and light."
     ],
     "steps": [
-      "Blend everything with a splash of water until smooth."
+      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water, running the blender a full 2 minutes and scraping down the sides, until smooth and light."
     ],
     "tags": []
   },
@@ -652,12 +654,12 @@
     "cuisine": "algerian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "A simple roasted chickpea snack, common across Algeria.",
+    "description": "A simple roasted chickpea snack, common across Algeria, real technique patting the chickpeas completely dry first so they crisp instead of steam.",
     "ingredients_full": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
-        "note": "patted dry"
+        "note": "patted very dry"
       },
       {
         "ingredient": "Olive oil",
@@ -674,7 +676,7 @@
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
-        "note": "patted dry"
+        "note": "patted very dry"
       },
       {
         "ingredient": "Olive oil",
@@ -688,12 +690,12 @@
       }
     ],
     "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Toss the well-dried chickpeas with the oil and cumin.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking the pan halfway through, until deeply golden and crisp."
     ],
     "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Toss the well-dried chickpeas with the oil and cumin.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking the pan halfway through, until deeply golden and crisp."
     ],
     "tags": []
   },
@@ -723,6 +725,11 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -745,13 +752,18 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss everything together and let sit 5 minutes so the flavors meld before serving."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss everything together and let sit 5 minutes so the flavors meld before serving."
     ],
     "tags": []
   },
@@ -830,7 +842,7 @@
     "cuisine": "algerian",
     "meal_type": "lunch",
     "course": "complete",
-    "description": "Bissara, a smooth, garlicky fava bean puree, a genuine North African comfort food, especially eaten in cold weather.",
+    "description": "Bissara, a smooth, garlicky fava bean puree, is a genuine North African comfort food, especially eaten in cold weather, real versions finished with a generous drizzle of real olive oil right before serving.",
     "ingredients_full": [
       {
         "ingredient": "Fava beans",
@@ -849,8 +861,8 @@
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "qty": 2,
+        "note": "tbsp, divided"
       }
     ],
     "ingredients": [
@@ -871,17 +883,19 @@
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "qty": 2,
+        "note": "tbsp, divided"
       }
     ],
     "steps_detailed": [
       "Simmer the fava beans with a splash of water, 8-10 minutes, until very soft.",
-      "Blend smooth with the garlic, cumin, and olive oil."
+      "Blend smooth with the garlic, cumin, and half the olive oil.",
+      "Drizzle with the remaining olive oil just before serving."
     ],
     "steps": [
       "Simmer the fava beans with a splash of water, 8-10 minutes, until very soft.",
-      "Blend smooth with the garlic, cumin, and olive oil."
+      "Blend smooth with the garlic, cumin, and half the olive oil.",
+      "Drizzle with the remaining olive oil just before serving."
     ],
     "tags": []
   },
@@ -896,6 +910,11 @@
         "ingredient": "Almonds",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -903,13 +922,20 @@
         "ingredient": "Almonds",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+      "Toast the almonds in a dry pan over medium heat, stirring constantly, 4-5 minutes, until fragrant and lightly golden inside.",
+      "Toss with a pinch of salt while still warm."
     ],
     "steps": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+      "Toast the almonds in a dry pan over medium heat, stirring constantly, 4-5 minutes, until fragrant and lightly golden inside.",
+      "Toss with a pinch of salt while still warm."
     ],
     "tags": []
   },
@@ -973,7 +999,7 @@
       {
         "ingredient": "Orange",
         "qty": 1,
-        "note": "peeled and sliced"
+        "note": "peeled and sliced into rounds"
       },
       {
         "ingredient": "Ground cinnamon",
@@ -990,7 +1016,7 @@
       {
         "ingredient": "Orange",
         "qty": 1,
-        "note": "peeled and sliced"
+        "note": "peeled and sliced into rounds"
       },
       {
         "ingredient": "Ground cinnamon",
@@ -1004,10 +1030,12 @@
       }
     ],
     "steps_detailed": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Arrange the orange slices on a plate, overlapping slightly.",
+      "Dust generously with cinnamon and drizzle with honey."
     ],
     "steps": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Arrange the orange slices on a plate, overlapping slightly.",
+      "Dust generously with cinnamon and drizzle with honey."
     ],
     "tags": []
   },
@@ -1114,10 +1142,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the cumin briefly in the olive oil, 30 seconds, to bloom its flavor.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the cumin briefly in the olive oil, 30 seconds, to bloom its flavor.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   },
@@ -1126,7 +1156,7 @@
     "cuisine": "algerian",
     "meal_type": "sauce",
     "course": "complete",
-    "description": "A cooling yogurt sauce cut with real harissa, balancing its heat.",
+    "description": "A cooling yogurt sauce cut with real harissa, balancing its heat, real technique letting it sit briefly so the harissa's flavor spreads through the yogurt rather than sitting in streaks.",
     "ingredients_full": [
       {
         "ingredient": "Yogurt, plain, whole milk",
@@ -1152,10 +1182,12 @@
       }
     ],
     "steps_detailed": [
-      "Stir the harissa into the yogurt."
+      "Stir the harissa into the yogurt until fully combined.",
+      "Let sit 10 minutes before serving so the flavors meld."
     ],
     "steps": [
-      "Stir the harissa into the yogurt."
+      "Stir the harissa into the yogurt until fully combined.",
+      "Let sit 10 minutes before serving so the flavors meld."
     ],
     "tags": []
   }
