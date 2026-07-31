@@ -500,60 +500,86 @@
     "cuisine": "malian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Fakoye, a leafy green stew similar to Nigerian efo riro, made with real jute leaves that aren't distinct here, so spinach stands in for a milder texture.",
+    "description": "Fakoye is genuinely built on real jute (molokhia) leaves, dried and ground into a powder, which give the sauce its distinctive dark color and silky, slightly mucilaginous texture, closer in character to okra than to a simple leafy green stew - this is a very different dish from what was built here before, which was essentially plain spinach and beef. Real versions also lean on real dried fish and lamb, and a Songhai spice blend that isn't a distinct item here; okra stands in for jute's real texture, and spinach for the leaf, though this honestly misses the dish's real dark color and distinctive mucilage.",
     "ingredients_full": [
       {
-        "ingredient": "Baby spinach",
-        "qty": 200,
-        "note": "standing in for jute leaves"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
+        "ingredient": "Ground lamb",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Okra",
+        "qty": 100,
+        "note": "sliced, standing in for jute leaf's real mucilage"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": "standing in for ground jute leaf"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Baby spinach",
-        "qty": 200,
-        "note": "standing in for jute leaves"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
+        "ingredient": "Ground lamb",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Okra",
+        "qty": 100,
+        "note": "sliced, standing in for jute leaf's real mucilage"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": "standing in for ground jute leaf"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the spinach and simmer 8-10 minutes until well combined."
+      [
+        "Brown the lamb with the onion and jalape\u00f1o, 6-7 minutes.",
+        "Add the cumin and 1.5 cups water, and simmer 10 minutes.",
+        "Add the okra and simmer 10-12 minutes until it releases its real mucilage and the sauce turns notably silky.",
+        "Add the spinach and simmer 8-10 minutes more until wilted and the sauce has thickened and darkened."
+      ]
     ],
     "steps": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the spinach and simmer 8-10 minutes until well combined."
+      [
+        "Brown the lamb with the onion and jalape\u00f1o, 6-7 minutes.",
+        "Add the cumin and 1.5 cups water, and simmer 10 minutes.",
+        "Add the okra and simmer 10-12 minutes until it releases its real mucilage and the sauce turns notably silky.",
+        "Add the spinach and simmer 8-10 minutes more until wilted and the sauce has thickened and darkened."
+      ]
     ],
     "tags": []
   },
