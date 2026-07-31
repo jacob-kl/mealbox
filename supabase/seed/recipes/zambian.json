@@ -408,10 +408,10 @@
       }
     ],
     "steps_detailed": [
-      "Serve as-is."
+      "Serve as-is, groundnuts being a significant Zambian crop."
     ],
     "steps": [
-      "Serve as-is."
+      "Serve as-is, groundnuts being a significant Zambian crop."
     ],
     "tags": []
   },
@@ -470,7 +470,7 @@
     "cuisine": "zambian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Zambian home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Zambian home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -647,21 +647,31 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -780,7 +790,7 @@
     "cuisine": "zambian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Sweetened milk tea is a beloved daily ritual across Zambia.",
+    "description": "Sweetened milk tea is a beloved daily ritual across Zambia, real versions simmering the tea and milk together rather than just steeping.",
     "ingredients_full": [
       {
         "ingredient": "Beverages, tea, green, brewed, regular",

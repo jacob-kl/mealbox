@@ -742,7 +742,7 @@
     "cuisine": "somali",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Somali home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Somali home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -1058,10 +1058,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the cumin and turmeric briefly in a little oil, 30 seconds, to bloom their flavor.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the cumin and turmeric briefly in a little oil, 30 seconds, to bloom their flavor.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   },
@@ -1106,10 +1108,10 @@
       }
     ],
     "steps_detailed": [
-      "Whisk everything together."
+      "Whisk the garlic, cumin, and olive oil together until well combined."
     ],
     "steps": [
-      "Whisk everything together."
+      "Whisk the garlic, cumin, and olive oil together until well combined."
     ],
     "tags": []
   }
