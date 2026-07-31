@@ -3,11 +3,12 @@
     "name": "Gambian Domoda",
     "cuisine": "gambian",
     "meal_type": "dinner",
-    "description": "Domoda, meat stewed in a rich ground peanut sauce, is widely considered the Gambia's national dish, built on real ground peanuts.",
+    "course": "complete",
+    "description": "Domoda, Gambia's national dish, is genuinely built on real sweet potato or pumpkin as a core vegetable, not just meat, tomato, and peanut alone - when meat isn't used, the vegetable itself carries much of the dish. Real technique fries the aromatics and tomato paste down first, then simmers everything until the oil visibly rises to the surface, the same real doneness cue found in neighboring Sudanese cooking.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
+        "qty": 200,
         "note": ""
       },
       {
@@ -16,20 +17,40 @@
         "note": "tbsp"
       },
       {
+        "ingredient": "Sweet potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Sweet potato",
-        "qty": 80,
-        "note": "cubed"
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
+        "qty": 200,
         "note": ""
       },
       {
@@ -38,25 +59,47 @@
         "note": "tbsp"
       },
       {
+        "ingredient": "Sweet potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Sweet potato",
-        "qty": 80,
-        "note": "cubed"
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the chicken, 6-7 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot along with the sweet potato.",
-      "Simmer 25-28 minutes until the chicken is tender and the sweet potato is soft."
+      "Brown the chicken with the onion and garlic, 8-9 minutes.",
+      "Add the tomato paste and cook 2 minutes.",
+      "Whisk the peanut butter with the diced tomatoes and jalape\u00f1o, add to the pot along with the sweet potato and 1 cup water.",
+      "Simmer 30-35 minutes, until the sweet potato is tender and the oil visibly rises to the surface - the real sign the stew is done."
     ],
     "steps": [
-      "Brown the chicken, 6-7 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot along with the sweet potato.",
-      "Simmer 25-28 minutes until the chicken is tender and the sweet potato is soft."
+      "Brown the chicken with the onion and garlic, 8-9 minutes.",
+      "Add the tomato paste and cook 2 minutes.",
+      "Whisk the peanut butter with the diced tomatoes and jalape\u00f1o, add to the pot along with the sweet potato and 1 cup water.",
+      "Simmer 30-35 minutes, until the sweet potato is tender and the oil visibly rises to the surface - the real sign the stew is done."
     ],
     "tags": []
   },
@@ -64,7 +107,8 @@
     "name": "Gambian Benachin",
     "cuisine": "gambian",
     "meal_type": "dinner",
-    "description": "Benachin, meaning 'one pot', tomato-and-pepper rice cooked with meat and vegetables, is a genuine Gambian original and a direct ancestor of the wider West African jollof tradition.",
+    "course": "complete",
+    "description": "Benachin, meaning 'one pot' in Wolof, is one of Gambia's most iconic dishes - real technique fries the chicken first, sets it aside, builds the tomato base in the same pot, then returns everything together with the rice so the flavors genuinely meld as one.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -77,7 +121,12 @@
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
         "qty": 60,
         "note": ""
       },
@@ -87,9 +136,19 @@
         "note": ""
       },
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
+        "ingredient": "Green cabbage",
+        "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
       }
     ],
     "ingredients": [
@@ -104,7 +163,12 @@
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
         "qty": 60,
         "note": ""
       },
@@ -114,83 +178,32 @@
         "note": ""
       },
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
+        "ingredient": "Green cabbage",
+        "qty": 60,
         "note": ""
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
       }
     ],
     "steps_detailed": [
       "Brown the chicken, 6-7 minutes, then set aside.",
-      "Simmer the tomatoes, bell pepper, and carrot 12-15 minutes.",
-      "Stir in the rice and 1.25 cups water, add the chicken, cover, and simmer 20-25 minutes until tender."
+      "Fry the onion in the same pot, add the tomato paste, cook 2 minutes, then add the diced tomatoes and simmer 10 minutes.",
+      "Add the carrot and cabbage, and simmer 8-10 minutes.",
+      "Return the chicken, add the rice and broth, cover, and simmer 18-20 minutes until the rice is tender."
     ],
     "steps": [
       "Brown the chicken, 6-7 minutes, then set aside.",
-      "Simmer the tomatoes, bell pepper, and carrot 12-15 minutes.",
-      "Stir in the rice and 1.25 cups water, add the chicken, cover, and simmer 20-25 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Yassa",
-    "cuisine": "gambian",
-    "meal_type": "dinner",
-    "description": "Yassa, chicken marinated and cooked in a mountain of caramelized onions and lemon, is beloved across the Gambia as it is throughout the wider Senegambian region.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the chicken in the lemon juice and garlic for at least 20 minutes.",
-      "Brown the chicken, 6-7 minutes, then set aside.",
-      "Cook the onion over medium-low heat, stirring often, 20-25 minutes, until deeply softened and sweet.",
-      "Return the chicken with a splash of water and simmer 15 minutes more."
-    ],
-    "steps": [
-      "Marinate the chicken in the lemon juice and garlic for at least 20 minutes.",
-      "Brown the chicken, 6-7 minutes, then set aside.",
-      "Cook the onion over medium-low heat, stirring often, 20-25 minutes, until deeply softened and sweet.",
-      "Return the chicken with a splash of water and simmer 15 minutes more."
+      "Fry the onion in the same pot, add the tomato paste, cook 2 minutes, then add the diced tomatoes and simmer 10 minutes.",
+      "Add the carrot and cabbage, and simmer 8-10 minutes.",
+      "Return the chicken, add the rice and broth, cover, and simmer 18-20 minutes until the rice is tender."
     ],
     "tags": []
   },
@@ -198,7 +211,8 @@
     "name": "Gambian Superkanja",
     "cuisine": "gambian",
     "meal_type": "dinner",
-    "description": "Superkanja, an okra and fish stew thickened naturally by the okra, a genuine Gambian coastal specialty.",
+    "course": "complete",
+    "description": "Superkanja, a hearty okra stew, is a beloved Gambian dish, thickened naturally by real okra's own sliminess.",
     "ingredients_full": [
       {
         "ingredient": "Okra",
@@ -207,13 +221,18 @@
       },
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 180,
+        "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -224,118 +243,189 @@
       },
       {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 180,
+        "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the tomatoes 8-10 minutes.",
-      "Add the fish and okra, and simmer 10-12 minutes until the fish is just cooked through and the stew has thickened."
+      "Cook the tomatoes in the palm oil, 5-6 minutes.",
+      "Add the fish and okra with a splash of water, and simmer 12-15 minutes until the fish is cooked through and the stew thickens naturally."
     ],
     "steps": [
-      "Simmer the tomatoes 8-10 minutes.",
-      "Add the fish and okra, and simmer 10-12 minutes until the fish is just cooked through and the stew has thickened."
+      "Cook the tomatoes in the palm oil, 5-6 minutes.",
+      "Add the fish and okra with a splash of water, and simmer 12-15 minutes until the fish is cooked through and the stew thickens naturally."
     ],
     "tags": []
   },
   {
-    "name": "Gambian Accara",
-    "cuisine": "gambian",
-    "meal_type": "breakfast",
-    "description": "Accara, fried black-eyed pea fritters, a beloved Gambian street food closely related to Nigerian akara.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
-      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
-    ],
-    "steps": [
-      "Blend the cowpeas with the onion and jalape\u00f1o into a thick batter.",
-      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Fried Plantain",
+    "name": "Gambian Chicken Yassa",
     "cuisine": "gambian",
     "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Gambian side dish.",
+    "course": "complete",
+    "description": "Chicken yassa, marinated and slow-cooked in caramelized onions and lemon, is a beloved Gambian street food, real technique cooking the onions down until genuinely sweet, not just softened.",
     "ingredients_full": [
       {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Marinate the chicken in the lemon juice, mustard, and garlic for at least 20 minutes.",
+      "Brown the chicken in a little oil, 6-7 minutes, then set aside.",
+      "Cook the onion over medium-low heat, stirring often, 20-25 minutes, until deeply softened and sweet.",
+      "Return the chicken with a splash of water and simmer 15 minutes more."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Marinate the chicken in the lemon juice, mustard, and garlic for at least 20 minutes.",
+      "Brown the chicken in a little oil, 6-7 minutes, then set aside.",
+      "Cook the onion over medium-low heat, stirring often, 20-25 minutes, until deeply softened and sweet.",
+      "Return the chicken with a splash of water and simmer 15 minutes more."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Gambian Afra",
+    "cuisine": "gambian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Afra, barbecued meat, is a beloved Gambian street food, real technique keeping the seasoning simple so the smoky char carries the flavor.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the beef with the garlic and pepper.",
+      "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
+    ],
+    "steps": [
+      "Rub the beef with the garlic and pepper.",
+      "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Gambian Rice with Beans",
+    "cuisine": "gambian",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "A simple rice and bean dish, common Gambian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+    ],
+    "steps": [
+      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
     ],
     "tags": []
   },
@@ -343,7 +433,8 @@
     "name": "Gambian Bissap",
     "cuisine": "gambian",
     "meal_type": "snack",
-    "description": "Bissap, a hibiscus drink, a beloved beverage shared across the Gambia and the wider West African region.",
+    "course": "complete",
+    "description": "Bissap, a hibiscus drink, is a beloved Gambian beverage shared across much of West Africa.",
     "ingredients_full": [
       {
         "ingredient": "Beverages, tea, hibiscus, brewed",
@@ -369,202 +460,12 @@
       }
     ],
     "steps_detailed": [
-      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+      "Warm the hibiscus tea and stir in the sugar until dissolved.",
+      "Chill and serve over ice."
     ],
     "steps": [
-      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Grilled Fish",
-    "cuisine": "gambian",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting the Gambia's coastal and riverine fishing tradition along the Gambia River.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Beans in Tomato Sauce",
-    "cuisine": "gambian",
-    "meal_type": "dinner",
-    "description": "A simple bean stew, common Gambian home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Beignets",
-    "cuisine": "gambian",
-    "meal_type": "breakfast",
-    "description": "Beignets, sweet fried dough balls, a beloved Gambian breakfast snack shared across much of West Africa.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
-    ],
-    "steps": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Groundnut Soup",
-    "cuisine": "gambian",
-    "meal_type": "dinner",
-    "description": "A simple peanut-based soup, built on real ground peanuts, groundnuts being one of the Gambia's most significant export crops.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
-    ],
-    "steps": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
+      "Warm the hibiscus tea and stir in the sugar until dissolved.",
+      "Chill and serve over ice."
     ],
     "tags": []
   },
@@ -572,7 +473,8 @@
     "name": "Gambian Roasted Peanuts",
     "cuisine": "gambian",
     "meal_type": "snack",
-    "description": "A simple roasted peanut snack, groundnuts being one of the Gambia's most significant crops.",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, peanuts being a significant Gambian export crop.",
     "ingredients_full": [
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -596,70 +498,70 @@
     "tags": []
   },
   {
-    "name": "Gambian Okra Stew",
+    "name": "Gambian Fried Fish",
     "cuisine": "gambian",
     "meal_type": "dinner",
-    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Gambian home-cooking staple.",
+    "course": "complete",
+    "description": "Fried fish rubbed with garlic and lemon, reflecting Gambia's Atlantic coastal fishing tradition.",
     "ingredients_full": [
       {
-        "ingredient": "Okra",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Okra",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Fry in a little oil, 3-4 minutes per side, until golden and cooked through."
     ],
     "steps": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Fry in a little oil, 3-4 minutes per side, until golden and cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Gambian Sweet Potato Fritters",
+    "name": "Gambian Bean Fritters",
     "cuisine": "gambian",
-    "meal_type": "snack",
-    "description": "Simple fried sweet potato fritters, a common Gambian snack.",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Fried black-eyed pea fritters, closely related to akara found across West Africa.",
     "ingredients_full": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       },
       {
@@ -670,13 +572,13 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       },
       {
@@ -686,12 +588,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Blend the cowpeas with the onion into a thick batter.",
+      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
     ],
     "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Blend the cowpeas with the onion into a thick batter.",
+      "Whip briefly to add air, then fry spoonfuls, turning, 4-5 minutes, until golden."
     ],
     "tags": []
   },
@@ -699,6 +601,7 @@
     "name": "Gambian Beef and Vegetable Stew",
     "cuisine": "gambian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Gambian home cooking.",
     "ingredients_full": [
       {
@@ -720,6 +623,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -742,52 +650,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Cassava Chips",
-    "cuisine": "gambian",
-    "meal_type": "snack",
-    "description": "Simple fried cassava chips, a common Gambian snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cassava",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cassava",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
-    ],
-    "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
     ],
     "tags": []
   },
@@ -795,7 +671,8 @@
     "name": "Gambian Coleslaw",
     "cuisine": "gambian",
     "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Gambian party-food side.",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Gambian side.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -835,63 +712,15 @@
     ],
     "steps": [
       "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Roasted Chickpea Snack",
-    "cuisine": "gambian",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across the Gambia.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and paprika.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and paprika.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
     ],
     "tags": []
   },
   {
     "name": "Gambian Peanut Sauce",
     "cuisine": "gambian",
-    "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many Gambian stews, echoing the flavor of domoda.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple ground-peanut sauce base, echoing the flavor of domoda, used across many Gambian stews.",
     "ingredients_full": [
       {
         "ingredient": "Peanut butter",
@@ -917,59 +746,12 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
       "Simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
       "Simmer 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gambian Tomato Onion Sauce",
-    "cuisine": "gambian",
-    "meal_type": "dinner",
-    "description": "A simple tomato-onion sauce base, used across many Gambian stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
     ],
     "tags": []
   }

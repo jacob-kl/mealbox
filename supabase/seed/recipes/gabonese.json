@@ -3,7 +3,8 @@
     "name": "Gabonese Poulet Nyembwe",
     "cuisine": "gabonese",
     "meal_type": "dinner",
-    "description": "Poulet nyembwe, chicken stewed in real palm nut sauce, is widely considered Gabon's national dish - real palm nut cream isn't a distinct item here, so peanut butter stands in for a similarly rich, reddish sauce.",
+    "course": "complete",
+    "description": "Poulet nyembwe, chicken in a real palm-nut sauce, is Gabon's national dish, its name literally meaning 'palm oil' in the Myene language - real versions traditionally use smoked chicken, which gives the dish a deeper, more distinctive flavor than fresh chicken alone; this version uses fresh chicken as the more practical substitute. Real palm nut cream isn't a distinct item here, so peanut butter stands in, the same widely recognized substitute used across neighboring Congo and Angola.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -23,6 +24,21 @@
       {
         "ingredient": "Yellow onion",
         "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.75,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
         "note": ""
       }
     ],
@@ -46,35 +62,56 @@
         "ingredient": "Yellow onion",
         "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.75,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, 8-9 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
+      "Brown the chicken with the onion, garlic, and ginger, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and jalape\u00f1o, then add to the pot.",
       "Simmer 25-28 minutes until the chicken is very tender."
     ],
     "steps": [
-      "Brown the chicken with the onion, 8-9 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
+      "Brown the chicken with the onion, garlic, and ginger, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and jalape\u00f1o, then add to the pot.",
       "Simmer 25-28 minutes until the chicken is very tender."
     ],
     "tags": []
   },
   {
-    "name": "Gabonese Saka Saka",
+    "name": "Gabonese Odika (Wild Mango Seed Sauce)",
     "cuisine": "gabonese",
     "meal_type": "dinner",
-    "description": "Saka saka, pounded cassava leaves simmered with peanut, a genuine Gabonese staple shared across the wider Congo Basin - real cassava leaves aren't a distinct item here, so spinach stands in.",
+    "course": "complete",
+    "description": "Odika, sometimes called 'African chocolate', is a real Gabonese sauce made from roasted, ground wild mango seeds - real odika isn't a distinct item here, so peanut butter stands in for a similarly rich, nutty base, though it honestly lacks odika's real, distinctive chocolate-like depth.",
     "ingredients_full": [
       {
-        "ingredient": "Baby spinach",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
-        "note": "standing in for cassava leaves"
+        "note": "standing in for smoked fish or meat"
       },
       {
         "ingredient": "Peanut butter",
-        "qty": 2,
-        "note": "tbsp"
+        "qty": 2.5,
+        "note": "tbsp, standing in for real ground odika seeds"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -84,14 +121,19 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Baby spinach",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
-        "note": "standing in for cassava leaves"
+        "note": "standing in for smoked fish or meat"
       },
       {
         "ingredient": "Peanut butter",
-        "qty": 2,
-        "note": "tbsp"
+        "qty": 2.5,
+        "note": "tbsp, standing in for real ground odika seeds"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -100,14 +142,14 @@
       }
     ],
     "steps_detailed": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, then add the spinach.",
-      "Simmer 15-18 minutes until well combined."
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until thickened and the chicken is tender."
     ],
     "steps": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, then add the spinach.",
-      "Simmer 15-18 minutes until well combined."
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until thickened and the chicken is tender."
     ],
     "tags": []
   },
@@ -115,7 +157,8 @@
     "name": "Gabonese Fufu",
     "cuisine": "gabonese",
     "meal_type": "dinner",
-    "description": "Fufu, cassava pounded into a smooth, stretchy dough, is one of Gabon's most essential staple starches.",
+    "course": "side",
+    "description": "Fufu, cassava or yam pounded into a smooth, stretchy dough, is a genuine Gabonese staple, traditionally torn by hand to scoop up sauce.",
     "ingredients_full": [
       {
         "ingredient": "Cassava",
@@ -132,75 +175,35 @@
     ],
     "steps_detailed": [
       "Boil the cassava until completely soft, 20-25 minutes.",
-      "Drain and pound vigorously until smooth and stretchy."
+      "Drain and pound vigorously until smooth and stretchy, free of lumps."
     ],
     "steps": [
       "Boil the cassava until completely soft, 20-25 minutes.",
-      "Drain and pound vigorously until smooth and stretchy."
+      "Drain and pound vigorously until smooth and stretchy, free of lumps."
     ],
     "tags": []
   },
   {
-    "name": "Gabonese Liboke",
+    "name": "Gabonese Mustard Chicken",
     "cuisine": "gabonese",
     "meal_type": "dinner",
-    "description": "Liboke, fish seasoned and wrapped in banana leaf to steam in its own juices, a genuine cooking technique shared across Central Africa.",
+    "course": "complete",
+    "description": "Gabonese-style mustard chicken, marinated with lemon, garlic, and chili before roasting, is a beloved everyday Gabonese dish, real technique letting the marinade sit so the mustard's tang genuinely penetrates the meat.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Mustard, prepared, yellow",
         "qty": 1,
-        "note": "tsp, grated"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
+        "note": "tbsp"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Lemon juice, raw",
         "qty": 1,
-        "note": "tsp, grated"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and ginger.",
-      "Wrap tightly in foil.",
-      "Bake at 400F (200C) for 20-22 minutes until just cooked through, sealed in its own steam."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and ginger.",
-      "Wrap tightly in foil.",
-      "Bake at 400F (200C) for 20-22 minutes until just cooked through, sealed in its own steam."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Grilled Fish",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and pepper, reflecting Gabon's Atlantic coastal fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
+        "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
@@ -210,14 +213,24 @@
       {
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
-        "note": "standing in for scotch bonnet"
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
         "note": ""
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
@@ -227,16 +240,16 @@
       {
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
-        "note": "standing in for scotch bonnet"
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Rub the fish with the garlic and jalape\u00f1o.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
+      "Mix the mustard, lemon juice, garlic, and jalape\u00f1o, then rub over the chicken and marinate at least 20 minutes.",
+      "Roast at 400F (200C) for 30-35 minutes, or grill, until golden and cooked through."
     ],
     "steps": [
-      "Rub the fish with the garlic and jalape\u00f1o.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
+      "Mix the mustard, lemon juice, garlic, and jalape\u00f1o, then rub over the chicken and marinate at least 20 minutes.",
+      "Roast at 400F (200C) for 30-35 minutes, or grill, until golden and cooked through."
     ],
     "tags": []
   },
@@ -244,17 +257,13 @@
     "name": "Gabonese Fried Plantain",
     "cuisine": "gabonese",
     "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Gabonese side dish, shared across the wider Central African region.",
+    "course": "side",
+    "description": "Fried ripe plantain, a common Gabonese side dish, real versions using genuinely ripe plantain for real caramelization.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
         "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -262,218 +271,42 @@
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
         "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
   {
-    "name": "Gabonese Beignets",
-    "cuisine": "gabonese",
-    "meal_type": "breakfast",
-    "description": "Beignets, sweet fried dough balls, a beloved Gabonese breakfast snack shared across much of West and Central Africa.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
-    ],
-    "steps": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Rice with Beans",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "A simple rice and bean dish, common Gabonese home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
-    ],
-    "steps": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Grilled Chicken",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "Grilled chicken marinated simply with garlic and pepper, a common Gabonese way of preparing meat.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the chicken in the garlic and jalape\u00f1o for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "steps": [
-      "Marinate the chicken in the garlic and jalape\u00f1o for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Groundnut Soup",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "A simple peanut-based soup, built on real ground peanuts, common across Gabon and the wider Central African region.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
-    ],
-    "steps": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Sweet Potato Fritters",
+    "name": "Gabonese Banana Fritters",
     "cuisine": "gabonese",
     "meal_type": "snack",
-    "description": "Simple fried sweet potato fritters, a common Gabonese snack.",
+    "course": "complete",
+    "description": "Sweet banana fritters, a beloved Gabonese snack, real technique using genuinely ripe banana for its natural sweetness.",
     "ingredients_full": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": "very ripe, mashed"
       },
       {
         "ingredient": "All-purpose flour",
-        "qty": 20,
+        "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
@@ -483,14 +316,24 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": "very ripe, mashed"
       },
       {
         "ingredient": "All-purpose flour",
-        "qty": 20,
+        "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
@@ -499,12 +342,62 @@
       }
     ],
     "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Mix the mashed banana with the flour, sugar, and nutmeg into a thick batter.",
+      "Fry spoonfuls, turning, 3-4 minutes per batch, until deeply golden."
     ],
     "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
+      "Mix the mashed banana with the flour, sugar, and nutmeg into a thick batter.",
+      "Fry spoonfuls, turning, 3-4 minutes per batch, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Gabonese Grilled Fish",
+    "cuisine": "gabonese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Gabon's extensive Atlantic coastline.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
@@ -512,6 +405,7 @@
     "name": "Gabonese Roasted Peanuts",
     "cuisine": "gabonese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Gabon.",
     "ingredients_full": [
       {
@@ -536,39 +430,54 @@
     "tags": []
   },
   {
-    "name": "Gabonese Cassava Chips",
+    "name": "Gabonese Okra Stew",
     "cuisine": "gabonese",
-    "meal_type": "snack",
-    "description": "Simple fried cassava chips, a common Gabonese snack.",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine Gabonese home-cooking staple.",
     "ingredients_full": [
       {
-        "ingredient": "Cassava",
+        "ingredient": "Okra",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "sliced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Cassava",
+        "ingredient": "Okra",
         "qty": 150,
-        "note": "thinly sliced"
+        "note": "sliced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
     ],
     "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until tender."
     ],
     "tags": []
   },
@@ -576,6 +485,7 @@
     "name": "Gabonese Beef and Vegetable Stew",
     "cuisine": "gabonese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Gabonese home cooking.",
     "ingredients_full": [
       {
@@ -597,6 +507,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -619,50 +534,6 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Beans in Tomato Sauce",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "A simple bean stew, common Gabonese home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -671,10 +542,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
@@ -682,6 +555,7 @@
     "name": "Gabonese Coleslaw",
     "cuisine": "gabonese",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A mayonnaise-dressed cabbage salad, a common Gabonese side.",
     "ingredients_full": [
       {
@@ -726,94 +600,11 @@
     "tags": []
   },
   {
-    "name": "Gabonese Tropical Fruit Salad",
-    "cuisine": "gabonese",
-    "meal_type": "snack",
-    "description": "A simple tropical fruit salad, built on Gabon's abundant local fruit.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pineapple and papaya together."
-    ],
-    "steps": [
-      "Toss the pineapple and papaya together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Ginger Garlic Sauce",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "A simple ginger-garlic sauce, a common Gabonese condiment for grilled meat and fish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 1,
-        "note": "tbsp, grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 1,
-        "note": "tbsp, grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix everything together."
-    ],
-    "steps": [
-      "Mix everything together."
-    ],
-    "tags": []
-  },
-  {
     "name": "Gabonese Peanut Sauce",
     "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many Gabonese stews, echoing the flavor of nyembwe.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple ground-peanut sauce base, echoing the flavor of nyembwe, used across many Gabonese stews.",
     "ingredients_full": [
       {
         "ingredient": "Peanut butter",
@@ -839,59 +630,12 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
       "Simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
       "Simmer 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Gabonese Tomato Pepper Sauce",
-    "cuisine": "gabonese",
-    "meal_type": "dinner",
-    "description": "A simple tomato-pepper sauce base, used across many Gabonese stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
     ],
     "tags": []
   }
