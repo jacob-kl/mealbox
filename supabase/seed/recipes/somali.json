@@ -3,27 +3,58 @@
     "name": "Somali Bariis Iskukaris",
     "cuisine": "somali",
     "meal_type": "dinner",
-    "description": "Bariis iskukaris, spiced rice cooked with meat and raisins, is one of Somalia's most beloved dishes, traditionally colored a warm orange-red with real xawaash spice blend.",
+    "course": "complete",
+    "description": "Bariis iskukaris, Somalia's national dish, literally means 'cooked mixed together', describing its real one-pot technique - rice, meat, and vegetables all cook in the same pot, the rice absorbing a rich meat-and-spice broth rather than being steamed separately. Real xawaash, Somalia's essential spice blend, is built from cumin, coriander, turmeric, cardamom, cloves, and cinnamon together, and real raisins are a genuine, traditional addition for sweetness - the dish is traditionally eaten by hand, using a slice of banana to scoop.",
     "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
-        "qty": 55,
+        "qty": 60,
         "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 180,
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Raisins",
-        "qty": 20,
+        "ingredient": "Yellow onion",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
         "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
       },
       {
         "ingredient": "Ground cinnamon",
@@ -31,31 +62,66 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "Raisins",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Basmati rice (dry)",
-        "qty": 55,
+        "qty": 60,
         "note": ""
       },
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 180,
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Raisins",
-        "qty": 20,
+        "ingredient": "Yellow onion",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
         "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
       },
       {
         "ingredient": "Ground cinnamon",
@@ -63,81 +129,31 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "Raisins",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, cumin, and cinnamon, 8-9 minutes.",
-      "Add the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender.",
-      "Stir in the raisins once cooked."
+      "Cook the onion over medium heat, stirring often, 15-18 minutes, until deeply golden - this real, patient browning is central to the dish's flavor.",
+      "Add the garlic, cumin, coriander, turmeric, cardamom, cloves, and cinnamon, and cook 1-2 minutes until fragrant.",
+      "Add the chicken and brown, 6-7 minutes.",
+      "Stir in the tomatoes and cook until the mixture thickens and the oil separates at the edges, 4-5 minutes.",
+      "Add the rice, raisins, and broth, cover, and simmer 18-20 minutes until the rice is tender and the liquid is absorbed.",
+      "Serve with a slice of banana alongside, the traditional accompaniment."
     ],
     "steps": [
-      "Brown the chicken with the onion, cumin, and cinnamon, 8-9 minutes.",
-      "Add the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender.",
-      "Stir in the raisins once cooked."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Baasto",
-    "cuisine": "somali",
-    "meal_type": "dinner",
-    "description": "Baasto, spaghetti served with a spiced tomato-meat sauce and often a side of banana, reflects genuine Italian colonial influence merged with Somali spicing - eating pasta alongside a whole banana is a real, distinctive Somali custom, not an unusual pairing to skip.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pasta, cooked, enriched, without added salt",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced, for serving alongside"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pasta, cooked, enriched, without added salt",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced, for serving alongside"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 15-18 minutes.",
-      "Serve the sauce over the pasta, with the sliced banana alongside, the traditional Somali way of eating it."
-    ],
-    "steps": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 15-18 minutes.",
-      "Serve the sauce over the pasta, with the sliced banana alongside, the traditional Somali way of eating it."
+      "Cook the onion over medium heat, stirring often, 15-18 minutes, until deeply golden - this real, patient browning is central to the dish's flavor.",
+      "Add the garlic, cumin, coriander, turmeric, cardamom, cloves, and cinnamon, and cook 1-2 minutes until fragrant.",
+      "Add the chicken and brown, 6-7 minutes.",
+      "Stir in the tomatoes and cook until the mixture thickens and the oil separates at the edges, 4-5 minutes.",
+      "Add the rice, raisins, and broth, cover, and simmer 18-20 minutes until the rice is tender and the liquid is absorbed.",
+      "Serve with a slice of banana alongside, the traditional accompaniment."
     ],
     "tags": []
   },
@@ -145,17 +161,13 @@
     "name": "Somali Suqaar",
     "cuisine": "somali",
     "meal_type": "dinner",
-    "description": "Suqaar, small cubes of meat saut\u00e9ed with pepper and onion, a beloved Somali dish, often served over rice or with bread.",
+    "course": "complete",
+    "description": "Suqaar, small cubes of meat saut\u00e9ed with onion, pepper, and xawaash, is a beloved Somali everyday dish, real technique searing the meat hot and fast to keep it tender rather than stewing it long.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "cubed small"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": ""
+        "note": "cubed"
       },
       {
         "ingredient": "Yellow onion",
@@ -163,21 +175,31 @@
         "note": ""
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
+        "ingredient": "Bell pepper",
+        "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "cubed small"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": ""
+        "note": "cubed"
       },
       {
         "ingredient": "Yellow onion",
@@ -185,26 +207,132 @@
         "note": ""
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
+        "ingredient": "Bell pepper",
+        "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Sear the beef over high heat, 4-5 minutes.",
-      "Add the onion, pepper, and jalape\u00f1o, and cook 5-6 minutes more."
+      "Sear the beef over high heat, 4-5 minutes, until well browned but still tender inside.",
+      "Add the onion, bell pepper, garlic, cumin, and coriander, and cook 5-6 minutes more."
     ],
     "steps": [
-      "Sear the beef over high heat, 4-5 minutes.",
-      "Add the onion, pepper, and jalape\u00f1o, and cook 5-6 minutes more."
+      "Sear the beef over high heat, 4-5 minutes, until well browned but still tender inside.",
+      "Add the onion, bell pepper, garlic, cumin, and coriander, and cook 5-6 minutes more."
     ],
     "tags": []
   },
   {
-    "name": "Somali Canjeero",
+    "name": "Somali Xawaash Spice Blend",
+    "cuisine": "somali",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Xawaash, Somalia's essential spice blend, is the real foundation underlying countless Somali dishes - built from cumin, coriander, turmeric, cardamom, cloves, and cinnamon together, this blend traces its roots to Yemeni hawaij.",
+    "ingredients_full": [
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toast each spice briefly in a dry pan, 30 seconds, until fragrant.",
+      "Mix together thoroughly and store in an airtight container."
+    ],
+    "steps": [
+      "Toast each spice briefly in a dry pan, 30 seconds, until fragrant.",
+      "Mix together thoroughly and store in an airtight container."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Malawah",
     "cuisine": "somali",
     "meal_type": "breakfast",
-    "description": "Canjeero, a spongy fermented flatbread similar to Ethiopian injera, is a Somali breakfast staple, traditionally torn and dipped in oil, sugar, or stew.",
+    "course": "complete",
+    "description": "Malawah, a sweet, slightly spongy pancake, is a beloved Somali breakfast, real technique letting the batter rest so it develops real bubbles before cooking.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -212,9 +340,24 @@
         "note": ""
       },
       {
-        "ingredient": "Vinegar, distilled",
-        "qty": 1,
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
       }
     ],
     "ingredients": [
@@ -224,128 +367,86 @@
         "note": ""
       },
       {
-        "ingredient": "Vinegar, distilled",
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": "tsp"
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
       }
     ],
     "steps_detailed": [
-      "Whisk the flour, vinegar, and 1 cup water into a thin batter.",
-      "Let sit at room temperature 6-8 hours to develop some tang.",
-      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles form and the edges lift."
+      "Whisk the flour, sugar, baking powder, egg, and milk into a smooth batter.",
+      "Let rest 15 minutes.",
+      "Cook in a lightly oiled pan, 2-3 minutes per side, until golden."
     ],
     "steps": [
-      "Whisk the flour, vinegar, and 1 cup water into a thin batter.",
-      "Let sit at room temperature 6-8 hours to develop some tang.",
-      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles form and the edges lift."
+      "Whisk the flour, sugar, baking powder, egg, and milk into a smooth batter.",
+      "Let rest 15 minutes.",
+      "Cook in a lightly oiled pan, 2-3 minutes per side, until golden."
     ],
     "tags": []
   },
   {
-    "name": "Somali Sambusa",
+    "name": "Somali Sabaayad",
     "cuisine": "somali",
-    "meal_type": "snack",
-    "description": "Sambusa, fried triangular pastries with a spiced meat filling, a beloved Somali snack especially during Ramadan.",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Sabaayad, a layered flatbread, reflects genuine Indian and Yemeni culinary influence, real technique coiling the dough before flattening to build real flaky layers.",
     "ingredients_full": [
       {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
+        "ingredient": "All-purpose flour",
+        "qty": 55,
         "note": ""
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
+        "ingredient": "All-purpose flour",
+        "qty": 55,
         "note": ""
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion and cumin, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening again to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
     ],
     "steps": [
-      "Brown the beef with the onion and cumin, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening again to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
     ],
     "tags": []
   },
   {
-    "name": "Somali Muufo",
+    "name": "Somali Hilib Ari (Grilled Goat)",
     "cuisine": "somali",
     "meal_type": "dinner",
-    "description": "Muufo, a simple cornmeal flatbread, a genuine Somali staple, especially common along the southern coast.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Mix the cornmeal with water into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 4-5 minutes per side, until browned and cooked through."
-    ],
-    "steps": [
-      "Mix the cornmeal with water into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 4-5 minutes per side, until browned and cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Hilib Ari (Grilled Meat)",
-    "cuisine": "somali",
-    "meal_type": "dinner",
-    "description": "Hilib ari, grilled meat, is central to Somali eating, traditionally goat, made here with beef, a widely available protein with a similarly hearty character.",
+    "course": "complete",
+    "description": "Grilled goat is a genuine Somali staple, especially for celebrations - beef stands in here as a widely available substitute with a similarly hearty character.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -382,282 +483,21 @@
     ],
     "steps_detailed": [
       "Rub the beef with the garlic and cumin.",
-      "Grill, turning, 12-15 minutes, until well charred and cooked through."
+      "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
     ],
     "steps": [
       "Rub the beef with the garlic and cumin.",
-      "Grill, turning, 12-15 minutes, until well charred and cooked through."
+      "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Somali Fish with Rice",
+    "name": "Somali Bariis Bilaash (Plain Spiced Rice)",
     "cuisine": "somali",
     "meal_type": "dinner",
-    "description": "Grilled or fried fish served with spiced rice, reflecting Somalia's long Indian Ocean coastline and fishing tradition.",
+    "course": "side",
+    "description": "A simpler, everyday spiced rice built on real xawaash, without the meat of the full iskukaris.",
     "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice with the cumin per package directions.",
-      "Grill or pan-fry the fish, 4-5 minutes per side, until just cooked through.",
-      "Serve the fish over the rice."
-    ],
-    "steps": [
-      "Cook the rice with the cumin per package directions.",
-      "Grill or pan-fry the fish, 4-5 minutes per side, until just cooked through.",
-      "Serve the fish over the rice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Xalwo",
-    "cuisine": "somali",
-    "meal_type": "snack",
-    "description": "Xalwo (halwa), a dense, glossy, cardamom-scented sweet, is one of Somalia's most beloved treats, traditionally made for celebrations and Eid.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cornstarch",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cornstarch",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the cornstarch with 0.75 cup water until smooth, then add the sugar and cardamom.",
-      "Cook over medium heat, stirring constantly, 10-12 minutes, until thick and glossy.",
-      "Stir in the butter until melted and shiny."
-    ],
-    "steps": [
-      "Whisk the cornstarch with 0.75 cup water until smooth, then add the sugar and cardamom.",
-      "Cook over medium heat, stirring constantly, 10-12 minutes, until thick and glossy.",
-      "Stir in the butter until melted and shiny."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Roasted Chickpea Snack",
-    "cuisine": "somali",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Somalia.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Shaah",
-    "cuisine": "somali",
-    "meal_type": "snack",
-    "description": "Shaah, spiced milk tea, is central to Somali hospitality, traditionally flavored with real cardamom and cinnamon.",
-    "ingredients_full": [
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the milk with the cardamom and cinnamon 5-6 minutes.",
-      "Stir in the sugar before serving."
-    ],
-    "steps": [
-      "Warm the milk with the cardamom and cinnamon 5-6 minutes.",
-      "Stir in the sugar before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Banana with Milk",
-    "cuisine": "somali",
-    "meal_type": "breakfast",
-    "description": "Sliced banana with milk, a simple, real Somali breakfast custom, bananas being a common accompaniment to many meals.",
-    "ingredients_full": [
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the sliced banana with the milk poured over or alongside."
-    ],
-    "steps": [
-      "Serve the sliced banana with the milk poured over or alongside."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Beef and Rice",
-    "cuisine": "somali",
-    "meal_type": "dinner",
-    "description": "A simple beef and rice dish, spiced with real cumin and cinnamon in the Somali style.",
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
       {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
@@ -669,17 +509,17 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
         "note": ""
+      },
+      {
+        "ingredient": "Raisins",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
       {
         "ingredient": "Basmati rice (dry)",
         "qty": 55,
@@ -691,67 +531,23 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the cumin, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Cook the rice separately and serve the beef over it."
-    ],
-    "steps": [
-      "Brown the beef with the cumin, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Cook the rice separately and serve the beef over it."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Cucumber Tomato Salad",
-    "cuisine": "somali",
-    "meal_type": "lunch",
-    "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Somali meal.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
         "note": ""
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
+        "ingredient": "Raisins",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Cook the rice with the cumin and turmeric per package directions.",
+      "Fold in the raisins once done."
     ],
     "steps": [
-      "Toss everything together."
+      "Cook the rice with the cumin and turmeric per package directions.",
+      "Fold in the raisins once done."
     ],
     "tags": []
   },
@@ -759,6 +555,7 @@
     "name": "Somali Roasted Peanuts",
     "cuisine": "somali",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Somalia.",
     "ingredients_full": [
       {
@@ -783,9 +580,168 @@
     "tags": []
   },
   {
-    "name": "Somali Beef Stew",
+    "name": "Somali Shaah Hawaash (Spiced Tea)",
+    "cuisine": "somali",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Shaah hawaash, tea spiced with cardamom and cinnamon, is central to Somali daily hospitality.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the tea with the milk, cardamom, and cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "steps": [
+      "Warm the tea with the milk, cardamom, and cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Fish Curry",
     "cuisine": "somali",
     "meal_type": "dinner",
+    "course": "complete",
+    "description": "A coastal fish curry reflecting Somalia's Indian Ocean trade tradition and real xawaash spicing.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes, cumin, and turmeric 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Simmer the tomatoes, cumin, and turmeric 8-10 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Banana with Rice",
+    "cuisine": "somali",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Fresh banana served alongside rice dishes is a genuine, traditional Somali pairing, its natural sweetness balancing the warm xawaash spicing.",
+    "ingredients_full": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": "sliced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Serve the banana slices alongside spiced rice, a traditional pairing used to scoop bites by hand."
+    ],
+    "steps": [
+      "Serve the banana slices alongside spiced rice, a traditional pairing used to scoop bites by hand."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Beef and Vegetable Stew",
+    "cuisine": "somali",
+    "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Somali home cooking.",
     "ingredients_full": [
       {
@@ -807,6 +763,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -829,144 +790,6 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Mango with Lime",
-    "cuisine": "somali",
-    "meal_type": "snack",
-    "description": "A simple fresh mango dish, mango being a beloved Somali fruit, especially from the southern regions.",
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen mango chunks",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Frozen mango chunks",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the mango with the lemon juice."
-    ],
-    "steps": [
-      "Toss the mango with the lemon juice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Xawaash-Style Spice Blend",
-    "cuisine": "somali",
-    "meal_type": "snack",
-    "description": "Xawaash, Somalia's signature warm spice blend, built here from its real base spices.",
-    "ingredients_full": [
-      {
-        "ingredient": "Ground cumin",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Ground cumin",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix all the spices together thoroughly."
-    ],
-    "steps": [
-      "Mix all the spices together thoroughly."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Somali Suqaar Sauce",
-    "cuisine": "somali",
-    "meal_type": "dinner",
-    "description": "A simple tomato-pepper sauce base, used across many Somali dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -975,28 +798,289 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Somali Cumin Lime Sauce",
+    "name": "Somali Sambuus",
     "cuisine": "somali",
-    "meal_type": "dinner",
-    "description": "A simple cumin-lime sauce, common across Somali grilled meat and fish dishes.",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Sambuus, fried triangular pastries with a spiced filling, reflect genuine Indian and Arab culinary influence, a beloved Somali snack especially during Ramadan.",
     "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
       {
         "ingredient": "Ground cumin",
         "qty": 0.5,
         "note": "tsp"
       },
       {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion and cumin, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Brown the beef with the onion and cumin, 6-7 minutes.",
+      "Cut the phyllo into strips, fill, and fold into triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Tomato Onion Salad",
+    "cuisine": "somali",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple tomato and onion salad, a common Somali side, real technique letting the onion sit briefly in lemon juice first.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
         "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the onion with the lemon juice and let sit 5 minutes.",
+      "Add the tomatoes and toss together."
+    ],
+    "steps": [
+      "Toss the onion with the lemon juice and let sit 5 minutes.",
+      "Add the tomatoes and toss together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Mango Slices",
+    "cuisine": "somali",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Fresh mango, a beloved Somali snack, reflecting the country's abundant tropical fruit.",
+    "ingredients_full": [
+      {
+        "ingredient": "Mangos, raw",
+        "qty": 1,
+        "note": "peeled and sliced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Mangos, raw",
+        "qty": 1,
+        "note": "peeled and sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Serve the mango slices chilled."
+    ],
+    "steps": [
+      "Serve the mango slices chilled."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Coleslaw",
+    "cuisine": "somali",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Somali side, real versions with a touch of mustard for depth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
+    ],
+    "steps": [
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Xawaash Tomato Sauce",
+    "cuisine": "somali",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple xawaash-spiced tomato sauce base, used across many Somali stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Simmer everything together 12-15 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Somali Garlic Cumin Sauce",
+    "cuisine": "somali",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple garlic-cumin sauce, common across Somali grilled dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Garlic clove",
         "qty": 1.5,
-        "note": "tbsp"
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Olive oil",
@@ -1006,14 +1090,14 @@
     ],
     "ingredients": [
       {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
         "ingredient": "Ground cumin",
         "qty": 0.5,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
       },
       {
         "ingredient": "Olive oil",
