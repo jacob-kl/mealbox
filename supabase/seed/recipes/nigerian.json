@@ -398,25 +398,37 @@
       {
         "ingredient": "Yam, raw",
         "qty": 250,
-        "note": "peeled and cubed"
+        "note": "peeled and cubed, white yam is the traditional variety"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Yam, raw",
         "qty": 250,
-        "note": "peeled and cubed"
+        "note": "peeled and cubed, white yam is the traditional variety"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Boil the yam in salted water 20-25 minutes until completely fork-tender - a knife should slide in with no resistance.",
-      "Drain well and return to the hot, dry pot for a minute to steam off excess moisture.",
-      "Pound or mash vigorously and continuously until smooth, stretchy, and completely free of lumps - a mortar and pestle gives the real, elastic texture, since the pounding motion itself develops the starches; a sturdy masher worked with real force is the closest home approximation."
+      "Boil the yam in salted water 20-25 minutes until completely fork-tender - a knife should slide in with no resistance at all.",
+      "Drain well and return the yam to the hot, dry pot for a minute, shaking gently, to steam off excess moisture (this keeps the final texture from turning gummy).",
+      "Pound or mash vigorously and continuously until smooth, stretchy, and completely free of lumps - a mortar and pestle gives the real, elastic texture, since the pounding motion itself develops the starches; a sturdy masher worked with real, sustained force is the closest home approximation.",
+      "Shape into a smooth dome or individual portions using wet hands, which keeps the surface glossy and prevents sticking."
     ],
     "steps": [
-      "Boil the yam in salted water 20-25 minutes until completely fork-tender - a knife should slide in with no resistance.",
-      "Drain well and return to the hot, dry pot for a minute to steam off excess moisture.",
-      "Pound or mash vigorously and continuously until smooth, stretchy, and completely free of lumps - a mortar and pestle gives the real, elastic texture, since the pounding motion itself develops the starches; a sturdy masher worked with real force is the closest home approximation."
+      "Boil the yam in salted water 20-25 minutes until completely fork-tender - a knife should slide in with no resistance at all.",
+      "Drain well and return the yam to the hot, dry pot for a minute, shaking gently, to steam off excess moisture (this keeps the final texture from turning gummy).",
+      "Pound or mash vigorously and continuously until smooth, stretchy, and completely free of lumps - a mortar and pestle gives the real, elastic texture, since the pounding motion itself develops the starches; a sturdy masher worked with real, sustained force is the closest home approximation.",
+      "Shape into a smooth dome or individual portions using wet hands, which keeps the surface glossy and prevents sticking."
     ],
     "tags": [],
     "course": "side"
@@ -707,11 +719,11 @@
     "name": "Nigerian Pepper Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Pepper soup is defined by a real, distinctive spice blend - traditionally including uziza seed and calabash nutmeg, which aren't distinct items here, so this leans on more widely available warming spices for a reasonable approximation of the real peppery, aromatic broth.",
+    "description": "Real Nigerian pepper soup gets its distinctive warmth from a specific spice blend built on uziza seeds, calabash nutmeg (ehuru), alligator pepper, and grains of selim - none of these are distinct items here, so this leans on cumin, ground cloves, and black pepper for a reasonable approximation of the same warm, peppery character, though it honestly lacks their real earthy, slightly bitter complexity. Real crayfish is included since it's genuinely part of the blend, not an optional extra.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
+        "qty": 220,
         "note": ""
       },
       {
@@ -730,25 +742,45 @@
         "note": "tsp, grated"
       },
       {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
         "ingredient": "Black pepper (ground)",
         "qty": 0.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Goya Chicken Flavored Bouillon",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground"
       },
       {
-        "ingredient": "Spices, coriander seed",
-        "qty": 0.25,
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
+        "qty": 220,
         "note": ""
       },
       {
@@ -767,26 +799,54 @@
         "note": "tsp, grated"
       },
       {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
         "ingredient": "Black pepper (ground)",
         "qty": 0.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Goya Chicken Flavored Bouillon",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground"
       },
       {
-        "ingredient": "Spices, coriander seed",
-        "qty": 0.25,
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken in the broth with the jalape\u00f1o, ginger, black pepper, bouillon, and coriander for 25-30 minutes until the chicken is very tender and the broth is well infused."
+      "Season the chicken with a pinch of salt and set aside 10 minutes.",
+      "Combine the chicken, broth, jalape\u00f1o, ginger, garlic, and onion in a pot and bring to a boil.",
+      "Add the cumin, cloves, black pepper, ground crayfish, and bouillon.",
+      "Reduce heat and simmer uncovered 25-30 minutes, so the broth reduces slightly and the spices infuse fully, until the chicken is very tender.",
+      "Taste and adjust the pepper level before serving hot."
     ],
     "steps": [
-      "Simmer the chicken in the broth with the jalape\u00f1o, ginger, black pepper, bouillon, and coriander for 25-30 minutes until the chicken is very tender and the broth is well infused."
+      "Season the chicken with a pinch of salt and set aside 10 minutes.",
+      "Combine the chicken, broth, jalape\u00f1o, ginger, garlic, and onion in a pot and bring to a boil.",
+      "Add the cumin, cloves, black pepper, ground crayfish, and bouillon.",
+      "Reduce heat and simmer uncovered 25-30 minutes, so the broth reduces slightly and the spices infuse fully, until the chicken is very tender.",
+      "Taste and adjust the pepper level before serving hot."
     ],
     "tags": [],
     "course": "complete"
@@ -1249,7 +1309,7 @@
     "name": "Nigerian Fish Stew",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "A tomato-pepper fish stew, built on the same real fried-down base as jollof and efo riro, cooked in real palm oil - a common Nigerian home-cooking staple.",
+    "description": "A tomato-pepper fish stew, built on the same real fried-down base as jollof and efo riro, cooked in real palm oil - a common Nigerian home-cooking staple, real versions often finished with a handful of ground crayfish for extra depth.",
     "ingredients_full": [
       {
         "ingredient": "Atlantic salmon (raw)",
@@ -1285,6 +1345,11 @@
         "ingredient": "Goya Chicken Flavored Bouillon",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground"
       }
     ],
     "ingredients": [
@@ -1322,17 +1387,22 @@
         "ingredient": "Goya Chicken Flavored Bouillon",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground"
       }
     ],
     "steps_detailed": [
       "Blend the tomatoes, bell pepper, and jalape\u00f1o into a smooth puree.",
-      "Fry the onion in the palm oil 3-4 minutes, then add the puree and bouillon and simmer 15 minutes until it deepens in color.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
+      "Fry the onion in the palm oil 3-4 minutes, then add the puree, bouillon, and crayfish, and simmer 15 minutes until it deepens in color and thickens.",
+      "Add the fish and simmer 8-10 minutes until just cooked through, spooning the sauce over it occasionally."
     ],
     "steps": [
       "Blend the tomatoes, bell pepper, and jalape\u00f1o into a smooth puree.",
-      "Fry the onion in the palm oil 3-4 minutes, then add the puree and bouillon and simmer 15 minutes until it deepens in color.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
+      "Fry the onion in the palm oil 3-4 minutes, then add the puree, bouillon, and crayfish, and simmer 15 minutes until it deepens in color and thickens.",
+      "Add the fish and simmer 8-10 minutes until just cooked through, spooning the sauce over it occasionally."
     ],
     "tags": [],
     "course": "complete"
@@ -1341,36 +1411,50 @@
     "name": "Nigerian Dodo (Fried Plantain)",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Dodo, ripe plantain sliced and fried until caramelized, a beloved Nigerian side dish, especially alongside jollof rice or beans - the plantain must be genuinely ripe, with a mostly or fully black peel, for the real deep caramelization.",
+    "description": "Dodo, ripe plantain sliced and fried until caramelized, is a beloved Nigerian side dish, especially alongside jollof rice or beans - the plantain must be genuinely ripe, with a peel that's mostly or fully black, since underripe plantain fries starchy and bland rather than caramelizing into the real sweet, custardy dodo texture. A light dusting of salt right out of the pan, and sometimes a pinch of chili for a spicier dodo ata, is real, common practice.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced, very ripe"
+        "note": "sliced diagonally, very ripe, peel mostly or fully black"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced, very ripe"
+        "note": "sliced diagonally, very ripe, peel mostly or fully black"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in the oil over medium heat, turning once, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges."
+      "Heat the oil in a skillet over medium heat until shimmering.",
+      "Fry the plantain slices in a single layer, without crowding the pan, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges.",
+      "Drain briefly on paper towels and season immediately with the salt while still hot, so it sticks."
     ],
     "steps": [
-      "Fry the plantain slices in the oil over medium heat, turning once, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges."
+      "Heat the oil in a skillet over medium heat until shimmering.",
+      "Fry the plantain slices in a single layer, without crowding the pan, 3-4 minutes per side, until deeply caramelized and golden-brown at the edges.",
+      "Drain briefly on paper towels and season immediately with the salt while still hot, so it sticks."
     ],
     "tags": [],
     "course": "side"
@@ -1379,7 +1463,7 @@
     "name": "Nigerian Okra Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Okra soup is thickened by okra's own natural sliminess rather than a starch - real technique keeps some okra pieces larger for texture rather than mincing everything uniformly fine.",
+    "description": "Okra soup is thickened naturally by okra's own sliminess rather than a starch - real technique keeps some pieces larger for texture, adding the okra toward the end so it doesn't overcook into mush, and real crayfish rounds out the depth alongside the beef.",
     "ingredients_full": [
       {
         "ingredient": "Okra",
@@ -1397,16 +1481,6 @@
         "note": ""
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      },
-      {
-        "ingredient": "Palm oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
         "qty": 15,
         "note": "ground"
@@ -1415,6 +1489,11 @@
         "ingredient": "Goya Chicken Flavored Bouillon",
         "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -1434,16 +1513,6 @@
         "note": ""
       },
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for scotch bonnet"
-      },
-      {
-        "ingredient": "Palm oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
         "qty": 15,
         "note": "ground"
@@ -1452,17 +1521,22 @@
         "ingredient": "Goya Chicken Flavored Bouillon",
         "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Brown the beef in the palm oil, 6-7 minutes.",
-      "Add the tomatoes, jalape\u00f1o, crayfish, and bouillon, and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender - the soup should thicken naturally from the okra itself."
+      "Add the tomatoes, crayfish, and bouillon, and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until just tender - the soup should thicken naturally from the okra itself without turning mushy."
     ],
     "steps": [
       "Brown the beef in the palm oil, 6-7 minutes.",
-      "Add the tomatoes, jalape\u00f1o, crayfish, and bouillon, and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender - the soup should thicken naturally from the okra itself."
+      "Add the tomatoes, crayfish, and bouillon, and simmer 8-10 minutes.",
+      "Add the okra and simmer 6-8 minutes until just tender - the soup should thicken naturally from the okra itself without turning mushy."
     ],
     "tags": [],
     "course": "complete"
@@ -1471,7 +1545,7 @@
     "name": "Nigerian Coleslaw",
     "cuisine": "nigerian",
     "meal_type": "lunch",
-    "description": "Nigerian coleslaw, a mayonnaise-dressed cabbage and vegetable salad, a common party-food side, often served alongside jollof rice at the same table.",
+    "description": "Nigerian party coleslaw, a mayonnaise-dressed cabbage and vegetable salad, is a fixture at Nigerian parties and celebrations, almost always served alongside jollof rice - real versions typically include a touch of mustard and sugar for real balance against the mayonnaise's richness, not just cabbage and carrot alone.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -1492,6 +1566,16 @@
         "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
         "qty": 30,
         "note": ""
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1514,13 +1598,27 @@
         "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
         "qty": 30,
         "note": ""
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the cabbage, carrot, and peas with the mayonnaise until well coated."
+      "Whisk the mayonnaise, mustard, and sugar together until smooth.",
+      "Toss the cabbage, carrot, and peas with the dressing until every piece is well coated.",
+      "Chill at least 20 minutes before serving to let the flavors settle."
     ],
     "steps": [
-      "Toss the cabbage, carrot, and peas with the mayonnaise until well coated."
+      "Whisk the mayonnaise, mustard, and sugar together until smooth.",
+      "Toss the cabbage, carrot, and peas with the dressing until every piece is well coated.",
+      "Chill at least 20 minutes before serving to let the flavors settle."
     ],
     "tags": [],
     "course": "side"
@@ -1550,6 +1648,11 @@
         "ingredient": "Pineapple chunks (canned in juice)",
         "qty": 0.25,
         "note": "cup"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -1572,17 +1675,22 @@
         "ingredient": "Pineapple chunks (canned in juice)",
         "qty": 0.25,
         "note": "cup"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Warm the hibiscus tea with the ginger 5-6 minutes to infuse.",
-      "Stir in the sugar until dissolved, then chill.",
-      "Serve over ice with pineapple chunks."
+      "Warm the hibiscus tea with the ginger and cloves 5-6 minutes to infuse.",
+      "Stir in the sugar until fully dissolved, then chill completely.",
+      "Serve cold over ice with the pineapple chunks stirred through."
     ],
     "steps": [
-      "Warm the hibiscus tea with the ginger 5-6 minutes to infuse.",
-      "Stir in the sugar until dissolved, then chill.",
-      "Serve over ice with pineapple chunks."
+      "Warm the hibiscus tea with the ginger and cloves 5-6 minutes to infuse.",
+      "Stir in the sugar until fully dissolved, then chill completely.",
+      "Serve cold over ice with the pineapple chunks stirred through."
     ],
     "tags": [],
     "course": "complete"
@@ -1591,7 +1699,7 @@
     "name": "Nigerian Groundnut Soup",
     "cuisine": "nigerian",
     "meal_type": "dinner",
-    "description": "Groundnut soup, built on real ground peanuts, a rich, nutty soup found across Nigeria and the wider West African region, real versions often finished with a real palm oil sheen on top.",
+    "description": "Groundnut soup, built on real ground peanuts, is one of Nigeria's most beloved soups, traditionally served with fufu or rice, real versions often finished with a splash of palm oil for a genuine sheen and extra depth.",
     "ingredients_full": [
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -1605,7 +1713,7 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
       },
       {
@@ -1637,7 +1745,7 @@
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
       },
       {

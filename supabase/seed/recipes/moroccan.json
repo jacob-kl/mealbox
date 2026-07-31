@@ -728,10 +728,12 @@
       }
     ],
     "steps_detailed": [
-      "Mix all the spices together thoroughly."
+      "Toast each ground spice briefly in a dry pan, 30 seconds, just until fragrant - this wakes up their aroma without burning them.",
+      "Mix all the spices together thoroughly and store in an airtight container."
     ],
     "steps": [
-      "Mix all the spices together thoroughly."
+      "Toast each ground spice briefly in a dry pan, 30 seconds, just until fragrant - this wakes up their aroma without burning them.",
+      "Mix all the spices together thoroughly and store in an airtight container."
     ],
     "tags": []
   },
@@ -758,6 +760,11 @@
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Olive oil",
         "qty": 1.5,
         "note": "tbsp"
@@ -780,16 +787,23 @@
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Olive oil",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Blend the jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, cumin, and coriander with the olive oil into a smooth paste."
     ],
     "steps": [
-      "Blend the jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
+      "Roast the jalape\u00f1os directly over a flame or under a broiler until the skins blister, 4-5 minutes, for real depth.",
+      "Blend the roasted jalape\u00f1o, garlic, cumin, and coriander with the olive oil into a smooth paste."
     ],
     "tags": []
   },
@@ -850,7 +864,7 @@
     "cuisine": "moroccan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A sweet-savory tagine, real dried fruit and warm spices slow-braised with beef, a classic Moroccan flavor combination, not a modern fusion.",
+    "description": "A sweet-savory tagine, real dried fruit and warm spices slow-braised with beef, a classic Moroccan flavor combination, not a modern fusion - real technique toasting the almonds separately so they stay crisp rather than softening in the sauce.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -881,6 +895,11 @@
         "ingredient": "Honey",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -913,17 +932,24 @@
         "ingredient": "Honey",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground ginger",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Brown the beef with the onion, 8-9 minutes.",
-      "Add the cinnamon, prunes, honey, and 0.75 cup water, cover, and simmer 35-40 minutes until the beef is very tender.",
-      "Toast the almonds in a dry pan 2-3 minutes and scatter over the top before serving."
+      "Add the cinnamon, ginger, prunes, honey, and 0.75 cup water, cover, and simmer 35-40 minutes until the beef is very tender.",
+      "Toast the almonds in a separate dry pan 2-3 minutes until fragrant, so they stay crisp.",
+      "Scatter the toasted almonds over the tagine just before serving."
     ],
     "steps": [
       "Brown the beef with the onion, 8-9 minutes.",
-      "Add the cinnamon, prunes, honey, and 0.75 cup water, cover, and simmer 35-40 minutes until the beef is very tender.",
-      "Toast the almonds in a dry pan 2-3 minutes and scatter over the top before serving."
+      "Add the cinnamon, ginger, prunes, honey, and 0.75 cup water, cover, and simmer 35-40 minutes until the beef is very tender.",
+      "Toast the almonds in a separate dry pan 2-3 minutes until fragrant, so they stay crisp.",
+      "Scatter the toasted almonds over the tagine just before serving."
     ],
     "tags": []
   },
@@ -932,7 +958,7 @@
     "cuisine": "moroccan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A vegetarian tagine built on the same real slow-braise principle as the meat versions, real depth coming from the same warming spice base.",
+    "description": "A vegetarian tagine built on the same real slow-braise principle as the meat versions, real depth coming from the same warming spice base, finished with fresh herbs for real brightness.",
     "ingredients_full": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
@@ -963,6 +989,11 @@
         "ingredient": "Spices, turmeric, ground",
         "qty": 0.25,
         "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "ingredients": [
@@ -995,13 +1026,22 @@
         "ingredient": "Spices, turmeric, ground",
         "qty": 0.25,
         "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the chickpeas, carrot, zucchini, tomatoes, cumin, and turmeric together 20-22 minutes until the vegetables are tender."
+      "Simmer the chickpeas, carrot, zucchini, tomatoes, cumin, and turmeric together, covered, 20-22 minutes until the vegetables are tender.",
+      "Uncover and simmer 5 minutes more to reduce the sauce slightly.",
+      "Stir in the cilantro just before serving."
     ],
     "steps": [
-      "Simmer the chickpeas, carrot, zucchini, tomatoes, cumin, and turmeric together 20-22 minutes until the vegetables are tender."
+      "Simmer the chickpeas, carrot, zucchini, tomatoes, cumin, and turmeric together, covered, 20-22 minutes until the vegetables are tender.",
+      "Uncover and simmer 5 minutes more to reduce the sauce slightly.",
+      "Stir in the cilantro just before serving."
     ],
     "tags": []
   },
@@ -1015,7 +1055,7 @@
       {
         "ingredient": "Orange",
         "qty": 1,
-        "note": "peeled and sliced"
+        "note": "peeled and sliced into rounds"
       },
       {
         "ingredient": "Ground cinnamon",
@@ -1026,13 +1066,18 @@
         "ingredient": "Honey",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Orange",
         "qty": 1,
-        "note": "peeled and sliced"
+        "note": "peeled and sliced into rounds"
       },
       {
         "ingredient": "Ground cinnamon",
@@ -1043,13 +1088,22 @@
         "ingredient": "Honey",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Arrange the orange slices on a plate, overlapping slightly.",
+      "Dust generously with cinnamon and drizzle with honey.",
+      "Scatter the fresh mint over the top just before serving."
     ],
     "steps": [
-      "Arrange the orange slices, dust with cinnamon, and drizzle with honey."
+      "Arrange the orange slices on a plate, overlapping slightly.",
+      "Dust generously with cinnamon and drizzle with honey.",
+      "Scatter the fresh mint over the top just before serving."
     ],
     "tags": []
   },
@@ -1064,6 +1118,11 @@
         "ingredient": "Almonds",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -1071,13 +1130,20 @@
         "ingredient": "Almonds",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+      "Toast the almonds in a dry pan over medium heat, stirring constantly, 4-5 minutes, until fragrant and lightly golden inside.",
+      "Toss with a light dusting of cinnamon while still warm, echoing the sweet-spiced almonds used throughout Moroccan cooking."
     ],
     "steps": [
-      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+      "Toast the almonds in a dry pan over medium heat, stirring constantly, 4-5 minutes, until fragrant and lightly golden inside.",
+      "Toss with a light dusting of cinnamon while still warm, echoing the sweet-spiced almonds used throughout Moroccan cooking."
     ],
     "tags": []
   },
@@ -1146,7 +1212,7 @@
     "cuisine": "moroccan",
     "meal_type": "lunch",
     "course": "side",
-    "description": "A simple, bright carrot salad with real cumin and lemon, a common Moroccan side.",
+    "description": "A simple, bright carrot salad with real cumin and lemon, a common Moroccan side, real versions often finished with a scatter of fresh cilantro for genuine freshness.",
     "ingredients_full": [
       {
         "ingredient": "Carrot",
@@ -1167,6 +1233,11 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -1189,13 +1260,20 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss the grated carrot with the lemon juice, cumin, and olive oil."
+      "Toss the grated carrot with the lemon juice, cumin, and olive oil.",
+      "Scatter the cilantro over the top and let sit 10 minutes before serving so the flavors meld."
     ],
     "steps": [
-      "Toss the grated carrot with the lemon juice, cumin, and olive oil."
+      "Toss the grated carrot with the lemon juice, cumin, and olive oil.",
+      "Scatter the cilantro over the top and let sit 10 minutes before serving so the flavors meld."
     ],
     "tags": []
   },
@@ -1204,12 +1282,12 @@
     "cuisine": "moroccan",
     "meal_type": "snack",
     "course": "complete",
-    "description": "A simple roasted chickpea snack, common across Morocco.",
+    "description": "A simple roasted chickpea snack, common across Morocco, real technique patting the chickpeas fully dry first so they crisp instead of steam.",
     "ingredients_full": [
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
-        "note": "patted dry"
+        "note": "patted very dry"
       },
       {
         "ingredient": "Olive oil",
@@ -1219,6 +1297,11 @@
       {
         "ingredient": "Ground cumin",
         "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
         "note": "tsp"
       }
     ],
@@ -1226,7 +1309,7 @@
       {
         "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 200,
-        "note": "patted dry"
+        "note": "patted very dry"
       },
       {
         "ingredient": "Olive oil",
@@ -1237,15 +1320,22 @@
         "ingredient": "Ground cumin",
         "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Toss the well-dried chickpeas with the oil, cumin, and salt.",
+      "Spread in a single layer on a baking sheet.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking the pan halfway through, until deeply golden and crisp."
     ],
     "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Toss the well-dried chickpeas with the oil, cumin, and salt.",
+      "Spread in a single layer on a baking sheet.",
+      "Roast at 400F (200C) for 25-30 minutes, shaking the pan halfway through, until deeply golden and crisp."
     ],
     "tags": []
   },
@@ -1254,7 +1344,7 @@
     "cuisine": "moroccan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable couscous, common Moroccan home cooking.",
+    "description": "A simple, hearty beef and vegetable couscous, common Moroccan home cooking, real technique steaming the couscous separately over the pot rather than just soaking it, so the grains stay light and separate.",
     "ingredients_full": [
       {
         "ingredient": "Couscous, dry",
@@ -1280,6 +1370,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -1307,17 +1402,24 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes with 1.5 cups water, and simmer 30-35 minutes until tender.",
-      "Steam the couscous separately and serve the stew over it."
+      "Add the carrot, potato, tomatoes, and cumin with 1.5 cups water, and simmer 30-35 minutes until the beef is tender.",
+      "Toss the dry couscous with a little oil and water, then steam it over the simmering stew for 10 minutes, fluffing partway through.",
+      "Serve the stew over the finished couscous."
     ],
     "steps": [
       "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes with 1.5 cups water, and simmer 30-35 minutes until tender.",
-      "Steam the couscous separately and serve the stew over it."
+      "Add the carrot, potato, tomatoes, and cumin with 1.5 cups water, and simmer 30-35 minutes until the beef is tender.",
+      "Toss the dry couscous with a little oil and water, then steam it over the simmering stew for 10 minutes, fluffing partway through.",
+      "Serve the stew over the finished couscous."
     ],
     "tags": []
   },
@@ -1326,7 +1428,7 @@
     "cuisine": "moroccan",
     "meal_type": "snack",
     "course": "complete",
-    "description": "A syrup-soaked semolina cake, shared across the wider North African and Eastern Mediterranean region.",
+    "description": "A syrup-soaked semolina cake, shared across the wider North African and Eastern Mediterranean region, real technique poking small holes across the top before pouring the syrup, so it soaks all the way through rather than pooling on the surface.",
     "ingredients_full": [
       {
         "ingredient": "Semolina, enriched",
@@ -1347,6 +1449,11 @@
         "ingredient": "Honey",
         "qty": 2,
         "note": "tbsp, for the syrup"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 15,
+        "note": "chopped, for topping"
       }
     ],
     "ingredients": [
@@ -1369,17 +1476,24 @@
         "ingredient": "Honey",
         "qty": 2,
         "note": "tbsp, for the syrup"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 15,
+        "note": "chopped, for topping"
       }
     ],
     "steps_detailed": [
-      "Mix the semolina, sugar, and melted butter into a batter.",
+      "Mix the semolina, sugar, and melted butter into a batter and press into a small baking dish.",
+      "Score the top into diamond shapes and press a piece of chopped almond into each.",
       "Bake at 350F (175C) for 20-22 minutes until golden.",
-      "Drizzle the honey over while still warm."
+      "While still hot, poke a few small holes across the top and drizzle the honey over so it soaks in fully."
     ],
     "steps": [
-      "Mix the semolina, sugar, and melted butter into a batter.",
+      "Mix the semolina, sugar, and melted butter into a batter and press into a small baking dish.",
+      "Score the top into diamond shapes and press a piece of chopped almond into each.",
       "Bake at 350F (175C) for 20-22 minutes until golden.",
-      "Drizzle the honey over while still warm."
+      "While still hot, poke a few small holes across the top and drizzle the honey over so it soaks in fully."
     ],
     "tags": []
   },
@@ -1409,6 +1523,11 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "ingredients": [
@@ -1431,13 +1550,20 @@
         "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Toss the cucumber and tomatoes with the lemon juice and olive oil.",
+      "Scatter the cilantro over the top just before serving."
     ],
     "steps": [
-      "Toss everything together."
+      "Toss the cucumber and tomatoes with the lemon juice and olive oil.",
+      "Scatter the cilantro over the top just before serving."
     ],
     "tags": []
   }

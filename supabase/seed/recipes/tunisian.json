@@ -1,131 +1,191 @@
 [
   {
-    "name": "Tunisian Couscous",
+    "name": "Tunisian Brik",
     "cuisine": "tunisian",
-    "meal_type": "dinner",
-    "description": "Couscous, tiny steamed semolina granules topped with a vegetable and meat stew, is Tunisia's most iconic dish, genuinely distinct from its Algerian and Moroccan neighbors through a more assertively spicy, harissa-forward broth.",
+    "meal_type": "lunch",
+    "course": "complete",
+    "description": "Real brik \u00e0 l'oeuf, the classic version served in nearly every Tunis restaurant, has a specific filling of mashed potato, tuna, capers, onion, and parsley, with a raw egg cracked into a well right before folding - traditional malsouka pastry is round and hand-pressed on a hot dome, thinner and more delicate than phyllo, but phyllo is the standard, widely available substitute even among Tunisian cooks abroad. The yolk staying soft inside the crackling-crisp shell is the entire point, not a mistake to fix.",
     "ingredients_full": [
       {
-        "ingredient": "Couscous, dry",
-        "qty": 55,
+        "ingredient": "Phyllo dough",
+        "qty": 2,
+        "note": "sheets, standing in for real round malsouka"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 40,
+        "note": "boiled and mashed"
       },
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Harissa Seasoning, Harissa",
+        "ingredient": "Capers",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 15,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, standing in for parsley, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Couscous, dry",
-        "qty": 55,
+        "ingredient": "Phyllo dough",
+        "qty": 2,
+        "note": "sheets, standing in for real round malsouka"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 40,
+        "note": "boiled and mashed"
       },
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Harissa Seasoning, Harissa",
+        "ingredient": "Capers",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 15,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tsp, standing in for parsley, chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken, carrot, chickpeas, and harissa seasoning in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and broth over the couscous."
+      "Mix the mashed potato, tuna, capers, onion, and cilantro together.",
+      "Spoon the mixture onto a phyllo sheet, make a well in the center, and crack the egg into it.",
+      "Fold into a triangle immediately, sealing the edges carefully so the yolk stays intact - the raw egg white helps seal the pastry as you fold.",
+      "Fry immediately, 1-2 minutes per side, just until the pastry is golden and crisp - the yolk should still be soft and runny inside."
     ],
     "steps": [
-      "Simmer the chicken, carrot, chickpeas, and harissa seasoning in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and broth over the couscous."
+      "Mix the mashed potato, tuna, capers, onion, and cilantro together.",
+      "Spoon the mixture onto a phyllo sheet, make a well in the center, and crack the egg into it.",
+      "Fold into a triangle immediately, sealing the edges carefully so the yolk stays intact - the raw egg white helps seal the pastry as you fold.",
+      "Fry immediately, 1-2 minutes per side, just until the pastry is golden and crisp - the yolk should still be soft and runny inside."
     ],
     "tags": []
   },
   {
-    "name": "Tunisian Brik",
+    "name": "Tunisian Couscous",
     "cuisine": "tunisian",
-    "meal_type": "lunch",
-    "description": "Brik, a thin pastry fried until crisp and traditionally enclosing a whole runny egg, is one of Tunisia's most iconic dishes - the yolk staying soft inside the crackling-crisp shell is the entire point, not a mistake to fix.",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Tunisian couscous is genuinely more assertively spicy than its Algerian and Moroccan neighbors, built on real harissa in the broth rather than just warming spices - real technique steams the couscous two or three separate times, fluffing between each round, which is what builds properly light, separate grains rather than a dense clump.",
     "ingredients_full": [
       {
-        "ingredient": "Phyllo dough",
-        "qty": 2,
-        "note": "sheets"
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": ""
       },
       {
-        "ingredient": "Eggs (large)",
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Harissa Seasoning, Harissa",
         "qty": 1,
-        "note": ""
+        "note": "tsp"
       },
       {
-        "ingredient": "Fish, tuna, light, canned in water, drained solids",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Phyllo dough",
-        "qty": 2,
-        "note": "sheets"
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": ""
       },
       {
-        "ingredient": "Eggs (large)",
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Harissa Seasoning, Harissa",
         "qty": 1,
-        "note": ""
+        "note": "tsp"
       },
       {
-        "ingredient": "Fish, tuna, light, canned in water, drained solids",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Layer the tuna in the center of a phyllo sheet, crack the egg on top, and fold into a triangle, sealing the edges carefully so the yolk stays intact.",
-      "Fry immediately, 1-2 minutes per side, just until the pastry is golden and crisp - the yolk should still be soft and runny inside."
+      "Simmer the chicken, carrot, chickpeas, and harissa seasoning in 1.5 cups water 25-28 minutes until the chicken is tender.",
+      "Toss the dry couscous with the olive oil and a splash of water, rubbing between your hands to coat every grain.",
+      "Steam the couscous over the simmering stew for 10 minutes, then fluff and rub with wet hands to break up clumps.",
+      "Steam a second time for 8-10 minutes, fluffing again - this real double-steam builds properly light, separate grains.",
+      "Serve the stew and broth over the finished couscous."
     ],
     "steps": [
-      "Layer the tuna in the center of a phyllo sheet, crack the egg on top, and fold into a triangle, sealing the edges carefully so the yolk stays intact.",
-      "Fry immediately, 1-2 minutes per side, just until the pastry is golden and crisp - the yolk should still be soft and runny inside."
+      "Simmer the chicken, carrot, chickpeas, and harissa seasoning in 1.5 cups water 25-28 minutes until the chicken is tender.",
+      "Toss the dry couscous with the olive oil and a splash of water, rubbing between your hands to coat every grain.",
+      "Steam the couscous over the simmering stew for 10 minutes, then fluff and rub with wet hands to break up clumps.",
+      "Steam a second time for 8-10 minutes, fluffing again - this real double-steam builds properly light, separate grains.",
+      "Serve the stew and broth over the finished couscous."
     ],
     "tags": []
   },
@@ -133,6 +193,7 @@
     "name": "Tunisian Lablabi",
     "cuisine": "tunisian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Lablabi, a garlicky chickpea soup poured over stale bread and topped with a poached egg, is a beloved Tunisian breakfast and street food.",
     "ingredients_full": [
       {
@@ -203,7 +264,8 @@
   {
     "name": "Tunisian Harissa",
     "cuisine": "tunisian",
-    "meal_type": "lunch",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "Harissa, a fiery chili paste, is one of Tunisia's most defining exports, genuinely originating in the country and now used across the wider Maghreb.",
     "ingredients_full": [
       {
@@ -271,6 +333,7 @@
     "name": "Tunisian Ojja",
     "cuisine": "tunisian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Ojja, eggs poached in a spicy harissa-tomato sauce often with merguez sausage, a beloved Tunisian dish distinct from shakshuka in its real harissa heat.",
     "ingredients_full": [
       {
@@ -332,6 +395,7 @@
     "name": "Tunisian Salade Mechouia",
     "cuisine": "tunisian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "Salade m\u00e9chouia, roasted pepper and tomato salad mashed together, a genuine Tunisian staple, its name meaning 'grilled'.",
     "ingredients_full": [
       {
@@ -391,6 +455,7 @@
     "name": "Tunisian Merguez-Style Sausage",
     "cuisine": "tunisian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A spiced beef sausage in the style of merguez, heavily flavored with real harissa, shared across the wider Maghreb.",
     "ingredients_full": [
       {
@@ -447,68 +512,10 @@
     "tags": []
   },
   {
-    "name": "Tunisian Chakchouka",
-    "cuisine": "tunisian",
-    "meal_type": "breakfast",
-    "description": "A Tunisian take on eggs poached in a spiced pepper-tomato sauce, sharing roots with the wider North African shakshuka tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the pepper, tomatoes, and cumin 10-12 minutes.",
-      "Make wells and crack the eggs in, cover, and cook 5-6 minutes."
-    ],
-    "steps": [
-      "Simmer the pepper, tomatoes, and cumin 10-12 minutes.",
-      "Make wells and crack the eggs in, cover, and cook 5-6 minutes."
-    ],
-    "tags": []
-  },
-  {
     "name": "Tunisian Fricass\u00e9",
     "cuisine": "tunisian",
     "meal_type": "lunch",
+    "course": "complete",
     "description": "Fricass\u00e9, a small fried bread roll stuffed with tuna, olives, and harissa, is a beloved Tunisian sandwich and street food.",
     "ingredients_full": [
       {
@@ -568,6 +575,7 @@
     "name": "Tunisian Hummus",
     "cuisine": "tunisian",
     "meal_type": "lunch",
+    "course": "complete",
     "description": "A simple hummus, built on real tahini, widely eaten across Tunisia and the wider region.",
     "ingredients_full": [
       {
@@ -625,6 +633,7 @@
     "name": "Tunisian Roasted Chickpea Snack",
     "cuisine": "tunisian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted chickpea snack, common across Tunisia.",
     "ingredients_full": [
       {
@@ -674,6 +683,7 @@
     "name": "Tunisian Cucumber Tomato Salad",
     "cuisine": "tunisian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Tunisian meal.",
     "ingredients_full": [
       {
@@ -731,6 +741,7 @@
     "name": "Tunisian Makroudh",
     "cuisine": "tunisian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Makroudh, semolina pastries filled with dates and soaked in honey, a beloved Tunisian sweet shared with the wider Maghreb.",
     "ingredients_full": [
       {
@@ -794,6 +805,7 @@
     "name": "Tunisian Roasted Almonds",
     "cuisine": "tunisian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted almond snack, common across Tunisia and the wider Maghreb.",
     "ingredients_full": [
       {
@@ -821,6 +833,7 @@
     "name": "Tunisian Mint Tea",
     "cuisine": "tunisian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Mint tea, sweetened green tea steeped with fresh mint, is central to Tunisian hospitality, shared with the wider Maghreb tradition.",
     "ingredients_full": [
       {
@@ -870,6 +883,7 @@
     "name": "Tunisian Fish Couscous",
     "cuisine": "tunisian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A coastal variation of couscous built with fish instead of meat, reflecting Tunisia's Mediterranean fishing tradition.",
     "ingredients_full": [
       {
@@ -931,6 +945,7 @@
     "name": "Tunisian Orange Salad",
     "cuisine": "tunisian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple, fragrant orange and cinnamon salad, a classic Maghrebi dessert or palate cleanser.",
     "ingredients_full": [
       {
@@ -978,6 +993,7 @@
     "name": "Tunisian Beef and Chickpea Stew",
     "cuisine": "tunisian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and chickpea stew, common Tunisian home cooking.",
     "ingredients_full": [
       {
@@ -1026,7 +1042,8 @@
   {
     "name": "Tunisian Tomato Harissa Sauce",
     "cuisine": "tunisian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato sauce cut with real harissa, used across many Tunisian dishes.",
     "ingredients_full": [
       {
@@ -1073,7 +1090,8 @@
   {
     "name": "Tunisian Garlic Cumin Sauce",
     "cuisine": "tunisian",
-    "meal_type": "lunch",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple garlic-cumin sauce, common across Tunisian grilled and roasted dishes.",
     "ingredients_full": [
       {

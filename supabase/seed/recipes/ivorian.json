@@ -1,8 +1,99 @@
 [
   {
+    "name": "Ivorian Kedjenou",
+    "cuisine": "ivorian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Kedjenou's name literally means 'to shake' in the Baoul\u00e9 language, and that's exactly the real technique: chicken and vegetables sealed in a canari, a narrow-necked clay pot, with no water added at all, cooked slowly and PERIODICALLY SHAKEN rather than stirred, so the lid never breaks the seal - the dish cooks entirely in its own steam and juices, which is what makes it what it is, not a shortcut stew.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Combine everything in a heavy pot with a tight-fitting lid, without adding any extra water.",
+      "Cover tightly and cook over low heat, shaking the sealed pot occasionally rather than stirring or lifting the lid, 40-45 minutes, until the chicken is tender - real kedjenou depends on this sealed, undisturbed cooking, and the name itself refers to this shaking motion."
+    ],
+    "steps": [
+      "Combine everything in a heavy pot with a tight-fitting lid, without adding any extra water.",
+      "Cover tightly and cook over low heat, shaking the sealed pot occasionally rather than stirring or lifting the lid, 40-45 minutes, until the chicken is tender - real kedjenou depends on this sealed, undisturbed cooking, and the name itself refers to this shaking motion."
+    ],
+    "tags": []
+  },
+  {
     "name": "Ivorian Attieke",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Atti\u00e9k\u00e9, fermented, granular cassava couscous, is one of C\u00f4te d'Ivoire's most iconic staples, traditionally paired with grilled fish - real atti\u00e9k\u00e9's fermentation takes days, so this quicker version approximates the texture without the real tang.",
     "ingredients_full": [
       {
@@ -27,78 +118,10 @@
     "tags": []
   },
   {
-    "name": "Ivorian Kedjenou",
-    "cuisine": "ivorian",
-    "meal_type": "dinner",
-    "description": "Kedjenou, chicken and vegetables slow-steamed in a sealed pot with almost no added liquid, is a genuine Ivorian specialty, the dish relying on the ingredients' own juices rather than added stock.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Combine everything in a heavy pot with a tight-fitting lid, without adding extra water.",
-      "Cover tightly and cook over low heat, shaking the pot occasionally rather than stirring or lifting the lid, 40-45 minutes, until the chicken is tender - real kedjenou depends on this sealed, undisturbed cooking to build its flavor."
-    ],
-    "steps": [
-      "Combine everything in a heavy pot with a tight-fitting lid, without adding extra water.",
-      "Cover tightly and cook over low heat, shaking the pot occasionally rather than stirring or lifting the lid, 40-45 minutes, until the chicken is tender - real kedjenou depends on this sealed, undisturbed cooking to build its flavor."
-    ],
-    "tags": []
-  },
-  {
     "name": "Ivorian Garba",
     "cuisine": "ivorian",
     "meal_type": "lunch",
+    "course": "complete",
     "description": "Garba, fried tuna served over atti\u00e9k\u00e9 with a spicy tomato-onion relish, is a beloved Ivorian street food, especially popular as a quick, affordable lunch.",
     "ingredients_full": [
       {
@@ -172,6 +195,7 @@
     "name": "Ivorian Alloco",
     "cuisine": "ivorian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Alloco, fried ripe plantain served with a spicy onion-tomato sauce, is one of C\u00f4te d'Ivoire's most beloved street foods.",
     "ingredients_full": [
       {
@@ -243,6 +267,7 @@
     "name": "Ivorian Poulet Brais\u00e9 (Grilled Chicken)",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Poulet brais\u00e9, grilled chicken marinated in garlic and pepper, a beloved Ivorian street-food staple, often served with alloco.",
     "ingredients_full": [
       {
@@ -302,7 +327,8 @@
     "name": "Ivorian Sauce Graine",
     "cuisine": "ivorian",
     "meal_type": "dinner",
-    "description": "Sauce graine, a rich palm-fruit-based stew, is one of C\u00f4te d'Ivoire's most beloved sauces - real palm fruit isn't a distinct item here, so this leans on tomato and peanut for a similarly rich, reddish base.",
+    "course": "complete",
+    "description": "Sauce graine, a rich palm-fruit-based stew, is one of C\u00f4te d'Ivoire's most beloved sauces - real palm fruit isn't a distinct item here, so this leans on tomato and peanut for a similarly rich, reddish base, though it's honestly missing palm fruit's own distinct waxy richness.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -363,6 +389,7 @@
     "name": "Ivorian Foutou",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Foutou, plantain and cassava pounded together into a smooth, stretchy dough, a beloved Ivorian staple, traditionally torn by hand to scoop up sauce.",
     "ingredients_full": [
       {
@@ -402,6 +429,7 @@
     "name": "Ivorian Placali",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "side",
     "description": "Placali, a smooth, stretchy fermented cassava paste, a genuine Ivorian staple closely related to Ghanaian banku.",
     "ingredients_full": [
       {
@@ -431,6 +459,7 @@
     "name": "Ivorian Egusi Soup",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Egusi soup, thickened with real ground melon seeds, is shared with Nigeria and found throughout much of West Africa, including C\u00f4te d'Ivoire.",
     "ingredients_full": [
       {
@@ -494,6 +523,7 @@
     "name": "Ivorian Poisson Brais\u00e9 (Grilled Fish)",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Grilled fish rubbed with garlic and pepper, reflecting C\u00f4te d'Ivoire's coastal fishing tradition.",
     "ingredients_full": [
       {
@@ -543,6 +573,7 @@
     "name": "Ivorian Aloco with Egg",
     "cuisine": "ivorian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Alloco topped with a fried egg, a common heartier version of the classic fried plantain street snack.",
     "ingredients_full": [
       {
@@ -592,6 +623,7 @@
     "name": "Ivorian Beignets",
     "cuisine": "ivorian",
     "meal_type": "breakfast",
+    "course": "complete",
     "description": "Beignets, sweet fried dough balls, a beloved Ivorian breakfast snack closely related to Nigerian puff puff.",
     "ingredients_full": [
       {
@@ -651,6 +683,7 @@
     "name": "Ivorian Riz Gras",
     "cuisine": "ivorian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "Riz gras, meaning 'fat rice', a rich tomato-and-meat rice dish, a common Ivorian one-pot meal.",
     "ingredients_full": [
       {
@@ -712,6 +745,7 @@
     "name": "Ivorian Koki-Style Bean Pudding",
     "cuisine": "ivorian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A steamed black-eyed pea pudding closely related to Cameroonian koki and Nigerian moin moin, all part of the same wider West African tradition.",
     "ingredients_full": [
       {
@@ -763,6 +797,7 @@
     "name": "Ivorian Roasted Peanuts",
     "cuisine": "ivorian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across C\u00f4te d'Ivoire.",
     "ingredients_full": [
       {
@@ -790,6 +825,7 @@
     "name": "Ivorian Cassava Chips",
     "cuisine": "ivorian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Simple fried cassava chips, a common Ivorian snack.",
     "ingredients_full": [
       {
@@ -827,6 +863,7 @@
     "name": "Ivorian Coleslaw",
     "cuisine": "ivorian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A mayonnaise-dressed cabbage salad, a common Ivorian party-food side.",
     "ingredients_full": [
       {
@@ -874,6 +911,7 @@
     "name": "Ivorian Bissap",
     "cuisine": "ivorian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "Bissap, a hibiscus drink, is a beloved Ivorian and wider West African beverage.",
     "ingredients_full": [
       {
@@ -910,7 +948,8 @@
   {
     "name": "Ivorian Tomato Pepper Sauce",
     "cuisine": "ivorian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-pepper sauce base, used across many Ivorian stews.",
     "ingredients_full": [
       {
@@ -957,7 +996,8 @@
   {
     "name": "Ivorian Peanut Sauce",
     "cuisine": "ivorian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple ground-peanut sauce base, used across many Ivorian stews.",
     "ingredients_full": [
       {
