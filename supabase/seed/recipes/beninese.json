@@ -577,21 +577,31 @@
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Plantains, yellow, raw",
         "qty": 150,
-        "note": "sliced"
+        "note": "sliced, very ripe"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "steps": [
-      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+      "Fry the plantain slices in the oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
     ],
     "tags": []
   },
@@ -650,7 +660,7 @@
     "cuisine": "beninese",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "A simple, hearty beef and vegetable stew, common Beninese home cooking.",
+    "description": "A simple, hearty beef and vegetable stew, common Beninese home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -908,10 +918,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened, being generous with the pepper and chili."
+      "Cook the jalape\u00f1o and pepper briefly in a little oil, 2-3 minutes, being generous with both.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened, being generous with the pepper and chili."
+      "Cook the jalape\u00f1o and pepper briefly in a little oil, 2-3 minutes, being generous with both.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   },
@@ -956,10 +968,10 @@
       }
     ],
     "steps_detailed": [
-      "Mix everything together."
+      "Mix the ginger, garlic, and oil together thoroughly."
     ],
     "steps": [
-      "Mix everything together."
+      "Mix the ginger, garlic, and oil together thoroughly."
     ],
     "tags": []
   }
