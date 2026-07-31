@@ -160,12 +160,12 @@
     "cuisine": "angolan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Calulu, dried fish and vegetables stewed in real palm oil, is one of Angola's most beloved traditional dishes, real versions built on a real mix of vegetables (here squash and okra) rather than just one.",
+    "description": "Calulu, dried fish and vegetables stewed in real palm oil, is one of Angola's most beloved traditional dishes - real calulu specifically uses dried or salted fish, soaked to rehydrate and shed excess salt before cooking, which builds a deeper, more concentrated flavor than fresh fish alone; canned tuna stands in here as a reasonable approximation, though it lacks that real dried-fish depth.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tuna, light, canned in water, drained solids",
         "qty": 100,
-        "note": ""
+        "note": "standing in for real dried/salted fish"
       },
       {
         "ingredient": "Butternut squash",
@@ -191,13 +191,18 @@
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
       {
         "ingredient": "Fish, tuna, light, canned in water, drained solids",
         "qty": 100,
-        "note": ""
+        "note": "standing in for real dried/salted fish"
       },
       {
         "ingredient": "Butternut squash",
@@ -223,15 +228,20 @@
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the garlic in the palm oil 1 minute.",
+      "Cook the onion and garlic in the palm oil 3-4 minutes.",
       "Add the tomatoes and squash, and simmer 15-18 minutes until the squash is nearly tender.",
       "Add the fish and okra, and simmer 8-10 minutes more until everything is tender."
     ],
     "steps": [
-      "Cook the garlic in the palm oil 1 minute.",
+      "Cook the onion and garlic in the palm oil 3-4 minutes.",
       "Add the tomatoes and squash, and simmer 15-18 minutes until the squash is nearly tender.",
       "Add the fish and okra, and simmer 8-10 minutes more until everything is tender."
     ],
@@ -374,7 +384,7 @@
     "cuisine": "angolan",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Kizaka, pounded cassava leaves cooked with palm oil, is a genuine Angolan staple - real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
+    "description": "Kizaka, pounded cassava leaves cooked with real ground peanuts and palm oil, is often considered Angola's national dish - real peanuts are a defining, essential ingredient here, not optional, and were missing here before; real cassava leaves aren't a distinct item here, so spinach stands in for a milder, less fibrous approximation.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -382,8 +392,13 @@
         "note": "standing in for cassava leaves"
       },
       {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Palm oil",
-        "qty": 1.5,
+        "qty": 1,
         "note": "tbsp"
       },
       {
@@ -393,7 +408,7 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 30,
+        "qty": 40,
         "note": ""
       }
     ],
@@ -404,8 +419,13 @@
         "note": "standing in for cassava leaves"
       },
       {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Palm oil",
-        "qty": 1.5,
+        "qty": 1,
         "note": "tbsp"
       },
       {
@@ -415,17 +435,23 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 30,
+        "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the onion and garlic in the palm oil 3-4 minutes.",
-      "Add the spinach and a splash of water, and simmer 12-15 minutes until well combined and tender."
+      [
+        "Cook the onion and garlic in the palm oil, 3-4 minutes.",
+        "Add the spinach and a splash of water, cover, and simmer 15-18 minutes until well combined and tender.",
+        "Stir in the peanut butter and simmer uncovered 10 minutes more until the sauce thickens into a smooth, nutty finish."
+      ]
     ],
     "steps": [
-      "Cook the onion and garlic in the palm oil 3-4 minutes.",
-      "Add the spinach and a splash of water, and simmer 12-15 minutes until well combined and tender."
+      [
+        "Cook the onion and garlic in the palm oil, 3-4 minutes.",
+        "Add the spinach and a splash of water, cover, and simmer 15-18 minutes until well combined and tender.",
+        "Stir in the peanut butter and simmer uncovered 10 minutes more until the sauce thickens into a smooth, nutty finish."
+      ]
     ],
     "tags": []
   },
