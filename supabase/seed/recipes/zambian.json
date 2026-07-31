@@ -235,7 +235,7 @@
       {
         "ingredient": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
         "qty": 100,
-        "note": ""
+        "note": "standing in for real dried kapenta"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -246,6 +246,11 @@
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
       },
       {
         "ingredient": "Jalapeno pepper",
@@ -257,7 +262,7 @@
       {
         "ingredient": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
         "qty": 100,
-        "note": ""
+        "note": "standing in for real dried kapenta"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -270,19 +275,24 @@
         "note": ""
       },
       {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Jalapeno pepper",
         "qty": 0.5,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the onion and jalape\u00f1o 4-5 minutes.",
-      "Add the tomatoes and simmer 10 minutes.",
+      "Cook the onion and curry powder in a little oil, 4-5 minutes, until fragrant.",
+      "Add the tomatoes and jalape\u00f1o, and simmer 10 minutes.",
       "Add the sardines and simmer 5 minutes more, just to warm through."
     ],
     "steps": [
-      "Cook the onion and jalape\u00f1o 4-5 minutes.",
-      "Add the tomatoes and simmer 10 minutes.",
+      "Cook the onion and curry powder in a little oil, 4-5 minutes, until fragrant.",
+      "Add the tomatoes and jalape\u00f1o, and simmer 10 minutes.",
       "Add the sardines and simmer 5 minutes more, just to warm through."
     ],
     "tags": []
