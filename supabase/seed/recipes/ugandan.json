@@ -48,7 +48,7 @@
     "cuisine": "ugandan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Luwombo, meat steamed inside a wrapped banana leaf parcel, is a genuine Buganda specialty traditionally reserved for special occasions - the wrapping seals in real steam and aroma that open cooking can't replicate.",
+    "description": "Luwombo, meat steamed inside a wrapped banana leaf parcel, is a genuine Buganda specialty traditionally reserved for special occasions and weddings - real technique steams the wrapped parcel for a long stretch, up to an hour or more, since the extended steam (not a quick finish) is what lets the banana leaf genuinely infuse the dish, sealing in an aroma open cooking cannot replicate.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -105,13 +105,13 @@
     ],
     "steps_detailed": [
       "Brown the chicken with the onion and garlic, 8-9 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
-      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 30-35 minutes to seal in the aroma."
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot, and simmer 10 minutes.",
+      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 50-60 minutes - this real, extended steam is what lets the leaf-like wrapping infuse the dish, not a quick finishing step."
     ],
     "steps": [
       "Brown the chicken with the onion and garlic, 8-9 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
-      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 30-35 minutes to seal in the aroma."
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot, and simmer 10 minutes.",
+      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 50-60 minutes - this real, extended steam is what lets the leaf-like wrapping infuse the dish, not a quick finishing step."
     ],
     "tags": []
   },
@@ -182,7 +182,7 @@
     "cuisine": "ugandan",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Rolex, a rolled chapati wrapped around an omelet, is one of Uganda's most beloved street foods, its name a playful shortening of 'rolled eggs' - real technique cooking the chapati fully first so it's warm and pliable when the omelet is rolled inside.",
+    "description": "Rolex, a rolled chapati wrapped around an omelet, is one of Uganda's most beloved street foods, its name a playful shortening of 'rolled eggs'. The real, defining technique places the raw chapati dough directly onto the omelet while the egg is still wet and cooking in the pan, which makes the two genuinely stick together - the whole thing is then flipped once as a single piece to finish, not cooked separately and rolled together afterward.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -202,12 +202,17 @@
       {
         "ingredient": "Green cabbage",
         "qty": 30,
-        "note": "shredded"
+        "note": "finely shredded"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 20,
         "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -229,23 +234,38 @@
       {
         "ingredient": "Green cabbage",
         "qty": 30,
-        "note": "shredded"
+        "note": "finely shredded"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 20,
         "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Make a simple chapati from the flour, water, and a little oil, cooking in a hot, dry pan 2-3 minutes per side until fully cooked through.",
-      "Whisk the eggs with the tomatoes, cabbage, and onion, and cook into a thin omelet, 2-3 minutes per side.",
-      "Roll the warm omelet up inside the still-warm chapati immediately, so it holds its shape."
+      [
+        "Make a simple chapati dough from the flour, a little oil, and water, and let rest 15 minutes.",
+        "Whisk the eggs with the tomatoes, cabbage, and onion.",
+        "Heat the oil in a pan and pour in the egg mixture, swirling thin like a large omelet.",
+        "While the egg is still visibly wet on top, roll out a thin chapati and lay it directly on top of the cooking egg - this real technique is what makes the chapati genuinely stick to the omelet.",
+        "Flip the whole stuck-together piece as one, chapati-side down, and cook 2-3 minutes more until the chapati browns.",
+        "Roll up tightly while still warm and serve immediately."
+      ]
     ],
     "steps": [
-      "Make a simple chapati from the flour, water, and a little oil, cooking in a hot, dry pan 2-3 minutes per side until fully cooked through.",
-      "Whisk the eggs with the tomatoes, cabbage, and onion, and cook into a thin omelet, 2-3 minutes per side.",
-      "Roll the warm omelet up inside the still-warm chapati immediately, so it holds its shape."
+      [
+        "Make a simple chapati dough from the flour, a little oil, and water, and let rest 15 minutes.",
+        "Whisk the eggs with the tomatoes, cabbage, and onion.",
+        "Heat the oil in a pan and pour in the egg mixture, swirling thin like a large omelet.",
+        "While the egg is still visibly wet on top, roll out a thin chapati and lay it directly on top of the cooking egg - this real technique is what makes the chapati genuinely stick to the omelet.",
+        "Flip the whole stuck-together piece as one, chapati-side down, and cook 2-3 minutes more until the chapati browns.",
+        "Roll up tightly while still warm and serve immediately."
+      ]
     ],
     "tags": []
   },
