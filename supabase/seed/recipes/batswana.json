@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Batswana Seswaa",
+    "cuisine": "batswana",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Seswaa, pounded meat, is Botswana's national dish, and its real defining character is genuine simplicity - just meat, water, and salt, simmered for hours until the meat falls apart, then pounded directly in its own reduced cooking liquid, not drained. Real sources are explicit that adding much beyond onion and bay leaf is considered a departure from the dish; the long, patient simmer, not seasoning, is what makes it what it is.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "whole or halved"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "qty": 250,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "whole or halved"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Combine the beef, onion, bay leaf, and salt in a heavy pot with enough water to just cover.",
+      "Bring to a boil, then reduce to a bare simmer, cover, and cook 2.5-3 hours, until the meat is completely fall-apart tender and most of the liquid has reduced.",
+      "Remove the onion and bay leaf, then pound or shred the meat directly in the pot, working it into the remaining concentrated liquid until it forms a moist, cohesive, shredded mass - this real technique, not extra seasoning, is what defines seswaa."
+    ],
+    "steps": [
+      "Combine the beef, onion, bay leaf, and salt in a heavy pot with enough water to just cover.",
+      "Bring to a boil, then reduce to a bare simmer, cover, and cook 2.5-3 hours, until the meat is completely fall-apart tender and most of the liquid has reduced.",
+      "Remove the onion and bay leaf, then pound or shred the meat directly in the pot, working it into the remaining concentrated liquid until it forms a moist, cohesive, shredded mass - this real technique, not extra seasoning, is what defines seswaa."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Pap",
+    "cuisine": "batswana",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Pap, a stiff maize porridge, is the essential companion to seswaa and most Batswana meals, real technique showering the cornmeal in gradually while beating constantly to build a smooth, dense texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and it pulls away from the sides of the pot."
+    ],
+    "steps": [
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and it pulls away from the sides of the pot."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Morogo",
+    "cuisine": "batswana",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Morogo, cooked wild spinach or leafy greens, is the real, traditional vegetable side served alongside seswaa and pap, real technique keeping the seasoning simple - onion and a little oil - so the greens' own flavor carries the dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the oil 3-4 minutes.",
+      "Add the spinach and a splash of water, and simmer 10-12 minutes until tender."
+    ],
+    "steps": [
+      "Cook the onion in the oil 3-4 minutes.",
+      "Add the spinach and a splash of water, and simmer 10-12 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Bogobe Jwa Lerotse",
+    "cuisine": "batswana",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Bogobe jwa lerotse, a sour melon porridge, is a genuine Batswana specialty, real technique cooking real melon or squash down into the sorghum porridge, which gives it its distinctive tang.",
+    "ingredients_full": [
+      {
+        "ingredient": "Bob's Red Mill Sorghum Flour",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Butternut squash",
+        "qty": 100,
+        "note": "cubed, standing in for real melon"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Bob's Red Mill Sorghum Flour",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Butternut squash",
+        "qty": 100,
+        "note": "cubed, standing in for real melon"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the squash in 1.5 cups water 15-18 minutes until it breaks down completely.",
+      "Whisk in the sorghum flour, stirring constantly, and simmer 10-12 minutes more until thick."
+    ],
+    "steps": [
+      "Simmer the squash in 1.5 cups water 15-18 minutes until it breaks down completely.",
+      "Whisk in the sorghum flour, stirring constantly, and simmer 10-12 minutes more until thick."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Pumpkin Leaves (Seswaa Lephala)",
+    "cuisine": "batswana",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Pounded pumpkin leaves, cooked down until tender, are a genuine Batswana side dish - real pumpkin leaves aren't a distinct item here, so spinach stands in for a milder approximation.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for pumpkin leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "standing in for pumpkin leaves"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 3-4 minutes.",
+      "Add the spinach and a splash of water, and simmer 12-15 minutes.",
+      "Stir in the peanut butter and simmer 5 minutes more."
+    ],
+    "steps": [
+      "Cook the onion 3-4 minutes.",
+      "Add the spinach and a splash of water, and simmer 12-15 minutes.",
+      "Stir in the peanut butter and simmer 5 minutes more."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Vetkoek",
+    "cuisine": "batswana",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Vetkoek, fried dough, shared with South Africa, a beloved Batswana snack often filled with mince.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour and baking powder with warm water into a soft dough.",
+      "Let rest 15 minutes.",
+      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+    ],
+    "steps": [
+      "Mix the flour and baking powder with warm water into a soft dough.",
+      "Let rest 15 minutes.",
+      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Chakalaka",
+    "cuisine": "batswana",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Chakalaka, a spicy vegetable relish, is a beloved side shared with South Africa, common alongside pap and seswaa.",
+    "ingredients_full": [
+      {
+        "ingredient": "Carrot",
+        "qty": 80,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Carrot",
+        "qty": 80,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 0.75,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes until the vegetables are tender but still have real bite."
+    ],
+    "steps": [
+      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes until the vegetables are tender but still have real bite."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Roasted Peanuts",
+    "cuisine": "batswana",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, common across Botswana.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Beef and Vegetable Stew",
+    "cuisine": "batswana",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Batswana home cooking outside the traditional seswaa preparation.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Grilled Boerewors",
+    "cuisine": "batswana",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Boerewors, a coiled, spiced sausage, is shared with South Africa and a beloved Batswana braai staple.",
+    "ingredients_full": [
+      {
+        "ingredient": "Boerewors",
+        "qty": 200,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Boerewors",
+        "qty": 200,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Grill the boerewors, coiled, over medium-high heat, turning once, 12-15 minutes, until cooked through and well charred."
+    ],
+    "steps": [
+      "Grill the boerewors, coiled, over medium-high heat, turning once, 12-15 minutes, until cooked through and well charred."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Fried Sweet Potato",
+    "cuisine": "batswana",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Simple fried sweet potato, a common Batswana snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cut into wedges"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Sweet potato",
+        "qty": 180,
+        "note": "cut into wedges"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the sweet potato wedges, turning, 6-8 minutes, until golden and tender inside.",
+      "Season with salt while still hot."
+    ],
+    "steps": [
+      "Fry the sweet potato wedges, turning, 6-8 minutes, until golden and tender inside.",
+      "Season with salt while still hot."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Coleslaw",
+    "cuisine": "batswana",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Batswana side, real versions with a touch of mustard for depth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
+    ],
+    "steps": [
+      "Whisk the mayonnaise and mustard together.",
+      "Toss with the cabbage and carrot until well coated."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Milk Tea",
+    "cuisine": "batswana",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Sweetened milk tea is a beloved daily ritual across Botswana.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the tea and milk together 5 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "steps": [
+      "Warm the tea and milk together 5 minutes.",
+      "Stir in the sugar before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Batswana Tomato Onion Relish",
+    "cuisine": "batswana",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple tomato-onion relish, a common Batswana condiment.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]

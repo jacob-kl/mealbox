@@ -1,14 +1,35 @@
 [
   {
-    "name": "Basotho Papa",
+    "name": "Basotho Papa le Moroho",
     "cuisine": "basotho",
     "meal_type": "dinner",
-    "description": "Papa, a stiff maize porridge, is Lesotho's most essential staple starch, eaten daily by hand alongside moroho and meat.",
+    "course": "complete",
+    "description": "Papa (a stiff maize porridge) paired with moroho (cooked leafy greens) is the real, everyday backbone of Basotho meals, eaten at least once a day in most households - real technique beats the cornmeal in gradually to build papa's dense, sliceable texture, while the greens are cooked simply with onion and oil, not heavily seasoned.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded, standing in for moroho greens"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -16,162 +37,193 @@
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
         "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded, standing in for moroho greens"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and it pulls away from the sides of the pot.",
+      "Meanwhile, cook the onion in the oil 3-4 minutes, then add the cabbage and a splash of water, and simmer 12-15 minutes until tender.",
+      "Serve the papa alongside the moroho."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and it pulls away from the sides of the pot.",
+      "Meanwhile, cook the onion in the oil 3-4 minutes, then add the cabbage and a splash of water, and simmer 12-15 minutes until tender.",
+      "Serve the papa alongside the moroho."
     ],
     "tags": []
   },
   {
-    "name": "Basotho Moroho",
-    "cuisine": "basotho",
-    "meal_type": "lunch",
-    "description": "Moroho, wild or cultivated leafy greens cooked simply, is a genuine Basotho staple side, traditionally served alongside papa.",
-    "ingredients_full": [
-      {
-        "ingredient": "Kale",
-        "qty": 200,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Kale",
-        "qty": 200,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 3-4 minutes.",
-      "Add the kale and simmer 10-12 minutes until tender."
-    ],
-    "steps": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 3-4 minutes.",
-      "Add the kale and simmer 10-12 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Sorghum Porridge",
+    "name": "Basotho Motoho",
     "cuisine": "basotho",
     "meal_type": "breakfast",
-    "description": "Ting, a fermented sorghum porridge, is a genuine Basotho breakfast staple, built here on real sorghum flour.",
+    "course": "complete",
+    "description": "Motoho, a fermented sorghum porridge, is a beloved Basotho breakfast - real sorghum ferments overnight, developing a genuine sour tang before cooking, and is traditionally served cold, sometimes sweetened with sugar.",
     "ingredients_full": [
       {
-        "ingredient": "Sorghum flour, whole-grain",
+        "ingredient": "Bob's Red Mill Sorghum Flour",
         "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Vinegar, distilled",
+        "ingredient": "Granulated sugar",
         "qty": 1,
-        "note": "tsp"
+        "note": "tbsp, optional, for serving"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Sorghum flour, whole-grain",
+        "ingredient": "Bob's Red Mill Sorghum Flour",
         "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Vinegar, distilled",
+        "ingredient": "Granulated sugar",
         "qty": 1,
-        "note": "tsp"
+        "note": "tbsp, optional, for serving"
       }
     ],
     "steps_detailed": [
-      "Whisk the sorghum flour with the vinegar and 1.5 cups water.",
-      "Let sit at room temperature 6-8 hours to develop a slight tang.",
-      "Cook over medium-low heat, stirring often, 12-15 minutes until thick and smooth."
+      "Whisk the sorghum flour with 1.5 cups water into a thin batter.",
+      "Cover and let ferment at room temperature 12-24 hours, until it develops a real sour tang.",
+      "Bring to a boil, stirring constantly, then reduce heat and simmer 8-10 minutes until thickened.",
+      "Chill completely and serve cold, sweetened with sugar if desired."
     ],
     "steps": [
-      "Whisk the sorghum flour with the vinegar and 1.5 cups water.",
-      "Let sit at room temperature 6-8 hours to develop a slight tang.",
-      "Cook over medium-low heat, stirring often, 12-15 minutes until thick and smooth."
+      "Whisk the sorghum flour with 1.5 cups water into a thin batter.",
+      "Cover and let ferment at room temperature 12-24 hours, until it develops a real sour tang.",
+      "Bring to a boil, stirring constantly, then reduce heat and simmer 8-10 minutes until thickened.",
+      "Chill completely and serve cold, sweetened with sugar if desired."
     ],
     "tags": []
   },
   {
-    "name": "Basotho Chakalaka",
+    "name": "Basotho Likhobe",
     "cuisine": "basotho",
-    "meal_type": "lunch",
-    "description": "Chakalaka, a spicy vegetable relish, is beloved across Lesotho as it is throughout Southern Africa, traditionally served alongside papa.",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Likhobe, beans and maize kernels stewed together until tender, is a genuine Basotho staple, real technique soaking both the beans and maize overnight so they cook through evenly together.",
     "ingredients_full": [
       {
-        "ingredient": "Carrot",
-        "qty": 80,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
+        "ingredient": "Corn kernels (frozen)",
         "qty": 100,
-        "note": ""
+        "note": "thawed"
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Carrot",
-        "qty": 80,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
+        "ingredient": "Corn kernels (frozen)",
         "qty": 100,
-        "note": ""
+        "note": "thawed"
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes until the vegetables are tender but still have some bite."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Add the cowpeas and corn with enough water to cover, and simmer 25-30 minutes until everything is tender and the liquid has reduced to a thick, stew-like consistency."
     ],
     "steps": [
-      "Simmer the carrot, bell pepper, tomatoes, and curry powder together 12-15 minutes until the vegetables are tender but still have some bite."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Add the cowpeas and corn with enough water to cover, and simmer 25-30 minutes until everything is tender and the liquid has reduced to a thick, stew-like consistency."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basotho Lepu",
+    "cuisine": "basotho",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Lepu, summer squash and its leaves cooked together, is one of Lesotho's most beloved variations of moroho, real technique cooking the leaves and diced squash together in the same pot rather than separately.",
+    "ingredients_full": [
+      {
+        "ingredient": "Squash, summer, all varieties, raw",
+        "qty": 150,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": "standing in for squash leaves"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Squash, summer, all varieties, raw",
+        "qty": 150,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": "standing in for squash leaves"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the oil 3-4 minutes.",
+      "Add the squash and spinach with a splash of water, and simmer 15-18 minutes, stirring occasionally, until everything is soft and well combined."
+    ],
+    "steps": [
+      "Cook the onion in the oil 3-4 minutes.",
+      "Add the squash and spinach with a splash of water, and simmer 15-18 minutes, stirring occasionally, until everything is soft and well combined."
     ],
     "tags": []
   },
@@ -179,56 +231,60 @@
     "name": "Basotho Nyekoe",
     "cuisine": "basotho",
     "meal_type": "dinner",
-    "description": "Nyekoe, beans, corn, and sorghum cooked together into a hearty porridge, is a genuine Basotho staple, especially in the mountain villages.",
+    "course": "complete",
+    "description": "Nyekoe, beans stewed with pumpkin, is a genuine Basotho comfort dish, real technique letting the pumpkin break down and thicken the stew naturally.",
     "ingredients_full": [
       {
-        "ingredient": "Sorghum grain",
-        "qty": 40,
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Corn kernels (frozen)",
-        "qty": 60,
-        "note": "thawed"
+        "ingredient": "Butternut squash",
+        "qty": 150,
+        "note": "cubed"
       },
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Sorghum grain",
-        "qty": 40,
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Corn kernels (frozen)",
-        "qty": 60,
-        "note": "thawed"
+        "ingredient": "Butternut squash",
+        "qty": 150,
+        "note": "cubed"
       },
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the sorghum grain in 2 cups water 25-30 minutes until tender.",
-      "Add the corn and cowpeas, and simmer 10-12 minutes until well combined."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Add the pumpkin and enough water to cover, and simmer 20-22 minutes until the pumpkin breaks down and thickens the pot.",
+      "Add the cowpeas and simmer 8-10 minutes more to warm through."
     ],
     "steps": [
-      "Simmer the sorghum grain in 2 cups water 25-30 minutes until tender.",
-      "Add the corn and cowpeas, and simmer 10-12 minutes until well combined."
+      "Cook the onion in a little oil 3-4 minutes.",
+      "Add the pumpkin and enough water to cover, and simmer 20-22 minutes until the pumpkin breaks down and thickens the pot.",
+      "Add the cowpeas and simmer 8-10 minutes more to warm through."
     ],
     "tags": []
   },
   {
-    "name": "Basotho Grilled Meat",
+    "name": "Basotho Grilled Meat (Nama)",
     "cuisine": "basotho",
     "meal_type": "dinner",
-    "description": "Grilled meat, a beloved Basotho way of preparing beef or mutton for gatherings, echoing the wider Southern African braai tradition.",
+    "course": "complete",
+    "description": "Nama, simply grilled meat, is a genuine centerpiece of Basotho meals whenever it's available, real technique keeping the seasoning minimal so the meat's own flavor carries the dish.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -236,9 +292,9 @@
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
@@ -253,9 +309,9 @@
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
@@ -264,94 +320,49 @@
       }
     ],
     "steps_detailed": [
-      "Rub the beef with the garlic and oil.",
+      "Rub the beef with the salt and oil.",
       "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
     ],
     "steps": [
-      "Rub the beef with the garlic and oil.",
+      "Rub the beef with the salt and oil.",
       "Grill over medium-high heat, turning, 12-15 minutes, until well charred and cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Basotho Beans in Tomato Sauce",
+    "name": "Basotho Roasted Maize",
+    "cuisine": "basotho",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Roasted green maize cobs are a beloved Basotho snack, traditionally roasted directly in the hot ashes of an open fire in the highlands.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Super Sweet Yellow Corn On The Cob",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Super Sweet Yellow Corn On The Cob",
+        "qty": 1,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Grill or roast the corn directly over an open flame, turning occasionally, 10-12 minutes, until charred in spots and tender."
+    ],
+    "steps": [
+      "Grill or roast the corn directly over an open flame, turning occasionally, 10-12 minutes, until charred in spots and tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basotho Steamed Bread",
     "cuisine": "basotho",
     "meal_type": "dinner",
-    "description": "A simple bean stew, common Basotho home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Roasted Peanuts",
-    "cuisine": "basotho",
-    "meal_type": "snack",
-    "description": "A simple roasted peanut snack, common across Lesotho.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Serve as-is."
-    ],
-    "steps": [
-      "Serve as-is."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Fat Cakes",
-    "cuisine": "basotho",
-    "meal_type": "snack",
-    "description": "Fat cakes, fried dough similar to South African vetkoek, a beloved Basotho snack.",
+    "course": "side",
+    "description": "Basotho steamed bread is real, distinctive in using a genuine steaming technique rather than baking, giving it a real dense, moist crumb.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -364,9 +375,9 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -381,20 +392,230 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the flour and baking powder with warm water into a soft dough.",
-      "Let rest 15 minutes.",
-      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+      "Mix the flour, baking powder, and salt with enough water to form a soft dough.",
+      "Shape into a small round loaf and steam over simmering water 40-45 minutes until firm and cooked through."
     ],
     "steps": [
-      "Mix the flour and baking powder with warm water into a soft dough.",
-      "Let rest 15 minutes.",
-      "Shape into small balls and fry, turning, 4-5 minutes per batch, until deeply golden."
+      "Mix the flour, baking powder, and salt with enough water to form a soft dough.",
+      "Shape into a small round loaf and steam over simmering water 40-45 minutes until firm and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basotho Bean Salad",
+    "cuisine": "basotho",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple bean salad, a common Basotho side, real versions dressed simply with vinegar and a little oil.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cowpeas and onion with the vinegar and oil."
+    ],
+    "steps": [
+      "Toss the cowpeas and onion with the vinegar and oil."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basotho Potato Salad",
+    "cuisine": "basotho",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple potato salad, a common Basotho side dish, especially at gatherings.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and cubed"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and cubed"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": "diced"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the potato until tender, 15-18 minutes.",
+      "Toss with the mayonnaise and carrot once cooled."
+    ],
+    "steps": [
+      "Boil the potato until tender, 15-18 minutes.",
+      "Toss with the mayonnaise and carrot once cooled."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basotho Beetroot Salad",
+    "cuisine": "basotho",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple beetroot salad, a common Basotho side, real versions dressed with vinegar for real brightness.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the beets until tender, 25-30 minutes, then peel and dice.",
+      "Toss with the vinegar and oil."
+    ],
+    "steps": [
+      "Boil the beets until tender, 25-30 minutes, then peel and dice.",
+      "Toss with the vinegar and oil."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basotho Egg and Papa Breakfast",
+    "cuisine": "basotho",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Papa served with eggs is a common Basotho breakfast, real technique frying the eggs simply so they don't compete with the papa's own mild flavor.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk about a third of the cornmeal into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, over medium-low heat 15-18 minutes, until very thick.",
+      "Fry the eggs in the oil until cooked to your liking.",
+      "Serve the eggs alongside the papa."
+    ],
+    "steps": [
+      "Whisk about a third of the cornmeal into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, over medium-low heat 15-18 minutes, until very thick.",
+      "Fry the eggs in the oil until cooked to your liking.",
+      "Serve the eggs alongside the papa."
     ],
     "tags": []
   },
@@ -402,6 +623,7 @@
     "name": "Basotho Beef and Vegetable Stew",
     "cuisine": "basotho",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Basotho home cooking.",
     "ingredients_full": [
       {
@@ -423,6 +645,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -445,89 +672,6 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Roasted Sweet Potato",
-    "cuisine": "basotho",
-    "meal_type": "lunch",
-    "description": "A simple roasted sweet potato side, a common Basotho staple.",
-    "ingredients_full": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 180,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 180,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the sweet potato with the oil.",
-      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
-    ],
-    "steps": [
-      "Toss the sweet potato with the oil.",
-      "Roast at 425F (220C) for 25-30 minutes until tender and caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Chicken Stew",
-    "cuisine": "basotho",
-    "meal_type": "dinner",
-    "description": "A simple tomato-based chicken stew, common Basotho home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 120,
-        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -536,182 +680,12 @@
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, 8-9 minutes.",
-      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the chicken with the onion, 8-9 minutes.",
-      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Coleslaw",
-    "cuisine": "basotho",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Basotho side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Green Bean Stew",
-    "cuisine": "basotho",
-    "meal_type": "lunch",
-    "description": "A simple green bean and tomato stew, common Basotho home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer together 12-15 minutes until the beans are tender."
-    ],
-    "steps": [
-      "Simmer together 12-15 minutes until the beans are tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Rice with Peas",
-    "cuisine": "basotho",
-    "meal_type": "dinner",
-    "description": "A simple rice and pea side dish, common Basotho home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
-    ],
-    "steps": [
-      "Cook the rice per package directions, folding in the peas in the last 5 minutes."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Sorghum Bread",
-    "cuisine": "basotho",
-    "meal_type": "dinner",
-    "description": "A simple bread made partly with real sorghum flour, reflecting Lesotho's traditional grain.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Sorghum flour, whole-grain",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Sorghum flour, whole-grain",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flours with warm water and the oil into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 4-5 minutes per side, until browned through."
-    ],
-    "steps": [
-      "Mix the flours with warm water and the oil into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 4-5 minutes per side, until browned through."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
@@ -719,17 +693,18 @@
     "name": "Basotho Milk Tea",
     "cuisine": "basotho",
     "meal_type": "snack",
-    "description": "Spiced milk tea, a beloved daily ritual across Lesotho.",
+    "course": "complete",
+    "description": "Sweetened milk tea is a common accompaniment to breakfast across Lesotho and the wider Southern African region.",
     "ingredients_full": [
       {
-        "ingredient": "Whole milk (generic)",
+        "ingredient": "Beverages, tea, green, brewed, regular",
         "qty": 0.75,
         "note": "cup"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
@@ -739,14 +714,14 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Whole milk (generic)",
+        "ingredient": "Beverages, tea, green, brewed, regular",
         "qty": 0.75,
         "note": "cup"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
@@ -755,66 +730,20 @@
       }
     ],
     "steps_detailed": [
-      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Warm the tea and milk together 5 minutes.",
       "Stir in the sugar before serving."
     ],
     "steps": [
-      "Warm the milk with the cinnamon 5-6 minutes.",
+      "Warm the tea and milk together 5 minutes.",
       "Stir in the sugar before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Cabbage and Carrot Salad",
-    "cuisine": "basotho",
-    "meal_type": "lunch",
-    "description": "A simple cabbage and carrot salad, a common Basotho side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss everything together."
-    ],
-    "steps": [
-      "Toss everything together."
     ],
     "tags": []
   },
   {
     "name": "Basotho Tomato Onion Relish",
     "cuisine": "basotho",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-onion relish, a common Basotho condiment alongside papa.",
     "ingredients_full": [
       {
@@ -851,47 +780,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Basotho Garlic Butter Sauce",
-    "cuisine": "basotho",
-    "meal_type": "dinner",
-    "description": "A simple garlic-butter sauce, a common Basotho condiment for grilled meat.",
-    "ingredients_full": [
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the garlic into the melted butter."
-    ],
-    "steps": [
-      "Mix the garlic into the melted butter."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }

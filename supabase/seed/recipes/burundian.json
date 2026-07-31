@@ -1,38 +1,222 @@
 [
   {
-    "name": "Burundian Ubugali",
+    "name": "Burundian Renga Renga",
     "cuisine": "burundian",
     "meal_type": "dinner",
-    "description": "Ubugali, a stiff maize or cassava porridge, is Burundi's most essential staple starch, closely related to Rwandan ubugali given the countries' shared history and cuisine.",
+    "course": "complete",
+    "description": "Renga renga, a spinach stew, is genuinely more assertively flavored than a typical greens stew - real technique cooks the greens in real palm oil with black pepper and dried fish for umami depth, giving it a stronger, more savory character than simpler leafy green sides found elsewhere.",
     "ingredients_full": [
       {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 55,
+        "ingredient": "Baby spinach",
+        "qty": 200,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground, standing in for dried minced fish"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 55,
+        "ingredient": "Baby spinach",
+        "qty": 200,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Crustaceans, crayfish, mixed species, farmed, cooked, moist heat",
+        "qty": 15,
+        "note": "ground, standing in for dried minced fish"
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+      "Cook the onion in the palm oil, 3-4 minutes.",
+      "Add the tomatoes, black pepper, and ground crayfish, being generous with the pepper, and cook 4-5 minutes.",
+      "Add the spinach and simmer 10-12 minutes until tender and well combined."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 12-15 minutes until very thick and smooth."
+      "Cook the onion in the palm oil, 3-4 minutes.",
+      "Add the tomatoes, black pepper, and ground crayfish, being generous with the pepper, and cook 4-5 minutes.",
+      "Add the spinach and simmer 10-12 minutes until tender and well combined."
     ],
     "tags": []
   },
   {
-    "name": "Burundian Ubuoso",
+    "name": "Burundian Ubugali",
     "cuisine": "burundian",
     "meal_type": "dinner",
-    "description": "Ubuoso, beans stewed simply with vegetables, is one of Burundi's most common everyday dishes, beans being a staple protein source.",
+    "course": "side",
+    "description": "Ubugali, a firm maize porridge, is Burundi's most essential staple, eaten with nearly every meal, real technique beating the cornmeal in gradually to build a smooth, dense texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and smooth."
+    ],
+    "steps": [
+      "Whisk about a third of the cornmeal with the salt into 1.25 cups boiling water.",
+      "Gradually beat in the remaining cornmeal, stirring constantly, over medium-low heat 15-18 minutes, until very thick and smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Burundian Uburobe",
+    "cuisine": "burundian",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Uburobe (also called ubuswage), cassava flour cooked into a dough and traditionally wrapped in banana leaf, is a genuine Burundian staple, real technique steaming the wrapped dough so the leaf infuses it with real aroma.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "grated"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "grated"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated cassava with a little water into a firm dough.",
+      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 40-45 minutes until firm."
+    ],
+    "steps": [
+      "Mix the grated cassava with a little water into a firm dough.",
+      "Wrap tightly in foil (standing in for banana leaf) and steam over simmering water 40-45 minutes until firm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Burundian Agatoke",
+    "cuisine": "burundian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Agatoke, plantain cooked with a real medley of vegetables, is a beloved Burundian dish, real versions including eggplant and leeks alongside the more common tomato and onion.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 60,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "chunked"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 60,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 3-4 minutes.",
+      "Add the plantain, eggplant, and tomatoes with enough water to just cover, and simmer 25-28 minutes until everything is tender."
+    ],
+    "steps": [
+      "Cook the onion 3-4 minutes.",
+      "Add the plantain, eggplant, and tomatoes with enough water to just cover, and simmer 25-28 minutes until everything is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Burundian Ibiharage",
+    "cuisine": "burundian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Ibiharage, fried beans, is a genuine Burundian comfort food, real technique frying the cooked beans in oil with onion and garlic rather than just simmering them plain.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -40,14 +224,19 @@
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -57,21 +246,28 @@
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion and garlic in the oil, 3-4 minutes.",
+      "Add the cowpeas and fry, stirring occasionally, 10-12 minutes, until well coated and lightly crisped at the edges."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Cook the onion and garlic in the oil, 3-4 minutes.",
+      "Add the cowpeas and fry, stirring occasionally, 10-12 minutes, until well coated and lightly crisped at the edges."
     ],
     "tags": []
   },
@@ -79,7 +275,8 @@
     "name": "Burundian Isombe",
     "cuisine": "burundian",
     "meal_type": "dinner",
-    "description": "Isombe, pounded cassava leaves stewed with peanuts, a beloved dish shared with neighboring Rwanda and DR Congo - real cassava leaves aren't a distinct item here, so spinach stands in.",
+    "course": "complete",
+    "description": "Isombe, cassava leaves cooked with real peanuts, is shared with neighboring Rwanda, real cassava leaves aren't a distinct item here, so spinach stands in for a milder approximation.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -92,8 +289,13 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Yellow onion",
+        "ingredient": "Bell pepper",
         "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       }
     ],
@@ -109,33 +311,39 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Yellow onion",
+        "ingredient": "Bell pepper",
         "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, then add the spinach.",
-      "Simmer 15-18 minutes until well combined."
+      "Cook the onion and bell pepper 4-5 minutes.",
+      "Add the spinach and a splash of water, cover, and simmer 15-18 minutes.",
+      "Stir in the peanut butter and simmer 8-10 minutes more until thickened."
     ],
     "steps": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, then add the spinach.",
-      "Simmer 15-18 minutes until well combined."
+      "Cook the onion and bell pepper 4-5 minutes.",
+      "Add the spinach and a splash of water, cover, and simmer 15-18 minutes.",
+      "Stir in the peanut butter and simmer 8-10 minutes more until thickened."
     ],
     "tags": []
   },
   {
-    "name": "Burundian Brochettes",
+    "name": "Burundian Grilled Fish (Mukeke)",
     "cuisine": "burundian",
     "meal_type": "dinner",
-    "description": "Brochettes, grilled skewered meat, is one of Burundi's most beloved street foods.",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Burundi's Lake Tanganyika fishing tradition, real mukeke being a fish unique to the lake - tilapia stands in as a widely available substitute.",
     "ingredients_full": [
       {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 220,
-        "note": "cubed"
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": "standing in for mukeke"
       },
       {
         "ingredient": "Garlic clove",
@@ -143,16 +351,16 @@
         "note": "minced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 220,
-        "note": "cubed"
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": "standing in for mukeke"
       },
       {
         "ingredient": "Garlic clove",
@@ -160,192 +368,58 @@
         "note": "minced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Marinate the beef in the garlic and oil for 15-20 minutes.",
-      "Thread onto skewers and grill, turning, 8-10 minutes, until charred and cooked through."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Marinate the beef in the garlic and oil for 15-20 minutes.",
-      "Thread onto skewers and grill, turning, 8-10 minutes, until charred and cooked through."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Burundian Sweet Potato and Beans",
-    "cuisine": "burundian",
-    "meal_type": "dinner",
-    "description": "Sweet potato cooked together with beans, a genuine Burundian comfort food.",
-    "ingredients_full": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 150,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 150,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Boil the sweet potato until just tender, 12-15 minutes.",
-      "Add the cowpeas and simmer 8-10 minutes until well combined."
-    ],
-    "steps": [
-      "Boil the sweet potato until just tender, 12-15 minutes.",
-      "Add the cowpeas and simmer 8-10 minutes until well combined."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Ibirayi (Potatoes)",
+    "name": "Burundian Sweet Potato",
     "cuisine": "burundian",
     "meal_type": "lunch",
-    "description": "Simple boiled or fried potatoes, a common Burundian side dish, potato being a significant staple crop in the country's fertile highlands.",
+    "course": "side",
+    "description": "Roasted sweet potato is a genuine dry-season staple in Burundi, real technique roasting until the natural sugars caramelize at the edges.",
     "ingredients_full": [
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 200,
+        "ingredient": "Sweet potato",
+        "qty": 180,
         "note": "cubed"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 1,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 200,
+        "ingredient": "Sweet potato",
+        "qty": 180,
         "note": "cubed"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Boil the potato until just tender, 12-15 minutes.",
-      "Fry in the oil, turning, 5-6 minutes, until lightly golden."
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes, turning once, until tender and caramelized at the edges."
     ],
     "steps": [
-      "Boil the potato until just tender, 12-15 minutes.",
-      "Fry in the oil, turning, 5-6 minutes, until lightly golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Fried Plantain",
-    "cuisine": "burundian",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Burundian side dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Beignets",
-    "cuisine": "burundian",
-    "meal_type": "breakfast",
-    "description": "Beignets, sweet fried dough balls, a beloved Burundian breakfast snack shared across much of Central and East Africa.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
-    ],
-    "steps": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+      "Toss the sweet potato with the oil.",
+      "Roast at 425F (220C) for 25-30 minutes, turning once, until tender and caramelized at the edges."
     ],
     "tags": []
   },
@@ -353,6 +427,7 @@
     "name": "Burundian Roasted Peanuts",
     "cuisine": "burundian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Burundi.",
     "ingredients_full": [
       {
@@ -377,59 +452,11 @@
     "tags": []
   },
   {
-    "name": "Burundian Fish Stew",
+    "name": "Burundian Beef Stew",
     "cuisine": "burundian",
     "meal_type": "dinner",
-    "description": "A simple tomato-based fish stew, common Burundian home cooking near Lake Tanganyika.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "steps": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Beef and Vegetable Stew",
-    "cuisine": "burundian",
-    "meal_type": "dinner",
-    "description": "A simple, hearty beef and vegetable stew, common Burundian home cooking.",
+    "course": "complete",
+    "description": "A simple beef stew, common Burundian home cooking, real technique browning the beef properly first to build real flavor.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -449,6 +476,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -472,360 +504,76 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Burundian Sweet Potato Fritters",
+    "name": "Burundian Banana Juice (Umutobe)",
     "cuisine": "burundian",
     "meal_type": "snack",
-    "description": "Simple fried sweet potato fritters, a common Burundian snack.",
+    "course": "complete",
+    "description": "Umutobe, ripe banana juice, is central to Burundian hospitality and ceremonies, real versions pressed from real ripe plantain.",
     "ingredients_full": [
       {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
+        "ingredient": "Bananas, raw",
+        "qty": 1,
         "note": ""
       },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Chapati",
-    "cuisine": "burundian",
-    "meal_type": "dinner",
-    "description": "Chapati, a soft, layered flatbread, reflects genuine East African Indian culinary influence, found across Burundi as it is throughout the wider region.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
-      "Roll thin, brush with the remaining oil, and coil before flattening to build real layers.",
-      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
-    ],
-    "steps": [
-      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
-      "Roll thin, brush with the remaining oil, and coil before flattening to build real layers.",
-      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Coleslaw",
-    "cuisine": "burundian",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Burundian side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Kale with Peanuts",
-    "cuisine": "burundian",
-    "meal_type": "lunch",
-    "description": "Kale simmered with real ground peanuts, a common Burundian side dish, similar in spirit to isombe.",
-    "ingredients_full": [
-      {
-        "ingredient": "Kale",
-        "qty": 200,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Kale",
-        "qty": 200,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the kale with a splash of water 8-10 minutes.",
-      "Stir in the peanut butter and simmer 5 more minutes."
-    ],
-    "steps": [
-      "Cook the kale with a splash of water 8-10 minutes.",
-      "Stir in the peanut butter and simmer 5 more minutes."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Avocado with Lime",
-    "cuisine": "burundian",
-    "meal_type": "snack",
-    "description": "A simple avocado dish, avocado being an abundant Burundian crop.",
-    "ingredients_full": [
-      {
-        "ingredient": "Avocado",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Avocado",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Drizzle the avocado with the lemon juice."
-    ],
-    "steps": [
-      "Drizzle the avocado with the lemon juice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Milk Tea",
-    "cuisine": "burundian",
-    "meal_type": "snack",
-    "description": "Spiced milk tea, a beloved daily ritual across Burundi.",
-    "ingredients_full": [
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
+        "ingredient": "Honey",
         "qty": 1,
-        "note": "tbsp"
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
+        "ingredient": "Bananas, raw",
+        "qty": 1,
+        "note": ""
+      },
+      {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
+        "ingredient": "Honey",
         "qty": 1,
-        "note": "tbsp"
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Warm the milk with the cinnamon 5-6 minutes.",
-      "Stir in the sugar before serving."
+      "Blend the banana with the milk and honey until completely smooth."
     ],
     "steps": [
-      "Warm the milk with the cinnamon 5-6 minutes.",
-      "Stir in the sugar before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Rice with Beans",
-    "cuisine": "burundian",
-    "meal_type": "dinner",
-    "description": "A simple rice and bean dish, common Burundian home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice and cowpeas together with enough water, 18-20 minutes, until tender."
-    ],
-    "steps": [
-      "Cook the rice and cowpeas together with enough water, 18-20 minutes, until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Burundian Peanut Sauce",
-    "cuisine": "burundian",
-    "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many Burundian stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
+      "Blend the banana with the milk and honey until completely smooth."
     ],
     "tags": []
   },
   {
     "name": "Burundian Tomato Onion Sauce",
     "cuisine": "burundian",
-    "meal_type": "dinner",
+    "meal_type": "sauce",
+    "course": "complete",
     "description": "A simple tomato-onion sauce base, used across many Burundian stews.",
     "ingredients_full": [
       {
@@ -862,10 +610,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the onion in the oil 4-5 minutes until softened.",
+      "Add the tomatoes and simmer 12-15 minutes until thickened."
     ],
     "tags": []
   }
