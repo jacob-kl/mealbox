@@ -108,7 +108,7 @@
     "cuisine": "south-sudanese",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Kuindiong, a sweetened semolina dessert, is a genuine Dinka specialty, real technique toasting the semolina until it turns pale and faintly nutty before finishing with milk.",
+    "description": "Kuindiong is a cherished Dinka welcome dish with a real two-part technique that was missing here before: butter and yogurt are cooked together separately until they visibly separate and the yogurt solids turn a pale, nutty brown (called miok), while the semolina cooks into a pudding in its own pot with yogurt and water - the finished pudding is then topped with spoonfuls of the separately-made miok, not mixed together as one step.",
     "ingredients_full": [
       {
         "ingredient": "Semolina, enriched",
@@ -116,22 +116,22 @@
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.5,
+        "note": "cup, divided"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "divided"
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
+        "qty": 0.25,
         "note": "cup"
       },
       {
-        "ingredient": "Yogurt, plain, whole milk",
+        "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
       }
@@ -143,35 +143,43 @@
         "note": ""
       },
       {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 0.5,
+        "note": "cup, divided"
+      },
+      {
         "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
+        "qty": 20,
+        "note": "divided"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 2,
-        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Toast the semolina in the butter over medium heat, stirring often, 5-6 minutes, until pale and faintly nutty in aroma.",
-      "Stir in the sugar and yogurt.",
-      "Serve topped with the milk poured over just before eating."
+      [
+        "For the miok topping: melt half the butter in a small pan, stir in half the yogurt, and cook, stirring constantly, 15-18 minutes, until the mixture boils and the yogurt solids separate from the fat and turn a pale, nutty brown. Set aside.",
+        "For the pudding: bring 1 cup water to a boil, then slowly stir in the remaining yogurt.",
+        "Reduce heat and gradually whisk in the semolina, stirring constantly until it thickens into a smooth pudding.",
+        "Stir in the milk, sugar, and remaining butter, and cook 1-2 minutes more.",
+        "Serve the pudding topped with spoonfuls of the separately-made miok."
+      ]
     ],
     "steps": [
-      "Toast the semolina in the butter over medium heat, stirring often, 5-6 minutes, until pale and faintly nutty in aroma.",
-      "Stir in the sugar and yogurt.",
-      "Serve topped with the milk poured over just before eating."
+      [
+        "For the miok topping: melt half the butter in a small pan, stir in half the yogurt, and cook, stirring constantly, 15-18 minutes, until the mixture boils and the yogurt solids separate from the fat and turn a pale, nutty brown. Set aside.",
+        "For the pudding: bring 1 cup water to a boil, then slowly stir in the remaining yogurt.",
+        "Reduce heat and gradually whisk in the semolina, stirring constantly until it thickens into a smooth pudding.",
+        "Stir in the milk, sugar, and remaining butter, and cook 1-2 minutes more.",
+        "Serve the pudding topped with spoonfuls of the separately-made miok."
+      ]
     ],
     "tags": []
   },
@@ -180,48 +188,64 @@
     "cuisine": "south-sudanese",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Royoroyo, a groundnut and sesame-forward dish, reflects South Sudan's real reliance on both peanuts and sesame as protein-rich staples.",
+    "description": "Royoroyo, a real specialty of Yei town traditionally cooked for honored guests, is genuinely built on roasted pigeon peas as its base, not ground peanuts and sesame alone as this was described before - real technique stirs the peanut butter and sesame butter in gently at the end, deliberately not fully combining them, so the natural oils visibly separate from the pea base rather than blending into a smooth sauce.",
     "ingredients_full": [
       {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 40,
-        "note": "ground"
+        "ingredient": "Goya Dry Pigeon Peas",
+        "qty": 100,
+        "note": "cooked until tender"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Seeds, sesame seeds, whole, roasted and toasted",
         "qty": 20,
-        "note": "ground"
+        "note": "ground into a paste"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Peanuts, all types, dry-roasted, with salt",
-        "qty": 40,
-        "note": "ground"
+        "ingredient": "Goya Dry Pigeon Peas",
+        "qty": 100,
+        "note": "cooked until tender"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Seeds, sesame seeds, whole, roasted and toasted",
         "qty": 20,
-        "note": "ground"
+        "note": "ground into a paste"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the ground peanuts and sesame with the tomatoes and a little water into a smooth, thick sauce.",
-      "Simmer 12-15 minutes until thickened."
+      [
+        "Cook the pigeon peas in water until tender, 25-30 minutes, then drain, reserving a little of the cooking liquid.",
+        "Return the peas to low heat and gently stir in the peanut butter and ground sesame paste, stirring only enough to combine loosely - real technique deliberately avoids fully blending them, so the natural oils separate from the peas rather than forming a smooth sauce.",
+        "Season with salt and cook 8-10 minutes more, stirring gently, adding a splash of the reserved liquid if needed."
+      ]
     ],
     "steps": [
-      "Whisk the ground peanuts and sesame with the tomatoes and a little water into a smooth, thick sauce.",
-      "Simmer 12-15 minutes until thickened."
+      [
+        "Cook the pigeon peas in water until tender, 25-30 minutes, then drain, reserving a little of the cooking liquid.",
+        "Return the peas to low heat and gently stir in the peanut butter and ground sesame paste, stirring only enough to combine loosely - real technique deliberately avoids fully blending them, so the natural oils separate from the peas rather than forming a smooth sauce.",
+        "Season with salt and cook 8-10 minutes more, stirring gently, adding a splash of the reserved liquid if needed."
+      ]
     ],
     "tags": []
   },

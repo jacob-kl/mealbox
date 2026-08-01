@@ -200,50 +200,66 @@
     "cuisine": "nigerien",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Fari masa, small, fluffy fermented rice or millet pancakes, is a beloved Nigerien breakfast and street snack - real technique lets the batter ferment for hours, developing a genuine tang before cooking on the griddle.",
+    "description": "Fari masa, in Niger specifically, is genuinely a fried bread closer in texture to naan than to Nigerian-style rice pancakes, which was a mismatch here before - real technique lets a yeasted dough rest and rise before frying into a soft, chewy flatbread.",
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "cooked and blended smooth"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Baking powder",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "cooked and blended smooth"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Baking powder",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Blend the cooked rice with a little water, the sugar, and baking powder into a smooth batter.",
-      "Let ferment at room temperature 4-6 hours to develop real tang.",
-      "Cook small spoonfuls on a hot, lightly oiled griddle, 2-3 minutes per side, until golden brown and crispy outside, spongy inside."
+      [
+        "Mix the flour, baking powder, and sugar with warm water into a soft, slightly sticky dough.",
+        "Let rest 30-45 minutes to relax and slightly rise.",
+        "Divide into rounds and flatten by hand into thick discs.",
+        "Fry in the oil, turning, 3-4 minutes per side, until puffed, golden, and soft-chewy inside, closer to naan than to a thin pancake."
+      ]
     ],
     "steps": [
-      "Blend the cooked rice with a little water, the sugar, and baking powder into a smooth batter.",
-      "Let ferment at room temperature 4-6 hours to develop real tang.",
-      "Cook small spoonfuls on a hot, lightly oiled griddle, 2-3 minutes per side, until golden brown and crispy outside, spongy inside."
+      [
+        "Mix the flour, baking powder, and sugar with warm water into a soft, slightly sticky dough.",
+        "Let rest 30-45 minutes to relax and slightly rise.",
+        "Divide into rounds and flatten by hand into thick discs.",
+        "Fry in the oil, turning, 3-4 minutes per side, until puffed, golden, and soft-chewy inside, closer to naan than to a thin pancake."
+      ]
     ],
     "tags": []
   },
@@ -278,6 +294,16 @@
         "ingredient": "Spices, chili powder",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Onion powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -305,17 +331,31 @@
         "ingredient": "Spices, chili powder",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Onion powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Mix the ground peanuts, ginger, garlic, and chili powder into a thick paste.",
-      "Coat the thin beef strips generously in the paste.",
-      "Grill or broil, turning, 6-8 minutes, until well charred and cooked through - real kilishi is traditionally sun-dried over days for a jerky-like texture, which this fresh-grilled version doesn't replicate."
+      [
+        "Mix the ground peanuts, ginger, garlic, chili powder, onion powder, and cloves into a thick paste.",
+        "Coat the thin beef strips generously in the paste.",
+        "Grill or broil, turning, 6-8 minutes, until well charred and cooked through - real kilishi is traditionally sun-dried in large sheets over days for a jerky-like texture, which this fresh-grilled version doesn't replicate."
+      ]
     ],
     "steps": [
-      "Mix the ground peanuts, ginger, garlic, and chili powder into a thick paste.",
-      "Coat the thin beef strips generously in the paste.",
-      "Grill or broil, turning, 6-8 minutes, until well charred and cooked through - real kilishi is traditionally sun-dried over days for a jerky-like texture, which this fresh-grilled version doesn't replicate."
+      [
+        "Mix the ground peanuts, ginger, garlic, chili powder, onion powder, and cloves into a thick paste.",
+        "Coat the thin beef strips generously in the paste.",
+        "Grill or broil, turning, 6-8 minutes, until well charred and cooked through - real kilishi is traditionally sun-dried in large sheets over days for a jerky-like texture, which this fresh-grilled version doesn't replicate."
+      ]
     ],
     "tags": []
   },
