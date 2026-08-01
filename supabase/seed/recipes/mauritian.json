@@ -2,18 +2,14 @@
   {
     "name": "Mauritian Dholl Puri",
     "cuisine": "mauritian",
-    "meal_type": "breakfast",
-    "description": "Dholl puri, a thin flatbread stuffed with ground split peas, is widely considered Mauritius's most iconic street food, reflecting genuine Indian indentured-labor heritage.",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Dholl puri, split-pea-stuffed flatbread, is genuinely Mauritius's national dish and street food staple - real technique cooks it on a dry griddle, not fried, which is what distinguishes it from the Indian dal puri it evolved from; real Mauritian versions are traditionally eaten in pairs, wrapped around bean curry and rougaille.",
     "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 40,
-        "note": "cooked and mashed"
+        "ingredient": "Peas, split, mature seeds, cooked, boiled, without salt",
+        "qty": 100,
+        "note": "drained well"
       },
       {
         "ingredient": "Ground cumin",
@@ -21,21 +17,26 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 40,
-        "note": "cooked and mashed"
+        "ingredient": "Peas, split, mature seeds, cooked, boiled, without salt",
+        "qty": 100,
+        "note": "drained well"
       },
       {
         "ingredient": "Ground cumin",
@@ -43,39 +44,45 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Mix the flour with water and a little oil into a soft dough.",
-      "Mix the cooked, mashed lentils with the cumin for the filling.",
-      "Roll out the dough thin, place the filling in the center, and fold to seal, then roll out again gently.",
-      "Cook in a hot, dry pan, 2-3 minutes per side, until lightly browned."
+      "Blend the split peas with the cumin, turmeric, and coriander into a fine, slightly grainy paste.",
+      "Mix the flour with water into a soft, elastic dough.",
+      "Roll out a ball of dough, place a spoonful of the pea filling in the center, and seal the dough around it, then roll out gently again into a thin round.",
+      "Cook on a hot, dry griddle, 1-2 minutes per side, without letting it brown too much - real dholl puri stays soft and pale, not fried."
     ],
     "steps": [
-      "Mix the flour with water and a little oil into a soft dough.",
-      "Mix the cooked, mashed lentils with the cumin for the filling.",
-      "Roll out the dough thin, place the filling in the center, and fold to seal, then roll out again gently.",
-      "Cook in a hot, dry pan, 2-3 minutes per side, until lightly browned."
+      "Blend the split peas with the cumin, turmeric, and coriander into a fine, slightly grainy paste.",
+      "Mix the flour with water into a soft, elastic dough.",
+      "Roll out a ball of dough, place a spoonful of the pea filling in the center, and seal the dough around it, then roll out gently again into a thin round.",
+      "Cook on a hot, dry griddle, 1-2 minutes per side, without letting it brown too much - real dholl puri stays soft and pale, not fried."
     ],
     "tags": []
   },
   {
     "name": "Mauritian Rougaille",
     "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "Rougaille, a tomato-based Creole sauce, is a defining Mauritian dish, reflecting real French Creole culinary roots merged with the island's own spicing.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Rougaille, a tomato-based sauce with real Creole roots, is one of Mauritius's most essential everyday condiments, real technique built on a specific real combination of thyme, garlic, and chili together, distinguishing it from generic tomato sauces.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 180,
         "note": ""
       },
       {
@@ -84,9 +91,14 @@
         "note": "minced"
       },
       {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
         "qty": 0.5,
-        "note": "tsp, grated"
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -101,19 +113,19 @@
         "note": ""
       },
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 180,
-        "note": ""
-      },
-      {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
         "qty": 0.5,
-        "note": "tsp, grated"
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -122,12 +134,72 @@
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, garlic, and ginger, 8-9 minutes.",
-      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender and the sauce has thickened."
+      "Cook the onion and garlic in a little oil, 3-4 minutes.",
+      "Add the tomatoes, thyme, and jalape\u00f1o, and simmer 15-18 minutes until thickened."
     ],
     "steps": [
-      "Brown the chicken with the onion, garlic, and ginger, 8-9 minutes.",
-      "Add the tomatoes and simmer 20-22 minutes until the chicken is tender and the sauce has thickened."
+      "Cook the onion and garlic in a little oil, 3-4 minutes.",
+      "Add the tomatoes, thyme, and jalape\u00f1o, and simmer 15-18 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mauritian Cari Gros Pois (Butter Bean Curry)",
+    "cuisine": "mauritian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Cari gros pois, butter beans in a fragrant curry, is the real, traditional accompaniment to dholl puri, real technique building depth from real curry spices simmered with the beans.",
+    "ingredients_full": [
+      {
+        "ingredient": "Del Monte Green Lima Beans",
+        "qty": 200,
+        "note": "standing in for butter beans"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Del Monte Green Lima Beans",
+        "qty": 200,
+        "note": "standing in for butter beans"
+      },
+      {
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the garlic and curry powder in a little oil, 1 minute, until fragrant.",
+      "Add the tomatoes and beans with a splash of water, and simmer 15-18 minutes until well combined."
+    ],
+    "steps": [
+      "Cook the garlic and curry powder in a little oil, 1 minute, until fragrant.",
+      "Add the tomatoes and beans with a splash of water, and simmer 15-18 minutes until well combined."
     ],
     "tags": []
   },
@@ -135,7 +207,8 @@
     "name": "Mauritian Fish Vindaye",
     "cuisine": "mauritian",
     "meal_type": "dinner",
-    "description": "Vindaye, fish marinated and cooked in a tangy mustard-turmeric sauce, reflects genuine Indian culinary influence merged with real Mauritian coastal fishing tradition.",
+    "course": "complete",
+    "description": "Fish vindaye, fish marinated in a real turmeric-mustard-vinegar sauce, reflects Mauritius's genuine Indian culinary influence, real technique letting the fish marinate so the tang penetrates fully.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -144,18 +217,23 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
+        "qty": 0.5,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Vinegar, distilled",
         "qty": 1.5,
-        "note": "tsp"
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
@@ -166,76 +244,214 @@
       },
       {
         "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
+        "qty": 0.5,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Vinegar, distilled",
         "qty": 1.5,
-        "note": "tsp"
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Marinate the fish in the turmeric, garlic, and vinegar for at least 20 minutes.",
-      "Pan-fry, 4-5 minutes per side, until just cooked through."
+      "Mix the turmeric, mustard, vinegar, and garlic into a marinade.",
+      "Coat the fish and marinate at least 20 minutes.",
+      "Pan-fry in a little oil, 3-4 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Marinate the fish in the turmeric, garlic, and vinegar for at least 20 minutes.",
-      "Pan-fry, 4-5 minutes per side, until just cooked through."
+      "Mix the turmeric, mustard, vinegar, and garlic into a marinade.",
+      "Coat the fish and marinate at least 20 minutes.",
+      "Pan-fry in a little oil, 3-4 minutes per side, until just cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Mauritian Alouda",
+    "name": "Mauritian Kheer",
     "cuisine": "mauritian",
     "meal_type": "snack",
-    "description": "Alouda, a sweet basil-seed and milk drink, is a beloved Mauritian beverage reflecting real Chinese and Indian culinary influence - basil seeds aren't a distinct item here, so this leans on the sweet milk base alone.",
+    "course": "complete",
+    "description": "Kheer, a sweet rice pudding with almonds, real Mauritian versions are traditionally served alongside dholl puri, reflecting the island's deep Indian culinary heritage.",
     "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
       {
         "ingredient": "Whole milk (generic)",
         "qty": 1,
         "note": "cup"
       },
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Almonds",
+        "qty": 15,
+        "note": "chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice with the milk, stirring often, 25-28 minutes, until very soft and the mixture thickens.",
+      "Stir in the sugar and chopped almonds."
+    ],
+    "steps": [
+      "Simmer the rice with the milk, stirring often, 25-28 minutes, until very soft and the mixture thickens.",
+      "Stir in the sugar and chopped almonds."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mauritian Achard de Legumes",
+    "cuisine": "mauritian",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Achard de l\u00e9gumes, pickled vegetables in a real turmeric-mustard base, is a beloved Mauritian condiment, real versions genuinely reflecting both Indian and Creole culinary influence.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": ""
       },
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "julienned"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Granulated sugar",
+        "ingredient": "Vinegar, distilled",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the milk, vanilla, and sugar together.",
-      "Chill and serve over ice."
+      "Blanch the green beans and carrot 2-3 minutes, then drain well.",
+      "Toss with the turmeric, mustard, and vinegar, and let sit at least 30 minutes to lightly pickle."
     ],
     "steps": [
-      "Whisk the milk, vanilla, and sugar together.",
-      "Chill and serve over ice."
+      "Blanch the green beans and carrot 2-3 minutes, then drain well.",
+      "Toss with the turmeric, mustard, and vinegar, and let sit at least 30 minutes to lightly pickle."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mauritian Grilled Fish",
+    "cuisine": "mauritian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Mauritius's rich Indian Ocean and lagoon fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
@@ -243,22 +459,13 @@
     "name": "Mauritian Fried Noodles",
     "cuisine": "mauritian",
     "meal_type": "dinner",
-    "description": "Fried noodles reflect genuine Chinese-Mauritian culinary heritage, a beloved dish across the island shared with Chinese immigrant communities.",
+    "course": "complete",
+    "description": "Fried noodles, reflecting Mauritius's genuine Chinese culinary heritage, a beloved everyday dish across the island.",
     "ingredients_full": [
       {
-        "ingredient": "Vermicelli rice noodles (dry)",
+        "ingredient": "Barilla Angel Hair Grain & Legume Pasta",
         "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": ""
+        "note": "standing in for egg noodles"
       },
       {
         "ingredient": "Bell pepper",
@@ -266,26 +473,26 @@
         "note": ""
       },
       {
-        "ingredient": "Soy sauce",
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Vermicelli rice noodles (dry)",
+        "ingredient": "Barilla Angel Hair Grain & Legume Pasta",
         "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": ""
+        "note": "standing in for egg noodles"
       },
       {
         "ingredient": "Bell pepper",
@@ -293,366 +500,30 @@
         "note": ""
       },
       {
-        "ingredient": "Soy sauce",
+        "ingredient": "Carrot",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Cook the noodles per package directions.",
-      "Stir-fry the carrot and bell pepper 3-4 minutes.",
-      "Add the chicken, noodles, and soy sauce, and toss together 3-4 minutes."
+      "Cook the pasta per package directions.",
+      "Stir-fry the bell pepper, carrot, and cabbage in the oil, 4-5 minutes.",
+      "Add the cooked pasta and toss together over high heat 2-3 minutes."
     ],
     "steps": [
-      "Cook the noodles per package directions.",
-      "Stir-fry the carrot and bell pepper 3-4 minutes.",
-      "Add the chicken, noodles, and soy sauce, and toss together 3-4 minutes."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Samosas",
-    "cuisine": "mauritian",
-    "meal_type": "snack",
-    "description": "Samosas, fried triangular pastries with a spiced filling, reflect genuine Indian culinary influence and are a beloved Mauritian snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion and curry powder, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
-    ],
-    "steps": [
-      "Brown the beef with the onion and curry powder, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Octopus Curry-Style Stew",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "Ourite (octopus curry) is a beloved Mauritian coastal dish - octopus isn't a distinct item here, so shrimp stands in as a similarly briny seafood.",
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled, standing in for octopus"
-      },
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled, standing in for octopus"
-      },
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
-      "Add the shrimp and simmer 3-4 minutes until just pink."
-    ],
-    "steps": [
-      "Simmer the coconut milk, curry powder, and tomatoes 5-6 minutes.",
-      "Add the shrimp and simmer 3-4 minutes until just pink."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Coconut Rice",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "Rice cooked in real coconut milk, reflecting Mauritius's coastal culinary tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
-    ],
-    "steps": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Achard",
-    "cuisine": "mauritian",
-    "meal_type": "lunch",
-    "description": "Achard, tangy pickled vegetables with mustard seed and turmeric, reflects genuine Indian culinary influence and is a beloved Mauritian condiment.",
-    "ingredients_full": [
-      {
-        "ingredient": "Carrot",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vinegar, distilled",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Carrot",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vinegar, distilled",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toss the carrot and bell pepper with the vinegar and turmeric.",
-      "Let sit at least 30 minutes before serving."
-    ],
-    "steps": [
-      "Toss the carrot and bell pepper with the vinegar and turmeric.",
-      "Let sit at least 30 minutes before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Gateau Piment",
-    "cuisine": "mauritian",
-    "meal_type": "snack",
-    "description": "G\u00e2teau piment (chili cake), fried split-pea and chili fritters, are one of Mauritius's most beloved street snacks.",
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 60,
-        "note": "soaked and blended coarse"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.75,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 60,
-        "note": "soaked and blended coarse"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.75,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Blend the soaked lentils with the jalape\u00f1o and onion into a coarse batter.",
-      "Shape into small patties and fry, turning, 3-4 minutes per side, until golden."
-    ],
-    "steps": [
-      "Blend the soaked lentils with the jalape\u00f1o and onion into a coarse batter.",
-      "Shape into small patties and fry, turning, 3-4 minutes per side, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Chicken Curry",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "A coconut-based chicken curry, reflecting Mauritius's genuine Indian culinary heritage.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the curry powder in a little oil 30 seconds.",
-      "Add the chicken and tomatoes, and cook 8-9 minutes.",
-      "Add the coconut milk and simmer 12-15 minutes until tender."
-    ],
-    "steps": [
-      "Cook the curry powder in a little oil 30 seconds.",
-      "Add the chicken and tomatoes, and cook 8-9 minutes.",
-      "Add the coconut milk and simmer 12-15 minutes until tender."
+      "Cook the pasta per package directions.",
+      "Stir-fry the bell pepper, carrot, and cabbage in the oil, 4-5 minutes.",
+      "Add the cooked pasta and toss together over high heat 2-3 minutes."
     ],
     "tags": []
   },
@@ -660,6 +531,7 @@
     "name": "Mauritian Roasted Peanuts",
     "cuisine": "mauritian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Mauritius.",
     "ingredients_full": [
       {
@@ -684,83 +556,10 @@
     "tags": []
   },
   {
-    "name": "Mauritian Fried Plantain",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Mauritian side dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Tropical Fruit Salad",
-    "cuisine": "mauritian",
-    "meal_type": "snack",
-    "description": "A simple tropical fruit salad, built on Mauritius's abundant local fruit.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pineapple and papaya together."
-    ],
-    "steps": [
-      "Toss the pineapple and papaya together."
-    ],
-    "tags": []
-  },
-  {
     "name": "Mauritian Beef and Vegetable Stew",
     "cuisine": "mauritian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Mauritian home cooking.",
     "ingredients_full": [
       {
@@ -782,6 +581,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -804,254 +608,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Coleslaw",
-    "cuisine": "mauritian",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Mauritian side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Grilled Fish",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting Mauritius's Indian Ocean coastal fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Roasted Chickpea Snack",
-    "cuisine": "mauritian",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Mauritius.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and curry powder.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and curry powder.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Rougaille Sauce",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "The real Creole tomato base that defines rougaille, made here on its own for use in other dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritian Ginger Garlic Sauce",
-    "cuisine": "mauritian",
-    "meal_type": "dinner",
-    "description": "A simple ginger-garlic sauce, common across Mauritian grilled meat and fish dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 1,
-        "note": "tbsp, grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 1,
-        "note": "tbsp, grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix everything together."
-    ],
-    "steps": [
-      "Mix everything together."
     ],
     "tags": []
   }
