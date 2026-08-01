@@ -404,11 +404,11 @@
     "tags": []
   },
   {
-    "name": "Central African Fulani Bouillie",
+    "name": "Central African Bouillie",
     "cuisine": "car",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Fulani bouillie, a porridge with rice, peanut butter, and lemon, is a distinctive breakfast reflecting the Fulani pastoralist tradition, real technique whisking in the lemon at the end for real brightness against the peanut's richness.",
+    "description": "Bouillie, a warm porridge made from millet, rice, or cornmeal cooked with milk and sweetened with sugar, is a common Central African breakfast - real versions keep this simple, without more elaborate additions I can't specifically confirm as traditional.",
     "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
@@ -416,19 +416,14 @@
         "note": "cooked and blended smooth"
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "cup"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -438,30 +433,23 @@
         "note": "cooked and blended smooth"
       },
       {
-        "ingredient": "Peanut butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "cup"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Blend the cooked rice with the milk until smooth.",
-      "Whisk in the peanut butter, warming gently.",
-      "Stir in the lemon juice just before serving."
+      "Warm gently and stir in the sugar before serving."
     ],
     "steps": [
       "Blend the cooked rice with the milk until smooth.",
-      "Whisk in the peanut butter, warming gently.",
-      "Stir in the lemon juice just before serving."
+      "Warm gently and stir in the sugar before serving."
     ],
     "tags": []
   },

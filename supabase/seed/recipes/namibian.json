@@ -274,7 +274,9 @@
     "cuisine": "namibian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Marathon chicken, a rich chicken stew finished with a real dash of marula oil, is a genuine Namibian dish - marula oil isn't a distinct item here, so olive oil stands in, missing marula's real distinctive nutty, fruity finish.",
+    "description": [
+      "Marathon chicken, named for the free-range 'hard body' chickens tough enough to earn the nickname, is genuinely cooked in a specific order - real technique boils the chicken first, seasoned simply with just salt, until tender, THEN sears it in marula oil afterward, not browned at the start; the finishing sauce stays deliberately thin and simple, just tomato and onion, without extra herbs or vegetables. Marula oil isn't a distinct item here, so olive oil stands in, missing its real distinctive nutty, fruity finish."
+    ],
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -282,19 +284,24 @@
         "note": ""
       },
       {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
+        "qty": 40,
         "note": ""
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp, standing in for marula oil, drizzled at the end"
+        "qty": 1.5,
+        "note": "tbsp, standing in for marula oil"
       }
     ],
     "ingredients": [
@@ -304,30 +311,39 @@
         "note": ""
       },
       {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
+        "qty": 40,
         "note": ""
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp, standing in for marula oil, drizzled at the end"
+        "qty": 1.5,
+        "note": "tbsp, standing in for marula oil"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, 8-9 minutes.",
-      "Add the tomatoes and a splash of water, and simmer 25-28 minutes until the chicken is very tender.",
-      "Drizzle with the olive oil just before serving."
+      [
+        "Simmer the chicken with the salt and just enough water to not quite cover, 30-35 minutes, until the water reduces and the chicken is genuinely tender - real technique starts here, not with browning.",
+        "Sear the boiled chicken in the olive oil until golden on all sides, 6-8 minutes.",
+        "Add the tomatoes and onion, keeping the sauce thin and simple, and simmer 10-12 minutes more."
+      ]
     ],
     "steps": [
-      "Brown the chicken with the onion, 8-9 minutes.",
-      "Add the tomatoes and a splash of water, and simmer 25-28 minutes until the chicken is very tender.",
-      "Drizzle with the olive oil just before serving."
+      [
+        "Simmer the chicken with the salt and just enough water to not quite cover, 30-35 minutes, until the water reduces and the chicken is genuinely tender - real technique starts here, not with browning.",
+        "Sear the boiled chicken in the olive oil until golden on all sides, 6-8 minutes.",
+        "Add the tomatoes and onion, keeping the sauce thin and simple, and simmer 10-12 minutes more."
+      ]
     ],
     "tags": []
   },
