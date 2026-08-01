@@ -1,19 +1,119 @@
 [
   {
-    "name": "Sao Tomean Calulu",
+    "name": "S\u00e3o Tom\u00e9an Calulu",
     "cuisine": "sao-tomean",
     "meal_type": "dinner",
-    "description": "Calulu, dried fish and vegetables stewed with okra, is widely considered S\u00e3o Tom\u00e9 and Pr\u00edncipe's national dish, shared with Angola given the countries' Portuguese colonial history.",
+    "course": "complete",
+    "description": "Calulu is genuinely S\u00e3o Tom\u00e9 and Pr\u00edncipe's national dish - real technique traditionally soaks dried fish overnight to rehydrate before it goes into the pot, and the real, patient version can simmer up to five hours; real palm oil, okra, eggplant, and spinach together are what define it, not a quick weeknight stew.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 150,
+        "note": "standing in for real dried, rehydrated fish"
       },
       {
         "ingredient": "Okra",
-        "qty": 80,
+        "qty": 100,
         "note": "sliced"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 150,
+        "note": "standing in for real dried, rehydrated fish"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion and garlic in the palm oil, 3-4 minutes.",
+      "Add the eggplant and jalape\u00f1o, and simmer 12-15 minutes until the eggplant is nearly tender.",
+      "Add the fish and okra, and simmer 10-12 minutes.",
+      "Add the spinach and simmer 5-8 minutes more until wilted - real calulu traditionally simmers far longer than this for full depth, given the time to do so."
+    ],
+    "steps": [
+      "Cook the onion and garlic in the palm oil, 3-4 minutes.",
+      "Add the eggplant and jalape\u00f1o, and simmer 12-15 minutes until the eggplant is nearly tender.",
+      "Add the fish and okra, and simmer 10-12 minutes.",
+      "Add the spinach and simmer 5-8 minutes more until wilted - real calulu traditionally simmers far longer than this for full depth, given the time to do so."
+    ],
+    "tags": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9an Molho de Cacau",
+    "cuisine": "sao-tomean",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Molho de cacau, a real sweet-savory sauce made from cocoa, genuinely reflects S\u00e3o Tom\u00e9's identity as one of the 'Chocolate Islands' - real cocoa pulp isn't a distinct item here, so unsweetened cocoa powder stands in, missing the fresh pulp's real bright, fruity tang.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cocoa, dry powder, unsweetened",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -21,9 +121,201 @@
         "note": ""
       },
       {
-        "ingredient": "Sweet potato",
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cocoa, dry powder, unsweetened",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
-        "note": "cubed"
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in a little oil, 3-4 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Whisk in the cocoa powder and honey, and simmer 5 minutes more, balancing real sweet against real savory."
+    ],
+    "steps": [
+      "Cook the onion in a little oil, 3-4 minutes.",
+      "Add the tomatoes and simmer 8-10 minutes.",
+      "Whisk in the cocoa powder and honey, and simmer 5 minutes more, balancing real sweet against real savory."
+    ],
+    "tags": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9an Feijoada Santomense",
+    "cuisine": "sao-tomean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Feijoada santomense, a real bean stew with pork, adapts the Portuguese classic with local beans and real palm oil, a beloved dish for social gatherings and celebrations.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": "standing in for pork"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": "standing in for pork"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion in the palm oil, 6-7 minutes.",
+      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+    ],
+    "steps": [
+      "Brown the beef with the onion in the palm oil, 6-7 minutes.",
+      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9an Funge",
+    "cuisine": "sao-tomean",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Funge, a smooth cassava or plantain starch, is the real, traditional accompaniment to calulu, real technique beating the flour into boiling water gradually to keep it smooth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "boiled and mashed, standing in for cassava flour"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 200,
+        "note": "boiled and mashed, standing in for cassava flour"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the cassava until completely soft, 20-25 minutes.",
+      "Mash and beat vigorously until smooth and cohesive."
+    ],
+    "steps": [
+      "Boil the cassava until completely soft, 20-25 minutes.",
+      "Mash and beat vigorously until smooth and cohesive."
+    ],
+    "tags": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9an Blabl\u00e1",
+    "cuisine": "sao-tomean",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Blabl\u00e1, mashed breadfruit, is a genuine island side dish - real breadfruit isn't a distinct item here, so yam stands in for a similarly starchy, mashable texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yam, raw",
+        "qty": 200,
+        "note": "peeled and cubed, standing in for breadfruit"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yam, raw",
+        "qty": 200,
+        "note": "peeled and cubed, standing in for breadfruit"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the yam until completely soft, 20-22 minutes.",
+      "Mash until smooth."
+    ],
+    "steps": [
+      "Boil the yam until completely soft, 20-22 minutes.",
+      "Mash until smooth."
+    ],
+    "tags": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9an Peixe Assado",
+    "cuisine": "sao-tomean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Peixe assado, whole grilled fish seasoned simply with lime and salt, is a real, ubiquitous coastal dish across the islands.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp, standing in for lime"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -33,310 +325,92 @@
         "note": ""
       },
       {
-        "ingredient": "Okra",
-        "qty": 80,
-        "note": "sliced"
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp, standing in for lime"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Sweet potato",
-        "qty": 100,
-        "note": "cubed"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the sweet potato in the tomatoes and a splash of water 10 minutes.",
-      "Add the fish and okra, and simmer 12-15 minutes until the fish is cooked through and the sauce has thickened."
+      "Rub the fish with the lemon juice and salt, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Simmer the sweet potato in the tomatoes and a splash of water 10 minutes.",
-      "Add the fish and okra, and simmer 12-15 minutes until the fish is cooked through and the sauce has thickened."
+      "Rub the fish with the lemon juice and salt, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Sao Tomean Chocolate Cake",
+    "name": "S\u00e3o Tom\u00e9an Arroz Doce de Coco",
     "cuisine": "sao-tomean",
     "meal_type": "snack",
-    "description": "S\u00e3o Tom\u00e9's cacao is world-renowned among chocolate makers, the island being one of the historic centers of cocoa production - real cocoa powder makes this genuinely representative of the island's most significant crop.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Cocoa powder",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Cocoa powder",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flour, cocoa powder, and sugar.",
-      "Whisk in the melted butter and egg.",
-      "Bake at 350F (175C) for 22-25 minutes until set."
-    ],
-    "steps": [
-      "Mix the flour, cocoa powder, and sugar.",
-      "Whisk in the melted butter and egg.",
-      "Bake at 350F (175C) for 22-25 minutes until set."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Grilled Fish",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and pepper, reflecting S\u00e3o Tom\u00e9 and Pr\u00edncipe's Gulf of Guinea coastal fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for African bird's eye chili"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for African bird's eye chili"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and jalape\u00f1o.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and jalape\u00f1o.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Fried Plantain",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common S\u00e3o Tomean side dish, shared across the wider Gulf of Guinea region.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Fufu",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "Fufu, cassava pounded into a smooth, stretchy dough, is a genuine S\u00e3o Tomean staple, closely related to fufu found across much of Central Africa.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cassava",
-        "qty": 250,
-        "note": "boiled"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cassava",
-        "qty": 250,
-        "note": "boiled"
-      }
-    ],
-    "steps_detailed": [
-      "Boil the cassava until completely soft, 20-25 minutes.",
-      "Drain and pound vigorously until smooth and stretchy."
-    ],
-    "steps": [
-      "Boil the cassava until completely soft, 20-25 minutes.",
-      "Drain and pound vigorously until smooth and stretchy."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Groundnut Chicken",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "Chicken stewed in real ground peanut sauce, a beloved S\u00e3o Tomean dish reflecting the wider Gulf of Guinea peanut-stew tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the chicken, 6-7 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
-      "Simmer 25-28 minutes until the chicken is very tender."
-    ],
-    "steps": [
-      "Brown the chicken, 6-7 minutes.",
-      "Whisk the peanut butter with the tomatoes and a little water, then add to the pot.",
-      "Simmer 25-28 minutes until the chicken is very tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Rice with Beans",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "A simple rice and bean dish, common S\u00e3o Tomean home cooking.",
+    "course": "complete",
+    "description": "Arroz doce de coco, a real coconut rice pudding, is a beloved, simple island dessert, reflecting genuine Portuguese culinary influence.",
     "ingredients_full": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp, for dusting"
       }
     ],
     "ingredients": [
       {
         "ingredient": "White rice (dry)",
-        "qty": 55,
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
-        "note": ""
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp, for dusting"
       }
     ],
     "steps_detailed": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+      "Simmer the rice with the coconut milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
+      "Dust with cinnamon before serving."
     ],
     "steps": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+      "Simmer the rice with the coconut milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
+      "Dust with cinnamon before serving."
     ],
     "tags": []
   },
   {
-    "name": "Sao Tomean Beignets",
+    "name": "S\u00e3o Tom\u00e9an P\u00e3o Doce",
     "cuisine": "sao-tomean",
     "meal_type": "breakfast",
-    "description": "Beignets, sweet fried dough balls, a beloved S\u00e3o Tomean breakfast snack shared across much of West and Central Africa.",
+    "course": "complete",
+    "description": "P\u00e3o doce, a real sweet bread, reflects genuine Portuguese baking tradition and is found in bakeries across the islands.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -349,14 +423,19 @@
         "note": "tbsp"
       },
       {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
         "ingredient": "Baking powder",
         "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -371,9 +450,54 @@
         "note": "tbsp"
       },
       {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
         "ingredient": "Baking powder",
         "qty": 0.75,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, sugar, softened butter, baking powder, and egg with a little water into a soft dough.",
+      "Shape into a small round loaf and bake at 350F (175C) for 20-22 minutes until golden."
+    ],
+    "steps": [
+      "Mix the flour, sugar, softened butter, baking powder, and egg with a little water into a soft dough.",
+      "Shape into a small round loaf and bake at 350F (175C) for 20-22 minutes until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9an Fried Breadfruit",
+    "cuisine": "sao-tomean",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Fried breadfruit is a common island snack - real breadfruit isn't a distinct item here, so plantain stands in for a similarly starchy fried snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced, standing in for breadfruit"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced, standing in for breadfruit"
       },
       {
         "ingredient": "Vegetable oil",
@@ -382,19 +506,18 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+      "Fry the plantain slices, turning, 3-4 minutes per side, until golden and crisp at the edges."
     ],
     "steps": [
-      "Whisk the flour, sugar, and baking powder with water into a thick batter.",
-      "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+      "Fry the plantain slices, turning, 3-4 minutes per side, until golden and crisp at the edges."
     ],
     "tags": []
   },
   {
-    "name": "Sao Tomean Roasted Peanuts",
+    "name": "S\u00e3o Tom\u00e9an Roasted Peanuts",
     "cuisine": "sao-tomean",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across S\u00e3o Tom\u00e9 and Pr\u00edncipe.",
     "ingredients_full": [
       {
@@ -419,159 +542,11 @@
     "tags": []
   },
   {
-    "name": "Sao Tomean Grilled Chicken",
+    "name": "S\u00e3o Tom\u00e9an Beef and Vegetable Stew",
     "cuisine": "sao-tomean",
     "meal_type": "dinner",
-    "description": "Grilled chicken marinated with garlic and pepper, a common S\u00e3o Tomean way of preparing meat.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for African bird's eye chili"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for African bird's eye chili"
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the chicken in the garlic and jalape\u00f1o for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "steps": [
-      "Marinate the chicken in the garlic and jalape\u00f1o for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Okra Stew",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "Okra stew, thickened naturally by okra's sliminess, a genuine S\u00e3o Tomean home-cooking staple.",
-    "ingredients_full": [
-      {
-        "ingredient": "Okra",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Okra",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Add the okra and simmer 6-8 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Sweet Potato Fritters",
-    "cuisine": "sao-tomean",
-    "meal_type": "snack",
-    "description": "Simple fried sweet potato fritters, a common S\u00e3o Tomean snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Beef and Vegetable Stew",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "A simple, hearty beef and vegetable stew, common S\u00e3o Tomean home cooking.",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common home cooking across S\u00e3o Tom\u00e9 and Pr\u00edncipe.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -591,6 +566,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -614,171 +594,6 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Cassava Chips",
-    "cuisine": "sao-tomean",
-    "meal_type": "snack",
-    "description": "Simple fried cassava chips, a common S\u00e3o Tomean snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cassava",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cassava",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
-    ],
-    "steps": [
-      "Fry the cassava slices, turning, 4-5 minutes, until golden and crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Coleslaw",
-    "cuisine": "sao-tomean",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common S\u00e3o Tomean side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Tropical Fruit Salad",
-    "cuisine": "sao-tomean",
-    "meal_type": "snack",
-    "description": "A simple tropical fruit salad, built on S\u00e3o Tom\u00e9 and Pr\u00edncipe's abundant local fruit.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pineapple and papaya together."
-    ],
-    "steps": [
-      "Toss the pineapple and papaya together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Beans in Tomato Sauce",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "A simple bean stew, common S\u00e3o Tomean home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
       },
       {
         "ingredient": "Yellow onion",
@@ -787,145 +602,12 @@
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Hot Chocolate",
-    "cuisine": "sao-tomean",
-    "meal_type": "snack",
-    "description": "Hot chocolate built on real cocoa, honoring S\u00e3o Tom\u00e9 and Pr\u00edncipe's historic status as a major cacao-producing island.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cocoa powder",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cocoa powder",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the cocoa powder and sugar with a splash of the milk into a smooth paste.",
-      "Add the remaining milk and warm through, whisking, 4-5 minutes."
-    ],
-    "steps": [
-      "Whisk the cocoa powder and sugar with a splash of the milk into a smooth paste.",
-      "Add the remaining milk and warm through, whisking, 4-5 minutes."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Peanut Sauce",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many S\u00e3o Tomean stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
-      "Simmer 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Sao Tomean Tomato Pepper Sauce",
-    "cuisine": "sao-tomean",
-    "meal_type": "dinner",
-    "description": "A simple tomato-pepper sauce base, used across many S\u00e3o Tomean stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for African bird's eye chili"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": "standing in for African bird's eye chili"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   }

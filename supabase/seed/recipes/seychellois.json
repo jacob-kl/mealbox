@@ -1,13 +1,39 @@
 [
   {
-    "name": "Seychellois Fish Curry",
+    "name": "Seychellois Kari Koko (Fish Curry)",
     "cuisine": "seychellois",
     "meal_type": "dinner",
-    "description": "Fish curry, cooked in real coconut milk with turmeric and ginger, is widely considered Seychelles's national dish, reflecting genuine Indian, African, and French Creole culinary threads.",
+    "course": "complete",
+    "description": "Kari koko, coconut fish curry, is what most Seychellois point to as their real signature dish - real technique caramelizes the onion first, then blooms real massal\u00e9 (garam masala) in the oil before the coconut milk and fish go in, building genuine depth rather than just simmering everything together at once.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
         "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.75,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
         "note": ""
       },
       {
@@ -16,19 +42,9 @@
         "note": "cup"
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Jalapeno pepper",
         "qty": 0.5,
-        "note": "tsp, grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "note": ""
       }
     ],
     "ingredients": [
@@ -38,48 +54,68 @@
         "note": ""
       },
       {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
+        "ingredient": "Yellow onion",
+        "qty": 60,
         "note": ""
       },
       {
+        "ingredient": "Garam masala",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Fresh ginger",
-        "qty": 0.5,
+        "qty": 0.75,
         "note": "tsp, grated"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the garlic and ginger in a little oil 1 minute.",
-      "Add the turmeric and coconut milk, and simmer 5-6 minutes.",
+      "Fry the onion in a little oil over medium heat, stirring, 6-7 minutes, until it begins to caramelize.",
+      "Stir in the garam masala and cook 2-3 minutes to bloom the spices - this real step builds genuine depth.",
+      "Add the ginger, garlic, tomatoes, and jalape\u00f1o, and cook 4-5 minutes.",
+      "Add the coconut milk and bring to a simmer.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "steps": [
-      "Cook the garlic and ginger in a little oil 1 minute.",
-      "Add the turmeric and coconut milk, and simmer 5-6 minutes.",
+      "Fry the onion in a little oil over medium heat, stirring, 6-7 minutes, until it begins to caramelize.",
+      "Stir in the garam masala and cook 2-3 minutes to bloom the spices - this real step builds genuine depth.",
+      "Add the ginger, garlic, tomatoes, and jalape\u00f1o, and cook 4-5 minutes.",
+      "Add the coconut milk and bring to a simmer.",
       "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Seychellois Ladob",
+    "name": "Seychellois Ladob Banan",
     "cuisine": "seychellois",
     "meal_type": "snack",
-    "description": "Ladob, breadfruit or banana simmered in real coconut milk and vanilla, is a beloved Seychellois dish, served both sweet and savory - real breadfruit isn't a distinct item here, so ripe banana stands in for a similar starchy sweetness.",
+    "course": "complete",
+    "description": "Ladob banan, ripe plantain simmered in lightly spiced coconut milk, is a beloved Seychellois dessert, real technique using genuinely ripe plantain and real nutmeg and vanilla together for its distinctive warm sweetness.",
     "ingredients_full": [
       {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced, standing in for breadfruit"
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced, very ripe"
       },
       {
         "ingredient": "Light coconut milk (canned)",
@@ -87,21 +123,26 @@
         "note": "cup"
       },
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced, standing in for breadfruit"
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced, very ripe"
       },
       {
         "ingredient": "Light coconut milk (canned)",
@@ -109,62 +150,164 @@
         "note": "cup"
       },
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the banana in the coconut milk with the sugar 10-12 minutes until soft.",
-      "Stir in the vanilla off the heat."
+      "Simmer the plantain in the coconut milk, sugar, and nutmeg, 15-18 minutes, until tender and the sauce has thickened slightly.",
+      "Stir in the vanilla off the heat before serving."
     ],
     "steps": [
-      "Simmer the banana in the coconut milk with the sugar 10-12 minutes until soft.",
-      "Stir in the vanilla off the heat."
+      "Simmer the plantain in the coconut milk, sugar, and nutmeg, 15-18 minutes, until tender and the sauce has thickened slightly.",
+      "Stir in the vanilla off the heat before serving."
     ],
     "tags": []
   },
   {
-    "name": "Seychellois Rougaille",
+    "name": "Seychellois Ladob Fruit a Pain",
     "cuisine": "seychellois",
     "meal_type": "dinner",
-    "description": "Rougaille, a tomato-based Creole sauce, is a defining Seychellois dish, reflecting real French Creole culinary roots shared with Mauritius and R\u00e9union.",
+    "course": "side",
+    "description": "Ladob fruit \u00e0 pain, the real savory breadfruit version of ladob, is a genuine Seychellois side dish - real breadfruit isn't a distinct item here, so yam stands in for a similarly starchy, mashable texture.",
     "ingredients_full": [
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
+        "ingredient": "Yam, raw",
+        "qty": 200,
+        "note": "peeled and cubed, standing in for breadfruit"
       },
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
-        "note": "tsp, grated"
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Diced tomatoes (canned)",
+        "ingredient": "Yam, raw",
+        "qty": 200,
+        "note": "peeled and cubed, standing in for breadfruit"
+      },
+      {
+        "ingredient": "Light coconut milk (canned)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the yam in the coconut milk and nutmeg, 20-22 minutes, until tender and the sauce has thickened slightly."
+    ],
+    "steps": [
+      "Simmer the yam in the coconut milk and nutmeg, 20-22 minutes, until tender and the sauce has thickened slightly."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Seychellois Satini Papay (Papaya Chutney)",
+    "cuisine": "seychellois",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Satini papay, a spicy green papaya chutney, is a genuine Seychellois relish, real technique grating the papaya while still green and firm for real crunch.",
+    "ingredients_full": [
+      {
+        "ingredient": "Papayas, raw",
         "qty": 150,
+        "note": "grated, unripe/green"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
         "note": ""
       },
       {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Papayas, raw",
+        "qty": 150,
+        "note": "grated, unripe/green"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the grated papaya with the jalape\u00f1o, onion, ginger, and lemon juice.",
+      "Let sit at least 15 minutes for the flavors to meld."
+    ],
+    "steps": [
+      "Toss the grated papaya with the jalape\u00f1o, onion, ginger, and lemon juice.",
+      "Let sit at least 15 minutes for the flavors to meld."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Seychellois Grilled Fish with Creole Sauce",
+    "cuisine": "seychellois",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish with a real tangy, spicy Creole sauce is a beloved Seychellois staple, often cooked over coconut-husk coals for real distinctive aroma.",
+    "ingredients_full": [
+      {
         "ingredient": "Fish, tilapia, raw",
-        "qty": 180,
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
@@ -173,18 +316,52 @@
         "note": "minced"
       },
       {
-        "ingredient": "Fresh ginger",
+        "ingredient": "Jalapeno pepper",
         "qty": 0.5,
-        "note": "tsp, grated"
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the tomatoes, garlic, and ginger 10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
+      "Grill the fish, 4-5 minutes per side, until just cooked through.",
+      "Meanwhile, cook the onion and garlic 3-4 minutes, then add the tomatoes and jalape\u00f1o, and simmer 12-15 minutes into a tangy sauce.",
+      "Serve the fish topped with the sauce."
     ],
     "steps": [
-      "Simmer the tomatoes, garlic, and ginger 10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
+      "Grill the fish, 4-5 minutes per side, until just cooked through.",
+      "Meanwhile, cook the onion and garlic 3-4 minutes, then add the tomatoes and jalape\u00f1o, and simmer 12-15 minutes into a tangy sauce.",
+      "Serve the fish topped with the sauce."
     ],
     "tags": []
   },
@@ -192,7 +369,8 @@
     "name": "Seychellois Coconut Rice",
     "cuisine": "seychellois",
     "meal_type": "dinner",
-    "description": "Rice cooked in real coconut milk, reflecting Seychelles's coastal culinary tradition.",
+    "course": "side",
+    "description": "Rice cooked in real coconut milk, sometimes with a real pinch of saffron, a common Seychellois accompaniment to curry.",
     "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
@@ -203,6 +381,11 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Spices, saffron",
+        "qty": 1,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -215,180 +398,100 @@
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
+      },
+      {
+        "ingredient": "Spices, saffron",
+        "qty": 1,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Soak the saffron in a tablespoon of warm water for 10 minutes.",
+      "Cook the rice with the coconut milk in place of some of the water, along with the saffron and its soaking water, per package timing, until tender."
     ],
     "steps": [
-      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
+      "Soak the saffron in a tablespoon of warm water for 10 minutes.",
+      "Cook the rice with the coconut milk in place of some of the water, along with the saffron and its soaking water, per package timing, until tender."
     ],
     "tags": []
   },
   {
-    "name": "Seychellois Grilled Fish",
-    "cuisine": "seychellois",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting Seychelles's Indian Ocean coastal fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Chatini",
-    "cuisine": "seychellois",
-    "meal_type": "lunch",
-    "description": "Chatini, a fresh chutney-style relish, often made with tomato or fruit, a common Seychellois condiment.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 30,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 30,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss everything together."
-    ],
-    "steps": [
-      "Toss everything together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Samosas",
+    "name": "Seychellois Kato Nwar",
     "cuisine": "seychellois",
     "meal_type": "snack",
-    "description": "Samosas, fried triangular pastries with a spiced filling, reflect genuine Indian Ocean culinary influence and are a beloved Seychellois snack.",
+    "course": "complete",
+    "description": "Kato nwar, a traditional coconut spice cake, is a beloved Seychellois treat, real technique using real grated coconut worked directly into the batter.",
     "ingredients_full": [
       {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
+        "ingredient": "All-purpose flour",
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
+        "ingredient": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 30,
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
         "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Phyllo dough",
-        "qty": 3,
-        "note": "sheets"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 100,
+        "ingredient": "All-purpose flour",
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 0.75,
+        "ingredient": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 30,
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
         "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion and curry powder, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
+      "Cream the butter and sugar, then mix in the egg, flour, coconut, and cinnamon into a smooth batter.",
+      "Bake at 350F (175C) for 22-25 minutes until golden and set."
     ],
     "steps": [
-      "Brown the beef with the onion and curry powder, 6-7 minutes.",
-      "Cut the phyllo into strips, fill, and fold into triangles.",
-      "Fry, turning, 3-4 minutes, until deeply golden."
+      "Cream the butter and sugar, then mix in the egg, flour, coconut, and cinnamon into a smooth batter.",
+      "Bake at 350F (175C) for 22-25 minutes until golden and set."
     ],
     "tags": []
   },
@@ -396,7 +499,8 @@
     "name": "Seychellois Chicken Curry",
     "cuisine": "seychellois",
     "meal_type": "dinner",
-    "description": "A coconut-based chicken curry, reflecting Seychelles's genuine Indian and French Creole culinary heritage.",
+    "course": "complete",
+    "description": "Chicken curry, spiced with real turmeric, cumin, and coriander, is a beloved everyday Seychellois dish, real technique building the spice base before the coconut milk goes in.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -404,18 +508,28 @@
         "note": ""
       },
       {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
       }
     ],
@@ -426,79 +540,90 @@
         "note": ""
       },
       {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Light coconut milk (canned)",
         "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the curry powder in a little oil 30 seconds.",
-      "Add the chicken and tomatoes, and cook 8-9 minutes.",
-      "Add the coconut milk and simmer 12-15 minutes until tender."
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the turmeric, cumin, and coriander, and cook 1-2 minutes until fragrant.",
+      "Add the coconut milk and simmer 20-22 minutes until the chicken is tender."
     ],
     "steps": [
-      "Cook the curry powder in a little oil 30 seconds.",
-      "Add the chicken and tomatoes, and cook 8-9 minutes.",
-      "Add the coconut milk and simmer 12-15 minutes until tender."
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the turmeric, cumin, and coriander, and cook 1-2 minutes until fragrant.",
+      "Add the coconut milk and simmer 20-22 minutes until the chicken is tender."
     ],
     "tags": []
   },
   {
-    "name": "Seychellois Bouillon Bred",
+    "name": "Seychellois Breadfruit Chips",
     "cuisine": "seychellois",
-    "meal_type": "lunch",
-    "description": "Bouyon bred, a light broth with mixed leafy greens, a genuine Seychellois home-cooking staple.",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Breadfruit chips are a beloved crunchy Seychellois snack - real breadfruit isn't a distinct item here, so yam stands in for a similarly starchy fried chip.",
     "ingredients_full": [
       {
-        "ingredient": "Baby spinach",
-        "qty": 200,
-        "note": ""
+        "ingredient": "Yam, raw",
+        "qty": 150,
+        "note": "very thinly sliced, standing in for breadfruit"
       },
       {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Baby spinach",
-        "qty": 200,
-        "note": ""
+        "ingredient": "Yam, raw",
+        "qty": 150,
+        "note": "very thinly sliced, standing in for breadfruit"
       },
       {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the broth with the garlic 3-4 minutes.",
-      "Add the spinach and simmer 5-6 minutes until wilted."
+      "Fry the thin yam slices in batches, turning, 3-4 minutes, until golden and crisp.",
+      "Season with salt while still hot."
     ],
     "steps": [
-      "Simmer the broth with the garlic 3-4 minutes.",
-      "Add the spinach and simmer 5-6 minutes until wilted."
+      "Fry the thin yam slices in batches, turning, 3-4 minutes, until golden and crisp.",
+      "Season with salt while still hot."
     ],
     "tags": []
   },
@@ -506,6 +631,7 @@
     "name": "Seychellois Roasted Peanuts",
     "cuisine": "seychellois",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Seychelles.",
     "ingredients_full": [
       {
@@ -530,83 +656,10 @@
     "tags": []
   },
   {
-    "name": "Seychellois Fried Plantain",
-    "cuisine": "seychellois",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Seychellois side dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Tropical Fruit Salad",
-    "cuisine": "seychellois",
-    "meal_type": "snack",
-    "description": "A simple tropical fruit salad, built on Seychelles's abundant local fruit.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pineapple and papaya together."
-    ],
-    "steps": [
-      "Toss the pineapple and papaya together."
-    ],
-    "tags": []
-  },
-  {
     "name": "Seychellois Beef and Vegetable Stew",
     "cuisine": "seychellois",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Seychellois home cooking.",
     "ingredients_full": [
       {
@@ -628,6 +681,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -650,362 +708,20 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Coleslaw",
-    "cuisine": "seychellois",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Seychellois side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Vanilla Rice Pudding",
-    "cuisine": "seychellois",
-    "meal_type": "snack",
-    "description": "A simple rice pudding flavored with real vanilla, a beloved Seychellois dessert.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
-      "Stir in the vanilla off the heat."
-    ],
-    "steps": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
-      "Stir in the vanilla off the heat."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Grilled Shrimp",
-    "cuisine": "seychellois",
-    "meal_type": "dinner",
-    "description": "Grilled shrimp marinated in garlic and lemon, reflecting Seychelles's rich Indian Ocean waters and fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the shrimp in the garlic and lemon juice 15 minutes.",
-      "Grill or saut\u00e9, 3-4 minutes, until just pink and cooked through."
-    ],
-    "steps": [
-      "Marinate the shrimp in the garlic and lemon juice 15 minutes.",
-      "Grill or saut\u00e9, 3-4 minutes, until just pink and cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Roasted Chickpea Snack",
-    "cuisine": "seychellois",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Seychelles.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and curry powder.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and curry powder.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Rougaille Sauce",
-    "cuisine": "seychellois",
-    "meal_type": "dinner",
-    "description": "The real Creole tomato base that defines rougaille, made here on its own for use in other dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Turmeric Ginger Sauce",
-    "cuisine": "seychellois",
-    "meal_type": "dinner",
-    "description": "A simple turmeric-ginger sauce, common across Seychellois Creole cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 1,
-        "note": "tsp, grated"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 1,
-        "note": "tsp, grated"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix everything together."
-    ],
-    "steps": [
-      "Mix everything together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Seychellois Coconut Vanilla Drizzle",
-    "cuisine": "seychellois",
-    "meal_type": "snack",
-    "description": "A simple drizzle built on real coconut and vanilla, common Seychellois dessert flavors.",
-    "ingredients_full": [
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Light coconut milk (canned)",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk everything together.",
-      "Drizzle over fruit or rice pudding."
-    ],
-    "steps": [
-      "Whisk everything together.",
-      "Drizzle over fruit or rice pudding."
     ],
     "tags": []
   }

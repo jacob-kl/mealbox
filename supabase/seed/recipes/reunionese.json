@@ -1,18 +1,19 @@
 [
   {
-    "name": "Reunionese Rougaille Saucisse",
+    "name": "Reunionese Cabri Massal\u00e9",
     "cuisine": "reunionese",
     "meal_type": "dinner",
-    "description": "Rougaille saucisse, sausage in a real tomato-Creole sauce, is one of R\u00e9union's most beloved everyday dishes, reflecting genuine French Creole culinary roots.",
+    "course": "complete",
+    "description": "Cabri massal\u00e9, goat curry, is real R\u00e9union's most representative Tamil dish, especially central to Tamil New Year celebrations - real technique dissolves tamarind into the cooking liquid and simmers the meat for a full hour or more with real massal\u00e9 (garam masala) and turmeric, traditionally presented on a banana leaf and eaten by hand; ground lamb stands in here for goat.",
     "ingredients_full": [
       {
-        "ingredient": "Boerewors",
-        "qty": 150,
-        "note": "sliced, standing in for local Creole sausage"
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into chunks, standing in for goat"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
+        "ingredient": "Yellow onion",
+        "qty": 60,
         "note": ""
       },
       {
@@ -22,29 +23,185 @@
       },
       {
         "ingredient": "Fresh ginger",
-        "qty": 0.5,
+        "qty": 1,
         "note": "tsp, grated"
       },
       {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp, standing in for tamarind"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 220,
+        "note": "formed into chunks, standing in for goat"
+      },
+      {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp, standing in for tamarind"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb, 8-9 minutes, then add the onion and cook 3-4 minutes.",
+      "Add the garlic and ginger, cooking 2 minutes, then the tomatoes and cook 5 minutes.",
+      "Add the garam masala and turmeric, and cook 1-2 minutes until fragrant.",
+      "Add the vinegar and enough water to cover, and simmer at least 50-60 minutes - real cabri massal\u00e9 depends on this long simmer for full flavor."
+    ],
+    "steps": [
+      "Brown the lamb, 8-9 minutes, then add the onion and cook 3-4 minutes.",
+      "Add the garlic and ginger, cooking 2 minutes, then the tomatoes and cook 5 minutes.",
+      "Add the garam masala and turmeric, and cook 1-2 minutes until fragrant.",
+      "Add the vinegar and enough water to cover, and simmer at least 50-60 minutes - real cabri massal\u00e9 depends on this long simmer for full flavor."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Reunionese Rougail Saucisse",
+    "cuisine": "reunionese",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Rougail saucisse, sausage in a real chili-tomato sauce, is genuinely R\u00e9union's most iconic everyday dish, real technique crushing real chilies with salt in a mortar before mixing with the cari-cr\u00e9ole spice blend.",
+    "ingredients_full": [
+      {
+        "ingredient": "Boerewors",
+        "qty": 200,
+        "note": "standing in for local sausage, sliced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "generous"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
         "note": ""
       }
     ],
     "ingredients": [
       {
         "ingredient": "Boerewors",
-        "qty": 150,
-        "note": "sliced, standing in for local Creole sausage"
+        "qty": 200,
+        "note": "standing in for local sausage, sliced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "generous"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Crush the jalape\u00f1o with a pinch of salt.",
+      "Brown the sausage in a little oil, 6-7 minutes.",
+      "Add the onion, cumin, and turmeric, and cook 3-4 minutes.",
+      "Add the tomatoes and crushed jalape\u00f1o, and simmer 18-20 minutes until thickened."
+    ],
+    "steps": [
+      "Crush the jalape\u00f1o with a pinch of salt.",
+      "Brown the sausage in a little oil, 6-7 minutes.",
+      "Add the onion, cumin, and turmeric, and cook 3-4 minutes.",
+      "Add the tomatoes and crushed jalape\u00f1o, and simmer 18-20 minutes until thickened."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Reunionese Bouillon Larson",
+    "cuisine": "reunionese",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Bouillon larson, a real spiced lentil sauce, is the traditional accompaniment to cabri massal\u00e9, real technique built on cumin, cloves, mustard, garlic, and ginger together.",
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 55,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1.5,
+        "qty": 1,
         "note": "minced"
       },
       {
@@ -53,18 +210,72 @@
         "note": "tsp, grated"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.5,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.25,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the sausage with the onion, garlic, and ginger, 8-9 minutes.",
-      "Add the tomatoes and simmer 15-18 minutes until thickened."
+      "Cook the garlic and ginger in a little oil, 1-2 minutes.",
+      "Add the cumin, cloves, mustard, and turmeric, and cook 1 minute until fragrant.",
+      "Add the lentils and 1.5 cups water, and simmer 20-22 minutes until tender."
     ],
     "steps": [
-      "Brown the sausage with the onion, garlic, and ginger, 8-9 minutes.",
-      "Add the tomatoes and simmer 15-18 minutes until thickened."
+      "Cook the garlic and ginger in a little oil, 1-2 minutes.",
+      "Add the cumin, cloves, mustard, and turmeric, and cook 1 minute until fragrant.",
+      "Add the lentils and 1.5 cups water, and simmer 20-22 minutes until tender."
     ],
     "tags": []
   },
@@ -72,7 +283,8 @@
     "name": "Reunionese Cari Poulet",
     "cuisine": "reunionese",
     "meal_type": "dinner",
-    "description": "Cari poulet, chicken curry cooked R\u00e9union-style with real turmeric and garlic, a defining dish of the island's Creole cooking.",
+    "course": "complete",
+    "description": "Cari poulet, chicken curry, is the most common everyday cari in R\u00e9union, real technique built on real onion, turmeric, chili, tomato, thyme, and garlic, finished with real massal\u00e9.",
     "ingredients_full": [
       {
         "ingredient": "Chicken thigh (raw)",
@@ -80,24 +292,39 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
+        "ingredient": "Yellow onion",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -107,94 +334,178 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
+        "ingredient": "Yellow onion",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garam masala",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken with the onion, garlic, and turmeric, 8-9 minutes.",
-      "Add the tomatoes and a splash of water, and simmer 25-28 minutes until tender."
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the turmeric, jalape\u00f1o, tomatoes, thyme, and garlic, and simmer 20-22 minutes until the chicken is tender.",
+      "Stir in the garam masala in the last 5 minutes as a real finishing flourish."
     ],
     "steps": [
-      "Brown the chicken with the onion, garlic, and turmeric, 8-9 minutes.",
-      "Add the tomatoes and a splash of water, and simmer 25-28 minutes until tender."
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the turmeric, jalape\u00f1o, tomatoes, thyme, and garlic, and simmer 20-22 minutes until the chicken is tender.",
+      "Stir in the garam masala in the last 5 minutes as a real finishing flourish."
     ],
     "tags": []
   },
   {
-    "name": "Reunionese Riz Cari",
+    "name": "Reunionese Rougail Tomate",
     "cuisine": "reunionese",
-    "meal_type": "dinner",
-    "description": "Riz cari, rice served alongside a R\u00e9union-style curry, the essential everyday meal structure across the island.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Rougail tomate, a fresh, uncooked tomato relish, is a genuine keystone condiment across R\u00e9union, real technique building balance from onion, garlic, ginger, turmeric, and a touch of chili - never overcooked.",
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": ""
-      },
-      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.25,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Spices, turmeric, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
         "qty": 0.25,
         "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
-        "note": ""
-      },
-      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 0.25,
+        "note": "tsp, grated"
       },
       {
         "ingredient": "Spices, turmeric, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
         "qty": 0.25,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the rice separately.",
-      "Brown the chicken with the turmeric, 6-7 minutes, then add the tomatoes and simmer 20-22 minutes.",
-      "Serve the curry over the rice."
+      "Mix everything together and let sit at least 10-15 minutes for the flavors to meld - real rougail is meant to stay fresh and bright, not cooked down."
     ],
     "steps": [
-      "Cook the rice separately.",
-      "Brown the chicken with the turmeric, 6-7 minutes, then add the tomatoes and simmer 20-22 minutes.",
-      "Serve the curry over the rice."
+      "Mix everything together and let sit at least 10-15 minutes for the flavors to meld - real rougail is meant to stay fresh and bright, not cooked down."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Reunionese Brede Stir-fry",
+    "cuisine": "reunionese",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Brede, leafy greens stir-fried simply, is a common R\u00e9union side dish, real technique keeping the seasoning minimal so the greens' own flavor carries the dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the garlic in the oil, 30 seconds.",
+      "Add the spinach and stir-fry 4-5 minutes until just wilted."
+    ],
+    "steps": [
+      "Cook the garlic in the oil, 30 seconds.",
+      "Add the spinach and stir-fry 4-5 minutes until just wilted."
     ],
     "tags": []
   },
@@ -202,7 +513,8 @@
     "name": "Reunionese Samoussas",
     "cuisine": "reunionese",
     "meal_type": "snack",
-    "description": "Samoussas, fried triangular pastries with a spiced filling, reflect genuine Indian culinary influence and are a beloved R\u00e9union snack.",
+    "course": "complete",
+    "description": "Samoussas, fried triangular pastries reflecting R\u00e9union's real Indian culinary influence, a beloved snack found across the island.",
     "ingredients_full": [
       {
         "ingredient": "Phyllo dough",
@@ -266,183 +578,6 @@
       "Brown the beef with the onion and curry powder, 6-7 minutes.",
       "Cut the phyllo into strips, fill, and fold into triangles.",
       "Fry, turning, 3-4 minutes, until deeply golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Achard",
-    "cuisine": "reunionese",
-    "meal_type": "lunch",
-    "description": "Achard, tangy pickled vegetables with turmeric, reflects genuine Indian culinary influence and is a beloved R\u00e9union condiment.",
-    "ingredients_full": [
-      {
-        "ingredient": "Carrot",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vinegar, distilled",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Carrot",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vinegar, distilled",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toss the carrot and bell pepper with the vinegar and turmeric.",
-      "Let sit at least 30 minutes before serving."
-    ],
-    "steps": [
-      "Toss the carrot and bell pepper with the vinegar and turmeric.",
-      "Let sit at least 30 minutes before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Bonbon Piment",
-    "cuisine": "reunionese",
-    "meal_type": "snack",
-    "description": "Bonbon piment, fried split-pea and chili fritters, are one of R\u00e9union's most beloved street snacks, closely related to Mauritian g\u00e2teau piment.",
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 60,
-        "note": "soaked and blended coarse"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.75,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 60,
-        "note": "soaked and blended coarse"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.75,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Blend the soaked lentils with the jalape\u00f1o and onion into a coarse batter.",
-      "Shape into small patties and fry, turning, 3-4 minutes per side, until golden."
-    ],
-    "steps": [
-      "Blend the soaked lentils with the jalape\u00f1o and onion into a coarse batter.",
-      "Shape into small patties and fry, turning, 3-4 minutes per side, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Vanilla Rice Pudding",
-    "cuisine": "reunionese",
-    "meal_type": "snack",
-    "description": "A simple rice pudding flavored with real vanilla, honoring R\u00e9union's real status as a historic vanilla-growing island.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
-      "Stir in the vanilla off the heat."
-    ],
-    "steps": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
-      "Stir in the vanilla off the heat."
     ],
     "tags": []
   },
@@ -450,7 +585,8 @@
     "name": "Reunionese Grilled Fish",
     "cuisine": "reunionese",
     "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting R\u00e9union's Indian Ocean coastal fishing tradition.",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting R\u00e9union's rich Indian Ocean fishing tradition.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -464,7 +600,7 @@
       },
       {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
@@ -481,76 +617,17 @@
       },
       {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
       "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Rub the fish with the garlic and lemon juice.",
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
       "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Cari Poisson",
-    "cuisine": "reunionese",
-    "meal_type": "dinner",
-    "description": "Cari poisson, fish curry cooked R\u00e9union-style with real turmeric and ginger, a beloved coastal dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the tomatoes, turmeric, and ginger 8-10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "steps": [
-      "Simmer the tomatoes, turmeric, and ginger 8-10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
   },
@@ -558,6 +635,7 @@
     "name": "Reunionese Roasted Peanuts",
     "cuisine": "reunionese",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across R\u00e9union.",
     "ingredients_full": [
       {
@@ -582,83 +660,10 @@
     "tags": []
   },
   {
-    "name": "Reunionese Fried Plantain",
-    "cuisine": "reunionese",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common R\u00e9union side dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Tropical Fruit Salad",
-    "cuisine": "reunionese",
-    "meal_type": "snack",
-    "description": "A simple tropical fruit salad, built on R\u00e9union's abundant local fruit.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pineapple and papaya together."
-    ],
-    "steps": [
-      "Toss the pineapple and papaya together."
-    ],
-    "tags": []
-  },
-  {
     "name": "Reunionese Beef and Vegetable Stew",
     "cuisine": "reunionese",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common R\u00e9union home cooking.",
     "ingredients_full": [
       {
@@ -680,6 +685,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -702,313 +712,58 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Reunionese Coleslaw",
+    "name": "Reunionese Coconut Rice",
     "cuisine": "reunionese",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common R\u00e9union side.",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Rice cooked in real coconut milk, a common R\u00e9union accompaniment to cari.",
     "ingredients_full": [
       {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Roasted Chickpea Snack",
-    "cuisine": "reunionese",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across R\u00e9union.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and curry powder.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and curry powder.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Vanilla Coconut Drizzle",
-    "cuisine": "reunionese",
-    "meal_type": "snack",
-    "description": "A simple drizzle built on real vanilla, honoring R\u00e9union's real status as a historic vanilla-growing island.",
-    "ingredients_full": [
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
       },
       {
         "ingredient": "Light coconut milk (canned)",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
+        "qty": 0.5,
+        "note": "cup"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
       },
       {
         "ingredient": "Light coconut milk (canned)",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk everything together.",
-      "Drizzle over fruit or rice pudding."
-    ],
-    "steps": [
-      "Whisk everything together.",
-      "Drizzle over fruit or rice pudding."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Chicken Curry",
-    "cuisine": "reunionese",
-    "meal_type": "dinner",
-    "description": "A turmeric-based chicken curry, reflecting R\u00e9union's genuine Indian culinary heritage merged with French Creole technique.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the chicken with the garlic and turmeric, 8-9 minutes.",
-      "Add the tomatoes and simmer 20-22 minutes until tender."
-    ],
-    "steps": [
-      "Brown the chicken with the garlic and turmeric, 8-9 minutes.",
-      "Add the tomatoes and simmer 20-22 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Rougaille Sauce",
-    "cuisine": "reunionese",
-    "meal_type": "dinner",
-    "description": "The real Creole tomato base that defines rougaille, made here on its own for use in other dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
         "qty": 0.5,
-        "note": "tsp, grated"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Fresh ginger",
-        "qty": 0.5,
-        "note": "tsp, grated"
+        "note": "cup"
       }
     ],
     "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
+      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
     ],
     "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Reunionese Turmeric Garlic Sauce",
-    "cuisine": "reunionese",
-    "meal_type": "dinner",
-    "description": "A simple turmeric-garlic sauce, common across R\u00e9union's Creole cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix everything together."
-    ],
-    "steps": [
-      "Mix everything together."
+      "Cook the rice with the coconut milk in place of some of the water, per package timing, until tender."
     ],
     "tags": []
   }
