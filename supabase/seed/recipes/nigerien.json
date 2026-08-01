@@ -1,74 +1,34 @@
 [
   {
-    "name": "Nigerien Riz Gras",
+    "name": "Nigerien Tuwo da Miyar Kuka",
     "cuisine": "nigerien",
     "meal_type": "dinner",
-    "description": "Riz gras, meaning 'fat rice', a rich tomato-and-meat rice dish, a common Nigerien one-pot meal shared across much of West Africa's Sahel.",
-    "ingredients_full": [
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and carrot, and simmer 10 minutes.",
-      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and carrot, and simmer 10 minutes.",
-      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Boule",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "Boule, a stiff millet porridge, is Niger's most essential staple starch, traditionally torn by hand and dipped into sauce - real millet flour isn't a distinct item here, so this leans on cornmeal for a similar stiff, dippable texture.",
+    "course": "complete",
+    "description": "Tuwo da miyar kuka, millet porridge served with a real baobab leaf powder soup, is a beloved Hausa dish - real baobab powder is genuinely available here, not a substitute, giving this version the actual distinctive tangy, slightly mucilaginous character the real dish is known for.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
+        "note": "standing in for millet flour"
+      },
+      {
+        "ingredient": "Baobab powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
         "note": ""
       }
     ],
@@ -76,142 +36,243 @@
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
         "qty": 55,
+        "note": "standing in for millet flour"
+      },
+      {
+        "ingredient": "Baobab powder",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal into 1.25 cups boiling water, then gradually beat in the rest, stirring constantly, over medium-low heat 15-18 minutes, until very thick (tuwo).",
+      "Simmer the chicken with the onion and jalape\u00f1o in 1.5 cups water 20-22 minutes until tender.",
+      "Whisk the real baobab powder into the chicken broth until it dissolves and the soup takes on its distinctive, slightly thickened, tangy character.",
+      "Serve the tuwo alongside the miyar kuka."
     ],
     "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring constantly, over medium-low heat 15-18 minutes until very thick and smooth."
+      "Whisk about a third of the cornmeal into 1.25 cups boiling water, then gradually beat in the rest, stirring constantly, over medium-low heat 15-18 minutes, until very thick (tuwo).",
+      "Simmer the chicken with the onion and jalape\u00f1o in 1.5 cups water 20-22 minutes until tender.",
+      "Whisk the real baobab powder into the chicken broth until it dissolves and the soup takes on its distinctive, slightly thickened, tangy character.",
+      "Serve the tuwo alongside the miyar kuka."
     ],
     "tags": []
   },
   {
-    "name": "Nigerien Millet Porridge",
+    "name": "Nigerien Dambou",
+    "cuisine": "nigerien",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Dambou, steamed grain enriched with leafy greens, is a genuine specialty of the Zarma and Songhai people of southwestern Niger, traditionally served at festive occasions - real dambou uses real moringa leaves, which aren't a distinct item here, so spinach stands in for a milder approximation.",
+    "ingredients_full": [
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": "standing in for millet or fonio couscous"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 150,
+        "note": "standing in for moringa leaves, boiled"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 20,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": "standing in for millet or fonio couscous"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 150,
+        "note": "standing in for moringa leaves, boiled"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 20,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Steam the couscous per package directions until light and fluffy.",
+      "Boil the spinach separately until tender, then drain well.",
+      "Mix the steamed couscous with the boiled spinach, onion, jalape\u00f1o, ground peanuts, and oil, fluffing gently to combine."
+    ],
+    "steps": [
+      "Steam the couscous per package directions until light and fluffy.",
+      "Boil the spinach separately until tender, then drain well.",
+      "Mix the steamed couscous with the boiled spinach, onion, jalape\u00f1o, ground peanuts, and oil, fluffing gently to combine."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Nigerien Taguella",
+    "cuisine": "nigerien",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Taguella, a real Tuareg desert flatbread, is genuinely cooked directly in hot coals or sand, reflecting the resourcefulness of nomadic life in the Agadez region - real technique buries the dough directly in the embers, giving it a real smoky char; this version uses a hot, dry skillet as the practical substitute.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": "standing in for millet flour"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 55,
+        "note": "standing in for millet flour"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cornmeal and salt with enough water to form a firm dough.",
+      "Shape into a flat round and cook in a very hot, dry, heavy skillet, turning occasionally, 12-15 minutes, until deeply charred outside and cooked through - the closest practical approximation of real ember-cooking."
+    ],
+    "steps": [
+      "Mix the cornmeal and salt with enough water to form a firm dough.",
+      "Shape into a flat round and cook in a very hot, dry, heavy skillet, turning occasionally, 12-15 minutes, until deeply charred outside and cooked through - the closest practical approximation of real ember-cooking."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Nigerien Fari Masa",
     "cuisine": "nigerien",
     "meal_type": "breakfast",
-    "description": "A simple sweet millet porridge, built on real millet, a defining crop of Niger's Sahelian farming tradition.",
+    "course": "complete",
+    "description": "Fari masa, small, fluffy fermented rice or millet pancakes, is a beloved Nigerien breakfast and street snack - real technique lets the batter ferment for hours, developing a genuine tang before cooking on the griddle.",
     "ingredients_full": [
       {
-        "ingredient": "Millet, cooked",
-        "qty": 100,
-        "note": ""
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": "cooked and blended smooth"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
+        "ingredient": "Granulated sugar",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Millet, cooked",
-        "qty": 100,
-        "note": ""
+        "ingredient": "White rice (dry)",
+        "qty": 45,
+        "note": "cooked and blended smooth"
       },
       {
-        "ingredient": "Whole milk (generic)",
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Baking powder",
         "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the cooked millet with the milk and honey, stirring often, 8-10 minutes, until warmed through and creamy."
+      "Blend the cooked rice with a little water, the sugar, and baking powder into a smooth batter.",
+      "Let ferment at room temperature 4-6 hours to develop real tang.",
+      "Cook small spoonfuls on a hot, lightly oiled griddle, 2-3 minutes per side, until golden brown and crispy outside, spongy inside."
     ],
     "steps": [
-      "Simmer the cooked millet with the milk and honey, stirring often, 8-10 minutes, until warmed through and creamy."
+      "Blend the cooked rice with a little water, the sugar, and baking powder into a smooth batter.",
+      "Let ferment at room temperature 4-6 hours to develop real tang.",
+      "Cook small spoonfuls on a hot, lightly oiled griddle, 2-3 minutes per side, until golden brown and crispy outside, spongy inside."
     ],
     "tags": []
   },
   {
-    "name": "Nigerien Daraba",
+    "name": "Nigerien Kilishi",
     "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "Daraba, a rich okra and vegetable stew with real ground peanuts, a beloved Nigerien dish, traditionally eaten alongside boule.",
-    "ingredients_full": [
-      {
-        "ingredient": "Okra",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Okra",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Peanut butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, add the tomatoes and okra.",
-      "Simmer 15-18 minutes until well combined and thickened."
-    ],
-    "steps": [
-      "Cook the onion 4-5 minutes.",
-      "Whisk in the peanut butter with a little water, add the tomatoes and okra.",
-      "Simmer 15-18 minutes until well combined and thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Grilled Meat (Tchoukou)",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "Tchoukou, spiced grilled meat, a beloved Nigerien street food shared across the wider Sahel.",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Kilishi, thin strips of beef marinated in a real ginger-garlic-peanut spice paste and sun-dried, is a real Hausa specialty, closely related to suya but dried rather than freshly grilled - this version grills fresh, since real sun-drying isn't practical at home.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "sliced thin"
+        "note": "very thinly sliced"
       },
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
         "qty": 30,
         "note": "ground"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       },
       {
         "ingredient": "Spices, chili powder",
@@ -223,12 +284,22 @@
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "sliced thin"
+        "note": "very thinly sliced"
       },
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
         "qty": 30,
         "note": "ground"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       },
       {
         "ingredient": "Spices, chili powder",
@@ -237,73 +308,32 @@
       }
     ],
     "steps_detailed": [
-      "Mix the ground peanuts with the chili powder.",
-      "Coat the beef in the mixture and grill, turning, 6-8 minutes, until charred."
+      "Mix the ground peanuts, ginger, garlic, and chili powder into a thick paste.",
+      "Coat the thin beef strips generously in the paste.",
+      "Grill or broil, turning, 6-8 minutes, until well charred and cooked through - real kilishi is traditionally sun-dried over days for a jerky-like texture, which this fresh-grilled version doesn't replicate."
     ],
     "steps": [
-      "Mix the ground peanuts with the chili powder.",
-      "Coat the beef in the mixture and grill, turning, 6-8 minutes, until charred."
+      "Mix the ground peanuts, ginger, garlic, and chili powder into a thick paste.",
+      "Coat the thin beef strips generously in the paste.",
+      "Grill or broil, turning, 6-8 minutes, until well charred and cooked through - real kilishi is traditionally sun-dried over days for a jerky-like texture, which this fresh-grilled version doesn't replicate."
     ],
     "tags": []
   },
   {
-    "name": "Nigerien Fish Stew",
+    "name": "Nigerien Djerma Stew",
     "cuisine": "nigerien",
     "meal_type": "dinner",
-    "description": "A tomato-based fish stew, reflecting Niger's fishing tradition along the Niger River.",
+    "course": "complete",
+    "description": "Djerma stew, chicken simmered with real curry powder, carrots, and peanut butter, is a genuine Nigerien specialty, real technique building real depth from the peanut and curry together.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "steps": [
-      "Cook the onion 4-5 minutes, then add the tomatoes and simmer 8-10 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Beans in Groundnut Sauce",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "Beans stewed in real ground peanut sauce, a beloved Nigerien everyday dish.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
@@ -312,15 +342,30 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "ingredient": "Chicken thigh (raw)",
         "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
@@ -329,18 +374,30 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
+        "ingredient": "Curry powder",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with the tomatoes and a little water.",
-      "Add the cowpeas and simmer 15-18 minutes until thickened."
+      "Brown the chicken with the onion, garlic, and curry powder, 8-9 minutes.",
+      "Whisk the peanut butter with a little water, add to the pot along with the carrot.",
+      "Simmer 22-25 minutes until the chicken and carrots are tender."
     ],
     "steps": [
-      "Whisk the peanut butter with the tomatoes and a little water.",
-      "Add the cowpeas and simmer 15-18 minutes until thickened."
+      "Brown the chicken with the onion, garlic, and curry powder, 8-9 minutes.",
+      "Whisk the peanut butter with a little water, add to the pot along with the carrot.",
+      "Simmer 22-25 minutes until the chicken and carrots are tender."
     ],
     "tags": []
   },
@@ -348,7 +405,8 @@
     "name": "Nigerien Beignets",
     "cuisine": "nigerien",
     "meal_type": "breakfast",
-    "description": "Beignets, sweet fried dough balls, a beloved Nigerien breakfast snack shared across much of West Africa.",
+    "course": "complete",
+    "description": "Beignets, sweet fried dough, is a beloved Nigerien breakfast snack shared across much of West Africa.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -400,6 +458,118 @@
     "steps": [
       "Whisk the flour, sugar, and baking powder with water into a thick batter.",
       "Drop spoonfuls into hot oil and fry, turning, 4-5 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Nigerien Riz Gras",
+    "cuisine": "nigerien",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Riz gras, a rich tomato-and-meat rice dish, shared across the Francophone West African region including Niger.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and carrot, and simmer 10 minutes.",
+      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Add the tomatoes and carrot, and simmer 10 minutes.",
+      "Stir in the rice and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Nigerien Grilled Fish",
+    "cuisine": "nigerien",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish, reflecting Niger River fishing tradition in Niamey and Tillab\u00e9ri, real versions simmered simply with tomato and onion.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 6-8 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
+    ],
+    "steps": [
+      "Cook the onion 3-4 minutes, then add the tomatoes and simmer 6-8 minutes.",
+      "Add the fish and simmer 8-10 minutes until just cooked through."
     ],
     "tags": []
   },
@@ -407,7 +577,8 @@
     "name": "Nigerien Roasted Peanuts",
     "cuisine": "nigerien",
     "meal_type": "snack",
-    "description": "A simple roasted peanut snack, groundnuts being a significant Nigerien crop.",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, groundnuts being Niger's primary cash crop.",
     "ingredients_full": [
       {
         "ingredient": "Peanuts, all types, dry-roasted, with salt",
@@ -431,171 +602,60 @@
     "tags": []
   },
   {
-    "name": "Nigerien Dates Snack",
+    "name": "Nigerien Bean Cakes",
     "cuisine": "nigerien",
     "meal_type": "snack",
-    "description": "A simple date snack, dates being a common crop in Niger's drier northern regions.",
+    "course": "complete",
+    "description": "Fried bean cakes, made from a bean flour dough, a common Nigerien snack shared across the wider Sahel.",
     "ingredients_full": [
       {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Serve the dates as-is."
+      "Blend the cowpeas with the onion into a thick batter.",
+      "Fry spoonfuls, turning, 4-5 minutes, until golden."
     ],
     "steps": [
-      "Serve the dates as-is."
+      "Blend the cowpeas with the onion into a thick batter.",
+      "Fry spoonfuls, turning, 4-5 minutes, until golden."
     ],
     "tags": []
   },
   {
-    "name": "Nigerien Beef and Okra Stew",
+    "name": "Nigerien Beef and Vegetable Stew",
     "cuisine": "nigerien",
     "meal_type": "dinner",
-    "description": "A simple, hearty beef and okra stew, common Nigerien home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Okra",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Okra",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the okra and tomatoes, and simmer 25-28 minutes until tender."
-    ],
-    "steps": [
-      "Brown the beef, 8-9 minutes.",
-      "Add the okra and tomatoes, and simmer 25-28 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Fried Plantain",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common side dish in Niger's southern regions.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Roasted Chickpea Snack",
-    "cuisine": "nigerien",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Niger.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and paprika.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and paprika.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Beef Stew",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Nigerien home cooking.",
     "ingredients_full": [
       {
@@ -617,6 +677,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -639,193 +704,81 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Nigerien Bissap",
+    "name": "Nigerien Mint Tea",
     "cuisine": "nigerien",
     "meal_type": "snack",
-    "description": "Bissap, a hibiscus drink, a beloved beverage shared across Niger and the wider Sahelian region.",
+    "course": "complete",
+    "description": "Sweet mint tea, poured with real ceremony, is central to Nigerien hospitality, shared with the wider Sahel and Maghreb tradition.",
     "ingredients_full": [
       {
-        "ingredient": "Beverages, tea, hibiscus, brewed",
-        "qty": 2,
-        "note": "cups"
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.25,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 2,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Beverages, tea, hibiscus, brewed",
-        "qty": 2,
-        "note": "cups"
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 0.25,
+        "note": "cup"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 2,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
+      "Warm the tea with the mint 5 minutes.",
+      "Stir in the sugar until dissolved.",
+      "Pour from a height into small glasses to build a light foam, a genuine part of how it's traditionally served."
     ],
     "steps": [
-      "Warm the hibiscus tea, stir in the sugar, then chill and serve over ice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Cucumber Tomato Salad",
-    "cuisine": "nigerien",
-    "meal_type": "lunch",
-    "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Nigerien meal.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss everything together."
-    ],
-    "steps": [
-      "Toss everything together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Groundnut Soup",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "A simple peanut-based soup, built on real ground peanuts, groundnuts being one of Niger's most significant crops.",
-    "ingredients_full": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Peanut butter",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
-    ],
-    "steps": [
-      "Whisk the peanut butter into the broth and simmer 12-15 minutes until smooth and slightly thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Grilled Fish",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and chili, reflecting Niger's fishing tradition along the Niger River.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, chili powder",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, chili powder",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and chili powder.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and chili powder.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
+      "Warm the tea with the mint 5 minutes.",
+      "Stir in the sugar until dissolved.",
+      "Pour from a height into small glasses to build a light foam, a genuine part of how it's traditionally served."
     ],
     "tags": []
   },
   {
     "name": "Nigerien Peanut Sauce",
     "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "A simple ground-peanut sauce base, used across many Nigerien stews, echoing the flavor of daraba.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple ground-peanut sauce base, echoing the flavor of Djerma stew, used across many Nigerien dishes.",
     "ingredients_full": [
       {
         "ingredient": "Peanut butter",
@@ -851,59 +804,12 @@
       }
     ],
     "steps_detailed": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
       "Simmer 12-15 minutes until thickened."
     ],
     "steps": [
-      "Whisk the peanut butter with 1 cup water and the tomatoes into a smooth sauce.",
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
       "Simmer 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Nigerien Tomato Onion Sauce",
-    "cuisine": "nigerien",
-    "meal_type": "dinner",
-    "description": "A simple tomato-onion sauce base, used across many Nigerien stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
     ],
     "tags": []
   }

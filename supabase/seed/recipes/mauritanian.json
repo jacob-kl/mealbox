@@ -3,7 +3,8 @@
     "name": "Mauritanian Thieboudienne",
     "cuisine": "mauritanian",
     "meal_type": "dinner",
-    "description": "Thi\u00e9boudienne, fish and rice cooked in a tomato-vegetable sauce, is beloved across Mauritania as it is throughout the wider Senegambian coastal region.",
+    "course": "complete",
+    "description": "Thieboudienne, shared with neighboring Senegal, is Mauritania's national dish - real Mauritanian versions genuinely include cabbage and eggplant alongside the more familiar carrot and okra. Real technique builds the dish in layers: season and fry the fish first, cook the vegetables in the tomato broth, then let the rice absorb everything left in the pot at the end.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -11,7 +12,17 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 55,
         "note": ""
       },
@@ -22,12 +33,27 @@
       },
       {
         "ingredient": "Carrot",
-        "qty": 60,
+        "qty": 50,
         "note": ""
       },
       {
         "ingredient": "Green cabbage",
-        "qty": 80,
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 60,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
       }
     ],
@@ -38,7 +64,17 @@
         "note": ""
       },
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Rice, white, long-grain, parboiled, enriched, dry",
         "qty": 55,
         "note": ""
       },
@@ -49,28 +85,45 @@
       },
       {
         "ingredient": "Carrot",
-        "qty": 60,
+        "qty": 50,
         "note": ""
       },
       {
         "ingredient": "Green cabbage",
-        "qty": 80,
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 60,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 50,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the fish briefly, 3-4 minutes per side, then set aside.",
-      "Simmer the tomatoes and 2 cups water 10 minutes.",
-      "Add the carrot and cabbage, and simmer 12-15 minutes.",
-      "Stir in the rice and simmer 18-20 minutes until tender.",
-      "Return the fish to warm through before serving."
+      "Season the fish with the garlic and lemon juice, then fry in a little oil, 3-4 minutes per side, until golden. Set aside.",
+      "Cook the onion in the same pot, 3-4 minutes, then add the tomatoes and 2 cups water and simmer 10 minutes.",
+      "Add the carrot, cabbage, and eggplant, and simmer 12-15 minutes until nearly tender.",
+      "Add the okra and simmer 5 minutes more.",
+      "Stir in the rice and simmer 18-20 minutes until tender, letting it absorb everything left in the pot.",
+      "Return the fried fish to warm through before serving."
     ],
     "steps": [
-      "Brown the fish briefly, 3-4 minutes per side, then set aside.",
-      "Simmer the tomatoes and 2 cups water 10 minutes.",
-      "Add the carrot and cabbage, and simmer 12-15 minutes.",
-      "Stir in the rice and simmer 18-20 minutes until tender.",
-      "Return the fish to warm through before serving."
+      "Season the fish with the garlic and lemon juice, then fry in a little oil, 3-4 minutes per side, until golden. Set aside.",
+      "Cook the onion in the same pot, 3-4 minutes, then add the tomatoes and 2 cups water and simmer 10 minutes.",
+      "Add the carrot, cabbage, and eggplant, and simmer 12-15 minutes until nearly tender.",
+      "Add the okra and simmer 5 minutes more.",
+      "Stir in the rice and simmer 18-20 minutes until tender, letting it absorb everything left in the pot.",
+      "Return the fried fish to warm through before serving."
     ],
     "tags": []
   },
@@ -78,7 +131,8 @@
     "name": "Mauritanian Mechoui",
     "cuisine": "mauritanian",
     "meal_type": "dinner",
-    "description": "M\u00e9choui, whole roasted lamb, is a genuine Mauritanian celebration dish reflecting the country's nomadic pastoral heritage, made here as a smaller roasted cut.",
+    "course": "complete",
+    "description": "Mechoui, slow-roasted lamb rubbed with real butter, cumin, garlic, and paprika, is Mauritania's traditional centerpiece for special occasions - real technique roasts the meat until it's genuinely tender enough to pull apart by hand, traditionally cooked over embers on a skewered branch.",
     "ingredients_full": [
       {
         "ingredient": "Ground lamb",
@@ -86,14 +140,24 @@
         "note": "formed into a roast shape"
       },
       {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp, generous"
+      },
+      {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.75,
+        "note": "tsp, generous"
       }
     ],
     "ingredients": [
@@ -103,219 +167,207 @@
         "note": "formed into a roast shape"
       },
       {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp, generous"
+      },
+      {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.75,
+        "note": "tsp, generous"
       }
     ],
     "steps_detailed": [
-      "Rub the lamb with the garlic and cumin.",
-      "Roast at 375F (190C) for 25-28 minutes until cooked through and well browned outside."
+      "Mix the softened butter with the cumin, garlic, and paprika, being generous with the spices, and rub all over the lamb.",
+      "Roast at 325F (165C) for 50-60 minutes, basting occasionally, until genuinely fall-apart tender."
     ],
     "steps": [
-      "Rub the lamb with the garlic and cumin.",
-      "Roast at 375F (190C) for 25-28 minutes until cooked through and well browned outside."
+      "Mix the softened butter with the cumin, garlic, and paprika, being generous with the spices, and rub all over the lamb.",
+      "Roast at 325F (165C) for 50-60 minutes, basting occasionally, until genuinely fall-apart tender."
     ],
     "tags": []
   },
   {
-    "name": "Mauritanian Couscous",
+    "name": "Mauritanian Cherchem",
     "cuisine": "mauritanian",
     "meal_type": "dinner",
-    "description": "Couscous, tiny steamed semolina granules, is a beloved Mauritanian staple, shared with the wider Maghreb and reflecting real Berber culinary roots.",
+    "course": "complete",
+    "description": "Cherchem, durum wheat cooked with beans and mutton, is a genuine Berber-influenced Mauritanian specialty, real technique building real depth from a full blend of oregano, paprika, thyme, bay leaf, and coriander together.",
     "ingredients_full": [
       {
-        "ingredient": "Couscous, dry",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Ground lamb",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Couscous, dry",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Carrot",
-        "qty": 60,
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": "standing in for cracked durum wheat"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": "standing in for cracked durum wheat"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, coriander seed",
         "qty": 0.5,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the chicken, carrot, and cumin in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and broth over the couscous."
+      "Brown the lamb, 6-7 minutes.",
+      "Add the chickpeas, oregano, paprika, thyme, bay leaf, and coriander with 1.5 cups water, and simmer 25-28 minutes.",
+      "Steam the couscous separately and serve the stew over it."
     ],
     "steps": [
-      "Simmer the chicken, carrot, and cumin in 1.5 cups water 25-28 minutes until the chicken is tender.",
-      "Pour the boiling broth over the dry couscous, cover, and let steam 5 minutes, then fluff.",
-      "Serve the stew and broth over the couscous."
+      "Brown the lamb, 6-7 minutes.",
+      "Add the chickpeas, oregano, paprika, thyme, bay leaf, and coriander with 1.5 cups water, and simmer 25-28 minutes.",
+      "Steam the couscous separately and serve the stew over it."
     ],
     "tags": []
   },
   {
-    "name": "Mauritanian Dates with Milk",
-    "cuisine": "mauritanian",
-    "meal_type": "breakfast",
-    "description": "Dates and milk together are a genuine Mauritanian staple pairing, reflecting the country's nomadic Sahelian and desert food traditions.",
-    "ingredients_full": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the dates alongside the milk, a traditional Mauritanian way of eating them together."
-    ],
-    "steps": [
-      "Serve the dates alongside the milk, a traditional Mauritanian way of eating them together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Grilled Fish",
+    "name": "Mauritanian Harira",
     "cuisine": "mauritanian",
     "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting Mauritania's significant Atlantic coastal fishing industry, one of the richest fishing grounds in West Africa.",
+    "course": "complete",
+    "description": "Harira, a tomato-lentil soup with chickpeas, shared with the wider Maghreb, especially eaten during Ramadan.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "ingredient": "Lentils (dry green)",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "steps": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Millet Porridge (Lakh)",
-    "cuisine": "mauritanian",
-    "meal_type": "breakfast",
-    "description": "Lakh, a sweet millet porridge often topped with yogurt, is a genuine Mauritanian and wider Sahelian breakfast staple.",
-    "ingredients_full": [
-      {
-        "ingredient": "Millet, cooked",
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 0.5,
-        "note": "cup"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Millet, cooked",
+        "ingredient": "Ground beef 90/10",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 0.5,
-        "note": "cup"
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Lentils (dry green)",
+        "qty": 40,
+        "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Warm the cooked millet gently.",
-      "Top with the yogurt and honey."
+      "Brown the beef, 5-6 minutes.",
+      "Add the lentils, chickpeas, and tomatoes with 2.5 cups water, and simmer 25-28 minutes until the lentils are tender.",
+      "Stir in the cilantro before serving."
     ],
     "steps": [
-      "Warm the cooked millet gently.",
-      "Top with the yogurt and honey."
+      "Brown the beef, 5-6 minutes.",
+      "Add the lentils, chickpeas, and tomatoes with 2.5 cups water, and simmer 25-28 minutes until the lentils are tender.",
+      "Stir in the cilantro before serving."
     ],
     "tags": []
   },
@@ -323,7 +375,8 @@
     "name": "Mauritanian Mint Tea",
     "cuisine": "mauritanian",
     "meal_type": "snack",
-    "description": "Mint tea, sweetened green tea poured with ceremony across three rounds, is central to Mauritanian hospitality, shared with the wider Maghreb tradition.",
+    "course": "complete",
+    "description": "Mauritanian sweet tea is prepared with a real, distinctive pouring technique called ragwa - raising the teapot high while pouring to build a frothy foam, a genuine ritual repeated across several rounds for guests.",
     "ingredients_full": [
       {
         "ingredient": "Beverages, tea, green, brewed, regular",
@@ -337,7 +390,7 @@
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       }
     ],
@@ -354,68 +407,223 @@
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
       "Warm the tea with the mint 5 minutes.",
-      "Stir in the sugar until dissolved."
+      "Stir in the sugar until dissolved.",
+      "Pour from a real height into small glasses to build a genuine frothy foam - the ragwa technique, repeated several times, is a real, essential part of Mauritanian hospitality."
     ],
     "steps": [
       "Warm the tea with the mint 5 minutes.",
-      "Stir in the sugar until dissolved."
+      "Stir in the sugar until dissolved.",
+      "Pour from a real height into small glasses to build a genuine frothy foam - the ragwa technique, repeated several times, is a real, essential part of Mauritanian hospitality."
     ],
     "tags": []
   },
   {
-    "name": "Mauritanian Beef and Rice",
+    "name": "Mauritanian Mafe (Camel or Beef in Peanut Sauce)",
     "cuisine": "mauritanian",
     "meal_type": "dinner",
-    "description": "A simple beef and rice dish, common Mauritanian home cooking.",
+    "course": "complete",
+    "description": "Mahfe, meat stewed in a real peanut, okra, and tomato sauce, reflects Mauritania's genuine use of camel meat alongside more common beef - beef stands in here as a widely available substitute.",
     "ingredients_full": [
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed, standing in for camel"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 80,
+        "note": "sliced"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed, standing in for camel"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Okra",
+        "qty": 80,
+        "note": "sliced"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Cook the rice separately and serve the beef over it."
+      "Brown the beef, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Add the okra and simmer 25-28 minutes until the beef is tender."
     ],
     "steps": [
-      "Brown the beef, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Cook the rice separately and serve the beef over it."
+      "Brown the beef, 8-9 minutes.",
+      "Whisk the peanut butter with the tomatoes and a little water, add to the pot.",
+      "Add the okra and simmer 25-28 minutes until the beef is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mauritanian Couscous",
+    "cuisine": "mauritanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Mauritanian couscous, real technique steamed two or three times with fluffing between rounds, is prepared numerous ways with vegetable or meat stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Couscous, dry",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the chicken, carrot, and chickpeas in 1.5 cups water 25-28 minutes until the chicken is tender.",
+      "Toss the dry couscous with a little oil and water.",
+      "Steam over the simmering stew for 10 minutes, then fluff and steam again 8-10 minutes for properly light, separate grains.",
+      "Serve the stew and broth over the finished couscous."
+    ],
+    "steps": [
+      "Simmer the chicken, carrot, and chickpeas in 1.5 cups water 25-28 minutes until the chicken is tender.",
+      "Toss the dry couscous with a little oil and water.",
+      "Steam over the simmering stew for 10 minutes, then fluff and steam again 8-10 minutes for properly light, separate grains.",
+      "Serve the stew and broth over the finished couscous."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mauritanian Dates",
+    "cuisine": "mauritanian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Dates are a common Mauritanian snack, adding natural sweetness on their own, real versions eaten simply as they are.",
+    "ingredients_full": [
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Dates, medjool",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve the dates as-is."
+    ],
+    "steps": [
+      "Serve the dates as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mauritanian Grilled Fish",
+    "cuisine": "mauritanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Mauritania's extensive Atlantic coastline near Nouadhibou.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
@@ -423,6 +631,7 @@
     "name": "Mauritanian Roasted Peanuts",
     "cuisine": "mauritanian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Mauritania.",
     "ingredients_full": [
       {
@@ -447,105 +656,10 @@
     "tags": []
   },
   {
-    "name": "Mauritanian Beans in Tomato Sauce",
-    "cuisine": "mauritanian",
-    "meal_type": "dinner",
-    "description": "A simple bean stew, common Mauritanian home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Roasted Chickpea Snack",
-    "cuisine": "mauritanian",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Mauritania.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
     "name": "Mauritanian Beef and Vegetable Stew",
     "cuisine": "mauritanian",
     "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Mauritanian home cooking.",
     "ingredients_full": [
       {
@@ -567,6 +681,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -589,14 +708,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -605,6 +729,7 @@
     "name": "Mauritanian Cucumber Tomato Salad",
     "cuisine": "mauritanian",
     "meal_type": "lunch",
+    "course": "side",
     "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Mauritanian meal.",
     "ingredients_full": [
       {
@@ -621,6 +746,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -638,6 +768,11 @@
         "ingredient": "Lemon juice, raw",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
@@ -649,288 +784,26 @@
     "tags": []
   },
   {
-    "name": "Mauritanian Date Snack",
+    "name": "Mauritanian Harissa Sauce",
     "cuisine": "mauritanian",
-    "meal_type": "snack",
-    "description": "A simple date snack, dates being a significant Mauritanian desert crop.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A fiery chili paste, shared with the wider Maghreb, served alongside thieboudienne and grilled dishes.",
     "ingredients_full": [
       {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the dates as-is."
-    ],
-    "steps": [
-      "Serve the dates as-is."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Grilled Chicken",
-    "cuisine": "mauritanian",
-    "meal_type": "dinner",
-    "description": "Grilled chicken marinated simply with garlic and cumin, a common Mauritanian way of preparing meat.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the chicken in the garlic and cumin for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "steps": [
-      "Marinate the chicken in the garlic and cumin for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Lentil Soup",
-    "cuisine": "mauritanian",
-    "meal_type": "dinner",
-    "description": "A simple, everyday lentil soup, common Mauritanian home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the lentils, onion, and cumin in 2 cups water 20-22 minutes until tender."
-    ],
-    "steps": [
-      "Simmer the lentils, onion, and cumin in 2 cups water 20-22 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Fish and Rice",
-    "cuisine": "mauritanian",
-    "meal_type": "dinner",
-    "description": "A simple fish and rice dish, reflecting Mauritania's rich Atlantic fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice separately.",
-      "Grill or pan-fry the fish with the lemon juice, 4-5 minutes per side.",
-      "Serve the fish over the rice."
-    ],
-    "steps": [
-      "Cook the rice separately.",
-      "Grill or pan-fry the fish with the lemon juice, 4-5 minutes per side.",
-      "Serve the fish over the rice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Coleslaw",
-    "cuisine": "mauritanian",
-    "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Mauritanian side.",
-    "ingredients_full": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Mayonnaise",
-        "qty": 3,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "steps": [
-      "Toss the cabbage and carrot with the mayonnaise."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Tomato Cumin Sauce",
-    "cuisine": "mauritanian",
-    "meal_type": "dinner",
-    "description": "A simple tomato-cumin sauce base, used across many Mauritanian stews.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Mauritanian Garlic Lemon Sauce",
-    "cuisine": "mauritanian",
-    "meal_type": "lunch",
-    "description": "A simple garlic-lemon sauce, common across Mauritanian grilled fish and meat dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Garlic clove",
+        "ingredient": "Jalapeno pepper",
         "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Olive oil",
@@ -940,14 +813,19 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Garlic clove",
+        "ingredient": "Jalapeno pepper",
         "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Olive oil",
@@ -956,10 +834,10 @@
       }
     ],
     "steps_detailed": [
-      "Whisk everything together."
+      "Blend the jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
     ],
     "steps": [
-      "Whisk everything together."
+      "Blend the jalape\u00f1o, garlic, and cumin with the olive oil into a smooth paste."
     ],
     "tags": []
   }
