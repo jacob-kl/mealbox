@@ -3,25 +3,41 @@
     "name": "Djiboutian Skoudehkaris",
     "cuisine": "djiboutian",
     "meal_type": "dinner",
-    "description": "Skoudehkaris, meat and rice cooked together with warming whole spices, is widely considered Djibouti's national dish, reflecting real Yemeni and wider Horn of Africa spice-trade influence.",
+    "course": "complete",
+    "description": "Skoudehkaris, Djibouti's real national dish, is genuinely built on a full, warm spice blend - cumin, cardamom, cinnamon, and cloves together with lamb and rice - real technique braising the meat first until tender before the rice cooks directly in that same spiced broth, absorbing everything.",
     "ingredients_full": [
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Ground lamb",
         "qty": 200,
-        "note": ""
+        "note": "formed into chunks"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
         "qty": 0.5,
         "note": "tsp"
       },
@@ -31,29 +47,54 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Chicken broth",
-        "qty": 0.75,
-        "note": "cup"
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Ground lamb",
         "qty": 200,
-        "note": ""
+        "note": "formed into chunks"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Ground cumin",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
         "qty": 0.5,
         "note": "tsp"
       },
@@ -63,77 +104,112 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Chicken broth",
-        "qty": 0.75,
-        "note": "cup"
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Deeply brown the onion, 10-12 minutes, until golden.",
-      "Add the chicken, cumin, and cinnamon, and brown 6-7 minutes.",
-      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
+      "Brown the lamb with the onion and garlic, 8-9 minutes.",
+      "Add the tomato paste and cook 2 minutes, then add the tomatoes, cumin, cardamom, cinnamon, cloves, and bay leaf.",
+      "Add 1.25 cups water and simmer 25-28 minutes until the meat is tender.",
+      "Stir in the rice, cover, and simmer 18-20 minutes until tender, absorbing the spiced broth."
     ],
     "steps": [
-      "Deeply brown the onion, 10-12 minutes, until golden.",
-      "Add the chicken, cumin, and cinnamon, and brown 6-7 minutes.",
-      "Add the rice and broth, cover, and simmer 18-20 minutes until tender."
+      "Brown the lamb with the onion and garlic, 8-9 minutes.",
+      "Add the tomato paste and cook 2 minutes, then add the tomatoes, cumin, cardamom, cinnamon, cloves, and bay leaf.",
+      "Add 1.25 cups water and simmer 25-28 minutes until the meat is tender.",
+      "Stir in the rice, cover, and simmer 18-20 minutes until tender, absorbing the spiced broth."
     ],
     "tags": []
   },
   {
-    "name": "Djiboutian Fah-Fah",
+    "name": "Djiboutian Fah-fah",
     "cuisine": "djiboutian",
     "meal_type": "dinner",
-    "description": "Fah-fah, a spiced beef soup, is a genuine Djiboutian comfort food shared with the wider Horn of Africa region, closely related to Somali soups.",
+    "course": "complete",
+    "description": "Fah-fah, a hearty spiced meat soup, is a beloved Djiboutian comfort dish, especially popular in the south near the Somali border - real versions genuinely include leeks and cabbage alongside potato, not just a plain meat broth, with green chili for real heat.",
     "ingredients_full": [
       {
-        "ingredient": "Flank/sirloin steak",
+        "ingredient": "Ground lamb",
         "qty": 200,
+        "note": "formed into chunks, standing in for goat"
+      },
+      {
+        "ingredient": "Leeks",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 80,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
         "note": "cubed"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Flank/sirloin steak",
+        "ingredient": "Ground lamb",
         "qty": 200,
+        "note": "formed into chunks, standing in for goat"
+      },
+      {
+        "ingredient": "Leeks",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 80,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
         "note": "cubed"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
         "note": ""
       },
       {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the beef with the tomatoes, cumin, and cardamom in 2 cups water 30-35 minutes until very tender."
+      "Simmer the lamb in 2.5 cups water 25-28 minutes until nearly tender.",
+      "Add the leeks, cabbage, potato, jalape\u00f1o, and tomatoes, and simmer 18-20 minutes more until everything is tender."
     ],
     "steps": [
-      "Simmer the beef with the tomatoes, cumin, and cardamom in 2 cups water 30-35 minutes until very tender."
+      "Simmer the lamb in 2.5 cups water 25-28 minutes until nearly tender.",
+      "Add the leeks, cabbage, potato, jalape\u00f1o, and tomatoes, and simmer 18-20 minutes more until everything is tender."
     ],
     "tags": []
   },
@@ -141,7 +217,8 @@
     "name": "Djiboutian Lahoh",
     "cuisine": "djiboutian",
     "meal_type": "breakfast",
-    "description": "Lahoh, a spongy, fermented flatbread similar to Somali canjeero and Ethiopian injera, is a Djiboutian breakfast staple, traditionally torn and dipped in oil or stew.",
+    "course": "complete",
+    "description": "Lahoh (also called canjeero), a spongy, fermented flatbread with a real honeycomb-bubbled surface, is a Djiboutian breakfast staple, real technique letting the batter ferment before cooking undisturbed on one side only.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -149,8 +226,13 @@
         "note": ""
       },
       {
-        "ingredient": "Vinegar, distilled",
-        "qty": 1,
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
         "note": "tsp"
       }
     ],
@@ -161,91 +243,90 @@
         "note": ""
       },
       {
-        "ingredient": "Vinegar, distilled",
-        "qty": 1,
+        "ingredient": "Cornmeal, degermed, enriched, white",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Whisk the flour, vinegar, and 1 cup water into a thin batter.",
-      "Let sit at room temperature 6-8 hours to develop some tang.",
-      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles form."
+      "Whisk the flour, cornmeal, and baking powder with enough water to form a thin, smooth batter.",
+      "Let ferment at room temperature 3-4 hours until slightly bubbly.",
+      "Pour a thin layer into a hot, lightly oiled non-stick pan, and cook, uncovered, without flipping, 2-3 minutes, until bubbles form across the entire surface and the top is set."
     ],
     "steps": [
-      "Whisk the flour, vinegar, and 1 cup water into a thin batter.",
-      "Let sit at room temperature 6-8 hours to develop some tang.",
-      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles form."
+      "Whisk the flour, cornmeal, and baking powder with enough water to form a thin, smooth batter.",
+      "Let ferment at room temperature 3-4 hours until slightly bubbly.",
+      "Pour a thin layer into a hot, lightly oiled non-stick pan, and cook, uncovered, without flipping, 2-3 minutes, until bubbles form across the entire surface and the top is set."
     ],
     "tags": []
   },
   {
-    "name": "Djiboutian Suqaar",
+    "name": "Djiboutian Sabayaad",
     "cuisine": "djiboutian",
-    "meal_type": "dinner",
-    "description": "Suqaar, small cubes of meat saut\u00e9ed with pepper and onion, a beloved Djiboutian dish shared with Somalia, often served over rice.",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Sabayaad, a layered flatbread, reflects Djibouti's real Yemeni and Somali culinary influence, real technique coiling the dough before flattening to build real flaky layers.",
     "ingredients_full": [
       {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed small"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
+        "ingredient": "All-purpose flour",
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed small"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
+        "ingredient": "All-purpose flour",
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Sear the beef over high heat, 4-5 minutes.",
-      "Add the onion, pepper, and jalape\u00f1o, and cook 5-6 minutes more."
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening again to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
     ],
     "steps": [
-      "Sear the beef over high heat, 4-5 minutes.",
-      "Add the onion, pepper, and jalape\u00f1o, and cook 5-6 minutes more."
+      "Work the flour with warm water and half the oil into a soft dough. Rest 20 minutes.",
+      "Roll thin, brush with the remaining oil, and coil before flattening again to build real layers.",
+      "Cook in a hot, dry pan, 2-3 minutes per side, until golden."
     ],
     "tags": []
   },
   {
-    "name": "Djiboutian Grilled Fish",
+    "name": "Djiboutian Fish with Rice",
     "cuisine": "djiboutian",
     "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting Djibouti's Red Sea and Gulf of Aden coastal fishing tradition.",
+    "course": "complete",
+    "description": "A fragrant fish and rice dish, real technique poaching the fish directly in the tomato-spiced rice broth so it absorbs the flavor as it cooks.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
         "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
@@ -254,9 +335,9 @@
         "note": "minced"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -266,31 +347,44 @@
         "note": ""
       },
       {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Ground cumin",
+        "qty": 0.75,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
+      "Cook the garlic and cumin in a little oil 1 minute.",
+      "Add the tomatoes and 1.25 cups water, and simmer 8-10 minutes.",
+      "Stir in the rice, cover, and simmer 15 minutes, then nestle the fish on top and cook 8-10 minutes more, covered, until the fish is just cooked through and the rice is tender."
     ],
     "steps": [
-      "Rub the fish with the garlic and lemon juice.",
-      "Grill or broil, 4-5 minutes per side, until just cooked through."
+      "Cook the garlic and cumin in a little oil 1 minute.",
+      "Add the tomatoes and 1.25 cups water, and simmer 8-10 minutes.",
+      "Stir in the rice, cover, and simmer 15 minutes, then nestle the fish on top and cook 8-10 minutes more, covered, until the fish is just cooked through and the rice is tender."
     ],
     "tags": []
   },
   {
-    "name": "Djiboutian Sambusa",
+    "name": "Djiboutian Sambusas",
     "cuisine": "djiboutian",
     "meal_type": "snack",
-    "description": "Sambusa, fried triangular pastries with a spiced meat filling, a beloved Djiboutian snack especially during Ramadan.",
+    "course": "complete",
+    "description": "Sambusas, fried triangular pastries with a spiced filling, reflect real Yemeni and Indian culinary influence, a beloved Djiboutian snack.",
     "ingredients_full": [
       {
         "ingredient": "Phyllo dough",
@@ -358,306 +452,142 @@
     "tags": []
   },
   {
-    "name": "Djiboutian Xalwo",
-    "cuisine": "djiboutian",
-    "meal_type": "snack",
-    "description": "Xalwo (halwa), a dense, glossy, cardamom-scented sweet, is a beloved Djiboutian treat shared with Somalia, traditionally made for celebrations.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cornstarch",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cornstarch",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the cornstarch with 0.75 cup water until smooth, then add the sugar and cardamom.",
-      "Cook over medium heat, stirring constantly, 10-12 minutes, until thick and glossy.",
-      "Stir in the butter until melted and shiny."
-    ],
-    "steps": [
-      "Whisk the cornstarch with 0.75 cup water until smooth, then add the sugar and cardamom.",
-      "Cook over medium heat, stirring constantly, 10-12 minutes, until thick and glossy.",
-      "Stir in the butter until melted and shiny."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Shaah",
-    "cuisine": "djiboutian",
-    "meal_type": "snack",
-    "description": "Shaah, spiced milk tea, is central to Djiboutian hospitality, traditionally flavored with real cardamom and cinnamon.",
-    "ingredients_full": [
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the milk with the cardamom and cinnamon 5-6 minutes.",
-      "Stir in the sugar before serving."
-    ],
-    "steps": [
-      "Warm the milk with the cardamom and cinnamon 5-6 minutes.",
-      "Stir in the sugar before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Roasted Chickpea Snack",
-    "cuisine": "djiboutian",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Djibouti.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.75,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and cumin.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Dates Snack",
-    "cuisine": "djiboutian",
-    "meal_type": "snack",
-    "description": "A simple date snack, dates being a common staple across Djibouti and the wider Horn of Africa and Arabian Peninsula trade region.",
-    "ingredients_full": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 40,
-        "note": "pitted"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the dates as-is."
-    ],
-    "steps": [
-      "Serve the dates as-is."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Beef and Rice",
+    "name": "Djiboutian Yetakelt Wat",
     "cuisine": "djiboutian",
     "meal_type": "dinner",
-    "description": "A simple beef and rice dish, spiced with real cumin and cardamom in the Djiboutian style.",
+    "course": "complete",
+    "description": "Yetakelt wat, a spicy mixed vegetable stew shared with Ethiopian tradition, real technique building real depth from a proper berbere base.",
     "ingredients_full": [
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "cubed"
       },
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
+        "ingredient": "Carrot",
         "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "cubed"
       },
       {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
+        "ingredient": "Carrot",
         "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the cumin, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Cook the rice separately and serve the beef over it."
+      "Cook the onion and berbere in a little oil, 3-4 minutes.",
+      "Add the potato, carrot, and green beans with a splash of water, and simmer 20-22 minutes until tender."
     ],
     "steps": [
-      "Brown the beef with the cumin, 6-7 minutes.",
-      "Add the tomatoes and simmer 8-10 minutes.",
-      "Cook the rice separately and serve the beef over it."
+      "Cook the onion and berbere in a little oil, 3-4 minutes.",
+      "Add the potato, carrot, and green beans with a splash of water, and simmer 20-22 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Djiboutian Cucumber Tomato Salad",
+    "name": "Djiboutian Spiced Tea (Shah Hawaash)",
     "cuisine": "djiboutian",
-    "meal_type": "lunch",
-    "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Djiboutian meal.",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Spiced tea with cardamom and cinnamon is central to Djiboutian daily hospitality, real technique steeping the whole spices directly with the tea.",
     "ingredients_full": [
       {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 0.75,
+        "note": "cup"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
       },
       {
-        "ingredient": "Lemon juice, raw",
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
+        "ingredient": "Beverages, tea, green, brewed, regular",
+        "qty": 0.75,
+        "note": "cup"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
       },
       {
-        "ingredient": "Lemon juice, raw",
+        "ingredient": "Ground cardamom",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Warm the tea with the milk, cardamom, and cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
     ],
     "steps": [
-      "Toss everything together."
+      "Warm the tea with the milk, cardamom, and cinnamon 5-6 minutes.",
+      "Stir in the sugar before serving."
     ],
     "tags": []
   },
@@ -665,6 +595,7 @@
     "name": "Djiboutian Roasted Peanuts",
     "cuisine": "djiboutian",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Djibouti.",
     "ingredients_full": [
       {
@@ -689,9 +620,60 @@
     "tags": []
   },
   {
-    "name": "Djiboutian Beef Stew",
+    "name": "Djiboutian Grilled Fish",
     "cuisine": "djiboutian",
     "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Djibouti's real Red Sea and Gulf of Aden coastal tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Djiboutian Beef and Vegetable Stew",
+    "cuisine": "djiboutian",
+    "meal_type": "dinner",
+    "course": "complete",
     "description": "A simple, hearty beef and vegetable stew, common Djiboutian home cooking.",
     "ingredients_full": [
       {
@@ -713,6 +695,11 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -735,205 +722,29 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
   },
   {
-    "name": "Djiboutian Banana with Milk",
+    "name": "Djiboutian Tomato Cumin Sauce",
     "cuisine": "djiboutian",
-    "meal_type": "breakfast",
-    "description": "Sliced banana with milk, a simple breakfast custom shared with Somalia, bananas being a common accompaniment to many Horn of Africa meals.",
-    "ingredients_full": [
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Bananas, raw",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the sliced banana with the milk poured over or alongside."
-    ],
-    "steps": [
-      "Serve the sliced banana with the milk poured over or alongside."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Fish and Rice",
-    "cuisine": "djiboutian",
-    "meal_type": "dinner",
-    "description": "A simple fish and rice dish, reflecting Djibouti's Red Sea and Gulf of Aden fishing tradition.",
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice with the cumin per package directions.",
-      "Grill or pan-fry the fish, 4-5 minutes per side, until just cooked through.",
-      "Serve the fish over the rice."
-    ],
-    "steps": [
-      "Cook the rice with the cumin per package directions.",
-      "Grill or pan-fry the fish, 4-5 minutes per side, until just cooked through.",
-      "Serve the fish over the rice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Xawaash-Style Spice Blend",
-    "cuisine": "djiboutian",
-    "meal_type": "snack",
-    "description": "Xawaash, a signature warm spice blend shared with Somalia, built here from its real base spices.",
-    "ingredients_full": [
-      {
-        "ingredient": "Ground cumin",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Ground cumin",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cardamom",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix all the spices together thoroughly."
-    ],
-    "steps": [
-      "Mix all the spices together thoroughly."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Mango with Lime",
-    "cuisine": "djiboutian",
-    "meal_type": "snack",
-    "description": "A simple fresh mango dish, mango being a beloved fruit across the Horn of Africa.",
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen mango chunks",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Frozen mango chunks",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the mango with the lemon juice."
-    ],
-    "steps": [
-      "Toss the mango with the lemon juice."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Suqaar Sauce",
-    "cuisine": "djiboutian",
-    "meal_type": "dinner",
-    "description": "A simple tomato-pepper sauce base, used across many Djiboutian dishes.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple tomato-cumin sauce base, used across many Djiboutian dishes.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -941,14 +752,14 @@
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -958,68 +769,21 @@
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Djiboutian Cumin Lime Sauce",
-    "cuisine": "djiboutian",
-    "meal_type": "dinner",
-    "description": "A simple cumin-lime sauce, common across Djiboutian grilled meat and fish dishes.",
-    "ingredients_full": [
-      {
         "ingredient": "Ground cumin",
         "qty": 0.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1.5,
+        "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Whisk everything together."
+      "Simmer everything together 12-15 minutes until thickened."
     ],
     "steps": [
-      "Whisk everything together."
+      "Simmer everything together 12-15 minutes until thickened."
     ],
     "tags": []
   }

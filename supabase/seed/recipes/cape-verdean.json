@@ -3,170 +3,175 @@
     "name": "Cape Verdean Cachupa",
     "cuisine": "cape-verdean",
     "meal_type": "dinner",
-    "description": "Cachupa, a slow-simmered corn and bean stew, is widely considered Cabo Verde's national dish, traditionally cooked for hours and often reheated the next day as cachupa refogada.",
+    "course": "complete",
+    "description": "Cachupa, Cabo Verde's real national dish, is genuinely built on real hominy (alkali-processed corn), not plain corn kernels, simmered slowly with several types of beans together for well over an hour, until the starches released thicken the stew naturally - real versions vary by household, sometimes rich with meat (cachupa rica), sometimes vegetarian (cachupa pobre).",
     "ingredients_full": [
       {
-        "ingredient": "Corn kernels (frozen)",
-        "qty": 100,
-        "note": "thawed"
+        "ingredient": "Bush'S Golden Hominy 15.5 Oz",
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
+        "ingredient": "Green cabbage",
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
+        "ingredient": "Sweet potato",
         "qty": 80,
         "note": "cubed"
       },
       {
-        "ingredient": "Green cabbage",
-        "qty": 60,
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Corn kernels (frozen)",
-        "qty": 100,
-        "note": "thawed"
+        "ingredient": "Bush'S Golden Hominy 15.5 Oz",
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 150,
+        "ingredient": "Green cabbage",
+        "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
+        "ingredient": "Sweet potato",
         "qty": 80,
         "note": "cubed"
       },
       {
-        "ingredient": "Green cabbage",
-        "qty": 60,
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the chicken, 6-7 minutes.",
-      "Add the corn, cowpeas, potato, and cabbage with 2 cups water.",
-      "Simmer 35-40 minutes until everything is very tender and well combined."
+      "Brown the beef with the onion and garlic, 8-9 minutes.",
+      "Add the paprika and bay leaf, and cook 1 minute.",
+      "Add the hominy, cowpeas, sweet potato, and enough water to cover, and simmer 1-1.5 hours, stirring occasionally, until everything is very tender and the stew has thickened naturally from the released starches.",
+      "Add the cabbage in the last 20 minutes."
     ],
     "steps": [
-      "Brown the chicken, 6-7 minutes.",
-      "Add the corn, cowpeas, potato, and cabbage with 2 cups water.",
-      "Simmer 35-40 minutes until everything is very tender and well combined."
+      "Brown the beef with the onion and garlic, 8-9 minutes.",
+      "Add the paprika and bay leaf, and cook 1 minute.",
+      "Add the hominy, cowpeas, sweet potato, and enough water to cover, and simmer 1-1.5 hours, stirring occasionally, until everything is very tender and the stew has thickened naturally from the released starches.",
+      "Add the cabbage in the last 20 minutes."
     ],
     "tags": []
   },
   {
-    "name": "Cape Verdean Pastel com Diablo Dentro",
+    "name": "Cape Verdean Cachupa Refogada",
     "cuisine": "cape-verdean",
-    "meal_type": "snack",
-    "description": "Pastel com diabo dentro, meaning 'pastry with the devil inside', fried dough filled with spiced tuna, is a beloved Cape Verdean snack.",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Cachupa refogada, leftover cachupa refried the next day and topped with a fried egg, is genuinely its own beloved dish, not just reheated leftovers - a real, essential part of Cape Verdean breakfast culture, especially on weekend mornings.",
     "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Bush'S Golden Hominy 15.5 Oz",
+        "qty": 150,
+        "note": "standing in for leftover cachupa"
       },
       {
-        "ingredient": "Fish, tuna, light, canned in water, drained solids",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 40,
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       },
       {
         "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
         "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Fish, tuna, light, canned in water, drained solids",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flour with water into a firm dough.",
-      "Mix the tuna with the tomatoes for the filling.",
-      "Roll out the dough, fill, and fold into pockets, sealing the edges.",
-      "Fry, turning, 3-4 minutes per side, until golden."
-    ],
-    "steps": [
-      "Mix the flour with water into a firm dough.",
-      "Mix the tuna with the tomatoes for the filling.",
-      "Roll out the dough, fill, and fold into pockets, sealing the edges.",
-      "Fry, turning, 3-4 minutes per side, until golden."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Jag",
-    "cuisine": "cape-verdean",
-    "meal_type": "dinner",
-    "description": "Jag (jagacida), rice and beans cooked together, a beloved Cape Verdean everyday staple.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
         "note": ""
       }
     ],
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
+        "ingredient": "Bush'S Golden Hominy 15.5 Oz",
+        "qty": 150,
+        "note": "standing in for leftover cachupa"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
         "note": ""
       },
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 100,
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+      "Fry the onion in the oil, 3-4 minutes, until golden.",
+      "Add the hominy (standing in for leftover cachupa) and fry, pressing and stirring occasionally, 10-12 minutes, until it develops a real golden, slightly crisp crust in spots.",
+      "Fry the eggs separately and serve on top - this real refried, egg-topped version is a genuine breakfast dish in its own right."
     ],
     "steps": [
-      "Cook the rice and cowpeas together in the same pot with enough water, 18-20 minutes, until tender."
+      "Fry the onion in the oil, 3-4 minutes, until golden.",
+      "Add the hominy (standing in for leftover cachupa) and fry, pressing and stirring occasionally, 10-12 minutes, until it develops a real golden, slightly crisp crust in spots.",
+      "Fry the eggs separately and serve on top - this real refried, egg-topped version is a genuine breakfast dish in its own right."
     ],
     "tags": []
   },
@@ -174,7 +179,8 @@
     "name": "Cape Verdean Grilled Fish",
     "cuisine": "cape-verdean",
     "meal_type": "dinner",
-    "description": "Grilled fish rubbed with garlic and lemon, reflecting Cabo Verde's significant Atlantic fishing tradition.",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Cabo Verde's deep Atlantic island fishing tradition.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -188,7 +194,7 @@
       },
       {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
@@ -205,40 +211,211 @@
       },
       {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Rub the fish with the garlic and lemon juice.",
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
       "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Rub the fish with the garlic and lemon juice.",
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
       "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "tags": []
   },
   {
-    "name": "Cape Verdean Caldo de Peixe",
+    "name": "Cape Verdean Feijoada",
     "cuisine": "cape-verdean",
     "meal_type": "dinner",
-    "description": "Caldo de peixe, a simple, comforting fish soup, a beloved Cape Verdean dish reflecting the islands' fishing tradition.",
+    "course": "complete",
+    "description": "Feijoada, a hearty bean and meat stew, reflects real Portuguese colonial influence found throughout Cabo Verdean cooking.",
     "ingredients_full": [
       {
-        "ingredient": "Fish, tilapia, raw",
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "cubed"
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 6-7 minutes.",
+      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 6-7 minutes.",
+      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Cape Verdean Pastel com Diabo Dentro",
+    "cuisine": "cape-verdean",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Pastel com diabo dentro, meaning 'pastry with the devil inside', is a real, distinctively named Cape Verdean fried pastry filled with spicy tuna, a beloved snack.",
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
+        "note": "generous"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 3,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Fish, tuna, light, canned in water, drained solids",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.75,
+        "note": "generous"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the tuna with the onion and jalape\u00f1o, being generous with the pepper - the real spicy 'devil' filling that gives the pastry its name.",
+      "Fill the phyllo with the mixture and fold into small triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "steps": [
+      "Mix the tuna with the onion and jalape\u00f1o, being generous with the pepper - the real spicy 'devil' filling that gives the pastry its name.",
+      "Fill the phyllo with the mixture and fold into small triangles.",
+      "Fry, turning, 3-4 minutes, until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Cape Verdean Grogue-Style Sugarcane Drink",
+    "cuisine": "cape-verdean",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A non-alcoholic sugarcane-inspired drink, echoing the flavor of grogue, Cabo Verde's traditional sugarcane spirit, made here as a simple sweetened refresher.",
+    "ingredients_full": [
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Dissolve the sugar in 1.5 cups warm water, then stir in the lemon juice and chill before serving over ice."
+    ],
+    "steps": [
+      "Dissolve the sugar in 1.5 cups warm water, then stir in the lemon juice and chill before serving over ice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Cape Verdean Fried Fish",
+    "cuisine": "cape-verdean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Simple fried fish, a common Cabo Verdean everyday dish, real technique patting the fish dry first so it fries crisp.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
       }
     ],
     "ingredients": [
@@ -248,138 +425,23 @@
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "ingredient": "All-purpose flour",
+        "qty": 20,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the potato and tomatoes in 2 cups water 12-15 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "steps": [
-      "Simmer the potato and tomatoes in 2 cups water 12-15 minutes.",
-      "Add the fish and simmer 8-10 minutes until just cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Xerem",
-    "cuisine": "cape-verdean",
-    "meal_type": "dinner",
-    "description": "Xer\u00e9m, a cornmeal porridge similar to polenta, is a genuine Cape Verdean staple, often served with fish or sausage.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring often, over medium-low heat 15-18 minutes until thick and smooth."
-    ],
-    "steps": [
-      "Whisk the cornmeal into 1.25 cups boiling water.",
-      "Cook, stirring often, over medium-low heat 15-18 minutes until thick and smooth."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Grilled Chicken",
-    "cuisine": "cape-verdean",
-    "meal_type": "dinner",
-    "description": "Grilled chicken marinated with garlic and lemon, a common Cape Verdean way of preparing meat.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Marinate the chicken in the garlic and lemon juice for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "steps": [
-      "Marinate the chicken in the garlic and lemon juice for at least 20 minutes.",
-      "Grill, turning, 12-15 minutes, until charred and cooked through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Fried Plantain",
-    "cuisine": "cape-verdean",
-    "meal_type": "dinner",
-    "description": "Fried ripe plantain, a common Cape Verdean side dish, reflecting the islands' shared West African culinary heritage.",
-    "ingredients_full": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Plantains, yellow, raw",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Pat the fish dry, then dredge in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
     ],
     "steps": [
-      "Fry the plantain slices, turning once, 3-4 minutes per side, until caramelized."
+      "Pat the fish dry, then dredge in the flour.",
+      "Fry, 3-4 minutes per side, until golden and cooked through."
     ],
     "tags": []
   },
@@ -387,6 +449,7 @@
     "name": "Cape Verdean Roasted Peanuts",
     "cuisine": "cape-verdean",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Cabo Verde.",
     "ingredients_full": [
       {
@@ -411,165 +474,11 @@
     "tags": []
   },
   {
-    "name": "Cape Verdean Beans in Tomato Sauce",
-    "cuisine": "cape-verdean",
-    "meal_type": "dinner",
-    "description": "A simple bean stew, common Cape Verdean home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "steps": [
-      "Simmer everything together 15-18 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Rice Pudding (Arroz Doce)",
-    "cuisine": "cape-verdean",
-    "meal_type": "snack",
-    "description": "Arroz doce, a simple rice pudding with cinnamon, reflects real Portuguese colonial dessert traditions in Cabo Verde.",
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
-      "Dust with cinnamon before serving."
-    ],
-    "steps": [
-      "Simmer the rice with the milk and sugar, stirring often, 20-25 minutes, until thick and creamy.",
-      "Dust with cinnamon before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Sweet Potato Fritters",
-    "cuisine": "cape-verdean",
-    "meal_type": "snack",
-    "description": "Simple fried sweet potato fritters, a common Cape Verdean snack.",
-    "ingredients_full": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Sweet potato",
-        "qty": 150,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "steps": [
-      "Mix the grated sweet potato with the flour.",
-      "Fry spoonfuls, turning, 3-4 minutes, until golden."
-    ],
-    "tags": []
-  },
-  {
     "name": "Cape Verdean Beef and Vegetable Stew",
     "cuisine": "cape-verdean",
     "meal_type": "dinner",
-    "description": "A simple, hearty beef and vegetable stew, common Cape Verdean home cooking.",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Cabo Verdean home cooking.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -589,6 +498,11 @@
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
@@ -612,14 +526,19 @@
         "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Brown the beef, 8-9 minutes.",
+      "Brown the beef with the onion, 8-9 minutes.",
       "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "tags": []
@@ -628,7 +547,8 @@
     "name": "Cape Verdean Coleslaw",
     "cuisine": "cape-verdean",
     "meal_type": "lunch",
-    "description": "A mayonnaise-dressed cabbage salad, a common Cape Verdean side.",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Cabo Verdean side.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
@@ -672,182 +592,11 @@
     "tags": []
   },
   {
-    "name": "Cape Verdean Tropical Fruit Salad",
+    "name": "Cape Verdean Tomato Paprika Sauce",
     "cuisine": "cape-verdean",
-    "meal_type": "snack",
-    "description": "A simple tropical fruit salad, built on Cabo Verde's abundant local fruit.",
-    "ingredients_full": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Pineapple chunks (canned in juice)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Papayas, raw",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pineapple and papaya together."
-    ],
-    "steps": [
-      "Toss the pineapple and papaya together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Cucumber Tomato Salad",
-    "cuisine": "cape-verdean",
-    "meal_type": "lunch",
-    "description": "A simple, bright cucumber and tomato salad, common alongside nearly any Cape Verdean meal.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 120,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss everything together."
-    ],
-    "steps": [
-      "Toss everything together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Grogue-Style Sweet Drink",
-    "cuisine": "cape-verdean",
-    "meal_type": "snack",
-    "description": "A simple sweet non-alcoholic drink inspired by grogue, Cabo Verde's traditional sugarcane spirit, made here without the alcohol.",
-    "ingredients_full": [
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the honey and lemon juice into 1 cup water until dissolved.",
-      "Chill before serving."
-    ],
-    "steps": [
-      "Whisk the honey and lemon juice into 1 cup water until dissolved.",
-      "Chill before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Roasted Chickpea Snack",
-    "cuisine": "cape-verdean",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, common across Cabo Verde.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the oil and paprika.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "steps": [
-      "Toss the chickpeas with the oil and paprika.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Tomato Onion Sauce",
-    "cuisine": "cape-verdean",
-    "meal_type": "dinner",
-    "description": "A simple tomato-onion sauce base, used across many Cape Verdean stews, echoing the flavor of cachupa.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple tomato-paprika sauce base, used across many Cabo Verdean stews.",
     "ingredients_full": [
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -855,12 +604,12 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
       }
@@ -872,12 +621,12 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Olive oil",
         "qty": 1,
         "note": "tbsp"
       }
@@ -887,53 +636,6 @@
     ],
     "steps": [
       "Simmer everything together 12-15 minutes until thickened."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Cape Verdean Garlic Lemon Sauce",
-    "cuisine": "cape-verdean",
-    "meal_type": "lunch",
-    "description": "A simple garlic-lemon sauce, common across Cape Verdean grilled fish and meat dishes.",
-    "ingredients_full": [
-      {
-        "ingredient": "Garlic clove",
-        "qty": 2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Garlic clove",
-        "qty": 2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk everything together."
-    ],
-    "steps": [
-      "Whisk everything together."
     ],
     "tags": []
   }
