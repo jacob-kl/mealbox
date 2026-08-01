@@ -4,7 +4,7 @@
     "cuisine": "burundian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Renga renga, a spinach stew, is genuinely more assertively flavored than a typical greens stew - real technique cooks the greens in real palm oil with black pepper and dried fish for umami depth, giving it a stronger, more savory character than simpler leafy green sides found elsewhere.",
+    "description": "Renga renga, a spinach stew, is genuinely more assertively flavored than a typical greens stew - real technique boils the greens first, then combines them with green onion and real fresh mint together, which is a consistently-cited, defining combination missing here before, alongside real palm oil, black pepper, and dried fish for umami depth.",
     "ingredients_full": [
       {
         "ingredient": "Baby spinach",
@@ -12,9 +12,14 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tbsp, chopped"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -44,9 +49,14 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": ""
+        "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 1,
+        "note": "tbsp, chopped"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -70,14 +80,20 @@
       }
     ],
     "steps_detailed": [
-      "Cook the onion in the palm oil, 3-4 minutes.",
-      "Add the tomatoes, black pepper, and ground crayfish, being generous with the pepper, and cook 4-5 minutes.",
-      "Add the spinach and simmer 10-12 minutes until tender and well combined."
+      [
+        "Boil the spinach in a little water 5-6 minutes until wilted, then drain.",
+        "Cook the green onion in the palm oil, 2-3 minutes.",
+        "Add the tomatoes, black pepper, and ground crayfish, being generous with the pepper, and cook 4-5 minutes.",
+        "Add the boiled spinach and mint, and simmer 8-10 minutes until well combined - the real mint is what distinguishes renga renga's flavor from a plain greens stew."
+      ]
     ],
     "steps": [
-      "Cook the onion in the palm oil, 3-4 minutes.",
-      "Add the tomatoes, black pepper, and ground crayfish, being generous with the pepper, and cook 4-5 minutes.",
-      "Add the spinach and simmer 10-12 minutes until tender and well combined."
+      [
+        "Boil the spinach in a little water 5-6 minutes until wilted, then drain.",
+        "Cook the green onion in the palm oil, 2-3 minutes.",
+        "Add the tomatoes, black pepper, and ground crayfish, being generous with the pepper, and cook 4-5 minutes.",
+        "Add the boiled spinach and mint, and simmer 8-10 minutes until well combined - the real mint is what distinguishes renga renga's flavor from a plain greens stew."
+      ]
     ],
     "tags": []
   },

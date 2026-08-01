@@ -154,13 +154,13 @@
   {
     "name": "Togolese Djenkoume",
     "cuisine": "togolese",
-    "meal_type": "snack",
-    "course": "complete",
-    "description": "Djenkoume, tomato cornmeal fritters, is a genuine Togolese specialty, real technique cooking the tomato-cornmeal mixture until it develops a real thick, cohesive consistency before shaping.",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Djenkoume, tomato cornmeal cooked into a thick, polenta-like consistency, is a genuine Togolese specialty - real technique reserves a cup of the tomato base as a dipping sauce, then spoons the finished cornmeal into ramekins to hold its shape, unmolding it to serve warm alongside grilled chicken; it's not fried into patties.",
     "ingredients_full": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 45,
+        "qty": 55,
         "note": ""
       },
       {
@@ -192,12 +192,17 @@
         "ingredient": "Yellow onion",
         "qty": 30,
         "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Cornmeal, degermed, enriched, white",
-        "qty": 45,
+        "qty": 55,
         "note": ""
       },
       {
@@ -229,19 +234,32 @@
         "ingredient": "Yellow onion",
         "qty": 30,
         "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 0.75,
+        "note": "cup"
       }
     ],
     "steps_detailed": [
-      "Cook the onion, garlic, and ginger in the palm oil, 3-4 minutes.",
-      "Add the tomatoes and tomato paste, and simmer 8-10 minutes until thickened.",
-      "Whisk in the cornmeal and 0.75 cup chicken broth, stirring constantly, and cook 10-12 minutes until very thick.",
-      "Shape into small patties and serve alongside grilled meat."
+      [
+        "Cook the onion, garlic, and ginger in the palm oil, 3-4 minutes.",
+        "Add the tomatoes and tomato paste, and simmer 12-15 minutes until a thick sauce forms.",
+        "Set aside about a cup of this tomato mixture to serve as a dipping sauce.",
+        "Pour the chicken broth into the remaining tomato mixture and bring to a boil.",
+        "Gradually whisk in the cornmeal, stirring constantly, and cook 10-12 minutes until very thick.",
+        "Spoon into small oiled ramekins, pressing smooth, then unmold onto plates and serve warm alongside the reserved sauce and grilled meat."
+      ]
     ],
     "steps": [
-      "Cook the onion, garlic, and ginger in the palm oil, 3-4 minutes.",
-      "Add the tomatoes and tomato paste, and simmer 8-10 minutes until thickened.",
-      "Whisk in the cornmeal and 0.75 cup chicken broth, stirring constantly, and cook 10-12 minutes until very thick.",
-      "Shape into small patties and serve alongside grilled meat."
+      [
+        "Cook the onion, garlic, and ginger in the palm oil, 3-4 minutes.",
+        "Add the tomatoes and tomato paste, and simmer 12-15 minutes until a thick sauce forms.",
+        "Set aside about a cup of this tomato mixture to serve as a dipping sauce.",
+        "Pour the chicken broth into the remaining tomato mixture and bring to a boil.",
+        "Gradually whisk in the cornmeal, stirring constantly, and cook 10-12 minutes until very thick.",
+        "Spoon into small oiled ramekins, pressing smooth, then unmold onto plates and serve warm alongside the reserved sauce and grilled meat."
+      ]
     ],
     "tags": []
   },
