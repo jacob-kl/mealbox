@@ -3,265 +3,105 @@
     "name": "Eritrean Zigni",
     "cuisine": "eritrean",
     "meal_type": "dinner",
-    "description": "Zigni, meat slow-simmered in a deep berbere sauce, is widely considered Eritrea's national dish, closely related to Ethiopian doro wat given the countries' shared culinary heritage - real berbere, not a generic chili powder, is what gives it its actual identity.",
+    "course": "complete",
+    "description": "Zigni, Eritrea's national dish, shares real roots with Ethiopian kai wat, but real Eritrean technique cooks the onions slowly IN oil from the start (not dry, unlike Ethiopian doro wat's technique) for a full hour or more until reddish-brown and jam-like, and finishes with a real splash of vinegar for tang - Eritreans also genuinely use less butter than their Ethiopian neighbors, giving zigni a slightly lighter character.",
     "ingredients_full": [
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 100,
+        "qty": 150,
         "note": "finely chopped"
       },
       {
-        "ingredient": "Berbere spice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 1.5,
+        "ingredient": "Vegetable oil",
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1.5,
         "note": "minced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "finely chopped"
       },
       {
         "ingredient": "Berbere spice",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion alone in a dry pan over medium heat, stirring often, 12-15 minutes, until deeply softened.",
-      "Add the ghee and garlic, cooking 1 minute, then stir in the berbere and cook 2 minutes until fragrant.",
-      "Add the beef and a splash of water, and simmer 20-22 minutes until the sauce is deep red and thick."
-    ],
-    "steps": [
-      "Cook the onion alone in a dry pan over medium heat, stirring often, 12-15 minutes, until deeply softened.",
-      "Add the ghee and garlic, cooking 1 minute, then stir in the berbere and cook 2 minutes until fragrant.",
-      "Add the beef and a splash of water, and simmer 20-22 minutes until the sauce is deep red and thick."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Injera-Style Flatbread",
-    "cuisine": "eritrean",
-    "meal_type": "breakfast",
-    "description": "Injera, a spongy, slightly sour flatbread made from fermented teff, is central to Eritrean eating just as it is in Ethiopia - a full days-long ferment is what gives real injera its distinctive tang, which this quicker version can only approximate.",
-    "ingredients_full": [
-      {
-        "ingredient": "Bob's Red Mill Teff Flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Vinegar, distilled",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Bob's Red Mill Teff Flour",
-        "qty": 60,
-        "note": ""
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "finely chopped"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Vinegar, distilled",
         "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Whisk the teff flour, all-purpose flour, vinegar, and 1 cup water into a thin, smooth batter.",
-      "Let sit at room temperature at least 6-8 hours to develop some tang.",
-      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles cover the surface."
+      "Cook the onion in the oil over medium-low heat, stirring often, 45-60 minutes, until it turns reddish-brown and jam-like - real technique keeps the oil in from the start here, unlike Ethiopian doro wat's dry-onion method.",
+      "Add the garlic and berbere, and cook 2 minutes until fragrant.",
+      "Add the beef and brown, 6-7 minutes.",
+      "Add the tomatoes and simmer 35-40 minutes until the beef is tender.",
+      "Stir in the vinegar and cilantro just before serving."
     ],
     "steps": [
-      "Whisk the teff flour, all-purpose flour, vinegar, and 1 cup water into a thin, smooth batter.",
-      "Let sit at room temperature at least 6-8 hours to develop some tang.",
-      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles cover the surface."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Tsebhi Birsen",
-    "cuisine": "eritrean",
-    "meal_type": "dinner",
-    "description": "Tsebhi birsen, red lentils simmered in a berbere-spiced sauce, a genuine Eritrean staple, especially common during fasting periods.",
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Lentils, pink or red, raw",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion in the oil over medium heat, 8-9 minutes, until softened.",
-      "Add the garlic and berbere, cooking 1-2 minutes.",
-      "Add the lentils and 1.5 cups water, and simmer 20-22 minutes until tender."
-    ],
-    "steps": [
-      "Cook the onion in the oil over medium heat, 8-9 minutes, until softened.",
-      "Add the garlic and berbere, cooking 1-2 minutes.",
-      "Add the lentils and 1.5 cups water, and simmer 20-22 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Tsebhi Dorho",
-    "cuisine": "eritrean",
-    "meal_type": "dinner",
-    "description": "Tsebhi dorho, chicken slow-simmered in berbere sauce with a hard-boiled egg, is a beloved Eritrean celebration dish, closely related to Ethiopian doro wat.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion alone 12-15 minutes until deeply softened.",
-      "Add the ghee and berbere, cooking 2 minutes until fragrant.",
-      "Add the chicken and a splash of water, and simmer 30-35 minutes until very tender.",
-      "Add the whole hard-boiled egg in the last 10 minutes to absorb the sauce."
-    ],
-    "steps": [
-      "Cook the onion alone 12-15 minutes until deeply softened.",
-      "Add the ghee and berbere, cooking 2 minutes until fragrant.",
-      "Add the chicken and a splash of water, and simmer 30-35 minutes until very tender.",
-      "Add the whole hard-boiled egg in the last 10 minutes to absorb the sauce."
+      "Cook the onion in the oil over medium-low heat, stirring often, 45-60 minutes, until it turns reddish-brown and jam-like - real technique keeps the oil in from the start here, unlike Ethiopian doro wat's dry-onion method.",
+      "Add the garlic and berbere, and cook 2 minutes until fragrant.",
+      "Add the beef and brown, 6-7 minutes.",
+      "Add the tomatoes and simmer 35-40 minutes until the beef is tender.",
+      "Stir in the vinegar and cilantro just before serving."
     ],
     "tags": []
   },
@@ -269,12 +109,18 @@
     "name": "Eritrean Tihlo",
     "cuisine": "eritrean",
     "meal_type": "dinner",
-    "description": "Tihlo, roasted barley flour dumplings dipped in a spiced meat sauce, a genuine Eritrean specialty from the country's highlands.",
+    "course": "complete",
+    "description": "Tihlo, unfilled barley dumpling balls dipped into a spicy meat stew, is a genuinely distinct Eritrean specialty, real technique using real barley flour, which isn't a distinct item here, so all-purpose flour stands in for a similarly firm, dippable dumpling.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
         "qty": 55,
-        "note": ""
+        "note": "standing in for barley flour"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -284,14 +130,24 @@
       {
         "ingredient": "Berbere spice",
         "qty": 1,
-        "note": "tsp"
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       }
     ],
     "ingredients": [
       {
         "ingredient": "All-purpose flour",
         "qty": 55,
-        "note": ""
+        "note": "standing in for barley flour"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -301,362 +157,398 @@
       {
         "ingredient": "Berbere spice",
         "qty": 1,
-        "note": "tsp"
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Toast the flour in a dry pan until lightly golden and fragrant, 3-4 minutes.",
-      "Mix with hot water into a firm dough and shape into small dumplings.",
-      "Brown the beef with the berbere, 8-9 minutes, adding a splash of water to make a dipping sauce.",
-      "Serve the dumplings alongside the sauce for dipping."
+      "Mix the flour and salt with hot water into a firm, smooth dough. Shape into small balls.",
+      "Boil the dumpling balls 8-10 minutes until firm and cooked through.",
+      "Brown the beef, add the berbere and tomatoes, and simmer 15-18 minutes into a spicy stew.",
+      "Serve the dumpling balls alongside the stew for dipping."
     ],
     "steps": [
-      "Toast the flour in a dry pan until lightly golden and fragrant, 3-4 minutes.",
-      "Mix with hot water into a firm dough and shape into small dumplings.",
-      "Brown the beef with the berbere, 8-9 minutes, adding a splash of water to make a dipping sauce.",
-      "Serve the dumplings alongside the sauce for dipping."
+      "Mix the flour and salt with hot water into a firm, smooth dough. Shape into small balls.",
+      "Boil the dumpling balls 8-10 minutes until firm and cooked through.",
+      "Brown the beef, add the berbere and tomatoes, and simmer 15-18 minutes into a spicy stew.",
+      "Serve the dumpling balls alongside the stew for dipping."
     ],
     "tags": []
   },
   {
-    "name": "Eritrean Ful",
+    "name": "Eritrean Hilbet",
+    "cuisine": "eritrean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Hilbet, a smooth cream made from fenugreek, lentils, and fava beans, is a genuine Eritrean vegan staple, traditionally served with silsi, a berbere-spiced tomato sauce, on top.",
+    "ingredients_full": [
+      {
+        "ingredient": "Lentils, pink or red, raw",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Fava beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Lentils, pink or red, raw",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Fava beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the lentils and fava beans together in 2 cups water 20-22 minutes until completely soft.",
+      "Blend until completely smooth.",
+      "Separately, cook the garlic and berbere in a little oil 1 minute, add the tomatoes, and simmer 10-12 minutes into silsi.",
+      "Spread the lentil-fava cream on a plate and top with the silsi."
+    ],
+    "steps": [
+      "Simmer the lentils and fava beans together in 2 cups water 20-22 minutes until completely soft.",
+      "Blend until completely smooth.",
+      "Separately, cook the garlic and berbere in a little oil 1 minute, add the tomatoes, and simmer 10-12 minutes into silsi.",
+      "Spread the lentil-fava cream on a plate and top with the silsi."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Eritrean Alicha",
+    "cuisine": "eritrean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Alicha, a mild, non-berbere vegetable stew, is a genuine Eritrean staple, real turmeric giving it a golden color as a real, deliberate contrast to the fiery berbere-based dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 120,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the garlic in a little oil 30 seconds, then add the turmeric and cook 30 seconds more.",
+      "Add the potato, green beans, carrot, and bell pepper with a splash of water, and simmer 20-22 minutes until tender."
+    ],
+    "steps": [
+      "Cook the garlic in a little oil 30 seconds, then add the turmeric and cook 30 seconds more.",
+      "Add the potato, green beans, carrot, and bell pepper with a splash of water, and simmer 20-22 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Eritrean Injera",
     "cuisine": "eritrean",
     "meal_type": "breakfast",
-    "description": "Ful, mashed fava beans with berbere and a fried egg, reflects genuine shared culinary threads between Eritrea and its northern neighbors.",
+    "course": "complete",
+    "description": "Injera, a spongy, fermented flatbread, is shared with Ethiopia and serves as the utensil, plate, and side for Eritrean meals alike, real technique fermenting the batter for real sourness.",
     "ingredients_full": [
       {
-        "ingredient": "Fava beans",
-        "qty": 200,
+        "ingredient": "Bob's Red Mill Teff Flour",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Berbere spice",
-        "qty": 0.5,
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Fava beans",
-        "qty": 200,
+        "ingredient": "Bob's Red Mill Teff Flour",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Berbere spice",
-        "qty": 0.5,
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the fava beans with a splash of water 8-10 minutes, then mash roughly and stir in the berbere.",
-      "Fry the egg and serve on top."
+      "Whisk the teff flour, all-purpose flour, vinegar, and 1 cup water into a thin, smooth batter.",
+      "Let sit at room temperature at least 8 hours, ideally 24, to develop real tang.",
+      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles cover the surface."
     ],
     "steps": [
-      "Simmer the fava beans with a splash of water 8-10 minutes, then mash roughly and stir in the berbere.",
-      "Fry the egg and serve on top."
+      "Whisk the teff flour, all-purpose flour, vinegar, and 1 cup water into a thin, smooth batter.",
+      "Let sit at room temperature at least 8 hours, ideally 24, to develop real tang.",
+      "Pour a thin layer into a hot, lightly oiled non-stick pan and cook, covered, without flipping, 2-3 minutes, until bubbles cover the surface."
     ],
     "tags": []
   },
   {
-    "name": "Eritrean Shiro",
+    "name": "Eritrean Zigni-Style Pasta",
     "cuisine": "eritrean",
     "meal_type": "dinner",
-    "description": "Shiro, a smooth, spiced chickpea flour stew, is one of Eritrea's most common everyday dishes.",
+    "course": "complete",
+    "description": "Zigni served over pasta rather than injera genuinely reflects Eritrea's real Italian colonial history - this real fusion, distinct from Ethiopian tradition, is a beloved everyday Eritrean meal.",
     "ingredients_full": [
       {
-        "ingredient": "Chickpea flour (besan)",
-        "qty": 45,
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "chopped"
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Berbere spice",
-        "qty": 1,
-        "note": "tsp"
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in a little oil, 15-18 minutes, until deeply softened and reddish-brown.",
+      "Add the beef and berbere, and brown, 6-7 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes.",
+      "Cook the pasta separately per package directions and serve the zigni sauce over it."
+    ],
+    "steps": [
+      "Cook the onion in a little oil, 15-18 minutes, until deeply softened and reddish-brown.",
+      "Add the beef and berbere, and brown, 6-7 minutes.",
+      "Add the tomatoes and simmer 20-22 minutes.",
+      "Cook the pasta separately per package directions and serve the zigni sauce over it."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Eritrean Tsebhi Dorho",
+    "cuisine": "eritrean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Tsebhi dorho (dorho), a spicy berbere chicken stew, closely related to Ethiopian doro wat, real Eritrean technique using real slow-cooked onions in oil from the start.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 150,
+        "note": "finely chopped"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 1.5,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Berbere spice",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Chickpea flour (besan)",
-        "qty": 45,
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
+        "qty": 150,
+        "note": "finely chopped"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 1.5,
         "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion in the oil, 6-7 minutes, then add the garlic and berbere, cooking 1 minute.",
-      "Whisk the chickpea flour with 1.5 cups water until smooth, then stir into the pot.",
-      "Simmer, stirring often, 10-12 minutes, until thickened and smooth."
-    ],
-    "steps": [
-      "Cook the onion in the oil, 6-7 minutes, then add the garlic and berbere, cooking 1 minute.",
-      "Whisk the chickpea flour with 1.5 cups water until smooth, then stir into the pot.",
-      "Simmer, stirring often, 10-12 minutes, until thickened and smooth."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Gomen",
-    "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "Gomen, collard greens simmered simply with garlic and ginger, a genuine Eritrean staple side shared with Ethiopia.",
-    "ingredients_full": [
-      {
-        "ingredient": "Collard greens",
-        "qty": 200,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Ground ginger",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Collard greens",
-        "qty": 200,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Ground ginger",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the garlic and ginger in the oil 1 minute.",
-      "Add the collard greens and a splash of water, and simmer 15-18 minutes until tender."
-    ],
-    "steps": [
-      "Cook the garlic and ginger in the oil 1 minute.",
-      "Add the collard greens and a splash of water, and simmer 15-18 minutes until tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Suwa-Style Bread",
-    "cuisine": "eritrean",
-    "meal_type": "dinner",
-    "description": "A simple flatbread reflecting Eritrea's Italian colonial-era baking influence alongside its own grain traditions.",
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flour with warm water and the oil into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 4-5 minutes per side, until browned through."
-    ],
-    "steps": [
-      "Mix the flour with warm water and the oil into a firm dough.",
-      "Flatten into a round and cook in a hot, dry pan, 4-5 minutes per side, until browned through."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Berbere Roasted Chickpeas",
-    "cuisine": "eritrean",
-    "meal_type": "snack",
-    "description": "A simple roasted chickpea snack, real berbere spice giving it genuine Eritrean character.",
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
       },
       {
         "ingredient": "Berbere spice",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 200,
-        "note": "patted dry"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Berbere spice",
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": "tsp"
+        "note": "hard-boiled"
       }
     ],
     "steps_detailed": [
-      "Toss the chickpeas with the oil and berbere.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Cook the onion in the oil, 40-45 minutes, until reddish-brown and jam-like.",
+      "Add the garlic and berbere, and cook 2 minutes.",
+      "Add the chicken and a splash of water, and simmer 25-28 minutes until tender.",
+      "Add the whole hard-boiled egg in the last 10 minutes to soak up the sauce."
     ],
     "steps": [
-      "Toss the chickpeas with the oil and berbere.",
-      "Roast at 400F (200C) for 25-30 minutes until crisp."
+      "Cook the onion in the oil, 40-45 minutes, until reddish-brown and jam-like.",
+      "Add the garlic and berbere, and cook 2 minutes.",
+      "Add the chicken and a splash of water, and simmer 25-28 minutes until tender.",
+      "Add the whole hard-boiled egg in the last 10 minutes to soak up the sauce."
     ],
     "tags": []
   },
   {
-    "name": "Eritrean Timatim Salata",
-    "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "Timatim salata, a simple, bright tomato and onion salad, a common Eritrean side shared with Ethiopia.",
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 30,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 30,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 0.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss everything together."
-    ],
-    "steps": [
-      "Toss everything together."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Spiced Coffee",
+    "name": "Eritrean Roasted Coffee (Buna)",
     "cuisine": "eritrean",
     "meal_type": "snack",
-    "description": "Buna, Eritrean coffee, is central to Eritrean hospitality, traditionally roasted, ground, and brewed fresh as part of a whole ceremony.",
+    "course": "complete",
+    "description": "Buna, Eritrean coffee, is central to Eritrean hospitality, shared with Ethiopia, traditionally roasted, ground, and brewed fresh as part of a full ceremony.",
     "ingredients_full": [
       {
         "ingredient": "Beverages, coffee, brewed, prepared with tap water",
@@ -698,65 +590,6 @@
     "steps": [
       "Warm the coffee with the cardamom.",
       "Stir in the sugar before serving."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Suqar-Style Beef",
-    "cuisine": "eritrean",
-    "meal_type": "dinner",
-    "description": "Suqar, saut\u00e9ed cubes of meat with onion and pepper, a beloved Eritrean dish shared with Ethiopian tibs.",
-    "ingredients_full": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Sear the beef in the ghee over high heat, 4-5 minutes.",
-      "Add the onion and pepper, and cook 5-6 minutes more."
-    ],
-    "steps": [
-      "Sear the beef in the ghee over high heat, 4-5 minutes.",
-      "Add the onion and pepper, and cook 5-6 minutes more."
     ],
     "tags": []
   },
@@ -764,6 +597,7 @@
     "name": "Eritrean Roasted Peanuts",
     "cuisine": "eritrean",
     "meal_type": "snack",
+    "course": "complete",
     "description": "A simple roasted peanut snack, common across Eritrea.",
     "ingredients_full": [
       {
@@ -788,47 +622,61 @@
     "tags": []
   },
   {
-    "name": "Eritrean Ayib",
-    "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "Ayib, a mild, crumbly fresh cheese, a staple shared with Ethiopia, often served alongside spicy dishes to cool the palate.",
-    "ingredients_full": [
-      {
-        "ingredient": "Cottage cheese 2%",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Spearmint, fresh",
-        "qty": 1,
-        "note": "tsp, chopped"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Cottage cheese 2%",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Spearmint, fresh",
-        "qty": 1,
-        "note": "tsp, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Drain the cottage cheese well and mix with the mint."
-    ],
-    "steps": [
-      "Drain the cottage cheese well and mix with the mint."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Beef Stew",
+    "name": "Eritrean Grilled Fish",
     "cuisine": "eritrean",
     "meal_type": "dinner",
-    "description": "A simple, hearty beef and vegetable stew, common Eritrean home cooking.",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Eritrea's real Red Sea coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Eritrean Beef and Vegetable Stew",
+    "cuisine": "eritrean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Eritrean home cooking outside the berbere-forward specialties.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -884,214 +732,70 @@
     "tags": []
   },
   {
-    "name": "Eritrean Atkilt",
+    "name": "Eritrean Berbere-Style Spice Blend",
     "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "Atkilt, cabbage, carrot, and potato cooked with turmeric, a common Eritrean vegetable side shared with Ethiopia.",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "The real, essential berbere blend that defines both Eritrean and Ethiopian cooking, made here on its own for use across many dishes.",
     "ingredients_full": [
       {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.375,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the potato and carrot in the oil with the turmeric, 8-9 minutes.",
-      "Add the cabbage and a splash of water, and simmer 12-15 minutes until everything is tender."
-    ],
-    "steps": [
-      "Cook the potato and carrot in the oil with the turmeric, 8-9 minutes.",
-      "Add the cabbage and a splash of water, and simmer 12-15 minutes until everything is tender."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Spiced Butter (Tesmi)",
-    "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "Tesmi, clarified butter infused with warming spices, is the aromatic base underlying countless Eritrean dishes, shared with Ethiopia's niter kibbeh.",
-    "ingredients_full": [
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground ginger",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Butter, Clarified butter (ghee)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground ginger",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Gently warm the ghee with the ginger, turmeric, and garlic for 3-4 minutes to infuse.",
-      "Strain out the garlic before using."
-    ],
-    "steps": [
-      "Gently warm the ghee with the ginger, turmeric, and garlic for 3-4 minutes to infuse.",
-      "Strain out the garlic before using."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Yogurt Berbere Dip",
-    "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "A simple yogurt dip finished with real berbere for genuine Eritrean character.",
-    "ingredients_full": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "ingredients": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Berbere spice",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Stir the berbere into the yogurt."
-    ],
-    "steps": [
-      "Stir the berbere into the yogurt."
-    ],
-    "tags": []
-  },
-  {
-    "name": "Eritrean Lentil Salad",
-    "cuisine": "eritrean",
-    "meal_type": "lunch",
-    "description": "A simple lentil salad, common Eritrean home cooking.",
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, mature seeds, cooked, boiled, without salt",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
+        "ingredient": "Spices, chili powder",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Lentils, mature seeds, cooked, boiled, without salt",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
+        "ingredient": "Spices, chili powder",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss everything together."
+      "Mix all the spices together thoroughly."
     ],
     "steps": [
-      "Toss everything together."
+      "Mix all the spices together thoroughly."
     ],
     "tags": []
   }

@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Equatoguinean Succotash",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Succotash is genuinely the national dish of Equatorial Guinea, its real journey tracing back to Native American cooking, carried to the American South, and brought back to Africa by freed slaves and their descendants - real Equatoguinean versions are traditionally made without meat, built on real thyme, olive oil, and a splash of red wine vinegar for brightness.",
+    "ingredients_full": [
+      {
+        "ingredient": "Del Monte Green Lima Beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 100,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Del Monte Green Lima Beans",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Corn kernels (frozen)",
+        "qty": 100,
+        "note": "thawed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion and garlic in the olive oil, 3-4 minutes.",
+      "Add the lima beans, corn, tomatoes, and thyme, and simmer 15-18 minutes until the beans are tender.",
+      "Stir in the vinegar just before serving for real brightness - traditionally made without meat."
+    ],
+    "steps": [
+      "Cook the onion and garlic in the olive oil, 3-4 minutes.",
+      "Add the lima beans, corn, tomatoes, and thyme, and simmer 15-18 minutes until the beans are tender.",
+      "Stir in the vinegar just before serving for real brightness - traditionally made without meat."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Pepesup",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Pepesup (pepper soup), Equatorial Guinea's real signature dish given the country's deep fishing tradition, is a genuinely spicy fish soup built with cassava leaves - real cassava leaves aren't a distinct item here, so spinach stands in for a milder approximation.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 150,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "generous"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 150,
+        "note": "standing in for cassava leaves"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 1,
+        "note": "generous"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the tomatoes, garlic, and jalape\u00f1o together, being generous with the pepper, 8-10 minutes.",
+      "Add the fish and spinach, and simmer 10-12 minutes until the fish is just cooked through and the spinach is tender."
+    ],
+    "steps": [
+      "Simmer the tomatoes, garlic, and jalape\u00f1o together, being generous with the pepper, 8-10 minutes.",
+      "Add the fish and spinach, and simmer 10-12 minutes until the fish is just cooked through and the spinach is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Tortilla de Camarones",
+    "cuisine": "equatoguinean",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Tortilla de camarones, a shrimp omelet, genuinely reflects Equatorial Guinea's real Spanish colonial heritage as Central Africa's only Spanish-speaking nation - real technique cooks the eggs slowly over low heat, Spanish tortilla-style, rather than quickly scrambled.",
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 100,
+        "note": "peeled, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Frozen shrimp",
+        "qty": 100,
+        "note": "peeled, chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the olive oil, 3-4 minutes, then add the shrimp and cook 2-3 minutes until just pink.",
+      "Pour in the beaten eggs and cook over low heat, undisturbed, 4-5 minutes, Spanish tortilla-style, until mostly set.",
+      "Flip carefully and cook 2-3 minutes more until fully set."
+    ],
+    "steps": [
+      "Cook the onion in the olive oil, 3-4 minutes, then add the shrimp and cook 2-3 minutes until just pink.",
+      "Pour in the beaten eggs and cook over low heat, undisturbed, 4-5 minutes, Spanish tortilla-style, until mostly set.",
+      "Flip carefully and cook 2-3 minutes more until fully set."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Grilled Fish",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and chili, reflecting Equatorial Guinea's rich Gulf of Guinea fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and jalape\u00f1o, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and jalape\u00f1o, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Peanut Chicken",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Chicken with real peanut sauce is a beloved everyday Equatoguinean dish, real technique whisking the peanut butter slowly for a smooth sauce.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Peanut butter",
+        "qty": 2.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter slowly with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "steps": [
+      "Brown the chicken, 6-7 minutes.",
+      "Whisk the peanut butter slowly with the tomatoes and a little water, add to the pot.",
+      "Simmer 20-22 minutes until the chicken is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Fufu",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Fufu, pounded cassava or yam, is a genuine Equatoguinean staple, traditionally paired with pepesup or other soups.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cassava",
+        "qty": 250,
+        "note": "boiled"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cassava",
+        "qty": 250,
+        "note": "boiled"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the cassava until completely soft, 20-25 minutes.",
+      "Drain and pound vigorously until smooth and stretchy, free of lumps."
+    ],
+    "steps": [
+      "Boil the cassava until completely soft, 20-25 minutes.",
+      "Drain and pound vigorously until smooth and stretchy, free of lumps."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Fried Plantain",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Fried ripe plantain, a common Equatoguinean side dish, real versions using genuinely ripe plantain for real caramelization.",
+    "ingredients_full": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "sliced"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+    ],
+    "steps": [
+      "Fry the plantain slices in a little oil, turning once, 3-4 minutes per side, until deeply caramelized and golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Boller\u00eda-Style Pastry",
+    "cuisine": "equatoguinean",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Boller\u00eda, Spanish-style pastries, reflect genuine Spanish colonial influence, real versions traditionally paired with caf\u00e9 con leche for breakfast.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, butter, sugar, and egg into a soft dough.",
+      "Shape into small rolls and bake at 375F (190C) for 15-18 minutes until golden."
+    ],
+    "steps": [
+      "Mix the flour, butter, sugar, and egg into a soft dough.",
+      "Shape into small rolls and bake at 375F (190C) for 15-18 minutes until golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Roasted Peanuts",
+    "cuisine": "equatoguinean",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, common across Equatorial Guinea.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Beef and Vegetable Stew",
+    "cuisine": "equatoguinean",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Equatoguinean home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Coleslaw",
+    "cuisine": "equatoguinean",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A mayonnaise-dressed cabbage salad, a common Equatoguinean side.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 150,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "steps": [
+      "Toss the cabbage and carrot with the mayonnaise."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Equatoguinean Peanut Sauce",
+    "cuisine": "equatoguinean",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple ground-peanut sauce base, used across many Equatoguinean stews.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanut butter",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "steps": [
+      "Whisk the peanut butter slowly with 1 cup water and the tomatoes into a smooth sauce.",
+      "Simmer 12-15 minutes until thickened."
+    ],
+    "tags": []
+  }
+]
