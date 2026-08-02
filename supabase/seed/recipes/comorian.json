@@ -88,7 +88,7 @@
     "cuisine": "comorian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Pilao, an aromatic spiced rice dish, is a genuine Comorian staple, real technique built on a full, warm spice blend - garam masala, cinnamon, cardamom, and real saffron together - reflecting the islands' deep Indian Ocean trade history.",
+    "description": "Pilao, an aromatic spiced rice dish, is a genuine Comorian staple, real technique built on a considerably fuller spice blend than a simple garam masala rice - real versions include ginger, garlic, black pepper, nutmeg, and cloves alongside cinnamon, cardamom, and saffron, plus a real bouillon cube for savory depth, all of which were missing here before.",
     "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
@@ -106,6 +106,21 @@
         "note": ""
       },
       {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Garam masala",
         "qty": 1,
         "note": "tsp"
@@ -121,9 +136,29 @@
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Spices, saffron",
         "qty": 1,
         "note": "pinch"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "ingredients": [
@@ -143,6 +178,21 @@
         "note": ""
       },
       {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh ginger",
+        "qty": 1,
+        "note": "tsp, grated"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Garam masala",
         "qty": 1,
         "note": "tsp"
@@ -158,22 +208,44 @@
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.375,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.125,
+        "note": ""
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Spices, saffron",
         "qty": 1,
         "note": "pinch"
+      },
+      {
+        "ingredient": "Goya Chicken Flavored Bouillon",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
       "Soak the saffron in a tablespoon of warm water for 10 minutes.",
-      "Brown the beef with the onion, 8-9 minutes.",
-      "Add the garam masala, cinnamon, and cardamom, and cook 1-2 minutes until fragrant.",
-      "Add the rice, saffron with its soaking water, and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+      "Brown the beef with the onion, garlic, and ginger, 8-9 minutes.",
+      "Add the tomato paste and cook 2 minutes.",
+      "Add the garam masala, cinnamon, cardamom, nutmeg, cloves, and black pepper, and cook 1-2 minutes until fragrant - real pilao depends on this fuller spice blend, not just garam masala alone.",
+      "Add the rice, saffron with its soaking water, bouillon, and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
     ],
     "steps": [
       "Soak the saffron in a tablespoon of warm water for 10 minutes.",
-      "Brown the beef with the onion, 8-9 minutes.",
-      "Add the garam masala, cinnamon, and cardamom, and cook 1-2 minutes until fragrant.",
-      "Add the rice, saffron with its soaking water, and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
+      "Brown the beef with the onion, garlic, and ginger, 8-9 minutes.",
+      "Add the tomato paste and cook 2 minutes.",
+      "Add the garam masala, cinnamon, cardamom, nutmeg, cloves, and black pepper, and cook 1-2 minutes until fragrant - real pilao depends on this fuller spice blend, not just garam masala alone.",
+      "Add the rice, saffron with its soaking water, bouillon, and 1.25 cups water, cover, and simmer 18-20 minutes until tender."
     ],
     "tags": []
   },

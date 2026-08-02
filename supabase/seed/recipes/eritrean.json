@@ -184,7 +184,7 @@
     "cuisine": "eritrean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Hilbet, a smooth cream made from fenugreek, lentils, and fava beans, is a genuine Eritrean vegan staple, traditionally served with silsi, a berbere-spiced tomato sauce, on top.",
+    "description": "Hilbet, a smooth, whipped cream made from fava beans, lentils, and real fenugreek seed together, is a genuine Eritrean vegan staple - fenugreek is what gives the dish its name and real character, and was missing here before despite being essential, not optional. Real technique whips the cooled mixture vigorously until genuinely fluffy and cream-like (fenugreek turns bitter if whipped while still hot), then presents it with a well pressed into the center for the silsi sauce.",
     "ingredients_full": [
       {
         "ingredient": "Lentils, pink or red, raw",
@@ -193,8 +193,13 @@
       },
       {
         "ingredient": "Fava beans",
-        "qty": 100,
+        "qty": 150,
         "note": ""
+      },
+      {
+        "ingredient": "Spices, fenugreek seed",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -220,8 +225,13 @@
       },
       {
         "ingredient": "Fava beans",
-        "qty": 100,
+        "qty": 150,
         "note": ""
+      },
+      {
+        "ingredient": "Spices, fenugreek seed",
+        "qty": 1,
+        "note": "tsp"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -240,16 +250,16 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the lentils and fava beans together in 2 cups water 20-22 minutes until completely soft.",
-      "Blend until completely smooth.",
-      "Separately, cook the garlic and berbere in a little oil 1 minute, add the tomatoes, and simmer 10-12 minutes into silsi.",
-      "Spread the lentil-fava cream on a plate and top with the silsi."
+      "Simmer the lentils, fava beans, and fenugreek seed together in 2 cups water 20-22 minutes until completely soft.",
+      "Let cool slightly, then blend and whip vigorously until genuinely smooth, fluffy, and cream-like - real technique waits for it to cool first, since fenugreek turns bitter if whipped while still hot.",
+      "Separately, cook the garlic and berbere in a little oil 1 minute, add the tomatoes, and simmer 10-12 minutes into silsi, until the tomatoes break down into a thick, pulpy sauce.",
+      "Spread the hilbet on a plate, press a well into the center, and spoon the silsi into it."
     ],
     "steps": [
-      "Simmer the lentils and fava beans together in 2 cups water 20-22 minutes until completely soft.",
-      "Blend until completely smooth.",
-      "Separately, cook the garlic and berbere in a little oil 1 minute, add the tomatoes, and simmer 10-12 minutes into silsi.",
-      "Spread the lentil-fava cream on a plate and top with the silsi."
+      "Simmer the lentils, fava beans, and fenugreek seed together in 2 cups water 20-22 minutes until completely soft.",
+      "Let cool slightly, then blend and whip vigorously until genuinely smooth, fluffy, and cream-like - real technique waits for it to cool first, since fenugreek turns bitter if whipped while still hot.",
+      "Separately, cook the garlic and berbere in a little oil 1 minute, add the tomatoes, and simmer 10-12 minutes into silsi, until the tomatoes break down into a thick, pulpy sauce.",
+      "Spread the hilbet on a plate, press a well into the center, and spoon the silsi into it."
     ],
     "tags": []
   },
