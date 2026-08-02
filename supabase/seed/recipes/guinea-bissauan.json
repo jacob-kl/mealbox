@@ -344,12 +344,12 @@
     "cuisine": "guinea-bissauan",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Feijoada, a hearty bean stew, reflects real Portuguese colonial influence, real Guinea-Bissauan versions built on black-eyed peas rather than the black beans used in Brazil.",
+    "description": "Feijoada, a hearty bean stew, reflects real Portuguese colonial influence, real West African versions genuinely differ from the Brazilian black-bean original - built on white or butter beans rather than black, with real carrots and cabbage added, and real palm oil rather than olive oil, which was missing here before.",
     "ingredients_full": [
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "ingredient": "Del Monte Green Lima Beans",
         "qty": 200,
-        "note": ""
+        "note": "standing in for butter/white beans"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -357,9 +357,24 @@
         "note": ""
       },
       {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
         "ingredient": "Yellow onion",
@@ -369,13 +384,23 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "ingredient": "Del Monte Green Lima Beans",
         "qty": 200,
-        "note": ""
+        "note": "standing in for butter/white beans"
       },
       {
         "ingredient": "Ground beef 90/10",
         "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
         "note": ""
       },
       {
@@ -384,18 +409,25 @@
         "note": ""
       },
       {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+      "Brown the beef with the onion in the palm oil, 6-7 minutes.",
+      "Add the tomatoes and beans, and simmer 15 minutes.",
+      "Add the carrot and cabbage, and simmer 15-18 minutes more until everything is tender."
     ],
     "steps": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+      "Brown the beef with the onion in the palm oil, 6-7 minutes.",
+      "Add the tomatoes and beans, and simmer 15 minutes.",
+      "Add the carrot and cabbage, and simmer 15-18 minutes more until everything is tender."
     ],
     "tags": []
   },

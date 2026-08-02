@@ -183,8 +183,18 @@
         "note": "standing in for pork"
       },
       {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
@@ -210,8 +220,18 @@
         "note": "standing in for pork"
       },
       {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 80,
         "note": ""
       },
       {
@@ -227,11 +247,13 @@
     ],
     "steps_detailed": [
       "Brown the beef with the onion in the palm oil, 6-7 minutes.",
-      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+      "Add the tomatoes and cowpeas, and simmer 15 minutes.",
+      "Add the carrot and cabbage, and simmer 15-18 minutes more until everything is tender."
     ],
     "steps": [
       "Brown the beef with the onion in the palm oil, 6-7 minutes.",
-      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+      "Add the tomatoes and cowpeas, and simmer 15 minutes.",
+      "Add the carrot and cabbage, and simmer 15-18 minutes more until everything is tender."
     ],
     "tags": []
   },

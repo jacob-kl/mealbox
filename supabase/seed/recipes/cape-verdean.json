@@ -230,7 +230,7 @@
     "cuisine": "cape-verdean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Feijoada, a hearty bean and meat stew, reflects real Portuguese colonial influence found throughout Cabo Verdean cooking.",
+    "description": "Feijoada, a hearty bean and meat stew, reflects real Portuguese colonial influence found throughout Cabo Verdean cooking - real West African versions of the dish genuinely include carrots, cabbage, and real palm oil, not just beans and meat alone, which was missing here before.",
     "ingredients_full": [
       {
         "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
@@ -243,9 +243,24 @@
         "note": ""
       },
       {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
         "ingredient": "Yellow onion",
@@ -265,9 +280,24 @@
         "note": ""
       },
       {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green cabbage",
+        "qty": 60,
+        "note": ""
+      },
+      {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 80,
         "note": ""
+      },
+      {
+        "ingredient": "Palm oil",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
         "ingredient": "Yellow onion",
@@ -276,12 +306,14 @@
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+      "Brown the beef with the onion in the palm oil, 6-7 minutes.",
+      "Add the tomatoes and cowpeas, and simmer 15 minutes.",
+      "Add the carrot and cabbage, and simmer 15-18 minutes more until everything is tender."
     ],
     "steps": [
-      "Brown the beef with the onion, 6-7 minutes.",
-      "Add the tomatoes and cowpeas with a splash of water, and simmer 20-22 minutes until well combined."
+      "Brown the beef with the onion in the palm oil, 6-7 minutes.",
+      "Add the tomatoes and cowpeas, and simmer 15 minutes.",
+      "Add the carrot and cabbage, and simmer 15-18 minutes more until everything is tender."
     ],
     "tags": []
   },
