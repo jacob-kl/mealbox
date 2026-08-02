@@ -110,7 +110,7 @@
     "cuisine": "seychellois",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Ladob banan, ripe plantain simmered in lightly spiced coconut milk, is a beloved Seychellois dessert, real technique using genuinely ripe plantain and real nutmeg and vanilla together for its distinctive warm sweetness.",
+    "description": "Ladob banan, ripe plantain simmered in lightly spiced coconut milk, is a beloved Seychellois dessert, real technique using genuinely ripe plantain and real cinnamon and nutmeg together, not nutmeg alone, for its distinctive warm sweetness.",
     "ingredients_full": [
       {
         "ingredient": "Plantains, yellow, raw",
@@ -126,6 +126,11 @@
         "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp"
       },
       {
         "ingredient": "Spices, nutmeg, ground",
@@ -155,6 +160,11 @@
         "note": "tbsp"
       },
       {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Spices, nutmeg, ground",
         "qty": 0.125,
         "note": ""
@@ -166,11 +176,11 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the plantain in the coconut milk, sugar, and nutmeg, 15-18 minutes, until tender and the sauce has thickened slightly.",
+      "Simmer the plantain in the coconut milk, sugar, cinnamon, and nutmeg, 15-18 minutes, until tender and the sauce has thickened slightly - real technique treats cinnamon as equally essential to nutmeg here, not an afterthought.",
       "Stir in the vanilla off the heat before serving."
     ],
     "steps": [
-      "Simmer the plantain in the coconut milk, sugar, and nutmeg, 15-18 minutes, until tender and the sauce has thickened slightly.",
+      "Simmer the plantain in the coconut milk, sugar, cinnamon, and nutmeg, 15-18 minutes, until tender and the sauce has thickened slightly - real technique treats cinnamon as equally essential to nutmeg here, not an afterthought.",
       "Stir in the vanilla off the heat before serving."
     ],
     "tags": []
