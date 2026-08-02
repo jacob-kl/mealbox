@@ -208,7 +208,7 @@
     "cuisine": "mauritian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Fish vindaye, fish marinated in a real turmeric-mustard-vinegar sauce, reflects Mauritius's genuine Indian culinary influence, real technique letting the fish marinate so the tang penetrates fully.",
+    "description": "Fish vindaye is genuinely a fried-then-pickled dish, not a marinate-then-cook curry, which was the wrong technique here before - real mustard seed, not prepared mustard, is essential, and the onion stays crunchy rather than cooked soft, which is what gives vindaye its real pickle-like bite. Real technique fries the fish first, then briefly cooks a mustard seed, turmeric, and vinegar paste in the same oil before tossing the fried fish and raw onion through it.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -216,24 +216,39 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1,
+        "ingredient": "Spices, mustard seed, ground",
+        "qty": 1.5,
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
         "ingredient": "Vinegar, distilled",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "ingredients": [
@@ -243,35 +258,56 @@
         "note": ""
       },
       {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1,
+        "ingredient": "Spices, mustard seed, ground",
+        "qty": 1.5,
         "note": "tsp"
       },
       {
+        "ingredient": "Spices, turmeric, ground",
+        "qty": 0.75,
+        "note": ""
+      },
+      {
         "ingredient": "Vinegar, distilled",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Mix the turmeric, mustard, vinegar, and garlic into a marinade.",
-      "Coat the fish and marinate at least 20 minutes.",
-      "Pan-fry in a little oil, 3-4 minutes per side, until just cooked through."
+      [
+        "Season the fish with a pinch of salt and fry in the oil, 3-4 minutes per side, until just cooked through. Remove and set aside.",
+        "In the same oil, mix the mustard seed and turmeric with the vinegar into a smooth paste, and cook briefly, 1-2 minutes, being careful not to let it burn or turn bitter.",
+        "Add the garlic and jalape\u00f1o, and cook 30 seconds more.",
+        "Remove from heat and toss the fried fish and raw sliced onion through the paste - real technique keeps the onion crunchy and uncooked, giving vindaye its real pickle-like bite, not a soft, cooked-down onion."
+      ]
     ],
     "steps": [
-      "Mix the turmeric, mustard, vinegar, and garlic into a marinade.",
-      "Coat the fish and marinate at least 20 minutes.",
-      "Pan-fry in a little oil, 3-4 minutes per side, until just cooked through."
+      [
+        "Season the fish with a pinch of salt and fry in the oil, 3-4 minutes per side, until just cooked through. Remove and set aside.",
+        "In the same oil, mix the mustard seed and turmeric with the vinegar into a smooth paste, and cook briefly, 1-2 minutes, being careful not to let it burn or turn bitter.",
+        "Add the garlic and jalape\u00f1o, and cook 30 seconds more.",
+        "Remove from heat and toss the fried fish and raw sliced onion through the paste - real technique keeps the onion crunchy and uncooked, giving vindaye its real pickle-like bite, not a soft, cooked-down onion."
+      ]
     ],
     "tags": []
   },
