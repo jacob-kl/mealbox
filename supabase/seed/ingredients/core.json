@@ -8404,5 +8404,129 @@
     "sub_group": "proteins_meat",
     "dietary_tags": [],
     "allergens": []
+  },
+  {
+    "name": "Goat, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 109,
+    "protein": 20.6,
+    "carbs": 0.0,
+    "fat": 2.3,
+    "fiber": 0.0,
+    "micros": {
+      "iron": 2.8,
+      "zinc": 3.75,
+      "vitamin_b12": 1.66,
+      "phosphorus": 170,
+      "potassium": 385,
+      "sodium": 71,
+      "calcium": 13
+    },
+    "sub_group": "lamb_veal_game",
+    "dietary_tags": [
+      "gluten-free"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Molokhia leaves (jute), raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 43,
+    "protein": 4.5,
+    "carbs": 6.0,
+    "fat": 0.4,
+    "fiber": 2.0,
+    "micros": {
+      "vitamin_a": 800.0,
+      "vitamin_c": 63.0,
+      "calcium": 360.0,
+      "iron": 4.0,
+      "potassium": 444,
+      "folate": 45.0
+    },
+    "sub_group": "leafy_greens",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Moringa leaves, fresh",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 64,
+    "protein": 9.4,
+    "carbs": 8.3,
+    "fat": 1.4,
+    "fiber": 2.0,
+    "micros": {
+      "vitamin_a": 378.0,
+      "vitamin_c": 51.7,
+      "calcium": 185.0,
+      "iron": 4.0,
+      "potassium": 337,
+      "folate": 40.0
+    },
+    "sub_group": "leafy_greens",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Cassava leaves, raw",
+    "serving_qty": 100,
+    "serving_unit": "g_raw",
+    "serving_label": "per 100g raw",
+    "cal": 37,
+    "protein": 7.0,
+    "carbs": 7.1,
+    "fat": 1.5,
+    "fiber": 3.0,
+    "micros": {
+      "vitamin_a": 100.0,
+      "vitamin_c": 275.0,
+      "calcium": 88.0,
+      "iron": 7.6,
+      "potassium": 764,
+      "folate": 62.0
+    },
+    "sub_group": "leafy_greens",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
+  },
+  {
+    "name": "Yolele Fonio Grain, dry",
+    "serving_qty": 100,
+    "serving_unit": "g_dry",
+    "serving_label": "per 100g dry",
+    "cal": 356,
+    "protein": 8.4,
+    "carbs": 76.0,
+    "fat": 2.6,
+    "fiber": 3.6,
+    "micros": {
+      "iron": 2.9,
+      "magnesium": 22.0,
+      "phosphorus": 155,
+      "zinc": 1.5,
+      "potassium": 100
+    },
+    "sub_group": "grains",
+    "dietary_tags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "allergens": []
   }
 ]

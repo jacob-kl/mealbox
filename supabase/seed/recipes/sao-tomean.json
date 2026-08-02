@@ -270,27 +270,27 @@
     "cuisine": "sao-tomean",
     "meal_type": "dinner",
     "course": "side",
-    "description": "Blabl\u00e1, mashed breadfruit, is a genuine island side dish - real breadfruit isn't a distinct item here, so yam stands in for a similarly starchy, mashable texture.",
+    "description": "Blabl\u00e1, mashed breadfruit, is a genuine island side dish - real breadfruit is used here directly, not a substitute, since it's genuinely available frozen through African and Caribbean grocers in the US.",
     "ingredients_full": [
       {
-        "ingredient": "Yam, raw",
+        "ingredient": "Breadfruit, raw",
         "qty": 200,
-        "note": "peeled and cubed, standing in for breadfruit"
+        "note": "peeled and cubed"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "Yam, raw",
+        "ingredient": "Breadfruit, raw",
         "qty": 200,
-        "note": "peeled and cubed, standing in for breadfruit"
+        "note": "peeled and cubed"
       }
     ],
     "steps_detailed": [
-      "Boil the yam until completely soft, 20-22 minutes.",
+      "Boil the breadfruit until completely soft, 20-25 minutes.",
       "Mash until smooth."
     ],
     "steps": [
-      "Boil the yam until completely soft, 20-22 minutes.",
+      "Boil the breadfruit until completely soft, 20-25 minutes.",
       "Mash until smooth."
     ],
     "tags": []
@@ -480,12 +480,12 @@
     "cuisine": "sao-tomean",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Fried breadfruit is a common island snack - real breadfruit isn't a distinct item here, so plantain stands in for a similarly starchy fried snack.",
+    "description": "Fried breadfruit is a common island snack, made here with the real ingredient, which is genuinely available frozen through African and Caribbean grocers in the US.",
     "ingredients_full": [
       {
-        "ingredient": "Plantains, yellow, raw",
+        "ingredient": "Breadfruit, raw",
         "qty": 150,
-        "note": "sliced, standing in for breadfruit"
+        "note": "sliced"
       },
       {
         "ingredient": "Vegetable oil",
@@ -495,9 +495,9 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Plantains, yellow, raw",
+        "ingredient": "Breadfruit, raw",
         "qty": 150,
-        "note": "sliced, standing in for breadfruit"
+        "note": "sliced"
       },
       {
         "ingredient": "Vegetable oil",
@@ -506,10 +506,10 @@
       }
     ],
     "steps_detailed": [
-      "Fry the plantain slices, turning, 3-4 minutes per side, until golden and crisp at the edges."
+      "Fry the breadfruit slices, turning, 3-4 minutes per side, until golden and crisp at the edges."
     ],
     "steps": [
-      "Fry the plantain slices, turning, 3-4 minutes per side, until golden and crisp at the edges."
+      "Fry the breadfruit slices, turning, 3-4 minutes per side, until golden and crisp at the edges."
     ],
     "tags": []
   },

@@ -106,7 +106,7 @@
     "cuisine": "equatoguinean",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Pepesup (pepper soup), Equatorial Guinea's real signature dish given the country's deep fishing tradition, is a genuinely spicy fish soup built with cassava leaves - real cassava leaves aren't a distinct item here, so spinach stands in for a milder approximation.",
+    "description": "Pepesup (pepper soup), Equatorial Guinea's real signature dish given the country's deep fishing tradition, is a genuinely spicy fish soup built with real cassava leaves, used directly here since they're genuinely available frozen through African and Caribbean grocers in the US.",
     "ingredients_full": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -114,9 +114,9 @@
         "note": ""
       },
       {
-        "ingredient": "Baby spinach",
+        "ingredient": "Cassava leaves, raw",
         "qty": 150,
-        "note": "standing in for cassava leaves"
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -141,9 +141,9 @@
         "note": ""
       },
       {
-        "ingredient": "Baby spinach",
+        "ingredient": "Cassava leaves, raw",
         "qty": 150,
-        "note": "standing in for cassava leaves"
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -163,11 +163,11 @@
     ],
     "steps_detailed": [
       "Simmer the tomatoes, garlic, and jalape\u00f1o together, being generous with the pepper, 8-10 minutes.",
-      "Add the fish and spinach, and simmer 10-12 minutes until the fish is just cooked through and the spinach is tender."
+      "Add the fish and cassava leaves, and simmer 12-15 minutes until the fish is just cooked through and the leaves are tender."
     ],
     "steps": [
       "Simmer the tomatoes, garlic, and jalape\u00f1o together, being generous with the pepper, 8-10 minutes.",
-      "Add the fish and spinach, and simmer 10-12 minutes until the fish is just cooked through and the spinach is tender."
+      "Add the fish and cassava leaves, and simmer 12-15 minutes until the fish is just cooked through and the leaves are tender."
     ],
     "tags": []
   },

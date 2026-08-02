@@ -138,12 +138,12 @@
     "cuisine": "djiboutian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Fah-fah, a hearty spiced meat soup, is a beloved Djiboutian comfort dish, especially popular in the south near the Somali border - real versions genuinely include leeks and cabbage alongside potato, not just a plain meat broth, with green chili for real heat.",
+    "description": "Fah-fah, a hearty spiced meat soup, is a beloved Djiboutian comfort dish, especially popular in the south near the Somali border - real versions genuinely include leeks and cabbage alongside potato, not just a plain meat broth, with green chili for real heat. Real goat is used directly here, since it's genuinely available at halal, Caribbean, and Latin American markets across the US.",
     "ingredients_full": [
       {
-        "ingredient": "Ground lamb",
+        "ingredient": "Goat, raw",
         "qty": 200,
-        "note": "formed into chunks, standing in for goat"
+        "note": "cubed"
       },
       {
         "ingredient": "Leeks",
@@ -173,9 +173,9 @@
     ],
     "ingredients": [
       {
-        "ingredient": "Ground lamb",
+        "ingredient": "Goat, raw",
         "qty": 200,
-        "note": "formed into chunks, standing in for goat"
+        "note": "cubed"
       },
       {
         "ingredient": "Leeks",
@@ -204,11 +204,11 @@
       }
     ],
     "steps_detailed": [
-      "Simmer the lamb in 2.5 cups water 25-28 minutes until nearly tender.",
+      "Simmer the goat in 2.5 cups water 30-35 minutes until nearly tender.",
       "Add the leeks, cabbage, potato, jalape\u00f1o, and tomatoes, and simmer 18-20 minutes more until everything is tender."
     ],
     "steps": [
-      "Simmer the lamb in 2.5 cups water 25-28 minutes until nearly tender.",
+      "Simmer the goat in 2.5 cups water 30-35 minutes until nearly tender.",
       "Add the leeks, cabbage, potato, jalape\u00f1o, and tomatoes, and simmer 18-20 minutes more until everything is tender."
     ],
     "tags": []
