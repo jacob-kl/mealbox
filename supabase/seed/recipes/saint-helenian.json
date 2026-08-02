@@ -210,11 +210,21 @@
     "cuisine": "saint-helenian",
     "meal_type": "lunch",
     "course": "side",
-    "description": "Do down, a cabbage stew seasoned with real thyme and parsley, is a genuine island staple, real technique simmering the cabbage until tender but not mushy.",
+    "description": "Do down, a real cabbage and string bean stew genuinely made with bacon (its full traditional name is String Beans and Bacon Do Down), is a genuine island staple - the bacon and beans were missing here before, leaving just seasoned cabbage.",
     "ingredients_full": [
       {
         "ingredient": "Green cabbage",
-        "qty": 200,
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 30,
         "note": "chopped"
       },
       {
@@ -226,17 +236,22 @@
         "ingredient": "Spices, thyme, dried",
         "qty": 0.25,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 1,
-        "note": "tbsp, chopped, standing in for parsley"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Green cabbage",
-        "qty": 200,
+        "qty": 150,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 30,
         "note": "chopped"
       },
       {
@@ -248,22 +263,17 @@
         "ingredient": "Spices, thyme, dried",
         "qty": 0.25,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 1,
-        "note": "tbsp, chopped, standing in for parsley"
       }
     ],
     "steps_detailed": [
-      "Cook the onion 3-4 minutes.",
-      "Add the cabbage, thyme, and a splash of water, and simmer 15-18 minutes until tender.",
-      "Stir in the cilantro just before serving."
+      "Fry the bacon and onion together, 3-4 minutes.",
+      "Add the green beans, thyme, and a splash of water, and simmer 8-10 minutes.",
+      "Add the cabbage and simmer 10-12 minutes more until everything is tender."
     ],
     "steps": [
-      "Cook the onion 3-4 minutes.",
-      "Add the cabbage, thyme, and a splash of water, and simmer 15-18 minutes until tender.",
-      "Stir in the cilantro just before serving."
+      "Fry the bacon and onion together, 3-4 minutes.",
+      "Add the green beans, thyme, and a splash of water, and simmer 8-10 minutes.",
+      "Add the cabbage and simmer 10-12 minutes more until everything is tender."
     ],
     "tags": []
   },

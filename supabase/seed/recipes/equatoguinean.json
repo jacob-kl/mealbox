@@ -394,62 +394,84 @@
     "tags": []
   },
   {
-    "name": "Equatoguinean Boller\u00eda-Style Pastry",
+    "name": "Equatoguinean Akwadu",
     "cuisine": "equatoguinean",
     "meal_type": "breakfast",
     "course": "complete",
-    "description": "Boller\u00eda, Spanish-style pastries, reflect genuine Spanish colonial influence, real versions traditionally paired with caf\u00e9 con leche for breakfast.",
+    "description": "Akwadu, ripe plantain baked with real butter, orange juice, brown sugar, and coconut, is a genuinely distinctive Equatoguinean breakfast - real technique slices the plantain lengthwise before baking so it caramelizes evenly and soaks up the citrus and butter, distinct from the generic Spanish-style pastry recipe this replaced.",
     "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "very ripe, sliced lengthwise"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
+        "qty": 15,
+        "note": "melted"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Orange Juice",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1.5,
+        "note": "tbsp, standing in for brown sugar"
+      },
+      {
+        "ingredient": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned",
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "ingredients": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Plantains, yellow, raw",
+        "qty": 150,
+        "note": "very ripe, sliced lengthwise"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
+        "qty": 15,
+        "note": "melted"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Orange Juice",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1.5,
+        "note": "tbsp, standing in for brown sugar"
+      },
+      {
+        "ingredient": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned",
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Ground cinnamon",
+        "qty": 0.125,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mix the flour, butter, sugar, and egg into a soft dough.",
-      "Shape into small rolls and bake at 375F (190C) for 15-18 minutes until golden."
+      "Slice the plantain lengthwise and arrange in a small baking dish.",
+      "Pour the melted butter and orange juice over the top, then sprinkle with the sugar, coconut, and cinnamon.",
+      "Bake at 375F (190C) for 20-22 minutes until caramelized and tender."
     ],
     "steps": [
-      "Mix the flour, butter, sugar, and egg into a soft dough.",
-      "Shape into small rolls and bake at 375F (190C) for 15-18 minutes until golden."
+      "Slice the plantain lengthwise and arrange in a small baking dish.",
+      "Pour the melted butter and orange juice over the top, then sprinkle with the sugar, coconut, and cinnamon.",
+      "Bake at 375F (190C) for 20-22 minutes until caramelized and tender."
     ],
     "tags": []
   },
