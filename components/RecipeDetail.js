@@ -63,9 +63,11 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, listTyp
               type="button"
               disabled={busy}
               onClick={() => doSwap(s.name)}
+              title={s.caveat || undefined}
               className="px-2 py-1 rounded-card border border-line bg-card hover:bg-pine hover:text-white hover:border-pine transition-colors disabled:opacity-50 flex items-center gap-1"
             >
               {s.name}
+              {s.caveat && <span className="text-amber-600" aria-label="Note on this swap">⚠</span>}
               {s.dietary_tags?.includes(dietaryFilter) && dietaryFilter && (
                 <span className="text-[10px] opacity-70">✓ {dietaryFilter}</span>
               )}
@@ -76,6 +78,15 @@ function SwapPicker({ ingredientName, weekPlanMealId, ingredientCatalog, listTyp
         <p className="text-ink/40 italic">
           {dietaryFilter ? `No ${dietaryFilter} matches on file — try a custom substitute below.` : 'No close matches on file — try a custom substitute below.'}
         </p>
+      )}
+      {suggestions.some((s) => s.caveat) && (
+        <div className="space-y-0.5">
+          {suggestions.filter((s) => s.caveat).map((s) => (
+            <p key={s.name} className="text-[11px] text-amber-700 leading-snug">
+              <span className="font-medium">⚠ {s.name}:</span> {s.caveat}
+            </p>
+          ))}
+        </div>
       )}
       <form
         onSubmit={(e) => {
