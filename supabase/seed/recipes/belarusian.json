@@ -1,1143 +1,633 @@
 [
   {
-    "name": "Belarusian Draniki (Potato Pancakes)",
+    "name": "Belarusian Draniki",
     "cuisine": "belarusian",
     "meal_type": "breakfast",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 160,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 25,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 30,
-        "note": "to top"
-      }
-    ],
-    "steps": [
-      "Mix the grated potato with the flour and egg.",
-      "Fry spoonfuls in oil, 3-4 minutes per side, until golden.",
-      "Top with the sour cream."
-    ],
+    "description": "Draniki, Belarus's iconic potato pancake, traditionally uses no flour or eggs at all - real technique grates the potato and onion together, drains off any excess liquid, and stirs the real potato starch that settles at the bottom of that liquid back into the mixture if it needs thickening, rather than reaching for flour.",
     "ingredients_full": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 175,
-        "note": "grated"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": "to top"
+        "qty": 250,
+        "note": "peeled and grated"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "finely grated"
+        "qty": 50,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
-        "qty": 1.5,
+        "qty": 2.5,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 250,
+        "note": "peeled and grated"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2.5,
         "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Mix the grated potato and onion with the flour and egg into a thick batter.",
-      "Fry spoonfuls in the oil over medium heat, 4-5 minutes per side, until deeply golden and crisp at the edges.",
-      "Top with the sour cream - draniki are close to a national symbol in Belarus, a country that has built an entire culinary identity around the potato."
-    ],
-    "description": "Draniki, fried potato pancakes, are considered close to Belarus's national dish."
-  },
-  {
-    "name": "Belarusian Rye Bread with Cheese",
-    "cuisine": "belarusian",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
+      "Grate the potato and onion together into a bowl.",
+      "Let sit 5 minutes, then pour off any liquid that collects into a separate cup, leaving the starch that settles at the bottom - stir this starch back into the potato mixture, real technique using it in place of flour.",
+      "Season with the salt.",
+      "Drop spoonfuls into hot oil and fry, flattening slightly, 3-4 minutes per side, until deeply golden and crisp at the edges."
     ],
     "steps": [
-      "Butter the bread and top with the cheese."
+      "Grate the potato and onion together into a bowl.",
+      "Let sit 5 minutes, then pour off any liquid that collects into a separate cup, leaving the starch that settles at the bottom - stir this starch back into the potato mixture, real technique using it in place of flour.",
+      "Season with the salt.",
+      "Drop spoonfuls into hot oil and fry, flattening slightly, 3-4 minutes per side, until deeply golden and crisp at the edges."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread generously, top with the cheese, and finish with a little black pepper."
-    ],
-    "description": "Rye bread, Belarus's everyday bread, paired here with cheese."
+    "tags": []
   },
   {
-    "name": "Belarusian Oat Porridge",
-    "cuisine": "belarusian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Belarusian Potato Dumplings",
-    "cuisine": "belarusian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Mix the mashed potato with the flour and egg into a firm dough.",
-      "Shape into balls and simmer in water 10-12 minutes until they float.",
-      "Toss in the melted butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 165,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the mashed potato with the flour, egg, and pepper into a firm, workable dough.",
-      "Shape into even balls and simmer in gently boiling water 12-14 minutes until they float and are cooked through.",
-      "Toss in the melted butter before serving."
-    ],
-    "description": "Potato dumplings, a Belarusian comfort food staple, reflecting the country's deep reliance on potatoes."
-  },
-  {
-    "name": "Belarusian Beet Soup",
-    "cuisine": "belarusian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 120,
-        "note": "peeled and grated"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 70,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 30,
-        "note": "to top"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Simmer the onion, beets, and cabbage in 3 cups water for 25-28 minutes until tender.",
-      "Top with the sour cream."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 135,
-        "note": "peeled and grated"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 80,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": "to top"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the onion, garlic, beets, and cabbage in 3.25 cups water over medium-low heat, 27-32 minutes, until fully tender, the broth turning deep red.",
-      "Top generously with the sour cream - Belarusian borshch closely mirrors its Ukrainian neighbor, a shared dish across the wider region."
-    ],
-    "description": "A simple beet soup, in the wider Eastern European borscht tradition."
-  },
-  {
-    "name": "Belarusian Machanka-Style Pork Stew",
-    "cuisine": "belarusian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 10,
-        "note": "to thicken"
-      }
-    ],
-    "steps": [
-      "Brown the pork with the onion.",
-      "Add a splash of water, cover, and simmer 25-28 minutes until tender.",
-      "Stir in the flour and sour cream to thicken."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 12,
-        "note": "to thicken"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the pork with the onion and pepper over medium-high heat, 9-11 minutes.",
-      "Add a generous splash of water, cover, and simmer 26-30 minutes until tender."
-    ],
-    "description": "Stir in the flour and sour cream and simmer 4-5 more minutes to thicken - machanka, meat in a thick sour cream gravy, is traditionally eaten with draniki or pancakes for dipping."
-  },
-  {
-    "name": "Belarusian Cabbage and Potato Stew",
-    "cuisine": "belarusian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 110,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 130,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Soften the onion.",
-      "Add the cabbage, potato, and 1.5 cups water, and simmer 22-25 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 125,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 145,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion in the oil, 5-6 minutes.",
-      "Add the cabbage, potato, pepper, and 1.75 cups water, and simmer 24-28 minutes until fully tender."
-    ],
-    "description": "A simple cabbage and potato stew."
-  },
-  {
-    "name": "Belarusian Pork and Potato Bake",
+    "name": "Belarusian Machanka",
     "cuisine": "belarusian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato with the sour cream and butter in a small dish and bake at 375F, covered, for 25 minutes.",
-      "Add the pork on top and bake 20-25 more minutes until cooked through."
-    ],
+    "description": "Machanka, a pork stew served with draniki, is genuinely thickened with real sour cream whisked together with flour, not cream alone - real technique dissolves the flour into the sour cream first before adding it to the pot, which is what keeps the sauce smooth rather than lumpy.",
     "ingredients_full": [
       {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 26-30 minutes until nearly tender.",
-      "Add the pork on top and bake, uncovered, 22-26 more minutes until the pork is cooked through and browned."
-    ],
-    "description": "A simple pork and potato bake."
-  },
-  {
-    "name": "Belarusian Beef and Cabbage Stew",
-    "cuisine": "belarusian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 110,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the cabbage and a splash of water, cover, and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 125,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
-      "Add the cabbage and a generous splash of water, cover, and simmer 32-38 minutes until fully tender."
-    ],
-    "description": "A simple beef and cabbage stew."
-  },
-  {
-    "name": "Belarusian Baked Fish with Dill",
-    "cuisine": "belarusian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
+        "ingredient": "Flank/sirloin steak",
         "qty": 200,
+        "note": "cubed, standing in for pork shoulder"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
       },
       {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
+        "ingredient": "Bay leaves",
+        "qty": 2,
         "note": ""
       },
       {
-        "ingredient": "Lime juice",
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
         "qty": 1,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Season the fish with the dill and dot with the butter.",
-      "Bake at 400F for 15-18 minutes until just cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 220,
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed, standing in for pork shoulder"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
         "note": ""
       },
       {
-        "ingredient": "Dill weed, fresh",
+        "ingredient": "Bay leaves",
         "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
         "note": ""
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Season the fish with the dill and pepper and dot with the butter.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
-      "Finish with the lime juice."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the bay leaves and broth, and simmer 30-35 minutes until tender.",
+      "Whisk the flour into the sour cream until smooth, then stir this into the pot - real technique dissolves them together first so the sauce doesn't turn lumpy.",
+      "Simmer 5-8 minutes more until thickened."
     ],
-    "description": "A simple baked fish with dill."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the bay leaves and broth, and simmer 30-35 minutes until tender.",
+      "Whisk the flour into the sour cream until smooth, then stir this into the pot - real technique dissolves them together first so the sauce doesn't turn lumpy.",
+      "Simmer 5-8 minutes more until thickened."
+    ],
+    "tags": []
   },
   {
-    "name": "Belarusian Cheese and Potato Bake",
+    "name": "Belarusian Kalduny",
     "cuisine": "belarusian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato with the sour cream in a small dish and bake at 375F, covered, for 25 minutes.",
-      "Uncover, top with the cheese, and bake 10-12 more minutes until golden."
-    ],
+    "description": "Kalduny, dumplings filled with real seasoned meat, are a genuine Belarusian evening staple, real technique working the filling until it's smooth and well combined before sealing the dumplings, so it doesn't fall apart in the water.",
     "ingredients_full": [
       {
-        "ingredient": "Cheese, cheddar",
+        "ingredient": "All-purpose flour",
         "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour with enough water to form a firm dough. Rest 15 minutes.",
+      "Mix the beef with the onion and pepper until well combined and smooth.",
+      "Roll the dough thin and cut into rounds, fill each with a spoonful of the meat mixture, and seal into half-moons.",
+      "Boil in salted water 8-10 minutes until they float and the filling is cooked through."
+    ],
+    "steps": [
+      "Mix the flour with enough water to form a firm dough. Rest 15 minutes.",
+      "Mix the beef with the onion and pepper until well combined and smooth.",
+      "Roll the dough thin and cut into rounds, fill each with a spoonful of the meat mixture, and seal into half-moons.",
+      "Boil in salted water 8-10 minutes until they float and the filling is cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Potato Babka",
+    "cuisine": "belarusian",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Potato babka, a baked grated potato pudding, is a genuine Belarusian staple, real technique baking until the top turns deeply golden and slightly crisp.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 250,
         "note": "grated"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
-      "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake."
-  },
-  {
-    "name": "Belarusian Cheese and Rye Snack",
-    "cuisine": "belarusian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Top the rye bread with the cheese and dill."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
+        "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread, top with the cheese and dill."
-    ],
-    "description": "A simple cheese and rye bread snack."
-  },
-  {
-    "name": "Belarusian Beet Snack",
-    "cuisine": "belarusian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 100,
-        "note": "cooked and grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the cooked, grated beets with the garlic and oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 115,
-        "note": "cooked and grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 15,
-        "note": "to top"
-      }
-    ],
-    "steps_detailed": [
-      "Boil the beets until tender, 20-25 minutes, then cool and grate.",
-      "Toss with the garlic and oil, and top with a small dollop of sour cream."
-    ],
-    "description": "A simple beet snack."
-  },
-  {
-    "name": "Belarusian Caraway Crackers",
-    "cuisine": "belarusian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "cold"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Rub the butter into the flour and caraway.",
-      "Add the milk to form a firm dough, roll thin, cut into shapes, and bake at 375F for 12-15 minutes until crisp."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the butter into the flour, caraway, and pepper until crumbly.",
-      "Add the milk to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and lightly golden."
-    ],
-    "description": "A simple caraway cracker, caraway being a common Belarusian spice."
-  },
-  {
-    "name": "Belarusian Cabbage Slaw",
-    "cuisine": "belarusian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the cabbage with the oil and lime juice.",
-      "Let sit 10 minutes so it softens slightly."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage with the oil, lime juice, and pepper.",
-      "Let sit 15 minutes so it softens slightly before serving."
-    ],
-    "description": "A simple cabbage slaw."
-  },
-  {
-    "name": "Belarusian Honey Cake",
-    "cuisine": "belarusian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 25,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cream the butter and honey, mix in the flour, and layer with the sour cream.",
-      "Bake at 350F for 20-22 minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 30,
-        "note": ""
+        "note": "grated"
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 1,
         "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 250,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the grated potato and onion with the egg and flour.",
+      "Pour into an oiled baking dish and bake at 400F (200C) for 35-40 minutes until deeply golden on top."
+    ],
+    "steps": [
+      "Mix the grated potato and onion with the egg and flour.",
+      "Pour into an oiled baking dish and bake at 400F (200C) for 35-40 minutes until deeply golden on top."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Beet Soup (Kholodnik)",
+    "cuisine": "belarusian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "description": "Kholodnik, a cold beet soup with real yogurt and cucumber, is a beloved summer staple, real technique chilling thoroughly before serving.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, for topping"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, for topping"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the beets until tender, 25-30 minutes, then peel and dice.",
+      "Whisk the yogurt with 0.5 cup water until smooth.",
+      "Stir in the beets and cucumber, and chill at least 1 hour.",
+      "Top with the chopped hard-boiled egg and dill before serving."
+    ],
+    "steps": [
+      "Boil the beets until tender, 25-30 minutes, then peel and dice.",
+      "Whisk the yogurt with 0.5 cup water until smooth.",
+      "Stir in the beets and cucumber, and chill at least 1 hour.",
+      "Top with the chopped hard-boiled egg and dill before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Cepelinai-Style Potato Dumplings",
+    "cuisine": "belarusian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Large potato dumplings filled with real ground meat, shared in spirit with neighboring Lithuania, real technique using raw grated potato alongside mashed for a real chewy texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "half grated raw, half boiled and mashed"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "half grated raw, half boiled and mashed"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the raw grated and mashed potato together into a dough.",
+      "Mix the beef with the onion.",
+      "Shape the potato dough around a spoonful of the meat filling into an oval dumpling.",
+      "Simmer in salted water 25-28 minutes until cooked through."
+    ],
+    "steps": [
+      "Mix the raw grated and mashed potato together into a dough.",
+      "Mix the beef with the onion.",
+      "Shape the potato dough around a spoonful of the meat filling into an oval dumpling.",
+      "Simmer in salted water 25-28 minutes until cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Rye Bread",
+    "cuisine": "belarusian",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Dark rye bread is Belarus's most essential staple bread, eaten with nearly every meal - real rye flour isn't a distinct item here, so all-purpose flour stands in, missing rye's real dense, tangy character.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "standing in for rye flour"
       },
       {
         "ingredient": "Baking powder",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "standing in for rye flour"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cream the butter and honey until light, then beat in the egg.",
-      "Fold in the flour and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until golden.",
-      "Top or fill with the sour cream once cooled."
+      "Mix the flour, baking powder, and vinegar with enough water to form a firm dough.",
+      "Shape into a small round loaf and bake at 375F (190C) for 25-28 minutes until deeply golden and firm."
     ],
-    "description": "A simple honey cake."
+    "steps": [
+      "Mix the flour, baking powder, and vinegar with enough water to form a firm dough.",
+      "Shape into a small round loaf and bake at 375F (190C) for 25-28 minutes until deeply golden and firm."
+    ],
+    "tags": []
   },
   {
-    "name": "Belarusian Rice Pudding",
+    "name": "Belarusian Beet and Carrot Salad",
     "cuisine": "belarusian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple beet and carrot salad, a common Belarusian side, real technique dressing while the beets are still slightly warm so they absorb the flavor.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and grated"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
     ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and grated"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the beets until tender, 25-30 minutes, then peel and grate while still warm.",
+      "Toss with the carrot, oil, and vinegar."
+    ],
+    "steps": [
+      "Boil the beets until tender, 25-30 minutes, then peel and grate while still warm.",
+      "Toss with the carrot, oil, and vinegar."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Roasted Peanuts",
+    "cuisine": "belarusian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted peanut snack, a common Belarusian accompaniment to a drink.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
         "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Belarusian Apple Cake",
-    "cuisine": "belarusian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 130,
-        "note": "peeled and chopped"
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Beef and Vegetable Stew",
+    "cuisine": "belarusian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Belarusian home cooking.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 18,
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Belarusian Kvass-Style Rye Drink",
+    "cuisine": "belarusian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple sweetened rye-bread drink echoing the flavor of kvass, Belarus's traditional fermented beverage, made here as a quicker non-fermented version.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "toasted until dark, torn"
       },
       {
         "ingredient": "Granulated sugar",
@@ -1145,67 +635,43 @@
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Toss the apple with the sugar.",
-      "Mix the flour and butter with the apple, pour into a small pan, and bake at 350F for 25-28 minutes until golden."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 145,
-        "note": "peeled and chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "toasted until dark, torn"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 2,
+        "qty": 1.5,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
       }
     ],
     "steps_detailed": [
-      "Toss the apple with the sugar and cinnamon.",
-      "Mix the flour, butter, and egg with the apple, pour into a small lined pan, and bake at 350F (175C) for 27-32 minutes until golden and a skewer comes out clean."
+      "Steep the toasted, torn bread in 2 cups hot water 20 minutes.",
+      "Strain, stir in the sugar, and chill before serving."
     ],
-    "description": "A simple apple cake."
+    "steps": [
+      "Steep the toasted, torn bread in 2 cups hot water 20 minutes.",
+      "Strain, stir in the sugar, and chill before serving."
+    ],
+    "tags": []
   },
   {
     "name": "Belarusian Sour Cream Dill Sauce",
     "cuisine": "belarusian",
     "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "A simple sour cream and dill sauce, a common Belarusian condiment for potato dishes and dumplings.",
+    "ingredients_full": [
       {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
+        "ingredient": "Fresh dill",
+        "qty": 1,
         "note": "tbsp, chopped"
       },
       {
@@ -1214,91 +680,29 @@
         "note": "minced"
       }
     ],
-    "steps": [
-      "Mix the sour cream, dill, and garlic together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.75,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the sour cream, dill, garlic, and pepper together - the standard finishing touch on draniki and potato dishes alike."
-    ],
-    "description": "A simple sour cream and dill sauce."
-  },
-  {
-    "name": "Belarusian Garlic Butter Sauce",
-    "cuisine": "belarusian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Whisk the melted butter with the garlic and pepper."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
+        "ingredient": "Fresh dill",
         "qty": 1,
         "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Whisk the melted butter with the garlic, pepper, and dill."
+      "Mix everything together and chill before serving."
     ],
-    "description": "A simple garlic-butter sauce."
+    "steps": [
+      "Mix everything together and chill before serving."
+    ],
+    "tags": []
   }
 ]
