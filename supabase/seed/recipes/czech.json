@@ -1,1332 +1,732 @@
 [
   {
-    "name": "Czech Bread and Cheese",
-    "cuisine": "czech",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the bread and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread generously, top with the cheese, and finish with a little black pepper."
-    ],
-    "description": "A simple bread and cheese snack."
-  },
-  {
-    "name": "Czech Oat Porridge",
-    "cuisine": "czech",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Czech Eggs with Peppers",
-    "cuisine": "czech",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, green, raw",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Soften the pepper and onion in the butter, 5-6 minutes.",
-      "Scramble in the eggs, cooking gently until just set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, green, raw",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the pepper and onion in the butter over medium heat, 6-7 minutes.",
-      "Scramble in the eggs and black pepper, cooking gently, stirring often, until just set."
-    ],
-    "description": "A simple egg breakfast."
-  },
-  {
-    "name": "Czech Veprove Knedlo Zelo (Roast Pork, Dumplings, Sauerkraut)",
-    "cuisine": "czech",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": "for the dumpling"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Season the pork with the caraway and roast at 400F for 25-28 minutes until browned.",
-      "Simmer the sauerkraut in a little water alongside.",
-      "Mix the flour with water and a pinch of salt, shape into a small dumpling, and simmer 15-18 minutes until cooked through, then slice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 45,
-        "note": "for the dumpling"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Season the pork with the caraway and roast at 400F (200C) for 26-30 minutes until well browned and rendered.",
-      "Simmer the sauerkraut in a little water and the pork drippings, 10-12 minutes.",
-      "Mix the flour, egg, butter, and enough water into a firm dough, shape into a small loaf, and simmer 18-20 minutes until cooked through, then slice."
-    ],
-    "description": "Veprove knedlo zelo - roast pork, bread dumpling, and sauerkraut together on one plate - is considered the Czech national dish."
-  },
-  {
-    "name": "Czech Goulash",
-    "cuisine": "czech",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 30,
-        "note": "for dumplings"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion and paprika.",
-      "Add 1.5 cups water and simmer 30-35 minutes until tender.",
-      "Mix the flour with water into a firm dough, shape into a small dumpling, and simmer 15 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": "for dumplings"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, and paprika over medium-high heat, 9-11 minutes.",
-      "Add 1.75 cups water and simmer 32-38 minutes until fully tender.",
-      "Mix the flour, egg, and enough water into a firm dough, shape into a dumpling, and simmer 16-18 minutes until cooked through, then slice and serve alongside.",
-      "Czech gulas is generally thicker and served with bread dumplings, distinct from the soupier Hungarian original it borrows its name from."
-    ],
-    "description": "Goulash, adopted from neighboring Hungary, has its own Czech regional character."
-  },
-  {
-    "name": "Czech Potato Dumplings",
-    "cuisine": "czech",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Mix the mashed potato with the flour and egg into a firm dough.",
-      "Shape into balls and simmer in water 10-12 minutes until they float.",
-      "Toss in the melted butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the mashed potato with the flour, egg, and pepper into a firm, workable dough.",
-      "Shape into even balls and simmer in gently boiling water 12-14 minutes until they float and are cooked through.",
-      "Toss in the melted butter before serving."
-    ],
-    "description": "Knedl\u00edky, dense dumplings, a staple Czech side dish, often made from potato or bread."
-  },
-  {
-    "name": "Czech Fried Cheese (Smazeny Syr)",
-    "cuisine": "czech",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 70,
-        "note": "sliced thick"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": "for dredging"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps": [
-      "Dredge the cheese in the flour, then the beaten egg.",
-      "Fry in the oil, 1-2 minutes per side, until the coating is golden and the cheese is warm and soft inside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 80,
-        "note": "sliced thick"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 25,
-        "note": "for dredging"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2.5,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Dredge the cheese in the flour with the pepper, then the beaten egg, pressing to coat well.",
-      "Fry in the oil over medium-high heat, 2-3 minutes per side, until the coating is deeply golden and the cheese is warm and just beginning to soften inside.",
-      "Smazeny syr, a thick slab of fried cheese usually served in a bread roll, is one of the most popular fast foods in the Czech Republic."
-    ],
-    "description": "Sma\u017een\u00fd s\u00fdr, breaded and deep-fried cheese, is a beloved Czech dish, especially as bar food."
-  },
-  {
-    "name": "Czech Svickova (Beef in Cream Sauce)",
+    "name": "Czech Sv\u00ed\u010dkov\u00e1 na Smetan\u011b",
     "cuisine": "czech",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "chunked"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add water and simmer until tender, 40 minutes.",
-      "Stir in the sour cream and serve with boiled potato."
-    ],
+    "description": "Sv\u00ed\u010dkov\u00e1 na smetan\u011b, the Czech Republic's real national dish, depends on genuine technique at every stage: the beef is larded with strips of bacon cut directly into the meat, marinated overnight in a vinegar-and-root-vegetable mixture, then the same root vegetables are saut\u00e9ed and blended into the real cream sauce. Real tradition treats bread dumplings, cranberry sauce, whipped cream, and a lemon slice as four essential, non-optional garnishes, not casual extras.",
     "ingredients_full": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+        "ingredient": "Flank/sirloin steak",
         "qty": 220,
         "note": ""
       },
       {
-        "ingredient": "Carrots, raw",
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 20,
+        "note": "cut into strips"
+      },
+      {
+        "ingredient": "Carrot",
         "qty": 60,
-        "note": "chopped"
+        "note": "diced"
+      },
+      {
+        "ingredient": "Parsnips, raw",
+        "qty": 50,
+        "note": "diced"
       },
       {
         "ingredient": "Celeriac, raw",
         "qty": 50,
-        "note": "chopped"
+        "note": "diced"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
+        "qty": 50,
+        "note": "diced"
       },
       {
-        "ingredient": "Sour cream, light",
-        "qty": 60,
+        "ingredient": "Vinegar, distilled",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 10,
-        "note": ""
+        "ingredient": "Spices, allspice, ground",
+        "qty": 0.25,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 0.5,
+        "qty": 1,
         "note": "tsp"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "365 (Whole Foods) Whole Berry Cranberry Sauce, Whole Berry Cranberry",
+        "qty": 2,
+        "note": "tbsp, for serving"
       }
     ],
-    "steps_detailed": [
-      "Brown the beef with the carrot, celeriac, and onion, 9-11 minutes.",
-      "Add 1.5 cups water, cover, and simmer 40-45 minutes until the beef is very tender and the vegetables have fully softened.",
-      "Return the smooth sauce to the pot, whisk in the sour cream, sugar, and lime juice off the heat, and warm through gently without boiling.",
-      "Slice the beef and serve under the sauce."
-    ],
-    "description": "Lift out the beef, then blend the cooking liquid and vegetables together with the flour until completely smooth - this pureed root vegetable base, not a simple cream sauce, is what actually gives svickova its body and its name (from the way of slicing the beef, but the sauce is the real technical heart of the dish). The root vegetable puree is what separates real svickova from a generic beef-in-cream-sauce dish - carrots and celeriac cooked down and blended into the sauce itself, not left as chunks, are the actual technique the dish is built on."
-  },
-  {
-    "name": "Czech Roast Pork with Caraway",
-    "cuisine": "czech",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
         "note": ""
       },
       {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Season the pork with the caraway and pepper and roast at 400F for 25-30 minutes until browned.",
-      "Steam the cabbage alongside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 230,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 115,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Season the pork generously with the caraway, pepper, and garlic and roast at 400F (200C) for 28-32 minutes until deeply browned and the fat has rendered.",
-      "Steam the cabbage in the last 10-12 minutes and serve alongside."
-    ],
-    "description": "Roast pork with caraway, a classic Czech flavor pairing."
-  },
-  {
-    "name": "Czech Beef and Pepper Stew",
-    "cuisine": "czech",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 90,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion and paprika.",
-      "Add the pepper and 1.5 cups water, and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.4,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, and paprika over medium-high heat, 9-11 minutes.",
-      "Add the pepper and 1.75 cups water, and simmer 32-38 minutes until fully tender."
-    ],
-    "description": "A simple beef and pepper stew."
-  },
-  {
-    "name": "Czech Cheese and Potato Bake",
-    "cuisine": "czech",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato with the milk in a small dish and bake at 375F, covered, for 30 minutes.",
-      "Uncover, top with the cheese, and bake 10-15 more minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the milk, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 32-35 minutes until tender.",
-      "Uncover, top with the cheese, and bake 12-15 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake."
-  },
-  {
-    "name": "Czech Bread Dumpling Snack",
-    "cuisine": "czech",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Mix the flour, egg, and pepper into a firm dough.",
-      "Shape into a small dumpling and simmer in water 12-15 minutes until cooked through.",
-      "Toss with the butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
+        "ingredient": "Pork, cured, bacon, cooked, baked",
         "qty": 20,
-        "note": "finely chopped, softened"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flour, egg, pepper, and softened onion into a firm, workable dough.",
-      "Shape into a small dumpling and simmer in gently boiling water 14-16 minutes until cooked through.",
-      "Slice and toss with the butter - simple bread dumpling is eaten on its own just as often as alongside a main course."
-    ],
-    "description": "A smaller, snack-sized version of knedl\u00edky."
-  },
-  {
-    "name": "Czech Caraway Crackers",
-    "cuisine": "czech",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+        "note": "cut into strips"
+      },
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Parsnips, raw",
         "qty": 50,
-        "note": ""
+        "note": "diced"
       },
       {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.75,
-        "note": "tsp"
+        "ingredient": "Celeriac, raw",
+        "qty": 50,
+        "note": "diced"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "cold"
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "diced"
       },
       {
-        "ingredient": "Whole milk (generic)",
+        "ingredient": "Vinegar, distilled",
         "qty": 2,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Rub the butter into the flour and caraway.",
-      "Add the milk to form a firm dough, roll thin, cut into shapes, and bake at 375F for 12-15 minutes until crisp."
-    ],
-    "ingredients_full": [
+      },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
+        "ingredient": "Bay leaves",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Spices, caraway seed",
-        "qty": 1,
+        "ingredient": "Spices, allspice, ground",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2.5,
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
+        "ingredient": "Granulated sugar",
+        "qty": 1,
         "note": "tsp"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Whole Berry Cranberry Sauce, Whole Berry Cranberry",
+        "qty": 2,
+        "note": "tbsp, for serving"
       }
     ],
     "steps_detailed": [
-      "Rub the butter into the flour, caraway, and pepper until crumbly.",
-      "Add the milk to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and lightly golden."
-    ],
-    "description": "A simple caraway cracker, caraway being a common Czech spice."
-  },
-  {
-    "name": "Czech Cheese and Pepper Snack",
-    "cuisine": "czech",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Peppers, sweet, yellow, raw",
-        "qty": 1,
-        "note": "whole, sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
+      "Cut small slits into the beef and press the bacon strips into them - this real larding technique is what keeps the meat moist through the long braise.",
+      "Toss the carrot, parsnip, celeriac, and onion with the vinegar, bay leaf, and allspice, add the beef, and marinate in the refrigerator at least 12 hours, ideally overnight.",
+      "Remove the beef and pat dry; saut\u00e9 the marinated vegetables in a little oil until golden, 8-10 minutes.",
+      "Return the beef to the pot with the vegetables and enough water to partly cover, and simmer 2-2.5 hours, until the beef is genuinely tender.",
+      "Remove the beef and blend the vegetables and cooking liquid until completely smooth, then stir in the sugar and sour cream off the heat, so it doesn't curdle.",
+      "Slice the beef and serve with the sauce, cranberry sauce, and a slice of lemon - real tradition treats these garnishes as essential, not optional."
     ],
     "steps": [
-      "Slice the pepper into strips.",
-      "Serve with the cheese and a light spread of butter."
+      "Cut small slits into the beef and press the bacon strips into them - this real larding technique is what keeps the meat moist through the long braise.",
+      "Toss the carrot, parsnip, celeriac, and onion with the vinegar, bay leaf, and allspice, add the beef, and marinate in the refrigerator at least 12 hours, ideally overnight.",
+      "Remove the beef and pat dry; saut\u00e9 the marinated vegetables in a little oil until golden, 8-10 minutes.",
+      "Return the beef to the pot with the vegetables and enough water to partly cover, and simmer 2-2.5 hours, until the beef is genuinely tender.",
+      "Remove the beef and blend the vegetables and cooking liquid until completely smooth, then stir in the sugar and sour cream off the heat, so it doesn't curdle.",
+      "Slice the beef and serve with the sauce, cranberry sauce, and a slice of lemon - real tradition treats these garnishes as essential, not optional."
     ],
+    "tags": []
+  },
+  {
+    "name": "Czech Knedl\u00edky (Bread Dumplings)",
+    "cuisine": "czech",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Knedl\u00edky, soft bread dumplings, are the real, traditional way to soak up sv\u00ed\u010dkov\u00e1's sauce, real technique letting the yeasted dough rise properly before boiling, then slicing the cooked dumpling with thread rather than a knife, which keeps it from getting squashed.",
     "ingredients_full": [
       {
-        "ingredient": "Cheese, cheddar",
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "torn into small cubes"
+      },
+      {
+        "ingredient": "All-purpose flour",
         "qty": 45,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Peppers, sweet, yellow, raw",
-        "qty": 1.25,
-        "note": "whole, sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
+        "ingredient": "Baking powder",
+        "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "torn into small cubes"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 3,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Slice the pepper into strips and season lightly with black pepper.",
-      "Serve with the cheese and a light spread of butter - a simple, common snack plate."
+      "Mix the flour, baking powder, egg, and milk into a soft dough, then fold in the torn bread cubes.",
+      "Let rest 20 minutes.",
+      "Shape into a log and wrap tightly in a clean kitchen towel or foil.",
+      "Simmer in a large pot of water 20-25 minutes, turning once, until firm.",
+      "Let rest a few minutes, then slice with thread rather than a knife, to keep the dumpling from getting squashed."
     ],
-    "description": "A simple cheese and pepper snack."
+    "steps": [
+      "Mix the flour, baking powder, egg, and milk into a soft dough, then fold in the torn bread cubes.",
+      "Let rest 20 minutes.",
+      "Shape into a log and wrap tightly in a clean kitchen towel or foil.",
+      "Simmer in a large pot of water 20-25 minutes, turning once, until firm.",
+      "Let rest a few minutes, then slice with thread rather than a knife, to keep the dumpling from getting squashed."
+    ],
+    "tags": []
   },
   {
-    "name": "Czech Pickled Sauerkraut Snack",
+    "name": "Czech Gul\u00e1\u0161",
     "cuisine": "czech",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Gul\u00e1\u0161, a real paprika-forward beef stew, is one of the Czech Republic's national dishes alongside sv\u00ed\u010dkov\u00e1, real technique cooking the onions down thoroughly before the paprika goes in, so it doesn't scorch and turn bitter.",
+    "ingredients_full": [
       {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 90,
-        "note": ""
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 20,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Toss the sauerkraut with the onion and oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Spices, caraway seed",
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 1.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Ground cumin",
         "qty": 0.25,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the sauerkraut with the onion, oil, and caraway.",
-      "Let sit 10 minutes so the flavors meld before serving - a simple, sharp little side eaten alongside heavier dishes."
+      "Cook the onion over medium heat, stirring occasionally, 15-18 minutes, until deeply softened.",
+      "Add the garlic and remove from the heat briefly before stirring in the paprika, so it doesn't scorch.",
+      "Add the beef, broth, and cumin, and simmer 1-1.5 hours, until the beef is genuinely tender."
     ],
-    "description": "A simple pickled sauerkraut snack."
+    "steps": [
+      "Cook the onion over medium heat, stirring occasionally, 15-18 minutes, until deeply softened.",
+      "Add the garlic and remove from the heat briefly before stirring in the paprika, so it doesn't scorch.",
+      "Add the beef, broth, and cumin, and simmer 1-1.5 hours, until the beef is genuinely tender."
+    ],
+    "tags": []
   },
   {
-    "name": "Czech Apricot Dumplings",
+    "name": "Czech Brambor\u00e1ky (Potato Pancakes)",
     "cuisine": "czech",
-    "meal_type": "dessert",
+    "meal_type": "breakfast",
     "course": "complete",
-    "tags": [
-      "vegetarian"
+    "description": "Brambor\u00e1ky, crispy grated potato pancakes seasoned with real garlic and marjoram, are a beloved Czech snack, real technique squeezing excess liquid from the grated potato so the pancakes fry crisp rather than soggy.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, marjoram, dried",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
     ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Apricots, raw",
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, marjoram, dried",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Squeeze the grated potato well to remove excess liquid.",
+      "Mix with the flour, garlic, egg, and marjoram.",
+      "Drop spoonfuls into hot oil and fry, flattening slightly, 3-4 minutes per side, until deeply golden and crisp."
+    ],
+    "steps": [
+      "Squeeze the grated potato well to remove excess liquid.",
+      "Mix with the flour, garlic, egg, and marjoram.",
+      "Drop spoonfuls into hot oil and fry, flattening slightly, 3-4 minutes per side, until deeply golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Czech Cucumber Salad",
+    "cuisine": "czech",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple vinegar-dressed cucumber salad, a common Czech side, real technique salting the cucumber first to draw out excess water for a crisper salad.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar, oil, and sugar together, and toss with the cucumber."
+    ],
+    "steps": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar, oil, and sugar together, and toss with the cucumber."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Czech Roast Pork with Sauerkraut (Vep\u0159o Knedlo Zelo)",
+    "cuisine": "czech",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Vep\u0159o knedlo zelo, roast pork with dumplings and sauerkraut, is a genuine Czech comfort-food staple, real technique caramelizing the pork skin-side down first for real depth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "standing in for pork"
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Sauerkraut, canned, solids and liquids",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "standing in for pork"
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Sauerkraut, canned, solids and liquids",
+        "qty": 100,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Rub the beef with the caraway and garlic.",
+      "Sear well on all sides, 8-9 minutes, then roast at 375F (190C) for 25-30 minutes.",
+      "Warm the sauerkraut in a separate pan 8-10 minutes, and serve alongside."
+    ],
+    "steps": [
+      "Rub the beef with the caraway and garlic.",
+      "Sear well on all sides, 8-9 minutes, then roast at 375F (190C) for 25-30 minutes.",
+      "Warm the sauerkraut in a separate pan 8-10 minutes, and serve alongside."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Czech Fruit Dumplings (Ovocn\u00e9 Knedl\u00edky)",
+    "cuisine": "czech",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Ovocn\u00e9 knedl\u00edky, dumplings wrapped around whole fruit, are a beloved Czech dessert, real technique sealing the dough completely around the fruit so the juices stay trapped inside while boiling.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Peaches, canned, extra light syrup, solids and liquids (Includes foods for USDA's Food Distribution Program)",
+        "qty": 4,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Peaches, canned, extra light syrup, solids and liquids (Includes foods for USDA's Food Distribution Program)",
+        "qty": 4,
+        "note": "drained"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the mashed potato, flour, and egg into a soft dough.",
+      "Divide into portions and flatten each, wrapping fully and sealing around a piece of peach.",
+      "Simmer in gently boiling water 10-12 minutes until they float.",
+      "Toss with the sugar and cinnamon before serving."
+    ],
+    "steps": [
+      "Mix the mashed potato, flour, and egg into a soft dough.",
+      "Divide into portions and flatten each, wrapping fully and sealing around a piece of peach.",
+      "Simmer in gently boiling water 10-12 minutes until they float.",
+      "Toss with the sugar and cinnamon before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Czech Roasted Almonds",
+    "cuisine": "czech",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across the Czech Republic.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Czech Beef and Vegetable Stew",
+    "cuisine": "czech",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Czech home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
         "qty": 80,
-        "note": "pitted"
+        "note": "cubed"
       },
       {
-        "ingredient": "Yukon gold potato",
+        "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
         "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
-    "steps": [
-      "Mix the mashed potato with the flour into a soft dough.",
-      "Wrap portions of dough around each apricot, sealing well, and simmer in water 10-12 minutes until they float.",
-      "Roll in the sugar before serving."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Apricots, raw",
-        "qty": 90,
-        "note": "pitted"
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Yukon gold potato",
-        "qty": 115,
-        "note": "boiled and mashed"
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": "melted, for rolling"
       }
     ],
     "steps_detailed": [
-      "Mix the mashed potato with the flour into a soft, workable dough.",
-      "Wrap portions of dough around each pitted apricot, sealing well, and simmer in gently boiling water 12-14 minutes until they float.",
-      "Roll in the melted butter and sugar before serving - meruntkove knedliky, fruit-filled potato dumplings, appear with plums, apricots, or strawberries depending on the season."
-    ],
-    "description": "Fruit dumplings, often filled with apricot or plum, a beloved Czech dessert."
-  },
-  {
-    "name": "Czech Almond Cake",
-    "cuisine": "czech",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 25,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Cream the butter, beat in the egg, then fold in the flour and almonds.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 30,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 24,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter and sugar until light, then beat in the egg.",
-      "Fold in the flour and almonds, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ],
-    "description": "A simple almond cake."
+    "tags": []
   },
   {
-    "name": "Czech Rice Pudding",
+    "name": "Czech Horseradish Cream Sauce",
     "cuisine": "czech",
-    "meal_type": "dessert",
+    "meal_type": "sauce",
     "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "A simple horseradish cream sauce, a common Czech condiment for roasted meats.",
+    "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
+        "ingredient": "Horseradish, prepared",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
+        "ingredient": "Horseradish, prepared",
+        "qty": 1.5,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Czech Sour Cream Dill Sauce",
-    "cuisine": "czech",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
+      "Whisk the sour cream and horseradish together and chill before serving."
     ],
     "steps": [
-      "Warm the sour cream, dill, and butter together gently until smooth."
+      "Whisk the sour cream and horseradish together and chill before serving."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the sour cream, dill, butter, and pepper together gently over low heat, stirring, until smooth - do not let it boil.",
-      "Good over potatoes, fish, or dumplings."
-    ],
-    "description": "A simple sour cream and dill sauce."
-  },
-  {
-    "name": "Czech Caraway Onion Sauce",
-    "cuisine": "czech",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook the onion slowly in the butter with the caraway until deeply softened, about 12-15 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yellow onion",
-        "qty": 70,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the onion slowly in the butter with the caraway and pepper over medium-low heat, 15-18 minutes, until deeply softened and golden.",
-      "Good over roasted pork or dumplings."
-    ],
-    "description": "A simple caraway-onion sauce, caraway being a common Czech spice."
+    "tags": []
   }
 ]

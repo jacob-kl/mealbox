@@ -1,328 +1,20 @@
 [
   {
-    "name": "Danish Rye Bread with Butter and Cheese",
+    "name": "Danish Frikadeller",
     "cuisine": "danish",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Butter the rye bread and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread generously, top with the cheese, and finish with a little black pepper.",
-      "Dense rugbrod is eaten constantly in Denmark, plain or topped with cheese, cold cuts, or fish."
-    ],
-    "description": "Rugbr\u00f8d, dense rye bread, is the everyday foundation of Danish eating, especially for sm\u00f8rrebr\u00f8d."
-  },
-  {
-    "name": "Danish Oat Porridge",
-    "cuisine": "danish",
-    "meal_type": "breakfast",
+    "meal_type": "dinner",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
+    "description": "Frikadeller, Denmark's beloved meatballs, are genuinely flattened, not round like Italian or Swedish meatballs, and pan-fried gently in butter, not baked or simmered in sauce - real technique grates the onion on a box grater and mixes in its released liquid too, and the mixture is deliberately not overmixed and rested in the fridge before shaping, which keeps them tender rather than dense.",
     "ingredients_full": [
       {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": "standing in for a pork-veal blend"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Danish Eggs with Herring",
-    "cuisine": "danish",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Scramble the eggs gently.",
-      "Fold in the herring and dill just before they finish setting."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
+        "ingredient": "Yellow onion",
         "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
-      "Fold in the herring and dill just before they finish setting - fish at breakfast is entirely ordinary in Denmark."
-    ],
-    "description": "A simple egg and herring breakfast, herring being a Danish staple."
-  },
-  {
-    "name": "Danish Smorrebrod with Herring",
-    "cuisine": "danish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 20,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Top the rye bread with the herring, onion, and dill."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread, then top generously with the herring, onion, and dill."
-    ],
-    "description": "Smorrebrod, open-faced and eaten with a knife and fork, is a genuine art form in Denmark - a proper spread can run to dozens of topping combinations."
-  },
-  {
-    "name": "Danish Smorrebrod with Egg and Cheese",
-    "cuisine": "danish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled, sliced"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 25,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the rye bread and top with the egg and cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": "hard-boiled, sliced"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread generously, top with the sliced egg and cheese, and finish with black pepper."
-    ],
-    "description": "Sm\u00f8rrebr\u00f8d, open-faced rye bread sandwiches, are a Danish institution with endless topping variations."
-  },
-  {
-    "name": "Danish Frikadeller (Veal Meatballs)",
-    "cuisine": "danish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Veal, ground, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 15,
-        "note": ""
+        "note": "grated, juice included"
       },
       {
         "ingredient": "Eggs (large)",
@@ -330,961 +22,627 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped"
-      }
-    ],
-    "steps": [
-      "Mix the veal with the flour, egg, and onion, and form into small oval patties.",
-      "Pan-fry in a little oil, 4-5 minutes per side, until browned and cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Veal, ground, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.125,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the veal with the flour, egg, onion, milk, and pepper thoroughly, and form into small oval patties.",
-      "Pan-fry in a little oil over medium heat, 5-6 minutes per side, until deeply browned and cooked through."
-    ],
-    "description": "Frikadeller, traditionally a pork-veal blend, are the closest thing Denmark has to a national dish, served at nearly every family dinner."
-  },
-  {
-    "name": "Danish Pork Belly with Sweet-Sour Cabbage",
-    "cuisine": "danish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Roast the pork belly at 400F for 25-30 minutes until well browned.",
-      "Simmer the cabbage with the sugar and lime juice for 15 minutes until tender and glossy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 115,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Roast the pork belly at 400F (200C) for 28-32 minutes, until well browned and rendered.",
-      "Simmer the shredded cabbage with the sugar, lime juice, and butter over medium-low heat, 16-18 minutes, until tender and glossy.",
-      "Sweet-sour red cabbage (rodkal) is the standard partner to roast pork across Denmark - plain cabbage stands in for red here, since a distinct red cabbage entry isn't in this database."
-    ],
-    "description": "Pork belly with sweet-sour cabbage, a classic Danish home-cooking pairing."
-  },
-  {
-    "name": "Danish Flaeskesteg (Roast Pork)",
-    "cuisine": "danish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Roast the pork at 375F for 55-60 minutes.",
-      "Roast the potatoes alongside.",
-      "Simmer the cabbage in butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 240,
-        "note": "skin-on if available"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Roast the potatoes alongside for the last 40 minutes.",
-      "Simmer the cabbage in the butter until tender, 12-15 minutes."
-    ],
-    "description": "Score the pork skin in a tight crosshatch pattern, cutting through the fat but not into the meat, and rub coarse salt and the pepper deep into every cut - this scoring is what actually produces crackling; without it the fat renders but the skin stays soft rather than shattering crisp. Roast skin-side up at 350F (175C) for 60-70 minutes, then increase to 475F (245C) for a final 10-15 minutes specifically to blister and crisp the scored skin into crackling - watch closely in this final stage, since it goes from perfect to burnt quickly. Rest the pork 10 minutes before slicing through the crackling. Fl\u00e6skesteg is defined by its crackling as much as by the meat itself - the two-temperature roast, finishing hot specifically to blister the scored skin, is the technique the whole dish depends on, and skipping it turns this into an ordinary pork roast rather than fl\u00e6skesteg."
-  },
-  {
-    "name": "Danish Baked Salmon with Dill",
-    "cuisine": "danish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Season the salmon with the dill and dot with the butter.",
-      "Bake at 400F for 15-18 minutes until just cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the salmon with the dill and pepper and dot with the butter.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
-      "Finish with the lime juice - simply prepared salmon and dill is a familiar pairing across Denmark's coastal towns."
-    ],
-    "description": "A simple baked salmon, dill being a defining Scandinavian herb."
-  },
-  {
-    "name": "Danish Pork and Cabbage Stew with Caraway",
-    "cuisine": "danish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 110,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the pork with the onion and caraway.",
-      "Add the cabbage and a splash of water, cover, and simmer 20-25 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 125,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the pork with the onion, caraway, and pepper over medium-high heat, 10-12 minutes.",
-      "Add the cabbage and a generous splash of water, cover, and simmer 22-26 minutes until fully tender.",
-      "Caraway is used throughout Danish cooking much as it is elsewhere in Northern Europe, cutting through rich, fatty pork."
-    ],
-    "description": "A simple pork and cabbage stew, caraway being a common Danish spice."
-  },
-  {
-    "name": "Danish Cheese and Potato Bake",
-    "cuisine": "danish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato with the milk in a small dish and bake at 375F, covered, for 30 minutes.",
-      "Uncover, top with the cheese, and bake 10-15 more minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the milk, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 32-35 minutes until tender.",
-      "Uncover, top with the cheese, and bake 12-15 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake."
-  },
-  {
-    "name": "Danish Liver Pate on Rye",
-    "cuisine": "danish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Veal, variety meats and by-products, liver, raw",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      }
-    ],
-    "steps": [
-      "Simmer the liver and onion in a little water until fully cooked, about 12-15 minutes.",
-      "Mash with the butter until smooth, and spread on the rye bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Veal, variety meats and by-products, liver, raw",
-        "qty": 115,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the liver and onion in a little water over medium-low heat, 14-16 minutes, until fully cooked through.",
-      "Mash thoroughly with the butter and pepper until smooth and spreadable, and spread generously on the rye bread."
-    ],
-    "description": "Leverpostej, traditionally made with pork liver, is one of the most common toppings on a Danish lunch table - veal liver carries the same rich, iron-forward character here."
-  },
-  {
-    "name": "Danish Almond Cookies",
-    "cuisine": "danish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 20,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Cream the butter and sugar, mix in the flour and almonds, and shape into small rounds.",
-      "Bake at 350F for 12-15 minutes until lightly golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 25,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 28,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.25,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter and sugar until light, beat in a little egg, and mix in the flour and almonds until it forms a soft dough.",
-      "Shape into small rounds and bake at 350F (175C) for 13-16 minutes until lightly golden at the edges."
-    ],
-    "description": "Simple almond cookies, a common Danish Christmas treat."
-  },
-  {
-    "name": "Danish Pickled Herring Plate",
-    "cuisine": "danish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "fish",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Arrange the pickled herring with the onion and dill."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the pickled herring with the onion and dill, finishing with a small squeeze of lime juice - a simple, familiar cold plate found at nearly any Danish gathering."
-    ],
-    "description": "Pickled herring, a Danish sm\u00f8rrebr\u00f8d staple."
-  },
-  {
-    "name": "Danish Oat and Honey Bars",
-    "cuisine": "danish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Mix the oats with the melted butter and honey.",
-      "Press into a small pan and bake at 350F for 18-20 minutes until set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 15,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the oats, chopped almonds, melted butter, and honey together thoroughly.",
-      "Press firmly into a small lined pan and bake at 350F (175C) for 20-24 minutes until golden and set.",
-      "Cool completely before cutting into bars."
-    ],
-    "description": "A simple oat and honey bar."
-  },
-  {
-    "name": "Danish Risalamande (Rice Pudding with Almonds)",
-    "cuisine": "danish",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 20,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the sugar for 25-30 minutes until thick and creamy.",
-      "Stir in the almonds and chill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Nuts, almonds",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Granulated sugar",
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice in the milk with the sugar and cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "Stir in the chopped almonds and chill at least 1 hour before serving - risalamande, with a whole almond hidden inside for luck, is Denmark's Christmas Eve dessert."
-  },
-  {
-    "name": "Danish Almond Pastry Cake",
-    "cuisine": "danish",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      },
       {
         "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almond paste",
-        "qty": 25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cream the butter with the almond paste, beat in the egg, then fold in the flour.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, almond paste",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 24,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
         "qty": 1,
         "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter with the almond paste and sugar until well combined, then beat in the egg.",
-      "Fold in the flour, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean.",
-      "Almond paste turns up throughout Danish baking, giving pastries their distinctive marzipan-like depth."
-    ],
-    "description": "A simple almond pastry cake, almonds being a common Danish baking ingredient."
-  },
-  {
-    "name": "Danish Apple Cake (Aeblekage)",
-    "cuisine": "danish",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 150,
-        "note": "peeled, chopped, and cooked down"
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 30,
-        "note": "toasted, standing in for cake crumbs"
+        "ingredient": "Spices, allspice, ground",
+        "qty": 0.125,
+        "note": "tsp"
       },
       {
         "ingredient": "Butter, salted",
         "qty": 15,
         "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the apple with a splash of water and half the sugar until soft, then mash lightly.",
-      "Toast the flour in the butter until golden, layer with the apple in a glass, and top with the remaining sugar."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 170,
-        "note": "peeled, chopped, and cooked down"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": "toasted, standing in for cake crumbs"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the apple with a splash of water, half the sugar, and the cinnamon over medium heat, 12-15 minutes, until soft, then mash lightly, leaving some texture.",
-      "Layer the toasted crumbs and apple in a glass, finishing with the remaining sugar - aeblekage is assembled rather than baked, a simple layered dessert built around the apple harvest."
-    ],
-    "description": "Toast the flour in the butter over medium heat, 4-5 minutes, until golden and fragrant, standing in for the buttered cake crumbs used traditionally."
-  },
-  {
-    "name": "Danish Mustard Dill Sauce",
-    "cuisine": "danish",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Whisk the mustard, dill, and honey together into a smooth sauce."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tsp"
       },
       {
         "ingredient": "Vegetable oil",
         "qty": 1,
-        "note": "tsp"
+        "note": "tbsp"
       }
     ],
-    "steps_detailed": [
-      "Whisk the mustard, dill, honey, and oil together into a smooth, glossy sauce.",
-      "This mustard-dill combination is the classic pairing for gravlax and other cured or smoked fish across Denmark."
-    ],
-    "description": "A mustard-dill sauce, the classic pairing for Danish gravlax-style salmon."
-  },
-  {
-    "name": "Danish Sweet-Sour Cabbage",
-    "cuisine": "danish",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "finely shredded"
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": "standing in for a pork-veal blend"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "grated, juice included"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the cabbage with the sugar and lime juice and a splash of water, 15-18 minutes, until tender and glossy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "finely shredded"
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.75,
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Spices, allspice, ground",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with the grated onion (including its liquid), egg, breadcrumbs, milk, flour, and allspice, stirring just until combined - real technique avoids overmixing, which toughens the meatballs.",
+      "Cover and refrigerate at least 30 minutes so the mixture firms up.",
+      "Shape into flattened ovals, not round balls.",
+      "Fry in the butter and oil over medium heat, 4-5 minutes per side, until deeply golden and cooked through."
+    ],
+    "steps": [
+      "Mix the beef with the grated onion (including its liquid), egg, breadcrumbs, milk, flour, and allspice, stirring just until combined - real technique avoids overmixing, which toughens the meatballs.",
+      "Cover and refrigerate at least 30 minutes so the mixture firms up.",
+      "Shape into flattened ovals, not round balls.",
+      "Fry in the butter and oil over medium heat, 4-5 minutes per side, until deeply golden and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Sm\u00f8rrebr\u00f8d",
+    "cuisine": "danish",
+    "meal_type": "lunch",
+    "course": "complete",
+    "description": "Sm\u00f8rrebr\u00f8d, Denmark's open-faced sandwich, has real, specific etiquette - piled generously and eaten with a knife and fork, never picked up by hand like an ordinary sandwich, always built on real dark rye bread, and often topped the next day with the previous night's leftover frikadeller.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "standing in for dark rye bread"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 40,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "standing in for dark rye bread"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 40,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the cucumber with the vinegar and sugar, and let sit 10 minutes to lightly pickle (agurksalat).",
+      "Butter the bread generously all the way to the edges - real technique never skips this, since it keeps the toppings from making the bread soggy.",
+      "Pile the pickled cucumber (and leftover frikadeller, if you have them) generously on top.",
+      "Serve with a knife and fork - real sm\u00f8rrebr\u00f8d is eaten this way, not picked up by hand."
+    ],
+    "steps": [
+      "Toss the cucumber with the vinegar and sugar, and let sit 10 minutes to lightly pickle (agurksalat).",
+      "Butter the bread generously all the way to the edges - real technique never skips this, since it keeps the toppings from making the bread soggy.",
+      "Pile the pickled cucumber (and leftover frikadeller, if you have them) generously on top.",
+      "Serve with a knife and fork - real sm\u00f8rrebr\u00f8d is eaten this way, not picked up by hand."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Braised Red Cabbage (R\u00f8dk\u00e5l)",
+    "cuisine": "danish",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "R\u00f8dk\u00e5l, sweet-and-sour braised red cabbage, is the real, traditional side for frikadeller and roast pork, real technique braising low and slow so the cabbage turns genuinely tender and deeply glazed.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 200,
+        "note": "shredded, standing in for red cabbage"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 7,
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 200,
+        "note": "shredded, standing in for red cabbage"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the cabbage with the sugar, lime juice, butter, and a splash of water over medium-low heat, 16-20 minutes, until tender and glossy.",
-      "Rodkal, sweet-sour cabbage, is the standard side to roast pork and duck across Danish holiday tables."
+      "Cook the cabbage in the butter, vinegar, and sugar, covered, over low heat, stirring occasionally, 30-35 minutes, until genuinely tender and glazed."
     ],
-    "description": "Sweet-sour cabbage, a classic Danish side dish, especially alongside pork."
+    "steps": [
+      "Cook the cabbage in the butter, vinegar, and sugar, covered, over low heat, stirring occasionally, 30-35 minutes, until genuinely tender and glazed."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish \u00c6bleskiver",
+    "cuisine": "danish",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "\u00c6bleskiver, round pancake balls cooked in a special pan, are a beloved Danish treat, real technique folding whipped egg whites into the batter for a real light, fluffy interior.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "separated"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted, for the pan"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "separated"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted, for the pan"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the egg yolk with the milk, flour, baking powder, and sugar into a smooth batter.",
+      "In a separate bowl, whip the egg white to stiff peaks and gently fold into the batter.",
+      "Pour into a buttered, hot round-pan mold and cook 2-3 minutes per side, turning with a skewer, until golden all around."
+    ],
+    "steps": [
+      "Whisk the egg yolk with the milk, flour, baking powder, and sugar into a smooth batter.",
+      "In a separate bowl, whip the egg white to stiff peaks and gently fold into the batter.",
+      "Pour into a buttered, hot round-pan mold and cook 2-3 minutes per side, turning with a skewer, until golden all around."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Remoulade",
+    "cuisine": "danish",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Remoulade, a tangy, mustard-forward mayonnaise sauce with real chopped pickles, is a beloved Danish condiment, served with fish and frikadeller alike.",
+    "ingredients_full": [
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Pickles, cucumber, dill or kosher dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Pickles, cucumber, dill or kosher dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Mix everything together and chill before serving."
+    ],
+    "steps": [
+      "Mix everything together and chill before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Meatball Soup",
+    "cuisine": "danish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Frikadeller simmered directly in beef broth, rather than pan-fried, makes a genuine, hearty Danish soup, real technique dropping the raw meatballs straight into the simmering broth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with the grated onion.",
+      "Bring the broth to a simmer, add the carrot and rice, and cook 10 minutes.",
+      "Drop small spoonfuls of the meat mixture directly into the simmering broth and cook 10-12 minutes more until cooked through."
+    ],
+    "steps": [
+      "Mix the beef with the grated onion.",
+      "Bring the broth to a simmer, add the carrot and rice, and cook 10 minutes.",
+      "Drop small spoonfuls of the meat mixture directly into the simmering broth and cook 10-12 minutes more until cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Pickled Beets",
+    "cuisine": "danish",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Pickled beets are a real, traditional accompaniment to frikadeller, real technique letting them pickle properly so the flavor genuinely penetrates.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the beets until tender, 25-30 minutes, then peel and slice.",
+      "Warm the vinegar and sugar together until dissolved, pour over the beets, and let sit at least 1 hour before serving."
+    ],
+    "steps": [
+      "Boil the beets until tender, 25-30 minutes, then peel and slice.",
+      "Warm the vinegar and sugar together until dissolved, pour over the beets, and let sit at least 1 hour before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Roasted Almonds",
+    "cuisine": "danish",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Denmark.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Beef and Vegetable Stew",
+    "cuisine": "danish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Danish home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Danish Brown Gravy",
+    "cuisine": "danish",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple brown gravy, the real, traditional accompaniment to frikadeller and boiled potatoes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beef broth",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Melt the butter, whisk in the flour, and cook 1-2 minutes.",
+      "Gradually whisk in the broth and simmer 5-6 minutes until thickened."
+    ],
+    "steps": [
+      "Melt the butter, whisk in the flour, and cook 1-2 minutes.",
+      "Gradually whisk in the broth and simmer 5-6 minutes until thickened."
+    ],
+    "tags": []
   }
 ]
