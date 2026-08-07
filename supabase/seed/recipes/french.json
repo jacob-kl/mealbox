@@ -1,765 +1,10 @@
 [
   {
-    "name": "Chicken Provencal",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Quinoa (dry)",
-        "qty": 45,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook quinoa per package directions.",
-      "Sear chicken in olive oil 4-5 min per side, remove.",
-      "Saute shallot and tomatoes 3-4 min with oregano, return chicken to warm through.",
-      "Serve over quinoa."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 150,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 1.2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Kalamata olives",
-        "qty": 8,
-        "note": ""
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Herbes de Provence",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Quinoa (dry)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Season the chicken with salt, pepper, and half the herbes de Provence.",
-      "Heat olive oil in a skillet over medium-high heat. Sear the chicken 4-5 minutes per side until golden, then remove to a plate.",
-      "Add the shallot to the same pan and cook 2 minutes until softened, then add garlic and cook 30 seconds.",
-      "Pour in the wine, scraping up the browned bits, and simmer 1-2 minutes.",
-      "Add the tomatoes, olives, and remaining herbes de Provence. Return the chicken to the pan, spooning some sauce over it.",
-      "Cover and simmer 12-15 minutes until the chicken is cooked through (165F) and the tomatoes have broken down into a light sauce.",
-      "Cook the quinoa per package directions and serve the chicken and sauce over it."
-    ],
-    "description": "A rustic chicken dish built on the classic Proven\u00e7al flavors of tomato, olive, and herbes de Provence."
-  },
-  {
-    "name": "Salmon with Dijon Cream Sauce",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Atlantic salmon (raw)",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 30,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 120,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 45,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook rice per package directions.",
-      "Bake salmon at 400F for 12-15 min.",
-      "Whisk Dijon and yogurt for the sauce, roast or saute zucchini.",
-      "Plate salmon with sauce, zucchini, and rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Atlantic salmon (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 4.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Heavy cream",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 0.8,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.0078,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh dill",
-        "qty": 0.3333,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 120,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Season the salmon with salt and pepper. Heat a lightly oiled skillet over medium-high heat and sear the salmon 3-4 minutes per side until it flakes easily. Remove to a plate.",
-      "In the same pan, add the shallot and cook 1-2 minutes until softened.",
-      "Pour in the wine and simmer 1 minute, then whisk in the mustard, yogurt, and cream. Warm gently over low heat \u2014 don't let it boil, or the yogurt can split.",
-      "Stir in the dill.",
-      "Meanwhile, cook the rice per package directions and saute the zucchini in a separate pan with olive oil, 5-6 minutes until tender.",
-      "Spoon the sauce over the salmon and serve with rice and zucchini."
-    ],
-    "description": "A simple salmon dish built on real dijon mustard, a classic French pairing."
-  },
-  {
-    "name": "French Onion Chicken",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Quinoa (dry)",
-        "qty": 45,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook quinoa per package directions.",
-      "Caramelize onion slowly in a pan, 12-15 min, deglaze with balsamic.",
-      "Sear chicken, top with onions and cheese, melt under broiler 2 min.",
-      "Serve over quinoa."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 150,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh thyme",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Quinoa (dry)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Melt the butter in a skillet over medium-low heat. Add the onion and cook slowly, stirring occasionally, for 20-25 minutes until deeply caramelized and jammy \u2014 don't rush this, it's what makes the dish taste like French onion soup.",
-      "Season the chicken with salt, pepper, and thyme. Push the onions to the side of the pan, raise heat to medium-high, and sear the chicken 4-5 minutes per side.",
-      "Add the broth and balsamic vinegar, scraping up any browned bits. Spoon the caramelized onions back over the chicken.",
-      "Top with gruyere, cover, and let it melt over low heat for 2-3 minutes.",
-      "Cook the quinoa per package directions and serve alongside."
-    ],
-    "description": "A weeknight dish borrowing French onion soup's deeply caramelized onions and gruy\u00e8re."
-  },
-  {
-    "name": "Herbed White Bean & Chicken Skillet",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "tags": [
-      "leftovers-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 150,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Sear chicken with garlic and oregano until cooked through, 6-7 min.",
-      "Add beans, warm through 3-4 min, drizzle with olive oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 1.2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Fresh thyme",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0039,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Season the chicken with salt and pepper. Heat olive oil in a skillet over medium-high heat and brown the chicken 5-6 minutes, stirring occasionally, until cooked through. Remove to a plate.",
-      "Add the shallot to the pan and cook 2 minutes, then add garlic and cook 30 seconds.",
-      "Add the beans, broth, oregano, and thyme. Simmer 5-6 minutes, mashing a few of the beans against the pan to naturally thicken the sauce.",
-      "Return the chicken to the pan and warm through. Finish with fresh parsley."
-    ],
-    "description": "A simple, herb-forward chicken and white bean skillet."
-  },
-  {
-    "name": "French Chicken & White Bean Jar",
-    "cuisine": "french",
-    "meal_type": "lunch",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 100,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 60,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 1,
-        "note": "tbsp, keep separate"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp, keep separate"
-      }
-    ],
-    "steps": [
-      "Layer dressing, beans, tomato, and chicken in a jar.",
-      "Shake before eating."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 0.6,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0039,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the balsamic vinegar and olive oil together.",
-      "Toss the beans, tomatoes, and shallot with half the dressing.",
-      "Layer in a jar, top with the chicken and parsley, and drizzle with remaining dressing before sealing."
-    ],
-    "description": "A simple, portable chicken and white bean salad."
-  },
-  {
-    "name": "Coq au Vin",
+    "name": "French Boeuf Bourguignon",
     "cuisine": "french",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Sear chicken until browned.",
-      "Add onion, carrot, and wine, simmer covered 25-30 min until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Bacon",
-        "qty": 2,
-        "note": "slices, diced"
-      },
-      {
-        "ingredient": "Red wine (cooking)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Mushrooms, white, raw",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Tomato paste",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh thyme",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Bay leaves",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the bacon in a heavy pot over medium heat until crisp, 3-4 minutes. Remove with a slotted spoon, leaving the fat in the pot.",
-      "Season the chicken and sear in the bacon fat, 3-4 minutes per side until browned. Remove.",
-      "Add the onion, mushrooms, and carrot to the pot, cooking 5-6 minutes, then add garlic and tomato paste, cooking 1 minute more.",
-      "Pour in the red wine, scraping up the browned bits, and add thyme and bay leaf.",
-      "Return the chicken and bacon to the pot. Bring to a simmer, cover, and cook on low 30-35 minutes until the chicken is fork-tender and the sauce has taken on a deep reddish-brown color.",
-      "Remove the bay leaf before serving. If the sauce is thin, uncover for the last 10 minutes to reduce."
-    ],
-    "description": "Coq au vin means 'rooster in wine' - specifically red Burgundy wine, which gives the dish its deep reddish-brown color and body. White wine changes the whole character of the sauce; mushrooms and pearl onions are also classic additions that were missing."
-  },
-  {
-    "name": "French Onion Baked Chicken",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "course": "main",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Caramelize onion 12-15 min.",
-      "Top chicken with onion and cheese, bake at 375F for 20-22 min with broth in the pan."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 150,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Fresh thyme",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Melt butter in an oven-safe skillet over medium-low heat. Add the onion and cook slowly, stirring occasionally, 20-25 minutes until deeply caramelized.",
-      "Preheat the oven to 375F. Season the chicken with salt, pepper, and thyme.",
-      "Push the onions aside, raise heat, and sear the chicken 3-4 minutes per side.",
-      "Pour the broth around the chicken, top with the caramelized onions and gruyere.",
-      "Transfer to the oven and bake 15-18 minutes until the chicken reaches 165F and the cheese is bubbling and golden."
-    ],
-    "description": "Chicken baked with the same deeply caramelized onion and gruy\u00e8re that defines French onion soup."
-  },
-  {
-    "name": "Salmon en Papillote",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "course": "main",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Atlantic salmon (raw)",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh dill",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Wrap salmon and zucchini with lemon juice and dill in parchment.",
-      "Bake at 400F for 15-18 min."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Atlantic salmon (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 100,
-        "note": "sliced thin"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "julienned"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 0.6,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh dill",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.0039,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 400F. Cut a large piece of parchment paper and fold it in half to mark a center crease.",
-      "Arrange the zucchini, carrot, and shallot on one half of the parchment, drizzle with olive oil, then place the salmon on top.",
-      "Drizzle with lemon juice and wine, and scatter the dill over everything.",
-      "Fold the parchment over and crimp the edges tightly to seal, creating a sealed packet \u2014 this traps steam so the fish cooks gently in its own moisture.",
-      "Place on a baking sheet and bake 15-18 minutes. The packet will puff up when done.",
-      "Carefully open the packet at the table (watch for escaping steam) and serve directly from the parchment."
-    ],
-    "description": "En papillote, cooking sealed in parchment so the fish steams in its own juices, a classic French technique."
-  },
-  {
-    "name": "Beef Bourguignon",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 170,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "cubed"
-      }
-    ],
-    "steps": [
-      "Sear beef until browned.",
-      "Add carrot, potato, and wine, simmer covered 30-35 min until tender."
-    ],
+    "description": "Boeuf bourguignon and coq au vin are genuinely close siblings from Burgundy, the same real technique with a different protein - both depend on real beurre mani\u00e9, softened butter kneaded together with flour into a smooth paste and whisked into the sauce at the very end, not a roux made at the start, which is what gives the finished sauce its real glossy, velvety sheen. Real technique marinates the beef in wine overnight, and the classic garniture bourguignonne of pearl onions, mushrooms, and real bacon is added only at the finish.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -767,684 +12,478 @@
         "note": "cubed"
       },
       {
-        "ingredient": "Bacon",
-        "qty": 2,
-        "note": "slices, diced"
-      },
-      {
-        "ingredient": "Red wine (cooking)",
-        "qty": 0.6,
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 1,
         "note": "cup"
       },
       {
-        "ingredient": "Beef broth",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 80,
-        "note": "sliced"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 25,
+        "note": "chopped"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Mushrooms, white, raw",
-        "qty": 70,
-        "note": "quartered"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "note": "small-diced, standing in for pearl onions"
       },
       {
         "ingredient": "Tomato paste",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Fresh thyme",
         "qty": 1,
-        "note": "tsp"
+        "note": "tbsp"
       },
       {
         "ingredient": "Bay leaves",
         "qty": 1,
         "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the bacon in a heavy pot over medium heat until crisp. Remove with a slotted spoon, leaving the fat.",
-      "Pat the beef dry, season generously, and sear in batches in the bacon fat until deeply browned on all sides, 4-5 minutes total.",
-      "Add the onion, carrot, and mushrooms, cooking 5-6 minutes, then garlic and tomato paste, cooking 1 more minute.",
-      "Pour in the red wine and broth, scraping up the browned bits, and add thyme and bay leaf.",
-      "Return the beef and bacon to the pot along with the potatoes. Bring to a simmer.",
-      "Cover and braise on low (or in a 300F oven) for 1.5-2 hours, until the beef is fork-tender and the sauce is a deep reddish-brown.",
-      "Remove the bay leaf. If the sauce needs thickening, simmer uncovered for the last 15 minutes."
-    ],
-    "description": "Bourguignon means 'from Burgundy' - the dish is defined by braising in that region's red wine, not white. Mushrooms and pearl onions are also classic additions this version was missing."
-  },
-  {
-    "name": "Ratatouille",
-    "cuisine": "french",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggplant",
-        "qty": 100,
-        "note": "cubed"
       },
       {
-        "ingredient": "Zucchini",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Saute eggplant, zucchini, and pepper in oil 8-10 min.",
-      "Add tomatoes, simmer 15 min until soft."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggplant",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 250,
-        "note": ""
-      },
-      {
-        "ingredient": "Tomato paste",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Herbes de Provence",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0078,
-        "note": "torn"
-      }
-    ],
-    "steps_detailed": [
-      "Salt the cubed eggplant and let it sit in a colander for 15 minutes, then pat dry \u2014 this draws out excess moisture and bitterness.",
-      "Heat 1 tablespoon oil in a large pot over medium heat. Cook the onion 4-5 minutes until softened, then add garlic and cook 30 seconds.",
-      "Add the remaining oil, then the eggplant, zucchini, and bell pepper. Cook 8-10 minutes, stirring occasionally, until starting to soften.",
-      "Stir in the tomato paste, then add the diced tomatoes and herbes de Provence.",
-      "Simmer uncovered 20-25 minutes, stirring occasionally, until the vegetables are very tender and the sauce has thickened.",
-      "Stir in fresh basil at the end. Season with salt and pepper to taste."
-    ],
-    "description": "Ratatouille, a stewed vegetable dish from Provence, is built on herbes de Provence and a long, patient simmer that melds the vegetables together."
-  },
-  {
-    "name": "Nicoise Salad Jar",
-    "cuisine": "french",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Canned tuna (in water)",
-        "qty": 100,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Green beans",
-        "qty": 80,
-        "note": "blanched"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled"
-      },
-      {
-        "ingredient": "Kalamata olives",
-        "qty": 6,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer tuna, green beans, egg, and olives in a jar."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Canned tuna (in water)",
-        "qty": 120,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Green beans",
-        "qty": 100,
-        "note": "blanched"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled"
-      },
-      {
-        "ingredient": "Kalamata olives",
-        "qty": 8,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "boiled and cubed"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Blanch the green beans in boiling water for 2-3 minutes until bright green and just tender, then plunge into ice water to stop cooking.",
-      "Whisk the olive oil and vinegar together.",
-      "Layer the potato, green beans, and tomatoes in the bottom of a jar, drizzling with a little dressing.",
-      "Top with tuna, egg quarters, and olives. Add remaining dressing before sealing."
-    ],
-    "description": "A portable version of salade ni\u00e7oise, built on the classic combination of tuna, olives, and egg."
-  },
-  {
-    "name": "French Ham and Cheese Wrap Jar",
-    "cuisine": "french",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Deli turkey breast (sliced)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Swiss cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Spread mustard on tortilla, layer turkey and cheese, roll and slice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Deli turkey breast (sliced)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Swiss cheese",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Romaine lettuce",
-        "qty": 30,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Spread mustard evenly over the tortilla.",
-      "Layer the turkey, swiss cheese, and lettuce.",
-      "Roll tightly and slice in half."
-    ],
-    "description": "The flavors of jambon-beurre in portable form."
-  },
-  {
-    "name": "French Lentil Salad",
-    "cuisine": "french",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 50,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss lentils and carrot with vinegar and oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 60,
-        "note": "cooked"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 0.8,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0039,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the vinegar, mustard, and olive oil together for the vinaigrette.",
-      "Toss the warm cooked lentils with the shallot and dressing \u2014 dressing lentils while still warm helps them soak up more flavor than dressing them cold.",
-      "Stir in the carrot and parsley. Serve warm or chilled."
-    ],
-    "description": "French green lentils (lentilles du Puy), which hold their shape well, are the classic base for this salad."
-  },
-  {
-    "name": "French Herb Omelette",
-    "cuisine": "french",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0039,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Whisk eggs, cook in a pan, fold in cheese and parsley as it sets."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 3,
-        "note": ""
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0004,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Fresh thyme",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the eggs with a pinch of salt until no streaks remain.",
-      "Melt butter in a nonstick skillet over medium-low heat, swirling to coat.",
-      "Pour in the eggs. As they set at the edges, use a spatula to gently push the cooked egg toward the center, tilting the pan to let uncooked egg flow to the edges.",
-      "When mostly set but still slightly glossy on top, sprinkle the cheese and herbs over half the omelette.",
-      "Fold the other half over, let it sit 30 seconds to finish setting and melt the cheese, then slide onto a plate."
-    ],
-    "description": "A simple herb omelette, a French breakfast staple."
-  },
-  {
-    "name": "Endive with Goat Cheese Snack",
-    "cuisine": "french",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Romaine lettuce",
-        "qty": 60,
-        "note": "leaves, or endive if available"
-      },
-      {
-        "ingredient": "Goat cheese",
-        "qty": 1,
-        "note": "oz"
-      }
-    ],
-    "steps": [
-      "Top leaves with goat cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Romaine lettuce",
-        "qty": 60,
-        "note": "leaves, or endive if available"
-      },
-      {
-        "ingredient": "Goat cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Walnuts",
-        "qty": 0.25,
-        "note": "oz, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Spread a small amount of goat cheese onto each leaf.",
-      "Top with a few chopped walnuts and a light drizzle of honey."
-    ],
-    "description": "Endive and goat cheese, a classic French pairing."
-  },
-  {
-    "name": "French Radish Butter Snack",
-    "cuisine": "french",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Radishes",
-        "qty": 100,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Serve radishes with a small dollop of butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Radishes",
-        "qty": 120,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp, softened"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the radish halves with a small dish of softened butter for dipping \u2014 this is a classic French bistro snack, the pepperiness of the radish balanced by the butter's richness.",
-      "A light sprinkle of flaky salt on the buttered side takes it further, if you have it."
-    ],
-    "description": "Radishes with butter and salt, a simple, classic French snack."
-  },
-  {
-    "name": "Creme Caramel",
-    "cuisine": "french",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 2,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Melt 2 tbsp sugar until amber, pour into ramekins.",
-      "Whisk eggs, milk, remaining sugar, and vanilla; pour over caramel.",
-      "Bake in a water bath at 325F for 35-40 min, chill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 3.6,
+        "ingredient": "Butter, salted",
+        "qty": 20,
         "note": "divided"
       },
       {
-        "ingredient": "Vanilla extract",
-        "qty": 0.5,
-        "note": "tsp"
+        "ingredient": "All-purpose flour",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
-    "steps_detailed": [
-      "Preheat the oven to 325F.",
-      "Melt about two-thirds of the sugar in a small saucepan over medium heat, swirling (don't stir) until it turns amber. Immediately pour into ramekins, tilting to coat the bottom.",
-      "Warm the milk until steaming but not boiling.",
-      "Whisk the eggs, remaining sugar, and vanilla together, then slowly whisk in the warm milk.",
-      "Strain through a fine mesh sieve for the smoothest texture, then pour over the caramel in the ramekins.",
-      "Place the ramekins in a baking dish, add hot water halfway up their sides, and bake 35-40 minutes until just set with a slight jiggle in the center.",
-      "Chill at least 3 hours. To unmold, run a knife around the edge and invert onto a plate."
-    ],
-    "description": "Cr\u00e8me caramel, an egg custard with a layer of caramelized sugar, found across French and wider European dessert traditions."
-  },
-  {
-    "name": "Chocolate Mousse",
-    "cuisine": "french",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 2,
     "ingredients": [
       {
-        "ingredient": "Greek yogurt (plain nonfat)",
+        "ingredient": "Flank/sirloin steak",
+        "qty": 220,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, red",
         "qty": 1,
         "note": "cup"
       },
       {
-        "ingredient": "Unsweetened cocoa powder",
-        "qty": 2,
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 25,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "small-diced, standing in for pearl onions"
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
         "note": "tbsp"
       },
       {
-        "ingredient": "Honey",
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "divided"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Marinate the beef in the wine overnight in the refrigerator, if time allows.",
+      "Remove the beef, pat dry, and brown in half the butter, 8-9 minutes.",
+      "Add the bacon and onion, and cook 4-5 minutes.",
+      "Add the tomato paste, bay leaf, and the wine marinade, and simmer 2-2.5 hours, until the beef is completely tender.",
+      "Knead the remaining butter with the flour into a smooth paste (beurre mani\u00e9).",
+      "Whisk the beurre mani\u00e9 into the simmering sauce a little at a time at the very end - real technique adds this last, not at the start, for a glossy, velvety finish."
+    ],
+    "steps": [
+      "Marinate the beef in the wine overnight in the refrigerator, if time allows.",
+      "Remove the beef, pat dry, and brown in half the butter, 8-9 minutes.",
+      "Add the bacon and onion, and cook 4-5 minutes.",
+      "Add the tomato paste, bay leaf, and the wine marinade, and simmer 2-2.5 hours, until the beef is completely tender.",
+      "Knead the remaining butter with the flour into a smooth paste (beurre mani\u00e9).",
+      "Whisk the beurre mani\u00e9 into the simmering sauce a little at a time at the very end - real technique adds this last, not at the start, for a glossy, velvety finish."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Coq au Vin",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Coq au vin, chicken braised in red wine, shares real technique and garniture with boeuf bourguignon - the same real beurre mani\u00e9 thickens the sauce at the end, but the chicken braises for closer to an hour rather than several hours.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "small-diced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": "divided"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 20,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": "small-diced"
+      },
+      {
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": "divided"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken, 8-9 minutes, in half the butter.",
+      "Add the bacon and onion, and cook 4-5 minutes.",
+      "Add the wine and bay leaf, and simmer 45-50 minutes until the chicken is tender.",
+      "Knead the remaining butter with the flour into a smooth paste.",
+      "Whisk the beurre mani\u00e9 into the sauce at the very end for a glossy finish."
+    ],
+    "steps": [
+      "Brown the chicken, 8-9 minutes, in half the butter.",
+      "Add the bacon and onion, and cook 4-5 minutes.",
+      "Add the wine and bay leaf, and simmer 45-50 minutes until the chicken is tender.",
+      "Knead the remaining butter with the flour into a smooth paste.",
+      "Whisk the beurre mani\u00e9 into the sauce at the very end for a glossy finish."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Ratatouille",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Ratatouille, a real vegetable stew from Provence, is genuinely built by cooking each vegetable separately before combining, so each keeps its own real texture rather than turning to mush together.",
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
         "qty": 2,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Whisk all ingredients until smooth.",
-      "Chill 30 min before serving."
+    "ingredients": [
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Zucchini",
+        "qty": 100,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
     ],
+    "steps_detailed": [
+      "Cook the eggplant in half the olive oil separately, 6-7 minutes, until softened, then set aside.",
+      "Cook the zucchini and bell pepper separately in the remaining oil, 5-6 minutes, then set aside.",
+      "Cook the garlic and tomatoes together 8-10 minutes into a sauce.",
+      "Combine everything and simmer 8-10 minutes more - real technique keeps each vegetable's own texture rather than cooking them all together from the start."
+    ],
+    "steps": [
+      "Cook the eggplant in half the olive oil separately, 6-7 minutes, until softened, then set aside.",
+      "Cook the zucchini and bell pepper separately in the remaining oil, 5-6 minutes, then set aside.",
+      "Cook the garlic and tomatoes together 8-10 minutes into a sauce.",
+      "Combine everything and simmer 8-10 minutes more - real technique keeps each vegetable's own texture rather than cooking them all together from the start."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Onion Soup",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "French onion soup depends genuinely on the real, patient caramelization of the onions - real technique cooks them low and slow for 45 minutes or more, until they turn a deep mahogany brown, which is what builds the soup's real depth.",
     "ingredients_full": [
       {
-        "ingredient": "Dark chocolate chips",
-        "qty": 3,
-        "note": "tbsp, melted"
+        "ingredient": "Yellow onion",
+        "qty": 200,
+        "note": "sliced, a genuinely large amount"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 40,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "toasted"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yellow onion",
+        "qty": 200,
+        "note": "sliced, a genuinely large amount"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 1.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 40,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 1,
+        "note": "toasted"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the butter over medium-low heat, stirring occasionally, 45-50 minutes, until deeply, darkly caramelized - real French onion soup depends on this real patience.",
+      "Add the broth and simmer 15 minutes.",
+      "Ladle into a bowl, top with the toasted bread and cheese, and broil 2-3 minutes until the cheese is bubbly and golden."
+    ],
+    "steps": [
+      "Cook the onion in the butter over medium-low heat, stirring occasionally, 45-50 minutes, until deeply, darkly caramelized - real French onion soup depends on this real patience.",
+      "Add the broth and simmer 15 minutes.",
+      "Ladle into a bowl, top with the toasted bread and cheese, and broil 2-3 minutes until the cheese is bubbly and golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Quiche Lorraine",
+    "cuisine": "french",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Quiche lorraine, a real egg custard tart with bacon and cheese, depends on real technique blind-baking the crust first so it doesn't turn soggy under the filling.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 30,
+        "note": "chopped"
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 2,
-        "note": "separated"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
+        "note": ""
       },
       {
         "ingredient": "Heavy cream",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 30,
+        "note": "shredded"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Eggs (large)",
         "qty": 2,
-        "note": "tbsp"
+        "note": ""
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 30,
+        "note": "shredded"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour and butter with a little cold water into a firm dough, press into a tart pan, and blind-bake at 375F (190C) for 12-15 minutes.",
+      "Whisk the eggs, cream, and cheese together, and stir in the bacon.",
+      "Pour into the baked crust and bake at 350F (175C) for 25-28 minutes until just set."
+    ],
+    "steps": [
+      "Mix the flour and butter with a little cold water into a firm dough, press into a tart pan, and blind-bake at 375F (190C) for 12-15 minutes.",
+      "Whisk the eggs, cream, and cheese together, and stir in the bacon.",
+      "Pour into the baked crust and bake at 350F (175C) for 25-28 minutes until just set."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Cr\u00e8me Br\u00fbl\u00e9e",
+    "cuisine": "french",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Cr\u00e8me br\u00fbl\u00e9e, a real baked custard with a caramelized sugar top, depends on real technique torching or broiling the sugar right before serving, so the contrast between the hot, crackling top and the cold custard beneath is at its sharpest.",
+    "ingredients_full": [
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "yolks only"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp, divided"
+      },
+      {
+        "ingredient": "Vanilla extract",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "yolks only"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 3,
+        "note": "tbsp, divided"
       },
       {
         "ingredient": "Vanilla extract",
@@ -1453,196 +492,69 @@
       }
     ],
     "steps_detailed": [
-      "Melt the chocolate chips gently, either over a double boiler or in the microwave in 15-second bursts, stirring between each, until smooth. Let cool slightly.",
-      "Whisk the egg yolks with half the sugar and the vanilla until pale and thick, then whisk in the melted chocolate.",
-      "Whip the cream to soft peaks and fold into the chocolate-yolk mixture.",
-      "In a separate, completely clean bowl, whip the egg whites with the remaining sugar until they hold stiff, glossy peaks - any trace of grease or yolk in this bowl will stop the whites from whipping properly.",
-      "Fold the whipped whites into the chocolate mixture in two or three additions, folding gently to keep as much air in as possible rather than stirring it out.",
-      "Spoon into cups and chill at least 2 hours until set - real mousse should feel light and airy, not dense, when you eat it.",
-      "Note: this uses raw egg whites and yolks, which carry a small salmonella risk - pasteurized eggs are a safer choice if serving to anyone pregnant, elderly, very young, or immunocompromised."
-    ],
-    "description": "Mousse means 'foam' - real chocolate mousse gets its airy structure from whipped egg whites folded through melted chocolate, not from yogurt standing in for that whole technique. This version builds the real thing."
-  },
-  {
-    "name": "Poached Pears",
-    "cuisine": "french",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pear",
-        "qty": 1,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      }
+      "Whisk the egg yolks with half the sugar and the vanilla.",
+      "Warm the cream gently, then whisk into the egg mixture.",
+      "Pour into ramekins and bake in a water bath at 325F (165C) for 30-35 minutes until just set.",
+      "Chill at least 2 hours.",
+      "Sprinkle the remaining sugar over the top and caramelize with a torch or under the broiler right before serving."
     ],
     "steps": [
-      "Simmer pear in water with honey and cinnamon 12-15 min until tender."
+      "Whisk the egg yolks with half the sugar and the vanilla.",
+      "Warm the cream gently, then whisk into the egg mixture.",
+      "Pour into ramekins and bake in a water bath at 325F (165C) for 30-35 minutes until just set.",
+      "Chill at least 2 hours.",
+      "Sprinkle the remaining sugar over the top and caramelize with a torch or under the broiler right before serving."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pear",
-        "qty": 1,
-        "note": "halved and cored"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Combine 1 cup water, honey, cinnamon, vanilla, and lemon juice in a small saucepan and bring to a simmer.",
-      "Add the pear halves cut-side down and simmer 12-15 minutes, turning once, until a knife slides in easily.",
-      "Remove the pears and simmer the poaching liquid another 3-4 minutes to reduce slightly into a light syrup.",
-      "Serve the pears warm or chilled, drizzled with the syrup."
-    ],
-    "description": "Pears poached in a simple syrup, a classic French dessert technique."
+    "tags": []
   },
   {
-    "name": "Classic Vinaigrette",
-    "cuisine": "french",
-    "meal_type": "sauce",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
-    "ingredients": [
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 4,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Whisk mustard and vinegar, slowly whisk in oil until emulsified."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Shallot",
-        "qty": 0.4,
-        "note": "finely minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 4,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the mustard, vinegar, and shallot together in a small bowl.",
-      "While whisking constantly, slowly drizzle in the olive oil \u2014 adding it gradually is what lets the vinaigrette emulsify into a thick, cohesive dressing instead of separating.",
-      "Season with salt and pepper. This keeps in the fridge for about a week \u2014 just re-whisk before using, since it will separate on standing."
-    ],
-    "description": "A simple, classic French vinaigrette."
-  },
-  {
-    "name": "Croque Monsieur",
+    "name": "French Croque Monsieur",
     "cuisine": "french",
     "meal_type": "lunch",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Spread mustard on bread, layer ham and half the cheese, top with second slice.",
-      "Top with remaining cheese, bake at 400F for 8-10 min until melted and golden."
-    ],
+    "description": "Croque monsieur, a real grilled ham and cheese sandwich topped with b\u00e9chamel, real technique broiling the top so the b\u00e9chamel turns bubbly and golden.",
     "ingredients_full": [
       {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 100,
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 2,
         "note": ""
       },
       {
-        "ingredient": "Gruyere cheese",
-        "qty": 2,
-        "note": "oz, divided"
+        "ingredient": "Cheese, gruyere",
+        "qty": 40,
+        "note": "shredded"
       },
       {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
       },
       {
-        "ingredient": "Dijon mustard",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter",
+        "ingredient": "All-purpose flour",
         "qty": 1,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) 365 Everyday Value, White Hamburger Buns",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 40,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
       },
       {
         "ingredient": "All-purpose flour",
@@ -1656,228 +568,211 @@
       }
     ],
     "steps_detailed": [
-      "Make a quick bechamel: melt butter in a small saucepan over medium heat, whisk in flour, and cook 1 minute. Slowly whisk in the milk and cook, whisking, until thickened, about 3-4 minutes. Season with a pinch of salt and pepper.",
-      "Preheat the oven to 400F.",
-      "Spread mustard on one slice of bread, layer with ham and half the gruyere, and top with the second slice.",
-      "Spread a spoonful of bechamel over the top of the sandwich and sprinkle with the remaining gruyere.",
-      "Bake on a sheet for 8-10 minutes until the cheese is melted and bubbling and the top is golden."
-    ],
-    "description": "Croque monsieur, a ham and gruy\u00e8re sandwich topped with b\u00e9chamel, is a French bistro staple - the b\u00e9chamel on top, not just melted cheese, is what actually separates it from an ordinary grilled ham and cheese."
-  },
-  {
-    "name": "Jambon-Beurre",
-    "cuisine": "french",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp, softened"
-      },
-      {
-        "ingredient": "French baguette",
-        "qty": 1,
-        "note": "piece, split"
-      }
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a b\u00e9chamel.",
+      "Assemble the sandwich with half the cheese, top with the b\u00e9chamel and remaining cheese.",
+      "Broil 3-4 minutes until bubbly and golden."
     ],
     "steps": [
-      "Spread butter generously on the split baguette.",
-      "Layer in the ham."
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a b\u00e9chamel.",
+      "Assemble the sandwich with half the cheese, top with the b\u00e9chamel and remaining cheese.",
+      "Broil 3-4 minutes until bubbly and golden."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp, softened"
-      },
-      {
-        "ingredient": "French baguette",
-        "qty": 1,
-        "note": "piece, split lengthwise"
-      }
-    ],
-    "steps_detailed": [
-      "Split the baguette piece lengthwise, being careful not to cut all the way through.",
-      "Spread the softened butter generously and evenly across both cut sides \u2014 this is the whole point of the sandwich, so don't skimp.",
-      "Layer in the ham, folding the slices slightly rather than laying them flat, for better texture.",
-      "That's it \u2014 no mustard, no lettuce. The simplicity is the point."
-    ],
-    "description": "Jambon-beurre, ham and butter on a baguette, is considered France's most iconic, simplest sandwich - the quality of the butter and bread matters more than any other ingredient."
+    "tags": []
   },
   {
-    "name": "French Fruit Salad (Salade de Fruits)",
-    "cuisine": "french",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Apple",
-        "qty": 0.5,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Grapes",
-        "qty": 60,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Orange",
-        "qty": 0.5,
-        "note": "segmented"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Toss all fruit together with honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Apple",
-        "qty": 0.5,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Grapes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Orange",
-        "qty": 0.5,
-        "note": "segmented"
-      },
-      {
-        "ingredient": "Pear",
-        "qty": 0.5,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toss the diced apple and pear with lemon juice right away to prevent browning.",
-      "Combine with the grapes and orange segments.",
-      "Drizzle with honey and toss gently to coat."
-    ],
-    "description": "A simple fresh fruit salad."
-  },
-  {
-    "name": "French Onion Soup",
+    "name": "French Grilled Fish",
     "cuisine": "french",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yellow onion",
-        "qty": 150,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 1.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Gruyere cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 1,
-        "note": "slice, toasted"
-      }
-    ],
-    "steps": [
-      "Caramelize onion slowly, 20-25 min, stirring often.",
-      "Add broth, simmer 10 min.",
-      "Top with toasted bread and cheese, broil until melted."
-    ],
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting France's Mediterranean and Atlantic coastal fishing tradition.",
     "ingredients_full": [
       {
-        "ingredient": "Yellow onion",
-        "qty": 250,
-        "note": "thin sliced"
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
       },
       {
-        "ingredient": "Butter",
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
         "qty": 1.5,
         "note": "tbsp"
-      },
+      }
+    ],
+    "ingredients": [
       {
-        "ingredient": "Beef broth",
-        "qty": 2,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Dry sherry (cooking)",
-        "qty": 0.0078,
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Fresh thyme",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Bay leaves",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Gruyere cheese",
+        "ingredient": "Garlic clove",
         "qty": 1.5,
-        "note": "oz"
+        "note": "minced"
       },
       {
-        "ingredient": "Whole grain bread",
-        "qty": 1,
-        "note": "slice, toasted"
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Melt the butter in a heavy pot over medium-low heat. Add the onions and cook low and slow, stirring every few minutes, for 30-35 minutes until deeply caramelized to a rich mahogany brown \u2014 this is the whole soul of the soup, so resist rushing it with higher heat.",
-      "Add the sherry and scrape up any browned bits stuck to the pot.",
-      "Add the broth, thyme, and bay leaf. Simmer 15-20 minutes to let the flavors meld.",
-      "Remove the bay leaf and ladle into an oven-safe bowl.",
-      "Top with the toasted bread and gruyere, then broil for 2-3 minutes until the cheese is melted, bubbling, and browned in spots."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
-    "description": "French onion soup depends on deeply, patiently caramelized onions - real dry sherry adding a depth that a simpler broth alone wouldn't have."
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Roasted Almonds",
+    "cuisine": "french",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across France.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Beef and Vegetable Stew",
+    "cuisine": "french",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common French home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "French Vinaigrette",
+    "cuisine": "french",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple mustard vinaigrette, the real, everyday French salad dressing, real technique whisking the mustard in first to help emulsify the oil and vinegar together.",
+    "ingredients_full": [
+      {
+        "ingredient": "Olive oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Olive oil",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the mustard and vinegar together first, then slowly whisk in the olive oil until emulsified."
+    ],
+    "steps": [
+      "Whisk the mustard and vinegar together first, then slowly whisk in the olive oil until emulsified."
+    ],
+    "tags": []
   }
 ]

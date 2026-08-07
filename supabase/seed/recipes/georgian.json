@@ -1,220 +1,15 @@
 [
   {
-    "name": "Georgian Khachapuri",
-    "cuisine": "georgian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 2,
-        "note": "oz, as a sulguni stand-in"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Make a soft dough from the flour and water, and roll into a round.",
-      "Fill with the crumbled cheese, fold the edges up into a boat shape, and crack the egg into the center.",
-      "Bake at 425F for 15-18 minutes until golden, with the egg just set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 2.5,
-        "note": "oz, as a sulguni stand-in"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Make a soft, elastic dough from the flour, baking powder, a pinch of salt, and water. Rest 20 minutes.",
-      "Roll into an oval, fill generously with the crumbled cheese, and fold the edges up and twist the ends to form a boat shape, leaving the center open.",
-      "Bake at 425F (220C) for 12-15 minutes, then crack the egg into the center and top with the butter, baking 3-5 more minutes until the egg is just set.",
-      "Khachapuri, cheese-filled bread, is Georgia's most iconic dish, with countless regional variations - this is the Adjarian, boat-shaped style."
-    ],
-    "description": "Khachapuri, cheese-filled bread, is Georgia's most iconic dish, with countless regional variations - this is the Adjarian, boat-shaped style."
-  },
-  {
-    "name": "Georgian Shoti with Cheese",
-    "cuisine": "georgian",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "as a shoti bread stand-in"
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 1.5,
-        "note": "oz, as a sulguni stand-in"
-      }
-    ],
-    "steps": [
-      "Warm the bread.",
-      "Serve with the cheese for a simple breakfast."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "as a shoti bread stand-in"
-      },
-      {
-        "ingredient": "Queso fresco",
-        "qty": 1.75,
-        "note": "oz, as a sulguni stand-in"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the bread (standing in for shoti, Georgia's traditional boat-shaped bread) until soft.",
-      "Serve with the cheese and cilantro - a simple, everyday Georgian breakfast pairing."
-    ],
-    "description": "Shoti, a boat-shaped bread traditionally baked in a tone (clay oven), paired here with cheese."
-  },
-  {
-    "name": "Georgian Walnut and Honey Toast",
-    "cuisine": "georgian",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 20,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toast the bread.",
-      "Top with the walnuts and drizzle with honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Cream Cheese",
-        "qty": 15,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toast the bread until golden.",
-      "Spread with the cream, top with the walnuts, and drizzle generously with honey - a simple, sweet Georgian breakfast, walnuts being central to Georgian cuisine."
-    ],
-    "description": "Walnuts, central to Georgian cooking, paired simply with honey here."
-  },
-  {
     "name": "Georgian Khinkali",
     "cuisine": "georgian",
-    "meal_type": "lunch",
+    "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "Khinkali, Georgia's famous soup dumplings, are genuinely eaten with a specific ritual, not just any way you like - real technique keeps the filling deliberately juicy so it creates its own broth inside as it cooks, sealed with a real twisted top called kudi (meaning 'tail'), which is traditionally left uneaten and counted at the end of the meal. Real etiquette picks the dumpling up by the kudi with your hand, never a fork, since piercing the dough spills the broth and misses the entire point.",
+    "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
         "qty": 60,
-        "note": "for the dough"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 130,
         "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Make a simple dough from the flour and water, and roll into small rounds.",
-      "Mix the beef with the onion and pepper, and place a spoonful in the center of each round.",
-      "Gather the edges up and twist to seal into a small pouch, then boil for 10-12 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 70,
-        "note": "for the dough"
       },
       {
         "ingredient": "Ground beef 90/10",
@@ -223,232 +18,259 @@
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "finely chopped"
+        "qty": 40,
+        "note": "finely minced"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
+        "qty": 2,
+        "note": "tbsp, chopped, genuinely generous"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp, for the real, non-negotiable garnish"
       }
     ],
-    "steps_detailed": [
-      "Make a soft, firm dough from the flour, a pinch of salt, and water, and roll out, cutting into small rounds.",
-      "Mix the beef with the onion, pepper, cumin, and cilantro, and a splash of water to keep it juicy.",
-      "Place a spoonful of filling in the center of each round, gather the edges up and pleat, twisting to seal into a small pouch with a distinctive topknot.",
-      "Boil in batches 10-14 minutes until they float and are cooked through - khinkali, Georgia's beloved soup dumplings, are traditionally eaten by hand, holding the topknot."
-    ],
-    "description": "Khinkali, Georgia's beloved soup dumplings, traditionally eaten by hand, holding the topknot."
-  },
-  {
-    "name": "Georgian Lobio",
-    "cuisine": "georgian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Kidney beans",
-        "qty": 200,
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.25,
-        "note": "cup, chopped"
+        "note": "finely minced"
       },
       {
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
-      }
-    ],
-    "steps": [
-      "Simmer the beans with the onion and garlic in their liquid plus a splash of water for 15-18 minutes.",
-      "Stir in the cilantro and serve with bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Kidney beans",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.3,
-        "note": "cup, chopped"
+        "qty": 2,
+        "note": "tbsp, chopped, genuinely generous"
+      },
+      {
+        "ingredient": "Ground cumin",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp, for the real, non-negotiable garnish"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour with enough water to form a smooth, elastic dough. Rest 15 minutes.",
+      "Mix the beef with the onion, garlic, cilantro, cumin, and a splash of water, kept deliberately a little wet so it releases real broth as it cooks.",
+      "Roll the dough thin and cut into rounds.",
+      "Place a spoonful of filling in the center, gather the edges into pleats, and twist firmly at the top to seal completely - this real twisted kudi is what holds the broth in.",
+      "Boil in salted water 8-10 minutes until they float and the dough turns translucent.",
+      "Crack fresh black pepper over the top immediately - real tradition treats this as essential.",
+      "Eat by hand, holding the kudi: flip upside down to pool the broth, take a small bite from the side, slurp the broth, then eat the rest, leaving the kudi itself on the plate."
+    ],
+    "steps": [
+      "Mix the flour with enough water to form a smooth, elastic dough. Rest 15 minutes.",
+      "Mix the beef with the onion, garlic, cilantro, cumin, and a splash of water, kept deliberately a little wet so it releases real broth as it cooks.",
+      "Roll the dough thin and cut into rounds.",
+      "Place a spoonful of filling in the center, gather the edges into pleats, and twist firmly at the top to seal completely - this real twisted kudi is what holds the broth in.",
+      "Boil in salted water 8-10 minutes until they float and the dough turns translucent.",
+      "Crack fresh black pepper over the top immediately - real tradition treats this as essential.",
+      "Eat by hand, holding the kudi: flip upside down to pool the broth, take a small bite from the side, slurp the broth, then eat the rest, leaving the kudi itself on the plate."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Georgian Khachapuri",
+    "cuisine": "georgian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Khachapuri, Georgia's iconic cheese-filled bread, is genuinely made with real yeasted dough sealed completely around the cheese, real Imeretian-style technique pressing the dough flat again after sealing so the cheese distributes evenly throughout, not just in the center.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 60,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 30,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "for brushing"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 60,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 30,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": "for brushing"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour and baking powder with warm water and the melted butter into a soft dough. Rest 20 minutes.",
+      "Mix the feta and gruyere together for the filling.",
+      "Roll the dough into a round, place the cheese in the center, gather the edges up and seal completely, then flatten gently again so the cheese distributes evenly.",
+      "Brush with the beaten egg and bake at 400F (200C) for 18-20 minutes until deeply golden."
+    ],
+    "steps": [
+      "Mix the flour and baking powder with warm water and the melted butter into a soft dough. Rest 20 minutes.",
+      "Mix the feta and gruyere together for the filling.",
+      "Roll the dough into a round, place the cheese in the center, gather the edges up and seal completely, then flatten gently again so the cheese distributes evenly.",
+      "Brush with the beaten egg and bake at 400F (200C) for 18-20 minutes until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Georgian Lobio",
+    "cuisine": "georgian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Lobio, a real bean stew seasoned with walnuts and coriander, is a genuine Georgian staple, real technique cooking the beans down until the sauce thickens naturally.",
+    "ingredients_full": [
+      {
+        "ingredient": "Beans, kidney, all types, mature seeds, canned",
+        "qty": 200,
+        "note": "standing in for real dried beans"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 30,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1.25,
+        "qty": 1,
         "note": "minced"
       },
       {
         "ingredient": "Spices, coriander seed",
-        "qty": 1.0,
-        "note": ""
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Beans, kidney, all types, mature seeds, canned",
+        "qty": 200,
+        "note": "standing in for real dried beans"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Walnuts",
+        "qty": 30,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Cilantro",
         "qty": 1,
-        "note": "tbsp"
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Saute the onion and garlic in the oil with the coriander until softened, 5-6 minutes.",
-      "Add the beans with their liquid and a splash of water, and simmer 18-22 minutes until thickened.",
-      "Stir in the cilantro and serve with warm bread - lobio, a beloved bean stew, is a Georgian staple, especially popular during fasting periods."
+      "Cook the garlic and coriander in a little oil, 1 minute.",
+      "Add the beans and a splash of water, and simmer 15-18 minutes.",
+      "Stir in the ground walnuts and cilantro, and simmer 5 minutes more until thickened."
     ],
-    "description": "Lobio, a bean stew, one of Georgia's most common everyday dishes."
+    "steps": [
+      "Cook the garlic and coriander in a little oil, 1 minute.",
+      "Add the beans and a splash of water, and simmer 15-18 minutes.",
+      "Stir in the ground walnuts and cilantro, and simmer 5 minutes more until thickened."
+    ],
+    "tags": []
   },
   {
     "name": "Georgian Pkhali",
     "cuisine": "georgian",
     "meal_type": "lunch",
     "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "as a spinach/beet-green stand-in, finely chopped"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 40,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 0.3333333333333333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Blanch the cabbage until tender, then squeeze out excess moisture.",
-      "Blend with the ground walnuts, garlic, and vinegar into a thick paste.",
-      "Shape into small mounds and serve chilled."
-    ],
+    "description": "Pkhali, real vegetable p\u00e2t\u00e9 bound with ground walnuts, is a genuine Georgian staple, real technique blending the walnuts finely enough that the mixture holds together when shaped.",
     "ingredients_full": [
       {
-        "ingredient": "Green cabbage",
-        "qty": 170,
-        "note": "as a spinach/beet-green stand-in, finely chopped"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 45,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 0.4166666666666667,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 10,
-        "note": "to top"
-      }
-    ],
-    "steps_detailed": [
-      "Blanch the cabbage (standing in for spinach or beet greens, traditionally used) until tender, then drain thoroughly and squeeze out as much moisture as possible.",
-      "Blend with the ground walnuts, garlic, and vinegar into a thick, cohesive paste."
-    ],
-    "description": "Shape into small mounds, garnish with pistachios, and serve chilled - pkhali, walnut-bound vegetable p\u00e2t\u00e9, is a beloved Georgian mezze dish."
-  },
-  {
-    "name": "Georgian Ojakhuri",
-    "cuisine": "georgian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork shoulder (raw)",
-        "qty": 180,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Fry the pork with the onion in the oil until browned.",
-      "Add the potato and continue frying until everything is tender and golden, about 20-25 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork shoulder (raw)",
+        "ingredient": "Baby spinach",
         "qty": 200,
-        "note": "cubed"
+        "note": "boiled and drained"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2.5,
-        "note": "tbsp"
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": "ground"
       },
       {
         "ingredient": "Garlic clove",
@@ -456,29 +278,132 @@
         "note": "minced"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": "boiled and drained"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": "ground"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Fry the pork with the onion and garlic in the oil over medium-high heat, 8-10 minutes, until browned.",
-      "Add the potato and continue frying, stirring occasionally, 22-28 minutes until everything is tender and deeply golden.",
-      "Top with cilantro - ojakhuri, meaning 'family-style,' is a hearty, everyday Georgian skillet dish."
+      "Boil the spinach 3-4 minutes, then drain very well and chop finely.",
+      "Blend or mix with the ground walnuts, garlic, and vinegar until it holds together.",
+      "Shape into small balls or a mound before serving."
     ],
-    "description": "Ojakhuri, meaning 'family style,' a hearty fried meat and potato dish."
+    "steps": [
+      "Boil the spinach 3-4 minutes, then drain very well and chop finely.",
+      "Blend or mix with the ground walnuts, garlic, and vinegar until it holds together.",
+      "Shape into small balls or a mound before serving."
+    ],
+    "tags": []
   },
   {
     "name": "Georgian Chakhokhbili",
     "cuisine": "georgian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
+    "description": "Chakhokhbili, chicken stewed with a real large amount of fresh herbs and tomatoes, is a genuine Georgian home-cooking staple, real technique adding the herbs generously at the end so their flavor stays bright.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped, generous"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
     "ingredients": [
       {
         "ingredient": "Chicken thigh (raw)",
         "qty": 220,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 2,
+        "note": "tbsp, chopped, generous"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and garlic, and simmer 25-28 minutes until the chicken is tender.",
+      "Stir in the cilantro generously at the end, off the heat, so its flavor stays bright."
+    ],
+    "steps": [
+      "Brown the chicken with the onion, 8-9 minutes.",
+      "Add the tomatoes and garlic, and simmer 25-28 minutes until the chicken is tender.",
+      "Stir in the cilantro generously at the end, off the heat, so its flavor stays bright."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Georgian Ajapsandali",
+    "cuisine": "georgian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Ajapsandali, a real vegetable stew of eggplant, pepper, and tomato, is a genuine Georgian summer staple, real technique salting the eggplant first to draw out bitterness.",
+    "ingredients_full": [
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 80,
         "note": ""
       },
       {
@@ -487,175 +412,25 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, tarragon, dried",
-        "qty": 0.2,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the chicken with the onion.",
-      "Add the tomatoes and tarragon, and simmer 25-30 minutes until tender.",
-      "Serve with bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 240,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 110,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, tarragon, dried",
-        "qty": 0.4,
-        "note": ""
-      },
-      {
         "ingredient": "Garlic clove",
-        "qty": 1.5,
+        "qty": 1,
         "note": "minced"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
-      "Add the tomatoes and tarragon, and simmer, covered, 28-35 minutes until the chicken is tender and the sauce has thickened."
-    ],
-    "description": "Top with cilantro and serve with bread - chakhokhbili, a tomato and herb chicken stew, is a beloved Georgian home-cooked dish."
-  },
-  {
-    "name": "Georgian Satsivi",
-    "cuisine": "georgian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 50,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "minced"
+        "note": "tbsp, chopped"
       }
     ],
-    "steps": [
-      "Simmer the chicken until tender, then shred it, reserving the broth.",
-      "Blend the ground walnuts with the reserved broth, onion, and garlic into a thick sauce.",
-      "Toss the shredded chicken with the sauce and chill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 55,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1.0,
-        "note": ""
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 0.3333333333333333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the chicken with the onion in water until fully tender, 25-30 minutes, then shred it finely, reserving the broth.",
-      "Blend the ground walnuts with 1/2 cup of the reserved broth, garlic, coriander, and vinegar into a thick, smooth sauce.",
-      "Toss the shredded chicken with the walnut sauce and chill at least 30 minutes before serving - satsivi, chicken in a rich walnut sauce, is a treasured Georgian dish, especially for New Year celebrations."
-    ],
-    "description": "Satsivi, chicken in a rich walnut sauce, a treasured Georgian dish especially for New Year celebrations."
-  },
-  {
-    "name": "Georgian Kharcho",
-    "cuisine": "georgian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 180,
+        "ingredient": "Eggplant, raw",
+        "qty": 150,
         "note": "cubed"
       },
       {
-        "ingredient": "White rice (dry)",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 20,
-        "note": "ground"
-      }
-    ],
-    "steps": [
-      "Simmer the beef until nearly tender, about 1 hour.",
-      "Add the rice, tomatoes, and ground walnuts, and simmer 20-25 more minutes until the rice is tender.",
-      "Serve hot."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
+        "ingredient": "Bell pepper",
+        "qty": 80,
         "note": ""
       },
       {
@@ -664,696 +439,274 @@
         "note": ""
       },
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": "ground"
-      },
-      {
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
       },
       {
         "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Simmer the beef in 2.5 cups water for 1-1.25 hours until nearly tender.",
-      "Add the rice, tomatoes, ground walnuts, and garlic, and simmer 22-28 more minutes until the rice is tender and the soup has thickened."
+      "Salt the eggplant and let sit 15 minutes, then pat dry.",
+      "Cook the eggplant and bell pepper in a little oil, 8-10 minutes.",
+      "Add the tomatoes and garlic, and simmer 12-15 minutes.",
+      "Stir in the cilantro at the end."
     ],
-    "description": "Top with cilantro and serve hot - kharcho, a spicy, walnut-thickened beef and rice soup, is a beloved Georgian dish."
+    "steps": [
+      "Salt the eggplant and let sit 15 minutes, then pat dry.",
+      "Cook the eggplant and bell pepper in a little oil, 8-10 minutes.",
+      "Add the tomatoes and garlic, and simmer 12-15 minutes.",
+      "Stir in the cilantro at the end."
+    ],
+    "tags": []
   },
   {
-    "name": "Georgian Chikhirtma",
+    "name": "Georgian Churchkhela-Style Nut Snack",
+    "cuisine": "georgian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Churchkhela, walnuts dipped repeatedly in real grape juice thickened with flour, is a genuine Georgian traditional candy, made here as a simpler approximation.",
+    "ingredients_full": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Warm the honey with the flour until slightly thickened.",
+      "Dip the walnuts in the mixture, coating well, and let set on parchment until firm."
+    ],
+    "steps": [
+      "Warm the honey with the flour until slightly thickened.",
+      "Dip the walnuts in the mixture, coating well, and let set on parchment until firm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Georgian Grilled Fish",
     "cuisine": "georgian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "Grilled fish rubbed with garlic and cilantro, reflecting Georgia's Black Sea coastal fishing tradition.",
+    "ingredients_full": [
       {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Fish, tilapia, raw",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Simmer the chicken with the onion until tender, about 25-30 minutes, then shred it.",
-      "Whisk the egg with the lime juice, then slowly whisk in a ladle of the hot broth to temper it.",
-      "Stir the tempered egg back into the pot and warm gently without boiling."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the chicken with the onion in the butter and 2.5 cups water for 28-35 minutes until tender, then shred it and return to the pot.",
-      "Whisk the egg with the lime juice, then slowly whisk in a ladle of the hot broth to temper it and prevent curdling.",
-      "Stir the tempered egg mixture back into the pot and warm gently over low heat, without letting it boil, until slightly thickened.",
-      "Top with cilantro - chikhirtma, an egg-lemon chicken soup, is a soothing, traditional Georgian dish."
-    ],
-    "description": "Chikhirtma, a chicken soup thickened and enriched with egg, similar in spirit to Greek avgolemono."
-  },
-  {
-    "name": "Georgian Badrijani Nigvzit",
-    "cuisine": "georgian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggplant",
-        "qty": 180,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 40,
-        "note": "ground"
-      },
-      {
         "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps": [
-      "Fry the eggplant slices until golden.",
-      "Blend the ground walnuts with the garlic and a splash of water into a thick paste.",
-      "Spread the walnut paste onto the eggplant slices and roll up."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggplant",
-        "qty": 200,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 45,
-        "note": "ground"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2.5,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 0.16666666666666666,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, pistachio nuts, raw",
-        "qty": 8,
-        "note": "to top"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the eggplant slices in the oil over medium heat, 3-5 minutes per side, until golden and tender.",
-      "Blend the ground walnuts with the garlic, vinegar, and a splash of water into a thick, smooth paste.",
-      "Spread the walnut paste generously onto each eggplant slice and roll up into small logs, garnishing with pistachios."
-    ],
-    "description": "Badrijani nigvzit, walnut-stuffed eggplant rolls, are a beloved Georgian appetizer."
-  },
-  {
-    "name": "Georgian Mtsvadi",
-    "cuisine": "georgian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 130,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Mix the beef with the onion and pepper, and shape into small logs.",
-      "Grill or pan-fry until well charred and cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the beef thoroughly with the onion, pepper, garlic, and cilantro, and shape into small logs around skewers if you have them.",
-      "Grill or pan-fry, 4-6 minutes per side, until well charred and cooked through."
-    ],
-    "description": "Mtsvadi, grilled skewered meat, is a beloved Georgian dish, central to festive gatherings and countryside cookouts."
-  },
-  {
-    "name": "Georgian Churchkhela",
-    "cuisine": "georgian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 30,
-        "note": "whole halves"
-      },
-      {
-        "ingredient": "Beverages, grape juice drink, canned",
-        "qty": 72.0,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 15,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Thread the walnut halves onto a skewer.",
-      "Simmer the grape juice with the flour until thick, then dip the skewer repeatedly, letting it dry between dips.",
-      "Let dry fully before eating."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 35,
-        "note": "whole halves"
-      },
-      {
-        "ingredient": "Beverages, grape juice drink, canned",
-        "qty": 84.0,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 0.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Thread the walnut halves onto a skewer, forming a short string.",
-      "Whisk the flour into the grape juice and sugar, and simmer, stirring constantly, 8-10 minutes until thick like a pudding.",
-      "Dip the walnut skewer into the thickened juice repeatedly, letting each layer dry slightly before the next, building up a thick candy coating."
-    ],
-    "description": "Let dry fully, at least several hours, before eating - churchkhela, walnuts in a grape-juice candy coating, is a beloved traditional Georgian sweet, sometimes called 'Georgian Snickers.'"
-  },
-  {
-    "name": "Georgian Kupati",
-    "cuisine": "georgian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 130,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Mix the beef with the garlic and coriander, and shape into small patties.",
-      "Pan-fry in the oil until well browned and cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
         "qty": 1.5,
-        "note": ""
+        "note": "minced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Spices, tarragon, dried",
-        "qty": 0.1,
-        "note": ""
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
-    "steps_detailed": [
-      "Mix the beef thoroughly with the garlic, coriander, black pepper, and tarragon, and shape into small patties or short logs.",
-      "Pan-fry in the oil over medium heat, 5-7 minutes per side, until well browned and cooked through."
-    ],
-    "description": "Kupati, spiced Georgian sausage, is a beloved dish, especially popular grilled over an open fire."
-  },
-  {
-    "name": "Georgian Gozinaki",
-    "cuisine": "georgian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 60,
-        "note": "chopped"
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Warm the honey until it thins slightly.",
-      "Stir in the walnuts, coating well.",
-      "Press into a small dish and chill before cutting into pieces."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 65,
-        "note": "chopped"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Warm the honey with the cinnamon over low heat, 2-3 minutes, until it thins slightly.",
-      "Stir in the walnuts, coating thoroughly.",
-      "Press firmly into a small lined dish and chill at least 1 hour until firm.",
-      "Cut into diamond shapes - gozinaki, a simple honey-walnut candy, is a traditional Georgian New Year's treat."
+      "Rub the fish with the garlic and cilantro, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
-    "description": "Gozinaki, walnuts set in honey, traditionally made for New Year."
+    "steps": [
+      "Rub the fish with the garlic and cilantro, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
   },
   {
-    "name": "Georgian Honey Cake",
+    "name": "Georgian Roasted Walnuts",
     "cuisine": "georgian",
-    "meal_type": "dessert",
+    "meal_type": "snack",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Cream the butter and honey, then beat in the egg.",
-      "Fold in the flour and pour into a small buttered dish.",
-      "Bake at 350F for 20-25 minutes until golden and springy."
-    ],
+    "description": "A simple roasted walnut snack, walnuts being a significant Georgian crop.",
     "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Georgian Beef and Vegetable Stew",
+    "cuisine": "georgian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Georgian home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 1.75,
-        "note": "tbsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Cream the butter and honey together until light, then beat in the egg and cinnamon.",
-      "Fold in the flour gently until just combined, and pour into a small buttered baking dish.",
-      "Bake at 350F (175C) for 22-28 minutes until golden and springy to the touch.",
-      "A simple, honey-forward Georgian cake, honey playing a central role in Georgian sweets."
-    ],
-    "description": "A simple honey cake."
-  },
-  {
-    "name": "Georgian Pelamushi",
-    "cuisine": "georgian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beverages, grape juice drink, canned",
-        "qty": 120.0,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 15,
-        "note": "chopped, to top"
-      }
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Whisk the flour into the grape juice.",
-      "Simmer, stirring constantly, 8-10 minutes until thick like a pudding.",
-      "Pour into small cups, top with walnuts, and chill until set."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beverages, grape juice drink, canned",
-        "qty": 144.0,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 25,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 18,
-        "note": "chopped, to top"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the flour into the grape juice until smooth, no lumps remaining.",
-      "Simmer over medium-low heat, stirring constantly, 10-12 minutes until thick and pudding-like.",
-      "Pour into small cups, top with the chopped walnuts and a dusting of cinnamon, and chill at least 1 hour until set."
-    ],
-    "description": "Pelamushi, a simple grape juice pudding, shares its base with churchkhela and is a beloved traditional Georgian dessert, especially around grape harvest season."
+    "tags": []
   },
   {
-    "name": "Georgian Tkemali",
+    "name": "Georgian Walnut Garlic Sauce",
     "cuisine": "georgian",
     "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "A simple walnut-garlic sauce, echoing the flavor of lobio and pkhali, used across many Georgian dishes.",
+    "ingredients_full": [
       {
-        "ingredient": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
-        "qty": 30,
-        "note": "as a sour plum stand-in"
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": "ground"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      },
-      {
-        "ingredient": "White wine vinegar",
         "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the cranberries with a splash of water until soft, then blend with the garlic, cilantro, and vinegar.",
-      "Serve alongside grilled meats."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
-        "qty": 35,
-        "note": "as a sour plum stand-in"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.625,
         "note": "minced"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
-    "steps_detailed": [
-      "Simmer the cranberries with a splash of water for 5-6 minutes until soft, then blend with the garlic, cilantro, vinegar, and coriander into a smooth, tangy sauce.",
-      "This nods to tkemali, a beloved Georgian sour plum sauce, essential alongside mtsvadi and other grilled meats."
-    ],
-    "description": "Tkemali, a tart plum sauce used across Georgian cooking much the way ketchup is used elsewhere."
-  },
-  {
-    "name": "Georgian Ajika",
-    "cuisine": "georgian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Jalapeno pepper",
-        "qty": 2,
-        "note": "chopped"
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": "ground"
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1.5,
+        "qty": 1,
         "note": "minced"
       },
       {
-        "ingredient": "Cilantro",
-        "qty": 0.125,
-        "note": "cup, chopped"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1.0,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Blend the jalapeno, garlic, cilantro, and coriander into a coarse, fiery paste.",
-      "Season with salt and serve alongside grilled meats and khinkali."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Jalapeno pepper",
-        "qty": 2.5,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.15,
-        "note": "cup, chopped"
-      },
-      {
-        "ingredient": "Spices, coriander seed",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, tarragon, dried",
-        "qty": 0.1,
-        "note": ""
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Blend the jalapeno, garlic, cilantro, coriander, and tarragon into a coarse, vibrant, fiery paste.",
-      "Season with salt - ajika, a bold herb and pepper paste, is a foundational Georgian condiment."
+      "Blend everything together into a smooth, spoonable sauce."
     ],
-    "description": "Ajika, a spicy pepper paste, a defining Georgian condiment."
+    "steps": [
+      "Blend everything together into a smooth, spoonable sauce."
+    ],
+    "tags": []
   }
 ]

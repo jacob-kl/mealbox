@@ -1,1132 +1,227 @@
 [
   {
-    "name": "Finnish Barley Porridge",
+    "name": "Finnish Karjalanpiirakka",
     "cuisine": "finnish",
     "meal_type": "breakfast",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the barley in the milk for 30-35 minutes, stirring occasionally, until thick and tender.",
-      "Top with the honey."
-    ],
+    "description": "Karjalanpiirakka, Finnish Karelian pies, are genuinely built on a paper-thin rye crust pinched from both sides toward the center in small folds, leaving the rice porridge filling visible - real technique cooks the rice slowly in milk for a full 45 minutes into a genuine porridge, not just plain boiled rice, and the hot pies are always finished with munavoi, chopped egg worked into softened butter, spread on right before eating.",
     "ingredients_full": [
       {
-        "ingredient": "Barley, pearled, raw",
+        "ingredient": "Rye flour, dark",
         "qty": 45,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the barley in the milk and cinnamon over low heat, stirring occasionally, 32-38 minutes, until thick and tender.",
-      "Top generously with the honey - ohrapuuro, barley porridge, is an old, plain breakfast still eaten across Finland, especially in the countryside."
-    ],
-    "description": "A simple barley porridge, barley being a Finnish pantry staple."
-  },
-  {
-    "name": "Finnish Rye Bread with Cheese",
-    "cuisine": "finnish",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the rye bread and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread generously, top with the cheese, and finish with a little black pepper.",
-      "Dense, dark rye bread is eaten at nearly every meal in Finland, plain or topped with cheese, cold cuts, or fish."
-    ],
-    "description": "Rye bread, Finland's everyday bread, paired here simply with cheese."
-  },
-  {
-    "name": "Finnish Eggs with Dill",
-    "cuisine": "finnish",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Scramble the eggs gently in the butter.",
-      "Fold in the dill just before they finish setting."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
-      "Fold in the dill and pepper just before they finish setting - dill is used as freely in Finland as in the rest of the Nordic countries, especially alongside egg and fish dishes."
-    ],
-    "description": "A simple egg breakfast, dill being a defining Scandinavian herb."
-  },
-  {
-    "name": "Finnish Salmon Soup",
-    "cuisine": "finnish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 110,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Simmer the potato in water until nearly tender, about 12 minutes.",
-      "Add the salmon and milk and simmer 8-10 more minutes until the fish is just cooked.",
-      "Stir in the dill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 125,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion in the butter, 5-6 minutes, then add the potato and 1 cup water and simmer 12-14 minutes until nearly tender.",
-      "Add the salmon and milk and simmer 8-10 more minutes until the fish flakes easily.",
-      "Stir in the dill just before serving - lohikeitto, creamy and simple, is one of the most beloved everyday dishes in Finland."
-    ],
-    "description": "Lohikeitto, a creamy salmon soup, one of Finland's most beloved comfort foods."
-  },
-  {
-    "name": "Finnish Meatballs with Cranberry",
-    "cuisine": "finnish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 170,
-        "note": "formed into small balls"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 25,
-        "note": "simmered into a sauce"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Mix the beef with the onion and form into small balls.",
-      "Pan-fry in the butter until browned through, 8-10 minutes.",
-      "Simmer the cranberries with a splash of water and a little sugar into a sauce, and serve alongside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": "formed into small balls"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 30,
-        "note": "simmered into a sauce"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the beef with the onion and pepper, and form into small, even balls.",
-      "Pan-fry in the butter over medium heat, 9-11 minutes, turning, until browned through."
-    ],
-    "description": "Simmer the cranberries with the sugar and a splash of water, 6-8 minutes, into a loose sauce, and serve alongside - lihapullat traditionally come with lingonberry, and cranberry fills much the same tart role here."
-  },
-  {
-    "name": "Finnish Rutabaga Casserole",
-    "cuisine": "finnish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 180,
-        "note": "peeled and cubed"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer the rutabaga in water until very tender, 20-25 minutes, then mash.",
-      "Mix in the milk, egg, and half the butter, transfer to a small dish, dot with the remaining butter, and bake at 375F for 25-30 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 200,
-        "note": "peeled and cubed"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.4,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rutabaga in water until very tender, 22-28 minutes, then drain and mash well.",
-      "Mix in the milk, egg, pepper, cinnamon, and half the butter, transfer to a small baking dish, dot with the remaining butter, and bake at 375F (190C) for 28-32 minutes until set and golden on top.",
-      "Lanttulaatikko is a fixture of the Finnish Christmas table, its faint sweetness pointed up by a touch of cinnamon."
-    ],
-    "description": "Lanttulaatikko, a rutabaga casserole, a Finnish Christmas staple."
-  },
-  {
-    "name": "Finnish Cabbage Rolls",
-    "cuisine": "finnish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 120,
-        "note": "leaves separated"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Blanch the cabbage leaves briefly until pliable.",
-      "Mix the beef, rice, and onion, roll into the cabbage leaves, and bake at 375F, covered, for 35-40 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 135,
-        "note": "leaves separated"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Blanch the cabbage leaves in simmering water 2-3 minutes until pliable, then drain.",
-      "Mix the beef, rice, onion, and pepper, roll firmly into the cabbage leaves, arrange in a baking dish with the tomatoes poured over, cover, and bake at 375F (190C) for 38-42 minutes until the rice is fully cooked."
-    ],
-    "description": "Kaalikaaryleet, sturdy and filling, is a genuine Finnish home-cooking staple, especially through the colder months."
-  },
-  {
-    "name": "Finnish Roast Lamb with Barley",
-    "cuisine": "finnish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 200,
-        "note": "formed into a roast-style portion"
-      },
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Season the lamb with the pepper and shape into a compact portion.",
-      "Roast at 375F for 20-25 minutes until cooked through.",
-      "Simmer the barley with the onion and 1.5 cups water for 30-35 minutes until tender, and serve alongside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 220,
-        "note": "formed into a roast-style portion"
-      },
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Season the lamb with the pepper and shape into a compact, even portion.",
-      "Roast at 375F (190C) for 22-28 minutes, turning once, until well browned and cooked through.",
-      "Simmer the barley with the onion, butter, and 1.75 cups water for 32-38 minutes until tender, and serve alongside."
-    ],
-    "description": "Roast lamb with barley, barley being a Finnish pantry staple."
-  },
-  {
-    "name": "Finnish Game-Style Saute",
-    "cuisine": "finnish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": "standing in for reindeer"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef and onion in the butter until deeply cooked, 10-12 minutes.",
-      "Season generously with the pepper and serve."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 210,
-        "note": "standing in for reindeer"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 14,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef and onion in the butter over medium-high heat, 11-13 minutes, until deeply browned.",
-      "Add the milk and simmer 4-5 minutes into a light sauce, seasoning generously with the pepper."
-    ],
-    "description": "Poronkaristys, thin-sliced sauteed reindeer in a milky pan sauce, is one of Finland's most iconic dishes and a Lapland specialty - reindeer isn't a distinct item here, so ground beef stands in."
-  },
-  {
-    "name": "Finnish Beef and Rutabaga Stew",
-    "cuisine": "finnish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 120,
-        "note": "peeled and cubed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion and pepper.",
-      "Add the rutabaga and 1.5 cups water, and simmer 25-28 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 135,
-        "note": "peeled and cubed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, pepper, and butter over medium-high heat, 8-10 minutes.",
-      "Add the rutabaga and 1.75 cups water, and simmer 28-32 minutes until the rutabaga is fully tender.",
-      "A simple, hearty root-vegetable stew of exactly the kind that carries Finnish households through the coldest months."
-    ],
-    "description": "A simple beef and rutabaga stew, rutabaga being a common Finnish root vegetable."
-  },
-  {
-    "name": "Finnish Baked Salmon with Dill",
-    "cuisine": "finnish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Season the salmon with the dill and dot with the butter.",
-      "Bake at 400F for 15-18 minutes until just cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the salmon with the dill and pepper and dot with the butter.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
-      "Finish with the lime juice - simply prepared salmon with dill turns up constantly across the Nordic countries, Finland included."
-    ],
-    "description": "A simple baked salmon, dill being a defining Scandinavian herb."
-  },
-  {
-    "name": "Finnish Rye Crust Pastries",
-    "cuisine": "finnish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": "cooked into porridge"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Bob's Red Mill Organic Dark Rye Flour",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk until thick.",
-      "Mix the rye flour into a thin dough, shape into small boats, fill with the porridge, and bake at 450F for 12-15 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": "cooked into a soft porridge for the filling"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Bob's Red Mill Organic Dark Rye Flour",
-        "qty": 40,
-        "note": "for the crust"
-      },
-      {
-        "ingredient": "Butter, salted",
+        "ingredient": "All-purpose flour",
         "qty": 15,
-        "note": "melted, plus more for the butter-egg topping"
+        "note": ""
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": "hard-boiled and mashed, for the traditional munavoi topping"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice in the milk over low heat, stirring often, 25-28 minutes, until it breaks down into a thick, soft porridge; cool slightly.",
-      "Mix the rye flour with a little water and a pinch of the butter into a firm, thin dough - real rye flour, with barely any gluten, makes a dough that's much more fragile and short than wheat flour, and needs to be handled gently.",
-      "Roll the dough very thin and cut into small oval shapes, pinching up the edges to form a shallow boat shape.",
-      "Fill each with the rice porridge and bake at 450F (230C) for 12-15 minutes until the edges are browned and slightly crisp.",
-      "Mash the hard-boiled egg into the melted butter to make munavoi, and spread over the warm pastries before serving."
-    ],
-    "description": "Karjalanpiirakka, rice porridge baked in a thin rye crust, is one of Finland's most iconic foods - real rye flour, with barely any gluten, makes a fragile, short dough that needs gentle handling, and the rye crust is the entire identity of the dish."
-  },
-  {
-    "name": "Finnish Turnip and Cheese Bake",
-    "cuisine": "finnish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Turnips, raw",
-        "qty": 100,
-        "note": "peeled and sliced thin"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "grated"
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, for the egg butter"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": "softened, divided"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Rye flour, dark",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "hard-boiled, for the egg butter"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 25,
+        "note": "softened, divided"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the rice with the milk over low heat, stirring occasionally, 40-45 minutes, until it becomes a thick, cohesive porridge. Let cool.",
+      "Mix the rye and all-purpose flour with enough water to form a firm dough. Rest 15 minutes.",
+      "Roll the dough paper-thin and cut into ovals.",
+      "Spread the rice porridge in the center of each oval, then pinch the edges from both sides toward the center in small folds, leaving the filling visible.",
+      "Brush lightly with butter and bake at 450F (230C) for 12-15 minutes until the edges are golden.",
+      "Chop the hard-boiled egg and mash it into the remaining softened butter to make munavoi, and spread it on the pies while still hot."
+    ],
+    "steps": [
+      "Simmer the rice with the milk over low heat, stirring occasionally, 40-45 minutes, until it becomes a thick, cohesive porridge. Let cool.",
+      "Mix the rye and all-purpose flour with enough water to form a firm dough. Rest 15 minutes.",
+      "Roll the dough paper-thin and cut into ovals.",
+      "Spread the rice porridge in the center of each oval, then pinch the edges from both sides toward the center in small folds, leaving the filling visible.",
+      "Brush lightly with butter and bake at 450F (230C) for 12-15 minutes until the edges are golden.",
+      "Chop the hard-boiled egg and mash it into the remaining softened butter to make munavoi, and spread it on the pies while still hot."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Lohikeitto",
+    "cuisine": "finnish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Lohikeitto, a real creamy salmon soup, is a beloved Finnish comfort dish, real technique adding fresh dill at the very end so its flavor stays bright rather than cooking away.",
+    "ingredients_full": [
+      {
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Leeks",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Heavy cream",
         "qty": 0.33,
         "note": "cup"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
-    "steps": [
-      "Layer the turnip with the milk in a small dish and bake at 375F, covered, for 20 minutes.",
-      "Uncover, top with the cheese, and bake 10-12 more minutes until golden."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Turnips, raw",
-        "qty": 115,
-        "note": "peeled and sliced thin"
+        "ingredient": "Atlantic salmon (raw)",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "grated"
+        "ingredient": "Yukon gold potato",
+        "qty": 150,
+        "note": "cubed"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.4,
+        "ingredient": "Leeks",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.33,
         "note": "cup"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Layer the turnip with the milk, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 20-22 minutes until nearly tender.",
-      "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
+      "Simmer the potato and leeks in 2 cups water 15-18 minutes until nearly tender.",
+      "Add the salmon and cream, and simmer 8-10 minutes until the salmon is just cooked through.",
+      "Stir in the fresh dill right at the end, off the heat, so its flavor stays bright."
     ],
-    "description": "A simple turnip and cheese bake."
+    "steps": [
+      "Simmer the potato and leeks in 2 cups water 15-18 minutes until nearly tender.",
+      "Add the salmon and cream, and simmer 8-10 minutes until the salmon is just cooked through.",
+      "Stir in the fresh dill right at the end, off the heat, so its flavor stays bright."
+    ],
+    "tags": []
   },
   {
-    "name": "Finnish Rye and Herring Snack",
+    "name": "Finnish Pulla",
     "cuisine": "finnish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Pulla, cardamom-spiced sweet bread, is a beloved Finnish coffee-break staple, real technique using a genuinely generous amount of real cardamom, which is what defines pulla's distinctive aroma.",
+    "ingredients_full": [
       {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
+        "ingredient": "All-purpose flour",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the rye bread and top with the pickled herring."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 0.5,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread generously, top with the pickled herring, and finish with a scattering of fresh dill."
-    ],
-    "description": "Rye bread and herring, a common Finnish snack pairing."
-  },
-  {
-    "name": "Finnish Barley and Cranberry Salad",
-    "cuisine": "finnish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 40,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Lime juice",
+        "ingredient": "Ground cardamom",
         "qty": 1,
-        "note": "tbsp"
+        "note": "tsp, generous"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the cooked barley with the cranberries, lime juice, and oil.",
-      "Serve at room temperature or chilled."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 45,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cooked, cooled barley with the cranberries, lime juice, oil, and pepper.",
-      "Let sit 10-15 minutes so the flavors meld before serving, at room temperature or chilled."
-    ],
-    "description": "Barley and cranberry, a common Finnish flavor pairing."
-  },
-  {
-    "name": "Finnish Rice Pudding",
-    "cuisine": "finnish",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 15,
-        "note": "to top"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon for 25-30 minutes until thick and creamy.",
-      "Top with the cranberries."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 20,
-        "note": "to top"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the cranberries and a drizzle of honey - riisipuuro, with a cranberry or fruit sauce, is a Finnish Christmas Eve tradition, much like its Norwegian counterpart."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Finnish Honey Cake",
-    "cuisine": "finnish",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
+        "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
+        "qty": 20,
+        "note": "softened"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cream the butter and honey, beat in the egg, then fold in the flour.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
+        "qty": 0.5,
         "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.5,
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cardamom",
+        "qty": 1,
+        "note": "tsp, generous"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
+        "qty": 20,
+        "note": "softened"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "qty": 0.5,
         "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
       },
       {
         "ingredient": "Baking powder",
@@ -1135,185 +230,313 @@
       }
     ],
     "steps_detailed": [
-      "Cream the butter and honey together until light, then beat in the egg.",
-      "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ],
-    "description": "A simple honey cake."
-  },
-  {
-    "name": "Finnish Cranberry and Barley Pudding",
-    "cuisine": "finnish",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
+      "Mix the flour, cardamom (being generous, since this is what defines pulla), sugar, softened butter, egg, and baking powder with a little milk into a soft dough.",
+      "Shape into a small braided loaf or rolls.",
+      "Bake at 375F (190C) for 18-20 minutes until golden."
     ],
     "steps": [
-      "Simmer the barley in the milk for 30-35 minutes until very tender and creamy.",
-      "Stir in the cranberries and honey."
+      "Mix the flour, cardamom (being generous, since this is what defines pulla), sugar, softened butter, egg, and baking powder with a little milk into a soft dough.",
+      "Shape into a small braided loaf or rolls.",
+      "Bake at 375F (190C) for 18-20 minutes until golden."
     ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Ruisleip\u00e4 (Rye Bread)",
+    "cuisine": "finnish",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Ruisleip\u00e4, dense dark rye bread, is Finland's most essential daily staple, real rye flour used directly here for its genuine dense, earthy character.",
     "ingredients_full": [
       {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 40,
+        "ingredient": "Rye flour, dark",
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 35,
-        "note": ""
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the barley in the milk and cinnamon over low heat, stirring occasionally, 32-38 minutes, until very tender and creamy.",
-      "Stir in the cranberries and honey, letting the berries soften slightly in the residual heat."
-    ],
-    "description": "A simple cranberry and barley pudding."
-  },
-  {
-    "name": "Finnish Dill and Butter Sauce",
-    "cuisine": "finnish",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Lime juice",
         "qty": 1,
         "note": "tsp"
       }
     ],
-    "steps": [
-      "Whisk the melted butter with the dill and lime juice.",
-      "Spoon over fish while still warm."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "melted"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the melted butter with the dill, lime juice, and pepper.",
-      "Spoon over fish or boiled potatoes while still warm."
-    ],
-    "description": "A simple dill-butter sauce, dill being a defining Scandinavian herb."
-  },
-  {
-    "name": "Finnish Cranberry Sauce",
-    "cuisine": "finnish",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Cranberries, raw",
-        "qty": 70,
+        "ingredient": "Rye flour, dark",
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the cranberries with the sugar and a splash of water, 8-10 minutes, until it breaks down into a sauce."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cranberries, raw",
-        "qty": 80,
-        "note": ""
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
+        "ingredient": "Honey",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the cranberries with the sugar, cinnamon, and a splash of water over medium-low heat, 9-11 minutes, until it breaks down into a thick, glossy sauce.",
-      "Serve alongside meatballs or roasted meats - lingonberry is the traditional pairing, and cranberry fills the same tart, cutting role."
+      "Mix the rye flour, baking powder, and honey with enough water to form a firm, dense dough.",
+      "Shape into a small round loaf and bake at 375F (190C) for 30-35 minutes until firm."
     ],
-    "description": "A simple cranberry sauce, a common Finnish accompaniment to meat dishes."
+    "steps": [
+      "Mix the rye flour, baking powder, and honey with enough water to form a firm, dense dough.",
+      "Shape into a small round loaf and bake at 375F (190C) for 30-35 minutes until firm."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Poronk\u00e4ristys-Style Beef",
+    "cuisine": "finnish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A saut\u00e9ed beef dish echoing poronk\u00e4ristys, Finland's real saut\u00e9ed reindeer dish, real technique slicing the meat thin so it cooks through quickly without toughening.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "thinly sliced, standing in for reindeer"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "thinly sliced, standing in for reindeer"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.25,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the butter, 3-4 minutes.",
+      "Add the thinly sliced beef and sear quickly, 3-4 minutes, so it stays tender.",
+      "Add the broth and simmer 5-6 minutes more."
+    ],
+    "steps": [
+      "Cook the onion in the butter, 3-4 minutes.",
+      "Add the thinly sliced beef and sear quickly, 3-4 minutes, so it stays tender.",
+      "Add the broth and simmer 5-6 minutes more."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Cucumber Salad",
+    "cuisine": "finnish",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple vinegar-dressed cucumber salad with real dill, a common Finnish side, real technique salting the cucumber first to draw out excess water.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar and sugar together, toss with the cucumber and dill."
+    ],
+    "steps": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar and sugar together, toss with the cucumber and dill."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Roasted Almonds",
+    "cuisine": "finnish",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Finland.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Beef and Vegetable Stew",
+    "cuisine": "finnish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Finnish home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Finnish Lingonberry Sauce",
+    "cuisine": "finnish",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple tart cranberry sauce standing in for lingonberry, the real traditional accompaniment to Finnish meat dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "365 (Whole Foods) Whole Berry Cranberry Sauce, Whole Berry Cranberry",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "365 (Whole Foods) Whole Berry Cranberry Sauce, Whole Berry Cranberry",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is alongside meat dishes."
+    ],
+    "steps": [
+      "Serve as-is alongside meat dishes."
+    ],
+    "tags": []
   }
 ]
