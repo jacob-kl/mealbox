@@ -1,226 +1,334 @@
 [
   {
-    "name": "Dutch Bread with Gouda",
+    "name": "Dutch Stroopwafel",
     "cuisine": "dutch",
-    "meal_type": "breakfast",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Stroopwafel, a caramel-filled waffle cookie, genuinely began as a resourceful use of bakery leftovers in 18th-century Gouda - real technique splits the waffle open with a knife the moment it comes off the iron, since waiting even a minute lets it crisp up and become impossible to cut cleanly.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, standing in for stroop syrup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "softened"
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp, standing in for stroop syrup"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour, softened butter, baking powder, sugar, and egg into a firm dough.",
+      "Divide into small balls and cook one at a time in a hot waffle iron, about 90 seconds, until golden.",
+      "The instant each waffle comes off the iron, slice it horizontally with a sharp knife while still hot - real technique depends on doing this immediately, before it crisps and becomes impossible to split cleanly.",
+      "Spread the warm honey inside and press the two halves back together."
+    ],
+    "steps": [
+      "Mix the flour, softened butter, baking powder, sugar, and egg into a firm dough.",
+      "Divide into small balls and cook one at a time in a hot waffle iron, about 90 seconds, until golden.",
+      "The instant each waffle comes off the iron, slice it horizontally with a sharp knife while still hot - real technique depends on doing this immediately, before it crisps and becomes impossible to split cleanly.",
+      "Spread the warm honey inside and press the two halves back together."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Hutspot",
+    "cuisine": "dutch",
+    "meal_type": "dinner",
     "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, gouda",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the bread and top with the gouda."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, gouda",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread generously, top with the gouda, and finish with a little black pepper.",
-      "Bread with a thick slice of cheese, unmelted, is the standard Dutch breakfast and lunch, eaten daily without much variation."
-    ],
-    "description": "Gouda, the Netherlands' most famous cheese, paired here simply with bread."
-  },
-  {
-    "name": "Dutch Oat Porridge with Honey",
-    "cuisine": "dutch",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Dutch Eggs with Edam",
-    "cuisine": "dutch",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, edam",
-        "qty": 30,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Scramble the eggs gently in the butter.",
-      "Fold in the edam just before they finish setting."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, edam",
-        "qty": 35,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
-      "Fold in the edam and pepper just before they finish setting, letting the cheese soften through."
-    ],
-    "description": "Edam, a classic Dutch cheese, paired here with eggs."
-  },
-  {
-    "name": "Dutch Stamppot with Cabbage",
-    "cuisine": "dutch",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 160,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Simmer the cabbage until tender, about 12-15 minutes.",
-      "Mash the potato with the milk and butter, then mash the cabbage through it."
-    ],
+    "description": "Hutspot, a real stamppot variation of mashed potato with carrot and onion, is a genuine Dutch winter staple, real technique boiling everything together in the same pot and mashing it as one, not serving the vegetables on the side.",
     "ingredients_full": [
       {
         "ingredient": "Yukon gold potato",
-        "qty": 180,
-        "note": "boiled and mashed"
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Cabbage, raw",
+        "ingredient": "Carrot",
         "qty": 100,
-        "note": "chopped"
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 14,
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the potato, carrot, and onion together in the same pot until all completely tender, 18-20 minutes.",
+      "Drain and mash everything together with the butter and milk - real hutspot is mashed as one dish, not kept separate."
+    ],
+    "steps": [
+      "Boil the potato, carrot, and onion together in the same pot until all completely tender, 18-20 minutes.",
+      "Drain and mash everything together with the butter and milk - real hutspot is mashed as one dish, not kept separate."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Bitterballen",
+    "cuisine": "dutch",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Bitterballen, deep-fried breaded meat balls, genuinely began as a way to use up leftover ragout stew - real technique double-coats each ball in egg and breadcrumbs for a real extra-crunchy exterior around the creamy filling.",
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "cup, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "cup, for frying"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef, 6-7 minutes.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the broth until thickened into a real ragout.",
+      "Stir the beef into the ragout, then chill at least 1 hour until firm enough to shape.",
+      "Shape into small balls, then dip in the egg and breadcrumbs, and repeat a second time for a real extra-crunchy coating.",
+      "Deep-fry at 350F (175C) for 4-5 minutes until deeply golden."
+    ],
+    "steps": [
+      "Brown the beef, 6-7 minutes.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the broth until thickened into a real ragout.",
+      "Stir the beef into the ragout, then chill at least 1 hour until firm enough to shape.",
+      "Shape into small balls, then dip in the egg and breadcrumbs, and repeat a second time for a real extra-crunchy coating.",
+      "Deep-fry at 350F (175C) for 4-5 minutes until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Erwtensoep (Split Pea Soup)",
+    "cuisine": "dutch",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Erwtensoep, a genuinely thick split pea soup, is a real Dutch winter staple, real technique simmering the peas long enough that they break down completely and thicken the soup naturally.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peas, split, mature seeds, cooked, boiled, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peas, split, mature seeds, cooked, boiled, without salt",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion and carrot 4-5 minutes.",
+      "Add the split peas and broth, and simmer 25-30 minutes, until the peas break down completely and the soup thickens naturally."
+    ],
+    "steps": [
+      "Cook the onion and carrot 4-5 minutes.",
+      "Add the split peas and broth, and simmer 25-30 minutes, until the peas break down completely and the soup thickens naturally."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Poffertjes",
+    "cuisine": "dutch",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Poffertjes, small, fluffy yeasted pancakes, are a beloved Dutch treat, real technique using real yeast for a genuine light rise, cooked in a special pan with small indentations.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       },
       {
@@ -229,1039 +337,284 @@
         "note": "cup"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the cabbage until fully tender, 14-16 minutes, then drain well.",
-      "Mash the potato with the milk, butter, and pepper until smooth, then mash the cabbage through it until well combined.",
-      "Stamppot, mashed potato worked through with a vegetable, is one of the most enduring Dutch comfort foods, especially in winter."
-    ],
-    "description": "Stamppot, mashed potato with vegetables folded through, a quintessential Dutch comfort food."
-  },
-  {
-    "name": "Dutch Hutspot (Stamppot with Rutabaga)",
-    "cuisine": "dutch",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 80,
-        "note": "peeled, boiled, and mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
         "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer the rutabaga with the onion until tender, about 20 minutes.",
-      "Mash the potato with the butter, then mash the rutabaga and onion through it."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 165,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 90,
-        "note": "peeled, boiled, and mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 14,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rutabaga with the onion until fully tender, 22-25 minutes, then drain well.",
-      "Mash the potato with the butter and pepper, then mash the rutabaga and onion through it until well combined."
-    ],
-    "description": "Hutspot, one of the oldest recorded Dutch dishes, is traditionally tied to the 1574 liberation of Leiden."
-  },
-  {
-    "name": "Dutch Cheese Soup",
-    "cuisine": "dutch",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, gouda",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 8,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Melt the butter, stir in the flour, then the milk, and simmer 5 minutes.",
-      "Stir in the gouda until melted."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, gouda",
-        "qty": 70,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Melt the butter, stir in the flour, and cook 1 minute, then whisk in the milk gradually, simmering 6-8 minutes until slightly thickened.",
-      "Stir in the gouda and pepper until fully melted and smooth."
-    ],
-    "description": "A simple cheese soup, Dutch cheese being world-famous."
-  },
-  {
-    "name": "Dutch Pickled Herring Plate",
-    "cuisine": "dutch",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      }
-    ],
-    "steps": [
-      "Serve the pickled herring with the onion and bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread and serve alongside the pickled herring and onion."
-    ],
-    "description": "Raw or lightly cured herring, eaten by the tail and dipped in onion, is a genuine Dutch classic, sold from street stalls across the country."
-  },
-  {
-    "name": "Dutch Meatballs (Gehaktballen)",
-    "cuisine": "dutch",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
         "qty": 15,
-        "note": ""
+        "note": "melted, plus more for the pan"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "finely chopped"
-      }
-    ],
-    "steps": [
-      "Mix the beef with the egg, flour, and onion, and form into balls.",
-      "Pan-fry in a little oil, 8-10 minutes, until browned through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Mix the beef thoroughly with the egg, flour, onion, and pepper, and form into large, even balls.",
-      "Pan-fry in the butter over medium heat, 9-11 minutes, turning, until deeply browned and cooked through.",
-      "Gehaktballen, dense meatballs served with gravy and potatoes, are a Dutch home-cooking staple."
-    ],
-    "description": "Gehaktballen, Dutch meatballs, a home-cooking staple often served with gravy."
-  },
-  {
-    "name": "Dutch Stamppot with Beef Sausage",
-    "cuisine": "dutch",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 80,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": "formed into sausage shapes"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Form the beef into sausage shapes and pan-fry until browned through.",
-      "Simmer the cabbage until tender, mash the potato with the butter, then mash the cabbage through it, and serve with the sausage."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 165,
-        "note": "boiled and mashed"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 165,
-        "note": "formed into sausage shapes"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 14,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the beef with the pepper, form into sausage shapes, and pan-fry over medium heat, 10-12 minutes, until browned through.",
-      "Simmer the cabbage until fully tender, 14-16 minutes, mash the potato with the butter, then mash the cabbage through it, and serve alongside the sausage."
-    ],
-    "description": "Stamppot with sausage, a hearty Dutch comfort food staple."
-  },
-  {
-    "name": "Dutch Baked Salmon with Dill",
-    "cuisine": "dutch",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
+        "ingredient": "Sugars, powdered",
         "qty": 1,
-        "note": "tbsp"
+        "note": "tbsp, for dusting"
       }
     ],
-    "steps": [
-      "Season the salmon with the dill and dot with the butter.",
-      "Bake at 400F for 15-18 minutes until just cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the salmon with the dill and pepper and dot with the butter.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
-    ],
-    "description": "Finish with the lime juice - the Netherlands has a long fishing and trading history built around the North Sea, and simply prepared fish reflects that."
-  },
-  {
-    "name": "Dutch Roast Pork with Apple",
-    "cuisine": "dutch",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 90,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Roast the pork at 400F for 25-28 minutes until browned.",
-      "Soften the apple and onion in the butter, and serve alongside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Roast the pork at 400F (200C) for 26-30 minutes until well browned and the fat has rendered.",
-      "Soften the apple, onion, and cinnamon in the butter, 8-10 minutes, until tender and lightly caramelized, and serve alongside."
-    ],
-    "description": "Roast pork with apple, a classic Dutch flavor pairing."
-  },
-  {
-    "name": "Dutch Bitterballen-Style Fried Beef Balls",
-    "cuisine": "dutch",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 30,
-        "note": "for dredging"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps": [
-      "Form the beef into small balls and simmer until cooked through, about 8-10 minutes.",
-      "Dredge in the flour, then the beaten egg, and fry in the oil until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 165,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": "for dredging"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2.5,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Form the beef, seasoned with the pepper, into small balls and simmer in water 9-11 minutes until cooked through.",
-      "Dredge in the flour, then the beaten egg, pressing to coat well, and fry in the oil over medium-high heat, 3-4 minutes, until deeply golden and crisp."
-    ],
-    "description": "Bitterballen, traditionally a smooth ragout inside a crisp shell, are the quintessential Dutch bar snack."
-  },
-  {
-    "name": "Dutch Gouda and Apple Snack",
-    "cuisine": "dutch",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, gouda",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Arrange the gouda and apple slices together.",
-      "Drizzle with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, gouda",
-        "qty": 45,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 90,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 10,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the gouda and apple slices together, drizzle with the honey, and scatter with the walnuts."
-    ],
-    "description": "Gouda and apple, a classic Dutch flavor pairing."
-  },
-  {
-    "name": "Dutch Edam and Bread Snack",
-    "cuisine": "dutch",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, edam",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the bread and top with the edam."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, edam",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread generously, top with the edam, and finish with a little black pepper."
-    ],
-    "description": "Edam and bread, a simple Dutch snack."
-  },
-  {
-    "name": "Dutch Rutabaga Fries",
-    "cuisine": "dutch",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 130,
-        "note": "cut into fries"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Toss the rutabaga fries with the oil and pepper.",
-      "Roast at 425F for 25-30 minutes, turning once, until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Rutabagas, raw",
-        "qty": 145,
-        "note": "cut into fries"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the rutabaga fries with the oil and pepper.",
-      "Roast at 425F (220C) for 26-32 minutes, turning once, until golden and crisp at the edges.",
-      "Serve with the mustard for dipping."
-    ],
-    "description": "Simple rutabaga fries."
-  },
-  {
-    "name": "Dutch Stroopwafel-Style Honey Cookies",
-    "cuisine": "dutch",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Mix the flour, honey, butter, and cinnamon into a firm dough.",
-      "Roll thin, cut into rounds, and bake at 350F for 10-12 minutes until golden."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
         "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 24,
+        "ingredient": "Eggs (large)",
+        "qty": 1,
         "note": ""
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.3,
-        "note": "tsp"
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": "melted, plus more for the pan"
+      },
+      {
+        "ingredient": "Sugars, powdered",
+        "qty": 1,
+        "note": "tbsp, for dusting"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, baking powder, egg, milk, and melted butter into a smooth, thin batter.",
+      "Let rest 15-20 minutes.",
+      "Cook small spoonfuls in a well-buttered pan (or standard pan if a poffertjes pan isn't available), 2-3 minutes per side, until golden.",
+      "Dust with powdered sugar before serving."
+    ],
+    "steps": [
+      "Whisk the flour, baking powder, egg, milk, and melted butter into a smooth, thin batter.",
+      "Let rest 15-20 minutes.",
+      "Cook small spoonfuls in a well-buttered pan (or standard pan if a poffertjes pan isn't available), 2-3 minutes per side, until golden.",
+      "Dust with powdered sugar before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Pea Soup Sausage",
+    "cuisine": "dutch",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Rookworst, smoked sausage, is the real, traditional protein simmered directly in or served alongside erwtensoep and stamppot.",
+    "ingredients_full": [
+      {
+        "ingredient": "Boerewors",
+        "qty": 200,
+        "note": "standing in for rookworst"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Boerewors",
+        "qty": 200,
+        "note": "standing in for rookworst"
+      }
+    ],
+    "steps_detailed": [
+      "Simmer or grill the sausage, turning, 10-12 minutes, until heated through and lightly browned."
+    ],
+    "steps": [
+      "Simmer or grill the sausage, turning, 10-12 minutes, until heated through and lightly browned."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Cucumber Salad",
+    "cuisine": "dutch",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple vinegar-dressed cucumber salad, a common Dutch side, real technique salting the cucumber first to draw out excess water.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Granulated sugar",
         "qty": 1,
-        "note": "tbsp"
+        "note": "tsp"
       }
     ],
-    "steps_detailed": [
-      "Mix the flour, honey, butter, cinnamon, and sugar into a firm, smooth dough.",
-      "Roll thin, cut into rounds, and bake at 350F (175C) for 11-14 minutes until golden at the edges.",
-      "A true stroopwafel is two thin waffle layers filled with warm syrup - this keeps the same honey-cinnamon character in a simpler cookie form."
-    ],
-    "description": "Stroopwafel, thin waffle cookies filled with caramel syrup, one of the Netherlands' most iconic treats."
-  },
-  {
-    "name": "Dutch Apple Cake (Appeltaart-Style)",
-    "cuisine": "dutch",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 150,
-        "note": "peeled and sliced"
+        "note": "thinly sliced"
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 22,
-        "note": ""
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
+        "qty": 1,
+        "note": "tsp"
       }
     ],
-    "steps": [
-      "Toss the apple with half the sugar and the cinnamon.",
-      "Mix the flour, butter, and remaining sugar into a crumbly topping, layer with the apple in a small dish, and bake at 375F for 30-35 minutes until golden."
+    "steps_detailed": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar, oil, and sugar together, and toss with the cucumber."
     ],
+    "steps": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar, oil, and sugar together, and toss with the cucumber."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Roasted Almonds",
+    "cuisine": "dutch",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across the Netherlands.",
     "ingredients_full": [
       {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 165,
-        "note": "peeled and sliced"
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dutch Beef and Vegetable Stew",
+    "cuisine": "dutch",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Dutch home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Carrot",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 26,
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the apple with half the sugar and the cinnamon.",
-      "Rub the butter into the flour and remaining sugar until crumbly, layer with the apple in a small baking dish, and bake at 375F (190C) for 32-38 minutes until golden and the apple is tender.",
-      "Appeltaart, thick with apple and lightly spiced, is considered a point of national pride in the Netherlands."
-    ],
-    "description": "Appeltaart, Dutch apple cake, denser and more custard-like than American apple pie."
-  },
-  {
-    "name": "Dutch Rice Pudding",
-    "cuisine": "dutch",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
+        "ingredient": "Yellow onion",
+        "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "description": "A simple rice pudding."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
   },
   {
     "name": "Dutch Mustard Sauce",
     "cuisine": "dutch",
     "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "A simple mustard sauce, a common Dutch condiment for bitterballen and grilled meats.",
+    "ingredients_full": [
       {
         "ingredient": "Mustard, prepared, yellow",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
         "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 1,
+        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Warm the mustard, butter, and milk together gently until smooth."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the mustard, butter, milk, and pepper together gently over low heat, stirring, until smooth.",
-      "Good with fried fish or bitterballen."
-    ],
-    "description": "A simple mustard sauce."
-  },
-  {
-    "name": "Dutch Apple Compote",
-    "cuisine": "dutch",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 100,
-        "note": "peeled and chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Simmer the apple with the honey, cinnamon, and a splash of water, 10-12 minutes, until it breaks down into a compote."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 115,
-        "note": "peeled and chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
+        "ingredient": "Mayonnaise",
+        "qty": 1,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the apple with the honey, cinnamon, and a splash of water over medium-low heat, 12-14 minutes, mashing as it softens, until it breaks down into a thick, glossy compote.",
-      "Applemoes, smooth stewed apple, is a common accompaniment to savory dishes across the Netherlands, not reserved for dessert."
+      "Mix everything together."
     ],
-    "description": "A simple apple compote."
+    "steps": [
+      "Mix everything together."
+    ],
+    "tags": []
   }
 ]

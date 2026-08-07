@@ -1,1256 +1,336 @@
 [
   {
-    "name": "English Full Breakfast Plate",
-    "cuisine": "english",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, cured, bacon, unprepared",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "standing in for fried toast"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Fry the bacon over medium heat until crisp, 3-4 minutes per side, then set aside, keeping a little of the rendered fat in the pan if you like.",
-      "Fry the eggs in half the butter over medium heat, seasoning with black pepper.",
-      "Warm the tomatoes in a small pan, 4-5 minutes, until heated through and slightly reduced.",
-      "Fry the bread in the remaining butter until deeply golden on both sides, and plate everything together.",
-      "Bacon, egg, and fried bread are the three components that appear in essentially every version of a full English, however many extras a given kitchen adds around them."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, cured, bacon, unprepared",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
-        "qty": 1.5,
-        "note": "toasted"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the bacon over medium heat until crisp, 3-4 minutes per side, then set aside, keeping a little of the rendered fat in the pan if you like.",
-      "Fry the eggs in half the butter over medium heat, seasoning with black pepper.",
-      "Warm the tomatoes in a small pan, 4-5 minutes, until heated through and slightly reduced.",
-      "Fry the bread in the remaining butter until deeply golden on both sides, and plate everything together.",
-      "Bacon, egg, and fried bread are the three components that appear in essentially every version of a full English, however many extras a given kitchen adds around them."
-    ],
-    "description": "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
-  },
-  {
-    "name": "English Porridge with Currants",
-    "cuisine": "english",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 5-6 minutes, stirring, until thick and creamy.",
-      "Stir in the currants and top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk with the cinnamon over medium-low heat, stirring often, 6-8 minutes, until thick and creamy.",
-      "Stir in most of the currants, reserving a few to scatter on top, and finish with the honey."
-    ],
-    "description": "A simple porridge with currants, a common British breakfast."
-  },
-  {
-    "name": "English Kedgeree",
-    "cuisine": "english",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "hard-boiled, sliced"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook the rice until tender.",
-      "Flake the kippered herring and warm it through with the turmeric.",
-      "Fold the fish into the rice and top with the sliced egg."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 140,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": "hard-boiled, sliced"
-      },
-      {
-        "ingredient": "Spices, turmeric, ground",
-        "qty": 1.4,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      },
-      {
-        "ingredient": "Cilantro",
-        "qty": 0.0625,
-        "note": "cup, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the rice until tender.",
-      "Flake the kippered herring and warm it through in the butter with the turmeric, 3-4 minutes.",
-      "Fold the fish gently into the rice, top with the sliced egg and cilantro, and serve warm.",
-      "Kedgeree began as an Anglo-Indian breakfast brought home by colonial-era travelers and has stayed a fixture of English breakfast tables ever since."
-    ],
-    "description": "Kedgeree, curried rice with smoked fish and egg, has roots in British colonial India and remains a beloved English breakfast dish."
-  },
-  {
-    "name": "English Cottage Pie",
-    "cuisine": "english",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the tomatoes and simmer 10 minutes.",
-      "Spread the mashed potato over the top and bake at 400F for 15-20 minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": "for the mash"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.125,
-        "note": "cup, for the mash"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion over medium-high heat, 8-10 minutes.",
-      "Add the tomatoes and simmer 12-15 minutes until thickened.",
-      "Mash the potato with the butter and milk until smooth, spread over the beef, and bake at 400F (200C) for 18-22 minutes until the top is golden.",
-      "Cottage pie is made with beef specifically - the lamb version goes by shepherd's pie, a distinction English cooks tend to hold to firmly."
-    ],
-    "description": "Cottage pie, ground beef under mashed potato, distinct from shepherd's pie only in using beef rather than lamb."
-  },
-  {
-    "name": "English Cheddar and Leek Bake",
-    "cuisine": "english",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 15,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Saute the leeks in the butter until soft, about 8 minutes.",
-      "Stir in the flour, then the cheese, and cook until melted and thickened.",
-      "Bake at 375F for 10 minutes until bubbling."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Leeks, (bulb and lower leaf-portion), raw",
-        "qty": 115,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Saute the leeks in the butter over medium-low heat until fully soft and sweet, 10-12 minutes.",
-      "Stir in the flour and cook 1 minute, then add the milk gradually, followed by most of the cheese, stirring until melted and thickened.",
-      "Transfer to a small baking dish, top with the remaining cheese, and bake at 375F (190C) for 10-12 minutes until bubbling and lightly browned."
-    ],
-    "description": "A simple cheddar and leek bake."
-  },
-  {
-    "name": "English Baked Fish and Chips",
-    "cuisine": "english",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "cut into wedges"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Toss the potato wedges with the oil and roast at 425F for 20-25 minutes, turning once.",
-      "Bake the fish alongside for the last 12-15 minutes until just cooked through.",
-      "Serve with a squeeze of lime."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "cut into wedges"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 15,
-        "note": "for dusting the fish"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the potato wedges with the oil and roast at 425F (220C) for 22-28 minutes, turning once, until crisp and golden.",
-      "Dust the fish lightly with the flour and pepper and bake alongside for the last 12-15 minutes until just cooked through and flaking."
-    ],
-    "description": "Serve with a squeeze of lime standing in for the malt vinegar traditionally sprinkled over a proper chip-shop portion."
-  },
-  {
-    "name": "English Ploughman's Lunch",
-    "cuisine": "english",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 70,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "standing in for a crusty bread roll"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 50,
-        "note": "finely shredded, as a slaw"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tsp, standing in for chutney"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Arrange the cheese, bread, and a small dab of mustard together on a board.",
-      "Toss the shredded cabbage with the honey and lime juice and serve alongside as a simple, bright slaw standing in for pickled onion or chutney.",
-      "A ploughman's is less a recipe than an assembly - cold cheese, bread, mustard, and something pickled or sweet, built to be eaten with the hands over a pub lunch."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 70,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
-        "qty": 1.62,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 50,
-        "note": "finely shredded, as a slaw"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tsp, standing in for chutney"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Mustard, prepared, yellow",
-        "qty": 1.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the cheese, bread, and a small dab of mustard together on a board.",
-      "Toss the shredded cabbage with the honey and lime juice and serve alongside as a simple, bright slaw standing in for pickled onion or chutney.",
-      "A ploughman's is less a recipe than an assembly - cold cheese, bread, mustard, and something pickled or sweet, built to be eaten with the hands over a pub lunch.",
-      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
-    ],
-    "description": "The Ploughman's lunch, bread, cheese, and pickle, is a pub classic - more a modern marketing invention of the 1960s than a genuinely ancient dish, though it draws on real, traditional ingredients."
-  },
-  {
-    "name": "English Sunday Roast Beef with Potatoes and Cabbage",
+    "name": "English Fish and Chips",
     "cuisine": "english",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 80,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Roast the beef at 375F for 35-40 minutes until tender.",
-      "Roast the potatoes alongside in the butter until golden.",
-      "Steam the cabbage in the last 8-10 minutes and serve everything together."
-    ],
+    "description": "Fish and chips depends on real technique at every stage - the fish is dredged in seasoned flour first, then dipped in a real cold beer batter (the carbonation is what makes it light and crispy), and the chips are genuinely double-fried, once low to cook the inside through, once high to crisp the outside, the same real principle behind Belgian frites. Real tradition finishes with malt vinegar, not any vinegar.",
     "ingredients_full": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 240,
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "divided"
+      },
+      {
+        "ingredient": "Alcoholic beverage, beer, light",
+        "qty": 0.5,
+        "note": "cup, cold"
       },
       {
         "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "halved"
+        "qty": 200,
+        "note": "cut into thick batons"
       },
       {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "chopped"
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "cup, for frying"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 14,
+        "ingredient": "Vinegar, cider",
+        "qty": 1,
+        "note": "tbsp, standing in for malt vinegar"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": "divided"
       },
       {
-        "ingredient": "Garlic clove",
+        "ingredient": "Alcoholic beverage, beer, light",
+        "qty": 0.5,
+        "note": "cup, cold"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "cut into thick batons"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "cup, for frying"
+      },
+      {
+        "ingredient": "Vinegar, cider",
         "qty": 1,
-        "note": "minced"
+        "note": "tbsp, standing in for malt vinegar"
       }
     ],
     "steps_detailed": [
-      "Season the beef with the pepper and garlic and roast at 375F (190C) for 40-45 minutes until tender.",
-      "Toss the potatoes in half the butter and roast alongside, turning once, until deeply golden.",
-      "Steam the cabbage in the last 10 minutes, toss with the remaining butter, and serve everything together.",
-      "The Sunday roast, built around a large joint of meat and whatever vegetables are in season, remains the week's centerpiece meal in many English households."
+      "Fry the potato batons at a lower temperature, around 325F (163C), for 5-6 minutes, until soft but pale. Remove and rest 10 minutes.",
+      "Dredge the fish in a third of the flour, tapping off the excess.",
+      "Whisk the remaining flour with the cold beer into a smooth batter.",
+      "Dip the floured fish into the batter, letting the excess drip off, and fry at 375F (190C) for 4-5 minutes per side, until deeply golden, turning only once.",
+      "Fry the rested potatoes a second time at the higher temperature, 3-4 minutes, until deeply golden and genuinely crisp.",
+      "Serve immediately with the vinegar, since the batter loses its crispness the longer it sits."
     ],
-    "description": "The Sunday roast, a weekly tradition of roasted meat and vegetables, is a cornerstone of English home cooking."
+    "steps": [
+      "Fry the potato batons at a lower temperature, around 325F (163C), for 5-6 minutes, until soft but pale. Remove and rest 10 minutes.",
+      "Dredge the fish in a third of the flour, tapping off the excess.",
+      "Whisk the remaining flour with the cold beer into a smooth batter.",
+      "Dip the floured fish into the batter, letting the excess drip off, and fry at 375F (190C) for 4-5 minutes per side, until deeply golden, turning only once.",
+      "Fry the rested potatoes a second time at the higher temperature, 3-4 minutes, until deeply golden and genuinely crisp.",
+      "Serve immediately with the vinegar, since the batter loses its crispness the longer it sits."
+    ],
+    "tags": []
   },
   {
     "name": "English Shepherd's Pie",
     "cuisine": "english",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the lamb with the onion.",
-      "Add the tomatoes and simmer 10 minutes.",
-      "Spread the mashed potato over the top and bake at 400F for 15-20 minutes until golden."
-    ],
+    "description": "Shepherd's pie, real technique made with lamb (the beef version is technically cottage pie), is topped with real mashed potato, real technique piped or forked into peaks so they crisp and brown at the tips under the broiler.",
     "ingredients_full": [
       {
         "ingredient": "Ground lamb",
-        "qty": 210,
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
         "note": ""
       },
       {
         "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "mashed for the topping"
+        "qty": 200,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground lamb",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Brown the lamb with the onion and carrot, 8-9 minutes.",
+      "Add the tomatoes and simmer 15-18 minutes.",
+      "Mash the boiled potato with the butter and milk.",
+      "Spread the meat filling in a baking dish, top with the mashed potato, and rough up the surface with a fork so the peaks crisp under the broiler.",
+      "Bake at 400F (200C) for 20-22 minutes until the top is golden and the peaks are browned."
+    ],
+    "steps": [
+      "Brown the lamb with the onion and carrot, 8-9 minutes.",
+      "Add the tomatoes and simmer 15-18 minutes.",
+      "Mash the boiled potato with the butter and milk.",
+      "Spread the meat filling in a baking dish, top with the mashed potato, and rough up the surface with a fork so the peaks crisp under the broiler.",
+      "Bake at 400F (200C) for 20-22 minutes until the top is golden and the peaks are browned."
+    ],
+    "tags": []
+  },
+  {
+    "name": "English Full Breakfast",
+    "cuisine": "english",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "The full English breakfast, a real substantial plate of eggs, sausage, beans, and grilled tomato, reflects England's genuine tradition of a big, hard-working breakfast.",
+    "ingredients_full": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
+      },
+      {
+        "ingredient": "Boerewors",
+        "qty": 100,
+        "note": "standing in for English banger sausage"
+      },
+      {
+        "ingredient": "Beans, kidney, all types, mature seeds, canned",
+        "qty": 100,
+        "note": "standing in for baked beans"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": "for the mash"
+        "ingredient": "Boerewors",
+        "qty": 100,
+        "note": "standing in for English banger sausage"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Beans, kidney, all types, mature seeds, canned",
+        "qty": 100,
+        "note": "standing in for baked beans"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Brown the lamb with the onion and pepper over medium-high heat, 8-10 minutes.",
-      "Add the tomatoes and simmer 12-15 minutes until thickened.",
-      "Mash the potato with the butter until smooth, spread over the lamb, and bake at 400F (200C) for 18-22 minutes until golden.",
-      "Shepherd's pie specifically means lamb - the name itself points back to shepherds rather than cattle drovers."
+      "Fry the sausage, 8-9 minutes, turning, until cooked through.",
+      "Fry the eggs to your liking.",
+      "Warm the beans and tomatoes in a separate small pan.",
+      "Serve everything together on one plate."
     ],
-    "description": "Shepherd's pie, ground lamb under mashed potato, is named for using lamb specifically - beef versions are properly called cottage pie."
+    "steps": [
+      "Fry the sausage, 8-9 minutes, turning, until cooked through.",
+      "Fry the eggs to your liking.",
+      "Warm the beans and tomatoes in a separate small pan.",
+      "Serve everything together on one plate."
+    ],
+    "tags": []
   },
   {
     "name": "English Bangers and Mash",
     "cuisine": "english",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": "formed into sausage shapes"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced, for the gravy"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Form the beef into sausage shapes and pan-fry until browned through.",
-      "Mash the potato with half the butter.",
-      "Soften the onion in the remaining butter for the gravy and serve alongside."
-    ],
+    "description": "Bangers and mash, sausages with real mashed potato and onion gravy, is a genuine British comfort staple, real technique cooking the onions down slowly for a truly deep gravy.",
     "ingredients_full": [
       {
-        "ingredient": "Ground beef 90/10",
+        "ingredient": "Boerewors",
         "qty": 200,
-        "note": "formed into sausage shapes"
+        "note": "standing in for English bangers"
       },
       {
         "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "sliced, for the gravy"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 14,
-        "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 10,
-        "note": "for the gravy"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.125,
-        "note": "cup, for the mash"
-      }
-    ],
-    "steps_detailed": [
-      "Form the beef into sausage shapes and pan-fry over medium heat, 10-12 minutes, turning, until well browned through.",
-      "Mash the potato with half the butter and the milk until smooth.",
-      "Soften the onion in the remaining butter, 8-10 minutes, stir in the flour, and thin with a splash of water into a loose gravy - bangers and mash, built around whatever gravy is on hand, is a weeknight staple across England."
-    ],
-    "description": "Bangers and mash, sausages over mashed potato with onion gravy, a beloved English pub classic."
-  },
-  {
-    "name": "English Fish Pie",
-    "cuisine": "english",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "grated, for the topping"
-      }
-    ],
-    "steps": [
-      "Poach the fish gently in the milk until just cooked, then flake it.",
-      "Spread the flaked fish in a small dish, top with the mashed potato and cheese, and bake at 375F for 15-18 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
         "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 40,
-        "note": "grated, for the topping"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": "for the mash"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Poach the fish gently in the milk over low heat, 6-8 minutes, until just cooked through, then flake it, reserving the milk.",
-      "Mash the potato with the butter and a splash of the reserved milk.",
-      "Spread the flaked fish in a small baking dish, season with pepper, top with the mashed potato and cheese, and bake at 375F (190C) for 18-22 minutes until golden and bubbling."
-    ],
-    "description": "Fish pie, a creamy fish filling under mashed potato, an English comfort food staple."
-  },
-  {
-    "name": "English Cheese Scones",
-    "cuisine": "english",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "cold, cubed"
-      }
-    ],
-    "steps": [
-      "Rub the butter into the flour and baking powder until crumbly.",
-      "Stir in the cheese and enough milk to form a soft dough, pat into rounds, and bake at 400F for 12-15 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold, cubed"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.2,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the butter into the flour and baking powder until the mixture resembles coarse crumbs.",
-      "Stir in most of the cheese and enough milk to form a soft, slightly sticky dough.",
-      "Pat into rounds about an inch thick, top with the remaining cheese, and bake at 400F (200C) for 13-16 minutes until risen and golden."
-    ],
-    "description": "Simple cheese scones, a common English teatime bake."
-  },
-  {
-    "name": "English Herring on Toast",
-    "cuisine": "english",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "standing in for toast"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Warm the kippered herring gently in a dry pan, 2-3 minutes.",
-      "Toast the bread in the butter until golden, season with pepper, and top with the warm fish - kippers on toast are a familiar teatime or light-supper standby."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
-        "qty": 1.5,
-        "note": "toasted"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Warm the kippered herring gently in a dry pan, 2-3 minutes.",
-      "Toast the bread in the butter until golden, season with pepper, and top with the warm fish - kippers on toast are a familiar teatime or light-supper standby."
-    ],
-    "description": "Real sliced bread, toasted, is used here now rather than a tortilla standing in for it - a tortilla's texture is nothing like toast, while a genuine sliced loaf toasts up properly crisp the way the dish actually calls for."
-  },
-  {
-    "name": "English Currant Scones",
-    "cuisine": "english",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "cold, cubed"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Rub the butter into the flour, baking powder, and sugar until crumbly.",
-      "Stir in the currants and enough milk to form a soft dough, pat into rounds, and bake at 400F for 12-15 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold, cubed"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.2,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the butter into the flour, baking powder, and sugar until the mixture resembles coarse crumbs.",
-      "Stir in the currants and enough milk to form a soft, slightly sticky dough.",
-      "Pat into rounds about an inch thick and bake at 400F (200C) for 13-16 minutes until risen and golden - served split with butter, these are a fixture of the English afternoon tea table."
-    ],
-    "description": "Simple currant scones, a classic English teatime bake."
-  },
-  {
-    "name": "English Bubble and Squeak",
-    "cuisine": "english",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 70,
-        "note": "shredded"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "mashed, leftover-style"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
+        "note": "boiled and mashed"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 20,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Fry the cabbage and onion in half the butter until soft.",
-      "Mix in the mashed potato and press into a cake in the remaining butter, frying until crisp and golden on both sides."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
         "qty": 80,
-        "note": "shredded"
+        "note": "sliced"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 115,
-        "note": "mashed, leftover-style"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fry the cabbage and onion in half the butter over medium heat, 8-10 minutes, until soft and lightly browned.",
-      "Mix in the mashed potato and pepper, press the whole mixture into a cake in the remaining butter, and fry 4-5 minutes per side until crisp and deeply golden."
-    ],
-    "description": "Bubble and squeak takes its name from the sound it makes in the pan, and was traditionally built from whatever was left over from Sunday's roast."
-  },
-  {
-    "name": "English Sticky Date Pudding",
-    "cuisine": "english",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 70,
-        "note": "pitted, chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp, standing in for golden syrup"
-      }
-    ],
-    "steps": [
-      "Simmer the dates in a little water until soft, then mash into the flour and half the butter to form a batter.",
-      "Bake at 350F for 20-22 minutes.",
-      "Warm the remaining butter with the honey into a sauce and pour over."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Dates, medjool",
-        "qty": 80,
-        "note": "pitted, chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp, standing in for golden syrup"
-      },
-      {
-        "ingredient": "Baking powder",
+        "ingredient": "Beef broth",
         "qty": 0.5,
-        "note": "tsp"
+        "note": "cup"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Boerewors",
+        "qty": 200,
+        "note": "standing in for English bangers"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and mashed"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 80,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the dates in a little water until very soft, then mash and mix with the flour, baking powder, egg, and half the butter to form a thick batter.",
-      "Pour into a small baking dish and bake at 350F (175C) for 22-26 minutes until set and a skewer comes out clean.",
-      "Warm the remaining butter with the honey into a glossy sauce and pour generously over the warm pudding."
-    ],
-    "description": "Sticky toffee pudding, a date-based sponge cake with toffee sauce, one of England's most beloved desserts."
-  },
-  {
-    "name": "English Bread and Butter Pudding",
-    "cuisine": "english",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "torn, standing in for sliced bread"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 20,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
+      "Cook the sausage, 10-12 minutes, turning, until cooked through, then set aside.",
+      "Cook the onion in the same pan, stirring occasionally, 15-18 minutes, until deeply softened.",
+      "Add the broth and simmer 5-6 minutes into a real onion gravy.",
+      "Mash the potato with the butter, and serve topped with the sausage and gravy."
     ],
     "steps": [
-      "Butter the torn bread generously and layer it with the currants in a small baking dish.",
-      "Whisk the milk, egg, and sugar together and pour over, letting it soak 12-15 minutes.",
-      "Bake at 350F (175C) for 22-28 minutes until set and golden on top."
+      "Cook the sausage, 10-12 minutes, turning, until cooked through, then set aside.",
+      "Cook the onion in the same pan, stirring occasionally, 15-18 minutes, until deeply softened.",
+      "Add the broth and simmer 5-6 minutes into a real onion gravy.",
+      "Mash the potato with the butter, and serve topped with the sausage and gravy."
     ],
+    "tags": []
+  },
+  {
+    "name": "English Trifle",
+    "cuisine": "english",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Trifle, layered sponge cake, custard, and fruit, is a real English dessert classic, real technique letting each layer set before adding the next so they stay distinct rather than blending together.",
     "ingredients_full": [
       {
-        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
-        "qty": 1.62,
-        "note": "slices, torn"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 20,
+        "ingredient": "All-purpose flour",
+        "qty": 40,
         "note": ""
       },
       {
@@ -1260,33 +340,8 @@
       },
       {
         "ingredient": "Granulated sugar",
-        "qty": 1.5,
+        "qty": 2,
         "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the torn bread generously and layer it with the currants in a small baking dish.",
-      "Whisk the milk, egg, and sugar together and pour over, letting it soak 12-15 minutes.",
-      "Bake at 350F (175C) for 22-28 minutes until set and golden on top.",
-      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
-    ],
-    "description": "Bread and butter pudding, stale bread baked in a custard, a classic English way to use up leftover bread."
-  },
-  {
-    "name": "English Rice Pudding",
-    "cuisine": "english",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
       },
       {
         "ingredient": "Whole milk (generic)",
@@ -1294,30 +349,26 @@
         "note": "cup"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Strawberries, raw",
+        "qty": 100,
+        "note": "sliced"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Heavy cream",
+        "qty": 2,
+        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Simmer the rice in the milk with the sugar and cinnamon for 25-30 minutes until thick and creamy.",
-      "Serve warm."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
+        "ingredient": "All-purpose flour",
+        "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
       },
       {
         "ingredient": "Granulated sugar",
@@ -1325,280 +376,281 @@
         "note": "tbsp"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.75,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Strawberries, raw",
+        "qty": 100,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Bake a simple sponge from the flour, egg, and half the sugar at 350F (175C) for 15-18 minutes, then cool and cube.",
+      "Whisk the milk with the remaining sugar and warm gently until slightly thickened into a simple custard.",
+      "Layer the cubed sponge, custard, and strawberries in a glass, letting each layer set a few minutes before adding the next.",
+      "Top with the cream before serving."
+    ],
+    "steps": [
+      "Bake a simple sponge from the flour, egg, and half the sugar at 350F (175C) for 15-18 minutes, then cool and cube.",
+      "Whisk the milk with the remaining sugar and warm gently until slightly thickened into a simple custard.",
+      "Layer the cubed sponge, custard, and strawberries in a glass, letting each layer set a few minutes before adding the next.",
+      "Top with the cream before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "English Mushy Peas",
+    "cuisine": "english",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Mushy peas, the real traditional side for fish and chips, real technique simmering until the peas break down into a genuinely soft, spoonable texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
       },
       {
         "ingredient": "Butter, salted",
-        "qty": 5,
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peas, green, frozen, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the sugar, cinnamon, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Serve warm, with a final dusting of cinnamon - a simple, gently spiced pudding found on English tables for generations."
+      "Simmer the peas with a splash of water 8-10 minutes until very soft.",
+      "Mash roughly with the butter, leaving some texture."
     ],
-    "description": "A simple, classic English rice pudding."
+    "steps": [
+      "Simmer the peas with a splash of water 8-10 minutes until very soft.",
+      "Mash roughly with the butter, leaving some texture."
+    ],
+    "tags": []
   },
   {
-    "name": "English Onion Gravy",
+    "name": "English Yorkshire Pudding",
     "cuisine": "english",
-    "meal_type": "sauce",
+    "meal_type": "dinner",
     "course": "side",
-    "tags": [
-      "vegetarian"
+    "description": "Yorkshire pudding, a real baked batter side, depends on genuinely hot oil in the pan before the batter goes in - real technique is what makes it puff up dramatically in the oven.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
     ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Yellow onion",
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk the flour, egg, and milk into a smooth, thin batter. Let rest 20 minutes.",
+      "Heat the oil in a muffin tin or small baking dish in a 425F (220C) oven until genuinely smoking hot, 5-6 minutes.",
+      "Carefully pour the batter into the hot oil and bake 20-22 minutes without opening the oven door, until dramatically puffed and golden."
+    ],
+    "steps": [
+      "Whisk the flour, egg, and milk into a smooth, thin batter. Let rest 20 minutes.",
+      "Heat the oil in a muffin tin or small baking dish in a 425F (220C) oven until genuinely smoking hot, 5-6 minutes.",
+      "Carefully pour the batter into the hot oil and bake 20-22 minutes without opening the oven door, until dramatically puffed and golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "English Roasted Chestnuts",
+    "cuisine": "english",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Roasted chestnuts are a beloved English winter street food, sold by vendors in city centers.",
+    "ingredients_full": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "standing in for chestnuts"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Peanuts, all types, dry-roasted, with salt",
+        "qty": 40,
+        "note": "standing in for chestnuts"
+      }
+    ],
+    "steps_detailed": [
+      "Serve as-is."
+    ],
+    "steps": [
+      "Serve as-is."
+    ],
+    "tags": []
+  },
+  {
+    "name": "English Beef and Vegetable Stew",
+    "cuisine": "english",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common English home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
         "qty": 60,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
         "note": ""
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 8,
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
-      }
-    ],
-    "steps": [
-      "Cook the onion slowly in the butter until deeply softened and golden, about 12-15 minutes.",
-      "Stir in the flour, then thin with a splash of water into a smooth gravy."
-    ],
-    "ingredients_full": [
+      },
       {
         "ingredient": "Yellow onion",
-        "qty": 70,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
+        "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
       }
     ],
-    "steps_detailed": [
-      "Cook the onion slowly in the butter over medium-low heat, stirring occasionally, 15-18 minutes, until deeply softened and golden brown.",
-      "Stir in the flour and pepper, cook 1 minute, then thin gradually with water, stirring, into a smooth, glossy gravy - the standard accompaniment to bangers and mash or a Sunday roast."
-    ],
-    "description": "A simple onion gravy, the classic pairing for bangers and mash."
-  },
-  {
-    "name": "English Bread Sauce",
-    "cuisine": "english",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 0.6,
-        "note": "torn, standing in for bread"
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Simmer the onion in the milk over low heat, 10-12 minutes, until very soft.",
-      "Stir in the torn bread, butter, and pepper, and simmer 5-6 more minutes, stirring, until it thickens into a soft, smooth, spoonable sauce - a traditional accompaniment to roast poultry, unusual to outsiders and much loved at home."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Classic White Bread, Classic",
-        "qty": 0.78,
-        "note": "slices, torn"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the onion in the milk over low heat, 10-12 minutes, until very soft.",
-      "Stir in the torn bread, butter, and pepper, and simmer 5-6 more minutes, stirring, until it thickens into a soft, smooth, spoonable sauce - a traditional accompaniment to roast poultry, unusual to outsiders and much loved at home.",
-      "Real sliced bread is used here now - a tortilla's texture and how it soaks up liquid are both quite different from actual bread, which matters a lot in a dish where the bread itself is doing real work (soaking, thickening, or being the sandwich structure), not just serving as a flat wrapper."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "description": "Bread sauce, a milk-infused sauce thickened with breadcrumbs, a traditional English accompaniment to roast poultry, especially at Christmas."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
   },
   {
     "name": "English Mint Sauce",
     "cuisine": "english",
     "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Spearmint, fresh",
-        "qty": 2,
-        "note": "tbsp, finely chopped"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp, standing in for the traditional vinegar"
-      }
-    ],
-    "steps": [
-      "Finely chop the mint and combine with the sugar and lime juice.",
-      "Let sit 10 minutes so the mint releases its flavor before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Spearmint, fresh",
-        "qty": 2.5,
-        "note": "tbsp, finely chopped"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp, standing in for the traditional vinegar"
-      }
-    ],
-    "steps_detailed": [
-      "Finely chop the mint and combine with the sugar and lime juice, mashing lightly to help release the mint's oils.",
-      "Let sit 15-20 minutes so the flavors meld before serving.",
-      "Mint sauce, sharp and simple, is the traditional accompaniment to roast lamb across England, cutting through the richness of the meat."
-    ],
-    "description": "Mint sauce, a sharp vinegar-mint condiment, the classic English pairing for roast lamb."
-  },
-  {
-    "name": "English Apple Crumble",
-    "cuisine": "english",
-    "meal_type": "dessert",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 150,
-        "note": "peeled and chopped"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": "for the topping"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "cold, for the topping"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the apple with half the sugar and spread in a small baking dish.",
-      "Rub the butter into the flour and remaining sugar until crumbly, and scatter over the apple.",
-      "Bake at 375F for 25-30 minutes until golden and the apple is tender."
-    ],
+    "description": "Mint sauce, a real vinegar-based mint condiment, is the traditional accompaniment to roast lamb across England.",
     "ingredients_full": [
       {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 170,
-        "note": "peeled and chopped"
+        "ingredient": "Spearmint, fresh",
+        "qty": 3,
+        "note": "tbsp, chopped"
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 45,
-        "note": "for the topping"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 24,
-        "note": "cold, for the topping"
-      },
-      {
-        "ingredient": "Granulated sugar",
+        "ingredient": "Vinegar, distilled",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.25,
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Spearmint, fresh",
+        "qty": 3,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Toss the apple with half the sugar and the cinnamon, and spread in a small baking dish.",
-      "Rub the cold butter into the flour and remaining sugar until it resembles coarse crumbs, and scatter evenly over the apple.",
-      "Bake at 375F (190C) for 28-32 minutes until the topping is deeply golden and the apple is tender when pierced.",
-      "Crumble is one of the simplest and most enduring English puddings - closer to a rustic home bake than a formal dessert, and just as often made with whatever fruit is in season."
+      "Mix everything together and let sit at least 15 minutes for the flavors to meld."
     ],
-    "description": "Apple crumble, stewed apple under a buttery oat topping, a classic English dessert."
+    "steps": [
+      "Mix everything together and let sit at least 15 minutes for the flavors to meld."
+    ],
+    "tags": []
   }
 ]
