@@ -1,341 +1,35 @@
 [
   {
-    "name": "Pork Schnitzel",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "main",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork tenderloin",
-        "qty": 200,
-        "note": "pounded thin"
-      },
-      {
-        "ingredient": "Panko breadcrumbs",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Bread the pork in flour, egg, and breadcrumbs.",
-      "Pan-fry 3-4 minutes per side. Serve with lemon."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork tenderloin",
-        "qty": 220,
-        "note": "pounded thin"
-      },
-      {
-        "ingredient": "Panko breadcrumbs",
-        "qty": 0.4,
-        "note": "cup"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "beaten"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0208,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Pound the pork very thin and even - this is essential for authentic schnitzel texture.",
-      "Dredge in flour, dip in beaten egg, then coat thoroughly in panko, pressing gently to help it adhere.",
-      "Heat oil in a large skillet over medium-high heat. Fry 3-4 minutes per side until deeply golden and crisp.",
-      "Drain briefly on a paper towel, then serve immediately with a generous squeeze of lemon and a scatter of parsley - schnitzel loses its signature crispness quickly, so it's best eaten right away."
-    ],
-    "description": "Schnitzel, a thin, breaded, fried cutlet, is one of Germany's most beloved dishes, closely related to the Austrian version."
-  },
-  {
-    "name": "Bratwurst and Sauerkraut",
+    "name": "German Sauerbraten",
     "cuisine": "german",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bratwurst",
-        "qty": 2,
-        "note": "links"
-      },
-      {
-        "ingredient": "Sauerkraut",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "boiled"
-      }
-    ],
-    "steps": [
-      "Pan-sear or grill bratwurst 8-10 minutes, turning occasionally.",
-      "Warm sauerkraut, serve alongside with boiled potato."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bratwurst",
-        "qty": 2,
-        "note": "links"
-      },
-      {
-        "ingredient": "Sauerkraut",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "boiled"
-      },
-      {
-        "ingredient": "Caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": "for serving"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "sliced, for the sauerkraut"
-      }
-    ],
-    "steps_detailed": [
-      "Pan-sear or grill the bratwurst over medium heat, 8-10 minutes, turning occasionally, until browned and cooked through.",
-      "Meanwhile, warm the sauerkraut with the onion and caraway seed in a small pan, 5-6 minutes.",
-      "Boil the potato until fork-tender.",
-      "Serve the bratwurst with the warmed sauerkraut, potato, and mustard on the side - a beer-hall classic."
-    ],
-    "description": "Bratwurst and sauerkraut, sausage and fermented cabbage, a classic German pairing."
-  },
-  {
-    "name": "Beef Rouladen-Style",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "pounded thin"
-      },
-      {
-        "ingredient": "Bacon",
-        "qty": 1.5,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Spread mustard on steak, top with bacon, roll and secure.",
-      "Sear 3-4 minutes per side, then simmer in a splash of broth 20 minutes."
-    ],
+    "description": "Sauerbraten, one of Germany's official national dishes, genuinely depends on a marinade of several days, sometimes up to a week or more, in vinegar, wine, and aromatics - real sources are explicit not to cut corners here, since the length of the marinade is what tenderizes the meat and builds the dish's real sour character; this version is honestly abbreviated for practicality, disclosed rather than pretending an overnight soak is traditional. Real technique dissolves crushed gingersnap cookies into the strained braising liquid, which both thickens the gravy and balances its sourness with real sweetness.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 220,
-        "note": "pounded thin"
+        "note": "cubed"
       },
       {
-        "ingredient": "Bacon",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 4.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Beef broth",
+        "ingredient": "Vinegar, distilled",
         "qty": 0.5,
         "note": "cup"
       },
       {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0208,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Spread the mustard over the pounded steak, then layer the bacon and diced onion on top.",
-      "Roll up tightly and secure with toothpicks or kitchen twine.",
-      "Heat a splash of oil in a pan over medium-high heat and sear the rolls on all sides, 4-5 minutes total.",
-      "Add the broth, cover, and simmer 20-25 minutes until tender.",
-      "Remove toothpicks, top with parsley, and serve with the pan juices spooned over."
-    ],
-    "description": "Rouladen, thin beef rolled around mustard, bacon, and onion, a German home-cooking staple especially for Sunday dinner."
-  },
-  {
-    "name": "German Potato Soup",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 200,
-        "note": "cubed"
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
-        "ingredient": "Bacon",
-        "qty": 1.5,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cups"
-      }
-    ],
-    "steps": [
-      "Cook bacon until crisp, 4-5 minutes.",
-      "Add potato and broth, simmer 20 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 220,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Bacon",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 2,
-        "note": "cups"
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": ""
       },
       {
         "ingredient": "Carrot",
         "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Celery",
-        "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0625,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Cook the bacon in a pot over medium heat until crisp, 5-6 minutes. Remove, leaving the fat behind.",
-      "Add the onion, carrot, and celery to the bacon fat, cooking 5-6 minutes until softened.",
-      "Add the broth and potato, bring to a simmer, and cook 20-25 minutes until the potato is very tender.",
-      "Mash some of the potato against the side of the pot to thicken the soup slightly.",
-      "Crumble the bacon back in and top with parsley before serving."
-    ],
-    "description": "A simple, hearty German potato soup."
-  },
-  {
-    "name": "Sauerbraten-Style Beef",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Raisins",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef, 5 minutes.",
-      "Add vinegar, raisins, and 1/2 cup water, simmer 25 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 220,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Raisins",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "diced"
+        "note": ""
       },
       {
         "ingredient": "Bay leaves",
@@ -343,730 +37,371 @@
         "note": ""
       },
       {
-        "ingredient": "Beef broth",
-        "qty": 0.5,
-        "note": "cup"
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       },
       {
-        "ingredient": "Brown sugar",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Heat a splash of oil in a pot over medium-high heat and brown the beef, 5-6 minutes.",
-      "Add the onion and carrot, cooking 5 minutes.",
-      "Add the vinegar, broth, bay leaf, raisins, and brown sugar - this sweet-and-sour combination is the signature of sauerbraten, traditionally built from a much longer marinating process that this speeds up.",
-      "Cover and simmer 25-30 minutes until the beef is tender.",
-      "Remove the bay leaf before serving."
-    ],
-    "description": "Sauerbraten, meaning 'sour roast,' is traditionally marinated for several days in vinegar or wine before braising - a much longer process than this shortcut version, which builds the same sweet-and-sour character more quickly."
-  },
-  {
-    "name": "Currywurst",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bratwurst",
-        "qty": 2,
-        "note": "links, sliced"
+        "ingredient": "Cookies, gingersnaps",
+        "qty": 3,
+        "note": "crushed"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Pan-sear sausage slices 5-6 minutes.",
-      "Simmer tomatoes and curry powder 8 minutes, spoon over sausage."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bratwurst",
-        "qty": 2,
-        "note": "links, sliced into rounds"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Curry powder",
-        "qty": 1.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Tomato paste",
+        "ingredient": "Granulated sugar",
         "qty": 1,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Brown sugar",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "diced"
       }
     ],
-    "steps_detailed": [
-      "Pan-sear the sliced sausage over medium-high heat, 5-6 minutes, until browned.",
-      "In a separate pan, cook the onion 4-5 minutes, then add the tomato paste and curry powder, cooking 1 minute.",
-      "Add the tomatoes and brown sugar, simmer 8-10 minutes until slightly thickened.",
-      "Spoon the curry sauce generously over the sausage - a Berlin street food icon, invented after World War II and now a beloved fast-food classic nationwide."
-    ],
-    "description": "Currywurst, sausage sliced and topped with curry-spiced ketchup, is a beloved German street food, especially in Berlin."
-  },
-  {
-    "name": "Pork and Cabbage Skillet",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Pork tenderloin",
-        "qty": 180,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Green cabbage",
-        "qty": 150,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Brown the pork, 5-6 minutes.",
-      "Add cabbage and onion, cook 10-12 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork tenderloin",
-        "qty": 200,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Green cabbage",
-        "qty": 170,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Apple cider vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Heat a splash of oil in a skillet over medium-high heat. Brown the pork, 5-6 minutes. Remove.",
-      "Add the onion, cooking 4-5 minutes, then the cabbage and caraway seed.",
-      "Add the broth, cover, and cook 10-12 minutes until the cabbage is tender.",
-      "Return the pork to the pan, stir in the vinegar, and warm through before serving."
-    ],
-    "description": "A simple pork and cabbage skillet."
-  },
-  {
-    "name": "Beef Goulash (German-Style)",
-    "cuisine": "german",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 70,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the beef, 5-6 minutes.",
-      "Add bell pepper and tomatoes, simmer 20 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 1.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 0.33,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Heat a splash of oil in a pot over medium-high heat and brown the beef, breaking it apart, 5-6 minutes.",
-      "Add the onion, garlic, and bell pepper, cooking 5-6 minutes.",
-      "Add the smoked paprika, cooking 30 seconds until fragrant, then the tomatoes and broth.",
-      "Simmer 20-25 minutes until thickened - the German version of goulash, adapted from Hungarian roots, leans on paprika and a heartier, stew-like consistency."
-    ],
-    "description": "Goulash, adopted from Hungary, has its own German regional variations, typically less paprika-forward than the Hungarian original."
-  },
-  {
-    "name": "German Potato Salad with Sausage",
-    "cuisine": "german",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 200,
-        "note": "boiled and sliced"
-      },
-      {
-        "ingredient": "Bratwurst",
-        "qty": 1,
-        "note": "link, cooked and sliced"
-      },
-      {
-        "ingredient": "Bacon",
-        "qty": 1,
-        "note": "slice, cooked and crumbled"
-      }
-    ],
-    "steps": [
-      "Toss warm potato with bacon and sausage."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
+        "ingredient": "Flank/sirloin steak",
         "qty": 220,
-        "note": "boiled and sliced while warm"
+        "note": "cubed"
       },
       {
-        "ingredient": "Bratwurst",
-        "qty": 1,
-        "note": "link, cooked and sliced"
+        "ingredient": "Vinegar, distilled",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
-        "ingredient": "Bacon",
-        "qty": 1.5,
-        "note": "slices, cooked and crumbled"
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 30,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Apple cider vinegar",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the vinegar and mustard together with a splash of the bacon fat for the dressing - German potato salad is traditionally served warm with a tangy, not creamy, dressing.",
-      "Toss the warm potato slices with the onion, bacon, and sausage.",
-      "Add the dressing while everything is still warm so the potato absorbs the flavor."
-    ],
-    "description": "German potato salad, dressed warm with vinegar and often bacon fat rather than mayonnaise, a genuinely different style from American potato salad."
-  },
-  {
-    "name": "Pretzel and Ham Sandwich",
-    "cuisine": "german",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices, substitute for pretzel roll"
-      },
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Spread mustard on bread, layer with ham."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices, or a pretzel roll if available"
-      },
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 4.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Swiss cheese",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "English cucumber",
-        "qty": 30,
-        "note": "sliced"
-      }
-    ],
-    "steps_detailed": [
-      "Spread mustard generously on the bread.",
-      "Layer the ham, cheese, and cucumber.",
-      "A pretzel roll gives this the most authentic German bakery feel, but any hearty bread works well."
-    ],
-    "description": "Pretzel bread, with its distinctive lye-dipped crust, paired here with ham."
-  },
-  {
-    "name": "Lentil Soup (Linsensuppe)",
-    "cuisine": "german",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Bacon",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "diced"
-      }
-    ],
-    "steps": [
-      "Cook bacon 3-4 minutes.",
-      "Add lentils, carrot, and 2 cups water, simmer 25 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Bacon",
-        "qty": 1.5,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 60,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Celery",
-        "qty": 40,
-        "note": "diced"
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 0.5,
+        "note": "cup"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 2,
-        "note": "cups"
-      },
-      {
-        "ingredient": "Apple cider vinegar",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Cook the bacon in a pot over medium heat until crisp, 4-5 minutes. Remove, leaving the fat.",
-      "Add the onion, carrot, and celery, cooking 5-6 minutes.",
-      "Add the lentils and broth. Simmer 25-30 minutes until the lentils are tender.",
-      "Crumble the bacon back in and finish with a splash of vinegar - a bright, tangy finish is traditional for German lentil soup."
-    ],
-    "description": "Linsensuppe, a hearty lentil soup, a German home-cooking staple."
-  },
-  {
-    "name": "Cold Cuts Plate (Wurstplatte-Style)",
-    "cuisine": "german",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "English cucumber",
-        "qty": 60,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Serve ham, bread, and cucumber together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 110,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "English cucumber",
-        "qty": 70,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Dijon mustard",
-        "qty": 3.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Swiss cheese",
-        "qty": 1,
-        "note": "slice"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the ham, cheese, bread, and cucumber on a plate.",
-      "Serve with mustard on the side - a simple, no-cook cold plate common for German lunches and light dinners."
-    ],
-    "description": "Wurstplatte, a plate of cold cuts and cheeses, a common German light meal."
-  },
-  {
-    "name": "Cucumber Salad with Chicken",
-    "cuisine": "german",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 150,
-        "note": "cooked, sliced"
-      },
-      {
-        "ingredient": "English cucumber",
-        "qty": 150,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Daisy sour cream",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss cucumber with sour cream.",
-      "Serve alongside the chicken."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "cooked, sliced"
-      },
-      {
-        "ingredient": "English cucumber",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Daisy sour cream",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh dill",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the sour cream, vinegar, and dill together.",
-      "Toss the cucumber slices with the dressing - German cucumber salad (Gurkensalat) is traditionally light and tangy, a common side across the country.",
-      "Serve alongside the sliced chicken."
-    ],
-    "description": "A simple cucumber salad, a common German side dish."
-  },
-  {
-    "name": "German Breakfast Plate",
-    "cuisine": "german",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 50,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Fry or scramble the eggs.",
-      "Serve with bread and ham."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Deli ham (sliced)",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Swiss cheese",
-        "qty": 1,
-        "note": "slice"
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 0.5,
+        "ingredient": "Bay leaves",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Spices, cloves, ground",
+        "qty": 0.0625,
+        "note": "pinch"
+      },
+      {
+        "ingredient": "Cookies, gingersnaps",
+        "qty": 3,
+        "note": "crushed"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Fry the eggs in butter to your preference.",
-      "Serve with buttered bread, ham, and cheese - a classic German breakfast spread, built around good bread and cold cuts rather than a cooked-heavy plate."
-    ],
-    "description": "A simple German breakfast of bread, cheese, and cold cuts."
-  },
-  {
-    "name": "Muesli Bowl",
-    "cuisine": "german",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Rolled oats (dry)",
-        "qty": 0.33,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Apple",
-        "qty": 0.5,
-        "note": "grated"
-      }
+      "Combine the vinegar, wine, onion, carrot, bay leaf, and cloves, and marinate the beef in this mixture at least 24 hours, ideally longer if time allows - real sauerbraten traditionally marinates for several days to a week.",
+      "Remove the beef, pat dry, and brown well, 8-9 minutes.",
+      "Strain the marinade, reserving the liquid, and add it back to the pot with the sugar.",
+      "Simmer 1.5-2 hours until the beef is completely tender.",
+      "Stir in the crushed gingersnaps and simmer 8-10 minutes more, until they dissolve and thicken the gravy into a real sweet-and-sour sauce."
     ],
     "steps": [
-      "Soak oats in milk 5 minutes.",
-      "Stir in grated apple."
+      "Combine the vinegar, wine, onion, carrot, bay leaf, and cloves, and marinate the beef in this mixture at least 24 hours, ideally longer if time allows - real sauerbraten traditionally marinates for several days to a week.",
+      "Remove the beef, pat dry, and brown well, 8-9 minutes.",
+      "Strain the marinade, reserving the liquid, and add it back to the pot with the sugar.",
+      "Simmer 1.5-2 hours until the beef is completely tender.",
+      "Stir in the crushed gingersnaps and simmer 8-10 minutes more, until they dissolve and thicken the gravy into a real sweet-and-sour sauce."
     ],
+    "tags": []
+  },
+  {
+    "name": "German Schnitzel (J\u00e4gerschnitzel)",
+    "cuisine": "german",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "J\u00e4gerschnitzel, 'hunter's schnitzel', is a real breaded cutlet topped with a genuine mushroom cream sauce, real technique frying the schnitzel first and keeping it warm while the sauce comes together separately, so the breading stays crisp.",
     "ingredients_full": [
       {
-        "ingredient": "Rolled oats (dry)",
-        "qty": 0.37,
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.85,
-        "note": "cup"
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
       },
       {
-        "ingredient": "Apple",
-        "qty": 0.5,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 45,
         "note": ""
       },
       {
-        "ingredient": "Almonds",
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Heavy cream",
         "qty": 0.25,
-        "note": "oz, chopped"
+        "note": "cup"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Beef broth",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Combine the oats and milk, and let soak 5-10 minutes to soften - unlike hot oatmeal, muesli is traditionally enjoyed uncooked and slightly toothsome.",
-      "Stir in the grated apple, honey, and almonds.",
-      "Muesli was originally developed by a Swiss doctor but has become a beloved German breakfast staple as well."
+      "Dredge the pounded chicken in the flour, then the egg, then the breadcrumbs.",
+      "Fry in the oil, 3-4 minutes per side, until deeply golden, then set aside, keeping it warm.",
+      "In the same pan, cook the onion 3-4 minutes, then add the broth and cream, and simmer 5-6 minutes until slightly thickened.",
+      "Spoon the sauce over the schnitzel just before serving, so the breading stays crisp."
     ],
-    "description": "Muesli, raw oats mixed with fruit and nuts, was invented in neighboring Switzerland but is a common German breakfast too."
+    "steps": [
+      "Dredge the pounded chicken in the flour, then the egg, then the breadcrumbs.",
+      "Fry in the oil, 3-4 minutes per side, until deeply golden, then set aside, keeping it warm.",
+      "In the same pan, cook the onion 3-4 minutes, then add the broth and cream, and simmer 5-6 minutes until slightly thickened.",
+      "Spoon the sauce over the schnitzel just before serving, so the breading stays crisp."
+    ],
+    "tags": []
   },
   {
-    "name": "Pretzel Bites",
+    "name": "German K\u00e4sesp\u00e4tzle",
+    "cuisine": "german",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "K\u00e4sesp\u00e4tzle, soft egg noodles baked with real melted cheese and caramelized onion, is a beloved Bavarian comfort dish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": "standing in for sp\u00e4tzle"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": "standing in for sp\u00e4tzle"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Cheese, gruyere",
+        "qty": 50,
+        "note": "shredded"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the pasta per package directions.",
+      "Cook the onion in the butter over medium-low heat, stirring occasionally, 15-18 minutes, until deeply caramelized.",
+      "Toss the cooked pasta with the cheese while still hot so it melts, then top with the caramelized onion."
+    ],
+    "steps": [
+      "Cook the pasta per package directions.",
+      "Cook the onion in the butter over medium-low heat, stirring occasionally, 15-18 minutes, until deeply caramelized.",
+      "Toss the cooked pasta with the cheese while still hot so it melts, then top with the caramelized onion."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Rotkohl (Red Cabbage)",
+    "cuisine": "german",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Rotkohl, sweet-and-sour braised red cabbage, is the real, traditional side for sauerbraten and roast meats, real technique braising low and slow until genuinely tender and glazed.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 200,
+        "note": "shredded, standing in for red cabbage"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 200,
+        "note": "shredded, standing in for red cabbage"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the cabbage in the butter, vinegar, and sugar, covered, over low heat, stirring occasionally, 30-35 minutes, until genuinely tender and glazed."
+    ],
+    "steps": [
+      "Cook the cabbage in the butter, vinegar, and sugar, covered, over low heat, stirring occasionally, 30-35 minutes, until genuinely tender and glazed."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Potato Dumplings (Kartoffelkl\u00f6\u00dfe)",
+    "cuisine": "german",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Kartoffelkl\u00f6\u00dfe, potato dumplings, are the real traditional accompaniment to sauerbraten, real technique using both raw grated and boiled mashed potato together for a genuine chewy-yet-tender texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "half grated raw, half boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "half grated raw, half boiled and mashed"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Squeeze the raw grated potato well to remove excess liquid.",
+      "Mix with the mashed potato, flour, and egg into a firm dough.",
+      "Shape into balls and simmer in salted water 15-18 minutes until they float and are cooked through."
+    ],
+    "steps": [
+      "Squeeze the raw grated potato well to remove excess liquid.",
+      "Mix with the mashed potato, flour, and egg into a firm dough.",
+      "Shape into balls and simmer in salted water 15-18 minutes until they float and are cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Pretzel (Brezel)",
     "cuisine": "german",
     "meal_type": "snack",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 2,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp, melted"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": "beaten, for egg wash"
-      }
-    ],
-    "steps": [
-      "Make a simple dough, shape into small knots, brush with egg wash.",
-      "Bake at 425F for 12-15 minutes until golden."
-    ],
+    "description": "Brezel, the real Bavarian soft pretzel, depends on a genuine baking soda or lye-water dip before baking, which is what gives it its distinctive deep mahogany crust and slightly chewy texture.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 85,
+        "qty": 60,
         "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp, melted"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": "beaten, for egg wash"
       },
       {
         "ingredient": "Baking powder",
@@ -1074,158 +409,71 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.125,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 425F.",
-      "Mix the flour, baking powder, melted butter, and milk into a soft dough.",
-      "Shape into small knots or twists.",
-      "Brush with egg wash for that classic golden pretzel shine.",
-      "Bake 12-15 minutes until deeply golden."
-    ],
-    "description": "Pretzels, with their distinctive lye-dipped, deep-brown crust, are one of Germany's most iconic baked goods."
-  },
-  {
-    "name": "Roasted Almonds (German Style)",
-    "cuisine": "german",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Almonds",
+        "ingredient": "Leavening agents, baking soda",
         "qty": 1,
-        "note": "oz"
+        "note": "tbsp, for the dip"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Toast almonds with sugar in a dry skillet 3-4 minutes until caramelized."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Almonds",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
+        "ingredient": "Salt, table",
         "qty": 0.25,
-        "note": "tsp"
+        "note": "tsp, for topping"
       }
     ],
-    "steps_detailed": [
-      "Toss the almonds with sugar and cinnamon.",
-      "Toast in a dry skillet over medium heat, 4-5 minutes, stirring constantly, until the sugar caramelizes and coats the nuts - reminiscent of the roasted almonds ('gebrannte Mandeln') sold at German Christmas markets.",
-      "Spread on parchment to cool completely before eating."
-    ],
-    "description": "Roasted, sugared almonds, a beloved treat at German Christmas markets."
-  },
-  {
-    "name": "Apple Slices with Cheese",
-    "cuisine": "german",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
     "ingredients": [
-      {
-        "ingredient": "Apple",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Swiss cheese",
-        "qty": 1,
-        "note": "slice, cut into pieces"
-      }
-    ],
-    "steps": [
-      "Serve apple and cheese together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Apple",
-        "qty": 1,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Swiss cheese",
-        "qty": 1.5,
-        "note": "slices, cut into pieces"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": "for drizzling"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the apple slices and cheese pieces together.",
-      "Drizzle lightly with honey - a simple, popular snack pairing found throughout Germany."
-    ],
-    "description": "A simple, common German snack pairing."
-  },
-  {
-    "name": "Apple Strudel Bites",
-    "cuisine": "german",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
-    "ingredients": [
-      {
-        "ingredient": "Apple",
-        "qty": 1,
-        "note": "diced"
-      },
       {
         "ingredient": "All-purpose flour",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Butter",
-        "qty": 1.5,
-        "note": "tbsp"
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 1,
+        "note": "tbsp, for the dip"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp, for topping"
       }
     ],
-    "steps": [
-      "Cook apple with a little sugar 5 minutes.",
-      "Make a simple dough, fill with apple, bake at 375F for 18-20 minutes."
+    "steps_detailed": [
+      "Mix the flour and baking powder with warm water into a firm dough. Rest 15 minutes.",
+      "Shape into a pretzel form.",
+      "Dip briefly in a solution of the baking soda dissolved in hot water - real technique depends on this real alkaline dip for the distinctive dark, chewy crust.",
+      "Sprinkle with salt and bake at 425F (220C) for 15-18 minutes until deeply browned."
     ],
+    "steps": [
+      "Mix the flour and baking powder with warm water into a firm dough. Rest 15 minutes.",
+      "Shape into a pretzel form.",
+      "Dip briefly in a solution of the baking soda dissolved in hot water - real technique depends on this real alkaline dip for the distinctive dark, chewy crust.",
+      "Sprinkle with salt and bake at 425F (220C) for 15-18 minutes until deeply browned."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Apple Strudel (Apfelstrudel)",
+    "cuisine": "german",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Apfelstrudel, apples wrapped in real paper-thin pastry, real technique tossing the apples with breadcrumbs first to absorb their juices so the pastry stays crisp.",
     "ingredients_full": [
       {
-        "ingredient": "Apple",
-        "qty": 1,
-        "note": "diced"
+        "ingredient": "Phyllo dough",
+        "qty": 4,
+        "note": "sheets"
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 200,
+        "note": "peeled and thinly sliced"
       },
       {
-        "ingredient": "Butter",
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
         "qty": 2,
         "note": "tbsp"
       },
@@ -1241,75 +489,260 @@
       },
       {
         "ingredient": "Raisins",
-        "qty": 1,
+        "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
       }
     ],
-    "steps_detailed": [
-      "Cook the diced apple with half the sugar and the cinnamon in a small pan, 5-6 minutes, until just softened. Stir in the raisins.",
-      "Mix the flour with the melted butter and a splash of water into a simple dough.",
-      "Roll out thin, spoon the apple filling along one edge, and roll up.",
-      "Cut into bite-sized pieces, sprinkle with remaining sugar, and bake at 375F for 18-20 minutes until golden."
-    ],
-    "description": "Strudel, thin pastry rolled around a spiced apple filling, though most closely associated with Austria, is beloved across southern Germany too."
-  },
-  {
-    "name": "Black Forest Bites",
-    "cuisine": "german",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
     "ingredients": [
       {
-        "ingredient": "Cocoa powder",
+        "ingredient": "Phyllo dough",
+        "qty": 4,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",
+        "qty": 200,
+        "note": "peeled and thinly sliced"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sweetened condensed milk",
-        "qty": 4.0,
-        "note": ""
+        "ingredient": "Granulated sugar",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Frozen mixed berries",
+        "ingredient": "Ground cinnamon",
         "qty": 0.5,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Whisk cocoa into condensed milk.",
-      "Top with thawed berries."
-    ],
-    "ingredients_full": [
+        "note": "tsp"
+      },
       {
-        "ingredient": "Cocoa powder",
-        "qty": 2.5,
+        "ingredient": "Raisins",
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Sweetened condensed milk",
-        "qty": 4.8,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherries, sour, canned, water pack, drained",
-        "qty": 0.6,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Heavy cream",
-        "qty": 2,
-        "note": "tbsp, whipped"
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
       }
     ],
     "steps_detailed": [
-      "Whisk the cocoa powder into the condensed milk until smooth and glossy.",
-      "Spoon into small cups.",
-      "Top with the sour cherries and a dollop of whipped cream."
+      "Toss the apples with the breadcrumbs, sugar, cinnamon, and raisins.",
+      "Layer the phyllo sheets, brushing each with melted butter.",
+      "Spread the apple mixture along one edge and roll up tightly.",
+      "Bake at 375F (190C) for 30-35 minutes until deeply golden."
     ],
-    "description": "Real Black Forest cake (Schwarzw\u00e4lder Kirschtorte) is built specifically on sour cherries and kirsch, a cherry brandy - sour cherries carry a real tartness that sweet cherries or mixed berries don't; kirsch isn't available here, so this stays honestly non-alcoholic."
+    "steps": [
+      "Toss the apples with the breadcrumbs, sugar, cinnamon, and raisins.",
+      "Layer the phyllo sheets, brushing each with melted butter.",
+      "Spread the apple mixture along one edge and roll up tightly.",
+      "Bake at 375F (190C) for 30-35 minutes until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Cucumber Salad (Gurkensalat)",
+    "cuisine": "german",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Gurkensalat, thinly sliced cucumber in a real vinegar-dill dressing, real technique salting the cucumber first to draw out excess water.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar and oil together, and toss with the cucumber and dill."
+    ],
+    "steps": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar and oil together, and toss with the cucumber and dill."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Roasted Almonds",
+    "cuisine": "german",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Germany.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Beef and Vegetable Stew",
+    "cuisine": "german",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common German home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "German Mustard Sauce",
+    "cuisine": "german",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple mustard sauce, a common German condiment for sausages and pretzels.",
+    "ingredients_full": [
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Mustard, prepared, yellow",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix everything together."
+    ],
+    "steps": [
+      "Mix everything together."
+    ],
+    "tags": []
   }
 ]

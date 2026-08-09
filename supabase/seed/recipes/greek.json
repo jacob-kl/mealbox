@@ -1,541 +1,39 @@
 [
   {
-    "name": "Greek Yogurt with Honey and Walnuts",
-    "cuisine": "greek",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 15,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Spoon the yogurt into a bowl and top with the honey and walnuts."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 20,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Spoon the yogurt into a bowl, drizzle generously with the honey, and top with the walnuts and a dusting of cinnamon.",
-      "Thick yogurt with honey and nuts is one of the oldest and simplest Greek breakfasts, largely unchanged in centuries."
-    ],
-    "description": "A simple, classic Greek breakfast pairing."
-  },
-  {
-    "name": "Greek Eggs with Feta and Oregano",
-    "cuisine": "greek",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 30,
-        "note": "crumbled"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Scramble the eggs gently in the oil.",
-      "Fold in the feta and oregano just before they finish setting."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 35,
-        "note": "crumbled"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Scramble the eggs gently in the oil over low heat, stirring often for soft curds.",
-      "Fold in the feta, oregano, and pepper just before they finish setting, letting the cheese soften into the eggs."
-    ],
-    "description": "A simple egg breakfast, feta and oregano being defining Greek flavors."
-  },
-  {
-    "name": "Greek Cucumber and Feta Wrap",
-    "cuisine": "greek",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1,
-        "note": "standing in for pita"
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 30,
-        "note": "crumbled"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Fill the wrap with the cucumber and feta.",
-      "Finish with a squeeze of lemon juice and fold."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Whole wheat tortilla (large)",
-        "qty": 1.25,
-        "note": "standing in for pita"
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 35,
-        "note": "crumbled"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Fill the wrap with the cucumber, feta, and oregano.",
-      "Finish with a squeeze of lemon juice and fold - bright and simple, the kind of quick breakfast eaten on the way out the door across Greece."
-    ],
-    "description": "A simple wrap built on classic Greek flavors."
-  },
-  {
-    "name": "Greek Salad",
-    "cuisine": "greek",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 90,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 55,
-        "note": "crumbled"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss everything together with the oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 100,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 70,
-        "note": "left in a single slab, not crumbled"
-      },
-      {
-        "ingredient": "Olives, ripe, canned (small-extra large)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cucumber, tomatoes, and olives with the oil and oregano.",
-      "Top with a whole slab of feta rather than crumbling it in."
-    ],
-    "description": "Horiatiki, a real Greek village salad, is built on kalamata-style olives specifically for their brininess, and serves the feta as one whole, intact slab on top rather than crumbled - the eater breaks it apart themselves."
-  },
-  {
-    "name": "Greek Tzatziki Chicken",
-    "cuisine": "greek",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 40,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Pan-fry the chicken until cooked through, about 10-12 minutes.",
-      "Mix the yogurt, grated cucumber, and lemon juice, and serve alongside."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 45,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the chicken with the oregano and pan-fry over medium heat, 11-13 minutes, until cooked through.",
-      "Mix the yogurt, grated cucumber, lemon juice, and garlic into a quick tzatziki, and serve alongside."
-    ],
-    "description": "Chicken paired with tzatziki, a classic cooling Greek yogurt-cucumber sauce."
-  },
-  {
-    "name": "Greek Lentil Soup (Fakes)",
-    "cuisine": "greek",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Lentils, raw",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Soften the onion in the oil.",
-      "Add the lentils, tomatoes, and 2 cups water, and simmer 30-35 minutes until the lentils are tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, raw",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion and garlic in the oil, 5-6 minutes.",
-      "Add the lentils, tomatoes, oregano, and 2.25 cups water, and simmer 32-38 minutes until the lentils are fully tender.",
-      "Fakes, a humble lentil soup, is one of the most common everyday lunches in Greece, especially during Lent."
-    ],
-    "description": "Fakes, a simple lentil soup, a Greek home-cooking staple."
-  },
-  {
-    "name": "Greek Lemon Chicken and Rice",
-    "cuisine": "greek",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Brown the chicken with the onion.",
-      "Add the rice, lemon juice, and 1.5 cups water, cover, and simmer 20-22 minutes until the rice is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the chicken with the onion and garlic over medium-high heat, 8-10 minutes.",
-      "Add the rice, lemon juice, and 1.75 cups water, cover, and simmer 22-25 minutes until the rice is tender and has absorbed the lemony broth."
-    ],
-    "description": "A simple lemon-forward chicken and rice dish, lemon and oregano being central Greek flavors."
-  },
-  {
     "name": "Greek Moussaka",
     "cuisine": "greek",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggplant, raw",
-        "qty": 140,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 30,
-        "note": "crumbled"
-      }
-    ],
-    "steps": [
-      "Fry the eggplant.",
-      "Brown the lamb with the tomatoes.",
-      "Layer eggplant, then lamb, top with feta, and bake at 375F for 25-30 minutes."
-    ],
+    "description": "Moussaka, Greece's iconic layered eggplant and meat casserole, depends on real technique at every stage - the meat sauce is genuinely spiced with cinnamon, nutmeg, and oregano together, real egg yolks are whisked into the b\u00e9chamel for structure and richness, and a spoonful of that b\u00e9chamel is stirred back into the meat sauce first, which is what binds the layers together rather than leaving them as separate strata.",
     "ingredients_full": [
       {
-        "ingredient": "Ground lamb",
-        "qty": 200,
-        "note": ""
-      },
-      {
         "ingredient": "Eggplant, raw",
-        "qty": 160,
+        "qty": 200,
         "note": "sliced"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "ingredient": "Ground lamb",
+        "qty": 180,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.25,
+        "note": ""
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
         "note": "tsp"
       },
       {
@@ -545,215 +43,115 @@
       },
       {
         "ingredient": "All-purpose flour",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
         "qty": 15,
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
         "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 30,
-        "note": "crumbled, standing in for kefalotyri or kasseri"
+        "qty": 1,
+        "note": "yolk only"
       }
     ],
-    "steps_detailed": [
-      "Salt the eggplant slices and let them sit 15 minutes to draw out bitterness, then pat dry and pan-fry in a little oil until golden on both sides; set aside.",
-      "Brown the lamb with the onion and cinnamon, 8-10 minutes, then add the tomatoes and simmer 10 minutes into a thick ragu.",
-      "Make a bechamel: melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk and simmer, stirring, until thick; off the heat, whisk in the egg and half the feta.",
-      "Layer the fried eggplant on the bottom of a small baking dish, the meat ragu over it, and the bechamel poured over the top, finishing with the remaining feta.",
-      "Bake at 375F (190C) for 30-35 minutes until the top is set and deeply golden."
-    ],
-    "description": "Moussaka's identity rests on two things: eggplant as the base vegetable, layered with a spiced meat ragu, and a proper egg-enriched bechamel poured over the top rather than a sprinkle of cheese."
-  },
-  {
-    "name": "Greek Souvlaki-Style Lamb",
-    "cuisine": "greek",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 200,
+        "note": "sliced"
+      },
       {
         "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": "formed into skewer-style portions"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Mix the lamb with the lemon juice, oregano, and onion, and shape into small portions.",
-      "Grill or pan-fry, 8-10 minutes, until cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 210,
-        "note": "formed into skewer-style portions"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the lamb with the lemon juice, oregano, onion, and garlic, and shape into small, even portions.",
-      "Grill or pan-fry over medium-high heat, 9-11 minutes, turning, until well browned and cooked through - souvlaki, grilled skewered meat, is Greece's most famous street food."
-    ],
-    "description": "Souvlaki, grilled skewered meat, one of Greece's most iconic street foods."
-  },
-  {
-    "name": "Greek Baked Fish with Lemon and Oregano",
-    "cuisine": "greek",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 200,
+        "qty": 180,
         "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Season the fish with the lemon juice, oregano, and oil.",
-      "Bake at 400F for 15-18 minutes until just cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Season the fish with the lemon juice, oregano, garlic, and oil.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily - lemon and oregano define Greek fish cookery more than almost any other flavor pairing."
-    ],
-    "description": "A simple baked fish, lemon and oregano being defining Greek flavors."
-  },
-  {
-    "name": "Greek Beef and Onion Stew (Stifado)",
-    "cuisine": "greek",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 90,
-        "note": "whole small onions or chunked"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "qty": 100,
         "note": ""
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.25,
+        "qty": 0.5,
         "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the tomatoes, cinnamon, and a splash of water, cover, and simmer 40-45 minutes until very tender."
-    ],
-    "ingredients_full": [
+      },
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 220,
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.25,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 100,
-        "note": "whole small onions or chunked"
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "yolk only"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the eggplant slices and let sit 30 minutes, then pat dry and roast at 425F (220C) for 15-18 minutes.",
+      "Brown the lamb, add the tomatoes, cinnamon, nutmeg, and oregano, and simmer 15-18 minutes.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a b\u00e9chamel.",
+      "Off the heat, whisk the egg yolk into the b\u00e9chamel for real richness and structure.",
+      "Stir a spoonful of the b\u00e9chamel into the meat sauce - this real step is what binds the layers together.",
+      "Layer the roasted eggplant and meat sauce in a baking dish, top with the remaining b\u00e9chamel, and bake at 375F (190C) for 30-35 minutes until deeply golden."
+    ],
+    "steps": [
+      "Salt the eggplant slices and let sit 30 minutes, then pat dry and roast at 425F (220C) for 15-18 minutes.",
+      "Brown the lamb, add the tomatoes, cinnamon, nutmeg, and oregano, and simmer 15-18 minutes.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a b\u00e9chamel.",
+      "Off the heat, whisk the egg yolk into the b\u00e9chamel for real richness and structure.",
+      "Stir a spoonful of the b\u00e9chamel into the meat sauce - this real step is what binds the layers together.",
+      "Layer the roasted eggplant and meat sauce in a baking dish, top with the remaining b\u00e9chamel, and bake at 375F (190C) for 30-35 minutes until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Greek Pastitsio",
+    "cuisine": "greek",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Pastitsio, often called Greek lasagna, is genuinely built the same way as moussaka - real meat sauce and b\u00e9chamel layers - but with tube pasta in place of eggplant, real technique deglazing the meat with red wine and letting it fully reduce before the tomatoes go in.",
+    "ingredients_full": [
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": "standing in for tube pasta"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 2,
+        "note": "tbsp"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
+        "qty": 100,
         "note": ""
       },
       {
@@ -762,502 +160,568 @@
         "note": "tsp"
       },
       {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "yolk only"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": "standing in for tube pasta"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 180,
+        "note": ""
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.375,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "yolk only"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the pasta per package directions.",
+      "Brown the beef, add the wine, and let it fully reduce and evaporate, 2-3 minutes.",
+      "Add the tomatoes and cinnamon, and simmer 15-18 minutes.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a b\u00e9chamel, and whisk in the egg yolk off the heat.",
+      "Layer the pasta and meat sauce in a baking dish, top with the b\u00e9chamel, and bake at 375F (190C) for 25-30 minutes until deeply golden."
+    ],
+    "steps": [
+      "Cook the pasta per package directions.",
+      "Brown the beef, add the wine, and let it fully reduce and evaporate, 2-3 minutes.",
+      "Add the tomatoes and cinnamon, and simmer 15-18 minutes.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a b\u00e9chamel, and whisk in the egg yolk off the heat.",
+      "Layer the pasta and meat sauce in a baking dish, top with the b\u00e9chamel, and bake at 375F (190C) for 25-30 minutes until deeply golden."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Greek Tzatziki",
+    "cuisine": "greek",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Tzatziki, a cold yogurt and cucumber dip, real technique salting the cucumber first to draw out excess water so the dip stays thick rather than watery.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 1,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the grated cucumber and let sit 10 minutes, then squeeze out excess water.",
+      "Whisk the yogurt with the garlic and olive oil, then stir in the cucumber.",
+      "Chill at least 20 minutes before serving."
+    ],
+    "steps": [
+      "Salt the grated cucumber and let sit 10 minutes, then squeeze out excess water.",
+      "Whisk the yogurt with the garlic and olive oil, then stir in the cucumber.",
+      "Chill at least 20 minutes before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Greek Spanakopita",
+    "cuisine": "greek",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Spanakopita, a real spinach and feta pie in phyllo, real technique cooking the spinach until any released liquid fully evaporates so the pastry stays crisp.",
+    "ingredients_full": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 4,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 60,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Phyllo dough",
+        "qty": 4,
+        "note": "sheets"
+      },
+      {
+        "ingredient": "Baby spinach",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 60,
+        "note": "crumbled"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in the olive oil, 3-4 minutes.",
+      "Add the spinach and cook, stirring, until wilted and any released liquid has fully evaporated, 5-7 minutes.",
+      "Let cool slightly, then mix in the feta and beaten egg.",
+      "Layer the phyllo, brushing each sheet with oil, spread the filling, and roll or fold into a pie.",
+      "Bake at 375F (190C) for 25-28 minutes until deeply golden and crisp."
+    ],
+    "steps": [
+      "Cook the onion in the olive oil, 3-4 minutes.",
+      "Add the spinach and cook, stirring, until wilted and any released liquid has fully evaporated, 5-7 minutes.",
+      "Let cool slightly, then mix in the feta and beaten egg.",
+      "Layer the phyllo, brushing each sheet with oil, spread the filling, and roll or fold into a pie.",
+      "Bake at 375F (190C) for 25-28 minutes until deeply golden and crisp."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Greek Souvlaki",
+    "cuisine": "greek",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Souvlaki, skewered grilled meat, real technique marinating overnight so the lemon and oregano genuinely penetrate the meat.",
+    "ingredients_full": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
         "ingredient": "Garlic clove",
         "qty": 1,
         "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion and garlic over medium-high heat, 9-11 minutes.",
-      "Add the tomatoes, cinnamon, and three-quarters cup water, cover, and simmer 42-48 minutes until very tender.",
-      "Stifado leans on a whole head of small onions and a quiet warmth of cinnamon and clove, a distinctly Greek combination for a beef stew."
+      "Marinate the chicken in the lemon juice, olive oil, oregano, and garlic for at least 2 hours, ideally overnight.",
+      "Thread onto skewers.",
+      "Grill over medium-high heat, turning, 10-12 minutes, until charred and cooked through."
     ],
-    "description": "Stifado, a slow-cooked stew with a heavy hand of onions or shallots, a classic Greek dish."
+    "steps": [
+      "Marinate the chicken in the lemon juice, olive oil, oregano, and garlic for at least 2 hours, ideally overnight.",
+      "Thread onto skewers.",
+      "Grill over medium-high heat, turning, 10-12 minutes, until charred and cooked through."
+    ],
+    "tags": []
   },
   {
-    "name": "Greek Tzatziki",
+    "name": "Greek Horiatiki (Village Salad)",
     "cuisine": "greek",
-    "meal_type": "snack",
+    "meal_type": "lunch",
     "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "Horiatiki, Greece's real village salad, is genuinely built on ripe tomatoes and real feta served as a slab, not crumbled, real technique using a light hand with the dressing.",
+    "ingredients_full": [
       {
-        "ingredient": "Yogurt, plain, whole milk",
+        "ingredient": "Diced tomatoes (canned)",
         "qty": 120,
         "note": ""
       },
       {
         "ingredient": "Cucumber, peeled, raw",
-        "qty": 50,
-        "note": "grated"
+        "qty": 100,
+        "note": "diced"
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "sliced"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Mix the yogurt, grated cucumber, lemon juice, and garlic together.",
-      "Let sit 10 minutes so the flavors meld."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 140,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the yogurt, grated cucumber, lemon juice, garlic, and oil together thoroughly.",
-      "Let sit 15-20 minutes so the flavors meld - tzatziki appears alongside nearly every grilled dish in Greece."
-    ],
-    "description": "Tzatziki, a cooling yogurt-cucumber-garlic sauce, one of Greece's most iconic condiments."
-  },
-  {
-    "name": "Greek Feta and Tomato Snack",
-    "cuisine": "greek",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Arrange the feta and tomatoes together.",
-      "Drizzle with the oil and scatter with the oregano."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the feta and tomatoes together, drizzle with the oil, and scatter with the oregano and pepper."
-    ],
-    "description": "A simple feta and tomato snack, classic Greek flavors."
-  },
-  {
-    "name": "Greek Lemon Hummus",
-    "cuisine": "greek",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
-        "qty": 22.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Blend the chickpeas, tahini, lemon juice, and garlic with a splash of water until smooth."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+        "ingredient": "Kalamata olives",
         "qty": 30,
         "note": ""
       },
       {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Blend the chickpeas, tahini, lemon juice, garlic, and oil with a splash of water until very smooth.",
-      "Lemon rather than lime is what gives this its distinctly Greek character."
-    ],
-    "description": "Hummus is more a wider Eastern Mediterranean dish than specifically Greek, but lemon brightens it in a distinctly Greek direction."
-  },
-  {
-    "name": "Greek Walnut and Feta Snack",
-    "cuisine": "greek",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Cheese, feta",
-        "qty": 30,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Drizzle the walnuts and feta with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Drizzle the walnuts and feta with the honey and a light dusting of cinnamon - an unusual but genuinely Greek sweet-savory pairing, walnuts and honey turning up throughout the country's simplest desserts."
-    ],
-    "description": "A simple walnut and feta snack."
-  },
-  {
-    "name": "Greek Yogurt and Honey Parfait",
-    "cuisine": "greek",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 20,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Layer the yogurt with the honey and walnuts."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the yogurt with the honey, walnuts, and a dusting of cinnamon."
-    ],
-    "description": "A simple, classic Greek yogurt and honey pairing."
-  },
-  {
-    "name": "Greek Rice Pudding with Cinnamon",
-    "cuisine": "greek",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
         "qty": 40,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
         "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
       },
       {
-        "ingredient": "Honey",
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Kalamata olives",
+        "qty": 30,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.25,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the tomatoes, cucumber, onion, and olives with the olive oil and oregano.",
+      "Top with a slab of feta rather than crumbling it in."
+    ],
+    "steps": [
+      "Toss the tomatoes, cucumber, onion, and olives with the olive oil and oregano.",
+      "Top with a slab of feta rather than crumbling it in."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Greek Grilled Fish",
+    "cuisine": "greek",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Greece's Mediterranean and Aegean coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 10,
-        "note": "chopped, to top"
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon and honey over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Top with the chopped walnuts before serving."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
-    "description": "A simple rice pudding, cinnamon being a common Greek dessert spice."
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
   },
   {
-    "name": "Greek Walnut Honey Cake",
+    "name": "Greek Roasted Almonds",
     "cuisine": "greek",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Greece.",
+    "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
+        "ingredient": "Almonds",
+        "qty": 40,
         "note": ""
       }
     ],
-    "steps": [
-      "Beat the egg with the honey, mix in the flour and walnuts.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
     ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Greek Beef and Vegetable Stew",
+    "cuisine": "greek",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Greek home cooking outside the specific named dishes.",
     "ingredients_full": [
       {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
         "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 30,
-        "note": "chopped"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Beat the egg with the honey and cinnamon until well combined, then mix in the flour and walnuts.",
-      "Pour into a small lined pan and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean - walnut and honey cakes soaked in syrup are a fixture of Greek celebration tables."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "description": "Walnut and honey cake, in the spirit of Greek desserts like baklava that lean on the same flavor pairing."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
   },
   {
     "name": "Greek Lemon Oregano Sauce",
     "cuisine": "greek",
     "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "A simple lemon-oregano sauce, echoing the marinade used across many Greek grilled dishes.",
+    "ingredients_full": [
       {
         "ingredient": "Lemon juice, raw",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Olive oil",
         "qty": 2,
         "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
         "ingredient": "Garlic clove",
@@ -1265,97 +729,34 @@
         "note": "minced"
       }
     ],
-    "steps": [
-      "Whisk the lemon juice, oregano, oil, and garlic together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 2.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Spices, oregano, dried",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the lemon juice, oregano, oil, garlic, and pepper together into a bright, sharp dressing.",
-      "This lemon-oregano combination is the base of most Greek marinades and dressings alike."
-    ],
-    "description": "A simple lemon-oregano sauce, the base flavor of much Greek grilled and roasted cooking."
-  },
-  {
-    "name": "Greek Yogurt Garlic Sauce",
-    "cuisine": "greek",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
         "ingredient": "Lemon juice, raw",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Whisk the yogurt, garlic, and lemon juice together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 115,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Lemon juice, raw",
-        "qty": 1.25,
+        "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
+        "ingredient": "Olive oil",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Dried oregano",
+        "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Whisk the yogurt, garlic, lemon juice, and oil together into a smooth, thin sauce - a simpler, quicker cousin of full tzatziki, without the cucumber."
+      "Whisk everything together."
     ],
-    "description": "A simple yogurt-garlic sauce, in the spirit of tzatziki."
+    "steps": [
+      "Whisk everything together."
+    ],
+    "tags": []
   }
 ]
