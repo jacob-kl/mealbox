@@ -4,1334 +4,423 @@
     "cuisine": "northern-irish",
     "meal_type": "breakfast",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, cured, bacon, unprepared",
-        "qty": 30,
-        "note": ""
-      },
+    "description": "The Ulster fry is genuinely defined by what separates it from a full Irish or full English breakfast - real soda farl and potato farl, both griddle-cooked rather than oven-baked, are what make it specifically Northern Irish, not just eggs, bacon, and sausage together.",
+    "ingredients_full": [
       {
         "ingredient": "Eggs (large)",
         "qty": 2,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Boerewors",
+        "qty": 100,
+        "note": "standing in for Ulster sausage"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 80,
-        "note": "boiled and sliced, standing in for potato farl"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Fry the bacon until crisp, then set aside.",
-      "Fry the eggs in half the butter.",
-      "Warm the tomatoes in a small pan.",
-      "Fry the sliced potato in the remaining butter until golden, and plate everything together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, cured, bacon, unprepared",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 40,
         "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 60,
         "note": ""
-      },
+      }
+    ],
+    "ingredients": [
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 90,
-        "note": "boiled and sliced, standing in for potato farl"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
+        "ingredient": "Eggs (large)",
+        "qty": 2,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Boerewors",
+        "qty": 100,
+        "note": "standing in for Ulster sausage"
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Fry the bacon over medium heat until crisp, 3-4 minutes per side, then set aside.",
-      "Fry the eggs in half the butter, seasoning with black pepper.",
-      "Warm the tomatoes through in a small pan, 4-5 minutes.",
-      "Fry the sliced, pre-boiled potato in the remaining butter until golden and crisp on both sides, standing in for a proper potato farl."
+      "Fry the sausage, 8-9 minutes, turning, until cooked through.",
+      "Warm the bacon and tomatoes in the same pan.",
+      "Fry the eggs to your liking.",
+      "Serve everything together on one plate, alongside soda farl and potato farl - real Ulster fry is defined by including both."
     ],
-    "description": "A full Ulster fry traditionally centers on soda bread and potato farls rather than the toast an English breakfast leans on, with bacon just as central to both."
+    "steps": [
+      "Fry the sausage, 8-9 minutes, turning, until cooked through.",
+      "Warm the bacon and tomatoes in the same pan.",
+      "Fry the eggs to your liking.",
+      "Serve everything together on one plate, alongside soda farl and potato farl - real Ulster fry is defined by including both."
+    ],
+    "tags": []
   },
   {
-    "name": "Northern Irish Soda Bread",
+    "name": "Northern Irish Soda Farl",
     "cuisine": "northern-irish",
     "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "Soda farl, a quick griddle bread, genuinely gets its name from the Scottish word 'fardel', meaning a fourth part - real technique rolls the dough into a round and cuts it into quarters before cooking, and critically, it's cooked on a dry griddle or skillet, never baked in the oven like standard soda bread.",
+    "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 70,
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Baking powder",
-        "qty": 1,
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
         "ingredient": "Whole milk (generic)",
         "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
+        "note": "cup, standing in for buttermilk"
       }
     ],
-    "steps": [
-      "Mix the flour, baking powder, and a pinch of salt with the milk into a soft dough.",
-      "Shape into a round, cut a cross on top, and bake at 400F for 20-25 minutes until golden."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 80,
+        "qty": 55,
         "note": ""
       },
       {
-        "ingredient": "Baking powder",
-        "qty": 1.25,
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.75,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.25,
         "note": "tsp"
       },
       {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.4,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 0.5,
-        "note": "tsp"
+        "qty": 0.33,
+        "note": "cup, standing in for buttermilk"
       }
     ],
     "steps_detailed": [
-      "Mix the flour, baking powder, a pinch of salt, the melted butter, and the milk (soured briefly with the lime juice, standing in for buttermilk) into a soft, shaggy dough.",
-      "Shape into a round on a floured surface, cut a deep cross on top to help it cook through, and bake at 400F (200C) for 22-28 minutes until golden and it sounds hollow when tapped.",
-      "Soda bread rises from baking soda reacting with soured milk rather than yeast, which is why it comes together so quickly."
+      "Mix the flour, baking soda, and salt, then stir in the milk until just combined into a soft dough - real technique avoids overworking it.",
+      "Pat into a round about half an inch thick and cut into quarters.",
+      "Cook on a dry, hot skillet or griddle, 6-8 minutes per side, until golden and cooked through - real soda farl is never baked in the oven."
     ],
-    "description": "Soda bread, leavened with baking soda rather than yeast, a genuine Irish and Northern Irish staple."
+    "steps": [
+      "Mix the flour, baking soda, and salt, then stir in the milk until just combined into a soft dough - real technique avoids overworking it.",
+      "Pat into a round about half an inch thick and cut into quarters.",
+      "Cook on a dry, hot skillet or griddle, 6-8 minutes per side, until golden and cooked through - real soda farl is never baked in the oven."
+    ],
+    "tags": []
   },
   {
-    "name": "Northern Irish Porridge with Honey",
+    "name": "Northern Irish Potato Farl",
     "cuisine": "northern-irish",
     "meal_type": "breakfast",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
+    "description": "Potato farl, traditionally made from leftover mashed potato, is the other real defining bread of the Ulster fry - real technique mixes cold mashed potato with flour and butter into a workable dough, cut into quarters and griddle-cooked until golden.",
     "ingredients_full": [
       {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and mashed, cooled"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 30,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and mashed, cooled"
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
+        "ingredient": "All-purpose flour",
+        "qty": 30,
+        "note": ""
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted"
       }
     ],
     "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey before serving."
+      "Mix the cold mashed potato with the flour and melted butter into a soft, workable dough.",
+      "Roll to about half an inch thick and cut into quarters.",
+      "Cook on a hot, lightly oiled griddle, 4-5 minutes per side, until golden brown outside and soft within."
     ],
-    "description": "A simple porridge with honey."
+    "steps": [
+      "Mix the cold mashed potato with the flour and melted butter into a soft, workable dough.",
+      "Roll to about half an inch thick and cut into quarters.",
+      "Cook on a hot, lightly oiled griddle, 4-5 minutes per side, until golden brown outside and soft within."
+    ],
+    "tags": []
   },
   {
     "name": "Northern Irish Champ",
     "cuisine": "northern-irish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 200,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "finely chopped, standing in for scallion"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Simmer the onion in the milk over low heat, 4-5 minutes, to soften and mellow its bite.",
-      "Mash the potato thoroughly with the milk-onion mixture, half the butter, and pepper until smooth.",
-      "Spoon into a bowl, make a well in the center, and let the remaining butter melt into it - champ is traditionally eaten by dragging each forkful of potato through the pool of melted butter."
-    ],
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Champ, mashed potato worked with real chopped scallions and a generous well of melted butter in the center, is a beloved Northern Irish side, real technique making a real butter well at the table rather than mixing it all in.",
     "ingredients_full": [
       {
         "ingredient": "Yukon gold potato",
         "qty": 200,
-        "note": "mashed"
+        "note": "boiled and mashed"
       },
       {
         "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
-        "qty": 35,
-        "note": "finely chopped, standing in for scallion"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the onion in the milk over low heat, 4-5 minutes, to soften and mellow its bite.",
-      "Mash the potato thoroughly with the milk-onion mixture, half the butter, and pepper until smooth.",
-      "Real scallions are used here now, giving the sharper, more specific flavor the dish actually calls for rather than yellow onion's milder substitute."
-    ],
-    "description": "Spoon into a bowl, make a well in the center, and let the remaining butter melt into it - champ is traditionally eaten by dragging each forkful of potato through the pool of melted butter."
-  },
-  {
-    "name": "Northern Irish Colcannon",
-    "cuisine": "northern-irish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 80,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.25,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Soften the cabbage in half the butter, 8-10 minutes.",
-      "Mash the potato with the milk and remaining butter, then fold in the cabbage."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the cabbage in half the butter over medium-low heat, 10-12 minutes, until fully tender.",
-      "Mash the potato with the milk, remaining butter, and pepper until smooth, then fold the cabbage through.",
-      "Colcannon differs from champ mainly by trading the onion for cabbage or kale, and is especially associated with Halloween in Northern Ireland, sometimes with small charms hidden inside."
-    ],
-    "description": "Colcannon, mashed potato with cabbage or kale, a classic Irish and Northern Irish comfort food."
-  },
-  {
-    "name": "Northern Irish Boxty",
-    "cuisine": "northern-irish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "half grated raw, half mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
         "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": "for frying"
-      }
-    ],
-    "steps": [
-      "Mix the grated and mashed potato with the flour and egg into a thick batter.",
-      "Fry spoonfuls in the butter, 3-4 minutes per side, until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "half grated raw, half mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": "for frying"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the grated and mashed potato with the flour, egg, and pepper into a thick, well-combined batter.",
-      "Fry spoonfuls in the butter over medium heat, 4-5 minutes per side, until deeply golden and cooked through.",
-      "Boxty uses both raw grated and cooked mashed potato in the same batter, giving it a texture distinct from a plain potato pancake."
-    ],
-    "description": "Boxty, a potato pancake made from both grated raw and mashed cooked potato, a genuine Irish specialty especially from the northern counties."
-  },
-  {
-    "name": "Northern Irish Cheese and Potato Bake",
-    "cuisine": "northern-irish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato slices with the milk in a small dish and bake at 375F, covered, for 30 minutes.",
-      "Uncover, top with the cheese, and bake 10-15 more minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato slices with the milk, butter, and pepper in a small baking dish, cover tightly, and bake at 375F (190C) for 32-35 minutes until the potato is tender.",
-      "Uncover, top generously with the cheese, and bake 12-15 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake."
-  },
-  {
-    "name": "Northern Irish Beef and Cabbage Stew",
-    "cuisine": "northern-irish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
         "note": "chopped"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 120,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the potato, cabbage, and 1.5 cups water, and simmer 25-28 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 135,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion and pepper over medium-high heat, 8-10 minutes.",
-      "Add the potato, cabbage, and 1.75 cups water, and simmer 28-32 minutes until all the vegetables are fully tender."
-    ],
-    "description": "A simple beef and cabbage stew."
-  },
-  {
-    "name": "Northern Irish Lamb and Potato Pie",
-    "cuisine": "northern-irish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "diced"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 45,
-        "note": "for the pastry"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold, for the pastry"
-      }
-    ],
-    "steps": [
-      "Brown the lamb with the potato.",
-      "Make a simple pastry from the flour, butter, and cold water, line a small dish, fill with the lamb mixture, top with more pastry, and bake at 400F for 20-25 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 115,
-        "note": "diced"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": "for the pastry"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "cold, for the pastry"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the lamb with the potato and onion over medium-high heat, 10-12 minutes.",
-      "Rub the butter into the flour with a pinch of salt and enough cold water to form a firm pastry.",
-      "Line a small dish with half the pastry, fill with the lamb mixture, top with the remaining pastry, seal, and bake at 400F (200C) for 22-26 minutes until golden."
-    ],
-    "description": "A simple lamb and potato pie."
-  },
-  {
-    "name": "Northern Irish Baked Herring with Potato",
-    "cuisine": "northern-irish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 140,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Layer the potato slices in a dish with half the butter and bake at 400F for 20 minutes.",
-      "Lay the herring on top, dot with the remaining butter, and bake 12-15 more minutes until cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 160,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato slices in a baking dish with half the butter and bake at 400F (200C) for 20-22 minutes until nearly tender.",
-      "Season the herring with pepper, lay it over the potato, dot with the remaining butter, and bake 14-16 more minutes until the fish flakes easily.",
-      "Finish with the lime juice just before serving."
-    ],
-    "description": "A simple baked herring and potato dish."
-  },
-  {
-    "name": "Northern Irish Champ-Topped Shepherd's Pie",
-    "cuisine": "northern-irish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "finely chopped, mixed into the topping"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the lamb.",
-      "Mix the mashed potato with half the onion and the butter for a champ-style topping, spread over the lamb, and bake at 400F for 15-20 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground lamb",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "mashed for the topping"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "finely chopped, mixed into the topping"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 14,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the lamb with half the onion and the pepper over medium-high heat, 8-10 minutes.",
-      "Mash the potato with the butter and the remaining onion for a champ-style topping, spread over the lamb, and bake at 400F (200C) for 18-22 minutes until golden.",
-      "Folding scallion-style onion into the mash before topping the pie is a distinctly Northern Irish crossover between champ and shepherd's pie."
-    ],
-    "description": "Shepherd's pie topped with champ, mashed potato with scallions folded through, rather than plain mash."
-  },
-  {
-    "name": "Northern Irish Potato Farls",
-    "cuisine": "northern-irish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Mix the mashed potato with the flour and melted butter into a firm dough.",
-      "Pat into a round, cut into quarters, and cook on a dry griddle 3-4 minutes per side."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 165,
-        "note": "mashed"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the mashed potato with the flour, melted butter, and pepper into a firm, workable dough.",
-      "Pat into a round about half an inch thick, cut into quarters (the traditional farl shape), and cook on a dry, hot griddle, 3-4 minutes per side, until golden with dark speckling.",
-      "Farls are a fixture of the Ulster fry, though they're just as often eaten on their own with butter."
-    ],
-    "description": "Potato farls, flat potato bread, a defining part of the Ulster fry."
-  },
-  {
-    "name": "Northern Irish Barmbrack",
-    "cuisine": "northern-irish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 30,
-        "note": "soaked in warm water"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Soak the currants in warm water for 20 minutes, then drain.",
-      "Mix the flour, baking powder, honey, and currants with egg and milk into a thick batter, and bake at 350F for 30-35 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 35,
-        "note": "soaked in warm water"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soak the currants in warm water for 25-30 minutes to plump them, then drain well.",
-      "Mix the flour, baking powder, cinnamon, honey, egg, and drained currants with a splash of milk into a thick batter."
-    ],
-    "description": "Pour into a small lined pan and bake at 350F (175C) for 35-40 minutes until a skewer comes out clean - barmbrack is traditionally baked with a hidden ring or coin inside for Halloween fortune-telling."
-  },
-  {
-    "name": "Northern Irish Cheese and Soda Bread Snack",
-    "cuisine": "northern-irish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": "for a quick soda bread base"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Mix the flour, baking powder, and a pinch of salt with milk into a soft dough, shape into a small round, and bake at 400F for 15-18 minutes.",
-      "Split while warm and add the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": "for a quick soda bread base"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
         "ingredient": "Whole milk (generic)",
-        "qty": 0.2,
-        "note": "cup"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the flour, baking powder, a pinch of salt, and the milk into a soft dough, shape into a small round, and bake at 400F (200C) for 16-20 minutes until golden.",
-      "Split while still warm, butter generously, and add the cheese so it just begins to soften."
-    ],
-    "description": "A simple cheese and soda bread snack."
-  },
-  {
-    "name": "Northern Irish Herring and Cabbage Spread",
-    "cuisine": "northern-irish",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 25,
-        "note": "very finely minced"
-      }
-    ],
-    "steps": [
-      "Mash the kippered herring with the butter and minced cabbage until well combined.",
-      "Serve with bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, kippered",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 30,
-        "note": "very finely minced"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mash the kippered herring with the butter, minced cabbage, and lime juice until well combined and spreadable.",
-      "Serve with bread or farls - the cabbage adds a bit of crunch and freshness against the rich, smoky fish."
-    ],
-    "description": "A simple herring and cabbage spread."
-  },
-  {
-    "name": "Northern Irish Rice Pudding with Honey",
-    "cuisine": "northern-irish",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the honey and cinnamon for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice in the milk with the honey, cinnamon, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy.",
-      "Serve warm, with an extra drizzle of honey if you like."
-    ],
-    "description": "A simple rice pudding with honey."
-  },
-  {
-    "name": "Northern Irish Currant Squares",
-    "cuisine": "northern-irish",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Cream the butter and sugar, mix in the flour and currants, press into a small pan, and bake at 350F for 20-22 minutes.",
-      "Cool and cut into squares."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 30,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
         "qty": 2,
         "note": "tbsp"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "generous"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "boiled and mashed"
       },
       {
-        "ingredient": "Baking powder",
-        "qty": 0.375,
-        "note": "tsp"
+        "ingredient": "Onions, spring or scallions (includes tops and bulb), raw",
+        "qty": 30,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "generous"
       }
     ],
     "steps_detailed": [
-      "Cream the butter and sugar until light, then beat in the egg.",
-      "Fold in the flour, baking powder, and currants, press into a small lined pan, and bake at 350F (175C) for 22-26 minutes until golden and set.",
-      "Cool completely before cutting into squares - a simple, dense, currant-flecked traybake common at Northern Irish tea tables."
-    ],
-    "description": "Simple currant squares, a common Northern Irish teatime bake."
-  },
-  {
-    "name": "Northern Irish Milk and Honey Pudding",
-    "cuisine": "northern-irish",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Cornstarch",
-        "qty": 1,
-        "note": "tbsp"
-      }
+      "Cook the scallions briefly in the milk, 2 minutes, then mash into the potato.",
+      "Serve with a generous well of the butter melting in the center - real tradition eats from the outside in, dipping each bite into the butter well."
     ],
     "steps": [
-      "Whisk the cornstarch into a little of the cold milk.",
-      "Warm the rest of the milk with the honey, whisk in the egg and cornstarch slurry, and cook gently, stirring, until thickened."
+      "Cook the scallions briefly in the milk, 2 minutes, then mash into the potato.",
+      "Serve with a generous well of the butter melting in the center - real tradition eats from the outside in, dipping each bite into the butter well."
     ],
+    "tags": []
+  },
+  {
+    "name": "Northern Irish Beef and Vegetable Stew",
+    "cuisine": "northern-irish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Northern Irish home cooking.",
     "ingredients_full": [
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Cornstarch",
-        "qty": 1.25,
-        "note": "tbsp"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the cornstarch into a little of the cold milk until smooth.",
-      "Warm the rest of the milk with the honey and cinnamon, whisk in the egg and cornstarch slurry, and cook over low heat, stirring constantly, 6-8 minutes until thickened to a soft custard.",
-      "Chill briefly or serve warm - a plain, gentle pudding built from little more than the dairy at hand."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "description": "A simple milk and honey pudding."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
   },
   {
-    "name": "Northern Irish Onion and Milk Sauce",
+    "name": "Northern Irish Grilled Fish",
     "cuisine": "northern-irish",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with butter and lemon, reflecting Northern Ireland's rich Atlantic and Irish Sea coastal fishing tradition.",
+    "ingredients_full": [
       {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Butter, salted",
         "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Soften the onion in the butter, 8-10 minutes.",
-      "Add the milk and simmer 5-6 minutes into a light sauce."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yellow onion",
-        "qty": 70,
-        "note": "finely chopped"
+        "note": "melted"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion in the butter over medium-low heat, 10-12 minutes, until fully tender and just turning golden.",
-      "Add the milk and pepper and simmer 6-8 minutes into a light, mildly sweet sauce - good spooned over champ, colcannon, or farls."
-    ],
-    "description": "A simple onion and milk sauce."
-  },
-  {
-    "name": "Northern Irish Honey Butter",
-    "cuisine": "northern-irish",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Honey",
+        "ingredient": "Lemon juice, raw",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Beat the butter and honey together until smooth and light."
-    ],
-    "ingredients_full": [
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
       {
         "ingredient": "Butter, salted",
-        "qty": 30,
-        "note": "softened"
+        "qty": 10,
+        "note": "melted"
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.75,
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Beat the butter, honey, and cinnamon together until smooth, light, and well combined.",
-      "Spread over warm soda bread or farls - simple, and better than either ingredient on its own."
+      "Rub the fish with the butter and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
-    "description": "A simple honey butter."
+    "steps": [
+      "Rub the fish with the butter and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Northern Irish Roasted Almonds",
+    "cuisine": "northern-irish",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Northern Ireland.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Northern Irish Butter Sauce",
+    "cuisine": "northern-irish",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple butter and parsley sauce, a common condiment for fish and boiled vegetables.",
+    "ingredients_full": [
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped, standing in for parsley"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
+      },
+      {
+        "ingredient": "Cilantro",
+        "qty": 1,
+        "note": "tbsp, chopped, standing in for parsley"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk everything together and serve warm."
+    ],
+    "steps": [
+      "Whisk everything together and serve warm."
+    ],
+    "tags": []
   }
 ]
