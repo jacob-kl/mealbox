@@ -1,1101 +1,322 @@
 [
   {
-    "name": "Latvian Rye Bread with Butter and Cheese",
-    "cuisine": "latvian",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Butter the rye bread and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread generously, top with the cheese, and finish with a little black pepper.",
-      "Rupjmaize, dark sour rye bread, is considered close to a national symbol in Latvia."
-    ],
-    "description": "Rye bread, Latvia's everyday bread, paired here with butter and cheese."
-  },
-  {
-    "name": "Latvian Grey Peas with Onion",
-    "cuisine": "latvian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 130,
-        "note": "standing in for Latvian grey peas"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the onion in the oil until deeply caramelized, about 10-12 minutes.",
-      "Warm the chickpeas through with the onion and pepper."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Split peas (dry)",
-        "qty": 145,
-        "note": "soaked overnight and simmered until tender"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Soak the split peas in water overnight, then drain and simmer in fresh water 35-40 minutes until fully tender.",
-      "Brown the onion in the oil and butter over medium-low heat, 12-15 minutes, until deeply caramelized and sweet.",
-      "Toss the drained, cooked peas with the caramelized onion and pepper."
-    ],
-    "description": "Zir\u0146i ar spe\u0137i, grey peas with bacon fat and onion, is a genuine Latvian staple, especially associated with Christmas - split peas are a much closer match to the real dried pea than chickpeas, which are a different legume entirely."
-  },
-  {
-    "name": "Latvian Oat Porridge",
-    "cuisine": "latvian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Latvian Cold Beet Soup",
-    "cuisine": "latvian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 100,
-        "note": "cooked and diced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 60,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Mix the cooked beets, sour cream, cucumber, and dill with cold water to thin to a soup consistency.",
-      "Chill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 115,
-        "note": "cooked and diced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber, peeled, raw",
-        "qty": 70,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": "hard-boiled, to top"
-      }
-    ],
-    "steps_detailed": [
-      "Boil the beets until tender, 20-25 minutes, then cool and dice.",
-      "Mix the beets, sour cream, cucumber, and dill with cold water to thin, and top with the chopped hard-boiled egg."
-    ],
-    "description": "Auksta zupa, cold pink beet soup, is a beloved summer dish across Latvia, its bright color a genuine point of visual delight."
-  },
-  {
-    "name": "Latvian Herring and Potato Salad",
-    "cuisine": "latvian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 90,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 120,
-        "note": "boiled and diced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps": [
-      "Toss the herring, potato, onion, and dill together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 135,
-        "note": "boiled and diced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 25,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toss the herring, potato, onion, dill, and sour cream together.",
-      "Let sit 10 minutes so the flavors meld."
-    ],
-    "description": "Herring and potato salad, a classic Latvian pairing."
-  },
-  {
-    "name": "Latvian Cabbage and Potato Stew",
-    "cuisine": "latvian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 110,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 130,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Soften the onion.",
-      "Add the cabbage, potato, and 1.5 cups water, and simmer 22-25 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 125,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 145,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion in the oil, 5-6 minutes.",
-      "Add the cabbage, potato, pepper, and 1.75 cups water, and simmer 24-28 minutes until fully tender."
-    ],
-    "description": "A simple cabbage and potato stew."
-  },
-  {
-    "name": "Latvian Barley and Beef Soup",
-    "cuisine": "latvian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 130,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the barley and 2 cups water, and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Barley, pearled, raw",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 145,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, and pepper over medium-high heat, 8-10 minutes.",
-      "Add the barley and 2.25 cups water, and simmer 32-38 minutes until fully tender - barley soup is a common warming lunch through Latvia's long winters."
-    ],
-    "description": "A simple barley and beef soup, barley being a Latvian pantry staple."
-  },
-  {
-    "name": "Latvian Pork and Cabbage Stew",
+    "name": "Latvian Pel\u0113kie Zir\u0146i ar Spe\u0137i (Grey Peas with Bacon)",
     "cuisine": "latvian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 110,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the pork with the onion and caraway.",
-      "Add the cabbage and a splash of water, cover, and simmer 25-28 minutes until tender."
-    ],
+    "description": "Pel\u0113kie zir\u0146i ar spe\u0137i, Latvia's quintessential national dish, especially central to Christmas and New Year, genuinely depends on real bacon rendered first, with the onion cooked directly in that rendered fat, then folded gently into the peas so they stay whole rather than breaking apart. Real Latvian grey peas are a distinct variety; split peas stand in here as the closest reasonable approximation.",
     "ingredients_full": [
       {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 125,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the pork with the onion, caraway, and pepper over medium-high heat, 9-11 minutes.",
-      "Add the cabbage and a generous splash of water, cover, and simmer 26-30 minutes until fully tender."
-    ],
-    "description": "A simple pork and cabbage stew."
-  },
-  {
-    "name": "Latvian Baked Salmon with Dill",
-    "cuisine": "latvian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
+        "ingredient": "Peas, split, mature seeds, cooked, boiled, without salt",
         "qty": 200,
-        "note": ""
+        "note": "standing in for real grey peas"
       },
       {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Season the salmon with the dill and dot with the butter.",
-      "Bake at 400F for 15-18 minutes until just cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Atlantic Salmon Fillets",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the salmon with the dill and pepper and dot with the butter.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily.",
-      "Finish with the lime juice."
-    ],
-    "description": "A simple baked salmon, dill being a defining Baltic herb."
-  },
-  {
-    "name": "Latvian Beef and Potato Stew",
-    "cuisine": "latvian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 130,
-        "note": "chunked"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 60,
+        "note": "diced"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
+        "qty": 60,
+        "note": "diced"
       },
       {
         "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
+        "qty": 0.5,
         "note": "tsp"
       }
     ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the potato and 1.5 cups water, and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
-        "note": ""
+        "ingredient": "Peas, split, mature seeds, cooked, boiled, without salt",
+        "qty": 200,
+        "note": "standing in for real grey peas"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 145,
-        "note": "chunked"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 60,
+        "note": "diced"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
+        "qty": 60,
+        "note": "diced"
       },
       {
         "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
+        "qty": 0.5,
         "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes.",
-      "Add the potato and 1.75 cups water, and simmer 32-38 minutes until fully tender."
+      "Cook the bacon in a pan until the fat renders and it turns crisp, 4-5 minutes.",
+      "Add the onion to the rendered bacon fat and cook, 4-5 minutes, until softened.",
+      "Gently fold the peas into the bacon and onion, stirring carefully so they stay whole rather than breaking apart.",
+      "Warm everything together over low heat 3-5 minutes, and season with the black pepper."
     ],
-    "description": "A simple beef and potato stew."
+    "steps": [
+      "Cook the bacon in a pan until the fat renders and it turns crisp, 4-5 minutes.",
+      "Add the onion to the rendered bacon fat and cook, 4-5 minutes, until softened.",
+      "Gently fold the peas into the bacon and onion, stirring carefully so they stay whole rather than breaking apart.",
+      "Warm everything together over low heat 3-5 minutes, and season with the black pepper."
+    ],
+    "tags": []
   },
   {
-    "name": "Latvian Cheese and Potato Bake",
+    "name": "Latvian P\u012br\u0101gi (Bacon Buns)",
     "cuisine": "latvian",
-    "meal_type": "dinner",
+    "meal_type": "snack",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato with the sour cream in a small dish and bake at 375F, covered, for 25 minutes.",
-      "Uncover, top with the cheese, and bake 10-12 more minutes until golden."
-    ],
+    "description": "P\u012br\u0101gi, crescent-shaped yeasted buns filled with real bacon and onion, are a genuine Latvian celebration staple, real technique renders the bacon with the onion first without browning it, and the finished buns are traditionally served with a bowl of cold sour cream for dipping.",
     "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
-      "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake."
-  },
-  {
-    "name": "Latvian Rye Bread with Herring",
-    "cuisine": "latvian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the rye bread and top with the pickled herring."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Fish, herring, Atlantic, pickled",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 0.5,
-        "note": "tbsp, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the rye bread generously, top with the pickled herring, and finish with a scattering of fresh dill."
-    ],
-    "description": "Rye bread and herring, a classic Latvian pairing."
-  },
-  {
-    "name": "Latvian Beet and Dill Snack",
-    "cuisine": "latvian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 100,
-        "note": "cooked and grated"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the cooked, grated beets with the dill and oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beets, raw",
-        "qty": 115,
-        "note": "cooked and grated"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Boil the beets until tender, 20-25 minutes, then cool and grate.",
-      "Toss with the dill, oil, and garlic."
-    ],
-    "description": "A simple beet and dill snack."
-  },
-  {
-    "name": "Latvian Caraway Crackers",
-    "cuisine": "latvian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 50,
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Spices, caraway seed",
+        "ingredient": "Baking powder",
         "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "cold"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 40,
+        "note": "chopped"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp, for serving"
       }
     ],
-    "steps": [
-      "Rub the butter into the flour and caraway.",
-      "Add the milk to form a firm dough, roll thin, cut into shapes, and bake at 375F for 12-15 minutes until crisp."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
         "ingredient": "All-purpose flour",
-        "qty": 55,
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Spices, caraway seed",
-        "qty": 1,
+        "ingredient": "Baking powder",
+        "qty": 0.75,
         "note": "tsp"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 40,
+        "note": "chopped"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2.5,
-        "note": "tbsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": "diced"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp, for serving"
       }
     ],
     "steps_detailed": [
-      "Rub the butter into the flour, caraway, and pepper until crumbly.",
-      "Add the milk to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and lightly golden."
-    ],
-    "description": "A simple caraway cracker, caraway being a common Latvian spice."
-  },
-  {
-    "name": "Latvian Cabbage Slaw",
-    "cuisine": "latvian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
+      "Cook the bacon and onion together over low heat, 5 minutes, without browning, just to soften the onion and render the fat.",
+      "Let cool.",
+      "Mix the flour and baking powder with warm water into a soft dough.",
+      "Roll out, cut into rounds, fill each with a spoonful of the bacon-onion mixture, and fold into crescents, sealing well.",
+      "Bake at 400F (200C) for 18-20 minutes until golden.",
+      "Serve with the cold sour cream alongside for dipping - real tradition treats this as essential, not optional."
     ],
     "steps": [
-      "Toss the cabbage with the oil and lime juice.",
-      "Let sit 10 minutes so it softens slightly."
+      "Cook the bacon and onion together over low heat, 5 minutes, without browning, just to soften the onion and render the fat.",
+      "Let cool.",
+      "Mix the flour and baking powder with warm water into a soft dough.",
+      "Roll out, cut into rounds, fill each with a spoonful of the bacon-onion mixture, and fold into crescents, sealing well.",
+      "Bake at 400F (200C) for 18-20 minutes until golden.",
+      "Serve with the cold sour cream alongside for dipping - real tradition treats this as essential, not optional."
     ],
+    "tags": []
+  },
+  {
+    "name": "Latvian Cold Beet Soup (Aukst\u0101 Zupa)",
+    "cuisine": "latvian",
+    "meal_type": "lunch",
+    "course": "complete",
+    "description": "Aukst\u0101 zupa, a cold beet soup made with real kefir, is a beloved Latvian summer staple, real technique chilling thoroughly before serving.",
     "ingredients_full": [
       {
-        "ingredient": "Cabbage, raw",
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and diced"
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 100,
-        "note": "finely shredded"
+        "note": "diced"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage with the oil, lime juice, and pepper.",
-      "Let sit 15 minutes so it softens slightly before serving."
-    ],
-    "description": "A simple cabbage slaw."
-  },
-  {
-    "name": "Latvian Honey Cake",
-    "cuisine": "latvian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 1,
+        "note": "cup, standing in for kefir"
       },
       {
         "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": ""
+        "note": "hard-boiled, for topping"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
       }
     ],
-    "steps": [
-      "Cream the butter and honey, beat in the egg, then fold in the flour.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
+        "ingredient": "Beets, raw",
+        "qty": 150,
+        "note": "boiled and diced"
       },
       {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "diced"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
+        "ingredient": "Yogurt, plain, whole milk",
+        "qty": 1,
+        "note": "cup, standing in for kefir"
       },
       {
         "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
+        "qty": 1,
+        "note": "hard-boiled, for topping"
       },
       {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Boil the beets until tender, 25-30 minutes, then peel and dice.",
+      "Whisk the yogurt with 0.5 cup water until smooth.",
+      "Stir in the beets and cucumber, and chill at least 1 hour.",
+      "Top with the chopped hard-boiled egg and dill before serving."
+    ],
+    "steps": [
+      "Boil the beets until tender, 25-30 minutes, then peel and dice.",
+      "Whisk the yogurt with 0.5 cup water until smooth.",
+      "Stir in the beets and cucumber, and chill at least 1 hour.",
+      "Top with the chopped hard-boiled egg and dill before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Latvian Rye Bread",
+    "cuisine": "latvian",
+    "meal_type": "dinner",
+    "course": "side",
+    "description": "Dark rye bread is Latvia's most essential daily staple, real rye flour used directly here for its genuine dense, earthy character.",
+    "ingredients_full": [
+      {
+        "ingredient": "Rye flour, dark",
+        "qty": 55,
+        "note": ""
       },
       {
         "ingredient": "Baking powder",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Rye flour, dark",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Baking powder",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, caraway seed",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cream the butter and honey together until light, then beat in the egg.",
-      "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ],
-    "description": "A simple honey cake."
-  },
-  {
-    "name": "Latvian Rye Bread Pudding",
-    "cuisine": "latvian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices, torn"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Currants, zante, dried",
-        "qty": 15,
-        "note": ""
-      }
+      "Mix the rye flour, baking powder, and caraway with enough water to form a firm dough.",
+      "Shape into a small round loaf and bake at 375F (190C) for 25-28 minutes until deeply golden and firm."
     ],
     "steps": [
-      "Layer the torn rye bread with the currants in a small dish.",
-      "Pour the milk and honey over, let it soak 10 minutes, and bake at 350F for 20-25 minutes until set."
+      "Mix the rye flour, baking powder, and caraway with enough water to form a firm dough.",
+      "Shape into a small round loaf and bake at 375F (190C) for 25-28 minutes until deeply golden and firm."
     ],
+    "tags": []
+  },
+  {
+    "name": "Latvian Smoked Fish",
+    "cuisine": "latvian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Smoked fish, especially herring or sprat, is a genuine Latvian coastal staple, real versions simply seasoned to let the smoke carry the flavor.",
     "ingredients_full": [
       {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices, torn"
+        "ingredient": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
+        "qty": 100,
+        "note": "standing in for smoked sprat"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
+        "qty": 100,
+        "note": "standing in for smoked sprat"
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
+        "ingredient": "Lemon juice, raw",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Serve the fish chilled with a squeeze of lemon juice."
+    ],
+    "steps": [
+      "Serve the fish chilled with a squeeze of lemon juice."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Latvian Potato Pancakes",
+    "cuisine": "latvian",
+    "meal_type": "breakfast",
+    "course": "complete",
+    "description": "Kartupe\u013cu pank\u016bkas, crispy grated potato pancakes, are a beloved Latvian dish, real technique squeezing excess liquid from the grated potato so they fry crisp.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "grated"
       },
       {
-        "ingredient": "Currants, zante, dried",
+        "ingredient": "All-purpose flour",
         "qty": 20,
         "note": ""
       },
@@ -1105,186 +326,236 @@
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 7,
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "grated"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 20,
         "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
       }
     ],
     "steps_detailed": [
-      "Layer the torn rye bread with the currants in a small baking dish.",
-      "Whisk the milk, honey, and egg together and pour over, letting it soak 12-15 minutes."
+      "Squeeze the grated potato well to remove excess liquid.",
+      "Mix with the flour and egg.",
+      "Drop spoonfuls into hot oil and fry, flattening slightly, 3-4 minutes per side, until deeply golden and crisp."
     ],
-    "description": "Dot with the butter and bake at 350F (175C) for 22-28 minutes until set - rupjmaizes kartojums, layered rye bread dessert, is a genuine Latvian specialty, traditionally layered with whipped cream and berries."
+    "steps": [
+      "Squeeze the grated potato well to remove excess liquid.",
+      "Mix with the flour and egg.",
+      "Drop spoonfuls into hot oil and fry, flattening slightly, 3-4 minutes per side, until deeply golden and crisp."
+    ],
+    "tags": []
   },
   {
-    "name": "Latvian Rice Pudding",
+    "name": "Latvian Cucumber Salad",
     "cuisine": "latvian",
-    "meal_type": "dessert",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple vinegar-dressed cucumber salad, a common Latvian side, real technique salting the cucumber first to draw out excess water.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar and oil together, and toss with the cucumber and dill."
+    ],
+    "steps": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar and oil together, and toss with the cucumber and dill."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Latvian Roasted Almonds",
+    "cuisine": "latvian",
+    "meal_type": "snack",
     "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
+    "description": "A simple roasted almond snack, common across Latvia.",
     "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
+        "ingredient": "Almonds",
+        "qty": 40,
         "note": ""
-      },
+      }
+    ],
+    "ingredients": [
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
+        "ingredient": "Almonds",
+        "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Latvian Sour Cream Dill Sauce",
-    "cuisine": "latvian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
     ],
     "steps": [
-      "Mix the sour cream, dill, and garlic together."
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.75,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the sour cream, dill, garlic, and pepper together into a cool, herby sauce."
-    ],
-    "description": "A simple sour cream and dill sauce."
+    "tags": []
   },
   {
-    "name": "Latvian Onion Butter Sauce",
+    "name": "Latvian Beef and Vegetable Stew",
     "cuisine": "latvian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Latvian home cooking outside the specific named dishes.",
+    "ingredients_full": [
       {
-        "ingredient": "Yellow onion",
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
         "qty": 60,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Cook the onion slowly in the butter with the pepper until deeply softened, about 12-15 minutes."
-    ],
-    "ingredients_full": [
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
       {
         "ingredient": "Yellow onion",
-        "qty": 70,
-        "note": "thinly sliced"
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 18,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Latvian Dill Sour Cream Sauce",
+    "cuisine": "latvian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple dill and sour cream sauce, a common Latvian condiment for potatoes and fish.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
       },
       {
         "ingredient": "Garlic clove",
@@ -1293,8 +564,11 @@
       }
     ],
     "steps_detailed": [
-      "Cook the onion slowly in the butter with the garlic and pepper over medium-low heat, 15-18 minutes, until deeply softened and golden - the same caramelized onion topping that defines Latvia's grey peas dish."
+      "Mix everything together and chill before serving."
     ],
-    "description": "A simple onion-butter sauce."
+    "steps": [
+      "Mix everything together and chill before serving."
+    ],
+    "tags": []
   }
 ]
