@@ -1,1950 +1,658 @@
 [
   {
-    "name": "Chicken Parmesan with Spaghetti",
+    "name": "Italian Carbonara",
     "cuisine": "italian",
     "meal_type": "dinner",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "Real carbonara has never contained cream, garlic, onion, or parsley - one Italian source puts it bluntly: add cream and 'you're not making carbonara, you're making pasta with cream and bacon.' The real, genuine creaminess comes entirely from technique - egg, cheese, rendered pork fat, and starchy pasta water emulsified together with hot pasta, off the direct heat, since eggs that get too hot simply scramble. Bacon stands in here for real guanciale or pancetta, missing their real, less-smoky depth.",
+    "ingredients_full": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "pounded thin"
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": "standing in for spaghetti"
       },
       {
-        "ingredient": "Progresso garlic herb bread crumbs",
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 50,
+        "note": "cubed, standing in for guanciale or pancetta"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "yolks only"
+      },
+      {
+        "ingredient": "Cheese, romano",
+        "qty": 30,
+        "note": "finely grated, standing in for pecorino romano"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 55,
+        "note": "standing in for spaghetti"
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 50,
+        "note": "cubed, standing in for guanciale or pancetta"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 2,
+        "note": "yolks only"
+      },
+      {
+        "ingredient": "Cheese, romano",
+        "qty": 30,
+        "note": "finely grated, standing in for pecorino romano"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.75,
+        "note": "tsp, generous"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the pasta in salted water until al dente, reserving a cup of the starchy pasta water before draining.",
+      "Cook the bacon in a cold pan over medium heat until the fat renders and it turns crisp.",
+      "Whisk the egg yolks with the cheese and black pepper, being generous with the pepper.",
+      "Off the heat, toss the hot, drained pasta with the bacon and its rendered fat.",
+      "Add the egg-cheese mixture and toss vigorously off the heat, adding splashes of the reserved pasta water until glossy and creamy - real technique never returns the pan to direct heat here, or the eggs will scramble instead of emulsifying."
+    ],
+    "steps": [
+      "Cook the pasta in salted water until al dente, reserving a cup of the starchy pasta water before draining.",
+      "Cook the bacon in a cold pan over medium heat until the fat renders and it turns crisp.",
+      "Whisk the egg yolks with the cheese and black pepper, being generous with the pepper.",
+      "Off the heat, toss the hot, drained pasta with the bacon and its rendered fat.",
+      "Add the egg-cheese mixture and toss vigorously off the heat, adding splashes of the reserved pasta water until glossy and creamy - real technique never returns the pan to direct heat here, or the eggs will scramble instead of emulsifying."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Italian Bolognese",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Rag\u00f9 alla bolognese, a real slow-simmered meat sauce, genuinely depends on patience - real technique starts with a soffritto of onion, carrot, and celery cooked down thoroughly, then the meat browned deeply, and the sauce simmered low for hours, with a splash of milk stirred in near the end for real richness.",
+    "ingredients_full": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
         "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
+        "ingredient": "Alcoholic beverage, wine, table, red",
+        "qty": 2,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Cook spaghetti per package directions.",
-      "Dip chicken in egg, then breadcrumbs. Pan-sear 3-4 min per side until golden.",
-      "Top with pasta sauce and mozzarella, broil 2-3 min until melted.",
-      "Serve over spaghetti with parmesan."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "pounded to 1/2-inch thickness"
-      },
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 20,
-        "note": "for dredging"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "beaten"
-      },
-      {
-        "ingredient": "Panko breadcrumbs",
-        "qty": 0.5,
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Parmesan cheese (grated)",
+        "ingredient": "Carrot",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Tomato paste",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Alcoholic beverage, wine, table, red",
         "qty": 2,
-        "note": "tbsp, mixed into the breading"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp, for pan-frying"
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0039,
-        "note": "torn, for garnish"
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Bring a pot of salted water to a boil for the spaghetti.",
-      "Set up a dredging station: flour in one shallow dish, beaten egg in a second, and panko mixed with parmesan and oregano in a third.",
-      "Season the pounded chicken with salt and pepper. Dredge in flour (shake off excess), dip in egg, then press firmly into the panko mixture so it adheres in an even crust.",
-      "Heat olive oil in a skillet over medium heat. Cook the chicken 3-4 minutes per side until deep golden and cooked through \u2014 an instant-read thermometer should read 165F at the thickest point.",
-      "Meanwhile, cook the spaghetti per package directions, reserving a splash of pasta water before draining.",
-      "Spoon pasta sauce over the chicken, top with mozzarella, and either broil for 2 minutes until melted and bubbling, or cover the pan and let residual heat melt it.",
-      "Toss the drained spaghetti with a little extra sauce and the reserved pasta water if needed to loosen it. Serve alongside the chicken, topped with torn basil."
-    ],
-    "description": "Chicken parmigiana is genuinely an Italian-American invention, adapted from Southern Italian eggplant parmigiana by immigrants who had easier access to chicken - it doesn't have a single traditional Italian form to match, so this aims at doing the dish's own real version well."
-  },
-  {
-    "name": "Caprese Stuffed Chicken",
-    "cuisine": "italian",
-    "meal_type": "dinner",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "butterflied"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Quinoa (dry)",
-        "qty": 45,
-        "note": ""
-      }
+      "Cook the onion and carrot together, 8-10 minutes, until well softened - this real soffritto is the base of the sauce.",
+      "Add the beef and brown deeply, 8-9 minutes.",
+      "Add the wine and let it fully reduce, 2-3 minutes.",
+      "Add the tomato paste and diced tomatoes, and simmer, uncovered, at least 45-60 minutes, stirring occasionally.",
+      "Stir in the milk in the last 10 minutes for real richness."
     ],
     "steps": [
-      "Cook quinoa per package directions.",
-      "Stuff chicken with mozzarella, tomato, and basil; secure with toothpicks.",
-      "Bake at 400F for 20-25 min until cooked through.",
-      "Drizzle with balsamic and serve over quinoa."
+      "Cook the onion and carrot together, 8-10 minutes, until well softened - this real soffritto is the base of the sauce.",
+      "Add the beef and brown deeply, 8-9 minutes.",
+      "Add the wine and let it fully reduce, 2-3 minutes.",
+      "Add the tomato paste and diced tomatoes, and simmer, uncovered, at least 45-60 minutes, stirring occasionally.",
+      "Stir in the milk in the last 10 minutes for real richness."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "butterflied"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1.5,
-        "note": "oz, sliced"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.125,
-        "note": "leaves"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.3333,
-        "note": "for the balsamic reduction"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Orzo (dry)",
-        "qty": 45,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the balsamic vinegar and honey in a small saucepan over low heat for 5-7 minutes until reduced by about half and syrupy. Set aside.",
-      "Butterfly the chicken breast (slice horizontally, not quite all the way through) and open it like a book. Season the inside with salt, pepper, and the minced garlic.",
-      "Layer the mozzarella, tomato slices, and basil leaves inside, then fold the chicken closed and secure with toothpicks if needed.",
-      "Heat olive oil in an oven-safe skillet over medium-high heat. Sear the chicken 3 minutes per side until golden.",
-      "Transfer to a 375F oven and bake 12-15 minutes until cooked through (165F internal temperature).",
-      "Meanwhile, cook the quinoa per package directions.",
-      "Slice the chicken, drizzle with the balsamic reduction, and serve over the quinoa."
-    ],
-    "description": "Quinoa has no place in Italian cooking - orzo, a small rice-shaped pasta, is a far more sensible pairing here."
+    "tags": []
   },
   {
-    "name": "Shrimp Scampi",
+    "name": "Italian Margherita-Style Tomato Sauce",
     "cuisine": "italian",
-    "meal_type": "dinner",
-    "tags": [
-      "shellfish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple, bright tomato sauce echoing the flavors of pizza margherita, real technique keeping the ingredients minimal so the tomato's own real flavor carries the sauce.",
+    "ingredients_full": [
       {
-        "ingredient": "Frozen shrimp",
-        "qty": 170,
-        "note": "raw, peeled"
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 60,
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 150,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 2,
+        "qty": 1,
         "note": "minced"
       },
       {
+        "ingredient": "Fresh basil",
+        "qty": 1,
+        "note": "tbsp, torn"
+      },
+      {
         "ingredient": "Olive oil",
         "qty": 1.5,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0078,
-        "note": "chopped"
       }
     ],
-    "steps": [
-      "Cook spaghetti per package directions.",
-      "Saute garlic in olive oil 30 sec, add shrimp and cook 2-3 min per side.",
-      "Toss shrimp with pasta, lemon juice, and parsley."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 170,
-        "note": "peeled and deveined"
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 85,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red pepper flakes",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0078,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
-        "note": "tbsp, for serving"
-      }
-    ],
-    "steps_detailed": [
-      "Bring a pot of salted water to a boil and cook the spaghetti per package directions, reserving 1/4 cup pasta water before draining.",
-      "Pat the shrimp dry \u2014 this matters more than it seems, since wet shrimp will steam instead of sear.",
-      "Heat olive oil and half the butter in a large skillet over medium-high heat. Add the shrimp in a single layer and cook 1-2 minutes per side until just pink; don't overcook, they'll finish in the sauce. Remove to a plate.",
-      "Lower the heat to medium, add the garlic and red pepper flakes, and cook 30 seconds until fragrant but not browned.",
-      "Pour in the wine, scraping up any browned bits, and simmer 2 minutes to cook off the alcohol and reduce slightly.",
-      "Stir in the lemon juice and remaining butter until the sauce comes together and looks glossy.",
-      "Return the shrimp to the pan along with the drained spaghetti and a splash of the reserved pasta water. Toss to coat everything in the sauce.",
-      "Finish with parsley and a scattering of parmesan."
-    ],
-    "description": "Shrimp scampi, garlic and white wine over pasta, is another Italian-American dish - 'scampi' actually refers to a type of langoustine in Italy, not the sauce style itself, which is part of why the name doesn't quite translate back to a real Italian dish."
-  },
-  {
-    "name": "Turkey Bolognese",
-    "cuisine": "italian",
-    "meal_type": "dinner",
-    "tags": [
-      "leftovers-friendly"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Ground turkey 93/7",
+        "ingredient": "Diced tomatoes (canned)",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Cook spaghetti per package directions.",
-      "Brown turkey, breaking it up, about 6-8 min.",
-      "Add pasta sauce, simmer 10 min. Serve over spaghetti with parmesan."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground turkey 93/7",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Olive oil",
+        "ingredient": "Garlic clove",
         "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 40,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Celery",
-        "qty": 30,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Tomato paste",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Red wine (cooking)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.0078,
-        "note": ""
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Bay leaves",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Heat olive oil in a heavy pot over medium heat. Add the onion, carrot, and celery (the soffritto \u2014 the flavor base of the sauce) and cook 6-8 minutes, stirring occasionally, until softened but not browned.",
-      "Add the garlic and cook 30 seconds until fragrant.",
-      "Push the vegetables to the side, add the turkey to the cleared space, and brown it, breaking it apart with a spoon, about 5-6 minutes.",
-      "Stir in the tomato paste and cook 1-2 minutes \u2014 this deepens its flavor before the liquid goes in.",
-      "Pour in the wine and let it simmer 2-3 minutes to cook off the harsh alcohol edge.",
-      "Add the pasta sauce, milk, oregano, and bay leaf. The milk is a classic bolognese touch \u2014 it mellows the acidity of the tomatoes.",
-      "Reduce heat to low and simmer uncovered for 20-25 minutes, stirring occasionally, until thickened. Remove the bay leaf before serving.",
-      "Cook the spaghetti per package directions and toss with the sauce, or serve the sauce spooned over. Top with parmesan."
-    ],
-    "description": "Bolognese, a slow-simmered meat sauce named for Bologna, traditionally uses a soffritto of onion, carrot, and celery as its base - all present here, with turkey standing in for the traditional beef and pork mix for a leaner version."
-  },
-  {
-    "name": "Italian Chicken & White Bean Jar",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 100,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 60,
-        "note": "halved"
+        "note": "minced"
       },
       {
         "ingredient": "Fresh basil",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
         "qty": 1,
-        "note": "tbsp, keep separate"
+        "note": "tbsp, torn"
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp, keep separate"
-      }
-    ],
-    "steps": [
-      "Layer dressing at the bottom of a jar, then beans, tomato, chicken, and basil.",
-      "Shake to combine before eating."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 20,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0078,
-        "note": "torn"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the balsamic vinegar, olive oil, and garlic together for the dressing.",
-      "In a bowl, combine the beans, tomatoes, red onion, and basil. Toss with about half the dressing.",
-      "Layer the dressed bean mixture in the bottom of a jar, top with the chicken, and drizzle the remaining dressing over top before sealing."
-    ],
-    "description": "A simple, portable salad built on classic Italian flavors."
-  },
-  {
-    "name": "Baked Ziti with Turkey",
-    "cuisine": "italian",
-    "meal_type": "dinner",
-    "tags": [
-      "leftovers-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground turkey 93/7",
-        "qty": 140,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole wheat spaghetti (dry)",
-        "qty": 65,
-        "note": "broken into short pieces"
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1,
-        "note": "oz"
-      }
-    ],
-    "steps": [
-      "Cook pasta per package directions.",
-      "Brown turkey, add pasta sauce, combine with pasta.",
-      "Top with mozzarella, bake at 375F for 10 min until melted."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground turkey 93/7",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Elbow macaroni (dry)",
-        "qty": 85,
-        "note": "or ziti if available"
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ricotta cheese (part-skim)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.3,
-        "note": ""
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
         "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Dried basil",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0039,
-        "note": "torn, for garnish"
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 375F and bring a pot of salted water to a boil for the pasta.",
-      "Brown the turkey in a skillet over medium-high heat with the garlic, breaking it into small pieces, about 5-6 minutes.",
-      "Stir in the pasta sauce and dried basil, simmer 5 minutes.",
-      "Cook the pasta 2 minutes short of package directions \u2014 it'll finish cooking in the oven, so slightly underdone now prevents mush later.",
-      "In a small bowl, mix the ricotta with the egg \u2014 this is what gives baked ziti its creamy interior layer rather than dry, separated cheese.",
-      "In a baking dish, combine the pasta with the turkey sauce. Dollop the ricotta mixture over top and swirl it partway in with a knife.",
-      "Scatter mozzarella and parmesan over everything.",
-      "Bake uncovered for 18-20 minutes until bubbling and golden on top. Rest 5 minutes before serving, topped with fresh basil."
+      "Cook the garlic in the olive oil, 30 seconds.",
+      "Add the tomatoes and simmer 15-18 minutes until thickened.",
+      "Stir in the torn basil off the heat, just before serving."
     ],
-    "description": "A lighter, ground-turkey take on baked ziti."
+    "steps": [
+      "Cook the garlic in the olive oil, 30 seconds.",
+      "Add the tomatoes and simmer 15-18 minutes until thickened.",
+      "Stir in the torn basil off the heat, just before serving."
+    ],
+    "tags": []
   },
   {
-    "name": "Chicken Cacciatore",
+    "name": "Italian Risotto",
     "cuisine": "italian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
+    "description": "Risotto depends genuinely on real technique - the rice is toasted dry first, then broth is added gradually, one ladle at a time, stirred constantly, which is what releases the rice's natural starch and builds the real creamy texture.",
+    "ingredients_full": [
+      {
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": "standing in for arborio rice"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup, warm"
+      },
+      {
+        "ingredient": "Cheese, romano",
+        "qty": 20,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
     "ingredients": [
       {
-        "ingredient": "Chicken thigh (raw)",
+        "ingredient": "Basmati rice (dry)",
+        "qty": 55,
+        "note": "standing in for arborio rice"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Chicken broth",
+        "qty": 1.5,
+        "note": "cup, warm"
+      },
+      {
+        "ingredient": "Cheese, romano",
+        "qty": 20,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 15,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Cook the onion in half the butter, 3-4 minutes.",
+      "Add the rice and toast, stirring, 2 minutes, without letting it brown.",
+      "Add the warm broth one ladle at a time, stirring constantly and waiting for each addition to mostly absorb before adding the next, 18-20 minutes total.",
+      "Off the heat, stir in the remaining butter and the cheese for a final real creamy finish."
+    ],
+    "steps": [
+      "Cook the onion in half the butter, 3-4 minutes.",
+      "Add the rice and toast, stirring, 2 minutes, without letting it brown.",
+      "Add the warm broth one ladle at a time, stirring constantly and waiting for each addition to mostly absorb before adding the next, 18-20 minutes total.",
+      "Off the heat, stir in the remaining butter and the cheese for a final real creamy finish."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Italian Caprese Salad",
+    "cuisine": "italian",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "Caprese salad, real fresh mozzarella, tomato, and basil, real technique using the ripest tomatoes available, since there's nowhere for a mediocre one to hide.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, mozzarella, low moisture, part-skim",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 1,
+        "note": "tbsp, torn"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Cheese, mozzarella, low moisture, part-skim",
+        "qty": 60,
+        "note": "sliced"
+      },
+      {
+        "ingredient": "Fresh basil",
+        "qty": 1,
+        "note": "tbsp, torn"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Arrange the tomatoes and mozzarella together.",
+      "Scatter the basil over the top and drizzle with the olive oil."
+    ],
+    "steps": [
+      "Arrange the tomatoes and mozzarella together.",
+      "Scatter the basil over the top and drizzle with the olive oil."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Italian Minestrone",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Minestrone, a real hearty vegetable and bean soup, real technique varies genuinely by season and household, using whatever vegetables are freshest.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": "standing in for cannellini beans"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": "standing in for cannellini beans"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Barilla Classic Ditalini Pasta",
+        "qty": 30,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Simmer the carrot and green beans in 2.5 cups water 10-12 minutes.",
+      "Add the tomatoes and beans, and simmer 10 minutes.",
+      "Add the pasta and cook 8-10 minutes more until tender."
+    ],
+    "steps": [
+      "Simmer the carrot and green beans in 2.5 cups water 10-12 minutes.",
+      "Add the tomatoes and beans, and simmer 10 minutes.",
+      "Add the pasta and cook 8-10 minutes more until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Italian Grilled Fish",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Italy's extensive Mediterranean coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "sliced"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Sear chicken until browned.",
-      "Add pepper, onion, and tomatoes, simmer covered 25 min until cooked through."
+    "steps_detailed": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
+    "steps": [
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Italian Roasted Almonds",
+    "cuisine": "italian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Italy.",
     "ingredients_full": [
       {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": "bone-in if available"
-      },
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
       {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Italian Beef and Vegetable Stew",
+    "cuisine": "italian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Italian home cooking outside the specific named dishes.",
+    "ingredients_full": [
       {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Red bell pepper",
-        "qty": 60,
-        "note": "sliced"
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
         "ingredient": "Carrot",
-        "qty": 40,
-        "note": "sliced"
+        "qty": 60,
+        "note": ""
       },
       {
-        "ingredient": "Celery",
-        "qty": 30,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 300,
-        "note": ""
-      },
-      {
-        "ingredient": "Tomato paste",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dry white wine (cooking)",
-        "qty": 0.25,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Fresh rosemary",
-        "qty": 1,
-        "note": "tsp, chopped"
-      },
-      {
-        "ingredient": "Bay leaves",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Red pepper flakes",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0039,
-        "note": "chopped, for garnish"
-      }
-    ],
-    "steps_detailed": [
-      "Pat the chicken dry and season generously with salt and pepper.",
-      "Heat olive oil in a heavy pot or Dutch oven over medium-high heat. Sear the chicken skin-side down (if skin-on) until deeply golden, 4-5 minutes, then flip and sear the other side 3 minutes. Remove to a plate \u2014 it won't be fully cooked yet, that happens later.",
-      "Lower the heat to medium. Add the onion, both bell peppers, carrot, and celery to the same pot (the fond left from searing the chicken is flavor, don't wipe it out). Cook 6-8 minutes until the vegetables start to soften.",
-      "Add the garlic and cook 30 seconds until fragrant.",
-      "Stir in the tomato paste and cook 1 minute to deepen its flavor, then add the diced tomatoes, wine, broth, oregano, rosemary, bay leaf, and red pepper flakes.",
-      "Nestle the chicken back into the pot, spooning some sauce over the top. Bring to a simmer.",
-      "Cover and simmer on low for 30-35 minutes, until the chicken is fork-tender and fully cooked (165F). Uncover for the last 10 minutes if the sauce needs to thicken.",
-      "Remove the bay leaf, taste and adjust salt, and finish with a scattering of fresh parsley."
-    ],
-    "description": "Cacciatore means 'hunter-style' - a rustic braise with tomatoes, peppers, and herbs, found in countless regional variations across Italy."
-  },
-  {
-    "name": "Baked Ziti",
-    "cuisine": "italian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Elbow macaroni (dry)",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Ricotta cheese (part-skim)",
-        "qty": 0.33,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1,
-        "note": "oz"
-      }
-    ],
-    "steps": [
-      "Cook pasta per package directions.",
-      "Toss with ricotta and sauce, top with mozzarella.",
-      "Bake at 375F for 15-18 min."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Elbow macaroni (dry)",
         "qty": 100,
-        "note": "or ziti if available"
-      },
-      {
-        "ingredient": "Ricotta cheese (part-skim)",
-        "qty": 0.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.5,
         "note": ""
-      },
-      {
-        "ingredient": "Signature Select pasta sauce",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 2,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dried basil",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0039,
-        "note": "torn, for garnish"
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 375F. Bring a pot of salted water to a boil and cook the pasta 2 minutes short of package directions.",
-      "Mix the ricotta, egg, garlic, and dried basil together in a bowl until smooth.",
-      "Toss the drained pasta with the pasta sauce.",
-      "Layer half the sauced pasta in a baking dish, dollop half the ricotta mixture over it, then repeat with the remaining pasta and ricotta.",
-      "Top with mozzarella and parmesan.",
-      "Bake uncovered 18-20 minutes until bubbling and golden. Rest 5 minutes, then garnish with fresh basil."
-    ],
-    "description": "Baked ziti, layered pasta with ricotta and a simmered tomato sauce, an Italian-American red-sauce staple."
-  },
-  {
-    "name": "Italian Sausage and Peppers",
-    "cuisine": "italian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chorizo (fully cooked)",
-        "qty": 100,
-        "note": "sliced, or Italian sausage if available"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": "sliced"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 1,
-        "note": "slice, or roll if available"
-      }
-    ],
-    "steps": [
-      "Saute sausage, pepper, and onion together 10-12 min.",
-      "Serve on bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chorizo (fully cooked)",
-        "qty": 100,
-        "note": "sliced, or Italian sausage if available"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Red bell pepper",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Red pepper flakes",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 0.3333,
-        "note": "to finish"
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 1,
-        "note": "slice, or a roll if available"
-      }
-    ],
-    "steps_detailed": [
-      "Heat olive oil in a large skillet over medium-high heat. Add the sausage slices and cook 3-4 minutes until browned on both sides. Remove to a plate.",
-      "Add the peppers and onion to the same pan, letting the rendered fat coat them. Cook 8-10 minutes, stirring occasionally, until softened and starting to char at the edges.",
-      "Add the garlic, oregano, and red pepper flakes, cooking 30 seconds until fragrant.",
-      "Return the sausage to the pan and toss everything together, cooking another 2 minutes to heat through.",
-      "Finish with a drizzle of balsamic vinegar off heat \u2014 it adds a bright note that cuts through the richness. Serve over or alongside the bread."
-    ],
-    "description": "Sausage and peppers, a classic Italian-American combination, especially associated with street fairs and casual gatherings."
-  },
-  {
-    "name": "Caprese Chicken Jar",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, sliced"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0039,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer chicken, tomatoes, mozzarella, and basil in a jar."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, sliced"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 100,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Mozzarella cheese (part-skim)",
-        "qty": 1.5,
-        "note": "oz, cubed"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0078,
-        "note": "torn"
-      },
-      {
-        "ingredient": "Balsamic vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the balsamic vinegar and olive oil together.",
-      "Layer the tomatoes, mozzarella, and basil in the bottom of a jar, drizzling with a little of the dressing as you go.",
-      "Top with the sliced chicken and remaining dressing before sealing."
-    ],
-    "description": "A portable version of the classic caprese flavor trio."
-  },
-  {
-    "name": "Italian Tuna Pasta Salad",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Canned tuna (in water)",
-        "qty": 100,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Elbow macaroni (dry)",
-        "qty": 60,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 60,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Italian dressing",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss all ingredients together with dressing."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Canned tuna (in water)",
-        "qty": 120,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Elbow macaroni (dry)",
-        "qty": 75,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 80,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 20,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Kalamata olives",
-        "qty": 6,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Capers",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Italian dressing",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh parsley",
-        "qty": 0.0039,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Combine the pasta, tuna, tomatoes, red onion, olives, and capers in a bowl.",
-      "Toss with the Italian dressing until evenly coated.",
-      "Finish with fresh parsley. This keeps well chilled for 2-3 days \u2014 the flavor actually improves after a few hours."
-    ],
-    "description": "A simple pasta salad built on classic Italian flavors - real kalamata olives and capers giving it genuine brininess."
-  },
-  {
-    "name": "Italian White Bean Salad",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 60,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0039,
-        "note": ""
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss all ingredients together with oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 100,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 20,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0078,
-        "note": "torn"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "White wine vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the olive oil, vinegar, and garlic together for the dressing.",
-      "Combine the beans, tomatoes, onion, and basil in a bowl. Toss with the dressing.",
-      "Let sit 10 minutes if you have time \u2014 this softens the raw onion bite and lets the flavors meld. Top with parmesan before serving."
-    ],
-    "description": "A simple white bean salad, common across Italian home cooking."
-  },
-  {
-    "name": "Italian Baked Frittata Cups",
-    "cuisine": "italian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
         "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
-        "note": "tbsp"
+        "note": ""
       }
     ],
-    "steps": [
-      "Whisk eggs with pepper and parmesan.",
-      "Bake in a greased muffin cup at 375F for 15-18 min."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Eggs (large)",
-        "qty": 3,
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.0078,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "diced"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0039,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
+        "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Preheat the oven to 375F and grease a muffin tin.",
-      "Heat olive oil in a small skillet over medium heat. Saute the onion and bell pepper 4-5 minutes until softened.",
-      "Whisk the eggs with the milk, salt, and pepper.",
-      "Divide the sauteed vegetables among the muffin cups, then pour the egg mixture over, filling each about two-thirds full (they'll puff up).",
-      "Sprinkle parmesan over the tops.",
-      "Bake 15-18 minutes until puffed and set in the center. Let cool 2 minutes before removing \u2014 they'll deflate slightly, which is normal. Garnish with fresh basil."
-    ],
-    "description": "Frittata, an open-faced egg dish, a common Italian breakfast or light meal."
-  },
-  {
-    "name": "Roasted Garlic White Bean Dip",
-    "cuisine": "italian",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Blend beans, garlic, and oil with a splash of water until smooth."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, roasted"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Fresh rosemary",
-        "qty": 0.5,
-        "note": "tsp, chopped"
-      }
-    ],
-    "steps_detailed": [
-      "If roasting the garlic fresh, wrap unpeeled cloves in foil with a drizzle of oil and roast at 400F for 25-30 minutes until soft and caramelized, then squeeze out the cloves.",
-      "Combine the beans, roasted garlic, olive oil, and lemon juice in a food processor or blender.",
-      "Blend until smooth, adding a splash of water if it's too thick.",
-      "Stir in the rosemary, or blend it in for a smoother finish. Season with salt to taste."
-    ],
-    "description": "A simple white bean dip, roasted garlic giving it real depth."
+    "tags": []
   },
   {
-    "name": "Parmesan Roasted Chickpeas",
-    "cuisine": "italian",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Garbanzo beans",
-        "qty": 150,
-        "note": "drained, patted dry"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Toss chickpeas with oil and parmesan.",
-      "Roast at 400F for 20-25 min until crisp."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Garbanzo beans",
-        "qty": 150,
-        "note": "drained and patted very dry"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced, or garlic powder"
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 400F. Pat the chickpeas thoroughly dry with a towel \u2014 moisture is the enemy of crispiness here.",
-      "Toss with olive oil, garlic, and oregano.",
-      "Spread in a single layer on a baking sheet and roast 20-25 minutes, shaking the pan halfway, until deeply golden and crunchy.",
-      "Toss immediately with the parmesan while still hot, so it melts slightly and clings to the chickpeas."
-    ],
-    "description": "A simple roasted snack, real parmesan giving it genuine Italian character."
-  },
-  {
-    "name": "Tiramisu",
-    "cuisine": "italian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Greek yogurt (plain nonfat)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Unsweetened cocoa powder",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Swirl cocoa and honey into yogurt."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Ladyfingers",
-        "qty": 6,
-        "note": ""
-      },
-      {
-        "ingredient": "Cream cheese (reduced fat)",
-        "qty": 4,
-        "note": "tbsp, softened, standing in for mascarpone"
-      },
-      {
-        "ingredient": "Heavy cream",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": "yolk only"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Instant espresso powder",
-        "qty": 1.5,
-        "note": "tsp, dissolved in 0.4 cup hot water"
-      },
-      {
-        "ingredient": "Unsweetened cocoa powder",
-        "qty": 1,
-        "note": "tbsp, for dusting"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the egg yolk and sugar together until pale and slightly thickened.",
-      "Beat in the cream cheese and heavy cream until smooth and airy.",
-      "Quickly dip each ladyfinger in the cooled espresso - just a second or two per side, long enough to soak in some coffee without turning to mush.",
-      "Layer the dipped ladyfingers in a small dish or cup, spread half the mascarpone mixture over, then repeat with a second layer of dipped ladyfingers and the remaining mixture.",
-      "Chill at least 2 hours, ideally overnight, for the flavors to meld and the ladyfingers to soften properly.",
-      "Dust generously with cocoa powder just before serving."
-    ],
-    "description": "Tiramisu, meaning roughly 'pick me up' for its espresso and cocoa, is built on two things this recipe was missing entirely: ladyfingers actually soaked in coffee, and a real egg-enriched mascarpone mixture, not a yogurt substitute standing in for the whole structure. Real mascarpone isn't a distinct item here - cream cheese whipped with a little extra cream gets closer to its rich, faintly tangy texture than yogurt does, though it's still not quite the same thing."
-  },
-  {
-    "name": "Panna Cotta",
-    "cuisine": "italian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 2,
-    "ingredients": [
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Warm milk with honey and vanilla.",
-      "Chill in small cups at least 3 hours (add 1 tsp gelatin if you have it, for a firmer set)."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Heavy cream",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Unflavored gelatin",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Sprinkle the gelatin over 2 tablespoons of cold water in a small bowl and let it sit 5 minutes to bloom.",
-      "Warm the cream, milk, and sugar in a saucepan over medium-low heat, stirring until the sugar dissolves. Don't let it boil.",
-      "Remove from heat and whisk in the bloomed gelatin until fully dissolved, then stir in the vanilla.",
-      "Pour into small serving cups or ramekins and chill at least 3-4 hours, until fully set.",
-      "Run a thin knife around the edge if unmolding onto a plate, or serve directly in the cup."
-    ],
-    "description": "Panna cotta means 'cooked cream' - it's meant to be genuinely cream-forward, not a milk-based dessert with a token splash of cream added. This version corrects that balance to something much closer to the real proportions."
-  },
-  {
-    "name": "Marinara Sauce (Homemade)",
+    "name": "Italian Basil Pesto",
     "cuisine": "italian",
     "meal_type": "sauce",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 400,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0078,
-        "note": ""
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Saute garlic in oil, add tomatoes, simmer 15-20 min.",
-      "Stir in basil at the end."
-    ],
+    "description": "Real basil pesto, ground fresh with real pine nuts, garlic, and parmesan, real technique blending briefly to keep some texture rather than pureeing perfectly smooth.",
     "ingredients_full": [
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 400,
-        "note": ""
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "finely diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Tomato paste",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Red pepper flakes",
+        "ingredient": "Fresh basil",
         "qty": 0.25,
-        "note": "tsp"
+        "note": "cup, packed"
       },
       {
-        "ingredient": "Granulated sugar",
-        "qty": 0.1667,
-        "note": "to balance acidity"
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0118,
-        "note": "torn"
-      }
-    ],
-    "steps_detailed": [
-      "Heat olive oil in a saucepan over medium heat. Add the onion and cook 5-6 minutes until translucent.",
-      "Add the garlic and cook 30 seconds until fragrant, being careful not to let it brown or it turns bitter.",
-      "Stir in the tomato paste and cook 1 minute to deepen its flavor.",
-      "Add the diced tomatoes, oregano, red pepper flakes, and sugar. Bring to a simmer.",
-      "Simmer uncovered 20-25 minutes, stirring occasionally, until thickened to your liking \u2014 mash any large tomato chunks against the side of the pot as it cooks if you want a smoother sauce.",
-      "Stir in the fresh basil at the very end, off heat, so it stays bright rather than turning dark and bitter. Taste and adjust salt."
-    ],
-    "description": "A real, from-scratch marinara - simmered fresh rather than jarred, with the classic technique points that actually matter: not browning the garlic, and adding basil off the heat at the very end so it stays bright."
-  },
-  {
-    "name": "Italian Chopped Salad",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Salami (Genoa)",
+        "ingredient": "Nuts, pine nuts, dried",
         "qty": 1,
-        "note": "oz, diced"
-      },
-      {
-        "ingredient": "Provolone cheese",
-        "qty": 1,
-        "note": "oz, diced"
-      },
-      {
-        "ingredient": "Garbanzo beans",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Romaine lettuce",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Italian dressing",
-        "qty": 2,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss all ingredients together with dressing."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Salami (Genoa)",
-        "qty": 1.5,
-        "note": "oz, diced"
       },
       {
-        "ingredient": "Provolone cheese",
-        "qty": 1.5,
-        "note": "oz, diced"
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Garbanzo beans",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Romaine lettuce",
-        "qty": 120,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 60,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 20,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Kalamata olives",
-        "qty": 6,
-        "note": ""
-      },
-      {
-        "ingredient": "Italian dressing",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Combine the lettuce, tomatoes, red onion, and chickpeas in a large bowl.",
-      "Add the salami, provolone, and olives.",
-      "Toss everything with the Italian dressing right before serving so the lettuce doesn't wilt if you're making it ahead \u2014 keep the dressing separate until then."
-    ],
-    "description": "A chopped salad built on classic Italian deli ingredients - genoa salami, provolone, and chickpeas."
-  },
-  {
-    "name": "Minestrone Soup",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 80,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Elbow macaroni (dry)",
-        "qty": 30,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Simmer tomatoes, zucchini, and broth 10 min.",
-      "Add beans and pasta, simmer 8-10 min until pasta is tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Zucchini",
-        "qty": 100,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Carrot",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Celery",
-        "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Elbow macaroni (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 2,
-        "note": "cup"
+        "ingredient": "Cheese, romano",
+        "qty": 15,
+        "note": "grated"
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1,
+        "qty": 2,
         "note": "tbsp"
-      },
-      {
-        "ingredient": "Dried oregano",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Bay leaves",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Fresh basil",
-        "qty": 0.0078,
-        "note": "torn"
-      },
-      {
-        "ingredient": "Parmesan cheese (grated)",
-        "qty": 1,
-        "note": "tbsp, for serving"
       }
     ],
-    "steps_detailed": [
-      "Heat olive oil in a large pot over medium heat. Add the onion, carrot, and celery and cook 6-8 minutes until softened.",
-      "Add the garlic and cook 30 seconds until fragrant.",
-      "Add the tomatoes, broth, oregano, and bay leaf. Bring to a boil, then reduce to a simmer.",
-      "Add the zucchini and simmer 10 minutes.",
-      "Add the pasta and beans, and cook another 8-10 minutes until the pasta is tender.",
-      "Remove the bay leaf. Taste and adjust salt. Serve topped with fresh basil and parmesan."
-    ],
-    "description": "Minestrone, a vegetable soup with countless regional variations, one of Italy's most flexible, ingredient-driven dishes."
-  },
-  {
-    "name": "Muffuletta-Style Sandwich",
-    "cuisine": "italian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "cold-friendly"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Salami (Genoa)",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Provolone cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 6,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      }
-    ],
-    "steps": [
-      "Layer meats, cheese, and chopped olives between bread slices."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Salami (Genoa)",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Deli ham (sliced)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Provolone cheese",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 6,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Kalamata olives",
-        "qty": 6,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 0.3333,
-        "note": ""
-      },
-      {
-        "ingredient": "Dried oregano",
+        "ingredient": "Fresh basil",
         "qty": 0.25,
-        "note": "tsp"
+        "note": "cup, packed"
       },
       {
-        "ingredient": "Whole grain bread",
+        "ingredient": "Nuts, pine nuts, dried",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 0.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cheese, romano",
+        "qty": 15,
+        "note": "grated"
+      },
+      {
+        "ingredient": "Olive oil",
         "qty": 2,
-        "note": "slices, or a round roll if available"
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Combine both types of chopped olives with the garlic, olive oil, vinegar, and oregano \u2014 this olive salad is the signature muffuletta element, and it's better if it sits for at least 15 minutes to let the flavors meld.",
-      "Spread the olive salad generously on both slices of bread.",
-      "Layer the salami, ham, and provolone between the bread.",
-      "For the classic effect, wrap the sandwich tightly and let it sit for 10-15 minutes (or press it under a heavy pan) so the olive oil soaks slightly into the bread before serving."
+      "Blend everything together briefly, keeping some texture rather than pureeing perfectly smooth."
     ],
-    "description": "The muffuletta itself is actually a New Orleans Sicilian-immigrant creation, not a dish from Italy proper, though it draws directly on Sicilian deli ingredients and olive salad traditions."
+    "steps": [
+      "Blend everything together briefly, keeping some texture rather than pureeing perfectly smooth."
+    ],
+    "tags": []
   }
 ]
