@@ -1,1325 +1,542 @@
 [
   {
-    "name": "Romanian Mamaliga with Cheese",
+    "name": "Romanian Mici",
     "cuisine": "romanian",
-    "meal_type": "breakfast",
+    "meal_type": "dinner",
     "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cornmeal, whole-grain, yellow",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Simmer the cornmeal in the milk and 0.5 cup water, stirring constantly, 12-15 minutes until thick.",
-      "Stir in the cheese and butter."
-    ],
+    "description": "Mici (mititei), Romania's most beloved street food, is genuinely defined by two real details that distinguish it from other Balkan grilled meats like \u0107evapi - real baking soda mixed with sparkling water is worked into the meat for its distinctive fluffy, springy texture, and real seasoning leans on garlic, thyme, and coriander rather than paprika, which one native cook is explicit marks a Hungarian, not Romanian, version.",
     "ingredients_full": [
-      {
-        "ingredient": "Cornmeal, whole-grain, yellow",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 15,
-        "note": "to top"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the cornmeal in the milk and 0.6 cup water over medium-low heat, stirring constantly, 14-17 minutes until thick and smooth.",
-      "Stir in the cheese and butter until melted, and top with the sour cream.",
-      "Mamaliga, cornmeal porridge, is as central to Romanian cooking as bread, eaten at any meal in place of it."
-    ],
-    "description": "M\u0103m\u0103lig\u0103, a cornmeal porridge similar to polenta, is a Romanian staple, often paired with cheese and sour cream."
-  },
-  {
-    "name": "Romanian Eggs with Peppers and Onion",
-    "cuisine": "romanian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Soften the onion in the oil.",
-      "Scramble in the eggs and tomatoes, cooking gently until just set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion in the oil over medium heat, 5-6 minutes.",
-      "Scramble in the eggs, tomatoes, and pepper, cooking gently, stirring often, until just set."
-    ],
-    "description": "A simple egg, pepper, and onion breakfast."
-  },
-  {
-    "name": "Romanian Oat Porridge",
-    "cuisine": "romanian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Romanian Sarmale (Cabbage Rolls)",
-    "cuisine": "romanian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 120,
-        "note": "leaves separated"
-      },
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Blanch the cabbage leaves.",
-      "Roll with the rice and beef mixture inside.",
-      "Simmer in the tomatoes and water, covered, 40-45 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 150,
-        "note": "whole leaves if available, standing in for whole sour/pickled cabbage leaves"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the raw rice with the beef, pork, and onion.",
-      "Wrap portions of the filling in the sauerkraut leaves (or shredded sauerkraut pressed around the filling if whole leaves aren't available), rolling snugly.",
-      "Pack into a pot, pour the tomatoes and a splash of the sauerkraut's own brine over, cover, and simmer 45-50 minutes until the rice is fully cooked and the rolls are tender."
-    ],
-    "description": "Real Romanian sarma is built on sour, fermented cabbage leaves specifically, not fresh cabbage - that tang running through the whole dish, distinct from the sweeter, plainer flavor fresh cabbage gives, is what actually defines sarma against a generic stuffed-cabbage-roll recipe. A mix of beef and pork is also more traditional than beef alone."
-  },
-  {
-    "name": "Romanian Ciorba (Sour Beef Soup)",
-    "cuisine": "romanian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "diced"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the potato and 2 cups water, and simmer 30-35 minutes until tender.",
-      "Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
+        "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced, generous"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.75,
-        "note": "tbsp"
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.5,
+        "note": "tsp"
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 115,
-        "note": "diced"
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Alcoholic beverage, beer, light",
+        "qty": 1,
+        "note": "tbsp, standing in for sparkling water"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
+        "qty": 2,
+        "note": "minced, generous"
+      },
+      {
+        "ingredient": "Spices, thyme, dried",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, coriander seed",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Leavening agents, baking soda",
+        "qty": 0.125,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Alcoholic beverage, beer, light",
         "qty": 1,
-        "note": "minced"
+        "note": "tbsp, standing in for sparkling water"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion and garlic over medium-high heat, 9-11 minutes.",
-      "Add the potato and 2.25 cups water, and simmer 32-38 minutes until fully tender."
-    ],
-    "description": "Finish with the lime juice - ciorba is traditionally soured with bors, a fermented wheat bran liquid unique to Romanian cooking; lime carries the sour note here instead."
-  },
-  {
-    "name": "Romanian Mamaliga with Sour Cream",
-    "cuisine": "romanian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cornmeal, whole-grain, yellow",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.5,
-        "note": "cup"
-      }
+      "Mix the beef with the garlic, thyme, coriander, and salt, kneading by hand 5 minutes.",
+      "Dissolve the baking soda in the sparkling liquid and work it into the meat, kneading 3 more minutes until the mixture turns slightly foamy and tacky - this real step is what gives mici their springy texture.",
+      "Cover and refrigerate at least 2 hours, ideally overnight.",
+      "Shape into small skinless cylinders, about 3 inches long.",
+      "Grill over medium-high heat, turning, 8-10 minutes, until well charred and cooked through.",
+      "Serve with mustard, the real traditional accompaniment."
     ],
     "steps": [
-      "Simmer the cornmeal in the milk and a little water, stirring constantly, 12-15 minutes until thick.",
-      "Stir in the butter and top with the sour cream."
+      "Mix the beef with the garlic, thyme, coriander, and salt, kneading by hand 5 minutes.",
+      "Dissolve the baking soda in the sparkling liquid and work it into the meat, kneading 3 more minutes until the mixture turns slightly foamy and tacky - this real step is what gives mici their springy texture.",
+      "Cover and refrigerate at least 2 hours, ideally overnight.",
+      "Shape into small skinless cylinders, about 3 inches long.",
+      "Grill over medium-high heat, turning, 8-10 minutes, until well charred and cooked through.",
+      "Serve with mustard, the real traditional accompaniment."
     ],
+    "tags": []
+  },
+  {
+    "name": "Romanian Ciorb\u0103 de Burt\u0103",
+    "cuisine": "romanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Ciorb\u0103 de burt\u0103, a real sour soup enriched with egg yolks and sour cream, is Romania's legendary hangover cure, real technique tempers the egg yolks with a little hot broth first before stirring them in, so they don't scramble.",
     "ingredients_full": [
       {
-        "ingredient": "Cornmeal, whole-grain, yellow",
-        "qty": 55,
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed, standing in for tripe"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "yolk only"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed, standing in for tripe"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.6,
-        "note": "cup"
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp"
       },
       {
-        "ingredient": "Cheese, cheddar",
-        "qty": 25,
-        "note": "grated"
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "yolk only"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the cornmeal in the milk and a little water over medium-low heat, stirring constantly, 14-17 minutes until thick and smooth.",
-      "Stir in the butter and cheese until melted, and top generously with the sour cream."
+      "Simmer the beef with the carrot in 2.5 cups water 40-45 minutes until tender.",
+      "Add the garlic and simmer 5 minutes more.",
+      "Whisk the sour cream and egg yolk together, then temper by whisking in a ladle of the hot broth.",
+      "Stir this mixture back into the pot off the heat, so the egg doesn't scramble.",
+      "Stir in the vinegar for real sourness just before serving."
     ],
-    "description": "M\u0103m\u0103lig\u0103 with sour cream, a simple, classic Romanian pairing."
+    "steps": [
+      "Simmer the beef with the carrot in 2.5 cups water 40-45 minutes until tender.",
+      "Add the garlic and simmer 5 minutes more.",
+      "Whisk the sour cream and egg yolk together, then temper by whisking in a ladle of the hot broth.",
+      "Stir this mixture back into the pot off the heat, so the egg doesn't scramble.",
+      "Stir in the vinegar for real sourness just before serving."
+    ],
+    "tags": []
   },
   {
-    "name": "Romanian Chickpea Soup",
+    "name": "Romanian Sarmale",
     "cuisine": "romanian",
-    "meal_type": "lunch",
+    "meal_type": "dinner",
     "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "Sarmale, cabbage rolls stuffed with rice and meat, are a genuine Romanian staple shared with the wider Balkans, real technique using well-softened, pliable cabbage leaves so they roll without tearing.",
+    "ingredients_full": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+        "ingredient": "Green cabbage",
+        "qty": 250,
+        "note": "leaves separated"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
         "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Simmer the chickpeas with the onion, tomatoes, and caraway for 15-18 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
+        "ingredient": "White rice (dry)",
         "qty": 40,
-        "note": "chopped"
+        "note": ""
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the chickpeas, onion, garlic, tomatoes, and caraway together over medium-low heat, 16-20 minutes, mashing some of the chickpeas to thicken."
-    ],
-    "description": "A simple chickpea soup."
-  },
-  {
-    "name": "Romanian Mici (Grilled Meat Rolls)",
-    "cuisine": "romanian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": "formed into small rolls"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 2,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Mix the beef with the garlic, caraway, and pepper, and shape into small finger-shaped rolls.",
-      "Grill or pan-fry, 8-10 minutes, turning, until cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 210,
-        "note": "formed into small rolls"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 2.5,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the beef with the garlic, caraway, pepper, and baking powder thoroughly, and shape into small finger-shaped rolls.",
-      "Grill or pan-fry over medium-high heat, 9-11 minutes, turning, until well browned and cooked through."
-    ],
-    "description": "Mici, garlicky grilled meat rolls, are the centerpiece of Romanian outdoor cookouts, traditionally a mix of beef, pork, and lamb."
-  },
-  {
-    "name": "Romanian Pork and Sauerkraut",
-    "cuisine": "romanian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the pork with the caraway and pepper.",
-      "Add the sauerkraut and a splash of water, and simmer 25-28 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 115,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
+        "qty": 40,
+        "note": ""
       }
     ],
-    "steps_detailed": [
-      "Brown the pork with the onion, caraway, and pepper over medium-high heat, 9-11 minutes.",
-      "Add the sauerkraut and a generous splash of water, and simmer 26-30 minutes until the pork is fully tender.",
-      "Varza calita, pork simmered with sauerkraut, is a comforting Romanian winter staple."
-    ],
-    "description": "Pork and sauerkraut, a classic Romanian and wider Central European pairing."
-  },
-  {
-    "name": "Romanian Beef and Cabbage Stew",
-    "cuisine": "romanian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
+        "ingredient": "Green cabbage",
+        "qty": 250,
+        "note": "leaves separated"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Cabbage, raw",
-        "qty": 110,
-        "note": "chopped"
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
         "note": ""
       }
     ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the cabbage and tomatoes, and simmer 30-35 minutes until tender."
+    "steps_detailed": [
+      "Blanch the cabbage leaves 3-4 minutes until fully pliable.",
+      "Mix the raw rice with the beef and onion.",
+      "Roll a spoonful of the filling tightly into each cabbage leaf.",
+      "Arrange in a pot, cover with the tomatoes and enough water to just cover, and simmer 40-45 minutes until the rice is tender."
     ],
+    "steps": [
+      "Blanch the cabbage leaves 3-4 minutes until fully pliable.",
+      "Mix the raw rice with the beef and onion.",
+      "Roll a spoonful of the filling tightly into each cabbage leaf.",
+      "Arrange in a pot, cover with the tomatoes and enough water to just cover, and simmer 40-45 minutes until the rice is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Romanian Papana\u0219i",
+    "cuisine": "romanian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Papana\u0219i, fried cheese donuts topped with sour cream and jam, are a beloved Romanian dessert, real technique frying gently so the center cooks through without the outside burning.",
     "ingredients_full": [
       {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
+        "ingredient": "Cottage cheese 2%",
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Cabbage, raw",
-        "qty": 125,
-        "note": "chopped"
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp, for topping"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Whole Berry Cranberry Sauce, Whole Berry Cranberry",
+        "qty": 2,
+        "note": "tbsp, for topping"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "tbsp, for frying"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp, for topping"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Whole Berry Cranberry Sauce, Whole Berry Cranberry",
+        "qty": 2,
+        "note": "tbsp, for topping"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the cottage cheese, flour, and egg into a soft dough.",
+      "Shape into small rounds with a hole in the center, donut-style.",
+      "Fry gently, 3-4 minutes per side, until golden and cooked through in the center.",
+      "Top with the sour cream and cranberry sauce before serving."
+    ],
+    "steps": [
+      "Mix the cottage cheese, flour, and egg into a soft dough.",
+      "Shape into small rounds with a hole in the center, donut-style.",
+      "Fry gently, 3-4 minutes per side, until golden and cooked through in the center.",
+      "Top with the sour cream and cranberry sauce before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Romanian Grilled Fish",
+    "cuisine": "romanian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and dill, reflecting Romania's Danube River and Black Sea fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
         "note": ""
       },
       {
         "ingredient": "Garlic clove",
-        "qty": 1,
+        "qty": 1.5,
         "note": "minced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Fresh dill",
+        "qty": 1,
+        "note": "tsp, chopped"
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion and garlic over medium-high heat, 9-11 minutes.",
-      "Add the cabbage and tomatoes, and simmer 32-38 minutes until fully tender."
+      "Rub the fish with the garlic and dill, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
-    "description": "A simple beef and cabbage stew."
+    "steps": [
+      "Rub the fish with the garlic and dill, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
   },
   {
-    "name": "Romanian Cheese and Potato Bake",
+    "name": "Romanian Roasted Walnuts",
+    "cuisine": "romanian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted walnut snack, common across Romania.",
+    "ingredients_full": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Romanian Beef and Vegetable Stew",
     "cuisine": "romanian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Layer the potato with the sour cream in a small dish and bake at 375F, covered, for 25 minutes.",
-      "Uncover, top with the cheese, and bake 10-12 more minutes until golden."
-    ],
+    "description": "A simple, hearty beef and vegetable stew, common Romanian home cooking outside the specific named dishes.",
     "ingredients_full": [
       {
-        "ingredient": "Cheese, cheddar",
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
         "qty": 60,
-        "note": "grated"
+        "note": ""
       },
       {
         "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
-      "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake."
-  },
-  {
-    "name": "Romanian Mamaliga Fries",
-    "cuisine": "romanian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cornmeal, whole-grain, yellow",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 25,
-        "note": "grated"
-      }
-    ],
-    "steps": [
-      "Simmer the cornmeal in 1 cup water, stirring constantly, 12-15 minutes until very thick, then spread flat and chill until firm.",
-      "Cut into sticks and fry in the oil until golden, and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cornmeal, whole-grain, yellow",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 30,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the cornmeal in 1.1 cups water over medium-low heat, stirring constantly, 14-17 minutes until very thick, then spread flat in a dish and chill at least 1 hour until firm.",
-      "Cut into sticks, season with pepper, and fry in the oil, 2-3 minutes per side, until crisp and golden, topping with the cheese while still hot."
-    ],
-    "description": "Fried m\u0103m\u0103lig\u0103, a simple way to use up leftover cornmeal porridge."
-  },
-  {
-    "name": "Romanian Cheese and Dill Snack",
-    "cuisine": "romanian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Arrange the cheese with the dill and a light spread of butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 45,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the cheese with the dill, butter, and a little black pepper - simple and common alongside bread or mamaliga."
-    ],
-    "description": "A simple cheese and dill snack."
-  },
-  {
-    "name": "Romanian Caraway Crackers",
-    "cuisine": "romanian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.75,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": "cold"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Rub the butter into the flour and caraway.",
-      "Add the milk to form a firm dough, roll thin, cut into shapes, and bake at 375F for 12-15 minutes until crisp."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": "cold"
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Rub the butter into the flour, caraway, and pepper until crumbly.",
-      "Add the milk to form a firm dough, roll thin, cut into small shapes, and bake at 375F (190C) for 13-16 minutes until crisp and lightly golden."
-    ],
-    "description": "A simple caraway cracker."
-  },
-  {
-    "name": "Romanian Chickpea and Onion Snack",
-    "cuisine": "romanian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the chickpeas with the onion, oil, and lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 135,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the onion, oil, lime juice, and pepper.",
-      "Let sit 10 minutes so the flavors meld before serving."
-    ],
-    "description": "A simple chickpea and onion snack."
-  },
-  {
-    "name": "Romanian Papanasi-Style Fried Dough",
-    "cuisine": "romanian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) 4% Cottage Cheese",
         "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "All-purpose flour",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 0.75,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Mix the cheese, egg, and flour into a dough.",
-      "Shape into rounds and fry, 3-4 minutes per side.",
-      "Top with honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) 4% Cottage Cheese",
-        "qty": 90,
-        "note": "standing in for br\u00e2nz\u0103 de vaci farmer's cheese"
-      },
-      {
-        "ingredient": "All-purpose flour",
+        "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Sour cream, light",
-        "qty": 30,
-        "note": "to top"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp, standing in for fruit preserves"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 2,
-        "note": "tbsp, for frying"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the cottage cheese with the egg and flour into a soft, slightly sticky dough - papana\u0219i are fundamentally a cheese dough, not a plain fried dough, and the cheese needs to actually be worked into the dough itself, not just served alongside.",
-      "Top with the sour cream and honey."
-    ],
-    "description": "Shape into small rounds with a hole in the center (traditionally a bigger central ball plus small rounds around it) and fry in the oil over medium heat, 3-4 minutes per side, until deeply golden and cooked through in the center. Real papana\u0219i are traditionally topped with fruit preserves (usually blueberry or sour cherry) alongside the sour cream - honey stands in here since a matching jam isn't a distinct database item, but the cheese-based dough itself is the part that actually defines the dish, and that's now correctly represented."
-  },
-  {
-    "name": "Romanian Rice Pudding",
-    "cuisine": "romanian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Yellow onion",
         "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Romanian Honey Cake",
-    "cuisine": "romanian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
     "steps": [
-      "Cream the butter and honey, beat in the egg, then fold in the flour.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter and honey together until light, then beat in the egg.",
-      "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ],
-    "description": "A simple honey cake."
-  },
-  {
-    "name": "Romanian Sour Cream Dill Sauce",
-    "cuisine": "romanian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Mix the sour cream, dill, and garlic together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the sour cream, dill, garlic, and pepper together - good over mamaliga, potatoes, or grilled meats."
-    ],
-    "description": "A simple sour cream and dill sauce."
+    "tags": []
   },
   {
     "name": "Romanian Garlic Sauce (Mujdei)",
     "cuisine": "romanian",
     "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "course": "complete",
+    "description": "Mujdei, a simple, pungent garlic sauce, is a beloved Romanian condiment, real technique crushing the garlic with salt first into a smooth paste.",
+    "ingredients_full": [
       {
         "ingredient": "Garlic clove",
         "qty": 2,
-        "note": "minced"
+        "note": "crushed with salt into a paste"
       },
       {
-        "ingredient": "Vegetable oil",
+        "ingredient": "Olive oil",
         "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
+        "ingredient": "Salt, table",
+        "qty": 0.25,
+        "note": "tsp"
       }
     ],
-    "steps": [
-      "Mash the garlic into a paste and whisk with the oil and lime juice."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
         "ingredient": "Garlic clove",
-        "qty": 2.5,
-        "note": "minced"
+        "qty": 2,
+        "note": "crushed with salt into a paste"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
+        "ingredient": "Olive oil",
+        "qty": 1.5,
         "note": "tbsp"
       },
       {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
+        "ingredient": "Salt, table",
+        "qty": 0.25,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Mash the garlic into a smooth paste and whisk with the oil, lime juice, and pepper.",
-      "Mujdei, an intensely garlicky sauce, is served with roasted meats, fried mamaliga, or grilled fish throughout Romania."
+      "Crush the garlic with the salt into a smooth paste.",
+      "Whisk in the olive oil and a splash of water until well combined."
     ],
-    "description": "Mujdei, a strong garlic sauce, a genuine Romanian condiment, especially alongside grilled meats."
+    "steps": [
+      "Crush the garlic with the salt into a smooth paste.",
+      "Whisk in the olive oil and a splash of water until well combined."
+    ],
+    "tags": []
   }
 ]
