@@ -208,12 +208,12 @@
     "cuisine": "albanian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "F\u00ebrges\u00eb, peppers and tomatoes cooked down with real cottage cheese, is a beloved Albanian comfort dish, real technique letting the peppers soften completely before the cheese goes in so it doesn't overcook and turn rubbery.",
+    "description": "F\u00ebrges\u00eb, roasted peppers and tomatoes combined with real cottage cheese, is a beloved Albanian comfort dish - real technique roasts the peppers until genuinely charred and blistered first, not just softened in a pan, which is what builds the dish's real smoky depth; the summer version uses cheese alone, while a winter version traditionally adds real meat, often liver.",
     "ingredients_full": [
       {
         "ingredient": "Bell pepper",
         "qty": 150,
-        "note": ""
+        "note": "roasted until charred"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -240,7 +240,7 @@
       {
         "ingredient": "Bell pepper",
         "qty": 150,
-        "note": ""
+        "note": "roasted until charred"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
@@ -264,14 +264,16 @@
       }
     ],
     "steps_detailed": [
-      "Cook the bell pepper and garlic in the olive oil, 8-10 minutes, until fully softened.",
-      "Add the tomatoes and simmer 10-12 minutes until thickened.",
-      "Remove from heat and stir in the cottage cheese - real technique adds this off the heat so it doesn't overcook."
+      "Roast the bell pepper at 450F (230C) for 20-25 minutes, turning once, until the skin is genuinely charred and blistered - this real roasting, not just softening in a pan, is what builds f\u00ebrges\u00eb's smoky depth.",
+      "Let cool slightly, peel off the charred skin, and chop.",
+      "Cook the garlic in the olive oil, 30 seconds, then add the roasted pepper and tomatoes, and simmer 10-12 minutes until thickened.",
+      "Remove from heat and stir in the cottage cheese, so it doesn't overcook and turn rubbery."
     ],
     "steps": [
-      "Cook the bell pepper and garlic in the olive oil, 8-10 minutes, until fully softened.",
-      "Add the tomatoes and simmer 10-12 minutes until thickened.",
-      "Remove from heat and stir in the cottage cheese - real technique adds this off the heat so it doesn't overcook."
+      "Roast the bell pepper at 450F (230C) for 20-25 minutes, turning once, until the skin is genuinely charred and blistered - this real roasting, not just softening in a pan, is what builds f\u00ebrges\u00eb's smoky depth.",
+      "Let cool slightly, peel off the charred skin, and chop.",
+      "Cook the garlic in the olive oil, 30 seconds, then add the roasted pepper and tomatoes, and simmer 10-12 minutes until thickened.",
+      "Remove from heat and stir in the cottage cheese, so it doesn't overcook and turn rubbery."
     ],
     "tags": []
   },
@@ -352,7 +354,7 @@
     "cuisine": "albanian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Qofte, grilled meat patties seasoned with real cumin and mint, is a beloved Albanian street food, real technique letting the mixture rest before shaping so the flavors meld.",
+    "description": "Qofte, grilled meat patties, is a beloved Albanian street food, real technique grates the onion on a box grater and includes its released juices in the mix, then rests the whole mixture in the fridge at least an hour, not just a quick 15 minutes, so the flavors genuinely meld before shaping.",
     "ingredients_full": [
       {
         "ingredient": "Ground beef 90/10",
@@ -362,7 +364,7 @@
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "grated"
+        "note": "grated, juice included"
       },
       {
         "ingredient": "Ground cumin",
@@ -389,7 +391,7 @@
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "grated"
+        "note": "grated, juice included"
       },
       {
         "ingredient": "Ground cumin",
@@ -408,12 +410,14 @@
       }
     ],
     "steps_detailed": [
-      "Mix the beef with the onion, cumin, mint, and garlic, and let rest 15 minutes.",
+      "Mix the beef with the grated onion (including its juice), cumin, mint, and garlic, folding gently just until combined - real technique avoids overmixing, which toughens the meat.",
+      "Cover and refrigerate at least 1 hour, so the flavors genuinely meld.",
       "Shape into small oval patties.",
       "Grill or pan-sear, 4-5 minutes per side, until well charred and cooked through."
     ],
     "steps": [
-      "Mix the beef with the onion, cumin, mint, and garlic, and let rest 15 minutes.",
+      "Mix the beef with the grated onion (including its juice), cumin, mint, and garlic, folding gently just until combined - real technique avoids overmixing, which toughens the meat.",
+      "Cover and refrigerate at least 1 hour, so the flavors genuinely meld.",
       "Shape into small oval patties.",
       "Grill or pan-sear, 4-5 minutes per side, until well charred and cooked through."
     ],

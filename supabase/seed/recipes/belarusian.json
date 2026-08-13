@@ -68,12 +68,22 @@
     "cuisine": "belarusian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Machanka, a pork stew served with draniki, is genuinely thickened with real sour cream whisked together with flour, not cream alone - real technique dissolves the flour into the sour cream first before adding it to the pot, which is what keeps the sauce smooth rather than lumpy.",
+    "description": "Machanka, a pork stew served with draniki, is genuinely built on multiple pork products together, not one meat alone - real versions combine pork shoulder with real sausage and often bacon or ham, which was missing here before. The sauce is thickened with real sour cream whisked together with flour, dissolved together first so it doesn't turn lumpy.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
-        "qty": 200,
+        "qty": 150,
         "note": "cubed, standing in for pork shoulder"
+      },
+      {
+        "ingredient": "Boerewors",
+        "qty": 80,
+        "note": "sliced, standing in for real sausage"
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 30,
+        "note": "chopped"
       },
       {
         "ingredient": "Yellow onion",
@@ -104,8 +114,18 @@
     "ingredients": [
       {
         "ingredient": "Flank/sirloin steak",
-        "qty": 200,
+        "qty": 150,
         "note": "cubed, standing in for pork shoulder"
+      },
+      {
+        "ingredient": "Boerewors",
+        "qty": 80,
+        "note": "sliced, standing in for real sausage"
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 30,
+        "note": "chopped"
       },
       {
         "ingredient": "Yellow onion",
@@ -134,13 +154,13 @@
       }
     ],
     "steps_detailed": [
-      "Brown the beef with the onion, 8-9 minutes.",
+      "Brown the beef, sausage, and bacon together with the onion, 8-9 minutes.",
       "Add the bay leaves and broth, and simmer 30-35 minutes until tender.",
       "Whisk the flour into the sour cream until smooth, then stir this into the pot - real technique dissolves them together first so the sauce doesn't turn lumpy.",
       "Simmer 5-8 minutes more until thickened."
     ],
     "steps": [
-      "Brown the beef with the onion, 8-9 minutes.",
+      "Brown the beef, sausage, and bacon together with the onion, 8-9 minutes.",
       "Add the bay leaves and broth, and simmer 30-35 minutes until tender.",
       "Whisk the flour into the sour cream until smooth, then stir this into the pot - real technique dissolves them together first so the sauce doesn't turn lumpy.",
       "Simmer 5-8 minutes more until thickened."
