@@ -1,13 +1,52 @@
 [
   {
-    "name": "Slovenian Potica (Rolled Walnut Pastry)",
+    "name": "Slovenian Potica",
     "cuisine": "slovenian",
-    "meal_type": "breakfast",
+    "meal_type": "snack",
     "course": "complete",
-    "tags": [
-      "vegetarian"
+    "description": "Potica, Slovenia's cherished walnut roll, is a genuine symbol of family tradition, made for Christmas, Easter, and weddings for generations - real technique stretches the yeasted dough paper-thin, rolls it tightly while stretching slightly with each turn, and pokes it all over with a skewer both before and after the egg wash, which is what lets steam escape properly during baking rather than tearing the layers apart.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "yolk only"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 60,
+        "note": "finely ground"
+      },
+      {
+        "ingredient": "Honey",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Heavy cream",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Ground cinnamon",
+        "qty": 0.25,
+        "note": "tsp"
+      }
     ],
-    "base_servings": 1,
     "ingredients": [
       {
         "ingredient": "All-purpose flour",
@@ -15,1288 +54,401 @@
         "note": ""
       },
       {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 40,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Make a simple dough from the flour, butter, and water, roll thin.",
-      "Spread with the walnuts and honey, roll up, and bake at 350F for 25-30 minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 50,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
         "ingredient": "Eggs (large)",
         "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Make a soft, enriched dough from the flour, butter, egg, and a little water, and roll out thin.",
-      "Mix the walnuts with the honey and spread over the dough, roll up tightly, and bake at 350F (175C) for 28-32 minutes until deeply golden."
-    ],
-    "description": "Potica, a rolled nut pastry, is Slovenia's most iconic baked good, traditionally made for every major holiday with dozens of regional filling variations."
-  },
-  {
-    "name": "Slovenian Eggs with Dill",
-    "cuisine": "slovenian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+        "note": "yolk only"
+      },
       {
-        "ingredient": "Eggs (large)",
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.25,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 20,
+        "note": "melted"
+      },
+      {
+        "ingredient": "Walnuts",
+        "qty": 60,
+        "note": "finely ground"
+      },
+      {
+        "ingredient": "Honey",
         "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Scramble the eggs gently in the butter.",
-      "Fold in the dill just before they finish setting."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Scramble the eggs gently in the butter over low heat, stirring often for soft curds.",
-      "Fold in the dill and pepper just before they finish setting."
-    ],
-    "description": "A simple, everyday egg breakfast."
-  },
-  {
-    "name": "Slovenian Oat Porridge",
-    "cuisine": "slovenian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
       },
       {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
+        "ingredient": "Heavy cream",
+        "qty": 2,
         "note": "tbsp"
       },
       {
         "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
+        "qty": 0.25,
         "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
+      "Warm the milk and melted butter together until just warm, then mix with the flour and egg yolk into a soft, elastic dough. Let rise 60-90 minutes until doubled.",
+      "Warm the honey and cream together, then mix into the ground walnuts with the cinnamon until spreadable.",
+      "Roll the dough out paper-thin on a floured surface.",
+      "Spread the walnut filling evenly over the dough, then roll up tightly from one end, stretching the dough gently as you go to keep the layers thin.",
+      "Place in a buttered loaf pan and poke all over with a skewer.",
+      "Let rise 30-40 minutes more, then brush with a little beaten egg and poke the holes again, all the way to the bottom.",
+      "Bake at 350F (175C) for 35-40 minutes until deeply golden."
     ],
-    "description": "A simple breakfast porridge."
+    "steps": [
+      "Warm the milk and melted butter together until just warm, then mix with the flour and egg yolk into a soft, elastic dough. Let rise 60-90 minutes until doubled.",
+      "Warm the honey and cream together, then mix into the ground walnuts with the cinnamon until spreadable.",
+      "Roll the dough out paper-thin on a floured surface.",
+      "Spread the walnut filling evenly over the dough, then roll up tightly from one end, stretching the dough gently as you go to keep the layers thin.",
+      "Place in a buttered loaf pan and poke all over with a skewer.",
+      "Let rise 30-40 minutes more, then brush with a little beaten egg and poke the holes again, all the way to the bottom.",
+      "Bake at 350F (175C) for 35-40 minutes until deeply golden."
+    ],
+    "tags": []
   },
   {
     "name": "Slovenian Jota (Bean and Sauerkraut Stew)",
     "cuisine": "slovenian",
-    "meal_type": "lunch",
+    "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "Jota, a real hearty bean and sauerkraut stew with smoked meat, is a genuine Slovenian winter staple, real technique simmering long enough for the sauerkraut's sharpness to mellow and meld with the beans.",
+    "ingredients_full": [
       {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 130,
-        "note": ""
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": "standing in for beans"
       },
       {
         "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 100,
+        "qty": 150,
         "note": ""
       },
       {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 120,
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+        "qty": 150,
+        "note": "standing in for beans"
+      },
+      {
+        "ingredient": "Sauerkraut, canned, solids and liquids",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 50,
+        "note": "chopped"
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      }
+    ],
+    "steps_detailed": [
+      "Cook the bacon and garlic together, 3-4 minutes.",
+      "Add the beans, sauerkraut, potato, and 2 cups water, and simmer 30-35 minutes until the flavors meld and the sauerkraut mellows."
+    ],
+    "steps": [
+      "Cook the bacon and garlic together, 3-4 minutes.",
+      "Add the beans, sauerkraut, potato, and 2 cups water, and simmer 30-35 minutes until the flavors meld and the sauerkraut mellows."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Slovenian \u0160truklji",
+    "cuisine": "slovenian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "\u0160truklji, rolled dumplings filled with real cottage cheese, are a genuine Slovenian staple, real technique rolls the filled dough into a log, wraps it in cloth, and steams it before slicing.",
+    "ingredients_full": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted, for serving"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 55,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "Cottage cheese 2%",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Butter, salted",
+        "qty": 10,
+        "note": "melted, for serving"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the flour and egg with a little water into a soft dough. Rest 15 minutes.",
+      "Mix the cottage cheese with the sour cream for the filling.",
+      "Roll the dough thin, spread the filling evenly, and roll up into a log.",
+      "Wrap tightly in cloth and steam over simmering water 25-30 minutes.",
+      "Slice and drizzle with the melted butter before serving."
+    ],
+    "steps": [
+      "Mix the flour and egg with a little water into a soft dough. Rest 15 minutes.",
+      "Mix the cottage cheese with the sour cream for the filling.",
+      "Roll the dough thin, spread the filling evenly, and roll up into a log.",
+      "Wrap tightly in cloth and steam over simmering water 25-30 minutes.",
+      "Slice and drizzle with the melted butter before serving."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Slovenian Cucumber Salad",
+    "cuisine": "slovenian",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "A simple vinegar-dressed cucumber salad, a common Slovenian side, real technique salting the cucumber first to draw out excess water.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 150,
+        "note": "thinly sliced"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Granulated sugar",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar, oil, and sugar together, and toss with the cucumber."
+    ],
+    "steps": [
+      "Salt the cucumber slices and let sit 10 minutes, then pat dry.",
+      "Whisk the vinegar, oil, and sugar together, and toss with the cucumber."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Slovenian Roasted Walnuts",
+    "cuisine": "slovenian",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted walnut snack, walnuts being central to Slovenian baking tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Walnuts",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Slovenian Beef and Vegetable Stew",
+    "cuisine": "slovenian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Slovenian home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
         "ingredient": "Yukon gold potato",
         "qty": 80,
-        "note": "chunked"
-      }
-    ],
-    "steps": [
-      "Brown the pork.",
-      "Add the chickpeas, sauerkraut, potato, and 1.5 cups water, and simmer 25-28 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 145,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 115,
-        "note": ""
-      },
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 135,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 90,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 0.75,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Brown the pork with the garlic and paprika over medium-high heat, 8-10 minutes.",
-      "Add the chickpeas, sauerkraut, potato, and 1.75 cups water, and simmer 27-32 minutes until fully tender.",
-      "Jota, a thick bean and sauerkraut stew, is a hearty winter staple particularly associated with Slovenia's coastal and karst regions."
-    ],
-    "description": "Jota, beans and sauerkraut simmered together, a hearty stew from Slovenia's coastal and karst regions."
-  },
-  {
-    "name": "Slovenian Struklji-Style Cheese Rolls",
-    "cuisine": "slovenian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated, standing in for local curd cheese"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 30,
-        "note": "to top"
-      }
-    ],
-    "steps": [
-      "Make a simple dough from the flour and egg, roll thin.",
-      "Fill with the cheese, roll up, and simmer in water 15-18 minutes.",
-      "Slice and top with the sour cream."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated, standing in for local curd cheese"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 40,
-        "note": "to top"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Make a simple, smooth dough from the flour and egg, adding a little water as needed, and roll thin.",
-      "Fill with the cheese, roll up tightly like a jelly roll, wrap, and simmer in gently boiling water 16-20 minutes until cooked through.",
-      "Slice and top with the melted butter and sour cream - struklji, rolled dough filled with cheese, come in savory and sweet versions across Slovenia."
-    ],
-    "description": "\u0160truklji, rolled dough filled with cheese, one of Slovenia's most iconic and versatile dishes, made in both savory and sweet forms."
-  },
-  {
-    "name": "Slovenian Lentil Soup",
-    "cuisine": "slovenian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Lentils, raw",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
+        "note": "cubed"
       },
       {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Soften the onion and garlic.",
-      "Add the lentils, tomatoes, and 2 cups water, and simmer 25-30 minutes until soft."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils, raw",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion and garlic in the oil, 5-6 minutes.",
-      "Add the lentils, tomatoes, and 2.25 cups water, and simmer 28-32 minutes until soft and thickened."
-    ],
-    "description": "A simple, everyday lentil soup."
-  },
-  {
-    "name": "Slovenian Beef and Potato Stew",
-    "cuisine": "slovenian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 120,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion.",
-      "Add the potato and 1.5 cups water, and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 135,
-        "note": "chunked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, and pepper over medium-high heat, 9-11 minutes."
-    ],
-    "description": "Add the potato and 1.75 cups water, and simmer 32-38 minutes until fully tender - a simple, everyday stew found across Slovenian kitchens."
-  },
-  {
-    "name": "Slovenian Goulash",
-    "cuisine": "slovenian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.5,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.375,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion, paprika, and caraway.",
-      "Add 1.5 cups water and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, paprika, and caraway over medium-high heat, 9-11 minutes.",
-      "Add 1.75 cups water and simmer 32-38 minutes until fully tender - goulash reached Slovenia through its long shared history with Austria and Hungary."
-    ],
-    "description": "Goulash, adopted from neighboring Hungary, has its own Slovenian regional character."
-  },
-  {
-    "name": "Slovenian Pork and Sauerkraut",
-    "cuisine": "slovenian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Brown the pork with the caraway and pepper.",
-      "Add the sauerkraut and a splash of water, and simmer 25-28 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 115,
-        "note": ""
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the pork with the onion, caraway, and pepper over medium-high heat, 9-11 minutes.",
-      "Add the sauerkraut and a generous splash of water, and simmer 26-30 minutes until fully tender."
-    ],
-    "description": "Pork and sauerkraut, a classic Central European pairing found across Slovenian cooking."
-  },
-  {
-    "name": "Slovenian Cheese and Potato Bake",
-    "cuisine": "slovenian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 50,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 170,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
         "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
       }
     ],
-    "steps": [
-      "Layer the potato with the sour cream in a small dish and bake at 375F, covered, for 25 minutes.",
-      "Uncover, top with the cheese, and bake 10-12 more minutes until golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 60,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 190,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Sour cream, light",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Layer the potato with the sour cream, butter, and pepper in a small baking dish, cover, and bake at 375F (190C) for 28-30 minutes until nearly tender.",
-      "Uncover, top with the cheese, and bake 12-14 more minutes until golden and bubbling."
-    ],
-    "description": "A simple cheese and potato bake, common Balkan comfort food."
-  },
-  {
-    "name": "Slovenian Baked Fish with Dill",
-    "cuisine": "slovenian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Fish, tilapia, raw",
+        "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": ""
+        "note": "cubed"
       },
       {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.5,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Season the fish with the dill and dot with the butter.",
-      "Bake at 400F for 15-18 minutes until just cooked through. Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 2,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Season the fish with the dill and pepper and dot with the butter.",
-      "Bake at 400F (200C) for 16-20 minutes until just cooked through and flaking easily."
-    ],
-    "description": "Finish with the lime juice - Slovenia's short Adriatic coastline still supports a genuine fishing tradition."
-  },
-  {
-    "name": "Slovenian Potica Snack Rolls",
-    "cuisine": "slovenian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 30,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Make a simple dough, roll thin, spread with the walnuts and honey, roll up into small pieces, and bake at 350F for 18-20 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 35,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 14,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Make a simple dough from the flour, butter, and a little water, roll thin.",
-      "Mix the walnuts with the honey and cinnamon, spread over the dough, roll up, cut into small pieces, and bake at 350F (175C) for 19-22 minutes until golden."
-    ],
-    "description": "A smaller, snack-sized version of potica, rolled walnut pastry."
-  },
-  {
-    "name": "Slovenian Cheese and Rye Snack",
-    "cuisine": "slovenian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 35,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the bread and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, cheddar",
-        "qty": 40,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread generously, top with the cheese, and finish with a little black pepper."
-    ],
-    "description": "A simple cheese and rye bread snack."
-  },
-  {
-    "name": "Slovenian Spiced Chickpea Snack",
-    "cuisine": "slovenian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the chickpeas with the cumin, lime juice, and oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 135,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
-      "Let sit 10 minutes so the flavors meld."
-    ],
-    "description": "A simple spiced chickpea snack."
-  },
-  {
-    "name": "Slovenian Cabbage Slaw",
-    "cuisine": "slovenian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the cabbage with the oil and lime juice.",
-      "Let sit 10 minutes so it softens slightly."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the cabbage with the oil, lime juice, and pepper.",
-      "Let sit 15 minutes so it softens slightly before serving."
-    ],
-    "description": "A simple cabbage slaw."
-  },
-  {
-    "name": "Slovenian Honey Walnut Cookies",
-    "cuisine": "slovenian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cream the butter and honey, mix in the flour and walnuts, and shape into small rounds.",
-      "Bake at 350F for 12-15 minutes until lightly golden."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 24,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter, honey, and cinnamon until light, then mix in the flour and walnuts until it forms a soft dough.",
-      "Shape into small rounds and bake at 350F (175C) for 13-16 minutes until lightly golden."
-    ],
-    "description": "Honey and walnut, a classic Slovenian sweet pairing."
-  },
-  {
-    "name": "Slovenian Rice Pudding",
-    "cuisine": "slovenian",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 40,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Slovenian Apple Struklji",
-    "cuisine": "slovenian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 90,
-        "note": "peeled and chopped"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Make a simple dough from the flour and egg, roll thin.",
-      "Toss the apple with the sugar, fill the dough, roll up, and simmer in water 15-18 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",
-        "qty": 100,
-        "note": "peeled and chopped"
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Make a simple, smooth dough from the flour and egg, and roll thin.",
-      "Toss the apple with the sugar and cinnamon, fill the dough, roll up tightly, wrap, and simmer in gently boiling water 16-20 minutes until cooked through.",
-      "The sweet apple version of struklji is just as common as the savory cheese one across Slovenia."
-    ],
-    "description": "A sweet, apple-filled version of \u0161truklji, rolled dough parcels."
-  },
-  {
-    "name": "Slovenian Yogurt Dill Sauce",
-    "cuisine": "slovenian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Mix the yogurt, dill, and garlic together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 115,
-        "note": ""
-      },
-      {
-        "ingredient": "Dill weed, fresh",
-        "qty": 1.25,
-        "note": "tbsp, chopped"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the yogurt, dill, garlic, and pepper together into a cool, herby sauce."
-    ],
-    "description": "A simple yogurt-dill sauce."
-  },
-  {
-    "name": "Slovenian Caraway Onion Sauce",
-    "cuisine": "slovenian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yellow onion",
+        "ingredient": "Carrot",
         "qty": 60,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 10,
         "note": ""
-      }
-    ],
-    "steps": [
-      "Cook the onion slowly in the butter with the caraway until deeply softened, about 12-15 minutes."
-    ],
-    "ingredients_full": [
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
       {
         "ingredient": "Yellow onion",
-        "qty": 70,
-        "note": "thinly sliced"
-      },
-      {
-        "ingredient": "Spices, caraway seed",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 12,
+        "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
       }
     ],
     "steps_detailed": [
-      "Cook the onion slowly in the butter with the caraway and pepper over medium-low heat, 15-18 minutes, until deeply softened and golden."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "description": "A simple caraway-onion sauce, caraway being a common Slovenian spice."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Slovenian Horseradish Sauce",
+    "cuisine": "slovenian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "A simple horseradish sauce, a common Slovenian condiment for meats and \u0161truklji.",
+    "ingredients_full": [
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Horseradish, prepared",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 0.5,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Horseradish, prepared",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Whisk everything together and chill before serving."
+    ],
+    "steps": [
+      "Whisk everything together and chill before serving."
+    ],
+    "tags": []
   }
 ]

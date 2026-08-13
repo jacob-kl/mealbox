@@ -1,1642 +1,530 @@
 [
   {
-    "name": "Chicken & Chorizo Paella",
+    "name": "Spanish Paella Valenciana",
     "cuisine": "spanish",
     "meal_type": "dinner",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 130,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Chorizo (fully cooked)",
-        "qty": 56.7,
-        "note": "oz, sliced"
-      },
+    "course": "complete",
+    "description": "Real paella Valenciana is a dry rice dish, not a risotto or pilaf, and the real, defining technique is to never stir the rice once it's spread evenly in the pan - stirring releases starch and turns it to mush. Real socarrat, the prized crispy bottom layer, comes from raising the heat at the very end until you actually hear a crackling sound; the seafood-and-chorizo version many people know outside Spain is a real, later adaptation, not the traditional recipe, which is built on chicken, green beans, and butter beans.",
+    "ingredients_full": [
       {
         "ingredient": "Basmati rice (dry)",
-        "qty": 55,
+        "qty": 60,
+        "note": "standing in for bomba rice"
+      },
+      {
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
+        "ingredient": "Green beans",
         "qty": 60,
-        "note": "diced"
+        "note": ""
       },
       {
-        "ingredient": "Saffron threads",
+        "ingredient": "Del Monte Green Lima Beans",
+        "qty": 50,
+        "note": "standing in for butter beans"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": "grated-style"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Spices, saffron",
         "qty": 1,
         "note": "pinch"
       },
       {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Cook rice with saffron and paprika per package directions.",
-      "Sear chicken and chorizo together 6-7 min.",
-      "Add bell pepper, cook 3 min more, combine with rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Chorizo (fully cooked)",
-        "qty": 60,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Bomba rice (dry)",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 80,
-        "note": ""
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
         "ingredient": "Chicken broth",
-        "qty": 1.5,
+        "qty": 1.25,
         "note": "cup"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
         "ingredient": "Olive oil",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
-    "steps_detailed": [
-      "Steep the saffron threads in 2 tablespoons of warm broth for 5-10 minutes.",
-      "Heat the olive oil in a wide, shallow pan over medium-high heat. Brown the chicken and chorizo together, 5-6 minutes.",
-      "Add the bell pepper and garlic, cooking 2-3 minutes, then stir in the tomatoes and smoked paprika, simmering 3-4 minutes to build a sofrito base.",
-      "Stir in the rice, coating every grain in the sofrito, then add the remaining broth and the saffron broth.",
-      "Bring to a boil, then reduce to a simmer, cover, and cook 18-20 minutes without stirring - resisting the urge to stir is what lets the bottom develop the prized crispy socarrat layer.",
-      "Let rest 5 minutes off heat before serving."
-    ],
-    "description": "Paella depends on a specific short-to-medium-grain Spanish rice like Bomba, which absorbs liquid without turning mushy - basmati and jasmine are long-grain varieties built for an entirely different texture, and using either one here changes the dish's whole character, not just a minor detail."
-  },
-  {
-    "name": "Garlic Shrimp (Gambas al Ajillo)",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "tags": [
-      "shellfish"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Frozen shrimp",
-        "qty": 170,
-        "note": "raw, peeled"
+        "ingredient": "Basmati rice (dry)",
+        "qty": 60,
+        "note": "standing in for bomba rice"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 3,
-        "note": "sliced"
+        "ingredient": "Chicken thigh (raw)",
+        "qty": 180,
+        "note": ""
       },
       {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
+        "ingredient": "Green beans",
+        "qty": 60,
+        "note": ""
       },
       {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Del Monte Green Lima Beans",
+        "qty": 50,
+        "note": "standing in for butter beans"
       },
       {
-        "ingredient": "Whole grain bread",
-        "qty": 2,
-        "note": "slices"
-      }
-    ],
-    "steps": [
-      "Saute garlic in olive oil until fragrant, 1 min.",
-      "Add shrimp and paprika, cook 2-3 min per side.",
-      "Serve with bread to soak up the oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 220,
-        "note": "peeled"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 60,
+        "note": "grated-style"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 2,
-        "note": "tbsp, thin sliced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Smoked paprika",
+        "ingredient": "365 (Whole Foods) Paprika",
         "qty": 0.5,
         "note": "tsp"
       },
       {
-        "ingredient": "Whole grain bread",
+        "ingredient": "Spices, saffron",
         "qty": 1,
-        "note": "slice, for serving"
-      }
-    ],
-    "steps_detailed": [
-      "Heat the olive oil in a skillet over medium-low heat. Add the sliced garlic and cook slowly, 2-3 minutes, until fragrant and just starting to turn golden \u2014 don't let it brown, or it turns bitter.",
-      "Raise heat to medium-high, add the shrimp, and cook 1-2 minutes per side until pink.",
-      "Stir in the paprika off heat.",
-      "Serve immediately with bread for soaking up the garlicky oil, the classic tapas way."
-    ],
-    "description": "Gambas al ajillo, shrimp sizzled in garlic-infused olive oil, is a classic Spanish tapas staple."
-  },
-  {
-    "name": "Spanish Chicken with Manchego",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 170,
-        "note": ""
+        "note": "pinch"
       },
       {
-        "ingredient": "Manchego cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 70,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 45,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Cook rice per package directions.",
-      "Sear chicken 5-6 min per side, top with cheese to melt.",
-      "Serve with olives, tomatoes, and rice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Manchego cheese",
-        "qty": 1.5,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 8,
-        "note": ""
-      },
-      {
-        "ingredient": "Cherry tomatoes",
-        "qty": 100,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Basmati rice (dry)",
-        "qty": 55,
-        "note": ""
+        "ingredient": "Chicken broth",
+        "qty": 1.25,
+        "note": "cup"
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1,
+        "qty": 1.5,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Cook the rice per package directions.",
-      "Heat olive oil in a skillet over medium-high heat and cook the chicken 5-6 minutes per side until cooked through (165F).",
-      "Add the tomatoes and olives in the last 2-3 minutes to warm through and soften slightly.",
-      "Top with shaved or crumbled manchego and serve over rice."
+      "Soak the saffron in a tablespoon of warm broth for 10 minutes.",
+      "Brown the chicken in the olive oil in a wide, shallow pan, 6-7 minutes, then push to the side.",
+      "Add the green beans and butter beans, and cook 3-4 minutes.",
+      "Add the tomatoes and paprika, and cook 2-3 minutes into a real sofrito base.",
+      "Add the broth and saffron with its soaking liquid, and bring to a boil.",
+      "Scatter the rice evenly over the whole pan and distribute with a spatula - then do not stir again for the rest of cooking, real technique depends on this.",
+      "Simmer 15-18 minutes without stirring, until the liquid is absorbed.",
+      "Raise the heat for the final 1-2 minutes, listening for a real crackling sound at the bottom, which signals the socarrat has formed."
     ],
-    "description": "Manchego, Spain's most famous cheese, made from Manchega sheep's milk, paired here with chicken."
+    "steps": [
+      "Soak the saffron in a tablespoon of warm broth for 10 minutes.",
+      "Brown the chicken in the olive oil in a wide, shallow pan, 6-7 minutes, then push to the side.",
+      "Add the green beans and butter beans, and cook 3-4 minutes.",
+      "Add the tomatoes and paprika, and cook 2-3 minutes into a real sofrito base.",
+      "Add the broth and saffron with its soaking liquid, and bring to a boil.",
+      "Scatter the rice evenly over the whole pan and distribute with a spatula - then do not stir again for the rest of cooking, real technique depends on this.",
+      "Simmer 15-18 minutes without stirring, until the liquid is absorbed.",
+      "Raise the heat for the final 1-2 minutes, listening for a real crackling sound at the bottom, which signals the socarrat has formed."
+    ],
+    "tags": []
   },
   {
-    "name": "Spanish Tortilla (Potato & Egg)",
+    "name": "Spanish Tortilla Espa\u00f1ola",
     "cuisine": "spanish",
     "meal_type": "breakfast",
-    "tags": [
-      "vegetarian",
-      "breakfast-for-dinner"
-    ],
-    "base_servings": 2,
-    "ingredients": [
+    "course": "complete",
+    "description": "Tortilla espa\u00f1ola, a real potato and egg dish, depends on real technique cooking the potato and onion slowly in olive oil until genuinely soft (not crisp), which is what gives the tortilla its distinctive creamy interior once combined with the eggs.",
+    "ingredients_full": [
       {
-        "ingredient": "Eggs (large)",
-        "qty": 3,
-        "note": ""
-      },
-      {
-        "ingredient": "Sweet potato",
-        "qty": 120,
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
         "note": "thinly sliced"
       },
       {
         "ingredient": "Yellow onion",
-        "qty": 40,
+        "qty": 60,
         "note": "sliced"
       },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Saute potato and onion in olive oil until soft, 10-12 min.",
-      "Pour whisked eggs over, cook covered on low 8-10 min until set."
-    ],
-    "ingredients_full": [
       {
         "ingredient": "Eggs (large)",
-        "qty": 4,
+        "qty": 3,
         "note": ""
       },
       {
+        "ingredient": "Olive oil",
+        "qty": 3,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
         "ingredient": "Yukon gold potato",
         "qty": 200,
-        "note": "thin sliced"
+        "note": "thinly sliced"
       },
       {
         "ingredient": "Yellow onion",
         "qty": 60,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Heat the olive oil in a nonstick skillet over medium-low heat. Add the potato and onion and cook slowly, 15-18 minutes, stirring occasionally, until very tender but not browned.",
-      "Whisk the eggs in a large bowl, then fold in the potato-onion mixture.",
-      "Wipe out the pan, add a little more oil if needed, and pour in the egg mixture over medium-low heat.",
-      "Cook 6-8 minutes until the edges set and the bottom is golden.",
-      "Place a large plate over the pan, flip the tortilla onto it, then slide it back into the pan to cook the other side, 4-5 more minutes.",
-      "Let rest a few minutes before slicing into wedges \u2014 it's traditionally served just warm or at room temperature, not piping hot."
-    ],
-    "description": "Tortilla espa\u00f1ola is built on regular potato, not sweet potato - the mild, starchy flavor of a Yukon gold or russet-style potato is what actually belongs here, since sweet potato brings a completely different taste and texture to a dish that's supposed to taste primarily of egg, potato, and olive oil."
-  },
-  {
-    "name": "Chicken Paella",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Beef broth",
-        "qty": 0.75,
-        "note": "cup"
-      }
-    ],
-    "steps": [
-      "Sear chicken, remove.",
-      "Toast rice with pepper and saffron, add broth and chicken back in, simmer covered 18-20 min."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken thigh (raw)",
-        "qty": 220,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Bomba rice (dry)",
-        "qty": 75,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 80,
         "note": "sliced"
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
+        "ingredient": "Eggs (large)",
+        "qty": 3,
         "note": ""
       },
       {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 1.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
         "ingredient": "Olive oil",
-        "qty": 1,
+        "qty": 3,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "Steep the saffron in 2 tablespoons of warm broth.",
-      "Heat the olive oil in a wide pan over medium-high heat and brown the chicken, 5-6 minutes.",
-      "Add the bell pepper and garlic, cooking 2-3 minutes, then stir in the tomatoes and simmer 3-4 minutes to build a sofrito base.",
-      "Stir in the rice and saffron broth, then add the remaining broth.",
-      "Bring to a boil, reduce to a simmer, cover, and cook 18-20 minutes without stirring.",
-      "Rest 5 minutes before serving."
-    ],
-    "description": "Paella depends on Bomba or a similar short-to-medium-grain Spanish rice, not jasmine - jasmine is a long-grain variety built for an entirely different texture, and using it here changes the dish's whole character."
-  },
-  {
-    "name": "Spanish Garlic Shrimp",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "course": "main",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 170,
-        "note": "peeled"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tbsp, minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.5,
-        "note": "tsp"
-      }
+      "Cook the potato and onion slowly in the olive oil over low heat, 20-22 minutes, until genuinely soft, not crisp.",
+      "Drain, reserving the oil, and let cool slightly.",
+      "Beat the eggs and mix in the potato and onion.",
+      "Heat a little of the reserved oil in a small pan, pour in the mixture, and cook 4-5 minutes until mostly set.",
+      "Flip carefully (using a plate) and cook 2-3 minutes more until just set through."
     ],
     "steps": [
-      "Saute garlic in oil 1 min.",
-      "Add shrimp and paprika, cook 4-5 min until pink."
+      "Cook the potato and onion slowly in the olive oil over low heat, 20-22 minutes, until genuinely soft, not crisp.",
+      "Drain, reserving the oil, and let cool slightly.",
+      "Beat the eggs and mix in the potato and onion.",
+      "Heat a little of the reserved oil in a small pan, pour in the mixture, and cook 4-5 minutes until mostly set.",
+      "Flip carefully (using a plate) and cook 2-3 minutes more until just set through."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1.5,
-        "note": "tbsp, thin sliced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Heat the olive oil over medium-low heat and cook the garlic slowly, 2 minutes, until fragrant but not browned.",
-      "Raise heat, add the shrimp, and cook 1-2 minutes per side until pink.",
-      "Stir in the paprika off heat before serving."
-    ],
-    "description": "The same gambas al ajillo technique, garlic sizzled in olive oil with shrimp."
+    "tags": []
   },
   {
-    "name": "Spanish Beef and Potato Stew",
+    "name": "Spanish Gazpacho",
     "cuisine": "spanish",
-    "meal_type": "dinner",
+    "meal_type": "lunch",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 170,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 120,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Sear beef until browned.",
-      "Add potato, tomatoes, and paprika, simmer covered 30-35 min until tender."
-    ],
+    "description": "Gazpacho, a real cold tomato soup, is a beloved Spanish summer staple, real technique blending everything raw and chilling thoroughly, never cooking it.",
     "ingredients_full": [
       {
-        "ingredient": "Flank/sirloin steak",
-        "qty": 200,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "cubed"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 250,
-        "note": ""
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 60,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      }
-    ],
-    "steps_detailed": [
-      "Sear the beef in a pot over medium-high heat, 3-4 minutes, until browned. Remove.",
-      "Add the onion and garlic, cooking 3-4 minutes, then add the paprika, cooking 30 seconds until fragrant.",
-      "Add the tomatoes, potatoes, and beef back in, along with 1 cup water.",
-      "Bring to a simmer, cover, and cook 35-40 minutes until the beef and potatoes are tender."
-    ],
-    "description": "A simple, hearty Spanish beef and potato stew."
-  },
-  {
-    "name": "Spanish Baked Cod with Chorizo",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Frozen cod",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Chorizo (fully cooked)",
-        "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Saute chorizo 2 min, add tomatoes, simmer 5 min.",
-      "Nestle cod into the sauce, bake at 400F for 12-15 min."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen cod",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Chorizo (fully cooked)",
-        "qty": 50,
-        "note": "sliced"
-      },
-      {
         "ingredient": "Diced tomatoes (canned)",
         "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 400F. Heat a splash of oil in an oven-safe skillet over medium heat and cook the chorizo 2-3 minutes to render some fat.",
-      "Add the garlic and tomatoes, simmering 8-10 minutes.",
-      "Nestle the cod into the sauce, spooning some over the top.",
-      "Bake 12-15 minutes until the fish flakes easily."
-    ],
-    "description": "Cod and chorizo, a classic Spanish coastal pairing."
-  },
-  {
-    "name": "Spanish Chickpea and Spinach Stew",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Garbanzo beans",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Baby spinach",
+        "ingredient": "Cucumber, peeled, raw",
         "qty": 80,
         "note": ""
       },
       {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Simmer chickpeas, tomatoes, and cumin 10 min.",
-      "Stir in spinach until wilted."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Garbanzo beans",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Baby spinach",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 250,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Heat a splash of oil in a pot over medium heat. Add garlic, cumin, and paprika, cooking 30 seconds until fragrant.",
-      "Add the tomatoes and chickpeas, simmer 12-15 minutes until slightly thickened.",
-      "Stir in the spinach in the last 2 minutes until wilted."
-    ],
-    "description": "Garbanzos con espinacas, a beloved Spanish tapas dish with roots in Sephardic Jewish and Moorish cooking."
-  },
-  {
-    "name": "Spanish Tuna and White Bean Jar",
-    "cuisine": "spanish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "fish",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Canned tuna (in water)",
-        "qty": 100,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 30,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss all ingredients together with oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Canned tuna (in water)",
-        "qty": 140,
-        "note": "drained"
-      },
-      {
-        "ingredient": "Cannellini beans",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 20,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the olive oil and vinegar together.",
-      "Toss the beans and red onion with the dressing.",
-      "Layer in a jar with the tuna on top."
-    ],
-    "description": "A simple, portable Spanish-style salad."
-  },
-  {
-    "name": "Spanish Chicken and Rice Jar",
-    "cuisine": "spanish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "leftovers-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 140,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 45,
-        "note": "cooked and cooled"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Toss chicken with paprika.",
-      "Layer over rice with bell pepper."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chicken breast",
-        "qty": 150,
-        "note": "cooked, diced"
-      },
-      {
-        "ingredient": "Jasmine rice (dry)",
-        "qty": 45,
-        "note": "cooked and cooled"
-      },
-      {
         "ingredient": "Bell pepper",
         "qty": 60,
-        "note": "diced"
+        "note": ""
       },
       {
-        "ingredient": "Smoked paprika",
+        "ingredient": "Garlic clove",
         "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chicken with smoked paprika.",
-      "Layer the rice, bell pepper, and chicken in a jar."
-    ],
-    "description": "A portable, paella-adjacent chicken and rice jar."
-  },
-  {
-    "name": "Spanish Egg and Potato Tortilla Wedge",
-    "cuisine": "spanish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "thin sliced, cooked"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "sliced"
-      }
-    ],
-    "steps": [
-      "Saute potato and onion until soft.",
-      "Pour whisked eggs over, cook covered 6-8 min until set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 3,
-        "note": ""
-      },
-      {
-        "ingredient": "Yukon gold potato",
-        "qty": 150,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "thin sliced"
+        "note": "minced"
       },
       {
         "ingredient": "Olive oil",
-        "qty": 1.5,
+        "qty": 2,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
         "note": "tbsp"
       }
     ],
-    "steps_detailed": [
-      "Heat oil in a nonstick pan over medium-low heat. Cook the potato and onion slowly, 15 minutes, until tender.",
-      "Whisk the eggs, fold in the potato mixture, and pour back into the pan.",
-      "Cook 5-6 minutes until the edges set, then flip using a plate and cook 4 more minutes."
-    ],
-    "description": "A smaller wedge of the classic tortilla espa\u00f1ola."
-  },
-  {
-    "name": "Spanish Baked Eggs (Huevos a la Flamenca)",
-    "cuisine": "spanish",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
         "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
+        "qty": 200,
         "note": ""
       },
       {
-        "ingredient": "Bell pepper",
-        "qty": 40,
-        "note": "diced"
-      }
-    ],
-    "steps": [
-      "Simmer tomatoes and pepper 5 min in a small skillet.",
-      "Crack eggs into the sauce, cover and cook 5-6 min until set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 250,
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 80,
         "note": ""
       },
       {
         "ingredient": "Bell pepper",
         "qty": 60,
-        "note": "diced"
+        "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Smoked paprika",
+        "ingredient": "Garlic clove",
         "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 400F. Heat a splash of oil in an oven-safe skillet over medium heat. Cook the onion and bell pepper 5-6 minutes.",
-      "Add the tomatoes and paprika, simmer 10 minutes.",
-      "Make wells in the sauce and crack the eggs into them.",
-      "Transfer to the oven and bake 8-10 minutes until the whites are set but yolks are still soft."
-    ],
-    "description": "Huevos a la Flamenca, eggs baked in a spiced tomato and vegetable sauce, an Andalusian specialty."
-  },
-  {
-    "name": "Marcona Almond Snack",
-    "cuisine": "spanish",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Almonds",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Toss almonds with paprika."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Almonds",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.1667,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Toss the almonds with a light coating of olive oil and smoked paprika.",
-      "Toast in a dry skillet over medium-low heat, 3-4 minutes, stirring often, until fragrant."
-    ],
-    "description": "Marcona almonds, a specific Spanish variety prized for their sweet, delicate flavor, a classic tapas snack."
-  },
-  {
-    "name": "Spanish Olives and Manchego Snack",
-    "cuisine": "spanish",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Manchego cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 8,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Serve cheese and olives together."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Manchego cheese",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 10,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Serve the manchego and olives together \u2014 a classic simple tapas pairing."
-    ],
-    "description": "Olives and manchego, a classic Spanish tapas pairing."
-  },
-  {
-    "name": "Spanish Flan",
-    "cuisine": "spanish",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 3,
-        "note": ""
-      },
-      {
-        "ingredient": "Sweetened condensed milk",
-        "qty": 6,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Evaporated milk",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 4,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Melt sugar until amber, pour into ramekins.",
-      "Whisk eggs and milks, pour over caramel.",
-      "Bake in a water bath at 350F for 45 min, chill before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 3,
-        "note": ""
-      },
-      {
-        "ingredient": "Sweetened condensed milk",
-        "qty": 6,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Evaporated milk",
-        "qty": 1,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 4,
-        "note": "tbsp, for the caramel"
-      },
-      {
-        "ingredient": "Vanilla extract",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 350F.",
-      "Melt the sugar in a saucepan over medium heat, swirling (not stirring) until deep amber. Pour into ramekins, tilting to coat the bottom.",
-      "Whisk the eggs, condensed milk, evaporated milk, and vanilla together, then strain for smoothness.",
-      "Pour over the caramel. Place ramekins in a baking dish with hot water halfway up the sides.",
-      "Bake 40-45 minutes until just set with a slight jiggle.",
-      "Chill at least 3 hours, then run a knife around the edge and invert to unmold."
-    ],
-    "description": "Flan, an egg custard with caramelized sugar, one of Spain's most beloved desserts."
-  },
-  {
-    "name": "Membrillo-Style Baked Pear",
-    "cuisine": "spanish",
-    "meal_type": "dessert",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Pear",
-        "qty": 1,
-        "note": "halved"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Manchego cheese",
-        "qty": 0.5,
-        "note": "oz"
-      }
-    ],
-    "steps": [
-      "Bake pear at 375F for 20 min.",
-      "Drizzle with honey and top with shaved manchego."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Pear",
-        "qty": 1,
-        "note": "halved and cored"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Manchego cheese",
-        "qty": 0.5,
-        "note": "oz, shaved"
-      }
-    ],
-    "steps_detailed": [
-      "Preheat the oven to 375F.",
-      "Drizzle the pear halves with honey and place cut-side up on a baking sheet.",
-      "Bake 20-25 minutes until tender and caramelized at the edges.",
-      "Top with shaved manchego just before serving, a classic Spanish pairing of fruit and cheese."
-    ],
-    "description": "Membrillo, quince paste, is traditionally paired with manchego - this version applies that same sweet-cheese pairing spirit to baked pear."
-  },
-  {
-    "name": "Romesco Sauce",
-    "cuisine": "spanish",
-    "meal_type": "sauce",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
-    "ingredients": [
-      {
-        "ingredient": "Red bell pepper",
-        "qty": 100,
-        "note": "roasted"
-      },
-      {
-        "ingredient": "Almonds",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
+        "note": "minced"
       },
       {
         "ingredient": "Olive oil",
         "qty": 2,
         "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Blend all ingredients until mostly smooth."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Red bell pepper",
-        "qty": 150,
-        "note": "roasted"
       },
       {
-        "ingredient": "Almonds",
-        "qty": 1,
-        "note": "oz"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 3,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red wine vinegar",
+        "ingredient": "Vinegar, distilled",
         "qty": 1,
         "note": "tbsp"
       }
     ],
     "steps_detailed": [
-      "If roasting the pepper fresh, char it over a flame or under the broiler until blackened, then steam in a covered bowl 10 minutes and peel.",
-      "Toast the almonds in a dry skillet over medium heat, 2-3 minutes, until fragrant.",
-      "Blend the roasted pepper, almonds, garlic, and vinegar until mostly smooth.",
-      "With the blender running, drizzle in the olive oil until the sauce comes together, slightly textured rather than perfectly smooth."
+      "Blend everything together until completely smooth.",
+      "Chill at least 1 hour before serving cold."
     ],
-    "description": "Romesco, a roasted red pepper and almond sauce from Catalonia, a defining Spanish condiment."
+    "steps": [
+      "Blend everything together until completely smooth.",
+      "Chill at least 1 hour before serving cold."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Spanish Patatas Bravas",
+    "cuisine": "spanish",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "Patatas bravas, crispy fried potatoes with a real spicy tomato sauce, is a beloved Spanish tapas staple, real technique double-frying the potatoes for real extra crispiness.",
+    "ingredients_full": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "cup, for frying"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 3,
+        "note": "cup, for frying"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Jalapeno pepper",
+        "qty": 0.5,
+        "note": ""
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Fry the potato at a lower temperature, 325F (163C), for 5-6 minutes, until soft but pale. Remove and rest 10 minutes.",
+      "Simmer the tomatoes, jalape\u00f1o, and paprika together 12-15 minutes into a spicy sauce.",
+      "Fry the potato a second time at 375F (190C) for 3-4 minutes until deeply golden and crisp.",
+      "Serve the potatoes topped with the sauce."
+    ],
+    "steps": [
+      "Fry the potato at a lower temperature, 325F (163C), for 5-6 minutes, until soft but pale. Remove and rest 10 minutes.",
+      "Simmer the tomatoes, jalape\u00f1o, and paprika together 12-15 minutes into a spicy sauce.",
+      "Fry the potato a second time at 375F (190C) for 3-4 minutes until deeply golden and crisp.",
+      "Serve the potatoes topped with the sauce."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Spanish Grilled Fish",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and olive oil, reflecting Spain's extensive Mediterranean and Atlantic coastal fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Rub the fish with the garlic and olive oil, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "steps": [
+      "Rub the fish with the garlic and olive oil, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Spanish Roasted Almonds",
+    "cuisine": "spanish",
+    "meal_type": "snack",
+    "course": "complete",
+    "description": "A simple roasted almond snack, common across Spain, especially in Andalusia.",
+    "ingredients_full": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Almonds",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "steps": [
+      "Toast the almonds in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Spanish Beef and Vegetable Stew",
+    "cuisine": "spanish",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Spanish home cooking outside the specific named dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
   },
   {
     "name": "Spanish Alioli",
     "cuisine": "spanish",
     "meal_type": "sauce",
     "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 4,
-    "ingredients": [
-      {
-        "ingredient": "Daisy sour cream",
-        "qty": 16.0,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Whisk all ingredients together."
-    ],
+    "description": "Alioli, a real garlic-forward emulsified sauce, is a beloved Spanish condiment, real technique whisking the garlic and oil together slowly to build a genuine emulsion.",
     "ingredients_full": [
       {
-        "ingredient": "Daisy sour cream",
-        "qty": 4,
+        "ingredient": "Mayonnaise",
+        "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk all ingredients together. Let sit 10 minutes for the garlic to mellow slightly before serving."
-    ],
-    "description": "Alioli, garlic emulsified into oil (traditionally without egg, unlike French aioli), a classic Spanish condiment."
-  },
-  {
-    "name": "Spanish Lentil Soup",
-    "cuisine": "spanish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "leftovers-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 100,
-        "note": ""
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "diced"
-      }
-    ],
-    "steps": [
-      "Simmer lentils, tomatoes, paprika, and onion with 1.5 cups water 25-30 min until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Lentils (dry green)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 200,
-        "note": ""
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 1,
-        "note": "tsp, minced"
-      }
-    ],
-    "steps_detailed": [
-      "Heat a splash of oil in a pot over medium heat. Cook the onion 4-5 minutes, then add garlic and paprika, cooking 30 seconds.",
-      "Add the lentils, tomatoes, and 2 cups water. Bring to a simmer.",
-      "Cook 25-30 minutes until the lentils are tender."
-    ],
-    "description": "A simple, hearty Spanish lentil soup."
-  },
-  {
-    "name": "Spanish Orange and Olive Salad",
-    "cuisine": "spanish",
-    "meal_type": "snack",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Orange",
-        "qty": 1,
-        "note": "segmented"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 8,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 20,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Arrange orange segments, olives, and onion.",
-      "Drizzle with olive oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Orange",
-        "qty": 1,
-        "note": "segmented"
-      },
-      {
-        "ingredient": "Green olives",
-        "qty": 10,
-        "note": ""
-      },
-      {
-        "ingredient": "Red onion",
-        "qty": 25,
-        "note": "thin sliced"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 0.3333,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Arrange the orange segments, olives, and onion on a plate.",
-      "Drizzle with olive oil just before serving."
-    ],
-    "description": "Orange and olive, a refreshing combination found across southern Spanish cooking."
-  },
-  {
-    "name": "Gazpacho",
-    "cuisine": "spanish",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "cold-friendly"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 300,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber",
-        "qty": 80,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 50,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Blend all ingredients until smooth.",
-      "Chill at least 1 hour before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 350,
-        "note": ""
-      },
-      {
-        "ingredient": "Cucumber",
-        "qty": 100,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 60,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 0.5,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Olive oil",
+        "ingredient": "Garlic clove",
         "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Red wine vinegar",
-        "qty": 1.5,
-        "note": "tbsp"
+        "note": "minced"
       }
     ],
-    "steps_detailed": [
-      "Blend all ingredients together until smooth.",
-      "Chill at least 1 hour \u2014 gazpacho is meant to be served very cold, and the flavors deepen as it sits."
-    ],
-    "description": "Gazpacho, a cold, blended tomato soup from Andalusia, is meant to be eaten chilled, especially in summer heat."
-  },
-  {
-    "name": "Seafood Paella (Paella de Marisco)",
-    "cuisine": "spanish",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 2,
     "ingredients": [
       {
-        "ingredient": "Frozen shrimp",
-        "qty": 200,
-        "note": "peeled, tails on"
-      },
-      {
-        "ingredient": "Mussels",
-        "qty": 150,
-        "note": "scrubbed"
-      },
-      {
-        "ingredient": "Bomba rice (dry)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 100,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 2,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 2.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2,
+        "ingredient": "Mayonnaise",
+        "qty": 3,
         "note": "tbsp"
       },
       {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Steep the saffron in 1/4 cup of warm broth for 10 minutes.",
-      "Heat olive oil in a wide, shallow paella pan (or the widest skillet you have) over medium-high heat. Cook the bell pepper 3-4 minutes.",
-      "Add the garlic and paprika, cooking 30 seconds, then stir in the tomatoes and cook 3-4 minutes until slightly reduced.",
-      "Add the rice, stirring to coat every grain in the sofrito, then pour in the broth and saffron liquid.",
-      "Bring to a boil, then reduce to a simmer and do not stir again \u2014 this is what lets the socarrat (the crisp, caramelized bottom layer) form.",
-      "Cook uncovered for 10 minutes, then nestle the shrimp and mussels into the rice.",
-      "Continue cooking 8-10 more minutes until the rice has absorbed the liquid, the shrimp are pink, and the mussels have opened (discard any that stay closed).",
-      "Remove from heat, cover loosely with foil, and let rest 5 minutes before serving."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Frozen shrimp",
-        "qty": 220,
-        "note": "peeled, tails on"
-      },
-      {
-        "ingredient": "Mussels",
-        "qty": 200,
-        "note": "scrubbed and debearded"
-      },
-      {
-        "ingredient": "Bomba rice (dry)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Bell pepper",
-        "qty": 100,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": "diced"
-      },
-      {
-        "ingredient": "Saffron threads",
-        "qty": 1,
-        "note": "pinch"
-      },
-      {
-        "ingredient": "Garlic",
-        "qty": 2,
-        "note": "tsp, minced"
-      },
-      {
-        "ingredient": "Chicken broth",
-        "qty": 2.5,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Olive oil",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Smoked paprika",
-        "qty": 1,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lemon juice",
-        "qty": 1,
-        "note": "tbsp, for serving"
+        "ingredient": "Garlic clove",
+        "qty": 1.5,
+        "note": "minced"
       }
     ],
     "steps_detailed": [
-      "Steep the saffron threads in 1/4 cup of warm broth for at least 10 minutes \u2014 this is what gives paella its signature color and flavor, and pre-steeping matters more than dumping the threads straight into the pan.",
-      "Pat the shrimp and mussels dry. Scrub the mussel shells under cold water and pull off any visible beards. Discard any mussels that are cracked or don't close when tapped.",
-      "Heat the olive oil in the widest, shallowest pan you own over medium-high heat \u2014 surface area is what makes paella work, so a deep pot won't give the same result.",
-      "Add the onion and bell pepper, cooking 4-5 minutes until softened.",
-      "Add the garlic and paprika, cooking 30 seconds until fragrant, then stir in the tomatoes and simmer 3-4 minutes until slightly reduced \u2014 this is the sofrito, the flavor base for everything that follows.",
-      "Add the rice and stir for about a minute so every grain gets coated in the sofrito before any liquid goes in.",
-      "Pour in the broth and the saffron liquid, then spread the rice into an even layer across the pan.",
-      "Bring to a boil, then reduce to a steady simmer. From this point on, do not stir \u2014 resisting the urge to stir is the single most important technique in paella, since it's what allows the bottom layer to caramelize into socarrat instead of turning into risotto.",
-      "Simmer uncovered for 10 minutes, then nestle the shrimp and mussels into the rice, pushing them down slightly so they're partially submerged.",
-      "Continue cooking 8-10 more minutes, until the liquid is mostly absorbed, the shrimp are opaque and pink, and the mussels have opened \u2014 discard any mussels that remain closed after cooking.",
-      "In the last minute, listen and smell for a faint toasting aroma from the bottom \u2014 that's the socarrat forming. Pull it off heat right as you notice it, before it can actually burn.",
-      "Remove from heat, cover loosely with foil, and let rest 5 minutes. Serve directly from the pan with lemon wedges."
+      "Whisk the garlic into the mayonnaise until well combined."
     ],
-    "description": "Paella de marisco, built on real Bomba rice, a proper sofrito base, and the patience to let socarrat - the prized crispy bottom layer - form without stirring, is the seafood version of Spain's most famous rice dish."
+    "steps": [
+      "Whisk the garlic into the mayonnaise until well combined."
+    ],
+    "tags": []
   }
 ]
