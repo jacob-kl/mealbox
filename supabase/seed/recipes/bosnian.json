@@ -350,12 +350,17 @@
     "cuisine": "bosnian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Bosanski lonac, a real layered meat and vegetable pot, is a genuine Bosnian one-pot staple, real technique layering the ingredients rather than stirring them together, letting each cook in the steam of the one below.",
+    "description": "Bosanski lonac, a real layered meat and vegetable pot, is a genuine Bosnian one-pot staple with real roots among Bosnian miners, who layered whatever ingredients they had before work and let the sealed pot cook slowly while they were underground - real technique never browns or saut\u00e9s anything first, layering everything raw, and simmers considerably longer than a typical stew, 3 hours or more, for everything to fully collapse together.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "cubed"
+        "note": "cubed, raw"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
       },
       {
         "ingredient": "Carrot",
@@ -363,9 +368,9 @@
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "cubed"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       },
       {
         "ingredient": "Green cabbage",
@@ -373,16 +378,21 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "cubed"
       }
     ],
     "ingredients": [
       {
         "ingredient": "Flank/sirloin steak",
         "qty": 200,
-        "note": "cubed"
+        "note": "cubed, raw"
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 50,
+        "note": ""
       },
       {
         "ingredient": "Carrot",
@@ -390,9 +400,9 @@
         "note": ""
       },
       {
-        "ingredient": "Yukon gold potato",
-        "qty": 100,
-        "note": "cubed"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 80,
+        "note": ""
       },
       {
         "ingredient": "Green cabbage",
@@ -400,20 +410,20 @@
         "note": ""
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 50,
-        "note": ""
+        "ingredient": "Yukon gold potato",
+        "qty": 100,
+        "note": "cubed"
       }
     ],
     "steps_detailed": [
-      "Layer the beef, onion, carrot, cabbage, and potato in a heavy pot without stirring.",
-      "Add enough water to reach partway up the layers.",
-      "Cover and simmer very gently, without stirring, 1.5-2 hours, until everything is tender - real bosanski lonac depends on this undisturbed layering."
+      "Layer the raw beef, onion, carrot, tomatoes, cabbage, and potato in a heavy pot without browning or saut\u00e9ing anything first - real technique goes in entirely raw.",
+      "Add enough water to reach partway up the layers, not covering them completely.",
+      "Cover tightly and simmer very gently, without stirring, at least 3 hours, until everything is completely tender and has collapsed together - real bosanski lonac takes considerably longer than a typical stew, and stirring it partway through turns it into a generic stew instead."
     ],
     "steps": [
-      "Layer the beef, onion, carrot, cabbage, and potato in a heavy pot without stirring.",
-      "Add enough water to reach partway up the layers.",
-      "Cover and simmer very gently, without stirring, 1.5-2 hours, until everything is tender - real bosanski lonac depends on this undisturbed layering."
+      "Layer the raw beef, onion, carrot, tomatoes, cabbage, and potato in a heavy pot without browning or saut\u00e9ing anything first - real technique goes in entirely raw.",
+      "Add enough water to reach partway up the layers, not covering them completely.",
+      "Cover tightly and simmer very gently, without stirring, at least 3 hours, until everything is completely tender and has collapsed together - real bosanski lonac takes considerably longer than a typical stew, and stirring it partway through turns it into a generic stew instead."
     ],
     "tags": []
   },

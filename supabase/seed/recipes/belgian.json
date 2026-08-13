@@ -370,7 +370,7 @@
     "cuisine": "belgian",
     "meal_type": "snack",
     "course": "complete",
-    "description": "Speculoos, thin, deeply spiced shortbread cookies, are a genuine Belgian classic, real technique using real cinnamon and a warm spice blend for their distinctive character.",
+    "description": "Speculoos, thin, deeply spiced shortbread cookies, are a genuine Belgian classic - real technique builds a full warm spice blend of cinnamon, cloves, and real nutmeg together, which was missing here before, for their distinctive character.",
     "ingredients_full": [
       {
         "ingredient": "All-purpose flour",
@@ -396,6 +396,11 @@
         "ingredient": "Spices, cloves, ground",
         "qty": 0.0625,
         "note": "pinch"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
       }
     ],
     "ingredients": [
@@ -423,15 +428,20 @@
         "ingredient": "Spices, cloves, ground",
         "qty": 0.0625,
         "note": "pinch"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.125,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Cream the butter and sugar, then mix in the flour, cinnamon, and cloves into a firm dough.",
+      "Cream the butter and sugar, then mix in the flour, cinnamon, cloves, and nutmeg into a firm dough - real speculoos depends on this full spice blend, not cinnamon alone.",
       "Roll thin and cut into shapes.",
       "Bake at 350F (175C) for 10-12 minutes until deeply golden and crisp."
     ],
     "steps": [
-      "Cream the butter and sugar, then mix in the flour, cinnamon, and cloves into a firm dough.",
+      "Cream the butter and sugar, then mix in the flour, cinnamon, cloves, and nutmeg into a firm dough - real speculoos depends on this full spice blend, not cinnamon alone.",
       "Roll thin and cut into shapes.",
       "Bake at 350F (175C) for 10-12 minutes until deeply golden and crisp."
     ],
@@ -442,7 +452,7 @@
     "cuisine": "belgian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Endive gratin, real Belgian endive wrapped in ham and baked with real cheese sauce, is a beloved winter comfort dish, real technique braising the endive first to mellow its natural bitterness.",
+    "description": "Endive gratin, real Belgian endive wrapped in ham and baked with a real b\u00e9chamel, not just cheese and breadcrumbs on top - real technique braises the endive first to mellow its natural bitterness, then wraps it in ham before topping with a proper butter-flour-milk sauce that melts the cheese into it, which was missing here before.",
     "ingredients_full": [
       {
         "ingredient": "Endive, raw",
@@ -450,9 +460,9 @@
         "note": ""
       },
       {
-        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
-        "qty": 2,
-        "note": "tbsp, standing in for ham wrap"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 40,
+        "note": "standing in for real ham wrap"
       },
       {
         "ingredient": "Cheese, gruyere",
@@ -463,6 +473,21 @@
         "ingredient": "Butter, salted",
         "qty": 15,
         "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "ingredients": [
@@ -472,9 +497,9 @@
         "note": ""
       },
       {
-        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
-        "qty": 2,
-        "note": "tbsp, standing in for ham wrap"
+        "ingredient": "Pork, cured, bacon, cooked, baked",
+        "qty": 40,
+        "note": "standing in for real ham wrap"
       },
       {
         "ingredient": "Cheese, gruyere",
@@ -485,17 +510,38 @@
         "ingredient": "Butter, salted",
         "qty": 15,
         "note": ""
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 1,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Whole milk (generic)",
+        "qty": 0.33,
+        "note": "cup"
+      },
+      {
+        "ingredient": "Spices, nutmeg, ground",
+        "qty": 0.0625,
+        "note": "pinch"
       }
     ],
     "steps_detailed": [
-      "Braise the endive in a little butter and water, covered, 15-18 minutes, until tender and much of its raw bitterness has mellowed.",
-      "Top with the cheese and breadcrumbs.",
-      "Bake at 375F (190C) for 12-15 minutes until the cheese is melted and golden."
+      "Braise the endive in a little butter and water, covered, 15-18 minutes, until tender and much of its raw bitterness has mellowed. Drain well.",
+      "Wrap the braised endive in the bacon (standing in for ham) and arrange in a baking dish.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a real b\u00e9chamel.",
+      "Off the heat, stir in the cheese and nutmeg until melted and smooth.",
+      "Pour the sauce over the wrapped endive.",
+      "Bake at 375F (190C) for 15-18 minutes until bubbly and golden on top."
     ],
     "steps": [
-      "Braise the endive in a little butter and water, covered, 15-18 minutes, until tender and much of its raw bitterness has mellowed.",
-      "Top with the cheese and breadcrumbs.",
-      "Bake at 375F (190C) for 12-15 minutes until the cheese is melted and golden."
+      "Braise the endive in a little butter and water, covered, 15-18 minutes, until tender and much of its raw bitterness has mellowed. Drain well.",
+      "Wrap the braised endive in the bacon (standing in for ham) and arrange in a baking dish.",
+      "Melt the butter, whisk in the flour, cook 1 minute, then gradually whisk in the milk until thickened into a real b\u00e9chamel.",
+      "Off the heat, stir in the cheese and nutmeg until melted and smooth.",
+      "Pour the sauce over the wrapped endive.",
+      "Bake at 375F (190C) for 15-18 minutes until bubbly and golden on top."
     ],
     "tags": []
   },

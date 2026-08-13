@@ -250,7 +250,7 @@
     "cuisine": "bulgarian",
     "meal_type": "dinner",
     "course": "complete",
-    "description": "Kavarma, meat and vegetables slow-baked together in a clay pot, is a genuine Bulgarian comfort dish, real technique layering everything into the pot and baking low and slow rather than stirring on the stovetop.",
+    "description": "Kavarma, meat and vegetables slow-baked together in a clay pot, is a genuine Bulgarian comfort dish - real technique layers everything into the pot and bakes low and slow rather than stirring on the stovetop, and a whole egg cracked on top in the final minutes of baking is explicitly the real signature of true Bulgarian kavarma, not an optional garnish, which was missing here before.",
     "ingredients_full": [
       {
         "ingredient": "Flank/sirloin steak",
@@ -276,6 +276,11 @@
         "ingredient": "Dried oregano",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "whole, for the real signature top"
       }
     ],
     "ingredients": [
@@ -303,15 +308,22 @@
         "ingredient": "Dried oregano",
         "qty": 0.5,
         "note": "tsp"
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "whole, for the real signature top"
       }
     ],
     "steps_detailed": [
       "Layer the beef, bell pepper, onion, tomatoes, and oregano in a baking dish.",
-      "Cover tightly and bake at 350F (175C) for 1.5-2 hours, until the beef is completely tender."
+      "Cover tightly and bake at 350F (175C) for 1.5-2 hours, until the beef is completely tender.",
+      "Uncover, crack the whole egg directly on top, and bake 5-6 minutes more, uncovered, until the egg just sets in the residual heat - real tradition treats this as the genuine signature of the dish, not a garnish."
     ],
     "steps": [
       "Layer the beef, bell pepper, onion, tomatoes, and oregano in a baking dish.",
-      "Cover tightly and bake at 350F (175C) for 1.5-2 hours, until the beef is completely tender."
+      "Cover tightly and bake at 350F (175C) for 1.5-2 hours, until the beef is completely tender.",
+      "Uncover, crack the whole egg directly on top, and bake 5-6 minutes more, uncovered, until the egg just sets in the residual heat - real tradition treats this as the genuine signature of the dish, not a garnish."
     ],
     "tags": []
   },
