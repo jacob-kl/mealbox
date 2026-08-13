@@ -1,510 +1,131 @@
 [
   {
-    "name": "Serbian Eggs with Peppers",
-    "cuisine": "serbian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 25,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Soften the pepper and onion in the oil.",
-      "Scramble in the eggs, cooking gently until just set."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 2.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the pepper and onion in the oil over medium heat, 6-7 minutes.",
-      "Scramble in the eggs and pepper, cooking gently, stirring often, until just set."
-    ],
-    "description": "A simple, everyday egg breakfast."
-  },
-  {
-    "name": "Serbian Cheese and Bread",
-    "cuisine": "serbian",
-    "meal_type": "breakfast",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 30,
-        "note": "crumbled, standing in for sirene"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Butter the bread and top with the cheese."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 2.25,
-        "note": "slices"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 35,
-        "note": "crumbled, standing in for sirene"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 9,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Butter the bread generously, top with the crumbled cheese, and finish with a little black pepper.",
-      "Sirene, a brined white cheese, is more common than feta specifically in Serbia, but the two are close cousins."
-    ],
-    "description": "A simple cheese and bread snack."
-  },
-  {
-    "name": "Serbian Oat Porridge",
-    "cuisine": "serbian",
-    "meal_type": "breakfast",
-    "course": "complete",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Simmer the oats in the milk for 6-8 minutes, stirring, until thick.",
-      "Top with the honey."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "365 (Whole Foods) Old-Fashioned Rolled Oats",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Simmer the oats in the milk and cinnamon over medium-low heat, stirring often, 8-10 minutes, until thick and creamy.",
-      "Top generously with the honey."
-    ],
-    "description": "A simple breakfast porridge."
-  },
-  {
-    "name": "Serbian Ajvar (Roasted Pepper Relish)",
-    "cuisine": "serbian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 150,
-        "note": "roasted and peeled"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tsp"
-      }
-    ],
-    "steps": [
-      "Roast the peppers at 450F for 20-25 minutes until charred, then peel and mash.",
-      "Mix in the garlic, oil, and lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 170,
-        "note": "roasted and peeled"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.125,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Roast the peppers at 450F (230C) for 22-28 minutes, turning occasionally, until well charred all over.",
-      "Peel, seed, and mash the peppers, then mix in the garlic, oil, lime juice, and black pepper."
-    ],
-    "description": "Ajvar, made in huge batches every autumn in Serbian households, is eaten as a relish, a spread, or a side to nearly any grilled meat."
-  },
-  {
-    "name": "Serbian Sarma (Cabbage Rolls)",
-    "cuisine": "serbian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 120,
-        "note": "leaves separated"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 180,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 55,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Blanch the cabbage leaves.",
-      "Roll with the rice and beef mixture inside.",
-      "Simmer in the tomatoes and water, covered, 40-45 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Sauerkraut, canned, solids and liquids",
-        "qty": 150,
-        "note": "whole leaves if available, standing in for whole sour/pickled cabbage leaves"
-      },
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Pork, fresh, belly, raw",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "White rice (dry)",
-        "qty": 35,
-        "note": ""
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 30,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 0.75,
-        "note": ""
-      }
-    ],
-    "steps_detailed": [
-      "Mix the raw rice with the beef, pork, and onion.",
-      "Wrap portions of the filling in the sauerkraut leaves (or shredded sauerkraut pressed around the filling if whole leaves aren't available), rolling snugly.",
-      "Pack into a pot, pour the tomatoes and a splash of the sauerkraut's own brine over, cover, and simmer 45-50 minutes until the rice is fully cooked and the rolls are tender."
-    ],
-    "description": "Real Serbian sarma is built on sour, fermented cabbage leaves specifically, not fresh cabbage - that tang running through the whole dish, distinct from the sweeter, plainer flavor fresh cabbage gives, is what actually defines sarma against a generic stuffed-cabbage-roll recipe. A mix of beef and pork is also more traditional than beef alone."
-  },
-  {
-    "name": "Serbian Chickpea Stew",
-    "cuisine": "serbian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 150,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 60,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Soften the onion.",
-      "Add the chickpeas, tomatoes, and paprika, and simmer 15-18 minutes."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 170,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "Diced tomatoes (canned)",
-        "qty": 70,
-        "note": ""
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Soften the onion and garlic in a little oil, 5-6 minutes.",
-      "Add the chickpeas, tomatoes, and paprika, and simmer 16-20 minutes, mashing some of the chickpeas to thicken."
-    ],
-    "description": "A simple chickpea stew."
-  },
-  {
-    "name": "Serbian Pepper and Cheese Plate",
-    "cuisine": "serbian",
-    "meal_type": "lunch",
-    "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 1,
-        "note": "whole, sliced"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 50,
-        "note": "standing in for sirene"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Slice the pepper and serve with the cheese and a drizzle of oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 1.25,
-        "note": "whole, sliced"
-      },
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 60,
-        "note": "standing in for sirene"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Slice the pepper, drizzle the cheese with the oil, and season with black pepper."
-    ],
-    "description": "A simple pepper and cheese plate, roasted peppers being a defining Serbian flavor."
-  },
-  {
-    "name": "Serbian Cevapi (Grilled Meat Rolls)",
+    "name": "Serbian Kara\u0111or\u0111eva \u0160nicla",
     "cuisine": "serbian",
     "meal_type": "dinner",
     "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "Kara\u0111or\u0111eva \u0161nicla has a real, specific origin - invented in 1956 by chef Milovan 'Mi\u0107a' Stojanovi\u0107, who received a surprise order for Chicken Kiev but lacked chicken or butter, and improvised with veal and sour cream instead; the guest turned out to be President Tito's daughter-in-law, and the dish became a national icon. Real presentation arranges lemon and red pepper specifically to reflect the colors of the Serbian national emblem, not just as garnish.",
+    "ingredients_full": [
       {
-        "ingredient": "Ground beef 90/10",
-        "qty": 190,
-        "note": "formed into small rolls"
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin, standing in for veal"
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.5,
-        "note": "minced"
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp, standing in for real kajmak"
       },
       {
-        "ingredient": "Yellow onion",
-        "qty": 35,
-        "note": "chopped"
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.375,
-        "note": "tsp"
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "cup, for frying"
+      },
+      {
+        "ingredient": "Lemons, raw, without peel",
+        "qty": 0.5,
+        "note": "for serving"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.25,
+        "note": "tsp, for serving"
       }
     ],
-    "steps": [
-      "Mix the beef with the garlic, onion, and pepper, and shape into small finger-shaped rolls.",
-      "Grill or pan-fry, 8-10 minutes, turning, until cooked through."
+    "ingredients": [
+      {
+        "ingredient": "Chicken breast",
+        "qty": 200,
+        "note": "pounded thin, standing in for veal"
+      },
+      {
+        "ingredient": "Cream, sour, cultured",
+        "qty": 3,
+        "note": "tbsp, standing in for real kajmak"
+      },
+      {
+        "ingredient": "All-purpose flour",
+        "qty": 25,
+        "note": ""
+      },
+      {
+        "ingredient": "Eggs (large)",
+        "qty": 1,
+        "note": "beaten"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Original Bread Crumbs, Original",
+        "qty": 45,
+        "note": ""
+      },
+      {
+        "ingredient": "Vegetable oil",
+        "qty": 2,
+        "note": "cup, for frying"
+      },
+      {
+        "ingredient": "Lemons, raw, without peel",
+        "qty": 0.5,
+        "note": "for serving"
+      },
+      {
+        "ingredient": "365 (Whole Foods) Paprika",
+        "qty": 0.25,
+        "note": "tsp, for serving"
+      }
     ],
+    "steps_detailed": [
+      "Pound the chicken thin and even between plastic wrap.",
+      "Spread the sour cream generously in the center, then roll up tightly, tucking in the sides.",
+      "Dredge in the flour, then the egg, then the breadcrumbs, coating fully.",
+      "Fry in the oil, turning, 4-5 minutes per side, until deeply golden and cooked through.",
+      "Serve with the lemon and a dusting of paprika arranged together - real tradition intends these to echo the colors of the Serbian emblem."
+    ],
+    "steps": [
+      "Pound the chicken thin and even between plastic wrap.",
+      "Spread the sour cream generously in the center, then roll up tightly, tucking in the sides.",
+      "Dredge in the flour, then the egg, then the breadcrumbs, coating fully.",
+      "Fry in the oil, turning, 4-5 minutes per side, until deeply golden and cooked through.",
+      "Serve with the lemon and a dusting of paprika arranged together - real tradition intends these to echo the colors of the Serbian emblem."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Serbian Pljeskavica",
+    "cuisine": "serbian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Pljeskavica, a real grilled meat patty often called the Serbian burger, real technique kneads the meat well and lets it rest so it holds together on the grill without falling apart.",
     "ingredients_full": [
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 210,
-        "note": "formed into small rolls"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.75,
-        "note": "minced"
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
-        "note": "chopped"
+        "note": "grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
       },
       {
         "ingredient": "Black pepper (ground)",
@@ -512,35 +133,287 @@
         "note": "tsp"
       },
       {
-        "ingredient": "Baking powder",
-        "qty": 0.125,
+        "ingredient": "Salt, table",
+        "qty": 0.5,
         "note": "tsp"
       }
     ],
-    "steps_detailed": [
-      "Mix the beef thoroughly with the garlic, onion, pepper, and baking powder, and shape into small finger-shaped rolls.",
-      "Grill or pan-fry over medium-high heat, 9-11 minutes, turning, until well browned and cooked through.",
-      "Cevapi, grilled minced-meat rolls, are Serbia's most iconic street food, usually served with raw onion and a side of ajvar."
-    ],
-    "description": "\u0106evapi, grilled minced-meat rolls, is considered close to Serbia's national dish."
-  },
-  {
-    "name": "Serbian Pljeskavica (Meat Patty)",
-    "cuisine": "serbian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
     "ingredients": [
       {
         "ingredient": "Ground beef 90/10",
-        "qty": 210,
+        "qty": 200,
         "note": ""
       },
       {
         "ingredient": "Yellow onion",
         "qty": 40,
         "note": "grated"
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Black pepper (ground)",
+        "qty": 0.5,
+        "note": "tsp"
+      },
+      {
+        "ingredient": "Salt, table",
+        "qty": 0.5,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Mix the beef with the onion, garlic, pepper, and salt, kneading by hand 5 minutes until cohesive.",
+      "Shape into a wide, flat patty and let rest 15 minutes.",
+      "Grill over medium-high heat, turning once, 5-6 minutes per side, until well charred and cooked through."
+    ],
+    "steps": [
+      "Mix the beef with the onion, garlic, pepper, and salt, kneading by hand 5 minutes until cohesive.",
+      "Shape into a wide, flat patty and let rest 15 minutes.",
+      "Grill over medium-high heat, turning once, 5-6 minutes per side, until well charred and cooked through."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Serbian Ajvar",
+    "cuisine": "serbian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Ajvar, a roasted red pepper and eggplant relish, is one of Serbia's most essential condiments, real technique roasting both vegetables until the skins char fully for genuine smoky depth.",
+    "ingredients_full": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 200,
+        "note": "red"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Bell pepper",
+        "qty": 200,
+        "note": "red"
+      },
+      {
+        "ingredient": "Eggplant, raw",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Garlic clove",
+        "qty": 1,
+        "note": "minced"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Vinegar, distilled",
+        "qty": 1,
+        "note": "tsp"
+      }
+    ],
+    "steps_detailed": [
+      "Roast the bell pepper and eggplant at 450F (230C) for 25-30 minutes, turning once, until the skins are fully charred and blistered.",
+      "Let cool slightly, then peel off the skins.",
+      "Blend or mash with the garlic, olive oil, and vinegar."
+    ],
+    "steps": [
+      "Roast the bell pepper and eggplant at 450F (230C) for 25-30 minutes, turning once, until the skins are fully charred and blistered.",
+      "Let cool slightly, then peel off the skins.",
+      "Blend or mash with the garlic, olive oil, and vinegar."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Serbian \u0160opska Salata",
+    "cuisine": "serbian",
+    "meal_type": "lunch",
+    "course": "side",
+    "description": "\u0160opska salata, Serbia's real village salad, is genuinely built on ripe tomatoes and real grated cheese falling as a light, fluffy blanket over the top, real technique using a box grater rather than crumbling the cheese by hand.",
+    "ingredients_full": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 50,
+        "note": "grated on a box grater"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 120,
+        "note": ""
+      },
+      {
+        "ingredient": "Cucumber, peeled, raw",
+        "qty": 100,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Bell pepper",
+        "qty": 60,
+        "note": ""
+      },
+      {
+        "ingredient": "Red onion",
+        "qty": 30,
+        "note": "diced"
+      },
+      {
+        "ingredient": "Cheese, feta",
+        "qty": 50,
+        "note": "grated on a box grater"
+      },
+      {
+        "ingredient": "Olive oil",
+        "qty": 1.5,
+        "note": "tbsp"
+      }
+    ],
+    "steps_detailed": [
+      "Toss the tomatoes, cucumber, bell pepper, and onion with the olive oil.",
+      "Grate the feta directly over the top, so it falls in light, fluffy shreds forming a real blanket over the vegetables."
+    ],
+    "steps": [
+      "Toss the tomatoes, cucumber, bell pepper, and onion with the olive oil.",
+      "Grate the feta directly over the top, so it falls in light, fluffy shreds forming a real blanket over the vegetables."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Serbian Sarma",
+    "cuisine": "serbian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Sarma, cabbage rolls stuffed with rice and meat, are a genuine Serbian staple shared with the wider Balkans, real technique using well-softened, pliable cabbage leaves so they roll without tearing.",
+    "ingredients_full": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 250,
+        "note": "leaves separated"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Green cabbage",
+        "qty": 250,
+        "note": "leaves separated"
+      },
+      {
+        "ingredient": "Ground beef 90/10",
+        "qty": 150,
+        "note": ""
+      },
+      {
+        "ingredient": "White rice (dry)",
+        "qty": 40,
+        "note": ""
+      },
+      {
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
+      },
+      {
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
+      }
+    ],
+    "steps_detailed": [
+      "Blanch the cabbage leaves 3-4 minutes until fully pliable.",
+      "Mix the raw rice with the beef and onion.",
+      "Roll a spoonful of the filling tightly into each cabbage leaf.",
+      "Arrange in a pot, cover with the tomatoes and enough water to just cover, and simmer 40-45 minutes until the rice is tender."
+    ],
+    "steps": [
+      "Blanch the cabbage leaves 3-4 minutes until fully pliable.",
+      "Mix the raw rice with the beef and onion.",
+      "Roll a spoonful of the filling tightly into each cabbage leaf.",
+      "Arrange in a pot, cover with the tomatoes and enough water to just cover, and simmer 40-45 minutes until the rice is tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Serbian Grilled Fish",
+    "cuisine": "serbian",
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "Grilled fish rubbed with garlic and lemon, reflecting Serbia's Danube and Sava River fishing tradition.",
+    "ingredients_full": [
+      {
+        "ingredient": "Fish, tilapia, raw",
+        "qty": 200,
+        "note": ""
       },
       {
         "ingredient": "Garlic clove",
@@ -548,124 +421,11 @@
         "note": "minced"
       },
       {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": ""
+        "ingredient": "Lemon juice, raw",
+        "qty": 1.5,
+        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Mix the beef with the onion, garlic, and paprika, and shape into a wide, flat patty.",
-      "Grill or pan-fry, 5-6 minutes per side, until cooked through."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Ground beef 90/10",
-        "qty": 230,
-        "note": ""
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "grated"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1.75,
-        "note": "minced"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.25,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Mix the beef thoroughly with the onion, garlic, paprika, and pepper, and shape into a wide, flat patty.",
-      "Grill or pan-fry over medium-high heat, 6-7 minutes per side, until well browned and cooked through.",
-      "Pljeskavica, a large spiced patty often served in bread, is sometimes called the Balkan burger."
-    ],
-    "description": "Pljeskavica, a large grilled meat patty, sometimes called the Serbian hamburger, though it predates that comparison by generations."
-  },
-  {
-    "name": "Serbian Beef and Pepper Stew",
-    "cuisine": "serbian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 190,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 90,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 40,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Brown the beef with the onion and paprika.",
-      "Add the pepper and 1.5 cups water, and simmer 30-35 minutes until tender."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
-        "qty": 210,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 100,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Yellow onion",
-        "qty": 45,
-        "note": "chopped"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.4,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Brown the beef with the onion, garlic, and paprika over medium-high heat, 9-11 minutes.",
-      "Add the pepper and 1.75 cups water, and simmer 32-38 minutes until fully tender."
-    ],
-    "description": "A simple beef and pepper stew, peppers being a defining Balkan flavor."
-  },
-  {
-    "name": "Serbian Baked Fish with Peppers",
-    "cuisine": "serbian",
-    "meal_type": "dinner",
-    "course": "complete",
-    "tags": [
-      "fish"
-    ],
-    "base_servings": 1,
     "ingredients": [
       {
         "ingredient": "Fish, tilapia, raw",
@@ -673,624 +433,160 @@
         "note": ""
       },
       {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 80,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the pepper with the oil and roast alongside the fish at 400F for 15-18 minutes until the fish is cooked through.",
-      "Finish with the lime juice."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Fish, tilapia, raw",
-        "qty": 220,
-        "note": ""
-      },
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 90,
-        "note": "sliced"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
         "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the pepper with the oil and garlic and roast alongside the fish at 400F (200C) for 16-20 minutes until the fish flakes easily and the pepper is tender.",
-      "Finish with the lime juice."
-    ],
-    "description": "A simple baked fish with peppers, roasted peppers being a defining Balkan flavor."
-  },
-  {
-    "name": "Serbian Ajvar and Bread Snack",
-    "cuisine": "serbian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 100,
-        "note": "roasted, peeled, and mashed"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Roast the pepper at 450F for 20 minutes until charred, then peel and mash with the oil.",
-      "Spread over the bread."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Peppers, sweet, red, raw",
-        "qty": 115,
-        "note": "roasted, peeled, and mashed"
-      },
-      {
-        "ingredient": "Bimbo Classic Rye Organic Bread, Classic Rye",
-        "qty": 1.25,
-        "note": "slice"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Roast the pepper at 450F (230C) for 22-25 minutes until well charred, then peel, mash, and mix with the oil and garlic.",
-      "Spread generously over the bread."
-    ],
-    "description": "Ajvar spread on bread, a simple, common Serbian snack."
-  },
-  {
-    "name": "Serbian Cheese and Pepper Snack",
-    "cuisine": "serbian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 40,
-        "note": "standing in for sirene"
-      },
-      {
-        "ingredient": "Peppers, sweet, yellow, raw",
-        "qty": 1,
-        "note": "whole, sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
-        "note": ""
-      }
-    ],
-    "steps": [
-      "Serve the cheese with the sliced pepper and a light spread of butter."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cheese, feta",
-        "qty": 45,
-        "note": "standing in for sirene"
-      },
-      {
-        "ingredient": "Peppers, sweet, yellow, raw",
-        "qty": 1.25,
-        "note": "whole, sliced"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 7,
-        "note": ""
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Serve the cheese with the sliced pepper, a light spread of butter, and a little black pepper."
-    ],
-    "description": "A simple cheese and pepper snack."
-  },
-  {
-    "name": "Serbian Chickpea Snack",
-    "cuisine": "serbian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 120,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.5,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tbsp"
-      }
-    ],
-    "steps": [
-      "Toss the chickpeas with the cumin, lime juice, and oil."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
-        "qty": 135,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cumin",
-        "qty": 0.625,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 0.5,
-        "note": "minced"
-      }
-    ],
-    "steps_detailed": [
-      "Toss the chickpeas with the cumin, lime juice, oil, and garlic.",
-      "Let sit 10 minutes so the flavors meld before serving."
-    ],
-    "description": "A simple spiced chickpea snack."
-  },
-  {
-    "name": "Serbian Cabbage Slaw",
-    "cuisine": "serbian",
-    "meal_type": "snack",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "vegan",
-      "gluten-free",
-      "no-cook"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 90,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
         "qty": 1.5,
-        "note": "tbsp"
+        "note": "minced"
       },
       {
-        "ingredient": "Lime juice",
+        "ingredient": "Lemon juice, raw",
         "qty": 1.5,
         "note": "tbsp"
       }
     ],
-    "steps": [
-      "Toss the cabbage with the oil and lime juice.",
-      "Let sit 10 minutes so it softens slightly."
-    ],
-    "ingredients_full": [
-      {
-        "ingredient": "Cabbage, raw",
-        "qty": 100,
-        "note": "finely shredded"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Lime juice",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
     "steps_detailed": [
-      "Toss the cabbage with the oil, lime juice, and pepper.",
-      "Let sit 15 minutes so it softens slightly before serving."
-    ],
-    "description": "A simple cabbage slaw."
-  },
-  {
-    "name": "Serbian Honey Cake",
-    "cuisine": "serbian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 15,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1,
-        "note": ""
-      }
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
     "steps": [
-      "Cream the butter and honey, beat in the egg, then fold in the flour.",
-      "Bake at 350F for 20-22 minutes until a skewer comes out clean."
+      "Rub the fish with the garlic and lemon juice, and let sit 10 minutes.",
+      "Grill or broil, 4-5 minutes per side, until just cooked through."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 65,
-        "note": ""
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 2.5,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 18,
-        "note": ""
-      },
-      {
-        "ingredient": "Eggs (large)",
-        "qty": 1.25,
-        "note": ""
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Baking powder",
-        "qty": 0.5,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter and honey together until light, then beat in the egg.",
-      "Fold in the flour, cinnamon, and baking powder, pour into a small lined pan, and bake at 350F (175C) for 22-26 minutes until a skewer comes out clean."
-    ],
-    "description": "A simple honey cake."
+    "tags": []
   },
   {
-    "name": "Serbian Rice Pudding",
+    "name": "Serbian Roasted Walnuts",
     "cuisine": "serbian",
-    "meal_type": "dessert",
+    "meal_type": "snack",
     "course": "complete",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
+    "description": "A simple roasted walnut snack, common across Serbia.",
+    "ingredients_full": [
       {
-        "ingredient": "White rice (dry)",
+        "ingredient": "Walnuts",
         "qty": 40,
         "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.75,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.125,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.5,
-        "note": "tbsp"
       }
     ],
-    "steps": [
-      "Simmer the rice in the milk with the cinnamon and honey for 25-30 minutes until thick and creamy."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "White rice (dry)",
-        "qty": 45,
-        "note": ""
-      },
-      {
-        "ingredient": "Whole milk (generic)",
-        "qty": 0.9,
-        "note": "cup"
-      },
-      {
-        "ingredient": "Ground cinnamon",
-        "qty": 0.1875,
-        "note": "tsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 5,
+        "ingredient": "Walnuts",
+        "qty": 40,
         "note": ""
       }
     ],
     "steps_detailed": [
-      "Simmer the rice in the milk with the cinnamon, honey, and butter over low heat, stirring often, 28-32 minutes, until thick and creamy."
-    ],
-    "description": "A simple rice pudding."
-  },
-  {
-    "name": "Serbian Walnut Cookies",
-    "cuisine": "serbian",
-    "meal_type": "dessert",
-    "course": "side",
-    "tags": [
-      "vegetarian"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 50,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 25,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.5,
-        "note": "tbsp"
-      }
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
     ],
     "steps": [
-      "Cream the butter and sugar, mix in the flour and walnuts, and shape into small rounds.",
-      "Bake at 350F for 12-15 minutes until lightly golden."
+      "Toast the walnuts in a dry pan over medium heat, stirring often, 4-5 minutes, until fragrant."
     ],
-    "ingredients_full": [
-      {
-        "ingredient": "All-purpose flour",
-        "qty": 55,
-        "note": ""
-      },
-      {
-        "ingredient": "Nuts, walnuts, english",
-        "qty": 30,
-        "note": "finely chopped"
-      },
-      {
-        "ingredient": "Butter, salted",
-        "qty": 28,
-        "note": "softened"
-      },
-      {
-        "ingredient": "Granulated sugar",
-        "qty": 1.75,
-        "note": "tbsp"
-      },
-      {
-        "ingredient": "Honey",
-        "qty": 0.5,
-        "note": "tbsp"
-      }
-    ],
-    "steps_detailed": [
-      "Cream the butter, sugar, and honey until light, then mix in the flour and walnuts until it forms a soft dough.",
-      "Shape into small rounds and bake at 350F (175C) for 13-16 minutes until lightly golden."
-    ],
-    "description": "Simple walnut cookies, a common Serbian sweet."
+    "tags": []
   },
   {
-    "name": "Serbian Paprika Butter Sauce",
+    "name": "Serbian Beef and Vegetable Stew",
     "cuisine": "serbian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Butter, salted",
-        "qty": 20,
-        "note": "melted"
-      },
-      {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1,
-        "note": ""
-      },
-      {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      }
-    ],
-    "steps": [
-      "Whisk the melted butter with the paprika and garlic."
-    ],
+    "meal_type": "dinner",
+    "course": "complete",
+    "description": "A simple, hearty beef and vegetable stew, common Serbian home cooking outside the specific named dishes.",
     "ingredients_full": [
       {
-        "ingredient": "Butter, salted",
-        "qty": 25,
-        "note": "melted"
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
       },
       {
-        "ingredient": "365 (Whole Foods) Paprika",
-        "qty": 1.25,
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
-      }
-    ],
-    "steps_detailed": [
-      "Whisk the melted butter with the paprika, garlic, and pepper - good spooned over grilled meat or bread."
-    ],
-    "description": "A simple paprika butter sauce."
-  },
-  {
-    "name": "Serbian Garlic Yogurt Sauce",
-    "cuisine": "serbian",
-    "meal_type": "sauce",
-    "course": "side",
-    "tags": [
-      "vegetarian",
-      "gluten-free"
-    ],
-    "base_servings": 1,
-    "ingredients": [
-      {
-        "ingredient": "Yogurt, plain, whole milk",
+        "ingredient": "Diced tomatoes (canned)",
         "qty": 100,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1,
-        "note": "minced"
-      },
-      {
-        "ingredient": "Vegetable oil",
-        "qty": 1,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
-    "steps": [
-      "Whisk the yogurt, garlic, and oil together."
-    ],
-    "ingredients_full": [
+    "ingredients": [
       {
-        "ingredient": "Yogurt, plain, whole milk",
-        "qty": 115,
+        "ingredient": "Flank/sirloin steak",
+        "qty": 200,
+        "note": "cubed"
+      },
+      {
+        "ingredient": "Carrot",
+        "qty": 60,
         "note": ""
       },
       {
-        "ingredient": "Garlic clove",
-        "qty": 1.25,
-        "note": "minced"
+        "ingredient": "Yukon gold potato",
+        "qty": 80,
+        "note": "cubed"
       },
       {
-        "ingredient": "Vegetable oil",
-        "qty": 1.25,
-        "note": "tsp"
+        "ingredient": "Diced tomatoes (canned)",
+        "qty": 100,
+        "note": ""
       },
       {
-        "ingredient": "Black pepper (ground)",
-        "qty": 0.0625,
-        "note": "tsp"
+        "ingredient": "Yellow onion",
+        "qty": 40,
+        "note": ""
       }
     ],
     "steps_detailed": [
-      "Whisk the yogurt, garlic, oil, and pepper together into a cool, sharp sauce - good alongside cevapi or pljeskavica."
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
     ],
-    "description": "A simple garlic-yogurt sauce."
+    "steps": [
+      "Brown the beef with the onion, 8-9 minutes.",
+      "Add the carrot, potato, and tomatoes, and simmer 30-35 minutes until tender."
+    ],
+    "tags": []
+  },
+  {
+    "name": "Serbian Tartar Sauce",
+    "cuisine": "serbian",
+    "meal_type": "sauce",
+    "course": "complete",
+    "description": "Tartar sauce, the real traditional accompaniment to Kara\u0111or\u0111eva \u0161nicla, made here on its own for use with other fried dishes.",
+    "ingredients_full": [
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Pickles, cucumber, dill or kosher dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient": "Mayonnaise",
+        "qty": 3,
+        "note": "tbsp"
+      },
+      {
+        "ingredient": "Pickles, cucumber, dill or kosher dill",
+        "qty": 1,
+        "note": "tbsp, chopped"
+      }
+    ],
+    "steps_detailed": [
+      "Mix everything together and chill before serving."
+    ],
+    "steps": [
+      "Mix everything together and chill before serving."
+    ],
+    "tags": []
   }
 ]
